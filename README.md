@@ -51,8 +51,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [MedRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 - [CNKI](http://cajn.cnki.net/gzbd/brief/Default.aspx)
 - [超星·疫情防控公益知识库](http://lib-yq.museum.chaoxing.com/html/yqknowledge/)
-- [Github: Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
-- [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
 
 ## University & Institute & Company
 - [The Centre for the Mathematical Modelling of Infectious Diseases at the London School of Hygiene & Tropical Medicine](https://cmmid.github.io/)
@@ -68,6 +66,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国科协国际技术转移](http://cast.ciccst.org.cn/)
 - [全球专家学者汇聚，新冠病毒数据全球研究实验云平台正式启动](https://mp.weixin.qq.com/s/XNeu22bvvvGYMBgHRzy4yw)
 - [Johns Hopkins University & Medicine CORONAVIRUS RESOURCE CENTER](https://coronavirus.jhu.edu/)
+- [Github: Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
+- [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
 
 ## WHO, CDC and other correlated department
 - [WHO Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
