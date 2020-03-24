@@ -35,9 +35,6 @@ Table of Contents
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
-
-
-
 # Resources hub
 ## Journal
 - [Lancet](https://www.thelancet.com/coronavirus?dgcid=kr_pop-up_tlcoronavirus20)
@@ -147,7 +144,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [美国新冠病毒检测出现严重漏洞，官方统计病例是否准确，疾控与食药监紧急改变政策｜《科学》新闻](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NzQ2Mg==&mid=2247489792&idx=1&sn=7989e682ff6c03b0945562caa788ebdf&chksm=eb1132b9dc66bbaf16070dc3ed8477544a544b1f03ff8094352f47e8675ef228b486c4cfa6f5&mpshare=1&scene=1&srcid=&sharer_sharetime=1584910087312&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [美国承认官方新冠检测试剂无效，核酸试剂到底有多复杂？](https://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651046042&idx=1&sn=da369585cac4c75c1d2c05a87becec2f&chksm=8b844ae8bcf3c3fe7b0ca49b88be6a964ac6957a3c3bad75194279b5b5cfb6505cb1089717b4&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909992962&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [制作中药的蝙蝠粪便，可能是新冠病毒的源头之一；新冠肺炎康复患者仍可能携带病毒 | 领研网24小时热门论文](https://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651690471&idx=1&sn=431468e7ad58922c55430017810a6458&chksm=8bbe3802bcc9b114fd97d0749d464068cfeafcf2d306262298e3908fbf98eb27b501f1527d32&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909915847&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [全球感染人数超9万，世卫组织发布中国考察报告 | 新冠肺炎最新动态](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDY0MQ==&mid=2652567957&idx=3&sn=099d05f5f2d31cd6d403d2c620c5b977&chksm=80cd571bb7bade0dc8c653ef9948370f1ad449a43cc58e04d1a834ae906e2d62c78be81e809f&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909872128&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd\)
+- [全球感染人数超9万，世卫组织发布中国考察报告 | 新冠肺炎最新动态](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDY0MQ==&mid=2652567957&idx=3&sn=099d05f5f2d31cd6d403d2c620c5b977&chksm=80cd571bb7bade0dc8c653ef9948370f1ad449a43cc58e04d1a834ae906e2d62c78be81e809f&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909872128&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [WHO：过去一天中国境外报告病例数是中国境内的 9 倍  | 科研圈日报](https://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651690480&idx=1&sn=680ea9495815140a5973a66cccf08378&chksm=8bbe3815bcc9b103be3102179c143c118daaece5858be60338fa68fd59b6b15e4f0f3c10dbf8&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909851985&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [世卫代表团：中国的积极举措有效限制了新冠病毒的传播，但这些措施在其他国家未必适用｜《科学》新闻](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NzQ2Mg==&mid=2247489797&idx=1&sn=3f50d3758d349b5cce13ad2285fa3e6b&chksm=eb1132bcdc66bbaa879bd629d20487e1a21d81481b1f446aced362184666bd29747b86de02c4&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909824724&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [卫健委发布新冠肺炎第七版诊疗方案，新增抗体诊断标准｜科研圈日报](https://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651690505&idx=1&sn=ea3e1e7cd88152e2b2043b2d5a5f6b58&chksm=8bbe3becbcc9b2fa571812159d265b55b2c82a4030ed613089bb0bdff736225590155229882e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584909541339&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1020,6 +1017,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [website for mapping covid19](https://github.com/mapcovid19/mapcovid19.github.io)
 - [geodacovid19/geodacovid19.github.io](https://github.com/geodacovid19/geodacovid19.github.io)
 - [GeoDaCenter/covid](https://github.com/GeoDaCenter/covid)
+- [Visualizing the evolution of a logistic curve fit on available COVID-19 data over time](https://github.com/michetonu/covid19-best-fit-evolution)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
@@ -1122,7 +1120,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [科技部关于发布新型冠状病毒(2019-nCoV)现场快速检测产品研发应急项目申报指南的通知](https://mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247514753&idx=2&sn=b2b8d5e49c79df4d3da7e3e7fb4a3b0d&chksm=ec060641db718f574102dd8e969469995dd8bc81afe0118df4144d401877ef52a763f6357834&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522114323&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [重大疫情的环境安全与次生风险防控重大项目2020年度项目指南](http://www.nsfc.gov.cn/publish/portal0/tab568/info77534.htm)
 
-# [ISLE(International Initiative on Spatial Lifecourse Epidemiology)](https://mp.weixin.qq.com/s?__biz=MzU5Njk2NjI5OQ==&mid=100000007&idx=1&sn=22a079e6bf2c7d7ffc69b221d38e54fe&chksm=7e5beff3492c66e59a7d034aef8e1b999e3e861faa43164f4ae8d3431a4514107f52da37e2e2&mpshare=1&scene=1&srcid=&sharer_sharetime=1584355634880&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+# ISLE
+- (The introduction to the ISLEInternational Initiative on Spatial Lifecourse Epidemiology)](https://mp.weixin.qq.com/s?__biz=MzU5Njk2NjI5OQ==&mid=100000007&idx=1&sn=22a079e6bf2c7d7ffc69b221d38e54fe&chksm=7e5beff3492c66e59a7d034aef8e1b999e3e861faa43164f4ae8d3431a4514107f52da37e2e2&mpshare=1&scene=1&srcid=&sharer_sharetime=1584355634880&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [倡议书 | 面对新型冠状病毒肺炎：社区卫生服务中心（家庭医生/基层党群）行动起来！](http://mp.weixin.qq.com/s?__biz=MzU5Njk2NjI5OQ==&mid=2247483721&idx=1&sn=ad7b73d25bdd03402eb2f8f8feb5e68f&chksm=fe5befbdc92c66ab8384fdf3c81b86ddeb5217e4daf3e5414daf5b2315b9195f716f078c5134&mpshare=1&scene=1&srcid=&sharer_sharetime=1585061836431&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [新闻快讯 | “请大家远程办公！”](https://mp.weixin.qq.com/s?__biz=MzU5Njk2NjI5OQ==&mid=2247483747&idx=1&sn=4bd52d7e47a3a4bc5008c6f2e12989b1&chksm=fe5bef97c92c6681b886ea6fb0d9d2e768f1a2a1dfcc37481df915737c399242cb803a2e9991&mpshare=1&scene=1&srcid=&sharer_sharetime=1584905566510&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [‘My main advice: work from home’](https://www.utoday.nl/news/68032/my-main-advice-work-from-home)
