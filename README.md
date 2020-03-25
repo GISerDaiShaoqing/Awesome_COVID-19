@@ -68,6 +68,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Johns Hopkins University & Medicine CORONAVIRUS RESOURCE CENTER](https://coronavirus.jhu.edu/)
 - [Github: Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 - [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
+- [Github：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV)
 
 ## WHO, CDC and other correlated department
 - [WHO Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
@@ -285,6 +286,18 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [“隔离”日志｜为什么柏林人还不戴口罩？](https://mp.weixin.qq.com/s/1Ex0SCqB9zcwdsIdlyXVkQ)
 - [“COVID-19”科研动态监测每日快报（3月24日）【中国科讯】](https://mp.weixin.qq.com/s/I7pwWfCQRuOK2rPL4u2lEA)
 - [【有奖调查】新冠肺炎个人预防行为调查（呼吸道礼仪篇）](https://mp.weixin.qq.com/s/smiTX-9s1gTjuMXpQZwshw)
+- [全球到处作妖，只有中国才是全世界最令人安心的国家](https://mp.weixin.qq.com/s/GnN4bhEM-pK1kwSBqo53pA)
+- [今日新增80死亡病例,十问荷兰防疫:无治愈?死亡率高?不集中隔离?不戴口罩](https://mp.weixin.qq.com/s/D6Zl0cCW-JviPIVOWQELpQ)
+- [疫情下的荷兰小家：配合政府做好自己！不盲从，却依然抱有信心!](https://mp.weixin.qq.com/s/OAG-KyNPDrRjNnQeGp0GQg)
+- [独家丨寻找华南海鲜市场第一个感染者](https://mp.weixin.qq.com/s/P3TZx9JAi7G78ruj9nddsg)
+- [人民网专访张忠德院长：中西医结合治疗的独特方案，让世界更了解中医](https://mp.weixin.qq.com/s/3PAOFFCr946Nv-nkh0_VmQ)
+- [“女王，无恙”](https://mp.weixin.qq.com/s/uw_mZEgLXVd__SmftpNPcg)
+- [有意大利人，“已经不相信官方数字了”](https://mp.weixin.qq.com/s/jzX0t6KX3awv4oWaps9s1w)
+- [外卖小哥登时代周刊：荣耀归所有坚守者](https://mp.weixin.qq.com/s/bn6lv2wkVFE9ox1ZbetkVQ)
+- [外交部回应特朗普“改口”](https://mp.weixin.qq.com/s/AURhpud2vNImTDPwti1E2w)
+- [6412｜压抑的疫情下总有令人露出笑意的新闻](https://mp.weixin.qq.com/s/7uni5GmlP2m6mETrqmMFXw)
+- [欧盟委员会希望通过电信数据追踪数百万人来抗击病毒](https://mp.weixin.qq.com/s/Dz4cRQeiKuPyBrSFTaIGsw)
+- [新冠疫苗全球竞赛，谁是终结疾病的屠龙刀？](https://mp.weixin.qq.com/s/bqfmH6D73RbDMtzWsLQ3FA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -677,6 +690,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [人流大数据：境外疫情输入风险](https://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662171&idx=2&sn=f3c632b8780bc2226c2ae6331c19976c&chksm=bedda94d89aa205b045c4bae05d98d79102a0920a99e87a0a4a935103684119a939edb0f75d3&mpshare=1&scene=1&srcid=&sharer_sharetime=1584908450242&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [武大研究：糖尿病患者感染新冠死亡率更高](https://mp.weixin.qq.com/s/zr1VgF3Hv0KPJsZ83gm_4A)
 - [Diabetic Patients with COVID-19, Characteristics and Outcome: A Two-Centre, Retrospective, Case Control Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551369)
+- [疫情防控信息化案例 | 基于多源城市大数据与不同复工比例场景的深圳市新冠肺炎时空分布与传播风险评估](https://mp.weixin.qq.com/s/Esr8v0uw1UCYaqvOrOKPOQ)
 
 ## Evaluation intervention
 - [Effect of non-pharmaceutical interventions for containing the COVID-19 outbreak: an observational and modelling study](https://www.worldpop.org/events/COVID_NPI)
@@ -913,6 +927,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [走出疫情阴霾，财税有道](https://mp.weixin.qq.com/s/uNR0dYvNVmpxMckhUVzw9Q)
 - [全球看武汉｜日本如何支援中小企业①：台风灾后的资金政策](https://mp.weixin.qq.com/s/Iahdgv9o-c-wjBbhjCpstA)
 - [城市应对重大传染病问卷调查](http://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662329&idx=1&sn=a6db0a95d7c2b94110df1f927a0edbdc&chksm=bedda9ef89aa20f9b6fac6f93a051d89f27c63ba0c6de037b3763517f21bc4cad88cd622b138&mpshare=1&scene=1&srcid=&sharer_sharetime=1585117992416&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [疫情过后，智慧园区建设或成重启经济引擎利器](https://mp.weixin.qq.com/s/fzs7ckJAZrSSmcOqFj5B4Q)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1056,6 +1071,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Real-time data show virus’s hit to global economic activity](https://amp.ft.com/content/d184fa0a-6904-11ea-800d-da70cff6e4d3?__twitter_impression=true)
 - [Where and when local travel decreased from COVID-19 around the world](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
 - [Playing with curve flattening alternatives](https://github.com/MUCollective/covid19-curve)
+- [covid daily viz](https://github.com/slu-openGIS/covid_daily_viz)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
