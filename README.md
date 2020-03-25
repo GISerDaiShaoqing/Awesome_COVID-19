@@ -298,6 +298,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [6412｜压抑的疫情下总有令人露出笑意的新闻](https://mp.weixin.qq.com/s/7uni5GmlP2m6mETrqmMFXw)
 - [欧盟委员会希望通过电信数据追踪数百万人来抗击病毒](https://mp.weixin.qq.com/s/Dz4cRQeiKuPyBrSFTaIGsw)
 - [新冠疫苗全球竞赛，谁是终结疾病的屠龙刀？](https://mp.weixin.qq.com/s/bqfmH6D73RbDMtzWsLQ3FA)
+- [哈佛校长夫妇确诊、“病毒猎手”中招，美国同行还好吗？](https://mp.weixin.qq.com/s/eeYMH7-uvTolqGWWLn3Xpg)
+- [美国认证瑞德西韦为孤儿药，我们申请专利还有用吗？](https://mp.weixin.qq.com/s/3hU-Je9qpAuD8VsW__QTbw)
+- [中国工程院、腾讯基金会发起，这一特殊行动在华中科大启动！](https://mp.weixin.qq.com/s/Y27WjhhcXBSl2AjEaTlrPw)
+- [如果一定要回国，建议“不吃不喝不聊天”](https://mp.weixin.qq.com/s/nfOy9mGswg8XexpFoD92Qg)
+- [美国"病毒猎手"确诊！从非典到新冠，他两次飞往中国…网友呼吁上热搜！](https://mp.weixin.qq.com/s/H4WDaBGnTBoOAJL_qFb7kg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -313,6 +318,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [滑铁卢大学发布《新冠肺炎卷积神经网络COVID-Net》一种定制的新冠深度卷积神经网络设计，用于从胸片图像中检测COVID-19](https://mp.weixin.qq.com/s/m_fSSdQ-IKCzinfNA0w4BA)
 - [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871)
 - [COVID-Net model for COVID-19 detection on COVIDx dataset](https://github.com/lindawangg/COVID-Net)
+- [COVID-19感染肺炎的临床特征和影像学表现](https://mp.weixin.qq.com/s/XS2xS312MwcCvlpKf17ViQ)
+- [Clinical characteristics and imaging manifestations of the 2019 novel coronavirus disease (COVID-19):A multi-center study in Wenzhou city, Zhejiang, China](https://www.sciencedirect.com/science/article/pii/S0163445320300992)
 
 ## Clinic Medicine
 - [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
@@ -928,6 +935,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [全球看武汉｜日本如何支援中小企业①：台风灾后的资金政策](https://mp.weixin.qq.com/s/Iahdgv9o-c-wjBbhjCpstA)
 - [城市应对重大传染病问卷调查](http://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662329&idx=1&sn=a6db0a95d7c2b94110df1f927a0edbdc&chksm=bedda9ef89aa20f9b6fac6f93a051d89f27c63ba0c6de037b3763517f21bc4cad88cd622b138&mpshare=1&scene=1&srcid=&sharer_sharetime=1585117992416&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [疫情过后，智慧园区建设或成重启经济引擎利器](https://mp.weixin.qq.com/s/fzs7ckJAZrSSmcOqFj5B4Q)
+- [多地解除小区封闭式管理，透过28个城市管理政策看社区防疫如何在起作用](https://mp.weixin.qq.com/s/h7v0T9Ef6qI8ThxxSXwm3Q)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1072,6 +1080,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Where and when local travel decreased from COVID-19 around the world](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
 - [Playing with curve flattening alternatives](https://github.com/MUCollective/covid19-curve)
 - [covid daily viz](https://github.com/slu-openGIS/covid_daily_viz)
+- [Personal explorarion on covid19 DNA sequence](https://github.com/eruffaldi/covid19-dna-exploration)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
@@ -1101,6 +1110,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Novel Coronavirus (COVID-19) Tracker](https://github.com/JohnCoene/coronavirus)
 - [ List of coronavirus applications built in response to the COVID-19 virus from Dec 2019](https://github.com/abuuzayr/coronavirus-apps)
 - [疫情防控信息化案例 | 大华超高精度人体热成像测温系统](http://mp.weixin.qq.com/s?__biz=MzIwNDE1NjM2NA==&mid=2652071958&idx=8&sn=a598c6060dadf916436b11b66e9076b4&chksm=8d23b4b5ba543da3ebaa9f2438cc1eff31326c188820750668597e40d00958a9b8febeab7e4d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585066491303&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [This is a dashboard of network connections and clusters to track outbreak and transmission COVID19 in India](https://github.com/someshkar/covid19india-network)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
