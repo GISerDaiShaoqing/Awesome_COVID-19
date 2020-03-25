@@ -799,6 +799,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19: Navigating Uncertainties Together](https://marlin-prod.literatumonline.com/pb-assets/journals/research/cell/Online%20Now%20PDfs/CELL11328_S5.pdf)
 - [5张图带你看新冠病毒全球大流行：快速的传播与停滞的碳排放](https://mp.weixin.qq.com/s/PDQNgKERb7YmMlr8SrbCzw)
 - [The coronavirus pandemic in five powerful charts](https://www.nature.com/articles/d41586-020-00758-2)
+- [调查 | 新冠肺炎疫情期间大学生就业信心](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650247241&idx=1&sn=f6939d5d950671b4706dc41f538d09f4&chksm=8872cf24bf054632ac960316b3a8619d560e158e9c682254687f40091215bdf2d9caf5e29598&scene=0&xtrack=1#rd)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
