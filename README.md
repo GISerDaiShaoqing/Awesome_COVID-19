@@ -278,6 +278,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [专家：已解剖29例新冠病亡患者，死者肺内仍存病毒](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMTUzMw==&mid=2657116647&idx=2&sn=3d0fed71f6547e0136f10c1bde953eac&chksm=8b108b25bc670233f27a4d0126b404ecd2e9ee8431a434df0e583c3c13236895b824a5c3d13f&mpshare=1&scene=1&srcid=&sharer_sharetime=1585061091200&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [美“抗疫队长”向Science爆料：反对特朗普“中国病毒”说法，但我拦不住](https://mp.weixin.qq.com/s/wv5AqoO6YJfZFq8-Q5qaHQ)
 - [中国疾控中心吴尊友：无症状感染者，不会造成扩散](http://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651611345&idx=3&sn=62af5cbb5eea501a0994a525571b1b9d&chksm=bd61fd6d8a16747b9686a1cc1604eb69671d7c946ab42aa033a9bb388138caab0ba353e7476a&mpshare=1&scene=1&srcid=&sharer_sharetime=1585061185116&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [突发：美国釜底抽薪，将瑞德西韦认证为新冠肺炎“孤儿药”，将独家供应，可能限制仿制药供应](https://mp.weixin.qq.com/s/6sj5cXtD4-gV3hX6D__vbA)
+- [西班牙：征用冰球场当停尸间，60岁以上重症不进ICU](https://mp.weixin.qq.com/s/uNR0dYvNVmpxMckhUVzw9Q)
+- [1月1日意大利可能已有新冠病毒出现 | 科研圈日报](https://mp.weixin.qq.com/s/MLaJcVqEqJIq4hh0lBU7GA)
+- [治疗疾病决策与控制传染病决策之差异——确定的不确定性与不确定的确定性](https://mp.weixin.qq.com/s/mfcPHEd6kCWI6WWxsU_wzw)
+- [“隔离”日志｜为什么柏林人还不戴口罩？](https://mp.weixin.qq.com/s/1Ex0SCqB9zcwdsIdlyXVkQ)
+- [“COVID-19”科研动态监测每日快报（3月24日）【中国科讯】](https://mp.weixin.qq.com/s/I7pwWfCQRuOK2rPL4u2lEA)
+- [【有奖调查】新冠肺炎个人预防行为调查（呼吸道礼仪篇）](https://mp.weixin.qq.com/s/smiTX-9s1gTjuMXpQZwshw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -289,6 +296,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [AI战疫 | 清华团队研发新冠肺炎智能检测与分级系统](http://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651571611&idx=2&sn=4616ea8a8f178fcbb6b56238c98344c5&chksm=80573af1b720b3e7de715ce54c768dc98cd0e25ce8bc6b4df784e7a8260550e595b6f77ba1a3&mpshare=1&scene=1&srcid=&sharer_sharetime=1584908334306&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [新冠肺炎诊断挑战医疗系统负荷，以下23种肺炎CT智能方案成重要辅助诊断手段](https://mp.weixin.qq.com/s/qZDkjk3lrkHez6WX4PWT5A)
 - [AI可以如何抗击新冠？WHO论文告诉你这三大场景大有可为](https://mp.weixin.qq.com/s/Dc7jGSZG9bbuGiDcIwazxQ)
+- [使用Keras，TensorFlow诊断COVID-19](https://mp.weixin.qq.com/s/ftsnzS1mCcQNBk7bWMA25g)
+- [滑铁卢大学发布《新冠肺炎卷积神经网络COVID-Net》一种定制的新冠深度卷积神经网络设计，用于从胸片图像中检测COVID-19](https://mp.weixin.qq.com/s/m_fSSdQ-IKCzinfNA0w4BA)
+- [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871)
+- [COVID-Net model for COVID-19 detection on COVIDx dataset](https://github.com/lindawangg/COVID-Net)
 
 ## Clinic Medicine
 - [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
@@ -444,6 +455,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [这些新冠肺炎疗法靠谱吗？NEJM主编讨论了](https://mp.weixin.qq.com/s/etbTSV-GKKo2IL67NRUCxg)
 - [Nat Commun：干细胞因子和外泌体吸入疗法有望治疗肺纤维化和肺部炎症](https://mp.weixin.qq.com/s/irnVug6KKF41QOYj27OFIw)
 - [Inhalation of lung spheroid cell secretome and exosomes promotes lung repair in pulmonary fibrosis](https://www.nature.com/articles/s41467-020-14344-7)
+- [重磅 | 陈志南院士发现美普珠单抗可有效及安全治疗新冠肺炎患者](https://mp.weixin.qq.com/s/8u6G_W6OgotFBTxFkh-odA)
+- [Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial](https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1)
+- [Lancet子刊 | 首次，华中科技大学揭示新冠肺炎孕妇的临床特征以及新生儿结局](https://mp.weixin.qq.com/s/zH6uMVzCReLdpHmlKr_zAQ)
+- [Clinical features and obstetric and neonatal outcomes of pregnant patients with COVID-19 in Wuhan, China: a retrospective, single-centre, descriptive study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30176-6/fulltext#%20)
+- [Management of pregnant women infected with COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30191-2/fulltext)
+- [这种你我都打过的疫苗，也许能预防新冠感染：4国即将启动卡介苗临床试验](http://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651691070&idx=1&sn=1541d45ffc363a6f65d7d6c16a380190&chksm=8bbe35dbbcc9bccd1fd7a125958d422b828d2654133c834f1547a97ac2b120d6461333f647e5&mpshare=1&scene=1&srcid=&sharer_sharetime=1585130806846&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -562,6 +579,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Precision mouse models with expanded tropism for human pathogens](https://www.nature.com/articles/s41587-019-0225-9)
 - [Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/early/2020/03/16/peds.2020-0702)
 - [Science重磅 | 祭出大杀器，德国/英国等4个国家使用具有百年历史的抗结核疫苗来预防新冠病毒感染（高风险人群）](https://mp.weixin.qq.com/s/dRpGH-c_qAYpxZJEgqo-KA)
+- [为何说新冠病毒的实验室起源论是不足信的？|《自然-医学》](https://mp.weixin.qq.com/s/G5CHz2vfdHUxPe1jPC8Bmg)
+- [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+- [Cell：从基因组学角度解析SARS-CoV-2的起源和出现](https://mp.weixin.qq.com/s/2i8TXy2a1YjxzylbZmOr9Q)
+- [A Genomic Perspective on The Origin and Emergence of SARS-CoV-2](https://doi.org/10.1016/j.cell.2020.03.035)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -755,6 +776,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [基于社交媒体的新冠肺炎事件公众舆情挖掘分析](https://mp.weixin.qq.com/s/74UQbzJisCgndgwvj43ZRg)
 - [Cell社论丨COVID-19：携手应对未知](https://mp.weixin.qq.com/s/jf30PLls9FbAtjYvEh_evA)
 - [COVID-19: Navigating Uncertainties Together](https://marlin-prod.literatumonline.com/pb-assets/journals/research/cell/Online%20Now%20PDfs/CELL11328_S5.pdf)
+- [5张图带你看新冠病毒全球大流行：快速的传播与停滞的碳排放](https://mp.weixin.qq.com/s/PDQNgKERb7YmMlr8SrbCzw)
+- [The coronavirus pandemic in five powerful charts](https://www.nature.com/articles/d41586-020-00758-2)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -887,6 +910,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [京东城市总裁郑宇：用大数据和AI提升“城市免疫力”](https://mp.weixin.qq.com/s?__biz=MzU4NzY1NzEwMw==&mid=2247486796&idx=1&sn=0d8cec99b319d16cff1c74a252d514b1&chksm=fde9f7acca9e7eba42031a3ce9ff3f90245223b24ec65e57c6e1e6026fe6e42d66657ee8e140&scene=0&xtrack=1#rd)
 - [抗击疫情，女规划师在行动｜王兰 ：规划健康——疫情之下对城市空间的重新审视](https://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662277&idx=1&sn=3a02eaded508214a90fdc7334628e082&chksm=bedda9d389aa20c5b5018dc10273f6bcbacf47907ec482a1bbffe577d1c92b27da8fb2664cc4&scene=0&xtrack=1#rd)
 - [抗击疫情，女规划师在行动｜叶裕民：建构“以人民为中心”的城市治理秩序](https://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662232&idx=1&sn=70194b3904bf796967881aed02314166&chksm=bedda90e89aa2018d0cb800f9d8d713ae27a240929522b54b09fffadeddd6489ebdba353546a&scene=21#wechat_redirect)
+- [走出疫情阴霾，财税有道](https://mp.weixin.qq.com/s/uNR0dYvNVmpxMckhUVzw9Q)
+- [全球看武汉｜日本如何支援中小企业①：台风灾后的资金政策](https://mp.weixin.qq.com/s/Iahdgv9o-c-wjBbhjCpstA)
+- [城市应对重大传染病问卷调查](http://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662329&idx=1&sn=a6db0a95d7c2b94110df1f927a0edbdc&chksm=bedda9ef89aa20f9b6fac6f93a051d89f27c63ba0c6de037b3763517f21bc4cad88cd622b138&mpshare=1&scene=1&srcid=&sharer_sharetime=1585117992416&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -953,6 +979,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Florida COVID19 Data parsed from Florida DOH](https://github.com/gadenbuie/covid19-florida)
 - [COVID-19 cases in Germany](https://github.com/dirkschumacher/covid-api)
 - [COVID-19 global data (from JHU CSSE for now) as-a-service ](https://github.com/mathdroid/covid-19-api)
+- [COVID 19 Data from across the African Continent](https://github.com/dsfsi/covid19africa)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1021,6 +1048,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Track The Corona virus from your CLI](https://github.com/sagarkarira/coronavirus-tracker-cli)
 - [Dashboard of the COVID-19 Virus Outbreak in Singapore](https://www.againstcovid19.com/singapore/)
 - [playable simulations of a disease outbreak](https://meltingasphalt.com/interactive/outbreak/)
+- [Coronavirus tracker app for iOS & macOS with maps & charts](https://github.com/MhdHejazi/CoronaTracker)
+- [全球新冠疫情的数据可视化](https://mp.weixin.qq.com/s/KGhbH6OMoJh500bYM6HhTQ)
+- [R: 动态全国各省新型冠状病毒疫情变化](https://mp.weixin.qq.com/s/g6khKJ9Z7BHTO1BjU25hVg)
+- [Python:动态全国各省新型冠状病毒疫情变化](https://mp.weixin.qq.com/s/qoNpTTNmsIoXA9ZFhlIMdg)
+- [Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say](https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html?&te=1&nl=morning-briefing&emc=edit_nn_20200322&campaign_id=9&instance_id=16976&segment_id=22540&user_id=d53022b09010aaf5093d7dece777be9a&regi_id=64690068_nn_20200322)
+- [Real-time data show virus’s hit to global economic activity](https://amp.ft.com/content/d184fa0a-6904-11ea-800d-da70cff6e4d3?__twitter_impression=true)
+- [Where and when local travel decreased from COVID-19 around the world](https://blog.mapbox.com/movement-changes-around-the-world-from-covid-19-cc79db7e04c7)
+- [Playing with curve flattening alternatives](https://github.com/MUCollective/covid19-curve)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
@@ -1069,7 +1104,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
 - [Open geospatial work to support health systems' capacity (providers, supplies, ventilators, beds, meds) to effectively care for rapidly growing COVID19 patient needs](https://github.com/covidcaremap/covid19-healthsystemcapacity)
-
+- [健康城市研究国际网络倡议 International Network for Healthy Cities Studies](https://mp.weixin.qq.com/s/LI-6l0BM8bEQB1ATKdjM2w)
 
 # Journal special issues
 - [新型冠状病毒的传播模式与控制策略研究|学术专辑征稿启事](https://mp.weixin.qq.com/s?__biz=MzIyMjE3NDQ4Nw==&mid=2247484594&idx=1&sn=dff8614d5beddf500e384010039da23e&chksm=e830c8cadf4741dcfb87fc91d6e98ae5047f42f6b4bf26cf9cb10e8e3c9aba66769f4083d273&mpshare=1&scene=1&srcid=0130AI6N5jIdDxYZtyJJ3ts4&sharer_sharetime=1580387650333&sharer_shareid=8ce8b48241f0ab592333bf5eba6af6b1#rd)
