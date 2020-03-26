@@ -66,6 +66,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国科协国际技术转移](http://cast.ciccst.org.cn/)
 - [全球专家学者汇聚，新冠病毒数据全球研究实验云平台正式启动](https://mp.weixin.qq.com/s/XNeu22bvvvGYMBgHRzy4yw)
 - [Johns Hopkins University & Medicine CORONAVIRUS RESOURCE CENTER](https://coronavirus.jhu.edu/)
+- [Esri：COVID-19 Sites](http://hub.arcgis.com/pages/covid-19)
 - [Github: Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 - [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
 - [Github：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV)
@@ -325,6 +326,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [美国3个州请求联邦政府提供紧急殡葬援助](https://mp.weixin.qq.com/s/PtX3iVBKEjl06YINrAEAGw)
 - [为对抗疫情，美国要牺牲一直崇尚的隐私了？](https://mp.weixin.qq.com/s/deyk4-e4zZ1Uq4jUPINa2w)
 - [U.S. government, tech industry discussing ways to use smartphone location data to combat coronavirus](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2ftechnology%2f2020%2f03%2f17%2fwhite-house-location-data-coronavirus%2f)
+- [唾液里也能找到大量新冠病毒；天气变暖会终结COVID-19吗？什么样的人适合做学术？| 领研网24小时热门论文](https://mp.weixin.qq.com/s/oqf3_MstezMGuxy2cLAM-A)
+- [电子烟肺炎和新冠肺炎，到底有没有关联？](https://mp.weixin.qq.com/s/PDFO64dW6ovmdbSAHn0nOw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
