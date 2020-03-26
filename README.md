@@ -327,7 +327,18 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [为对抗疫情，美国要牺牲一直崇尚的隐私了？](https://mp.weixin.qq.com/s/deyk4-e4zZ1Uq4jUPINa2w)
 - [U.S. government, tech industry discussing ways to use smartphone location data to combat coronavirus](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2ftechnology%2f2020%2f03%2f17%2fwhite-house-location-data-coronavirus%2f)
 - [唾液里也能找到大量新冠病毒；天气变暖会终结COVID-19吗？什么样的人适合做学术？| 领研网24小时热门论文](https://mp.weixin.qq.com/s/oqf3_MstezMGuxy2cLAM-A)
-- [电子烟肺炎和新冠肺炎，到底有没有关联？](https://mp.weixin.qq.com/s/PDFO64dW6ovmdbSAHn0nOw)
+- [电子烟肺炎和新冠肺炎，到底有没有关联？](https://mp.weixin.qq.com/s/PDFO64dW6ovmdbSAHn0nOw
+- [7431｜荷兰新增病例首次破千｜还有一些可看可不看的新闻](https://mp.weixin.qq.com/s/3RaYdmcnxLvwDXBohejtrg)
+- [新冠导致的荷兰经济衰退不可避免｜CPB](https://mp.weixin.qq.com/s/h3umeTgQiBxSrkhIjQ5n0A)
+- [先“截胡”再援助，意大利这操作emmm](https://mp.weixin.qq.com/s/_U7kmZDbbOOVA4OaAqUMqA)
+- [美国为什么年轻人感染率高？张文宏解释了](https://mp.weixin.qq.com/s/KwUq0lD9MEB6Gcczxo4ojA)
+- [意大利，错在哪](https://mp.weixin.qq.com/s/PtSfp-0PDdmPjKiRe_IY4Q)
+- [意大利已有37名医生死于新冠肺炎](https://mp.weixin.qq.com/s/Bwt9jFDZyVxV5rfDu0SUeA)
+- [美国学者呼吁取消从中国进口医疗产品关税](https://mp.weixin.qq.com/s/cM26d1492O8C83qmTSsPeQ)
+- [确诊7431例死亡434人,延迟开学,饮用水问题,中国限制入境...今日份疫情速报！](https://mp.weixin.qq.com/s/OshxS0EkIQ3ZiPtsRRvBEg)
+- [国际社会向荷兰发来挂科预警！Better Late Than Never啊！](https://mp.weixin.qq.com/s/7ZfmkOSjmhpfBY0dxtF9Yg)
+- [重磅！国际航班重大调整，中国民航局最新发文！](https://mp.weixin.qq.com/s/TYJJGWzbsFeLVkbPsyIAPQ)
+- [当着特朗普面被问中国抗疫成就，他求生欲爆棚](https://mp.weixin.qq.com/s/DIR9YWySJsBHtcYciYjZ3g)
 
 # Clinic Medicine correlated Resources
 ## Radiology
