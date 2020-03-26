@@ -647,6 +647,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [A Genomic Perspective on The Origin and Emergence of SARS-CoV-2](https://doi.org/10.1016/j.cell.2020.03.035)
 - [李兰娟呼吁深入研究病毒载量和抗体反应：对治疗和疫苗很重要](http://news.sciencenet.cn/htmlnews/2020/3/437474.shtm)
 - [SARS-CoV-2: virus dynamics and host response](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30235-8/fulltext)
+- [Stability of SARS-CoV-2 in different environmental conditions](https://www.medrxiv.org/content/10.1101/2020.03.15.20036673v1)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1067,6 +1068,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 cases in Germany](https://github.com/dirkschumacher/covid-api)
 - [COVID-19 global data (from JHU CSSE for now) as-a-service ](https://github.com/mathdroid/covid-19-api)
 - [COVID 19 Data from across the African Continent](https://github.com/dsfsi/covid19africa)
+- [The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020](https://github.com/echen102/COVID-19-TweetIDs)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1180,6 +1182,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [ List of coronavirus applications built in response to the COVID-19 virus from Dec 2019](https://github.com/abuuzayr/coronavirus-apps)
 - [疫情防控信息化案例 | 大华超高精度人体热成像测温系统](http://mp.weixin.qq.com/s?__biz=MzIwNDE1NjM2NA==&mid=2652071958&idx=8&sn=a598c6060dadf916436b11b66e9076b4&chksm=8d23b4b5ba543da3ebaa9f2438cc1eff31326c188820750668597e40d00958a9b8febeab7e4d&mpshare=1&scene=1&srcid=&sharer_sharetime=1585066491303&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [This is a dashboard of network connections and clusters to track outbreak and transmission COVID19 in India](https://github.com/someshkar/covid19india-network)
+- [疫情防控信息化案例 | 时空大数据服务平台支撑重庆疫情地图 服务疫情防控](https://mp.weixin.qq.com/s/VPdxHPGrVoWEN-ety95VtQ)
+- [IR and QA Pipeline System for COVID-19](https://github.com/thunlp/COVID19-IRQA)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
