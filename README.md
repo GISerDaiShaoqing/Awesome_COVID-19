@@ -323,6 +323,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国对外援助帮谁不帮谁，咋确定？](https://mp.weixin.qq.com/s/sfyohSlqOGycbnyc6gMRdg)
 - [蓬佩奥再提“武汉病毒”，外交部回应](https://mp.weixin.qq.com/s/q4c7cOrBiToqkes_2YAfWA)
 - [美国3个州请求联邦政府提供紧急殡葬援助](https://mp.weixin.qq.com/s/PtX3iVBKEjl06YINrAEAGw)
+- [为对抗疫情，美国要牺牲一直崇尚的隐私了？](https://mp.weixin.qq.com/s/deyk4-e4zZ1Uq4jUPINa2w)
+- [U.S. government, tech industry discussing ways to use smartphone location data to combat coronavirus](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2ftechnology%2f2020%2f03%2f17%2fwhite-house-location-data-coronavirus%2f)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -503,6 +505,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [这种你我都打过的疫苗，也许能预防新冠感染：4国即将启动卡介苗临床试验](http://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651691070&idx=1&sn=1541d45ffc363a6f65d7d6c16a380190&chksm=8bbe35dbbcc9bccd1fd7a125958d422b828d2654133c834f1547a97ac2b120d6461333f647e5&mpshare=1&scene=1&srcid=&sharer_sharetime=1585130806846&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [新冠损伤男性生殖功能出现首个临床证据](https://mp.weixin.qq.com/s/pYxNDoxvlRLEexTEtQtrtQ)
 - [Effect of SARS-CoV-2 infection upon male gonadal function: A single center-based study](https://mp.weixin.qq.com/s/pYxNDoxvlRLEexTEtQtrtQ)
+- [选择合适的营养保健品可以帮助预防控制流感和冠状病毒？](https://mp.weixin.qq.com/s/-xB_cxS153SNRxJS6t6UnA)
+- [“一蹴而就 还是欲速不达” 新冠病毒疫苗现状报告](https://mp.weixin.qq.com/s/0BhrvADvkQtNzjTHeuMnmA)
+- [SARS-CoV-2 vaccines: status report](https://marlin-prod.literatumonline.com/pb-assets/journals/research/immunity/SARS-CoV-2%20vaccines%20status%20report.pdf)
+- [V路演 | 高基民：CAR-T之后，抗癌新利器CAR-NK细胞疗法防治COVID-19初见成效！](https://mp.weixin.qq.com/s/a1mZj0hLqObGOFlm47qccA)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -728,6 +734,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [武大研究：糖尿病患者感染新冠死亡率更高](https://mp.weixin.qq.com/s/zr1VgF3Hv0KPJsZ83gm_4A)
 - [Diabetic Patients with COVID-19, Characteristics and Outcome: A Two-Centre, Retrospective, Case Control Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551369)
 - [疫情防控信息化案例 | 基于多源城市大数据与不同复工比例场景的深圳市新冠肺炎时空分布与传播风险评估](https://mp.weixin.qq.com/s/Esr8v0uw1UCYaqvOrOKPOQ)
+- [高德地图发布清明小长假出行防疫指南：大数据告诉你哪些城市迁出意愿最强？【附下载】](https://mp.weixin.qq.com/s/sxQlA8HdbIFwPU4cJbXu2g)
 
 ## Evaluation intervention
 - [Effect of non-pharmaceutical interventions for containing the COVID-19 outbreak: an observational and modelling study](https://www.worldpop.org/events/COVID_NPI)
@@ -978,6 +985,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情过后，智慧园区建设或成重启经济引擎利器](https://mp.weixin.qq.com/s/fzs7ckJAZrSSmcOqFj5B4Q)
 - [多地解除小区封闭式管理，透过28个城市管理政策看社区防疫如何在起作用](https://mp.weixin.qq.com/s/h7v0T9Ef6qI8ThxxSXwm3Q)
 - [新一代信息技术助力疫情防控、复工复产和中小企业发展](https://mp.weixin.qq.com/s/ZsCLo6XhzzlR3lCAMipucA)
+- [致敬“逆行”英雄！首部共享单车骑行大数据战疫报告发布丨城市数据派](https://mp.weixin.qq.com/s/AsHAgOKQSmeJgekjdW1JAQ)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1125,6 +1133,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Personal explorarion on covid19 DNA sequence](https://github.com/eruffaldi/covid19-dna-exploration)
 - [Excel：为敬畏生命而生的南丁格尔玫瑰图](https://mp.weixin.qq.com/s/3cJlRXs3yyVrP_N32Tlvcw)
 - [The U.S. COVID-19 Atlas: interactive web mapping app for state and county exploration of the COVID-19 Pandemic](https://github.com/sdohatlas/covid)
+- [Dashboard visualising Public Health England coronavirus (COVID-19) data](https://github.com/traffordDataLab/covid-19)
+- [一图看战疫60天！](https://mp.weixin.qq.com/s/VD5LdWwKfqPtbseICYj0sw)
+- [1条，1班](https://mp.weixin.qq.com/s/1oarQr-fnQuYDpVGzUfXtQ)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
@@ -1221,6 +1232,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [抢票 | AI未来说学术论坛第13期：AI助力疫情攻关线上专场](https://mp.weixin.qq.com/s/ecPR5jFArqxiGGfF9OcjSw)
 - [直播预告 | 自然，健康与设计](https://mp.weixin.qq.com/s/TUkrY7NRWw1-ezKBGmuk7Q)
 - [倒计时2天 | 牛俊奇：新发传染病的应对策略](http://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651046394&idx=1&sn=a4b0fa64a01921bc94f6c8d87a9be11c&chksm=8b844b88bcf3c29ea26253950310195c82efa3597139eabed51637d38f5a4ecc164ad39e8cbb&mpshare=1&scene=1&srcid=&sharer_sharetime=1585061111241&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [学术·预告 | “统计大讲堂”第一百一十二讲——COVID-19专题系列在线讲座](https://mp.weixin.qq.com/s/xa5BkaYs3zzIm-0ry4PHXw)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
