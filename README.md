@@ -977,6 +977,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [城市应对重大传染病问卷调查](http://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662329&idx=1&sn=a6db0a95d7c2b94110df1f927a0edbdc&chksm=bedda9ef89aa20f9b6fac6f93a051d89f27c63ba0c6de037b3763517f21bc4cad88cd622b138&mpshare=1&scene=1&srcid=&sharer_sharetime=1585117992416&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [疫情过后，智慧园区建设或成重启经济引擎利器](https://mp.weixin.qq.com/s/fzs7ckJAZrSSmcOqFj5B4Q)
 - [多地解除小区封闭式管理，透过28个城市管理政策看社区防疫如何在起作用](https://mp.weixin.qq.com/s/h7v0T9Ef6qI8ThxxSXwm3Q)
+- [新一代信息技术助力疫情防控、复工复产和中小企业发展](https://mp.weixin.qq.com/s/ZsCLo6XhzzlR3lCAMipucA)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1123,6 +1124,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [covid daily viz](https://github.com/slu-openGIS/covid_daily_viz)
 - [Personal explorarion on covid19 DNA sequence](https://github.com/eruffaldi/covid19-dna-exploration)
 - [Excel：为敬畏生命而生的南丁格尔玫瑰图](https://mp.weixin.qq.com/s/3cJlRXs3yyVrP_N32Tlvcw)
+- [The U.S. COVID-19 Atlas: interactive web mapping app for state and county exploration of the COVID-19 Pandemic](https://github.com/sdohatlas/covid)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
