@@ -765,6 +765,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Clinical and epidemiological features of 36 children with coronavirus disease 2019 (COVID-19) in Zhejiang, China: an observational cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30198-5/fulltext)
 - [最新研究！“新冠病毒1月1日就开始在意大利传播”](https://mp.weixin.qq.com/s/uBqETLyzVPNhIMMeqDJYaw)
 - [The early phase of the COVID-19 outbreak in Lombardy, Italy](https://arxiv.org/abs/2003.09320)
+- [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -898,6 +899,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [A Primer on Biodefense Data Science for Pandemic Preparedness](https://www.sciencedirect.com/science/article/pii/S2666389920300180?via%3Dihub)
 - [新病毒，老教训|美国医生反思医疗系统究竟出了哪些问题](https://mp.weixin.qq.com/s/dydxpj-1N2WytrS03SOZzA)
 - [Novel Coronavirus and Old Lessons — Preparing the Health System for the Pandemic](https://mp.weixin.qq.com/s/dydxpj-1N2WytrS03SOZzA)
+- [Mental health care for international Chinese students affected by the COVID-19 outbreak](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30089-4/fulltext)
+- [The first COVID-19 case in Afghanistan acquired from Iran](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30231-0/fulltext)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1114,6 +1117,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Coronavirus (covid19) Tweets: Tweets using hashtags associated with Coronavirus](https://www.kaggle.com/smid80/coronavirus-covid19-tweets)
 - [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO)
 - [This public repository archives data over time from various public sources on the web: COVID-19/2019-nCoV](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
+- [COVID-Dialogue-Dataset is a Chinese medical dialogue dataset about COVID-19 and other types of pneumonia](https://github.com/UCSD-AI4H/COVID-Dialogue)
+- [How Has Your State Reacted to Social Distancing](https://www.nytimes.com/interactive/2020/03/23/opinion/coronavirus-economy-recession.html)
+- [COVID-19The Hardest Hit Companies of the COVID-19 Downturn: The ‘BEACH’ Stocks](https://www.visualcapitalist.com/covid-19-downturn-beach-stocks/)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1229,6 +1235,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [This is a dashboard of network connections and clusters to track outbreak and transmission COVID19 in India](https://github.com/someshkar/covid19india-network)
 - [疫情防控信息化案例 | 时空大数据服务平台支撑重庆疫情地图 服务疫情防控](https://mp.weixin.qq.com/s/VPdxHPGrVoWEN-ety95VtQ)
 - [IR and QA Pipeline System for COVID-19](https://github.com/thunlp/COVID19-IRQA)
+- [清华大学 AI 抗 “疫” 成果大盘点：风险自测、智能筛查、知识疫情……](https://www.aminer.cn/research_report/5e774aa1e34bad84366f1f7e?download=false)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
