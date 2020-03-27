@@ -87,6 +87,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布](http://2019ncov.chinacdc.cn/2019-nCoV/)
 - [中华医学会放射学分会青年委员会：COVID-19影像表现及研究进展](https://mp.weixin.qq.com/s/MnJyIzobbDQdicAQScG1ow)
 - [新型冠状病毒国家科技资源服务系统](http://nmdc.cn/#/nCoV)
+- [全国卫健委，全国每日疫情](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)
+- [武汉卫健委，湖北每日疫情](http://wjw.wuhan.gov.cn/front/web/list3rd/no/802)
 
 # Academic paper letter and news
 - [新病毒在中国或致8042例感染，爆发峰值预计2月中上旬 | 最新研究大汇总（截止26日15:00）](https://mp.weixin.qq.com/s/5-8nZkI9I0xscOj5Omw6CA)
@@ -369,6 +371,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [密切接触有发热症状同学还不戴口罩，留美学生回国确诊](https://mp.weixin.qq.com/s/8EkKLkVlPhktSUNTH472OQ)
 - [纽约医疗资源紧缺，有医院让两名患者“共享”一台呼吸机](https://mp.weixin.qq.com/s/HgT0TOYotgXsiICHQxhH5w)
 - [瑞德西韦临床试药者：久治不愈，“就想试一试”](https://mp.weixin.qq.com/s/44SMItyt9BVIZll5iJ5MTQ)
+- [8603｜一条重要新闻和几条可看可不看的新闻](https://mp.weixin.qq.com/s/leMwEaDqbxilq5badkMfqw)
+- [NRC采访荷兰专家：我们对大流行的准备只是象征性的](https://mp.weixin.qq.com/s/Z7irW828fo-TGP_pkV5O1w)
+- [Onze voorbereidingen op een pandemie waren symbolisch](https://www.nrc.nl/nieuws/2020/03/26/onze-voorbereidingen-op-een-pandemie-waren-symbolisch-a3995066)
+- [德国VS荷兰：一个向东一个向西？今日新增112名死者，荷兰之困出路在何方？](https://mp.weixin.qq.com/s/HHg3pD3Fad8fRx6q3w0rng)
+- [真实荷兰病例，新冠病人详细自述：我不该去滑雪....](https://mp.weixin.qq.com/s/tIYd2MOvxDDiVh_oeynDdg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1139,8 +1146,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-Dialogue-Dataset is a Chinese medical dialogue dataset about COVID-19 and other types of pneumonia](https://github.com/UCSD-AI4H/COVID-Dialogue)
 - [How Has Your State Reacted to Social Distancing](https://www.nytimes.com/interactive/2020/03/23/opinion/coronavirus-economy-recession.html)
 - [COVID-19The Hardest Hit Companies of the COVID-19 Downturn: The ‘BEACH’ Stocks](https://www.visualcapitalist.com/covid-19-downturn-beach-stocks/)
-- [全国卫健委，全国每日疫情](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)
-- [武汉卫健委，湖北每日疫情](http://wjw.wuhan.gov.cn/front/web/list3rd/no/802)
+- [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)
+- [COVID19 Api based on Johns Hopkins CSSE data](https://github.com/andreagrandi/covid-api)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1266,6 +1273,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 时空大数据服务平台支撑重庆疫情地图 服务疫情防控](https://mp.weixin.qq.com/s/VPdxHPGrVoWEN-ety95VtQ)
 - [IR and QA Pipeline System for COVID-19](https://github.com/thunlp/COVID19-IRQA)
 - [清华大学 AI 抗 “疫” 成果大盘点：风险自测、智能筛查、知识疫情……](https://www.aminer.cn/research_report/5e774aa1e34bad84366f1f7e?download=false)
+- [疫情防控信息化案例 | 力维智联社区疫情防控方案](https://mp.weixin.qq.com/s/0jrsCpAoTbz-vNd7nzsbCw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -1295,6 +1303,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [期刊专辑征稿·新冠肺炎(总第70期)](http://mp.weixin.qq.com/s?__biz=MzU1NDAzNzgyOQ==&mid=2247488801&idx=1&sn=3bbc51643387119b1aed94212543062e&chksm=fbe8f20bcc9f7b1df6cfa6dfff65483b863b0fd2a16c16552344d3ff1d7859850b876b183987&mpshare=1&scene=1&srcid=&sharer_sharetime=1584901924276&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [期刊专辑征稿·新冠肺炎二(总第72期)](https://mp.weixin.qq.com/s/V2RqzW3UChhof-R1k1eJVQ)
 - [免收文章处理费 | Frontiers 新冠肺炎专刊正式上线征稿](https://mp.weixin.qq.com/s/zJWtaCtAfGb36sG_sk7QXQ)
+- [全球战“疫” | 澎湃新闻“长三角议事厅”征稿启事](http://mp.weixin.qq.com/s?__biz=MzA4NTYwOTk0NA==&mid=2652341873&idx=1&sn=42ccde23bdbaca669474d3ad0c8b76a3&chksm=84367ac6b341f3d060681e09ec235d0a5aa605cb5942e1c23e8121eb930c82072fb3c54f5c90&scene=0&xtrack=1#rd)
 
 # Competitions
 - [快来组队参加数据可视化竞赛](https://mp.weixin.qq.com/s?__biz=MzUzMzMwNjgzNA==&mid=2247484181&idx=1&sn=db4a9f57c0f6d9efa3e64d34a52b9a9e&chksm=faa74fa8cdd0c6bea80471ec45a24b0d62ed18c2d515722c70a99405fc4daf99ea90c08ee51e&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520559308&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
