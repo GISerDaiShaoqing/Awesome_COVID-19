@@ -327,7 +327,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [为对抗疫情，美国要牺牲一直崇尚的隐私了？](https://mp.weixin.qq.com/s/deyk4-e4zZ1Uq4jUPINa2w)
 - [U.S. government, tech industry discussing ways to use smartphone location data to combat coronavirus](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2ftechnology%2f2020%2f03%2f17%2fwhite-house-location-data-coronavirus%2f)
 - [唾液里也能找到大量新冠病毒；天气变暖会终结COVID-19吗？什么样的人适合做学术？| 领研网24小时热门论文](https://mp.weixin.qq.com/s/oqf3_MstezMGuxy2cLAM-A)
-- [电子烟肺炎和新冠肺炎，到底有没有关联？](https://mp.weixin.qq.com/s/PDFO64dW6ovmdbSAHn0nOw
+- [电子烟肺炎和新冠肺炎，到底有没有关联？](https://mp.weixin.qq.com/s/PDFO64dW6ovmdbSAHn0nOw)
 - [7431｜荷兰新增病例首次破千｜还有一些可看可不看的新闻](https://mp.weixin.qq.com/s/3RaYdmcnxLvwDXBohejtrg)
 - [新冠导致的荷兰经济衰退不可避免｜CPB](https://mp.weixin.qq.com/s/h3umeTgQiBxSrkhIjQ5n0A)
 - [先“截胡”再援助，意大利这操作emmm](https://mp.weixin.qq.com/s/_U7kmZDbbOOVA4OaAqUMqA)
@@ -354,6 +354,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [上海入境转往其他省市（除苏浙皖）人员，一律在沪隔离](https://mp.weixin.qq.com/s/s5Cx_AE9rqVAQa0FOt3BZQ)
 - [浙江新增一本地病例，详情公布](https://mp.weixin.qq.com/s/IklO_1cUEDcHLjcIJ_3llg)
 - [全球战“疫”，习近平发出中国倡议、承诺中国行动](https://mp.weixin.qq.com/s/b0ix1Uoh54njgCnJXtVYFg)
+- [相隔5排，同机停留8小时，浙江新增一病例](https://mp.weixin.qq.com/s/97kGef1nune_s9luLu6YZQ)
+- [“武汉主战场疫情扩散基本阻断”](https://mp.weixin.qq.com/s/MQKsh8DNJjJhRRCeNR0AIA)
+- [通话后，特朗普发了一条推特](https://mp.weixin.qq.com/s/QLZ_-lpY5Mpv-HzG51Y0Bw)
+- [公司回应“出口西班牙试剂盒不合格”，监管部门启动核查](https://mp.weixin.qq.com/s/G1r2VaFYrP9H5IAtlnBizQ)
+- [俄媒：两名总统办公厅工作人员感染新冠](https://mp.weixin.qq.com/s/K_vqJxbxv0e4LoAssG3Eyg)
+- [郑宇：《向“疫”而生·行业发展新机遇》——人工智能·防疫博弈](https://mp.weixin.qq.com/s/docz64GU9TDnBdh5iTI25g)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -901,6 +907,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Novel Coronavirus and Old Lessons — Preparing the Health System for the Pandemic](https://mp.weixin.qq.com/s/dydxpj-1N2WytrS03SOZzA)
 - [Mental health care for international Chinese students affected by the COVID-19 outbreak](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30089-4/fulltext)
 - [The first COVID-19 case in Afghanistan acquired from Iran](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30231-0/fulltext)
+- [爱思唯尔数据揭示全球传染病研究趋势](https://mp.weixin.qq.com/s/X1BeraG58cklelY4qmiWag)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
