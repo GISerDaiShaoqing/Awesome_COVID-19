@@ -1148,6 +1148,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19The Hardest Hit Companies of the COVID-19 Downturn: The ‘BEACH’ Stocks](https://www.visualcapitalist.com/covid-19-downturn-beach-stocks/)
 - [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)
 - [COVID19 Api based on Johns Hopkins CSSE data](https://github.com/andreagrandi/covid-api)
+- [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1345,6 +1346,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【直播实录】牛俊奇：哪些地区易有新发传染病？应对策略是什么？](https://mp.weixin.qq.com/s/-ROVK5f7i4jBdL3qIdAJYw)
 - [斯坦福春季新课：用数据科学、机器学习对COVID-19研究建模](https://mp.weixin.qq.com/s/Mvm3AyeD9Od0invs9FQmNQ)
 - [CS472 Data science and AI for COVID-19）](https://sites.google.com/view/data-science-covid-19/homepage)
+- [直播！王辰院士，瞿介明教授，曹彬教授向欧洲及全球呼吸专科医师介绍抗疫经验，对话ERS专家](https://mp.weixin.qq.com/s/pdsRGXiqL_qtDDi68fSBug)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
