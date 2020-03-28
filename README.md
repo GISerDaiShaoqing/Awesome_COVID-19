@@ -1,4 +1,4 @@
-# Awesome_COVID-19
+  # Awesome_COVID-19
 Resources of COVID-19 research
 
 Table of Contents
@@ -376,6 +376,31 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Onze voorbereidingen op een pandemie waren symbolisch](https://www.nrc.nl/nieuws/2020/03/26/onze-voorbereidingen-op-een-pandemie-waren-symbolisch-a3995066)
 - [德国VS荷兰：一个向东一个向西？今日新增112名死者，荷兰之困出路在何方？](https://mp.weixin.qq.com/s/HHg3pD3Fad8fRx6q3w0rng)
 - [真实荷兰病例，新冠病人详细自述：我不该去滑雪....](https://mp.weixin.qq.com/s/tIYd2MOvxDDiVh_oeynDdg)
+- [在英国做图表的网红中国留学生，又有了新的“工作”](https://mp.weixin.qq.com/s/xkP0fi0Ku60eNpAFsSLA2w)
+- [张文宏：我们正面对新冠的狡猾之处](https://mp.weixin.qq.com/s/BqDJBMw7k-ozhIFl0VDung)
+- [“COVID-19”科研动态监测每日快报（3月27日）【中国科讯】](https://mp.weixin.qq.com/s/meJBfOc4uX0rvn_sfthyxg)
+- [从中国采购试剂盒错误率80%，驻捷使馆回应：使用方法不当](https://mp.weixin.qq.com/s/0-QD097PAlHxGZV0ZJNG5g)
+- [纽约警察局552人确诊，4000多名警察请病假](https://mp.weixin.qq.com/s/19cweEepRbU6tFpmhsKwDA)
+- [预防新冠，聊聊卫生间清洁消毒那些事儿～](https://mp.weixin.qq.com/s/TTf0dt06jXRCm_npBgvGLg)
+- [“美国大学对留学生的支持令人失望”：疫情带给海外留学生的压力不容忽视](https://mp.weixin.qq.com/s/rV6Y8D78CU5gjm5GvmdjnQ)
+- [英国宣布将再建两家“方舱医院”](https://mp.weixin.qq.com/s/QhEc3A5WXKzRPqNNfSeLUg)
+- [疫情期周末指南｜隔座观影，后会有期](https://mp.weixin.qq.com/s/b9zWmtT75dv4DEF7xtOvDw)
+- [“隔离”日志｜3月的伦敦，逐渐“社交疏远”](https://mp.weixin.qq.com/s/X7sZSwE6gfY-rovwk7Iv1Q)
+- [ICU和方舱：一场疫情的两种颜色](https://mp.weixin.qq.com/s/AQs5qQ461xeCexE_fZLc5Q)
+- [新增54例，全部为境外输入病例](https://mp.weixin.qq.com/s/R2FB87eSGNaNfx6hknjnyw)
+- [西班牙4名中国留学生确诊](https://mp.weixin.qq.com/s/KLkpnHm9M9dbQ5kcDxoZyg)
+- [中国民航局：恢复湖北省民航航班](https://mp.weixin.qq.com/s/nYLHzqlGcfriksf81eDNEg)
+- [浙江1例病例，温州追踪到密切接触者92人](https://mp.weixin.qq.com/s/Et2sFsui1Wj6Gniw_b5fxA)
+- [美国确诊病例破10万](https://mp.weixin.qq.com/s/lbYyQsVR73ydU6KBAszcHA)
+- [【观点】说走就走逃离疫区是一场高风险的旅行！](https://mp.weixin.qq.com/s/5H8-pYAgM6QeZ3VQNFbbnQ)
+- [Fleeing from the coronavirus is dangerous. Here's why](https://www.livescience.com/traveling-during-coronavirus-pandemic.html?utm_source=twitter&utm_medium=social&utm_campaign=dlvr.it)
+- [海外行思 | 法国疫情日记（五）新冠病毒来自法国巴斯特研究所？](https://mp.weixin.qq.com/s/tGUbKY9oWeE6NCN4ora0gQ)
+- [海外行思 | 法国疫情日记（六）如何让娃在家不闷？](https://mp.weixin.qq.com/s/g_QwL-EX-yR5RtW-j0CrIQ)
+- [新冠肺炎特效药还有多远？将来人人都要打疫苗吗？院士这样回答…](https://mp.weixin.qq.com/s/Xjp3QgiTRmTV44kC1uCLPw)
+- [张文宏：我们正面对新冠的狡猾之处！老百姓要做好这两件事！](https://mp.weixin.qq.com/s/CnJHs33xUB_-LTTBnqzKBw)
+- [世卫组织：新冠肺炎疫苗研制仍需12至18个月](https://mp.weixin.qq.com/s/n7dkE2ZT_azQrDSUXSHciw)
+- [《科学》专访高福：欧美防新冠不戴口罩是个“大错误”](https://mp.weixin.qq.com/s/Uu_LLhDjLBkVWHgCAZnbBw)
+- [Not wearing masks to protect against coronavirus is a ‘big mistake,’ top Chinese scientist says](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -571,6 +596,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [BMJ | 首次，华中科技大学宁琴团队系统描述患有新冠肺炎的死者的临床特征：男性老年人偏多，易引发多器官功能障碍](https://mp.weixin.qq.com/s/i9lOK26FXsUO1RwJRtxJaQ)
 - [Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study](https://www.bmj.com/content/368/bmj.m1091)
 - [性腺功能会受影响，最新论文为新冠攻击睾丸功能提供间接临床证据](https://mp.weixin.qq.com/s/M0lYh60v0mOv7M8yxk9bHg)
+- [JAMA | 新发现，刘映霞/张政/刘磊发现输注恢复期患者血浆，可改善COVID-19重症患者临床症状，但仍需进一步试验](https://mp.weixin.qq.com/s/2eBmS-I6E2MhYZaej__68Q)
+- [Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma](https://jamanetwork.com/journals/jama/fullarticle/2763983)
+- [重大进展 | 王红阳/陈薇/肖传乐率先解析新冠肺炎患者康复期 血液免疫学特征](https://mp.weixin.qq.com/s/1kn6_B2f3SzVlWxaJVzw1w)
+- [Immune Cell Profiling of COVID-19 Patients in the Recovery Stage by Single-Cell Sequencing](https://www.medrxiv.org/content/10.1101/2020.03.23.20039362v1)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -703,6 +732,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [西湖大学「新冠」研究登上Science封面，揭秘病毒进入人体那一刻](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650783485&idx=1&sn=21b5081d458b35bddb0a2f6fc3a69f1c&chksm=871a7a83b06df39567a2c65f3b779465b13408ef28367c7fdcd311401203d61b241bef8e88ad&mpshare=1&scene=1&srcid=&sharer_sharetime=1585294170013&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [新冠病毒侵染人体那一刻发生了什么？西湖大学新冠研究登上《Science》封面](https://mp.weixin.qq.com/s/sRf4fsJKmd04Gdop368zdA)
 - [生物学的机器学习：使用K-Means和PCA进行基因组序列分析 COVID-19接下来如何突变？](http://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651571801&idx=2&sn=2d782d4b687813145598e3fe6c0dfdc0&chksm=80573933b720b02581a3097ad48627b1bc51f8c883164d8dde931f457e9331a16e415eb68bcc&scene=0&xtrack=1#rd)
+- [Nature | 管轶/胡艳玲发现穿山甲可能是新冠肺炎病毒的宿主](https://mp.weixin.qq.com/s/Www6OVXQnUNYxAag_zvhWg)
+- [中国新冠研究登上Science封面，全球首次揭示新冠病毒人体蛋白受体结构](https://mp.weixin.qq.com/s/RcjUe_AZ-ctZRCMQzrBEwQ)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -789,6 +820,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [最新研究！“新冠病毒1月1日就开始在意大利传播”](https://mp.weixin.qq.com/s/uBqETLyzVPNhIMMeqDJYaw)
 - [The early phase of the COVID-19 outbreak in Lombardy, Italy](https://arxiv.org/abs/2003.09320)
 - [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
+- [哈佛传染病专家：新冠病人中40%是无症状感染者](https://mp.weixin.qq.com/s/zBp0DHyaFlxL5imDkPdfVA)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -927,6 +959,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Mental health care for international Chinese students affected by the COVID-19 outbreak](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30089-4/fulltext)
 - [The first COVID-19 case in Afghanistan acquired from Iran](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30231-0/fulltext)
 - [爱思唯尔数据揭示全球传染病研究趋势](https://mp.weixin.qq.com/s/X1BeraG58cklelY4qmiWag)
+- [新冠肺炎大流行，如何决定医疗资源优先救治谁](https://mp.weixin.qq.com/s/PM1ML6FEjGbSlmjlJm0FWA)
+- [Fair allocation of scarce medical resources in the time of Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMsb2005114)
+- [The Toughest Triage — Allocating Ventilators in a Pandemic](https://www.nejm.org/doi/full/10.1056/NEJMp2005689)
+- [Critical Supply Shortages — The Need for Ventilators and Personal Protective Equipment during the Covid-19 Pandemic](https://www.nejm.org/doi/full/10.1056/NEJMp2006141)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1149,6 +1185,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)
 - [COVID19 Api based on Johns Hopkins CSSE data](https://github.com/andreagrandi/covid-api)
 - [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
+- [Tracking the growth of COVID-19 Cases woldwide](https://github.com/aatishb/covidtrends)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1317,6 +1354,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [免费GPU支持！口罩识别、安全帽识别算法赛同步开启，丰厚奖品等你来战！](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247504316&idx=1&sn=61b7292de10af3193e06f2c7f11ec1e7&chksm=96ea0e3ca19d872ae2aa0334a6cf2bbcdc9f91af9a7131b743ac37fa88f1f05d48bc8d069a56&mpshare=1&scene=1&srcid=&sharer_sharetime=1584906107935&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [科技战疫 | 2020北京数据开放创新应用大赛正式开赛](https://mp.weixin.qq.com/s?__biz=MzA4MzcxNjg5MQ==&mid=2651045128&idx=2&sn=516fbdb3b5bff2a4f535a5a0cf73db65&chksm=8405237cb372aa6a9a112e4a9cff133df11ed7777cc858d42177fc4d000bc5d602de6e11e79e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584906042199&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [一周AI最火论文 | 新冠病毒数据开源，Kaggle发布新冠病毒挑战赛](https://mp.weixin.qq.com/s/52etjS2JsL-PqGsH0fY9aA)
+- [AI战疫，微软吹响校园集结号！](https://mp.weixin.qq.com/s/lj0yk2krzvK5Xs0I_tn2LQ)
 
 # Lecture
 - [解码新型冠状病毒——如何科学认知和应对新型病毒](https://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651045911&idx=1&sn=117d182d78f2e3c35aafda110ce7725b&chksm=8b844a65bcf3c373806909527cc40cb1452dedd0bfa273608021f3320e74f561bb87b275c3af&mpshare=1&scene=1&srcid=&sharer_sharetime=1582628435684&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1347,6 +1385,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [斯坦福春季新课：用数据科学、机器学习对COVID-19研究建模](https://mp.weixin.qq.com/s/Mvm3AyeD9Od0invs9FQmNQ)
 - [CS472 Data science and AI for COVID-19）](https://sites.google.com/view/data-science-covid-19/homepage)
 - [直播！王辰院士，瞿介明教授，曹彬教授向欧洲及全球呼吸专科医师介绍抗疫经验，对话ERS专家](https://mp.weixin.qq.com/s/pdsRGXiqL_qtDDi68fSBug)
+- [倒计时5天！谢晓亮：单细胞基因组学迎战新冠肺炎](https://mp.weixin.qq.com/s/QdZRlLz52MGiABoY7SAcMw)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
