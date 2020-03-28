@@ -412,6 +412,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国内外疫情防控和经济形势正在发生新的重大变化！中央部署做好这些事](https://mp.weixin.qq.com/s/5gJqDTN3cDcmr2vlGSJpwQ)
 - [中国抗疫图鉴](https://mp.weixin.qq.com/s/kc532Y-HD_LPuOWKeYbpog)
 - [奢侈品集团紧急生产口罩的背后，发生了什么？](https://mp.weixin.qq.com/s/pq_tfXbMDlc4FeV-NSm1eQ)
+- [周末故事 | 疫情、公共交通与新基建]()
+- [特别报道 | 大数据如何成为这次疫情防控的重要手段？](https://mp.weixin.qq.com/s/rBX4vpYqGLfqVkZUjMjORA)
+- [西班牙单日新增确诊8189例](https://mp.weixin.qq.com/s/UJWVjrQqToBP7wFG0ru1gg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -611,6 +614,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma](https://jamanetwork.com/journals/jama/fullarticle/2763983)
 - [重大进展 | 王红阳/陈薇/肖传乐率先解析新冠肺炎患者康复期 血液免疫学特征](https://mp.weixin.qq.com/s/1kn6_B2f3SzVlWxaJVzw1w)
 - [Immune Cell Profiling of COVID-19 Patients in the Recovery Stage by Single-Cell Sequencing](https://www.medrxiv.org/content/10.1101/2020.03.23.20039362v1)
+- [研究发现：115例新冠患儿中53%无症状](https://mp.weixin.qq.com/s/nYNnfrHBnhmWnx7e0NE3_A)
+- [	儿童新型冠状病毒感染专栏](http://www.zgddek.com/CN/volumn/current.shtml#)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1120,6 +1125,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [复盘新冠疫情中的重庆——人口迁徙与返工（一）](https://mp.weixin.qq.com/s/orYKhhXAvWCY7UnZ3Z9NGw)
 - [百度地图慧眼发布最新复工指数，除武汉外湖北其余市州复工指数接近或超过50%](https://mp.weixin.qq.com/s/zn4qME7XGSwMcfhufnpXeA)
 - [中国疫情宅家消费图鉴](https://mp.weixin.qq.com/s/6XohqBGjWNt_oXm4CBb-tA)
+- [European Groupings of Territorial Cooperation](https://cor.europa.eu/en/engage/studies/Documents/EGTC-MR-2018-2019/EGTC-MR-2018-2019.pdf)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1291,6 +1297,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Neues Coronavirus: Situation Schweiz und International](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1934206868)
 - [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
 - [人民日报和央视新闻都爱用的炫酷图表，全网最简单教程来了！](https://mp.weixin.qq.com/s/ERsNf7cbD2AaFWEoHQ6pFw)
+- [CHART OF THE WEEKGlobal Shutdown: Visualizing Commuter Activity in the World’s Cities](https://www.visualcapitalist.com/covid-19-cities-commuter-activity/)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
