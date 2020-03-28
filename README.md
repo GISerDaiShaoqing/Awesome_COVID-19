@@ -405,6 +405,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [东京奥运会到底为什么突然推迟](https://mp.weixin.qq.com/s/RoCO-nVAgMKemRFr3b4gVg)
 - [中国向巴基斯坦派医疗专家组](https://mp.weixin.qq.com/s/MGAPg0vYmm34298BifSmWg)
 - [意大利一日病亡近千人，教皇对空广场演讲](https://mp.weixin.qq.com/s/9fbB1Z7EOqDq8YMIPwJ1dA)
+- [全球，破60万](https://mp.weixin.qq.com/s/YUDnhtFInziYadvsoPNDAA)
+- [留美学生回国前曾干咳未就诊，抵京后3天确诊](https://mp.weixin.qq.com/s/kfPzZFYPY6FcdbJtQrRlTw)
+- [汤姆·汉克斯夫妇已痊愈](https://mp.weixin.qq.com/s/0JQQR4n2v3XhIfanl8SsMw)
+- [巴黎铁塔：请待在家中，谢谢](https://mp.weixin.qq.com/s/0cqWROa4usIOqtamj-oWUA)
+- [国内外疫情防控和经济形势正在发生新的重大变化！中央部署做好这些事](https://mp.weixin.qq.com/s/5gJqDTN3cDcmr2vlGSJpwQ)
+- [中国抗疫图鉴](https://mp.weixin.qq.com/s/kc532Y-HD_LPuOWKeYbpog)
+- [奢侈品集团紧急生产口罩的背后，发生了什么？](https://mp.weixin.qq.com/s/pq_tfXbMDlc4FeV-NSm1eQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1283,6 +1290,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 in US and Canada Real Time Updates With Credible Sources](https://coronavirus.1point3acres.com/en)
 - [Neues Coronavirus: Situation Schweiz und International](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1934206868)
 - [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
+- [人民日报和央视新闻都爱用的炫酷图表，全网最简单教程来了！](https://mp.weixin.qq.com/s/ERsNf7cbD2AaFWEoHQ6pFw)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
