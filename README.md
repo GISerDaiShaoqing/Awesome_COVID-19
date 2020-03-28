@@ -1211,6 +1211,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID19 Api based on Johns Hopkins CSSE data](https://github.com/andreagrandi/covid-api)
 - [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
 - [Tracking the growth of COVID-19 Cases woldwide](https://github.com/aatishb/covidtrends)
+- [数据 | 新冠肺炎国内各省份每日病例数据](https://mp.weixin.qq.com/s/kQGn4PbsK-btm5yKGFkS_g)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1339,6 +1340,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [IR and QA Pipeline System for COVID-19](https://github.com/thunlp/COVID19-IRQA)
 - [清华大学 AI 抗 “疫” 成果大盘点：风险自测、智能筛查、知识疫情……](https://www.aminer.cn/research_report/5e774aa1e34bad84366f1f7e?download=false)
 - [疫情防控信息化案例 | 力维智联社区疫情防控方案](https://mp.weixin.qq.com/s/0jrsCpAoTbz-vNd7nzsbCw)
+- [疫情防控信息化 | 审批服务综合执法一体化平台在基层防疫抗疫中的应用](https://mp.weixin.qq.com/s/yOPJJf1NB8RQLfh9Oke5Jg)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
