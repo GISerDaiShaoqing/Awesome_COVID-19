@@ -415,6 +415,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [周末故事 | 疫情、公共交通与新基建]()
 - [特别报道 | 大数据如何成为这次疫情防控的重要手段？](https://mp.weixin.qq.com/s/rBX4vpYqGLfqVkZUjMjORA)
 - [西班牙单日新增确诊8189例](https://mp.weixin.qq.com/s/UJWVjrQqToBP7wFG0ru1gg)
+- [看到这里，援鄂医生哭了](https://mp.weixin.qq.com/s/Qq8LiyGJngA6F4clZR_K7A)
+- [这 场 发 布 会 有 变 化 ！](https://mp.weixin.qq.com/s/gOVZFudHgG_PvSiXE6nOLg)
+- [印度“超级传播者”致19名亲属确诊，2.6万人隔离](https://mp.weixin.qq.com/s/_87K6VpoqAhxRTxTH7spNw)
+- [法国向中国订购10亿只口罩](https://mp.weixin.qq.com/s/siBbjuASK87hCzMIskmcyg)
+- [老田说新闻：荷兰疫情时间线（二）](https://mp.weixin.qq.com/s/AVP24CBTZpsPye5Wpo9VeA)
+- [+1159=9762｜新冠病毒向一位102岁的老奶奶投降了！荷兰确诊病例年龄段和性别是怎么分布的？](https://mp.weixin.qq.com/s/2MolI0GTxQxF14bwlOeUhQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -837,6 +843,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [The early phase of the COVID-19 outbreak in Lombardy, Italy](https://arxiv.org/abs/2003.09320)
 - [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
 - [哈佛传染病专家：新冠病人中40%是无症状感染者](https://mp.weixin.qq.com/s/zBp0DHyaFlxL5imDkPdfVA)
+- [新冠病毒会在夏天消失吗？研究了6篇论文后，我得到了真相......](https://mp.weixin.qq.com/s/ZJId6Rmv2Zjdkm5b_17YMA)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
