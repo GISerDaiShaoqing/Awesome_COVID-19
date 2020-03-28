@@ -401,6 +401,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [世卫组织：新冠肺炎疫苗研制仍需12至18个月](https://mp.weixin.qq.com/s/n7dkE2ZT_azQrDSUXSHciw)
 - [《科学》专访高福：欧美防新冠不戴口罩是个“大错误”](https://mp.weixin.qq.com/s/Uu_LLhDjLBkVWHgCAZnbBw)
 - [Not wearing masks to protect against coronavirus is a ‘big mistake,’ top Chinese scientist says](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says)
+- [钟南山、张文宏敲响双重警钟！](https://mp.weixin.qq.com/s/VZQ3rWFmLXW973JN54JQiw)
+- [东京奥运会到底为什么突然推迟](https://mp.weixin.qq.com/s/RoCO-nVAgMKemRFr3b4gVg)
+- [中国向巴基斯坦派医疗专家组](https://mp.weixin.qq.com/s/MGAPg0vYmm34298BifSmWg)
+- [意大利一日病亡近千人，教皇对空广场演讲](https://mp.weixin.qq.com/s/9fbB1Z7EOqDq8YMIPwJ1dA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1108,6 +1112,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [百度地图迁徙平台洞察“重启”后的湖北](https://mp.weixin.qq.com/s/AYQvxiKhc8qCI5LN1oJCIA)
 - [复盘新冠疫情中的重庆——人口迁徙与返工（一）](https://mp.weixin.qq.com/s/orYKhhXAvWCY7UnZ3Z9NGw)
 - [百度地图慧眼发布最新复工指数，除武汉外湖北其余市州复工指数接近或超过50%](https://mp.weixin.qq.com/s/zn4qME7XGSwMcfhufnpXeA)
+- [中国疫情宅家消费图鉴](https://mp.weixin.qq.com/s/6XohqBGjWNt_oXm4CBb-tA)
 
 # Data, Visualization, Platform and Tools
 ## Data
