@@ -467,6 +467,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [着急身边人买不到口罩，他15天办起口罩厂](https://mp.weixin.qq.com/s/tx_svPpDJYvjQXT9PWuGNA)
 - [+1104=10866｜疫苗志愿者视频日记，全球首例双重感染者，Delft市将对家庭聚会组织者进行罚款](https://mp.weixin.qq.com/s/4b94s-_aRahntQ-kJ-BF0w)
 - [荷兰召回中国进口的口罩，问题究竟在哪里？](https://mp.weixin.qq.com/s/HFODorwLgm6PBRdjvOTM0g)
+- [3.29荷兰疫情分析 | 多方分析整合](https://mp.weixin.qq.com/s/-5lv1ff0H6O6lYTDMCc5jw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1366,6 +1367,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Enfermedad por nuevo coronavirus, COVID-19](https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm)
 - [人民日报和央视新闻都爱用的炫酷图表，全网最简单教程来了！](https://mp.weixin.qq.com/s/ERsNf7cbD2AaFWEoHQ6pFw)
 - [CHART OF THE WEEKGlobal Shutdown: Visualizing Commuter Activity in the World’s Cities](https://www.visualcapitalist.com/covid-19-cities-commuter-activity/)
+- [国际资讯|Jvion推出美国COVID社区脆弱性地图](https://mp.weixin.qq.com/s/W4pJStI_tBOSFcO3bYjlkw)
+- [COVID Community Vulnerability Map](https://covid19.jvion.com/)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
@@ -1401,6 +1404,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [清华大学 AI 抗 “疫” 成果大盘点：风险自测、智能筛查、知识疫情……](https://www.aminer.cn/research_report/5e774aa1e34bad84366f1f7e?download=false)
 - [疫情防控信息化案例 | 力维智联社区疫情防控方案](https://mp.weixin.qq.com/s/0jrsCpAoTbz-vNd7nzsbCw)
 - [疫情防控信息化 | 审批服务综合执法一体化平台在基层防疫抗疫中的应用](https://mp.weixin.qq.com/s/yOPJJf1NB8RQLfh9Oke5Jg)
+- [疫情防控信息化案例 | 智慧基层社会治理综合解决方案](https://mp.weixin.qq.com/s/kpALSxHMC6DlpkRsunvdDw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
