@@ -455,6 +455,18 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [两名国家女子冰球队员确诊](https://mp.weixin.qq.com/s/eU9dZoymOBDtyx3h_dvdAQ)
 - [河南新增1例本地病例，详细活动轨迹公布](https://mp.weixin.qq.com/s/3oaXmHGBhIC1WD2VMIccoQ)
 - [昨天北京新增的4例境外输入病例，涉4个航班](https://mp.weixin.qq.com/s/JxPJTbH57v9sH-KxJEWrxw)
+- [福建：进一步规范做好境外入闽人员集中医学观察和居家医学观察管理工作](https://mp.weixin.qq.com/s/Dlql0QyNL2hc0Z4FC0yQxw)
+- [大量实验小鼠因疫情被安乐死；为什么科技互联网公司越来越重视数学？ 等| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/iN9z9ZtCvVHqrTHT03MyfA)
+- [累计确诊1万+，死亡771人！假口罩问题中方回应！聚众扎堆狠狠罚，奥运会延期方案确认](https://mp.weixin.qq.com/s/q1wiDBZuCiwTEIoMNmkUhw)
+- [严格的管控措施下，为何北京的境外输入病例还不断出现？](https://mp.weixin.qq.com/s/WRD1dd9ZwHfcUhN3w-DEZw)
+- [卢山教授答澎湃：做好14天隔离，无症感染不用怕](https://mp.weixin.qq.com/s/fXkXSKWanfzQ_ZIGdJTqtg)
+- [“一个月前我担忧身在武汉的家人，一个月后他们担心我”](https://mp.weixin.qq.com/s/EeLGStLXOtDHiQQx5V50eg)
+- [甘肃新增1例湖北输入确诊病例，一周前持“绿码”自驾返兰](https://mp.weixin.qq.com/s/smsR1EV2eN7_YdC4dFMPmw)
+- [多国疫情进入剧烈增长期：旧问题没解决，新问题已经来了](https://mp.weixin.qq.com/s/-FLeC9MFCahnSrtgQygIow)
+- [美国15州进入的“重大灾难”状态到底是啥？](https://mp.weixin.qq.com/s/8b71VlLCjy8JHDI9dHfh0g)
+- [着急身边人买不到口罩，他15天办起口罩厂](https://mp.weixin.qq.com/s/tx_svPpDJYvjQXT9PWuGNA)
+- [+1104=10866｜疫苗志愿者视频日记，全球首例双重感染者，Delft市将对家庭聚会组织者进行罚款](https://mp.weixin.qq.com/s/4b94s-_aRahntQ-kJ-BF0w)
+- [荷兰召回中国进口的口罩，问题究竟在哪里？](https://mp.weixin.qq.com/s/HFODorwLgm6PBRdjvOTM0g)
 
 # Clinic Medicine correlated Resources
 ## Radiology
