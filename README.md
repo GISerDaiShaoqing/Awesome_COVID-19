@@ -516,6 +516,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [确诊11750累计死亡864！小米的物资也来了！RIVM首席建模师接受采访，情势到底是乐观还是悲观？](https://mp.weixin.qq.com/s/0ns7LKcyut14OzPneuoS3A)
 - [欧洲借鉴中国的经验,优先考虑哪3个?口罩问题?徐宏大使答荷兰媒体犀利提问!](https://mp.weixin.qq.com/s/Ap_wSTLMicFziszPCgZW8A)
 - [世卫组织：新冠病毒病不会通过空气传播！产生气溶胶仅在特定环境医疗操作过程中...](https://mp.weixin.qq.com/s/cDzZNSRJNO_Oge2coIx8qA)
+- [中央发话了：不允许为了追求0病例而瞒报漏报](https://mp.weixin.qq.com/s/afeY2ogU5wP_7sZ0h2FWdA)
+- [东京奥运会延期，还有本账要算](http://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651615213&idx=3&sn=863f5a7e38e6dca1f17ec37235d2a674&chksm=bd61f2518a167b47bd198225ca957f73516cddb5a3df49162cf1f303e05d9eae1449a1e7e702&scene=0&xtrack=1#rd)
+- [徐宏大使接受荷《共同日报》专访谈中国抗疫经验](https://mp.weixin.qq.com/s?__biz=MzI1ODgwNTg4OQ==&mid=2247487387&idx=1&sn=6602d7f823235a2f1b60940b718e5a2f&chksm=ea03d675dd745f6325d549a94ea0ce07c1e52edb069f5b8eee0b513c05858216e640e5c0de7b&scene=0&xtrack=1#rd)
+- [国际视野|世界各国通过移动位置信息抗击COVID-19疫情](https://mp.weixin.qq.com/s/79LQqbYTANPTua1vSdc6Kw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1338,6 +1342,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
 - [Tracking the growth of COVID-19 Cases woldwide](https://github.com/aatishb/covidtrends)
 - [数据 | 新冠肺炎国内各省份每日病例数据](https://mp.weixin.qq.com/s/kQGn4PbsK-btm5yKGFkS_g)
+- [美国国标疫情数据是怎么炼成的？专访约翰·霍普金斯团队](http://mp.weixin.qq.com/s?__biz=MzU3ODA5MjAxMQ==&mid=2247484560&idx=1&sn=61554302d233922ba378bf892636d917&chksm=fd7bea14ca0c63028252aed6066d2168239b3171242f00323b9a92499910626e3ef0cea50747&scene=0&xtrack=1#rd)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1438,6 +1443,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
 
 ## Platform(Including 3S Technology)
+- [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
+- [互联网+大数据与“共治共享”抗疫治理现代化 —“疫情踪”App 开发及其思考之二：理论篇](http://mp.weixin.qq.com/s?__biz=MjM5NjMzMjk5MQ==&mid=2649484557&idx=1&sn=0a5e04cd1a5f58f6ff4d5d5faaac5125&chksm=bef599dd898210cb6756d82a8199735b2a26ab7f57e41ae621ce345e51e56d1a987db4af2a88&mpshare=1&scene=1&srcid=&sharer_sharetime=1585588171044&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
 - [由实验室师生参与研发的武汉市新冠肺炎疫情时空信息系统已上线](https://mp.weixin.qq.com/s?__biz=MzU2MTUxNTg1NQ==&mid=2247484129&idx=1&sn=664bc0106a9531ce680767c7bb8e024b&chksm=fc76dec1cb0157d7e217ed9fb981886c08a2d9361742fad091511a3394830761ce8acd8a3a30&mpshare=1&scene=1&srcid=0323qrpevqgZmAhdGUWDb66V&sharer_sharetime=1584912528225&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [武汉市新型冠状病毒肺炎疫情时空信息系统](http://47.114.42.39:8081)
@@ -1472,6 +1479,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 力维智联社区疫情防控方案](https://mp.weixin.qq.com/s/0jrsCpAoTbz-vNd7nzsbCw)
 - [疫情防控信息化 | 审批服务综合执法一体化平台在基层防疫抗疫中的应用](https://mp.weixin.qq.com/s/yOPJJf1NB8RQLfh9Oke5Jg)
 - [疫情防控信息化案例 | 智慧基层社会治理综合解决方案](https://mp.weixin.qq.com/s/kpALSxHMC6DlpkRsunvdDw)
+- [信息化疫情防控案例 | 左邻园区防疫平台的快速上线及应用实践](https://mp.weixin.qq.com/s/pETArv62_pknxM1nxDjTFQ)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
