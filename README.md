@@ -1505,6 +1505,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [2019-nCov noval coronavirus Data analysis in Python](https://github.com/jianxu305/nCov2019_analysis)
 - [Miscellaneous code for analyzing COVID-19 in Seoul, Republic of Korea](https://github.com/sigmafelix/covid19seoul)
 - [R package for "Epidemics: Models and data using R"](https://github.com/objornstad/epimdr)
+- [Code for nCov forecasting tool (Shiny app) ](https://github.com/benflips/nCovForecast)
+- [Code for modelling estimated deaths and cases for COVID19](https://github.com/ImperialCollegeLondon/covid19model)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
