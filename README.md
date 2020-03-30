@@ -1114,6 +1114,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 : learning from experience](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30686-3/fulltext)
 - [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
 - [Mental health considerations for children quarantined because of COVID-19](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30096-1/fulltext)
+- [Coronavirus on Social Media: Analyzing Twitter Conversations](https://ksharmar.github.io/index.html)
+- [Coronavirus on Social Media: Analyzing Misinformation in Twitter Conversations](https://arxiv.org/abs/2003.12309)
+- [Coronavirus on Social Media: Analyzing Misinformation in Twitter Conversations](https://www.arxiv-vanity.com/papers/2003.12309/)
+- [Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision](https://arxiv.org/abs/2003.12218)
+- [Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision](https://www.arxiv-vanity.com/papers/2003.12218/)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
