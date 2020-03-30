@@ -724,6 +724,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [儿童新型冠状病毒感染专栏](http://www.zgddek.com/CN/volumn/current.shtml#)
 - [Clinical Characteristics of Covid-19 in China](https://www.nejm.org/doi/full/10.1056/NEJMc2005203)
 - [NEJM新冠病毒大型Q/A，钟南山在线答疑各国专家](http://blog.sciencenet.cn/blog-3423233-1225862.html)
+- [新冠母婴传播有新证据？](http://news.sciencenet.cn/htmlnews/2020/3/437640.shtm)
+- [Can SARS-CoV-2 Infection Be Acquired In Utero?More Definitive Evidence Is Needed](https://jamanetwork.com/journals/jama/fullarticle/2763851)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1001,6 +1003,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新冠疫情中断多项疾病临床研究](https://mp.weixin.qq.com/s/9Xxsz6kGAKkcBkCFPT8ekw)
 - [英学者《柳叶刀》发文：武汉“封城”为医疗救治争取了喘息期](http://news.sciencenet.cn/htmlnews/2020/3/437601.shtm)
 - [The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan,China:a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30073-6/fulltext)
+- [State-level social distancing policies in response to the 2019 novel coronavirus in the US](https://github.com/COVID19StatePolicy/SocialDistancing)
 
 # Comprehensive Research
 - [A novel coronavirus outbreak of global health concern](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)
@@ -1441,6 +1444,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID Community Vulnerability Map](https://covid19.jvion.com/)
 - [投票 | 疫情数据可视化公益行动第五期川美优秀作品候选名单公示](https://mp.weixin.qq.com/s/KtlL7h8IJTSvCGEtXnkG-w)
 - [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
+- [Cartoon infographics to help people understand what they can do to stay safe & healthy during the COVID19 pandemic](https://github.com/eleanormurray/COVID_19)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
