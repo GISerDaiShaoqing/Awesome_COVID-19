@@ -936,6 +936,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
 - [哈佛传染病专家：新冠病人中40%是无症状感染者](https://mp.weixin.qq.com/s/zBp0DHyaFlxL5imDkPdfVA)
 - [新冠病毒会在夏天消失吗？研究了6篇论文后，我得到了真相......](https://mp.weixin.qq.com/s/ZJId6Rmv2Zjdkm5b_17YMA)
+- [Explore strategies of social distancing on epidemic w/ SIR model and R - from Gandon, Lion, Day](https://github.com/oliviergimenez/SIRcovid19)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1418,6 +1419,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国际资讯|Jvion推出美国COVID社区脆弱性地图](https://mp.weixin.qq.com/s/W4pJStI_tBOSFcO3bYjlkw)
 - [COVID Community Vulnerability Map](https://covid19.jvion.com/)
 - [投票 | 疫情数据可视化公益行动第五期川美优秀作品候选名单公示](https://mp.weixin.qq.com/s/KtlL7h8IJTSvCGEtXnkG-w)
+- [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
 
 ## Platform(Including 3S Technology)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
