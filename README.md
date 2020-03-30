@@ -505,6 +505,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [37天“零新增”的湖北咸宁，接连“输出”了2个确诊病例](https://mp.weixin.qq.com/s/-qrvCFVTsrrgY0O6fn9qwg)
 - [特朗普指责医院“囤货”：放了那些呼吸机](https://mp.weixin.qq.com/s/groSeA5saNc7XJtL72b0bg)
 - [英国知名摇滚乐手因新冠肺炎病逝](https://mp.weixin.qq.com/s/EU5Bis0IHqTIdzb4SPvsfg)
+- [习近平出席二十国集团领导人应对新冠肺炎特别峰会并发表重要讲话【一周科学看点2020-03-30丨中国科学院院刊】](https://mp.weixin.qq.com/s/f2N9C12zzu0woagzaBeqLw)
+- [443名已有发热症状的旅客，在境外被劝阻登机](https://mp.weixin.qq.com/s/_5Nz5EdVaFsn7hihQBoQog)
+- [美媒：华盛顿州一名医生控诉防护短缺遭开除](https://mp.weixin.qq.com/s/FloeVU2BGQ8VKRHXYjjD0Q)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -848,6 +851,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [A Genomic Perspective on the Origin and Emergence of SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S0092867420303287?via%3Dihub)
 - [美科学家：武汉绝不是新冠病毒源头](https://mp.weixin.qq.com/s/onnX9tkjXfykgkwiUadhTA)
 - [The proximal origin of SARS-COV-2](https://www.nature.com/articles/s41591-020-0820-9)
+- [新研究发现排毒期长达49天新冠病例，或为新亚型](https://mp.weixin.qq.com/s/YTcuXODwAhs-rL2R-qAnsQ)
+- [A special case of COVID-19 with long duration of viral shedding for 49 days](https://www.medrxiv.org/content/10.1101/2020.03.22.20040071v1)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1533,6 +1538,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [倒计时5天！谢晓亮：单细胞基因组学迎战新冠肺炎](https://mp.weixin.qq.com/s/QdZRlLz52MGiABoY7SAcMw)
 - [搞定这6个百度AI战疫实战项目，零基础小白也能逆袭深度学习大神](https://mp.weixin.qq.com/s/WHkEcOH_HdoPMszVSHBIbA)
 - [4月2日9:30，直播论坛：从COVID-19疫情看未来空间大数据应用与机遇](https://mp.weixin.qq.com/s/ocYCWQsOazT92I20TOOq2w)
+- [线上研讨会 | 新冠病毒药物靶点研究与合作](https://mp.weixin.qq.com/s/uYvbdoGKxfrivoJV4rK2vQ)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
