@@ -508,6 +508,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [习近平出席二十国集团领导人应对新冠肺炎特别峰会并发表重要讲话【一周科学看点2020-03-30丨中国科学院院刊】](https://mp.weixin.qq.com/s/f2N9C12zzu0woagzaBeqLw)
 - [443名已有发热症状的旅客，在境外被劝阻登机](https://mp.weixin.qq.com/s/_5Nz5EdVaFsn7hihQBoQog)
 - [美媒：华盛顿州一名医生控诉防护短缺遭开除](https://mp.weixin.qq.com/s/FloeVU2BGQ8VKRHXYjjD0Q)
+- [27岁援鄂女护士，仍处于深度昏迷](https://mp.weixin.qq.com/s/bCoUJ79jN_IQ_uFzxHa8rA)
+- [东京奥运会开幕式时间定了](https://mp.weixin.qq.com/s/B32jSF87rL3aKxCcFFN0-g)
+- [浙江：对所有无症状感染者，严格按照确诊病例的管控要求执行](https://mp.weixin.qq.com/s/PEpfJilc0Fpge7i3TyvphQ)
+- [西班牙新冠肺炎确诊人数，全球第三](西班牙新冠肺炎确诊人数，全球第三)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -526,6 +530,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19感染肺炎的临床特征和影像学表现](https://mp.weixin.qq.com/s/XS2xS312MwcCvlpKf17ViQ)
 - [Clinical characteristics and imaging manifestations of the 2019 novel coronavirus disease (COVID-19):A multi-center study in Wenzhou city, Zhejiang, China](https://www.sciencedirect.com/science/article/pii/S0163445320300992)
 - [新冠CT判读准确率达96%，阿里AI是怎么做到的？| AICon](https://mp.weixin.qq.com/s/vZ52cehBTQH7Npe8jrVMsw)
+- [COVID-19 Image Data Collection](https://www.arxiv-vanity.com/papers/2003.11597/)
 
 ## Clinic Medicine
 - [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
@@ -1096,6 +1101,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Coronavirus pandemic: Nature’s pledge to you](https://www.nature.com/articles/d41586-020-00882-z)
 - [COVID-19：从经验中学习](https://mp.weixin.qq.com/s/HXRcgPjIMWkv_HXL5ZEPjw)
 - [COVID-19 : learning from experience](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30686-3/fulltext)
+- [Mapping the Landscape of Artificial Intelligence Applications against COVID-19](https://arxiv.org/abs/2003.11336)
+- [Mental health considerations for children quarantined because of COVID-19](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30096-1/fulltext)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1539,6 +1546,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [搞定这6个百度AI战疫实战项目，零基础小白也能逆袭深度学习大神](https://mp.weixin.qq.com/s/WHkEcOH_HdoPMszVSHBIbA)
 - [4月2日9:30，直播论坛：从COVID-19疫情看未来空间大数据应用与机遇](https://mp.weixin.qq.com/s/ocYCWQsOazT92I20TOOq2w)
 - [线上研讨会 | 新冠病毒药物靶点研究与合作](https://mp.weixin.qq.com/s/uYvbdoGKxfrivoJV4rK2vQ)
+- [12位全球顶尖思想家预测：新冠疫情之后，世界秩序将何去何从？](https://mp.weixin.qq.com/s/S_OfaoPPzFWNz9smqtcOKQ)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
