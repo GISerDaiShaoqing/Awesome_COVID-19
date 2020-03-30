@@ -512,6 +512,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [东京奥运会开幕式时间定了](https://mp.weixin.qq.com/s/B32jSF87rL3aKxCcFFN0-g)
 - [浙江：对所有无症状感染者，严格按照确诊病例的管控要求执行](https://mp.weixin.qq.com/s/PEpfJilc0Fpge7i3TyvphQ)
 - [西班牙新冠肺炎确诊人数，全球第三](西班牙新冠肺炎确诊人数，全球第三)
+- [+884=11750｜日新增有较大降幅，荷兰将延长防疫措施，欧洲各国抗疫措施初现成效](https://mp.weixin.qq.com/s/RP23sA2eYi5-cfU_9hKfmw)
+- [确诊11750累计死亡864！小米的物资也来了！RIVM首席建模师接受采访，情势到底是乐观还是悲观？](https://mp.weixin.qq.com/s/0ns7LKcyut14OzPneuoS3A)
+- [欧洲借鉴中国的经验,优先考虑哪3个?口罩问题?徐宏大使答荷兰媒体犀利提问!](https://mp.weixin.qq.com/s/Ap_wSTLMicFziszPCgZW8A)
+- [世卫组织：新冠病毒病不会通过空气传播！产生气溶胶仅在特定环境医疗操作过程中...](https://mp.weixin.qq.com/s/cDzZNSRJNO_Oge2coIx8qA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
