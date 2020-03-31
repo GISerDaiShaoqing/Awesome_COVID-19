@@ -910,6 +910,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Orthogonal genome-wide screenings in bat cells identify MTHFD1 as a target of broad antiviral therapy](https://www.biorxiv.org/content/10.1101/2020.03.29.014209v1)
 - [对40种病毒变体基因测序，冰岛发现全球首例“双重感染者”](http://news.sciencenet.cn/htmlnews/2020/3/437639.shtm)
 - [SARS-CoV-2病毒RNA在粪便样本中长期存在](https://mp.weixin.qq.com/s/OvAn5WP-Hq9cbBu68creKg)
+- [Prolonged presence of SARS-COV-2 viral RNA in faecal samples](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30083-2/fulltext)
 - [Cell & CHOM：新冠病毒的结构、功能基础以及动态免疫反应](https://mp.weixin.qq.com/s/tlomipdMzMg1_78T1yycEQ)
 
 # Epidemiology correlated Resources
