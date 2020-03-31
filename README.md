@@ -558,6 +558,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国家卫健委：4月1日起将无症状感染者情况列入每日通报](https://mp.weixin.qq.com/s/_TJk4lDX7rHUxKuHNsjCbw)
 - [12595｜荷兰死亡病例超过1000例，每百万人口死亡病例排在全球第五位](https://mp.weixin.qq.com/s/SAWQRm6uzlJU8rQLQnAGkQ)
 - [北欧和南欧关于疫情财政援助产生分歧](https://mp.weixin.qq.com/s/x8TFsyFrkiconwzXScWSKQ)
+- [吵起来了，葡萄牙说荷兰令人作呕...新增175例死亡，荷兰人均ICU垫底原因是？](https://mp.weixin.qq.com/s/ycciuBgrGAmCZe5WTdXjaw)
+- [今日欧洲早被预言？历史重演or诺奖经典重现？人性=不长记性！？](https://mp.weixin.qq.com/s/BYuFHeIKcD9w_AaDsbU3Kg)
+- [呼吁 | 请把钱发给我们：请不要过河拆桥！](https://mp.weixin.qq.com/s/kEvvCMzfi_Y5pSELBYCT3A)
+- [严厉打击海上非法入境，严防境外疫情输入！刚刚，厦门发布重要公告！](http://mp.weixin.qq.com/s?__biz=MjM5NzMxODM2Mw==&mid=2650130302&idx=1&sn=814375a1bfb14249d881b179dee0c6b7&chksm=bedabcca89ad35dc6517769375fbdac0eb9aad02445c22665ee0b1a81ef35d1be6537b7fdabd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585673991982&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1412,7 +1416,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Covidify - corona virus report and dataset generator for python](https://github.com/AaronWard/covidify)
 - [Tracking the growth of COVID-19 Cases woldwide](https://github.com/aatishb/covidtrends)
 - [数据 | 新冠肺炎国内各省份每日病例数据](https://mp.weixin.qq.com/s/kQGn4PbsK-btm5yKGFkS_g)
-- [美国国标疫情数据是怎么炼成的？专访约翰·霍普金斯团队](http://mp.weixin.qq.com/s?__biz=MzU3ODA5MjAxMQ==&mid=2247484560&idx=1&sn=61554302d233922ba378bf892636d917&chksm=fd7bea14ca0c63028252aed6066d2168239b3171242f00323b9a92499910626e3ef0cea50747&scene=0&xtrack=1#rd)
+- [美国国标疫情数据是怎么炼成的？专访约翰·霍普金斯团队](https://mp.weixin.qq.com/s/cmE_g8-mbog8ApH-yYIWnw)
 - [Data for Mobility Changes in Response to COVID-19](https://github.com/descarteslabs/DL-COVID-19)
 - [Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms)](https://github.com/ahmadawais/corona-cli)
 - [Number of diagnoses with coronavirus disease (COVID-19) in the Netherlands](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0PD4JM)
@@ -1562,6 +1566,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 智慧基层社会治理综合解决方案](https://mp.weixin.qq.com/s/kpALSxHMC6DlpkRsunvdDw)
 - [信息化疫情防控案例 | 左邻园区防疫平台的快速上线及应用实践](https://mp.weixin.qq.com/s/pETArv62_pknxM1nxDjTFQ)
 - [一眼掌握态势、用数据指导防控，以下33个疫情监测、分析与发布方案为防疫工作提供关键保障](https://mp.weixin.qq.com/s/efVLScr0M_hv2WLtCmn7oQ)
+- [疫情防控信息化案例 | “海易招”第三方电子交易平台，全流程不见面交易有保障](https://mp.weixin.qq.com/s/0BdfW4ELLqqsIT0A5-Y9Sw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
