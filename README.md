@@ -551,6 +551,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国海外留学人员，已有35人确诊](https://mp.weixin.qq.com/s/vsbhuUIvhvWNpiP11ZkDEA)
 - [无症状感染者，1541例](https://mp.weixin.qq.com/s/CyE2JEVmUrCVcAFneIjPhg)
 - [确诊人数70例→16万例，美国到底经历了什么？](https://mp.weixin.qq.com/s/gLrRRX_5w63bERG7dlcT0Q)
+- [AIIA《人工智能助力新冠疫情防控调研报告》要点解读](http://mp.weixin.qq.com/s?__biz=MzU4NzY1NzEwMw==&mid=2247486810&idx=1&sn=f5d18a51a0edaf5cf9cd2ef6d57f88ce&chksm=fde9f7baca9e7eac1370eb83741903b210138fe20d4be5b3ac2417d3b4fc278d2809affa2c1d&scene=0&xtrack=1#rd)
+- [福建：无症状感染者连续两次核酸检测阴性方可解除隔离，解除隔离后继续进行14天的隔离管理和健康状况监测](https://mp.weixin.qq.com/s/SSmCbfHMBzz9CnXnOC_T1A)
+- [人类与瘟疫：一场西西弗斯式的战争](https://mp.weixin.qq.com/s/M66zIwl20VxuRJb0PYo-mQ)
+- [无症状感染者备受关注，李兰娟最新提醒！](https://mp.weixin.qq.com/s/SZn1Nr6dcEhvtinttZNcWg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
