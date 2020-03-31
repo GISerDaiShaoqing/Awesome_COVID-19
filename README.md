@@ -555,6 +555,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [福建：无症状感染者连续两次核酸检测阴性方可解除隔离，解除隔离后继续进行14天的隔离管理和健康状况监测](https://mp.weixin.qq.com/s/SSmCbfHMBzz9CnXnOC_T1A)
 - [人类与瘟疫：一场西西弗斯式的战争](https://mp.weixin.qq.com/s/M66zIwl20VxuRJb0PYo-mQ)
 - [无症状感染者备受关注，李兰娟最新提醒！](https://mp.weixin.qq.com/s/SZn1Nr6dcEhvtinttZNcWg)
+- [国家卫健委：4月1日起将无症状感染者情况列入每日通报](https://mp.weixin.qq.com/s/_TJk4lDX7rHUxKuHNsjCbw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1394,7 +1395,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新） Memory of 2020 nCoV: Media Coverage, Non-fiction Writings, and Individual Narratives (Continuously updating) ](https://github.com/2019ncovmemory/nCovMemory)
 - ["Every individual matters. Every individual has a role to play." This is a repository that archives the individual stories during the COVID19 pandemic. 备份普通人在疫情期间的记录。（持续翻译 & 更新中）](https://github.com/jiayiliujiayi/2020nCov_individual_archives)
 - [COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL) - case numbers include persons tested in the respective area. The data is updated at best once a day (times of collection and update may vary)](https://github.com/openZH/covid_19)
-- [Florida COVID19 Data parsed from Florida DOH](https://github.com/gadenbuie/covid19-florida)
 - [COVID-19 cases in Germany](https://github.com/dirkschumacher/covid-api)
 - [COVID-19 global data (from JHU CSSE for now) as-a-service ](https://github.com/mathdroid/covid-19-api)
 - [COVID 19 Data from across the African Continent](https://github.com/dsfsi/covid19africa)
