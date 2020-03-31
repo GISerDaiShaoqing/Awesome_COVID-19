@@ -1413,6 +1413,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [美国国标疫情数据是怎么炼成的？专访约翰·霍普金斯团队](http://mp.weixin.qq.com/s?__biz=MzU3ODA5MjAxMQ==&mid=2247484560&idx=1&sn=61554302d233922ba378bf892636d917&chksm=fd7bea14ca0c63028252aed6066d2168239b3171242f00323b9a92499910626e3ef0cea50747&scene=0&xtrack=1#rd)
 - [Data for Mobility Changes in Response to COVID-19](https://github.com/descarteslabs/DL-COVID-19)
 - [Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms)](https://github.com/ahmadawais/corona-cli)
+- [Number of diagnoses with coronavirus disease (COVID-19) in the Netherlands](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0PD4JM)
+- [Dataset: Number of diagnoses with coronavirus disease (COVID-19) in The Netherlands](https://zenodo.org/record/3711592#.XoNQTIgzaUl)
+- [RIVM reported numbers on the Coronavirus outbreak in The Netherlands](https://github.com/J535D165/CoronaWatchNL#interesting-links)
+- [COVID-19 Coronavirus Europe data](https://dataverse.harvard.edu/dataverse/covid-19-eu)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
