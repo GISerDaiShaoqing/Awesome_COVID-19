@@ -547,6 +547,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [甘肃：持绿码返回人员也要做核酸检测](https://mp.weixin.qq.com/s/opYJ1LOboy8a2o5EFqUKNg)
 - [境外逃犯自首：国外太乱了，我要回国保命](https://mp.weixin.qq.com/s/5bLTUDyYrawVhSdT6PeVQA)
 - [“COVID-19”科研动态监测每日快报（3月30日）【中国科讯】](https://mp.weixin.qq.com/s/woNvi7mT9Ap0fwjSBiCx9A)
+- [“墓地每半小时，就有一场葬礼”](https://mp.weixin.qq.com/s/NNxQ-IWlJQGNkiyxXqRQ9w)
+- [中国海外留学人员，已有35人确诊](https://mp.weixin.qq.com/s/vsbhuUIvhvWNpiP11ZkDEA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -753,6 +755,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [NEJM新冠病毒大型Q/A，钟南山在线答疑各国专家](http://blog.sciencenet.cn/blog-3423233-1225862.html)
 - [新冠母婴传播有新证据？](http://news.sciencenet.cn/htmlnews/2020/3/437640.shtm)
 - [Can SARS-CoV-2 Infection Be Acquired In Utero?More Definitive Evidence Is Needed](https://jamanetwork.com/journals/jama/fullarticle/2763851)
+- [应用SIRS与qSOFA两种模型的评价结果真的准确吗？](https://mp.weixin.qq.com/s/gHptyP4Uk_isJDU-MxtWmQ)
+- [A Comparison of the Quick-SOFA and Systemic Inflammatory Response Syndrome Criteria for the Diagnosis of Sepsis and Prediction of Mortality: A Systematic Review and Meta-Analysis](https://journal.chestnet.org/article/S0012-3692(17)33283-X/abstract)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -905,6 +909,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [清华等团队从蝙蝠“百毒不侵”中找答案：发现新冠病毒抑制剂](http://news.sciencenet.cn/htmlnews/2020/3/437715.shtm)
 - [Orthogonal genome-wide screenings in bat cells identify MTHFD1 as a target of broad antiviral therapy](https://www.biorxiv.org/content/10.1101/2020.03.29.014209v1)
 - [对40种病毒变体基因测序，冰岛发现全球首例“双重感染者”](http://news.sciencenet.cn/htmlnews/2020/3/437639.shtm)
+- [SARS-CoV-2病毒RNA在粪便样本中长期存在](https://mp.weixin.qq.com/s/OvAn5WP-Hq9cbBu68creKg)
+- [Cell & CHOM：新冠病毒的结构、功能基础以及动态免疫反应](https://mp.weixin.qq.com/s/tlomipdMzMg1_78T1yycEQ)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -997,6 +1003,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【观点】夏季降至：湿热的气候能否终结新冠病毒的传播？](https://mp.weixin.qq.com/s/LbI7356afWVuKaIxwK3Unw)
 - [Could the summer bring an end to COVID-19?](https://www.livescience.com/warmer-weather-slow-coronavirus-spread.html)
 - [O型血更不易感？新冠病毒会使你症状多严重？答案或许在基因里｜《科学》新闻](https://mp.weixin.qq.com/s/h6pPvUhVueKA8d8k01IThA)
+- [分析全球1085例新冠肺炎患者数据，我们得出这些结论！](https://mp.weixin.qq.com/s/DtvHgq5WJo9up7idK9fpfw)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1315,6 +1322,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【图说】从卫星照片显示的二氧化氮排放看疫情对经济的影响](https://mp.weixin.qq.com/s/mL6ZpZTfKlrO32nHp5CjqQ)
 - [These satellite photos show how COVID-19 lockdowns have impacted global emissions](https://www.weforum.org/agenda/2020/03/emissions-impact-coronavirus-lockdowns-satellites)
 - [非典.新冠与社会韧性](https://mp.weixin.qq.com/s/fII6i-TY22csfkU7ZYpKig)
+- [观点 | 黄奇帆：新冠疫情蔓延下全球产业链重构的三点思考](https://mp.weixin.qq.com/s/-4yD2SYZBwwvHbec5qsPKw)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1496,6 +1504,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [投票 | 疫情数据可视化公益行动第五期川美优秀作品候选名单公示](https://mp.weixin.qq.com/s/KtlL7h8IJTSvCGEtXnkG-w)
 - [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
 - [Cartoon infographics to help people understand what they can do to stay safe & healthy during the COVID19 pandemic](https://github.com/eleanormurray/COVID_19)
+- [对全球38个国家地区共计1085例新冠肺炎追踪观察得出的人口统计学结论](https://public.tableau.com/profile/penny6036#!/vizhome/381085/Story1)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
@@ -1620,6 +1629,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [4月2日9:30，直播论坛：从COVID-19疫情看未来空间大数据应用与机遇](https://mp.weixin.qq.com/s/ocYCWQsOazT92I20TOOq2w)
 - [线上研讨会 | 新冠病毒药物靶点研究与合作](https://mp.weixin.qq.com/s/uYvbdoGKxfrivoJV4rK2vQ)
 - [12位全球顶尖思想家预测：新冠疫情之后，世界秩序将何去何从？](https://mp.weixin.qq.com/s/S_OfaoPPzFWNz9smqtcOKQ)
+- [全球变化科学紫荆论坛第333期](https://mp.weixin.qq.com/s/ONr6ZBKIpbyTmwVfjJWT6g)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
