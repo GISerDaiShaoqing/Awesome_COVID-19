@@ -556,6 +556,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [人类与瘟疫：一场西西弗斯式的战争](https://mp.weixin.qq.com/s/M66zIwl20VxuRJb0PYo-mQ)
 - [无症状感染者备受关注，李兰娟最新提醒！](https://mp.weixin.qq.com/s/SZn1Nr6dcEhvtinttZNcWg)
 - [国家卫健委：4月1日起将无症状感染者情况列入每日通报](https://mp.weixin.qq.com/s/_TJk4lDX7rHUxKuHNsjCbw)
+- [12595｜荷兰死亡病例超过1000例，每百万人口死亡病例排在全球第五位](https://mp.weixin.qq.com/s/SAWQRm6uzlJU8rQLQnAGkQ)
+- [北欧和南欧关于疫情财政援助产生分歧](https://mp.weixin.qq.com/s/x8TFsyFrkiconwzXScWSKQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1417,6 +1419,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Dataset: Number of diagnoses with coronavirus disease (COVID-19) in The Netherlands](https://zenodo.org/record/3711592#.XoNQTIgzaUl)
 - [RIVM reported numbers on the Coronavirus outbreak in The Netherlands](https://github.com/J535D165/CoronaWatchNL#interesting-links)
 - [COVID-19 Coronavirus Europe data](https://dataverse.harvard.edu/dataverse/covid-19-eu)
+- [COVID-19 infecties op de Nederlandse IC’s](https://www.stichting-nice.nl/)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
