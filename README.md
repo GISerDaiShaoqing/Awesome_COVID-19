@@ -562,6 +562,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [今日欧洲早被预言？历史重演or诺奖经典重现？人性=不长记性！？](https://mp.weixin.qq.com/s/BYuFHeIKcD9w_AaDsbU3Kg)
 - [呼吁 | 请把钱发给我们：请不要过河拆桥！](https://mp.weixin.qq.com/s/kEvvCMzfi_Y5pSELBYCT3A)
 - [严厉打击海上非法入境，严防境外疫情输入！刚刚，厦门发布重要公告！](http://mp.weixin.qq.com/s?__biz=MjM5NzMxODM2Mw==&mid=2650130302&idx=1&sn=814375a1bfb14249d881b179dee0c6b7&chksm=bedabcca89ad35dc6517769375fbdac0eb9aad02445c22665ee0b1a81ef35d1be6537b7fdabd&mpshare=1&scene=1&srcid=&sharer_sharetime=1585673991982&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [当前荷兰防控措施的效果 | 3月31日](https://mp.weixin.qq.com/s/6SaumhiwcDbpQFAgS1Jnkg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1654,6 +1655,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [线上研讨会 | 新冠病毒药物靶点研究与合作](https://mp.weixin.qq.com/s/uYvbdoGKxfrivoJV4rK2vQ)
 - [12位全球顶尖思想家预测：新冠疫情之后，世界秩序将何去何从？](https://mp.weixin.qq.com/s/S_OfaoPPzFWNz9smqtcOKQ)
 - [全球变化科学紫荆论坛第333期](https://mp.weixin.qq.com/s/ONr6ZBKIpbyTmwVfjJWT6g)
+- [视频回放：王辰院士、瞿介明教授、曹彬教授对话欧洲专家](https://mp.weixin.qq.com/s/QvwnYar0odUnagusC9kjng)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
