@@ -1065,6 +1065,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [英学者《柳叶刀》发文：武汉“封城”为医疗救治争取了喘息期](http://news.sciencenet.cn/htmlnews/2020/3/437601.shtm)
 - [The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan,China:a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30073-6/fulltext)
 - [State-level social distancing policies in response to the 2019 novel coronavirus in the US](https://github.com/COVID19StatePolicy/SocialDistancing)
+- [The effect of control strategies that reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China: a modelling study"](https://github.com/kieshaprem/covid19-agestructureSEIR-wuhan-social-distancing)
 
 # Comprehensive Research
 - [A novel coronavirus outbreak of global health concern](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)
@@ -1526,6 +1527,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [对全球38个国家地区共计1085例新冠肺炎追踪观察得出的人口统计学结论](https://public.tableau.com/profile/penny6036#!/vizhome/381085/Story1)
 - [【Viz Challenge】2020 年第一期获奖作品揭晓，跟着冠军一起来可视化抗“疫”](https://mp.weixin.qq.com/s/qXBYpxNfSq4tcUVlxaxbGg)
 - [全球新冠状病毒分布图](https://public.tableau.com/profile/.87107524#!/vizhome/Book2_15852360521010/Dashboard4?publish=yes)
+- [多国疫情进入剧烈增长期，全球“封锁”步步加深](https://mp.weixin.qq.com/s/uEKyhOH5TnJ9YXEnoVvKmg)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
