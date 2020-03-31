@@ -549,6 +549,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [“COVID-19”科研动态监测每日快报（3月30日）【中国科讯】](https://mp.weixin.qq.com/s/woNvi7mT9Ap0fwjSBiCx9A)
 - [“墓地每半小时，就有一场葬礼”](https://mp.weixin.qq.com/s/NNxQ-IWlJQGNkiyxXqRQ9w)
 - [中国海外留学人员，已有35人确诊](https://mp.weixin.qq.com/s/vsbhuUIvhvWNpiP11ZkDEA)
+- [无症状感染者，1541例](https://mp.weixin.qq.com/s/CyE2JEVmUrCVcAFneIjPhg)
+- [确诊人数70例→16万例，美国到底经历了什么？](https://mp.weixin.qq.com/s/gLrRRX_5w63bERG7dlcT0Q)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1324,6 +1326,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [These satellite photos show how COVID-19 lockdowns have impacted global emissions](https://www.weforum.org/agenda/2020/03/emissions-impact-coronavirus-lockdowns-satellites)
 - [非典.新冠与社会韧性](https://mp.weixin.qq.com/s/fII6i-TY22csfkU7ZYpKig)
 - [观点 | 黄奇帆：新冠疫情蔓延下全球产业链重构的三点思考](https://mp.weixin.qq.com/s/-4yD2SYZBwwvHbec5qsPKw)
+- [高端访谈 | 疫情、公共交通与新基建 (上)](https://mp.weixin.qq.com/s/-Ule1XL71ASbCfWLeYQwIg)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1506,6 +1509,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Florida COVID19 Data parsed from Florida DOH Dashboard and PDF reports](https://github.com/gadenbuie/covid19-florida)
 - [Cartoon infographics to help people understand what they can do to stay safe & healthy during the COVID19 pandemic](https://github.com/eleanormurray/COVID_19)
 - [对全球38个国家地区共计1085例新冠肺炎追踪观察得出的人口统计学结论](https://public.tableau.com/profile/penny6036#!/vizhome/381085/Story1)
+- [【Viz Challenge】2020 年第一期获奖作品揭晓，跟着冠军一起来可视化抗“疫”](https://mp.weixin.qq.com/s/qXBYpxNfSq4tcUVlxaxbGg)
+- [全球新冠状病毒分布图](https://public.tableau.com/profile/.87107524#!/vizhome/Book2_15852360521010/Dashboard4?publish=yes)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
