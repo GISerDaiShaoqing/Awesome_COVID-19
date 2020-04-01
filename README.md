@@ -71,6 +71,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Github: Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 - [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
 - [Github：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV)
+- [中国科学院新型冠状病毒肺炎科研文献共享平台](http://ncov.cas.cn/)
 
 ## WHO, CDC and other correlated department
 - [WHO Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
@@ -597,6 +598,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [无症状感染者可怕？别慌！福建是这样发现和管理他们的](https://mp.weixin.qq.com/s/33lxr97ManVppoXRm07n-Q)
 - [揭秘！一架航班入境厦门，上百旅客最快半小时分流，如何做到？](https://mp.weixin.qq.com/s/lTlkdounIT3PabsCK88GMg)
 - [多家生命科学公司贡献专长和资源，与盖茨基金会共同抗击全球新冠肺炎疫情](https://mp.weixin.qq.com/s/RYLbK9kJUEjP5ZJldIxUng)
+- [H5｜COVID-19 Tips 九种语言版防疫指南](https://mp.weixin.qq.com/s/vXE0IfvUAV5zRllVK9wrTQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
