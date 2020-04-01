@@ -606,6 +606,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [网友提议“武汉进行全面免费检测”，官方回应](https://mp.weixin.qq.com/s/Lr35RuQCMSw-60zu4uumqA)
 - [夫妻从澳门回来后瞒报行程，被强制隔离](https://mp.weixin.qq.com/s/JLF2drTWVhcxwzA6bpCQDQ)
 - [“疫情在纽约的发展，就像是做了一场噩梦”](https://mp.weixin.qq.com/s/ye-O4PTmOFk8zfmTkP8Vhg)
+- [13614｜钟南山预计4月底全球出现拐点｜荷兰疫情有人乐观有人悲，数据不相信谎言](https://mp.weixin.qq.com/s/tm8u5JtzS4KIwSb-lxtGtw)
+- [60万口罩召回后续：荷兰相关机构将制定防护物资质量规范](https://mp.weixin.qq.com/s/t-le1PiuFNHBysPmZ_OLng)
+- [RIVM正在开展“群体免疫”的研究](https://mp.weixin.qq.com/s/-RWYu8MsVeuwSpiPIq7s5Q)
+- [专家：人人都做检测不现实](https://mp.weixin.qq.com/s/z4AbwpF9sAeYUm8830sntw)
+- [荷兰中资企业守望相助聚力抗疫](https://mp.weixin.qq.com/s/MTGLzgU57K-gZKHxDmZWdQ)
+- [带你解读RIVM 4月1日发布会材料](http://mp.weixin.qq.com/s?__biz=MzI5NjU5OTc4Ng==&mid=2247486345&idx=1&sn=0d37a85010db42febd24e939002d0f34&chksm=ec40a20cdb372b1abcb968c6008ddffea15bf4d6a20f8431109edbdfcbd72732e88efaeef4ee&mpshare=1&scene=1&srcid=0402KR6pSyMCZztZ4rurzOOD&sharer_sharetime=1585772011739&sharer_shareid=e96195563455182aa8fd5a802c2a24a7#rd)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1501,6 +1507,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [RIVM reported numbers on the Coronavirus outbreak in The Netherlands](https://github.com/J535D165/CoronaWatchNL#interesting-links)
 - [COVID-19 Coronavirus Europe data](https://dataverse.harvard.edu/dataverse/covid-19-eu)
 - [COVID-19 infecties op de Nederlandse IC’s](https://www.stichting-nice.nl/)
+- [国际资讯|为跟踪冠状病毒传播而收集定位信息所引发的数据隐私问题](https://mp.weixin.qq.com/s/J1i5K9Cp1FmZyhjr6tBWog)
+- [Data privacy worries as govts collect location data to track Coronavirus spread](https://www.geospatialworld.net/blogs/data-privacy-worries-as-govts-collect-location-data-to-track-coronavirus-spread/
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1648,6 +1656,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [信息化疫情防控案例 | 左邻园区防疫平台的快速上线及应用实践](https://mp.weixin.qq.com/s/pETArv62_pknxM1nxDjTFQ)
 - [一眼掌握态势、用数据指导防控，以下33个疫情监测、分析与发布方案为防疫工作提供关键保障](https://mp.weixin.qq.com/s/efVLScr0M_hv2WLtCmn7oQ)
 - [疫情防控信息化案例 | “海易招”第三方电子交易平台，全流程不见面交易有保障](https://mp.weixin.qq.com/s/0BdfW4ELLqqsIT0A5-Y9Sw)
+- [疫情防控信息化案例|英飞拓AI体温预警系统应用案列](https://mp.weixin.qq.com/s/Vf8HQW5VexOTVZXT3pzUUA)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
