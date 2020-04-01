@@ -599,6 +599,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [揭秘！一架航班入境厦门，上百旅客最快半小时分流，如何做到？](https://mp.weixin.qq.com/s/lTlkdounIT3PabsCK88GMg)
 - [多家生命科学公司贡献专长和资源，与盖茨基金会共同抗击全球新冠肺炎疫情](https://mp.weixin.qq.com/s/RYLbK9kJUEjP5ZJldIxUng)
 - [H5｜COVID-19 Tips 九种语言版防疫指南](https://mp.weixin.qq.com/s/vXE0IfvUAV5zRllVK9wrTQ)
+- [新增确诊1019死亡134！荷兰抄新加坡佛系抗疫？别逗了，人家是口嫌体正直！](https://mp.weixin.qq.com/s/d1Nme0a3glEAfX_KEZOXkg)
+- [官宣继续封锁，荷兰目标开放新冠无限测试！ICU数据实时报道看这里！](https://mp.weixin.qq.com/s/WX7E9EnPzCRFFCpbVu81uA)
+- [强生宣布成功筛选出新冠肺炎主要候选疫苗！](https://mp.weixin.qq.com/s/kLNrU6UOJZN-22mABe5LcA)
+- [在海外的留学生如何抗疫？32个热点问答请收好](https://mp.weixin.qq.com/s/qgXZOORnCALOAMSjPyw15A)
+- [网友提议“武汉进行全面免费检测”，官方回应](https://mp.weixin.qq.com/s/Lr35RuQCMSw-60zu4uumqA)
+- [夫妻从澳门回来后瞒报行程，被强制隔离](https://mp.weixin.qq.com/s/JLF2drTWVhcxwzA6bpCQDQ)
+- [“疫情在纽约的发展，就像是做了一场噩梦”](https://mp.weixin.qq.com/s/ye-O4PTmOFk8zfmTkP8Vhg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -971,6 +978,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Prolonged presence of SARS-COV-2 viral RNA in faecal samples](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30083-2/fulltext)
 - [Cell & CHOM：新冠病毒的结构、功能基础以及动态免疫反应](https://mp.weixin.qq.com/s/tlomipdMzMg1_78T1yycEQ)
 - [清华大学：通过CRISPR文库敲除蝙蝠2万多个基因，发现多个广谱抗病毒药物靶点和抗新冠病毒潜在药物分子](https://mp.weixin.qq.com/s/FgWwJDrXTVOXvYbmslHxww)
+- [清华大学药学院谭旭课题组从蝙蝠基因组学研究发现广谱抗病毒药物靶点和抗新冠病毒潜在药物分子](https://mp.weixin.qq.com/s/XXodIJAtpzSfL1tn0jrc0g)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1598,6 +1606,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [多国疫情进入剧烈增长期，全球“封锁”步步加深](https://mp.weixin.qq.com/s/uEKyhOH5TnJ9YXEnoVvKmg)
 - [4月2日，我们请到了约翰·霍普金斯大学的中国博士生，和您讲述全球疫情地图背后的故事](https://mp.weixin.qq.com/s/xFraQJDUjWLpyK1MeNTwdg)
 - [Python:动态全国各省新型冠状病毒疫情变化](https://mp.weixin.qq.com/s/Jbiu4tK6I5nY9jDpb5OjmA)
+- [Mapping Mobility Changes in Response to COVID-19](https://geods.geography.wisc.edu/covid19/physical-distancing/)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
