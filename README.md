@@ -653,6 +653,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [官方：发现无症状感染者2小时内网络直报](https://mp.weixin.qq.com/s/5ruzGTHY-RFDwrACdDijXA)
 - [26个疫情高风险国家！外交部公布](https://mp.weixin.qq.com/s/XDOhQuWDrtwzczNRRhs4gA)
 - [京都一大学暴发疫情，至少27名学生确诊](https://mp.weixin.qq.com/s/mCbU6TsWuB1yS9Ygvy1k6w)
+- [新增确诊1083人死亡166人!今日‘中国不合格口罩’事件大翻转,美国还在劫胡口罩...](https://mp.weixin.qq.com/s/3o6mFx79VHtLKbJe6TTvQw)
+- [首位新冠疫苗试验女生结束观察，CT结果出来了](https://mp.weixin.qq.com/s/X0TnpIXKZqACX5lAp1b2Ow)
+- [14697｜荷兰重症监护床位上限2400，可疫情还在扩散，怎么办？](https://mp.weixin.qq.com/s/s7mcB8oZIEQwNwjmxtLjYw)
+- [疫情期间，我所经历的医院就诊过程”｜我说抗疫](https://mp.weixin.qq.com/s/NIYi-FarNPi3UAGTXdBCjA)
+- [60万口罩召回后续：中国商务部披露核实结果，荷方尚未做出回应](https://mp.weixin.qq.com/s/mqeUMYcwI9uCF0ARzkuyVA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1167,6 +1172,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 基于多源城市大数据与不同复工比例场景的深圳市新冠肺炎时空分布与传播风险评估](https://mp.weixin.qq.com/s/Esr8v0uw1UCYaqvOrOKPOQ)
 - [高德地图发布清明小长假出行防疫指南：大数据告诉你哪些城市迁出意愿最强？【附下载】](https://mp.weixin.qq.com/s/sxQlA8HdbIFwPU4cJbXu2g)
 - [Scenario analyses for COVID-19 outbreak in the United Kingdom](https://github.com/cmmid/covid-uk)
+- [British Red Cross COVID-19 vulnerability index for the UK](https://github.com/britishredcrosssociety/covid-19-vulnerability)
 
 ## Evaluation intervention
 - [Effect of non-pharmaceutical interventions for containing the COVID-19 outbreak: an observational and modelling study](https://www.worldpop.org/events/COVID_NPI)
