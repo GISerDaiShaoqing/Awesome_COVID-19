@@ -641,6 +641,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [外籍确诊者咬伤护士，广州市卫健委回应](https://mp.weixin.qq.com/s/ZLIqu6HGcTPpIIjp9_9KSQ)
 - [河南郏县二次封村，发现2名无症状感染者](https://mp.weixin.qq.com/s/VMbM1P96gSaCqMXKA26DEw)
 - [在英国街上不被警察盘问罚款的，只有山羊](https://mp.weixin.qq.com/s/VMbM1P96gSaCqMXKA26DEw)
+- [国家卫健委：昨日新增确诊病例35例，新增无症状感染者55例](https://mp.weixin.qq.com/s/YAcxGOMjaXxlqXOY3OOZpg)
+- [扩散！别再重复用了！检测结果惊人！大量的传染性病毒 …](https://mp.weixin.qq.com/s/hRY4Mu1yJvGfUt-JmjhGlA)
+- [李文亮等14名牺牲人员被评定为烈士](https://mp.weixin.qq.com/s/PZIIW466b7P_hiTEu1glLg)
+- [外国人在华扰乱防疫秩序”，外交部回应](https://mp.weixin.qq.com/s/7Jq2Za0qV3HUTXxS8Y2EZg)
+- [“疫情时期的科研”访谈：药物研发，与病毒赛跑！ | Cell Mentor](https://mp.weixin.qq.com/s/KOxFxNLMIXJKQUt1JUsllg)
+- [关注！猫能感染新冠、狗不易感，是否传人不明确](https://mp.weixin.qq.com/s/9FLiQNu8ysDszEvkszm6Jw)
+- [为抢疫苗进度，让健康人感染病毒！妥否？](https://mp.weixin.qq.com/s/wHdXXzKUgcsvZ3DwPpIKrw)
+- [李文亮等14名牺牲人员被评定为烈士](https://mp.weixin.qq.com/s/PZIIW466b7P_hiTEu1glLg)
+- [“外国人在华扰乱防疫秩序”，外交部回应](https://mp.weixin.qq.com/s/7Jq2Za0qV3HUTXxS8Y2EZg)
+- [官方：发现无症状感染者2小时内网络直报](https://mp.weixin.qq.com/s/5ruzGTHY-RFDwrACdDijXA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -868,6 +878,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [JAMA重磅 | 美国首次报道轻度流感样新冠肺炎患者临床数据：病情较轻，比例较高](https://mp.weixin.qq.com/s/wG6sZq6Btvd0sia8r7E27g)
 - [Community Prevalence of SARS-CoV-2 Among Patients With Influenzalike Illnesses Presenting to a Los Angeles Medical Center in March 2020](https://jamanetwork.com/journals/jama/fullarticle/2764137)
 - [Ensuring global access to COVID-19 vaccines](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30763-7/fulltext)
+- [治疗COVID-19的线索：间充质干细胞治疗H7N9感染引起ARDS的临床研究](https://mp.weixin.qq.com/s/56YiaDpv4ZSCD01Ugyq-vg)
+- [Clinical Study of Mesenchymal Stem Cell Treatment for Acute Respiratory Distress Syndrome Induced by Epidemic Influenza A (H7N9) Infection: A Hint for COVID-19 Treatment](https://www.sciencedirect.com/science/article/pii/S2095809920300370)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1134,6 +1146,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [SEIR model for COVID-19 infection, including different clinical trajectories of infection](https://github.com/alsnhll/SEIR_COVID19)
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [A Proposed Model for Partial Identification of SARS-CoV2 Infection Rates Given Observed Tests and Cases](https://github.com/saudiwin/corona_tscs)
+- [Estimate Realtime Case Counts and Time-varying Epidemiological Parameters](https://github.com/epiforecasts/EpiNow)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
