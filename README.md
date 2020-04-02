@@ -84,7 +84,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [European Centere for Disease Preventation and Control_COVID-19](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 - [European Centere for Disease Preventation and Control: Situation update worldwide](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases)
 - [CDC: Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Persons for Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html)
-- [European CDCD: Infection prevention and control for the care of patients with nCoV in healthcare settings](https://www.ecdc.europa.eu/sites/default/files/documents/nove-coronavirus-infection-prevention-control-patients-healthcare-settings.pdf)
+- [European CDC: Infection prevention and control for the care of patients with nCoV in healthcare settings](https://www.ecdc.europa.eu/sites/default/files/documents/nove-coronavirus-infection-prevention-control-patients-healthcare-settings.pdf)
 - [CDC: Information for Healthcare Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fguidance-hcp.html)
 - [CDC: Information for Laboratories](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fguidance-laboratories.html)
 - [国家卫健委: 关于印发新型冠状病毒肺炎诊疗方案（试行第七版）的通知](http://www.nhc.gov.cn/xcs/zhengcwj/202003/46c9294a7dfe4cef80dc7f5912eb1989.shtml)
@@ -651,6 +651,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [李文亮等14名牺牲人员被评定为烈士](https://mp.weixin.qq.com/s/PZIIW466b7P_hiTEu1glLg)
 - [“外国人在华扰乱防疫秩序”，外交部回应](https://mp.weixin.qq.com/s/7Jq2Za0qV3HUTXxS8Y2EZg)
 - [官方：发现无症状感染者2小时内网络直报](https://mp.weixin.qq.com/s/5ruzGTHY-RFDwrACdDijXA)
+- [26个疫情高风险国家！外交部公布](https://mp.weixin.qq.com/s/XDOhQuWDrtwzczNRRhs4gA)
+- [京都一大学暴发疫情，至少27名学生确诊](https://mp.weixin.qq.com/s/mCbU6TsWuB1yS9Ygvy1k6w)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1496,6 +1498,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【动向】看到中国煤碳消费回升，这次国际媒体罕见点赞！](https://mp.weixin.qq.com/s/hgNsaVTfv3wasV-gDWJizw)
 - [China Is Using More Coal Again. This Time It May Be a Good Thing](https://www.bloomberg.com/news/articles/2020-03-31/china-is-using-more-coal-again-this-time-it-may-be-a-good-thing)
 - [全球抗疫观︱德国专家：当危机“过去”，我们将感到惊讶](https://www.thepaper.cn/newsDetail_forward_6785947)
+- [应对流行性疫病的环境理念与建筑策略系列漫谈](https://mp.weixin.qq.com/s/jB480aObEZZ6D1ddqmJWmQ)
 
 # Data, Visualization, Platform and Tools
 ## Data
