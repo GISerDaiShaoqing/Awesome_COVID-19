@@ -1154,6 +1154,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [A Proposed Model for Partial Identification of SARS-CoV2 Infection Rates Given Observed Tests and Cases](https://github.com/saudiwin/corona_tscs)
 - [Estimate Realtime Case Counts and Time-varying Epidemiological Parameters](https://github.com/epiforecasts/EpiNow)
+- [美国智库发声，未来美国将有近10万人因新冠病毒死亡！医疗系统面临崩溃.....](https://mp.weixin.qq.com/s/fbil3fXOo6k18HJy7oooRg)
+- [Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1505,6 +1507,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [China Is Using More Coal Again. This Time It May Be a Good Thing](https://www.bloomberg.com/news/articles/2020-03-31/china-is-using-more-coal-again-this-time-it-may-be-a-good-thing)
 - [全球抗疫观︱德国专家：当危机“过去”，我们将感到惊讶](https://www.thepaper.cn/newsDetail_forward_6785947)
 - [应对流行性疫病的环境理念与建筑策略系列漫谈](https://mp.weixin.qq.com/s/jB480aObEZZ6D1ddqmJWmQ)
+- [鲍曙明教授：新冠病毒疫情对中国与全球经济影响诊断与反思](https://mp.weixin.qq.com/s/zRDbnbfPzrvRiqPlpxO3qg)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1700,6 +1703,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [4月2日，我们请到了约翰·霍普金斯大学的中国博士生，和您讲述全球疫情地图背后的故事](https://mp.weixin.qq.com/s/xFraQJDUjWLpyK1MeNTwdg)
 - [Python:动态全国各省新型冠状病毒疫情变化](https://mp.weixin.qq.com/s/Jbiu4tK6I5nY9jDpb5OjmA)
 - [Mapping Mobility Changes in Response to COVID-19](https://geods.geography.wisc.edu/covid19/physical-distancing/)
+- [国际资讯|Esri以印度疫情图创建仪表视图板](https://mp.weixin.qq.com/s/TvL7oW5J_i94o1fgHl6mwg)
+- [Esri creates dashboard to map spread of COVID 19 cases in India](https://www.geospatialworld.net/blogs/esri-creates-dashboard-to-map-spread-of-covid-19-cases-in-india/)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
@@ -1742,6 +1747,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [一眼掌握态势、用数据指导防控，以下33个疫情监测、分析与发布方案为防疫工作提供关键保障](https://mp.weixin.qq.com/s/efVLScr0M_hv2WLtCmn7oQ)
 - [疫情防控信息化案例 | “海易招”第三方电子交易平台，全流程不见面交易有保障](https://mp.weixin.qq.com/s/0BdfW4ELLqqsIT0A5-Y9Sw)
 - [疫情防控信息化案例|英飞拓AI体温预警系统应用案列](https://mp.weixin.qq.com/s/Vf8HQW5VexOTVZXT3pzUUA)
+- [疫情防控信息化案例 | “网格化+大数据”助力宜昌筑牢基层疫情防控线](https://mp.weixin.qq.com/s/m82R9TlUl-SNJOOpVUQ6Uw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
