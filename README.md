@@ -946,6 +946,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Fangcang shelter hospitals: a novel concept for responding to public health emergencies](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext)
 - [钟南山院士团队初步阐明连花清瘟抗新冠肺炎病毒的机制](https://mp.weixin.qq.com/s/s2hsSkwu54TeC4zXXFbq2Q)
 - [Lianhuaqingwen exerts anti-viral and anti-inflammatory activity against novel coronavirus (SARS-CoV-2) in vitro](https://www.sciencedirect.com/science/article/pii/S104366182030743X?via%3Dihub)
+- [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2?utm_source=weibo&utm_medium=social&utm_term=s41591-020-0843-2)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1216,6 +1217,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [美国智库发声，未来美国将有近10万人因新冠病毒死亡！医疗系统面临崩溃.....](https://mp.weixin.qq.com/s/fbil3fXOo6k18HJy7oooRg)
 - [Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1)
 - [all of the code generated during our efforts to understand and model the COVID-19 outbreak](https://github.com/COVIDmodeling/covid_19_modeling)
+- [Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30230-9/fulltext)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1668,6 +1670,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国际资讯|为跟踪冠状病毒传播而收集定位信息所引发的数据隐私问题](https://mp.weixin.qq.com/s/J1i5K9Cp1FmZyhjr6tBWog)
 - [Data privacy worries as govts collect location data to track Coronavirus spread](https://www.geospatialworld.net/blogs/data-privacy-worries-as-govts-collect-location-data-to-track-coronavirus-spread/)
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
+- [新冠肺炎（COVID-19）开放数据源](https://www.aminer.cn/data-covid19/)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1848,6 +1851,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Mathematical modelling of infectious disease in Python](https://github.com/rajeshrinet/pyross)
 - [Microsimulation model of COVID infections over time](https://github.com/agbarnett/COVID)
 - [several utilities to help wrangle COVID-19 data into a time-series format](https://github.com/dathere/covid19-time-series-utilities)
+- [Multi-stage search with neural document reranking and paragraph highlighting on the COVID-19 Open Research Dataset](https://github.com/castorini/covidex)
+- [Neural Covidex](https://covidex.ai/)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
