@@ -695,6 +695,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [卫健委：湖北现有病例降至千例以下，仍存在局部暴发疫情风险](https://mp.weixin.qq.com/s/PQ3yp1x-DSnc0AjmQqHHYg)
 - [第4艘公主号邮轮上有人确诊](https://mp.weixin.qq.com/s/D8OpYqdNpUS3Q2gCMCeOiw)
 - [印度最大感染群，9000人无法追踪](https://mp.weixin.qq.com/s/0PDgG5xGBDM_PtOAmT6qZA)
+- [史无前例！全球187个国家，超15亿学生，待课在家！](https://mp.weixin.qq.com/s/aO91nSyEdrzS4XMHpae4rQ)
+- [【转载】美式防疫日记4： 死亡人数超过9•11，纽约疫情仍在攀升](https://mp.weixin.qq.com/s/fSGCZF_VxZRFQJDalel2YQ)
+- [留学生晒健康包，这句话火了](https://mp.weixin.qq.com/s/ABILxSvSwKtDSI6HyoLy6Q)
+- [特朗普：今天狠狠打击了3M公司](https://mp.weixin.qq.com/s/n3oKiZj_ihCCUyHwnjN8wg)
+- [“最快”新冠病毒检测，有什么特殊之处？](https://mp.weixin.qq.com/s/fecUZWBTjp5TIDcdAf7xXw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -927,6 +932,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Clinical Study of Mesenchymal Stem Cell Treatment for Acute Respiratory Distress Syndrome Induced by Epidemic Influenza A (H7N9) Infection: A Hint for COVID-19 Treatment](https://www.sciencedirect.com/science/article/pii/S2095809920300370)
 - [王辰院士团队分享方舱医院经验，《柳叶刀》发表](https://mp.weixin.qq.com/s/QlZOPykmqtbkqLiSEsgUCg)
 - [Fangcang shelter hospitals: a novel concept for responding to public health emergencies](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext)
+- [钟南山院士团队初步阐明连花清瘟抗新冠肺炎病毒的机制](https://mp.weixin.qq.com/s/s2hsSkwu54TeC4zXXFbq2Q)
+- [Lianhuaqingwen exerts anti-viral and anti-inflammatory activity against novel coronavirus (SARS-CoV-2) in vitro](https://www.sciencedirect.com/science/article/pii/S104366182030743X?via%3Dihub)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1557,6 +1564,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Oil Market Report - March 2020](https://www.iea.org/reports/oil-market-report-march-2020)
 - [国际资讯 | [美]疫情下的居住问题/剑桥市创新保障食品供给(2020.4)](https://mp.weixin.qq.com/s/yFC4PK90Sr9-YGemPc5kjA)
 - [长三角议事厅55｜曾刚 易臻真：长三角地区在这三个抗疫保障中做了什么](https://mp.weixin.qq.com/s/efrcDdpxsYMqmxN1X1OlHg)
+- [疫期脱贫攻坚，数字技术发挥了哪些作用？来看阿里巴巴给出的答案](https://mp.weixin.qq.com/s/m__9etsCvcb-jYjNZtK9Yg)
+- [吴志强院士：重大疫情下的空间问题](https://mp.weixin.qq.com/s/D4G3KdKuggZQDDAA2ySr4Q)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1754,6 +1763,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Mapping Mobility Changes in Response to COVID-19](https://geods.geography.wisc.edu/covid19/physical-distancing/)
 - [国际资讯|Esri以印度疫情图创建仪表视图板](https://mp.weixin.qq.com/s/TvL7oW5J_i94o1fgHl6mwg)
 - [Esri creates dashboard to map spread of COVID 19 cases in India](https://www.geospatialworld.net/blogs/esri-creates-dashboard-to-map-spread-of-covid-19-cases-in-india/)
+- [一图看清“境外输入”详情，可交互可流动的桑基图教程出炉！](https://mp.weixin.qq.com/s/Fr6lG6t1zNd-V1j_jivxXQ)
 
 ## Platform(Including 3S Technology)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
