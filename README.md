@@ -700,6 +700,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [留学生晒健康包，这句话火了](https://mp.weixin.qq.com/s/ABILxSvSwKtDSI6HyoLy6Q)
 - [特朗普：今天狠狠打击了3M公司](https://mp.weixin.qq.com/s/n3oKiZj_ihCCUyHwnjN8wg)
 - [“最快”新冠病毒检测，有什么特殊之处？](https://mp.weixin.qq.com/s/fecUZWBTjp5TIDcdAf7xXw)
+- [一班飞机，13个确诊病例](https://mp.weixin.qq.com/s/GIfQ0qAUhmK69xDv_974yQ)
+- [空姐检测阳性，飞抵北京去向不明？官方回应了](https://mp.weixin.qq.com/s/eCIX4zLtn5UkJ41x45T38A)
+- [默克尔结束自我隔离](https://mp.weixin.qq.com/s/iFjGODO6CQdpSkaqgXc2zA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
