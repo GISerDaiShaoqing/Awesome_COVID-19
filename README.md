@@ -703,6 +703,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [一班飞机，13个确诊病例](https://mp.weixin.qq.com/s/GIfQ0qAUhmK69xDv_974yQ)
 - [空姐检测阳性，飞抵北京去向不明？官方回应了](https://mp.weixin.qq.com/s/eCIX4zLtn5UkJ41x45T38A)
 - [默克尔结束自我隔离](https://mp.weixin.qq.com/s/iFjGODO6CQdpSkaqgXc2zA)
+- [入境后乘火车辗转上千公里，致200多人被隔离](https://mp.weixin.qq.com/s/8cv3dq-roY2lJQUytAa3Iw)
+- [武汉返京未上报致母亲感染、28人隔离，获刑八个月](https://mp.weixin.qq.com/s/-T_iBp_-FsbGDXPFnwCltA)
+- [英国首相还有发烧症状，将继续自我隔离](https://mp.weixin.qq.com/s/zUG_vkmy8ziLOAwvN-fQ0Q)
+- [新增确诊1026人死亡148人,周日20℃“属于荷兰的至暗时刻”会不会来？ICU床位接近饱和，数据分析看这里！](https://mp.weixin.qq.com/s/6mQbMpxf4oOhx2fFCnBHLw)
+- [NOS官方澄清口罩问题，答案你满意吗？下一个战场来了！](https://mp.weixin.qq.com/s/DZrRkd-V45h6cfmueZPrsQ)
+- [美国宣布取消对中国口罩标准的认可！](https://mp.weixin.qq.com/s/odid0uPdpT1oRGZFVSQC5g)
+- [15723｜4月4日为英雄和逝者哀悼｜其他还有一些可看可不看的疫情消息](https://mp.weixin.qq.com/s/_9RGx6iZu0UnoM4zzPjf4w)
+- [荷兰口罩事件究竟是国货质量问题 还是 国际贸易采购不合规？](https://mp.weixin.qq.com/s/6Bz-HVnFNg-mrxKfpQ_6ng)
+- [60万口罩召回后续：荷兰媒体作出回应，不再继续讨论该话题](https://mp.weixin.qq.com/s/9kZ5zPXjz6rJOONmJvLNDA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1206,6 +1215,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Estimate Realtime Case Counts and Time-varying Epidemiological Parameters](https://github.com/epiforecasts/EpiNow)
 - [美国智库发声，未来美国将有近10万人因新冠病毒死亡！医疗系统面临崩溃.....](https://mp.weixin.qq.com/s/fbil3fXOo6k18HJy7oooRg)
 - [Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1)
+- [all of the code generated during our efforts to understand and model the COVID-19 outbreak](https://github.com/COVIDmodeling/covid_19_modeling)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1810,6 +1820,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | “海易招”第三方电子交易平台，全流程不见面交易有保障](https://mp.weixin.qq.com/s/0BdfW4ELLqqsIT0A5-Y9Sw)
 - [疫情防控信息化案例|英飞拓AI体温预警系统应用案列](https://mp.weixin.qq.com/s/Vf8HQW5VexOTVZXT3pzUUA)
 - [疫情防控信息化案例 | “网格化+大数据”助力宜昌筑牢基层疫情防控线](https://mp.weixin.qq.com/s/m82R9TlUl-SNJOOpVUQ6Uw)
+- [国际资讯|凯图与西班牙社区应用程序合作抗击疫情](https://mp.weixin.qq.com/s/9A1NLbS35ZhiDtib_Yp3TQ)
+- [CARTO collaborates with Spanish community app to fight Covid-19](https://www.geospatialworld.net/blogs/carto-spanish-covid-19/)
+- [疫情防控信息化案例|黄埔区政府疫情智能测温筛查预警系统](https://mp.weixin.qq.com/s/77xkZowY5Tn0FgePrhoHyQ)
+- [Shiny app providing estimates of future bed occupancy given recent admissions ](https://github.com/thibautjombart/covid19_bed_occupancy)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -1902,6 +1916,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [直播预告 | 健康中国的数字密码](https://mp.weixin.qq.com/s/Ey9GmmXYoMAQjGTjDk96Mg)
 - [直播预告|NEJM副主编及顶级期刊作者讲解儿科新冠肺炎临床研究实施与发表](https://mp.weixin.qq.com/s/p-fpC5konKMstPbJMYrK-A)
 - [【PPT分享】抗疫：地图的力量](https://mp.weixin.qq.com/s/BRfGbLTUnIVygBXkMkdWew)
+- [2020 霍普金斯沙龙 IV: 疫情之下，调节心理健康](https://mp.weixin.qq.com/s/2K7mJtOI806saYfy6qms_A)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
