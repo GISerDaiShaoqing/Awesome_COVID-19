@@ -722,6 +722,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [超110万](https://mp.weixin.qq.com/s/OGye011vehMj2DNMSM_xzg)
 - [武汉无症状感染者转确诊，曾多次外出取快递未洗手](https://mp.weixin.qq.com/s/EQhgoJ1CT-HbDQ4JMgqJIg)
 - [北京：防控措施对中外人士一视同仁](https://mp.weixin.qq.com/s/jf7AVRfc78vF6IiB_P0Shg)
+- [确诊病例超7000、蔓延至50多国，非洲会成为下一个欧洲吗？](https://mp.weixin.qq.com/s/RcuMtDMuEd-BVqLJ1ua2nA)
+- [今日新增降至904人！又收到93万只中国口罩，荷网友质疑配图为中国鸣不平！](https://mp.weixin.qq.com/s/L3x5-FtjqbYz2V747q38Fg)
+- [四海齐悼，寰宇同悲｜荷兰疫情更新4月4日](https://mp.weixin.qq.com/s/hk7b8sfmbbnGCSEKiaZ4jg)
+- [新冠病毒能否自我检测？张文宏耿直回答](https://mp.weixin.qq.com/s/TBEPUulLS3lLnX34TvrfIA)
+- [去多国旅行，隔离期两次出现症状不报告，她确诊了](https://mp.weixin.qq.com/s/Feb_MtnF_uJuopfmRN9SGw)
+- [纳入这项数据后，法国确诊病例猛增至83029例](https://mp.weixin.qq.com/s/RGnGENs3HKPxXHsEyodF5w)
+- [痛悼！记住这59个名字](https://mp.weixin.qq.com/s/eWJSe85ablX_PZ-UYC7hSQ)
+- [5架外国军机同一天赴上海浦东机场，自提防疫物资](https://mp.weixin.qq.com/s/mQ9rwzVlTZfQZVffGsyOww)
+- [两个月确诊27万，美国何以至此？](https://mp.weixin.qq.com/s/2CcO9vbZ4TkHTi-KvSAGTA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1692,6 +1701,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [A County-level Dataset for Informing the United States' Response to COVID-19](https://arxiv.org/abs/2004.00756)
 - [County-level Socioeconomic Data for Predictive Modeling of Epidemiological Effects](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)
 - [NYC Coronavirus (COVID-19) data](https://github.com/nychealth/coronavirus-data)
+- [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1850,6 +1860,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [CARTO collaborates with Spanish community app to fight Covid-19](https://www.geospatialworld.net/blogs/carto-spanish-covid-19/)
 - [疫情防控信息化案例|黄埔区政府疫情智能测温筛查预警系统](https://mp.weixin.qq.com/s/77xkZowY5Tn0FgePrhoHyQ)
 - [Shiny app providing estimates of future bed occupancy given recent admissions ](https://github.com/thibautjombart/covid19_bed_occupancy)
+- [This is a set of dashboards for analyzing the Corona Virus using Splunk](https://github.com/splunk/corona_virus)
+- [国际资讯|医疗专业人员如何利用地理空间数据来发挥其优势](https://mp.weixin.qq.com/s/Akex5VQulqBRq5sMOg9FWA)
+- [How Can Healthcare Professionals Use Geospatial Data to Their Advantage? ](https://www.gim-international.com/content/news/how-can-healthcare-professionals-use-geospatial-data-to-their-advantage)
+- [疫情防控信息化案例 | 海迈教育培训，助力建设行业从业人员与学生居家抗疫](https://mp.weixin.qq.com/s/bqO0DxrIbqv7Oz3i-OJBWA)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
