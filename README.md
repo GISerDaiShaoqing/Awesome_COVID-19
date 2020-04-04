@@ -720,6 +720,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [海外留学生该如何做好个人防护？](https://mp.weixin.qq.com/s/d5oUOfjL3_82VfnAb8bDfw)
 - [新增确诊19例，无症状感染者64例](https://mp.weixin.qq.com/s/u2BasaV2iy0Lz4wqpkRJng)
 - [超110万](https://mp.weixin.qq.com/s/OGye011vehMj2DNMSM_xzg)
+- [武汉无症状感染者转确诊，曾多次外出取快递未洗手](https://mp.weixin.qq.com/s/EQhgoJ1CT-HbDQ4JMgqJIg)
+- [北京：防控措施对中外人士一视同仁](https://mp.weixin.qq.com/s/jf7AVRfc78vF6IiB_P0Shg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1874,6 +1876,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [several utilities to help wrangle COVID-19 data into a time-series format](https://github.com/dathere/covid19-time-series-utilities)
 - [Multi-stage search with neural document reranking and paragraph highlighting on the COVID-19 Open Research Dataset](https://github.com/castorini/covidex)
 - [Neural Covidex](https://covidex.ai/)
+- [Covid tool development](https://github.com/dochixson/covid)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
