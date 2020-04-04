@@ -1686,6 +1686,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Data privacy worries as govts collect location data to track Coronavirus spread](https://www.geospatialworld.net/blogs/data-privacy-worries-as-govts-collect-location-data-to-track-coronavirus-spread/)
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
 - [新冠肺炎（COVID-19）开放数据源](https://www.aminer.cn/data-covid19/)
+- [Data COVID-19 Argentina actualizada y en formato tabular CSV.](https://github.com/SistemasMapache/Covid19arData)
+- [A County-level Dataset for Informing the United States' Response to COVID-19](https://arxiv.org/abs/2004.00756)
+- [County-level Socioeconomic Data for Predictive Modeling of Epidemiological Effects](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)
+- [NYC Coronavirus (COVID-19) data](https://github.com/nychealth/coronavirus-data)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1795,6 +1799,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国际资讯|Esri以印度疫情图创建仪表视图板](https://mp.weixin.qq.com/s/TvL7oW5J_i94o1fgHl6mwg)
 - [Esri creates dashboard to map spread of COVID 19 cases in India](https://www.geospatialworld.net/blogs/esri-creates-dashboard-to-map-spread-of-covid-19-cases-in-india/)
 - [一图看清“境外输入”详情，可交互可流动的桑基图教程出炉！](https://mp.weixin.qq.com/s/Fr6lG6t1zNd-V1j_jivxXQ)
+- [TH_COVID19_International](https://github.com/Tencent/TH_COVID19_International)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
