@@ -712,6 +712,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [15723｜4月4日为英雄和逝者哀悼｜其他还有一些可看可不看的疫情消息](https://mp.weixin.qq.com/s/_9RGx6iZu0UnoM4zzPjf4w)
 - [荷兰口罩事件究竟是国货质量问题 还是 国际贸易采购不合规？](https://mp.weixin.qq.com/s/6Bz-HVnFNg-mrxKfpQ_6ng)
 - [60万口罩召回后续：荷兰媒体作出回应，不再继续讨论该话题](https://mp.weixin.qq.com/s/9kZ5zPXjz6rJOONmJvLNDA)
+- [国家卫健委：新增确诊病例19例，新增无症状感染者64例](https://mp.weixin.qq.com/s/aWtefLfDNI7dZ9BBrPdiBA)
+- [快讯！厦门4月3日0新增！福州通报新增境外输入确诊病例详情！](https://mp.weixin.qq.com/s/SyPFJ7BOQAvi2fVgJOisNw)
+- [武汉封城+全国应急防控，让中国新冠肺炎病例数量下降96%；《自然》新冠论文表示等出现症状就已经晚了！| 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/eh1D6dvhoqHcMA2erYJb-w)
+- [美国化学会开放资源总览 | 全力支持COVID-19冠状病毒研究【中国科讯】](https://mp.weixin.qq.com/s/r2N2zdXHsKYFVbm0sRKMaw)
+- [“COVID-19”科研动态监测每日快报（4月3日）【中国科讯】](https://mp.weixin.qq.com/s/SEgrHdYrbny_c3k663pkVA)
+- [海外留学生该如何做好个人防护？](https://mp.weixin.qq.com/s/d5oUOfjL3_82VfnAb8bDfw)
+- [新增确诊19例，无症状感染者64例](https://mp.weixin.qq.com/s/u2BasaV2iy0Lz4wqpkRJng)
+- [超110万](https://mp.weixin.qq.com/s/OGye011vehMj2DNMSM_xzg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -947,6 +955,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [钟南山院士团队初步阐明连花清瘟抗新冠肺炎病毒的机制](https://mp.weixin.qq.com/s/s2hsSkwu54TeC4zXXFbq2Q)
 - [Lianhuaqingwen exerts anti-viral and anti-inflammatory activity against novel coronavirus (SARS-CoV-2) in vitro](https://www.sciencedirect.com/science/article/pii/S104366182030743X?via%3Dihub)
 - [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2?utm_source=weibo&utm_medium=social&utm_term=s41591-020-0843-2)
+- [外科口罩或能阻止有症状人群的季节性冠状病毒传播｜《自然-医学》](https://mp.weixin.qq.com/s/JCWTg5M0HQQ56nyheDUz2g)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1112,6 +1121,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [猫能感染新冠病毒——狗不易感](https://mp.weixin.qq.com/s/bn4yXYYfW5AUv3GiHPQgwA)
 - [广谱抗冠状病毒多肽有望防控疫情](http://news.sciencenet.cn/htmlnews/2020/4/437775.shtm)
 - [Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion](https://www.nature.com/articles/s41422-020-0305-x)
+- [Cell：不用疫苗也能预防新冠病毒！重组人ACE2蛋白可削弱新型冠状病毒的感染能力，幅度超千倍](https://mp.weixin.qq.com/s/EwYxGeg-uiAjDb7zphMuNA)
+- [Inhibition of SARS-CoV-2 infections in engineered human tissues using clinical-grade soluble human ACE2](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00739.pdf)
+- [加快审稿 | 中国学者等连续发表9篇CNS文章，系统介绍新冠病毒致病的分子机制](https://mp.weixin.qq.com/s/1xuFTbQ6CcB_brQWIlBmeQ)
+- [A highly conserved cryptic epitope in the receptor-binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/early/2020/04/02/science.abb7269)
+- [超过10%的猫呈现阳性，石正丽/金梅林发现新冠病毒可以感染猫](https://mp.weixin.qq.com/s/YuZ8boBIrDWwvir4lWQsdw)
+- [SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation](https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1782,6 +1797,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [一图看清“境外输入”详情，可交互可流动的桑基图教程出炉！](https://mp.weixin.qq.com/s/Fr6lG6t1zNd-V1j_jivxXQ)
 
 ## Platform(Including 3S Technology)
+- [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
 - [共治共享，众志抗疫—“疫情踪”App 开发及其思考](https://mp.weixin.qq.com/s/1yi5xckNSFxeiMBDCNpaow)
 - [互联网+大数据与“共治共享”抗疫治理现代化 —“疫情踪”App 开发及其思考之二：理论篇](http://mp.weixin.qq.com/s?__biz=MjM5NjMzMjk5MQ==&mid=2649484557&idx=1&sn=0a5e04cd1a5f58f6ff4d5d5faaac5125&chksm=bef599dd898210cb6756d82a8199735b2a26ab7f57e41ae621ce345e51e56d1a987db4af2a88&mpshare=1&scene=1&srcid=&sharer_sharetime=1585588171044&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗)](https://github.com/simonblowsnow/COVID-19-Visualization)
