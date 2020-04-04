@@ -731,6 +731,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [痛悼！记住这59个名字](https://mp.weixin.qq.com/s/eWJSe85ablX_PZ-UYC7hSQ)
 - [5架外国军机同一天赴上海浦东机场，自提防疫物资](https://mp.weixin.qq.com/s/mQ9rwzVlTZfQZVffGsyOww)
 - [两个月确诊27万，美国何以至此？](https://mp.weixin.qq.com/s/2CcO9vbZ4TkHTi-KvSAGTA)
+- [荷兰疫情的省份趋势 | 4月4日](https://mp.weixin.qq.com/s/lZGk_sAZeNZZTy_BhZSSJg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1138,6 +1139,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [A highly conserved cryptic epitope in the receptor-binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/early/2020/04/02/science.abb7269)
 - [超过10%的猫呈现阳性，石正丽/金梅林发现新冠病毒可以感染猫](https://mp.weixin.qq.com/s/YuZ8boBIrDWwvir4lWQsdw)
 - [SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation](https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
+- [新研究：武汉部分与患者“密切接触”猫出现新冠感染](https://mp.weixin.qq.com/s/4W-3JAFVHFJhIsD8qZAEaA)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1960,6 +1962,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [直播预告|NEJM副主编及顶级期刊作者讲解儿科新冠肺炎临床研究实施与发表](https://mp.weixin.qq.com/s/p-fpC5konKMstPbJMYrK-A)
 - [【PPT分享】抗疫：地图的力量](https://mp.weixin.qq.com/s/BRfGbLTUnIVygBXkMkdWew)
 - [2020 霍普金斯沙龙 IV: 疫情之下，调节心理健康](https://mp.weixin.qq.com/s/2K7mJtOI806saYfy6qms_A)
+- [【全球战疫】与海外留学生华人华侨谈谈：如何防治COVID-19](https://mp.weixin.qq.com/s/5_KlmLZjvzQ-HSwKFDtDkA)
+- [【重症新视野】4月6-12日系列直播预告](https://mp.weixin.qq.com/s/73x8eqf8N5Y7gYoKBdSt3g)
+- [【锵锵云战役】4月7日直播：重症的雾化治疗](https://mp.weixin.qq.com/s/XIQtOhDbn_yC5R-JWXYX4w)
+- [【战“疫”大家谈】4月8日直播：COVID-19重症患者镇痛镇静](https://mp.weixin.qq.com/s/1mOeSfpk37EP_PgFfZBtSw)
+- [【锵锵云战役】4月9日直播：重症新冠肺炎病例分享会](https://mp.weixin.qq.com/s/9gnZG_e8GrSdmaVB7YM3Qg)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
