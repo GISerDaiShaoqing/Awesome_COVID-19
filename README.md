@@ -1925,6 +1925,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [How Can Healthcare Professionals Use Geospatial Data to Their Advantage? ](https://www.gim-international.com/content/news/how-can-healthcare-professionals-use-geospatial-data-to-their-advantage)
 - [疫情防控信息化案例 | 海迈教育培训，助力建设行业从业人员与学生居家抗疫](https://mp.weixin.qq.com/s/bqO0DxrIbqv7Oz3i-OJBWA)
 - [抗疫中的西电智慧|AI校园疫情应急预警系统----AI助力学生开学，校园健康管理](https://mp.weixin.qq.com/s/h65FjboScTpIlz-4sMZwvw)
+- [疫情防控信息化案例 | 基于数字孪生技术的社区防疫应急联防联控系统](https://mp.weixin.qq.com/s/GMytRm3seV41ZX3EPTS9iA)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -1953,6 +1954,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Neural Covidex](https://covidex.ai/)
 - [Covid tool development](https://github.com/dochixson/covid)
 - [Optimization of genomic classifiers for clinical deployment: evaluation of Bayesian optimization for identification of predictive models of acute infection and in-hospital mortality](https://arxiv.org/abs/2003.12310)
+- [国际资讯|新冠病毒疫情中的计算机视觉技术应用](https://mp.weixin.qq.com/s/ADYqbANMAUJrFll1SbA-PA)
+- [Computer Vision in the Time of the Coronavirus Outbreak](https://www.gislounge.com/computer-vision-in-the-time-of-coronavirus/)
+- [R scripts to process/cleanup data from the repo: https://github.com/CSSEGISandData/COVID-19 into tidy datasets](https://github.com/jmcastagnetto/covid-19-data-cleanup)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
