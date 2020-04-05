@@ -763,6 +763,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [心脏骤停的援鄂女护师，病人称“会一辈子记得她”](https://mp.weixin.qq.com/s/K83sw9CN3RkralbPyhZs6A)
 - [广东省一患者打伤防疫人员，已被拘留](https://mp.weixin.qq.com/s/epM4RZb5kDGcADF2YLW8hQ)
 - [新冠药物研究3日内须立项，逾期叫停；清华获最“豪”捐赠 | 一周动态](https://mp.weixin.qq.com/s/GQ9mofoznr59qnEFF2d8-A)
+- [边境城市绥芬河日增13例境外输入，来自同一个地方](https://mp.weixin.qq.com/s/ymRLyn6IZt14yRZUGnaOVA)
+- [澳大利亚“红宝石公主”号邮轮已有超620人确诊](https://mp.weixin.qq.com/s/T2-20RWHzQ1CWdA5AcGh5A)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1002,6 +1004,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Nature Medicine | 最新，外科口罩可以防止有症状的人传播人类冠状病毒和流感病毒](https://mp.weixin.qq.com/s/cfUiXVi4NgdzardISyfLcA)
 - [重大发现 | 南京医科大学刘云等团队发现新冠病毒可能不会感染男性生殖系统](https://mp.weixin.qq.com/s/GiHzt26WJLx82k8G1vOzzw)
 - [Detection of 2019 novel coronavirus in semen and testicular biopsy specimen of COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.03.31.20042333v1)
+- [重磅 | BMJ Best Practice 更新提示：嗅觉 / 味觉丧失为 COVID-19 关键症状](https://mp.weixin.qq.com/s/fDg-b2OzX7MZvMuHPtJzaw)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
