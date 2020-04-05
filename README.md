@@ -757,6 +757,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [一援鄂护士突发心脏骤停，正全力抢救](https://mp.weixin.qq.com/s/1BFo6N3MBj-GTL0HqCM7bw)
 - [首位疫苗试验女生CT结果出来了！](https://mp.weixin.qq.com/s/woGueoho85ZI1x_G5XhymA)
 - [突发心脏骤停的女护师，曾在湖北抗疫五十余天](https://mp.weixin.qq.com/s/7ShjeSyZ1RWfbutSuIrU7g)
+- [自我隔离与边境封锁：什么能更好地阻止流行病传播？ | 网络科学论文速递23篇](https://mp.weixin.qq.com/s/P-CzKu1lqBOVMoL1HrajSA)
+- [为全球抗疫提供坚实科技支撑——国际社会积极评价中国开展疫情防控科研攻关和对外合作](http://news.sciencenet.cn/htmlnews/2020/4/437949.shtm)
+- [回国女子隔离期出现症状自行服药，严重了](https://mp.weixin.qq.com/s/l70iZQo5b1NoPrFw2RY01w)
+- [心脏骤停的援鄂女护师，病人称“会一辈子记得她”](https://mp.weixin.qq.com/s/K83sw9CN3RkralbPyhZs6A)
+- [广东省一患者打伤防疫人员，已被拘留](https://mp.weixin.qq.com/s/epM4RZb5kDGcADF2YLW8hQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1641,6 +1646,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫期脱贫攻坚，数字技术发挥了哪些作用？来看阿里巴巴给出的答案](https://mp.weixin.qq.com/s/m__9etsCvcb-jYjNZtK9Yg)
 - [吴志强院士：重大疫情下的空间问题](https://mp.weixin.qq.com/s/D4G3KdKuggZQDDAA2ySr4Q)
 - [尹稚：只有转向社会治理现代化，才能弥补疫情应对中的不足](https://mp.weixin.qq.com/s/KN0xI3Xe1v7HlnHjFgNLvg)
+- [抗击疫情，女规划师在行动｜袁媛：加强健康社区建设，应对新冠肺炎流行](https://mp.weixin.qq.com/s/HVwbz4Qae-nX9DdOxOPpIg)
 
 # Data, Visualization, Platform and Tools
 ## Data
