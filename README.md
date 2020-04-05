@@ -762,6 +762,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [回国女子隔离期出现症状自行服药，严重了](https://mp.weixin.qq.com/s/l70iZQo5b1NoPrFw2RY01w)
 - [心脏骤停的援鄂女护师，病人称“会一辈子记得她”](https://mp.weixin.qq.com/s/K83sw9CN3RkralbPyhZs6A)
 - [广东省一患者打伤防疫人员，已被拘留](https://mp.weixin.qq.com/s/epM4RZb5kDGcADF2YLW8hQ)
+- [新冠药物研究3日内须立项，逾期叫停；清华获最“豪”捐赠 | 一周动态](https://mp.weixin.qq.com/s/GQ9mofoznr59qnEFF2d8-A)
 
 # Clinic Medicine correlated Resources
 ## Radiology
