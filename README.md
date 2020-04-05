@@ -1011,6 +1011,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [呼啦圈防身，卫生纸上锁…为了防疫，歪果仁真是脑洞大开了！](https://mp.weixin.qq.com/s/Y0iUo_Kw8Kd7cG8u95bioA)
 - [荷兰新冠时间线（三）——终于可以停课宅家了](https://mp.weixin.qq.com/s/QGRbo7L6shPmiImls9dptA)
 - [荷兰新增病例再次破千｜黄山“爆了”，德国、西班牙正在好转，美国停止向加拿大出口N95，加拿大表示受伤了](https://mp.weixin.qq.com/s/QBDjPwUyMbN2pWx3w_5SPw)
+- [湖北“抗疫满分”县长直播带货，数百万人围观](https://mp.weixin.qq.com/s/_yfDUcXO8AYuevqHK6kFhg)
+- [1岁女婴确定为无症状感染者，父亲此前已确诊](https://mp.weixin.qq.com/s/NOUFk0mzUIsH_1AUZZmp-g)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -2025,6 +2027,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【锵锵云战役】4月7日直播：重症的雾化治疗](https://mp.weixin.qq.com/s/XIQtOhDbn_yC5R-JWXYX4w)
 - [【战“疫”大家谈】4月8日直播：COVID-19重症患者镇痛镇静](https://mp.weixin.qq.com/s/1mOeSfpk37EP_PgFfZBtSw)
 - [【锵锵云战役】4月9日直播：重症新冠肺炎病例分享会](https://mp.weixin.qq.com/s/9gnZG_e8GrSdmaVB7YM3Qg)
+- [新冠肺炎如何攻陷全世界](https://mp.weixin.qq.com/s/9amaZ0MiaT5U0XvJ5XxAGg)
+- [倒计时4天！金冬雁：人类冠状病毒的前世今生](https://mp.weixin.qq.com/s/N6GdEC9qs8RUqVuNPmFkUA)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
