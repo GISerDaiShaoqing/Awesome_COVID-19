@@ -1005,6 +1005,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [重大发现 | 南京医科大学刘云等团队发现新冠病毒可能不会感染男性生殖系统](https://mp.weixin.qq.com/s/GiHzt26WJLx82k8G1vOzzw)
 - [Detection of 2019 novel coronavirus in semen and testicular biopsy specimen of COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.03.31.20042333v1)
 - [重磅 | BMJ Best Practice 更新提示：嗅觉 / 味觉丧失为 COVID-19 关键症状](https://mp.weixin.qq.com/s/fDg-b2OzX7MZvMuHPtJzaw)
+- [望月新一“ABC猜想”的“天书论文”即将发表；FDA紧急授权氯喹和羟基氯喹治疗COVID-19 等| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/qA4Dr1WFVDv66LRq-BFKsg)
+- [新增入院人数继续下降, 累计死亡1766例！鹿特丹、马城方舱医院，你觉得两处够用吗？](https://mp.weixin.qq.com/s/2Z9My1NQbPtCFij4cZYb8g)
+- [被新冠肺炎攻陷的欧洲为什么不抄中国的“答案”？](https://mp.weixin.qq.com/s/SdQxcjrEO6vGNcGRJaxbEw)
+- [呼啦圈防身，卫生纸上锁…为了防疫，歪果仁真是脑洞大开了！](https://mp.weixin.qq.com/s/Y0iUo_Kw8Kd7cG8u95bioA)
+- [荷兰新冠时间线（三）——终于可以停课宅家了](https://mp.weixin.qq.com/s/QGRbo7L6shPmiImls9dptA)
+- [荷兰新增病例再次破千｜黄山“爆了”，德国、西班牙正在好转，美国停止向加拿大出口N95，加拿大表示受伤了](https://mp.weixin.qq.com/s/QBDjPwUyMbN2pWx3w_5SPw)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
