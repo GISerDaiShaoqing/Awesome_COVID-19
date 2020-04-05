@@ -1746,6 +1746,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 Policy Data](https://github.com/tgerke/covid-policy)
 - [Mobility changes in response to COVID-19, provided by Descartes Labs](https://github.com/descarteslabs/DL-COVID-19)
 - [新冠研究数据哪里找？科研工作者必看（附链接）](https://mp.weixin.qq.com/s/ulfY7-vvsqwKs936EnVyuQ)
+- [COVID-19 Global Public Health Intervention Database](https://github.com/HopkinsIDD/covid19-interventions)
+- [access to geographic locations of african health sites from different sources](https://github.com/afrimapr/afrihealthsites)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -1858,6 +1860,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [TH_COVID19_International](https://github.com/Tencent/TH_COVID19_International)
 - [全球新冠肺炎确诊超百万，这100秒让你看清世界发生了什么](https://mp.weixin.qq.com/s/JtTjVaEOj98sYjePEt1lqQ)
 - [Growth In Coronavirus (COVID-19) Cases By US County Over Time](https://fleetlogging.com/growth-in-coronavirus-us/)
+- [Make the chart in Michael Höhle's blog post "Flatten the COVID-19 curve" interactive](https://github.com/tinu-schneider/Flatten_the_Curve)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
