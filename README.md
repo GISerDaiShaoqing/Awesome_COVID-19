@@ -2083,6 +2083,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [倒计时4天！金冬雁：人类冠状病毒的前世今生](https://mp.weixin.qq.com/s/N6GdEC9qs8RUqVuNPmFkUA)
 - [学术·预告 | “统计大讲堂”第一百一十三讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/n-lfNXA9CSDJtlhqoCiq1A)
 - [【直播实录】北京大学谢晓亮教授：单细胞基因组学迎战新冠肺炎](https://mp.weixin.qq.com/s/DvKohEU6D3kU1mFlofBuXg)
+- [王辰院士向欧洲及全球同仁介绍防疫抗疫经验 视频配中文翻译](https://mp.weixin.qq.com/s/lAvFleFEjMOysobgisXnBQ)
+- [曹彬教授向全球呼吸医生介绍新冠肺炎诊断及治疗 (配中文文字版）](https://mp.weixin.qq.com/s/hlBciv0hvzL66HRDQh-OPQ)
+- [视频回放：王辰院士、瞿介明教授、曹彬教授对话欧洲专家 Q&A](https://mp.weixin.qq.com/s/oXa_AXZ--I3uvUKXOZo75Q)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
