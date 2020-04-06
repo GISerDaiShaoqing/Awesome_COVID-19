@@ -793,6 +793,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [确诊死亡人数双下降！喜大普奔，荷兰测试能力再次大幅提升！全世界都醒过来了？](https://mp.weixin.qq.com/s/qzu5bjt6fL1yB3XmG-Q8XQ)
 - [英国首相被送往医院！疫情至暗时刻，女王来镇场了](https://mp.weixin.qq.com/s/iElZ4j7ydBBIo5rpW9iOkw)
 - [谁应该为新冠疫情的蔓延承担责任?](https://mp.weixin.qq.com/s/M0k2ah_E3k-enqzYzoCC4g)
+- [援鄂女护师张静静去世，丈夫另有任务来不及赶回](https://mp.weixin.qq.com/s/wQEO0r0L57pexvbG1c1LEA)
+- [全球新冠死亡病例，7w+](http://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651619512&idx=3&sn=0437d85e2200a2bf73418df380573618&chksm=bd611d048a16941250bf61fc8828eab126e0186f756133eea795390edb88b86b3860099b2929&scene=0&xtrack=1#rd)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1926,6 +1928,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【图说】疫情之下的纽约：电力负荷曲线有什么变化？](https://mp.weixin.qq.com/s/VUq6HUnOWEc7nm2p22bYuQ)
 - [The chart below illustrates #NewYork’s hourly electric load for 4 weeks of March](https://www.trendsmap.com/twitter/tweet/1246430515001012224)
 - [霍普金斯大学疫情数据为何比美国CDC权威？背后是两名中国博士生](https://www.weibo.com/ttarticle/p/show?id=2309404490357885763691)
+- [日点击量超十亿！全球都在刷的疫情地图，背后有两名中国学霸](https://mp.weixin.qq.com/s/PGBvJ8LZJNYfck8ouQ0Pfw)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -1980,6 +1983,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 海迈教育培训，助力建设行业从业人员与学生居家抗疫](https://mp.weixin.qq.com/s/bqO0DxrIbqv7Oz3i-OJBWA)
 - [抗疫中的西电智慧|AI校园疫情应急预警系统----AI助力学生开学，校园健康管理](https://mp.weixin.qq.com/s/h65FjboScTpIlz-4sMZwvw)
 - [疫情防控信息化案例 | 基于数字孪生技术的社区防疫应急联防联控系统](https://mp.weixin.qq.com/s/GMytRm3seV41ZX3EPTS9iA)
+- [疫情防控信息化案例 | 立得空间战“疫”云助力疫情防控数战数决](https://mp.weixin.qq.com/s/_uJBmJBTrsekkMuh_7LTjw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
