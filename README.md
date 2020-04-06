@@ -78,6 +78,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
 - [Github：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV)
 - [中国科学院新型冠状病毒肺炎科研文献共享平台](http://ncov.cas.cn/)
+- [FYI: ICIAM创建的Mathematics of COVID-19研究进展推介主页！](https://mp.weixin.qq.com/s/0lGVkBZPbZqLRm0tEJZbEg)
+- [ICIAM创建的Mathematics of COVID-19研究进展推介主页](http://www.iciam.org/mathematics-and-covid-19)
 
 ## WHO, CDC and other correlated department
 - [WHO Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
@@ -787,6 +789,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [钟Sir凯旋！](https://mp.weixin.qq.com/s/mC55YA3vY6wl2S7WoFsI3A)
 - [一留学生拒不集中隔离，社区上门劝了一整天](https://mp.weixin.qq.com/s/_mRLVTwLdcnJIIjpeUb1bA)
 - [白宫上演史诗级争吵，有人大发雷霆](https://mp.weixin.qq.com/s/5xTrXl2rnJkmbHUqQ4SqkA)
+- [荷兰疫情更新｜荷兰检测量将提升四倍，阿尔克马一溜冰场成新冠检测通道｜故宫的花开了 ^_^](https://mp.weixin.qq.com/s/OvQPobFh-NcJpehgvDHODg)
+- [确诊死亡人数双下降！喜大普奔，荷兰测试能力再次大幅提升！全世界都醒过来了？](https://mp.weixin.qq.com/s/qzu5bjt6fL1yB3XmG-Q8XQ)
+- [英国首相被送往医院！疫情至暗时刻，女王来镇场了](https://mp.weixin.qq.com/s/iElZ4j7ydBBIo5rpW9iOkw)
+- [谁应该为新冠疫情的蔓延承担责任?](https://mp.weixin.qq.com/s/M0k2ah_E3k-enqzYzoCC4g)
 
 # Clinic Medicine correlated Resources
 ## Radiology
