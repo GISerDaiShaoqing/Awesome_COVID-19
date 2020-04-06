@@ -779,6 +779,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [美国一只老虎新冠检测呈阳性](https://mp.weixin.qq.com/s/dFopjpdAeJdSsncf9z8zNg)
 - [绥芬河报告39例境外输入，120多名医务驰援](https://mp.weixin.qq.com/s/qg10IpgUdr-pDJcye-W-Rg)
 - [专访钟南山：讲真话有压力吗](https://mp.weixin.qq.com/s/vj8w9CzRsp--EKQdTtIkpw)
+- [多国专家：应携手为下一次“大流行”做准备](http://news.sciencenet.cn/htmlnews/2020/4/437974.shtm)
+- [王辰院士：少一些说漂亮话的人，多一些行动派！](https://mp.weixin.qq.com/s/FVJ92BGS8ng9xr2DHd-iZg)
+- [港大教授：从历史上看，有些疫情第二波更凶险](https://mp.weixin.qq.com/s/jmVxHEe8Xwxqbhm-STvTMg)
+- [新冠疫苗还要等多久？“至少18个月”](https://mp.weixin.qq.com/s/DsiKAz-HCIz0uLQaehnTuA)
+- [中央指导组：加快新冠肺炎疫苗、治疗技术和药物科研攻关【一周科学看点2020-04-06丨中国科学院院刊】](https://mp.weixin.qq.com/s/c8FyGHlmc7g01BSUNG2X0Q)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1029,6 +1034,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [1岁女婴确定为无症状感染者，父亲此前已确诊](https://mp.weixin.qq.com/s/NOUFk0mzUIsH_1AUZZmp-g)
 - [新冠肺炎康复者血液，美国医院的救命稻草？](https://mp.weixin.qq.com/s/PWCKfhFBX8ohtvkLr7uwug)
 - [How blood from coronavirus survivors might save lives](https://www.nature.com/articles/d41586-020-00895-8)
+- [防治新冠肺炎，中医药如何发挥作用?](https://mp.weixin.qq.com/s/s3z3eAhb3YsaZDvK1jeMrg)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1207,6 +1213,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [An infectious cDNA clone of SARS-CoV-2](https://marlin-prod.literatumonline.com/pb-assets/products/coronavirus/CHOM_2291_s50_preproof.pdf)
 - [“零号病人”的概念并不科学，这可能将我们带往错误的方向](https://mp.weixin.qq.com/s/EMZT7tgXM4XJ0DVROhYKqg)
 - [Patient zero: why it’s such a toxic term](https://theconversation.com/patient-zero-why-its-such-a-toxic-term-134721)
+- [最新计算分析：树鼩、雪貂或是潜在中间宿主](https://mp.weixin.qq.com/s/eyyx_3PjVcpOksN4t6oZOQ)
+- [Computational analysis suggests putative intermediate animal hosts of the SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.04.04.025080v1)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1318,6 +1326,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [天气转暖，真的有助于杀死Covid-19吗？](https://mp.weixin.qq.com/s/ooMWnAEuSGA3lshmI-5_mw)
 - [Will warm weather really kill off Covid-19?](https://www.bbc.com/future/article/20200323-coronavirus-will-hot-weather-kill-covid-19)
 - [Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.](https://github.com/coronafighter/coronaSEIR)
+- [机器学习实战 | 意大利Covid-19病毒感染数学模型及预测（附代码）](https://mp.weixin.qq.com/s/ZzyCxOVJICkTW6UrGMd-0g)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1506,7 +1515,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 Related School Closings and Risk of Weight Gain Among Children](https://onlinelibrary.wiley.com/doi/abs/10.1002/oby.22813)
 - [至暗时刻，美国学者提出6月初打败新冠疫情的六项建议](https://mp.weixin.qq.com/s/NQVk-Z_6fmNQlEpryWBWUA)
 - [Ten Weeks to Crush the Curve](https://www.nejm.org/doi/10.1056/NEJMe2007263)
-- [多国专家：应携手为下一次“大流行”做准备](http://news.sciencenet.cn/htmlnews/2020/4/437974.shtm)
+- [A first look at COVID-19 information and misinformation sharing on Twitter](https://arxiv.org/abs/2003.13907)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
