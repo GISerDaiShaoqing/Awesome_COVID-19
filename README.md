@@ -822,6 +822,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [猫科动物感染新冠，你担心的这个问题有了答案](https://mp.weixin.qq.com/s/bpykN5YCGU8rCF0XLOjHpQ)
 - [隔离”日志｜在知识之城哥廷根，“宵禁”后的生活和心理](https://www.thepaper.cn/newsDetail_forward_6854326)
 - [全球城市观察︱疫情下，短租房市场受到哪些冲击](https://mp.weixin.qq.com/s/ldlA5jQqYjG-Hor0HecEBQ)
+- [【转载】美式防疫日记 5：终于！移民家庭也可以检测了！不算使用公共福利！](https://mp.weixin.qq.com/s/OMiMyNa6_0qjvL83T6XKVQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1572,6 +1573,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Coronavirus Has Slashed Global Air Pollution. This Interactive Map Shows How](https://earther.gizmodo.com/coronavirus-slashes-global-air-pollution-interactive-m-1842473790)
 - [《科学》主编开博客：适应疫情危机](https://mp.weixin.qq.com/s/AqHM-UcP1kLXHoSlldAhSg)
 - [Adapting to the crisis](https://blogs.sciencemag.org/editors-blog/2020/04/03/adapting-to-the-crisis/)
+- [我们需要什么样的感动？](https://mp.weixin.qq.com/s/MUycARAf-gT8s8rIcdaiUQ)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1767,6 +1769,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [观点 | 徐林：中国经济，疫情下的短期应对和中长期谋划](https://mp.weixin.qq.com/s/BRM0BZBJ0G9M8IAygvmKqg)
 - [疫情之下，不出门、降消费，营销就不用做了吗？](https://mp.weixin.qq.com/s/QF_jn2tvtzd71jFg-UJGeA)
 - [高端访谈 | 疫情、公共交通与新基建（下）](https://mp.weixin.qq.com/s/XGqILBGsA3MvuFPJiWkp5Q)
+- [疫情之外，复工之时，我们聊聊黄冈的产业](https://mp.weixin.qq.com/s/X3aI2WOuedceeYvdUHjUEg)
 
 # Data, Visualization, Platform and Tools
 ## Data
