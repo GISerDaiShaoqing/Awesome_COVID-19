@@ -1581,6 +1581,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [《科学》主编开博客：适应疫情危机](https://mp.weixin.qq.com/s/AqHM-UcP1kLXHoSlldAhSg)
 - [Adapting to the crisis](https://blogs.sciencemag.org/editors-blog/2020/04/03/adapting-to-the-crisis/)
 - [我们需要什么样的感动？](https://mp.weixin.qq.com/s/MUycARAf-gT8s8rIcdaiUQ)
+- [COVID-19 will not leave behind refugees and migrants](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30758-3/fulltext)
+- [Redefining vulnerability in the era of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30757-1/fulltext)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2056,6 +2058,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [李飞飞团队抗疫新招：发布AI家用系统，跟踪新冠体征，同时保障隐私](https://mp.weixin.qq.com/s/w8kXgSV5U1WLxft2JYQhOA)
 - [李飞飞团队最新研究 :「四步」AI方案助老人抵抗新冠肺炎，联合学习降低个人隐私风险](https://mp.weixin.qq.com/s/83XQLCv8ZrnC57MltgmQYQ)
 - [李飞飞团队加入AI抗疫：家用监控系统，可以远程反馈新冠症状](http://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651046694&idx=2&sn=84d4d4a708a88611545ed20804feb1e8&chksm=8b844954bcf3c04227f82344b7289173213de131c499f7961196b0c8910e2defede09273e488&scene=0&xtrack=1#rd)
+- [Forecast Map of Global Coronavirus ( Covid-19 ) Epidemic by Bigscity Lab in Beihang Ur](http://www.covid19-report.com/#/)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
