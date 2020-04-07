@@ -1076,6 +1076,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [JAMA长文 | 情况不容乐观，首次报道意大利ICU新冠肺炎患者的临床状况及预后：死亡率高达26%](https://mp.weixin.qq.com/s/aHhDwqhHZYI5VFHc9-TNTQ)
 - [Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to ICUs of the Lombardy Region, Italy](https://jamanetwork.com/journals/jama/fullarticle/2764365)
 - [首个新冠撤稿论文，深圳三院法匹拉韦治疗新冠临床试验论文被杂志临时移除](https://mp.weixin.qq.com/s/a87YTjldIXLhi3s59-UegQ)
+- [Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models](https://arxiv.org/abs/2004.01215)
+- [Understanding pathways to death in patients with COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30165-X/fulltext)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
