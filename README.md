@@ -827,6 +827,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [明天，预计5.5万余名旅客乘火车离开武汉](https://mp.weixin.qq.com/s/EHHgwxU3oD6u97qSroLdNQ)
 - [河南宣布，新冠肺炎检测全部免费](https://mp.weixin.qq.com/s/8rYdxCwEW5Iy4wgYg9aoZA)
 - [战疫无国界，完美捐赠100万只口罩驰援马来西亚](https://mp.weixin.qq.com/s/f6cwPvPHJNJNEzgWefHxYA)
+- [哈佛校长新冠康复，坦言“一夜间变成120岁的老人](https://mp.weixin.qq.com/s/qpUpZBGaXWBUsPXczC-GGQ)
+- [荷兰疫情更新｜今日死亡人数历史最高｜一名29岁患者死亡｜ABN预测明年房价将跌｜今日世界卫生日](https://mp.weixin.qq.com/s/dvE4Duu07UMXKgWlWybuQA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -852,6 +854,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Automated lung segmentation in CT under presence of severe pathologies](https://github.com/JoHof/lungmask)
 - [Automatic lung segmentation in routine imaging is a data diversity problem, not a methodology problem](https://arxiv.org/abs/2001.11767)
 - [想研究新冠CT找不到数据集？UCSD、Petuum开源COVID-CT 数据集](https://mp.weixin.qq.com/s/EF3KSMB4LHmbjTQ-0RCF9Q)
+- [Classification for covid-19 chest X-ray images using Lightning](https://github.com/PyTorchLightning/lightning-Covid19)
 
 ## Clinic Medicine
 - [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
