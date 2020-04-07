@@ -1878,6 +1878,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 Global Public Health Intervention Database](https://github.com/HopkinsIDD/covid19-interventions)
 - [access to geographic locations of african health sites from different sources](https://github.com/afrimapr/afrihealthsites)
 - [Coronavirus tracked: the latest figures as the pandemic spreads | Free to read](https://www.ft.com/coronavirus-latest)
+- [The covid19italy R package provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) pandemic outbreak in Italy. ](https://github.com/RamiKrispin/covid19Italy)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
