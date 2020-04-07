@@ -1762,6 +1762,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【观点】“封城”让疫情曲线变平，但使衰退曲线变陡，经济学家开出药方！](https://mp.weixin.qq.com/s/bTJ0Dydjou6WJeSvfE2Okw)
 - [‘Act fast and do whatever it takes’ to fight the COVID-19 crisis, say leading economists](https://www.weforum.org/agenda/2020/03/covid-19-economic-crisis-recession-economists)
 - [尹稚：如何缓解疫情的影响与冲击？重新审视中国城市的规划与治理](https://mp.weixin.qq.com/s/gGrMGCj-KSZ8ZX_rUA07tg)
+- [全球城市观察︱疫情下，短租房市场受到哪些冲击](https://www.thepaper.cn/newsDetail_forward_6859144)
+- [非洲疫线｜新冠疫情下，非洲粮食安全面临窘境](https://www.thepaper.cn/newsDetail_forward_6859598)
+- [观点 | 徐林：中国经济，疫情下的短期应对和中长期谋划](https://mp.weixin.qq.com/s/BRM0BZBJ0G9M8IAygvmKqg)
+- [疫情之下，不出门、降消费，营销就不用做了吗？](https://mp.weixin.qq.com/s/QF_jn2tvtzd71jFg-UJGeA)
+- [高端访谈 | 疫情、公共交通与新基建（下）](https://mp.weixin.qq.com/s/XGqILBGsA3MvuFPJiWkp5Q)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2154,6 +2159,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [曹彬教授向全球呼吸医生介绍新冠肺炎诊断及治疗 (配中文文字版）](https://mp.weixin.qq.com/s/hlBciv0hvzL66HRDQh-OPQ)
 - [视频回放：王辰院士、瞿介明教授、曹彬教授对话欧洲专家 Q&A](https://mp.weixin.qq.com/s/oXa_AXZ--I3uvUKXOZo75Q)
 - [防疫资讯 | 全球云问诊，武汉医疗专家公益问诊荷兰场来啦](https://mp.weixin.qq.com/s/YE3s5uq0X-3grumM_xDT7g)
+- [直播预告 | 新冠疫情下典型封闭空间环境参数实测及安全运行策略分析](https://mp.weixin.qq.com/s/TdqsbEahjHnHisbhE6ZVAQ)
+- [【直播预告】4月8日 一带“医”路 中外新冠疫情管理交流-第二期](https://mp.weixin.qq.com/s/roXbVyC7asVlwvfOf4piag)
+- [4月9日19:30-21:00直播：COVID-19抗感染治疗的讨论](https://mp.weixin.qq.com/s/ZZbtg5rXgIZsje7o74ObiA)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
