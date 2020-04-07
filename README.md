@@ -823,6 +823,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [隔离”日志｜在知识之城哥廷根，“宵禁”后的生活和心理](https://www.thepaper.cn/newsDetail_forward_6854326)
 - [全球城市观察︱疫情下，短租房市场受到哪些冲击](https://mp.weixin.qq.com/s/ldlA5jQqYjG-Hor0HecEBQ)
 - [【转载】美式防疫日记 5：终于！移民家庭也可以检测了！不算使用公共福利！](https://mp.weixin.qq.com/s/OMiMyNa6_0qjvL83T6XKVQ)
+- [张静静丈夫还在非洲，当地使馆发声](https://mp.weixin.qq.com/s/6UGvhX8GFKdzUM7rLlMvIw)
+- [明天，预计5.5万余名旅客乘火车离开武汉](https://mp.weixin.qq.com/s/EHHgwxU3oD6u97qSroLdNQ)
+- [河南宣布，新冠肺炎检测全部免费](https://mp.weixin.qq.com/s/8rYdxCwEW5Iy4wgYg9aoZA)
+- [战疫无国界，完美捐赠100万只口罩驰援马来西亚](https://mp.weixin.qq.com/s/f6cwPvPHJNJNEzgWefHxYA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1264,6 +1268,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [大跌眼镜 | 新冠病毒再次升级，老虎都不能幸免：老虎被检测为新冠病毒阳性](https://mp.weixin.qq.com/s/d4B1xSPNSSnW7weXgOSfLg)
 - [还在重复使用口罩？《柳叶刀》报告：新冠病毒可在口罩上存活7天](https://mp.weixin.qq.com/s/cxYAJAo2p7Bd8A5QItEXGQ)
 - [Stability of SARS-COV-2 in different environmental conditions](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)
+- [专家：有必要研究猫等宠物是否感染新冠，但不必恐慌](https://mp.weixin.qq.com/s/fIzmk6ezt3bCJgiCMdCmfw)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1376,6 +1381,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Will warm weather really kill off Covid-19?](https://www.bbc.com/future/article/20200323-coronavirus-will-hot-weather-kill-covid-19)
 - [Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.](https://github.com/coronafighter/coronaSEIR)
 - [机器学习实战 | 意大利Covid-19病毒感染数学模型及预测（附代码）](https://mp.weixin.qq.com/s/ZzyCxOVJICkTW6UrGMd-0g)
+- [武汉流感患者标本验出9例新冠阳性，最新证据表明病毒1月初已出现社区传播](https://mp.weixin.qq.com/s/CsHeAqSP7MO9Awv6FHWNIA)
+- [SARS-CoV-2 detection in patients with influenza-like illness](https://www.nature.com/articles/s41564-020-0713-1)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2047,6 +2054,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 立得空间战“疫”云助力疫情防控数战数决](https://mp.weixin.qq.com/s/_uJBmJBTrsekkMuh_7LTjw)
 - [李飞飞团队抗疫新招：发布AI家用系统，跟踪新冠体征，同时保障隐私](https://mp.weixin.qq.com/s/w8kXgSV5U1WLxft2JYQhOA)
 - [李飞飞团队最新研究 :「四步」AI方案助老人抵抗新冠肺炎，联合学习降低个人隐私风险](https://mp.weixin.qq.com/s/83XQLCv8ZrnC57MltgmQYQ)
+- [李飞飞团队加入AI抗疫：家用监控系统，可以远程反馈新冠症状](http://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651046694&idx=2&sn=84d4d4a708a88611545ed20804feb1e8&chksm=8b844954bcf3c04227f82344b7289173213de131c499f7961196b0c8910e2defede09273e488&scene=0&xtrack=1#rd)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2108,6 +2116,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [科技战疫 | 2020北京数据开放创新应用大赛正式开赛](https://mp.weixin.qq.com/s?__biz=MzA4MzcxNjg5MQ==&mid=2651045128&idx=2&sn=516fbdb3b5bff2a4f535a5a0cf73db65&chksm=8405237cb372aa6a9a112e4a9cff133df11ed7777cc858d42177fc4d000bc5d602de6e11e79e&mpshare=1&scene=1&srcid=&sharer_sharetime=1584906042199&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [一周AI最火论文 | 新冠病毒数据开源，Kaggle发布新冠病毒挑战赛](https://mp.weixin.qq.com/s/52etjS2JsL-PqGsH0fY9aA)
 - [AI战疫，微软吹响校园集结号！](https://mp.weixin.qq.com/s/lj0yk2krzvK5Xs0I_tn2LQ)
+- [新冠肺炎时期的“窗外景观” | 艺术竞赛预告](https://mp.weixin.qq.com/s/yPUhxdDQEsyN1Eb1gYCFYQ)
 
 # Lecture
 - [解码新型冠状病毒——如何科学认知和应对新型病毒](https://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651045911&idx=1&sn=117d182d78f2e3c35aafda110ce7725b&chksm=8b844a65bcf3c373806909527cc40cb1452dedd0bfa273608021f3320e74f561bb87b275c3af&mpshare=1&scene=1&srcid=&sharer_sharetime=1582628435684&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
