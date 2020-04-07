@@ -820,6 +820,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [明天0时，武汉卡点全部撤除](https://mp.weixin.qq.com/s/JWQ0ZX4gjpQ0reERA6GsMg)
 - [英国首相进入ICU，情况怎么样？](https://mp.weixin.qq.com/s/G4En-vwu4IBYCsi_gS9GyA)
 - [猫科动物感染新冠，你担心的这个问题有了答案](https://mp.weixin.qq.com/s/bpykN5YCGU8rCF0XLOjHpQ)
+- [隔离”日志｜在知识之城哥廷根，“宵禁”后的生活和心理](https://www.thepaper.cn/newsDetail_forward_6854326)
+- [全球城市观察︱疫情下，短租房市场受到哪些冲击](https://mp.weixin.qq.com/s/ldlA5jQqYjG-Hor0HecEBQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -2069,6 +2071,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Computer Vision in the Time of the Coronavirus Outbreak](https://www.gislounge.com/computer-vision-in-the-time-of-coronavirus/)
 - [R scripts to process/cleanup data from the repo: https://github.com/CSSEGISandData/COVID-19 into tidy datasets](https://github.com/jmcastagnetto/covid-19-data-cleanup)
 - [{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data](https://github.com/joachim-gassen/tidycovid19)
+- [Collection of analyses, packages, visualisations of COVID19 data in R](https://github.com/mine-cetinkaya-rundel/covid19-r)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
