@@ -829,6 +829,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [战疫无国界，完美捐赠100万只口罩驰援马来西亚](https://mp.weixin.qq.com/s/f6cwPvPHJNJNEzgWefHxYA)
 - [哈佛校长新冠康复，坦言“一夜间变成120岁的老人](https://mp.weixin.qq.com/s/qpUpZBGaXWBUsPXczC-GGQ)
 - [荷兰疫情更新｜今日死亡人数历史最高｜一名29岁患者死亡｜ABN预测明年房价将跌｜今日世界卫生日](https://mp.weixin.qq.com/s/dvE4Duu07UMXKgWlWybuQA)
+- [确诊又降啦！意村庄实现‘群体免疫’？荷专家发话亚洲经验学起来：健康码/检测/方舱...](https://mp.weixin.qq.com/s/DzbAgexL5cAnU7fv0K44AQ)
+- [出院后复阳，回武汉工作她还担心一个问题](https://mp.weixin.qq.com/s/o3fi70_5S2Fql-MEan79Pg)
+- [武汉“解封”在即，湖北发通告提醒注意](https://mp.weixin.qq.com/s/Ah6zHIYPfv_0ZrQOZV59vg)
+- [民航局连续出手](https://mp.weixin.qq.com/s/gIkGlE_3GG6JNJJ_TK-q6Q)
+- [“英国首相正在接受标准氧气治疗”](https://mp.weixin.qq.com/s/Q7NXV5nRKfBOvvj6Xg2vnA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1782,6 +1787,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情之下，不出门、降消费，营销就不用做了吗？](https://mp.weixin.qq.com/s/QF_jn2tvtzd71jFg-UJGeA)
 - [高端访谈 | 疫情、公共交通与新基建（下）](https://mp.weixin.qq.com/s/XGqILBGsA3MvuFPJiWkp5Q)
 - [疫情之外，复工之时，我们聊聊黄冈的产业](https://mp.weixin.qq.com/s/X3aI2WOuedceeYvdUHjUEg)
+- [卫星说：疫情来临，这些国家都按下了暂停键](https://mp.weixin.qq.com/s/61eMtGHB5c43Ixm4EbZBqA)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2095,6 +2101,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [R scripts to process/cleanup data from the repo: https://github.com/CSSEGISandData/COVID-19 into tidy datasets](https://github.com/jmcastagnetto/covid-19-data-cleanup)
 - [{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data](https://github.com/joachim-gassen/tidycovid19)
 - [Collection of analyses, packages, visualisations of COVID19 data in R](https://github.com/mine-cetinkaya-rundel/covid19-r)
+- [COVID-DI-Prototype: COVIDMinder Development](https://github.com/TheRensselaerIDEA/COVID-DI-Prototype)
+- [疫情防控信息化案例 | 城市建设安全复工与防疫联动管控系统](https://mp.weixin.qq.com/s/TFwJtvzr1aMGIBK4OAncjg)
+- [国际视野|无人机自主技术助力COVID-19疫情防控](https://mp.weixin.qq.com/s/KlV1xcoTBa8-VwVAkLf-fA)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
