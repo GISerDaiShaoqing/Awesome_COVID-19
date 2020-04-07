@@ -2190,6 +2190,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [直播预告 | 新冠疫情下典型封闭空间环境参数实测及安全运行策略分析](https://mp.weixin.qq.com/s/TdqsbEahjHnHisbhE6ZVAQ)
 - [【直播预告】4月8日 一带“医”路 中外新冠疫情管理交流-第二期](https://mp.weixin.qq.com/s/roXbVyC7asVlwvfOf4piag)
 - [4月9日19:30-21:00直播：COVID-19抗感染治疗的讨论](https://mp.weixin.qq.com/s/ZZbtg5rXgIZsje7o74ObiA)
+- [This tutorial's purpose is to introduce people to the 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE and how to explore it using some foundational packages in the Scientific Python Data Science stack](https://github.com/hugobowne/COVID-19-EDA-tutorial)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
