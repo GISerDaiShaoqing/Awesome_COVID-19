@@ -1443,6 +1443,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [在一月初武汉呈流感状的患者体内检测到SARS-CoV-2｜《自然-微生物学》](https://mp.weixin.qq.com/s/nw-0hUy3audobxJmleYNAA)
 - [SARS-CoV-2 detection in patients with influenza-like illness](https://www.nature.com/articles/s41564-020-0713-1)
 - [covid19uk](https://github.com/chrism0dwk/covid19uk)
+- [The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook](https://arxiv.org/abs/2004.03055)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
