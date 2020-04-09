@@ -901,6 +901,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [“解封”首日，武汉市政府党组成员直播带货](https://mp.weixin.qq.com/s/c9tBSeHr0hJlTGFMQKMV4A)
 - [看夕阳的老人，背着小提琴出院了](https://mp.weixin.qq.com/s/iuby5D1hj5gMYrHZSYRJZw)
 - [病毒「测出」美国制造业空心化？三十年离岸外包让美国制造栽跟头](https://mp.weixin.qq.com/s/2C2GQGR4sbIz241dXYSsrA)
+- [披萨店女老板感染后仍营业，致上百人隔离](https://mp.weixin.qq.com/s/NtILMZ5lnCRg7rDz04zP9g)
+- [教育部：暂停陆生赴台升读工作](https://mp.weixin.qq.com/s/2nEk2hrv7TQ98mVctA0ybA)
+- [张文宏：武汉解封后或成中国最安全城市](https://mp.weixin.qq.com/s/dcmlxp8lSR8sskKW_gLFzQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1165,6 +1168,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Effectiveness of convalescent plasma therapy in severe COVID-19 patients](https://www.pnas.org/content/early/2020/04/02/2004168117)
 - [Intensive care management of coronavirus disease 2019 (COVID-19): challenges and recommendations](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30161-2/fulltext)
 - [新冠肺炎流行期间，儿童防护要点有哪些？](https://mp.weixin.qq.com/s/ULMPq5FUt8buzyJGNqY7SQ)
+- [NEJM发表北京协和医院新冠肺炎研究：合并凝血异常和抗磷脂抗体](https://mp.weixin.qq.com/s/P32GuarQ0nBVP_pVtmo3mA)
+- [Coagulopathy and Antiphospholipid Antibodies in Patients with Covid-19](https://www.nejm.org/doi/10.1056/NEJMc2007575)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1888,6 +1893,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [TalkingData崔晓波：疫情激发全渠道营销需求，私域流量价值凸显](https://mp.weixin.qq.com/s/9wrYsyJ11bB0zygym70IgA)
 - [国际资讯 | 疫情下的印度底层危机/巴西黑帮出手管理宵禁(2020.4)](https://mp.weixin.qq.com/s/Q3il6UD488agLMwd0tbC3A)
 - [新冠疫情与非常时期应急规划体系的必要性](https://mp.weixin.qq.com/s/HpntlVWKa4PtPJqkVx3Hng)
+- [沈迟、秦静：疫情下的思考——依然要坚守规划价值导向](https://mp.weixin.qq.com/s/HZgae5mJEXbqYkdtPWHDvg)
 
 # Data, Visualization, Platform and Tools
 ## Data
