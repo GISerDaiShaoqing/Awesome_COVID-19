@@ -1494,6 +1494,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [柳叶刀-感染病学 | COVID-19流行病学及传播动力学领域取得重要进展](https://mp.weixin.qq.com/s/Kvor_9Mv8RqDQjaSvqBMqQ)
 - [From China: hope and lessons for COVID-19 control](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30264-4/fulltext)
 - [Jupyter notebooks using models like SEIR to predict COVID-19 spread](https://github.com/baladutt/modeling-epidemics-COVID-19)
+- [Epidemiology, causes, clinical manifestation and diagnosis, prevention and control of coronavirus disease (COVID-19) during the early outbreak period: a scoping review](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00646-x)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1702,6 +1703,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [“我们面前将有更多装尸袋”，谭德赛反击特朗普｜《科学》新闻](https://mp.weixin.qq.com/s/i7YDDx0f5pHLbvkS3nlPFw)
 - [‘We will have many body bags.’ WHO chief responds to Trump’s criticisms](https://www.sciencemag.org/news/2020/04/we-will-have-many-body-bags-who-chief-responds-trumps-criticisms)
 - [School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
+- [你看的新冠论文可能大多是错的，但这并不是坏事](https://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651691557&idx=1&sn=c87e7731e37b4587f01a2b5b5ef8d808&chksm=8bbe37c0bcc9bed678d8c9ba44e3e4c5e9b31b2f052dcc3b525662c8e69a2119eb486333ba33&scene=0&xtrack=1#rd)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
