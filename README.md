@@ -2247,6 +2247,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [一周AI最火论文 | 新冠病毒数据开源，Kaggle发布新冠病毒挑战赛](https://mp.weixin.qq.com/s/52etjS2JsL-PqGsH0fY9aA)
 - [AI战疫，微软吹响校园集结号！](https://mp.weixin.qq.com/s/lj0yk2krzvK5Xs0I_tn2LQ)
 - [新冠肺炎时期的“窗外景观” | 艺术竞赛预告](https://mp.weixin.qq.com/s/yPUhxdDQEsyN1Eb1gYCFYQ)
+- [风雨砥砺 未来可期 | 第四届“城垣杯·规划决策支持模型设计大赛”正式开启](https://mp.weixin.qq.com/s/VzQK_kcMOBokNvPZsO9v2A)
 
 # Lecture
 - [解码新型冠状病毒——如何科学认知和应对新型病毒](https://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651045911&idx=1&sn=117d182d78f2e3c35aafda110ce7725b&chksm=8b844a65bcf3c373806909527cc40cb1452dedd0bfa273608021f3320e74f561bb87b275c3af&mpshare=1&scene=1&srcid=&sharer_sharetime=1582628435684&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
