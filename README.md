@@ -875,6 +875,32 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Boris到底怎么把自己拖进了ICU？工作狂？不信病？英媒狂挖更多细节！](https://mp.weixin.qq.com/s/paw6C5sRrtpCVIrLqptJJg)
 - [荷兰确诊病例超过2万，Van Dissel表示：感染越严重，抗体数量就越多｜中国战役高光时刻](https://mp.weixin.qq.com/s/_FZb9HEsIV89PP7kIpuXTw)
 - [荷兰将使用App来防止疫情的扩散，对个人隐私如何影响](https://mp.weixin.qq.com/s/PR0l5U7Pwv6Qbpa_QeLZEQ)
+- [直击｜武汉“解封”首日的三大火车站](https://mp.weixin.qq.com/s/j9n3J_gQesxj79dp6OjKHg)
+- [最新！国务院发布无症状感染者管理规范](https://mp.weixin.qq.com/s/68I-W9nNRwpBjX83h81gYw)
+- [国家卫健委：新增确诊病例63例，新增无症状感染者56例](https://mp.weixin.qq.com/s/3855lIITai7JM_INo_rUyA)
+- [快讯！4月8日福建无新增确诊病例、疑似病例、无症状感染者！](https://mp.weixin.qq.com/s/S6CFHcnLMh065CYPHS6Atw)
+- [联合国秘书长回应“特朗普威胁”](https://mp.weixin.qq.com/s/fXDyINxsIBwFhm8nwELm9Q)
+- [什么时候可以摘口罩？各地规定不同](https://mp.weixin.qq.com/s/k2AHGZ60G7O0siC0joXExA)
+- [全国新增确诊63例，本土2例](https://mp.weixin.qq.com/s/v3BZVgdNIoHk4JeGML8-yQ)
+- [超150万例！](https://mp.weixin.qq.com/s/6fyak9un4B2JFps3NM2BlA)
+- [全球累计确诊超135万例，法国航母40人疑似，塞尔维亚总统之子确诊](https://mp.weixin.qq.com/s/u_eUH-RAc-Au8r6GlSofGg)
+- [福建：“六个严禁” ，依法严惩非法入境妨害疫情防控违法犯罪行为](https://mp.weixin.qq.com/s/4zn-DI5j2QH6080voqojJg)
+- [关于无症状感染者，国务院发布重要通知！](https://mp.weixin.qq.com/s/wOPuMgXH5_zi5BVaZx-qpg)
+- [“COVID-19”科研动态监测每日快报（4月8日）【中国科讯】](https://mp.weixin.qq.com/s/ezKlzG_hR12APvkXOQtG_w)
+- [塞尔维亚总统之子检测呈阳性，疫情期曾任志愿者](https://mp.weixin.qq.com/s/BlCFhZn8LBkdkl73b9vv0Q)
+- [英国首相身体状况好转，“已能起身坐着”](https://mp.weixin.qq.com/s/rOjCPug0FZ5eqNSHcfHoFA)
+- [黑龙江新增俄罗斯输入确诊40例、无症状感染23例](https://mp.weixin.qq.com/s/9-e3Psl2Iz9Tw5wVF9APMQ)
+- [76天，20万字，45万阅读](https://mp.weixin.qq.com/s/xKOFIuvGv1g6mehUar49pA)
+- [多亏SARS康复者，新冠病毒的弱点暴露了；专业麻将十段AI，99.9%的人类都是它的手下败将 | 领研网24小时热门论文](https://mp.weixin.qq.com/s/g52fqptDSow48oVPe5IR-w)
+- [全球仅有5个国家0确诊](https://mp.weixin.qq.com/s/P9h3qH1Ev1xpAVbMZUhLDQ)
+- [电影院、KTV等何时营业？国务院明确了](https://mp.weixin.qq.com/s/lhwBVKlZUjklmq1lELNRpQ)
+- [“可食用陆生动物名单”征求意见：狗为伴侣动物拟禁食](https://mp.weixin.qq.com/s/cgnm3PnGuLRFA6eIw7a2fQ)
+- [欧洲研究委员会就抗疫方案发生分歧，主席辞职并宣称“失去信心”｜科研圈日报](https://mp.weixin.qq.com/s/cH3Q6amot2h_3C804bBmFw)
+- [“隔离”日志｜夜以继日：缓慢复原的街面](https://www.thepaper.cn/newsDetail_forward_6870029#p=1)
+- [非洲疫线｜安哥拉：居家隔离可能让很多人难以维生](https://www.thepaper.cn/newsDetail_forward_6871715)
+- [“解封”首日，武汉市政府党组成员直播带货](https://mp.weixin.qq.com/s/c9tBSeHr0hJlTGFMQKMV4A)
+- [看夕阳的老人，背着小提琴出院了](https://mp.weixin.qq.com/s/iuby5D1hj5gMYrHZSYRJZw)
+- [病毒「测出」美国制造业空心化？三十年离岸外包让美国制造栽跟头](https://mp.weixin.qq.com/s/2C2GQGR4sbIz241dXYSsrA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1138,6 +1164,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [美《国家科学院学报》刊文：康复者血浆疗法安全有效](http://news.sciencenet.cn/htmlnews/2020/4/438060.shtm)
 - [Effectiveness of convalescent plasma therapy in severe COVID-19 patients](https://www.pnas.org/content/early/2020/04/02/2004168117)
 - [Intensive care management of coronavirus disease 2019 (COVID-19): challenges and recommendations](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30161-2/fulltext)
+- [新冠肺炎流行期间，儿童防护要点有哪些？](https://mp.weixin.qq.com/s/ULMPq5FUt8buzyJGNqY7SQ)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1322,6 +1349,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [还在重复使用口罩？《柳叶刀》报告：新冠病毒可在口罩上存活7天](https://mp.weixin.qq.com/s/cxYAJAo2p7Bd8A5QItEXGQ)
 - [Stability of SARS-COV-2 in different environmental conditions](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)
 - [专家：有必要研究猫等宠物是否感染新冠，但不必恐慌](https://mp.weixin.qq.com/s/fIzmk6ezt3bCJgiCMdCmfw)
+- [Science | 重大进展，陈化兰/步志高/武桂珍发现猫能感染新冠、狗不易感，是否传人不明确](https://mp.weixin.qq.com/s/-EfUCzuEFSbgxk7ObhUcmA)
+- [Susceptibility of ferrets, cats, dogs, and other domesticated animals to SARS–coronavirus 2](https://science.sciencemag.org/content/early/2020/04/07/science.abb7015)
+- [Cell重磅 | 颠覆先前的认知，首次系统获得新冠病毒转录组及表观转录组学数据](https://mp.weixin.qq.com/s/xUhKOfuzRbH3_tr4aHuCzg)
+- [The architecture of SARS-CoV-2 transcriptome](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00765.pdf)
+- [1天可测序及分析数百万样品 | 张锋开发新技术，可满足全球新冠肺炎的测序工作](https://mp.weixin.qq.com/s/qadTYRGgv1MyBPWtGsLKQg)
+- [LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1444,6 +1477,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [SARS-CoV-2 detection in patients with influenza-like illness](https://www.nature.com/articles/s41564-020-0713-1)
 - [covid19uk](https://github.com/chrism0dwk/covid19uk)
 - [The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook](https://arxiv.org/abs/2004.03055)
+- [柳叶刀-感染病学 | COVID-19流行病学及传播动力学领域取得重要进展](https://mp.weixin.qq.com/s/Kvor_9Mv8RqDQjaSvqBMqQ)
+- [From China: hope and lessons for COVID-19 control](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30264-4/fulltext)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1646,6 +1681,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Redefining vulnerability in the era of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30757-1/fulltext)
 - [疫情期间隔离带来的心理问题，如何破解](https://mp.weixin.qq.com/s/cwFp4Vkuty8ash6CdirF1w)
 - [The psychological impact of quarantine and how to reduce it: rapid review of the evidence](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext)
+- [封城后的地球振荡减弱了...](https://mp.weixin.qq.com/s/dUvN0TGtw9QjM9B4v9xuUA)
+- [停止新冠病毒的污名化 |《自然》社论](https://mp.weixin.qq.com/s/h_h_fstjLrDSkZ-oZbKx_Q)
+- [Stop the coronavirus stigma now](https://www.nature.com/articles/d41586-020-01009-0)
+- [“我们面前将有更多装尸袋”，谭德赛反击特朗普｜《科学》新闻](https://mp.weixin.qq.com/s/i7YDDx0f5pHLbvkS3nlPFw)
+- [‘We will have many body bags.’ WHO chief responds to Trump’s criticisms](https://www.sciencemag.org/news/2020/04/we-will-have-many-body-bags-who-chief-responds-trumps-criticisms)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1846,6 +1886,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [How COVID-19 Has Impacted Media Consumption, by Generation](https://www.visualcapitalist.com/media-consumption-covid-19/)
 - [TalkingData崔晓波：疫情激发全渠道营销需求，私域流量价值凸显](https://mp.weixin.qq.com/s/9wrYsyJ11bB0zygym70IgA)
 - [国际资讯 | 疫情下的印度底层危机/巴西黑帮出手管理宵禁(2020.4)](https://mp.weixin.qq.com/s/Q3il6UD488agLMwd0tbC3A)
+- [新冠疫情与非常时期应急规划体系的必要性](https://mp.weixin.qq.com/s/HpntlVWKa4PtPJqkVx3Hng)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -1950,6 +1991,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [The covid19italy R package provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) pandemic outbreak in Italy](https://github.com/RamiKrispin/covid19Italy)
 - [欧盟EDPB组织即将发布新冠疫情数据监测与收集指南](https://mp.weixin.qq.com/s/Pj959VqOK5Nc-rwSClA1Cg)
 - [Covid-19 Twitter dataset for non-commercial research use and pre-processing scripts - under active development](https://github.com/thepanacealab/covid19_twitter)
+- [Epidemiological data from the COVID-19 outbreak, real-time case information](https://www.nature.com/articles/s41597-020-0448-0#Sec3)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -2130,6 +2172,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [李飞飞团队加入AI抗疫：家用监控系统，可以远程反馈新冠症状](http://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651046694&idx=2&sn=84d4d4a708a88611545ed20804feb1e8&chksm=8b844954bcf3c04227f82344b7289173213de131c499f7961196b0c8910e2defede09273e488&scene=0&xtrack=1#rd)
 - [Forecast Map of Global Coronavirus ( Covid-19 ) Epidemic by Bigscity Lab in Beihang Ur](http://www.covid19-report.com/#/)
 - [德国推出新冠疫情监测APP，鼓励民众上传智能手环与手表的健康数据](https://mp.weixin.qq.com/s/Fv3EQVDxLbKGSnRS09na-Q)
+- [疫情防控信息化案例 | 九成智慧防控平台助力大连新冠病毒战“疫”](https://mp.weixin.qq.com/s/thfHeRAuj9lLzxBfXWiqbQ)
+- [快自查！你曾坐在无症状感染者前后三排吗？查询入口公布！](https://mp.weixin.qq.com/s/XsI_Qz-wXjrQES345QQnPw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2256,6 +2300,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [This tutorial's purpose is to introduce people to the 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE and how to explore it using some foundational packages in the Scientific Python Data Science stack](https://github.com/hugobowne/COVID-19-EDA-tutorial)
 - [PPT下载 | 地信大讲堂《从 COVID-19疫情看未来空间大数据应用与机遇》精彩回顾](https://mp.weixin.qq.com/s/BREOTwnwNoVSWwwv72BRwg)
 - [第十三期“AI未来说·青年学术论坛”带你了解疫情中AI的力量](https://mp.weixin.qq.com/s/GQKNcOs6IS5IUbmtv9xI9A)
+- [今日直播丨疫情后，数据营销如何帮助企业恢复元气？](https://mp.weixin.qq.com/s/GWBoOtFuvT9lsw1Etp662Q)
+- [活动报名 | 抗疫福利——“天涯同心抗疫情，平安留学伴你行”心理讲座来啦！](https://mp.weixin.qq.com/s/rcKOSgoTHlMW0AwqfslDdg)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
