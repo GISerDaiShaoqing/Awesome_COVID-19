@@ -918,6 +918,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国驻荷兰使馆发布《新冠疫情联防联控手册》](https://mp.weixin.qq.com/s/rgnfblJ-SEhAzybMSCwx-Q)
 - [刑释男子超市内摘口罩打死老人，最高检发声](https://mp.weixin.qq.com/s/kJy9bWKoIdGavQ34_5aNEw)
 - [英国首相身体状况继续改善](https://mp.weixin.qq.com/s/LspVHYs7lxFoTw9AZr-8kw)
+- [吕特首相表示：现在最大的危险是我们放松警惕｜荷兰将在本国生产口罩，中荷货运专线下周一运行](https://mp.weixin.qq.com/s/oGg5utR_xmXFdzIzMRvaLA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1710,6 +1711,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [‘We will have many body bags.’ WHO chief responds to Trump’s criticisms](https://www.sciencemag.org/news/2020/04/we-will-have-many-body-bags-who-chief-responds-trumps-criticisms)
 - [School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
 - [你看的新冠论文可能大多是错的，但这并不是坏事](https://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651691557&idx=1&sn=c87e7731e37b4587f01a2b5b5ef8d808&chksm=8bbe37c0bcc9bed678d8c9ba44e3e4c5e9b31b2f052dcc3b525662c8e69a2119eb486333ba33&scene=0&xtrack=1#rd)
+- [国际资讯|因新冠病毒而取消的航班如何影响天气预报准确性](https://mp.weixin.qq.com/s/Kt3MqB83vyhKbydye-VARQ)
+- [How Weather Forecasting is Affected by Coronavirus-Related Flight Cancellations](https://www.gislounge.com/how-weather-forecasting-is-affected-by-coronavirus-related-flight-cancellations/)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2201,6 +2204,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 九成智慧防控平台助力大连新冠病毒战“疫”](https://mp.weixin.qq.com/s/thfHeRAuj9lLzxBfXWiqbQ)
 - [快自查！你曾坐在无症状感染者前后三排吗？查询入口公布！](https://mp.weixin.qq.com/s/XsI_Qz-wXjrQES345QQnPw)
 - [以数治“疫”--谈时空大数据分析体系建设](https://mp.weixin.qq.com/s/Ak4x6H02bRMcwPmcVTZ-aw)
+- [疫情防控信息化案例 | 街道疫情防控综合管理系统](https://mp.weixin.qq.com/s/KKsSkO2SQhcS_TIaPDt12g)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
