@@ -1479,6 +1479,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [The geographic spread of COVID-19 correlates with structure of social networks as measured by Facebook](https://arxiv.org/abs/2004.03055)
 - [柳叶刀-感染病学 | COVID-19流行病学及传播动力学领域取得重要进展](https://mp.weixin.qq.com/s/Kvor_9Mv8RqDQjaSvqBMqQ)
 - [From China: hope and lessons for COVID-19 control](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30264-4/fulltext)
+- [Jupyter notebooks using models like SEIR to predict COVID-19 spread](https://github.com/baladutt/modeling-epidemics-COVID-19)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
