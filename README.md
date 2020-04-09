@@ -904,6 +904,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [披萨店女老板感染后仍营业，致上百人隔离](https://mp.weixin.qq.com/s/NtILMZ5lnCRg7rDz04zP9g)
 - [教育部：暂停陆生赴台升读工作](https://mp.weixin.qq.com/s/2nEk2hrv7TQ98mVctA0ybA)
 - [张文宏：武汉解封后或成中国最安全城市](https://mp.weixin.qq.com/s/dcmlxp8lSR8sskKW_gLFzQ)
+- [无标度网络上的流行病传播和减缓 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/eLA3afcHCMcwQnUW191Xvw)
+- [快讯！厦门两例治愈境外输入新冠肺炎患者出院](https://mp.weixin.qq.com/s/QUr8_CY7SXLNtAkOUo_Q-g)
+- [国务院印发《新冠肺炎出院患者复诊复检工作方案（试行）》](https://mp.weixin.qq.com/s/ZPSQ322LpTxQZLkOShPfpQ)
+- [世卫总干事：我就直说了，骂我的来自台湾](https://mp.weixin.qq.com/s/OonhAWc1sy-fAErFi9v5Bg)
+- [福建骄傲！第三批赴意大利抗疫医疗专家组平安回国！](https://mp.weixin.qq.com/s/ory-jSOhJjUZjAnbKRrX5w)
+- [保卫绥芬河](https://mp.weixin.qq.com/s/E5FZifbFHsgZ5gCcQTecqg)
+- [解封首日，离开武汉的人都去了哪儿](https://mp.weixin.qq.com/s/eL4yPmQjZTZNT3hEnvJpTw)
+- [匪我思存：生活在武汉](https://mp.weixin.qq.com/s/Cf-AJmuueout4kITXFNZWw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1360,6 +1368,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [The architecture of SARS-CoV-2 transcriptome](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00765.pdf)
 - [1天可测序及分析数百万样品 | 张锋开发新技术，可满足全球新冠肺炎的测序工作](https://mp.weixin.qq.com/s/qadTYRGgv1MyBPWtGsLKQg)
 - [LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1)
+- [中科院学者研发新冠病毒核酸快速检测系统 45分钟出结果 准确率达99%](https://mp.weixin.qq.com/s/xAImoh-Qun_vP4TpZ-mK5w)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1692,6 +1701,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Stop the coronavirus stigma now](https://www.nature.com/articles/d41586-020-01009-0)
 - [“我们面前将有更多装尸袋”，谭德赛反击特朗普｜《科学》新闻](https://mp.weixin.qq.com/s/i7YDDx0f5pHLbvkS3nlPFw)
 - [‘We will have many body bags.’ WHO chief responds to Trump’s criticisms](https://www.sciencemag.org/news/2020/04/we-will-have-many-body-bags-who-chief-responds-trumps-criticisms)
+- [School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1894,6 +1904,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国际资讯 | 疫情下的印度底层危机/巴西黑帮出手管理宵禁(2020.4)](https://mp.weixin.qq.com/s/Q3il6UD488agLMwd0tbC3A)
 - [新冠疫情与非常时期应急规划体系的必要性](https://mp.weixin.qq.com/s/HpntlVWKa4PtPJqkVx3Hng)
 - [沈迟、秦静：疫情下的思考——依然要坚守规划价值导向](https://mp.weixin.qq.com/s/HZgae5mJEXbqYkdtPWHDvg)
+- [上海探索超大城市公共卫生安全治理之路](https://mp.weixin.qq.com/s/6kRVtAzNy_LtOlGBd7Pp0w)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2181,6 +2192,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [德国推出新冠疫情监测APP，鼓励民众上传智能手环与手表的健康数据](https://mp.weixin.qq.com/s/Fv3EQVDxLbKGSnRS09na-Q)
 - [疫情防控信息化案例 | 九成智慧防控平台助力大连新冠病毒战“疫”](https://mp.weixin.qq.com/s/thfHeRAuj9lLzxBfXWiqbQ)
 - [快自查！你曾坐在无症状感染者前后三排吗？查询入口公布！](https://mp.weixin.qq.com/s/XsI_Qz-wXjrQES345QQnPw)
+- [以数治“疫”--谈时空大数据分析体系建设](https://mp.weixin.qq.com/s/Ak4x6H02bRMcwPmcVTZ-aw)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2310,6 +2322,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [第十三期“AI未来说·青年学术论坛”带你了解疫情中AI的力量](https://mp.weixin.qq.com/s/GQKNcOs6IS5IUbmtv9xI9A)
 - [今日直播丨疫情后，数据营销如何帮助企业恢复元气？](https://mp.weixin.qq.com/s/GWBoOtFuvT9lsw1Etp662Q)
 - [活动报名 | 抗疫福利——“天涯同心抗疫情，平安留学伴你行”心理讲座来啦！](https://mp.weixin.qq.com/s/rcKOSgoTHlMW0AwqfslDdg)
+- [AI未来说·青年学术论坛：《信息技术助力新冠防控》](https://mp.weixin.qq.com/s/fDxGSFsvpL66QGEZfPEcjw)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
