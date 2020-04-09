@@ -912,6 +912,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [保卫绥芬河](https://mp.weixin.qq.com/s/E5FZifbFHsgZ5gCcQTecqg)
 - [解封首日，离开武汉的人都去了哪儿](https://mp.weixin.qq.com/s/eL4yPmQjZTZNT3hEnvJpTw)
 - [匪我思存：生活在武汉](https://mp.weixin.qq.com/s/Cf-AJmuueout4kITXFNZWw)
+- [新增确诊1213人死亡148人！最理想1年最现实2年全世界开启“半永久封锁”...回不去了！](https://mp.weixin.qq.com/s/aW-Zx4qZd6EBXWu4Mb5rpg)
+- [张文宏：多喝牛奶/多吃鸡蛋/多睡觉，不要瞎混！“最有效的药物是人的免疫力”！](https://mp.weixin.qq.com/s/Zp31YYch-HVafaYIFhvtRA)
+- [马斯克说到做到！特斯拉牌呼吸机“交货”，用Model 3零部件打造；网友：我滴神啊](https://mp.weixin.qq.com/s/nstuKnzCbU-MMApadO16Eg)
+- [中国驻荷兰使馆发布《新冠疫情联防联控手册》](https://mp.weixin.qq.com/s/rgnfblJ-SEhAzybMSCwx-Q)
+- [刑释男子超市内摘口罩打死老人，最高检发声](https://mp.weixin.qq.com/s/kJy9bWKoIdGavQ34_5aNEw)
+- [英国首相身体状况继续改善](https://mp.weixin.qq.com/s/LspVHYs7lxFoTw9AZr-8kw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
