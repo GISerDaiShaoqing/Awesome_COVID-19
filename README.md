@@ -950,6 +950,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [12日起进京人员住酒店，需提供这份证明](https://mp.weixin.qq.com/s/bUBpQeadWt0bL57BzwbWyA)
 - [持湖北绿码者因腰痛求医，被确诊为无症状感染者](https://mp.weixin.qq.com/s/5zph7x876cQuX-_4M9vC3A)
 - [都市尺度的COVID-19爆发：它们的相似程度如何？| 网络科学论文速递31篇](https://mp.weixin.qq.com/s/Yfyo2NDAEUxt4t9xZZhFkw)
+- [何时复学？全球疫情走向如何？钟南山最新回应！](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMTUzMw==&mid=2657117028&idx=2&sn=d40f10679849597410c6d211c4a38277&chksm=8b1089a6bc6700b010b3a468adfe02bb83aadf4bc217b438adce9faefe99b0eef024120de176&scene=0&xtrack=1#rd)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -2277,6 +2278,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [快自查！你曾坐在无症状感染者前后三排吗？查询入口公布！](https://mp.weixin.qq.com/s/XsI_Qz-wXjrQES345QQnPw)
 - [以数治“疫”--谈时空大数据分析体系建设](https://mp.weixin.qq.com/s/Ak4x6H02bRMcwPmcVTZ-aw)
 - [疫情防控信息化案例 | 街道疫情防控综合管理系统](https://mp.weixin.qq.com/s/KKsSkO2SQhcS_TIaPDt12g)
+- [Open Source Pulse Oximeter for COVID-19](https://create.arduino.cc/projecthub/gatoninja236/open-source-pulse-oximeter-for-covid-19-4764c5)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
