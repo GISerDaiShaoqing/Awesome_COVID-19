@@ -1563,6 +1563,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Google COVID-19 Community Mobility Reports: Anonymization Process Description (version 1.0)](https://arxiv.org/abs/2004.04145)
 - [A machine learning methodology for real-time forecasting of the 2019-2020 COVID-19 outbreak using Internet searches, news alerts, and estimates from mechanistic models](https://arxiv.org/abs/2004.04019)
 - [This is the data/code repository for the paper "A Retrospective Bayesian Model for Measuring Covariate Effects on Observed COVID-19 Test and Case Counts" and CoronaNet project data on government responses to the COVID-19 pandemic](https://github.com/saudiwin/corona_tscs)
+- [Generalized SEIR Epidemic Model (fitting and computation)](https://github.com/ECheynet/SEIR)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
