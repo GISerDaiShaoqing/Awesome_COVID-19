@@ -1965,6 +1965,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [沈迟、秦静：疫情下的思考——依然要坚守规划价值导向](https://mp.weixin.qq.com/s/HZgae5mJEXbqYkdtPWHDvg)
 - [上海探索超大城市公共卫生安全治理之路](https://mp.weixin.qq.com/s/6kRVtAzNy_LtOlGBd7Pp0w)
 - [疫情下的中国半导体之殇：原料告罄，砍单潮来袭，小微初创处生死边缘](https://mp.weixin.qq.com/s/4YYwkj9F1tHho7yduJHSeA)
+- [【资源分享】赵燕菁 | 疫中四则](https://mp.weixin.qq.com/s/RFqvTmfqUca-aRxTMBgSXQ)
 
 # Data, Visualization, Platform and Tools
 ## Data
