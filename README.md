@@ -1548,6 +1548,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [死亡人数预测从20万到200万都有？弄个新冠病毒模型就这么难？](https://mp.weixin.qq.com/s/jOSfBSrK2fk3JAYQYZHFEw)
 - [Google COVID-19 Community Mobility Reports: Anonymization Process Description (version 1.0)](https://arxiv.org/abs/2004.04145)
 - [A machine learning methodology for real-time forecasting of the 2019-2020 COVID-19 outbreak using Internet searches, news alerts, and estimates from mechanistic models](https://arxiv.org/abs/2004.04019)
+- [This is the data/code repository for the paper "A Retrospective Bayesian Model for Measuring Covariate Effects on Observed COVID-19 Test and Case Counts" and CoronaNet project data on government responses to the COVID-19 pandemic](https://github.com/saudiwin/corona_tscs)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1980,6 +1981,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [上海探索超大城市公共卫生安全治理之路](https://mp.weixin.qq.com/s/6kRVtAzNy_LtOlGBd7Pp0w)
 - [疫情下的中国半导体之殇：原料告罄，砍单潮来袭，小微初创处生死边缘](https://mp.weixin.qq.com/s/4YYwkj9F1tHho7yduJHSeA)
 - [【资源分享】赵燕菁 | 疫中四则](https://mp.weixin.qq.com/s/RFqvTmfqUca-aRxTMBgSXQ)
+- [复工指数 | 全国复工指数超80%，较上周提高3.11个百分点](https://mp.weixin.qq.com/s/ODMRpgG-LhCgI7UCW02teA)
+- [复盘新冠疫情中的重庆——人口迁徙与复工(二)](https://mp.weixin.qq.com/s/usEtY9oW894vkfmgpTizzA)
+- [新华社点赞！疫情冲击之下，厦门为“三高”企业复工复产按下“快进键”](https://mp.weixin.qq.com/s/U_RSMxsi69M95dZ2-1YlpQ)
 
 # Data, Visualization, Platform and Tools
 ## Data
