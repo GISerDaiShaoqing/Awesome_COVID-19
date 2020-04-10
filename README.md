@@ -102,6 +102,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新型冠状病毒国家科技资源服务系统](http://nmdc.cn/#/nCoV)
 - [全国卫健委，全国每日疫情](http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml)
 - [武汉卫健委，湖北每日疫情](http://wjw.wuhan.gov.cn/front/web/list3rd/no/802)
+- [关于国家卫健委新冠肺炎疫情防控海外华人华侨互联网咨询服务平台的情况介绍](https://mp.weixin.qq.com/s/xmnCwyOmX2-jMItcIgYCUA)
+- [新冠肺炎疫情防控海外华人华侨互联网咨询服务平台](https://covid19consulting.alliancebrh.com/)
 
 # Academic paper letter and news
 - [新病毒在中国或致8042例感染，爆发峰值预计2月中上旬 | 最新研究大汇总（截止26日15:00）](https://mp.weixin.qq.com/s/5-8nZkI9I0xscOj5Omw6CA)
@@ -951,6 +953,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [持湖北绿码者因腰痛求医，被确诊为无症状感染者](https://mp.weixin.qq.com/s/5zph7x876cQuX-_4M9vC3A)
 - [都市尺度的COVID-19爆发：它们的相似程度如何？| 网络科学论文速递31篇](https://mp.weixin.qq.com/s/Yfyo2NDAEUxt4t9xZZhFkw)
 - [何时复学？全球疫情走向如何？钟南山最新回应！](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMTUzMw==&mid=2657117028&idx=2&sn=d40f10679849597410c6d211c4a38277&chksm=8b1089a6bc6700b010b3a468adfe02bb83aadf4bc217b438adce9faefe99b0eef024120de176&scene=0&xtrack=1#rd)
+- [钟南山下午视频连线，信息量很大](https://mp.weixin.qq.com/s/LyVe6kC5ImTFYvIF1pL3IA)
+- [14天，151例，都来自俄罗斯](https://mp.weixin.qq.com/s/nR6tk7uaue2XMTjn-__Ysg)
+- [民警乔装医护人员，抓获潜逃21年的嫌疑人](https://mp.weixin.qq.com/s/K68FYAiIIeJWgEAKEJd5NA)
+- [英媒：全球仍有至少6000乘客在邮轮上](https://mp.weixin.qq.com/s/WUxH0vERIG-ZaPMCUjgrHA)
+- [累计23097确诊24%为医护人员！邻国相继下达全民口罩令，荷兰也快了吗？](https://mp.weixin.qq.com/s/y11T0UbFe01iiTDl4yrN1w)
+- [3天30例，同一航班，莫斯科起飞](https://mp.weixin.qq.com/s/whjPPeNUwNZ0gMX6AvGNQA)
+- [重启首日坐列车离开武汉，“心里竟有一丝不舍”](https://mp.weixin.qq.com/s/A4LQtnve2PiErJNcN5U0dg)
+- [法国航母加急返航，至少确诊50例](https://mp.weixin.qq.com/s/t-kmhZjXVbK6gi9H1zVOKQ)
+- [阿姆确诊破千，各城市确诊病例更新](https://mp.weixin.qq.com/s/dSXNA8SRB8a42_21gh7voA)
+- [荷兰近几周死亡率远高于以往，首例患者接受血浆治疗，旅荷大熊猫传喜讯｜中国疫苗有新进展](https://mp.weixin.qq.com/s/Jq1_vM9Ly59D-KRvsm1CPg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1985,6 +1997,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [复工指数 | 全国复工指数超80%，较上周提高3.11个百分点](https://mp.weixin.qq.com/s/ODMRpgG-LhCgI7UCW02teA)
 - [复盘新冠疫情中的重庆——人口迁徙与复工(二)](https://mp.weixin.qq.com/s/usEtY9oW894vkfmgpTizzA)
 - [新华社点赞！疫情冲击之下，厦门为“三高”企业复工复产按下“快进键”](https://mp.weixin.qq.com/s/U_RSMxsi69M95dZ2-1YlpQ)
+- [Rabobank：大流行病可能给全球经济衰退带来结构性变化｜KK Talk](https://mp.weixin.qq.com/s/8fInFm5MOA8NtjbW2Lm-ug)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2214,6 +2227,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [[转]R语言实现voronoi treemap可视化](https://mp.weixin.qq.com/s/eGczGeXzV4aq5bmwaB--Rw)
 - [世所罕见！卫星见证武汉奇迹](https://mp.weixin.qq.com/s/m8_fXx8kWQsQmaA3itSzvQ)
 - [67个国家进入紧急状态，全球新冠防疫正在升级](https://mp.weixin.qq.com/s/mVthHqW_qZJDIoqxXkceQg)
+- [University of Maryland COVID-19 Impact Analysis Platform](https://data.covid.umd.edu/)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2279,6 +2293,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [以数治“疫”--谈时空大数据分析体系建设](https://mp.weixin.qq.com/s/Ak4x6H02bRMcwPmcVTZ-aw)
 - [疫情防控信息化案例 | 街道疫情防控综合管理系统](https://mp.weixin.qq.com/s/KKsSkO2SQhcS_TIaPDt12g)
 - [Open Source Pulse Oximeter for COVID-19](https://create.arduino.cc/projecthub/gatoninja236/open-source-pulse-oximeter-for-covid-19-4764c5)
+- [疫情防控信息化案例 | 南社社区构建智慧疫情防控体系介绍](https://mp.weixin.qq.com/s/AXlVhmipsDtVZnxg9PrH6w)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
