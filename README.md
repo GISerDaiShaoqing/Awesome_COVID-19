@@ -946,6 +946,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [公安部最新通告！严厉打击！回国必查！](https://mp.weixin.qq.com/s/Zeq00Z6Y1v3TAiG8lg26yw)
 - [也门报告首例确诊病例，0确诊国家还剩4个](https://mp.weixin.qq.com/s/6JHW5aPhERnU_dHoAwJ5hQ)
 - [52天，韩国大邱首次零新增](https://mp.weixin.qq.com/s/omoPjFLLKOSkkIR9fSfqaA)
+- [当张文宏遇到“张文宏”：自愧不如](https://mp.weixin.qq.com/s/TGykFqnWtvCM1kxDMNLR_Q)
+- [12日起进京人员住酒店，需提供这份证明](https://mp.weixin.qq.com/s/bUBpQeadWt0bL57BzwbWyA)
+- [持湖北绿码者因腰痛求医，被确诊为无症状感染者](https://mp.weixin.qq.com/s/5zph7x876cQuX-_4M9vC3A)
+- [都市尺度的COVID-19爆发：它们的相似程度如何？| 网络科学论文速递31篇](https://mp.weixin.qq.com/s/Yfyo2NDAEUxt4t9xZZhFkw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1214,6 +1218,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [NEJM发表北京协和医院新冠肺炎研究：合并凝血异常和抗磷脂抗体](https://mp.weixin.qq.com/s/P32GuarQ0nBVP_pVtmo3mA)
 - [Coagulopathy and Antiphospholipid Antibodies in Patients with Covid-19](https://www.nejm.org/doi/10.1056/NEJMc2007575)
 - [“盘一盘”新冠肺炎药物临床试验](https://mp.weixin.qq.com/s/Sf_OCcGy1gDytiXsxlth-w)
+- [新冠病毒在雪貂体内感染模型建立和反向遗传系统研究](https://mp.weixin.qq.com/s?__biz=MzU5MDcwNzg0MA==&mid=2247486337&idx=1&sn=ec1c8827ecb74a97101f5dc28ffb3cf0&chksm=fe3b666ec94cef78e31f10a599b512a8ee97718a34ce94bddfa813cda4ee7f4a30b50d801a44&scene=0&xtrack=1#rd)
+- [Infection and Rapid Transmission of SARS-CoV-2 in Ferrets](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30187-6)
+- [An infectious cDNA clone of SARS-CoV-2](https://marlin-prod.literatumonline.com/pb-assets/products/coronavirus/CHOM_2291_s50_preproof.pdf)
+- [中国疫情有效控制，患者越来越少，入组不够的临床试验怎么办](https://mp.weixin.qq.com/s/JCd9tdoif1LWhFpwT4BGvw)
+- [Creating a Framework for Conducting Randomized Clinical Trials during Disease Outbreaks](https://www.nejm.org/doi/full/10.1056/NEJMsb1905390)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1408,6 +1417,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [10篇CNS成果 | 饶子和/蒋华良/杨海涛解析新冠病毒主蛋白酶三维结构，发现候选药物](https://mp.weixin.qq.com/s/tp-cuWxe7Fduq6WHeL3jnA)
 - [Structure of Mpro from COVID-19 virus and discovery of its inhibitors](https://www.nature.com/articles/s41586-020-2223-y)
 - [科学家成功解析新冠病毒主蛋白酶三维结构](https://mp.weixin.qq.com/s/McGSig5OcCQDOdCpmZXAFg)
+- [Study charts the “incipient supernova” of COVID-19 through genetic mutations as it spread from China and Asia to Australia, Europe and North America. Researchers say their methods could be used to help identify undocumented infection sources](https://www.cam.ac.uk/research/news/covid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins?from=timeline&isappinstalled=0)
+- [Phylogenetic network analysis of SARS-CoV-2 genomes](https://www.pnas.org/content/early/2020/04/07/2004999117)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1761,6 +1772,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [This is real](https://science.sciencemag.org/content/368/6486/7.abstract)
 - [“绝不要浪费危机” 从社会科学、心理学、经济学角度实时研究疫情影响｜《科学》新闻](https://mp.weixin.qq.com/s/6ehNhGS16DNr6NyBGcGC4w)
 - [Social scientists scramble to study pandemic, in real time](https://www.sciencemag.org/news/2020/04/social-scientists-scramble-study-pandemic-real-time)
+- [《柳叶刀》社论：重新评估COVID-19疫情中的脆弱群体](https://mp.weixin.qq.com/s/_CWrkcq0e6lC-fhw-thLYA)
+- [Redefining vulnerability in the era of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30757-1/fulltext)
+- [新冠启示录丨新冠肺炎病毒治理对气候风险适应的三个启示](https://mp.weixin.qq.com/s/o0t74xsNn0SAHeXYYwvaIA)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2194,6 +2208,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [投票 | 疫情数据可视化公益行动第六期优秀作品候选名单公示](https://mp.weixin.qq.com/s/YZwPlzxThIHxcvG_xk3mBQ)
 - [[转]R语言实现voronoi treemap可视化](https://mp.weixin.qq.com/s/eGczGeXzV4aq5bmwaB--Rw)
 - [世所罕见！卫星见证武汉奇迹](https://mp.weixin.qq.com/s/m8_fXx8kWQsQmaA3itSzvQ)
+- [67个国家进入紧急状态，全球新冠防疫正在升级](https://mp.weixin.qq.com/s/mVthHqW_qZJDIoqxXkceQg)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
