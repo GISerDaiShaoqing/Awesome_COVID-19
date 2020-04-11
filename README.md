@@ -986,6 +986,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [住在医院的武汉流浪者](https://mp.weixin.qq.com/s/e33uJWxf1uAHaSN_a7Sbig)
 - [广州3人确诊，都与外籍感染者有关](https://mp.weixin.qq.com/s/QmOFUBnEHuHcLNF5BuaUxA)
 - [COVID-19大流行：增长模式、幂律尺度和饱和 | 网络科学论文速递35篇](http://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247502304&idx=3&sn=c80c7217bd48f7c1ba28983c894335db&chksm=e897936ddfe01a7b8f4a88e7445e84793fe9827630bd7e3dda291ea3e33f75fc36cda317fbcb&scene=0&xtrack=1#rd)
+- [“叫我文宏，别叫网红”，男神金句又来了](https://mp.weixin.qq.com/s/eaaUEdOXbyEocv5qKzPCFw)
+- [绥芬河方舱医院今晚交接](https://mp.weixin.qq.com/s/PjEvGXsoM0Z56TVwA2Mmjg)
+- [疫情当前，美国医院却大量裁员](https://mp.weixin.qq.com/s/Smy5m0WxsphqepQ-GdNd6A)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1013,6 +1016,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [想研究新冠CT找不到数据集？UCSD、Petuum开源COVID-CT 数据集](https://mp.weixin.qq.com/s/EF3KSMB4LHmbjTQ-0RCF9Q)
 - [Classification for covid-19 chest X-ray images using Lightning](https://github.com/PyTorchLightning/lightning-Covid19)
 - [Opacity detection (pneumonia) on chest x-ray](https://marketplace.arterys.com/model/rsna2018chestXR)
+- [COVID-19 Imaging-based AI Research Paper Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)
 
 ## Clinic Medicine
 - [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
