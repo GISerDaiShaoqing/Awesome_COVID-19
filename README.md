@@ -989,6 +989,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [“叫我文宏，别叫网红”，男神金句又来了](https://mp.weixin.qq.com/s/eaaUEdOXbyEocv5qKzPCFw)
 - [绥芬河方舱医院今晚交接](https://mp.weixin.qq.com/s/PjEvGXsoM0Z56TVwA2Mmjg)
 - [疫情当前，美国医院却大量裁员](https://mp.weixin.qq.com/s/Smy5m0WxsphqepQ-GdNd6A)
+- [快讯！我市首例境外输入性重症患者治愈出院！同时出院的还有另一境外输入新冠肺炎患者](https://mp.weixin.qq.com/s/DPORAOxIkGshlidp7cTiqQ)
+- [张定宇等4人，拟提拔重用！](https://mp.weixin.qq.com/s/DbxfDQPgeHie_W9V9V0tKA)
+- [一家5口疫情高发期出境旅游41天，回国后2人确诊！](https://mp.weixin.qq.com/s/2FpziDC3Ln1JcyuTPkn-cg)
+- [国务院发布会，强调一个情况](https://mp.weixin.qq.com/s/4PMUZNLorivxKMuCRxVbCw)
+- [一家五口疫情高发期出国旅游41天，回国后两人确诊](https://mp.weixin.qq.com/s/IrCjkuZO2U73oim96GJBJg)
+- [特朗普承诺，将向意大利提供援助](https://mp.weixin.qq.com/s/YhgA1mPuDjD9zQr2qPwr7A)
 
 # Clinic Medicine correlated Resources
 ## Radiology
