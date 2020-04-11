@@ -995,6 +995,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国务院发布会，强调一个情况](https://mp.weixin.qq.com/s/4PMUZNLorivxKMuCRxVbCw)
 - [一家五口疫情高发期出国旅游41天，回国后两人确诊](https://mp.weixin.qq.com/s/IrCjkuZO2U73oim96GJBJg)
 - [特朗普承诺，将向意大利提供援助](https://mp.weixin.qq.com/s/YhgA1mPuDjD9zQr2qPwr7A)
+- [新增确诊1316人31％来自南荷兰省！美国：数字爆发上升是好消息！](https://mp.weixin.qq.com/s/pyX6XPI0tjePcC5fBHGPUA)
+- [2020，全球方舱！疫情之下，各国建起的方舱医院，太震撼！](https://mp.weixin.qq.com/s/mZKncOjPDdgE-MgHktLmPw)
+- [美国航母因疫情求援，“有船员严重焦虑”](https://mp.weixin.qq.com/s/X7PoLFZ6KYB07YZWNmdZgg)
+- [今日确诊病例中42%是医护人员，高危年龄段确诊病例下降，北布拉班特疫情平缓下降](https://mp.weixin.qq.com/s/5Dd_5oL8Y1ePg7LAw0KfRw)
+- [“毫无症状、CT正常，可我还是中招了”](https://mp.weixin.qq.com/s/jBcaDgWZvzklqLkNL5PR6g)
+- [在俄华商陷入恐慌，“身边人一个个确诊”](https://mp.weixin.qq.com/s/fiMGlQ-YSx_AFXm382m8-w)
+- [援鄂归来，刚结束隔离又支援绥芬河](https://mp.weixin.qq.com/s/jZjSd61N31rmA9bhiSJVkw)
+- [瑞德西韦在中国的重症临床试验已停止](https://mp.weixin.qq.com/s/hE219eudG-fSVIzSEH59AQ)
+- [英国首相能在医院“玩游戏看电影”了](https://mp.weixin.qq.com/s/4O3maqkRiqzxyR7-IBRbZQ)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1846,6 +1855,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Virally-vectored vaccine candidates against white-nose syndrome induce anti-fungal immune response in little brown bats (Myotis lucifugus)](https://www.nature.com/articles/s41598-019-43210-w)
 - [污水检测或有助于评估疫情真实规模](https://mp.weixin.qq.com/s/5Y9NwBrULQLoVltO1K_dfw)
 - [How sewage could reveal true scale of coronavirus outbreak](https://www.nature.com/articles/d41586-020-00973-x)
+- [冠状病毒的污名必须停止 — 现在！](https://mp.weixin.qq.com/s/QkkxA13mAUYyacwpLu1QRw)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
