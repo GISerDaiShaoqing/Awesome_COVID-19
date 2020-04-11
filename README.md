@@ -1602,6 +1602,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Generalized SEIR Epidemic Model (fitting and computation)](https://github.com/ECheynet/SEIR)
 - [科学家开始通过每日死亡人数了解疫情](http://news.sciencenet.cn/htmlnews/2020/4/438169.shtm)
 - [Why daily death tolls have become unusually important in understanding the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01008-1)
+- [machine learning and data science to analyze the spread of COVID-19](https://github.com/docfate111/covid19analyticsclass)
+- [This package curate (downloads, clean, consolidate, smooth) data from Johns Hokpins for analysing international outbreak of COVID-19](https://github.com/rOpenStats/COVID19analytics)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2154,6 +2156,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [专访霍普金斯新冠追踪网站创始人：如何突破不可靠信源收集数据，服务超10亿日点击量](https://mp.weixin.qq.com/s/fCCxRBcsjrs9bX1IzhhxoA)
 - [‘Every day is a new surprise.’ Inside the effort to produce the world’s most popular coronavirus tracker](https://www.sciencemag.org/news/2020/04/every-day-new-surprise-inside-effort-produce-world-s-most-popular-coronavirus-tracker#)
 - [Assessing the risks of "infodemics" in response to COVID-19 epidemics](https://arxiv.org/abs/2004.03997)
+- [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets](https://github.com/emanuele-guidotti/COVID19)
+- [R package to obtain and analyze live data from the nCOVID19 coronavirus](https://github.com/mponce0/covid19.analytics)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -2381,6 +2385,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Forecasting the effective reproduction number over short timescales ](https://github.com/epiforecasts/EpiSoon)
 - [听音断病？CMU研究人员开发一款程序，用来 “侦听” 新冠病毒迹象](https://mp.weixin.qq.com/s/Kk8tcDEzVky8Q9p65SbfLg)
 - [Coronavirus Detected By Voice? Carnegie Mellon Researchers Develop App To ‘Listen’ For Signs Of COVID-19](https://pittsburgh.cbslocal.com/2020/03/31/arnegie-mellon-university-coronavirus-voice-app/)
+- [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
