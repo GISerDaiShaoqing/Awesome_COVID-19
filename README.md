@@ -1610,6 +1610,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Why daily death tolls have become unusually important in understanding the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01008-1)
 - [machine learning and data science to analyze the spread of COVID-19](https://github.com/docfate111/covid19analyticsclass)
 - [This package curate (downloads, clean, consolidate, smooth) data from Johns Hokpins for analysing international outbreak of COVID-19](https://github.com/rOpenStats/COVID19analytics)
+- [天气转暖，真的有助于杀死Covid-19吗？](https://mp.weixin.qq.com/s/cwVgM-VdN1nVM6TklGn0Yg)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
