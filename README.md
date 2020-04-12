@@ -85,6 +85,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [United Nations Department of Economic and Social Affairs Statistics • UN COVID-19 Data Hub](https://covid-19-data.unstatshub.org/?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=instagram&adut=a2503526-86e9-4a01-b731-28d78f6fb9ce)
 - [@所有人，你想要的新冠病毒论文都在这了](http://news.sciencenet.cn/htmlnews/2020/4/438152.shtm)
 - [Practical tools and code for analysts working to support health and care during the COVID-19 pandemic](https://github.com/HFAnalyticsLab/COVID19_Resources)
+- [Community-driven COVID-19 analytics in R](https://github.com/reconhub/covid19hub)
 
 ## WHO, CDC and other correlated department
 - [WHO Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
