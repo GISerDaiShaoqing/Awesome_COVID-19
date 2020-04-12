@@ -1033,6 +1033,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [现在可以摘口罩了？境外输入会造成二次暴发？钟南山的12个最新判断来了…](https://mp.weixin.qq.com/s/AXGTMOk0wD9ubODU3hVtzw)
 - [英国全能数学家John Conway因新冠去世，他曾发明风靡一个时代的电脑游戏，还能心算万年历](https://mp.weixin.qq.com/s/D00sKXOnuqQvLA2ujwSNDg)
 - [刚回家，又出发——中国疾控中心驰援绥芬河，搭建负压帐篷式移动实验室](https://mp.weixin.qq.com/s/VupuDNFgG2W0P4WSYmqaKA)
+- [新冠病毒在美国监狱蔓延，囚犯：我们的判决变成了“死刑”](https://mp.weixin.qq.com/s/mgEk6ggArZe9jRo9QpCwUg)
+- [多地提出要求后，湖北自费检测核酸要多少钱](https://mp.weixin.qq.com/s/lMBhMA_Suqxe_D_WeEKwug)
+- [昨天的境外输入病例，为疫情发生以来单日最高](https://mp.weixin.qq.com/s/HD7qLRvr7qnqLKuhcD9RuA)
+- [美国为何快速启动新冠病毒抗体检测](https://mp.weixin.qq.com/s/Hy4ggK1BzF8o_3_72I1Aig)
+- [跟特朗普反着干，英国将向世卫等组织注资2亿英镑](https://mp.weixin.qq.com/s/WajbbC9s_3E6L2BXetApeg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1893,6 +1898,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Cell | 强势推出，一文看懂所有的新冠肺炎研究进展（值得收藏）](https://mp.weixin.qq.com/s/BZqoleu1MyuaAWHXJ7INAw)
 - [SnapShot: COVID-19](https://www.cell.com/pb-assets/products/coronavirus/CELL_11362_S5.pdf)
 - [对抗新冠肺炎疫情 数据科学大有可为 | Patterns主编声音](https://mp.weixin.qq.com/s/uQcR3xwIMBs7itgOkcFTiQ)
+- [Lancet Voice 特别版 | COVID-19疫情中的“错误信息”](https://mp.weixin.qq.com/s/kbmsrza9PgGA_97_ge83iw)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2336,6 +2342,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [University of Maryland COVID-19 Impact Analysis Platform](https://data.covid.umd.edu/)
 - [【存照】百年前大流感：城市过早放松防疫曾导致第二波蔓延！](https://mp.weixin.qq.com/s/9zc00dvj-jlmSpwGQbWRsQ)
 - [How some cities ‘flattened the curve’ during the 1918 flu pandemic](https://api.nationalgeographic.com/distribution/public/amp/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus)
+- [Visualizing COVID-19 Data Beautifully in Python (in 5 Minutes or Less!!)](https://towardsdatascience.com/visualizing-covid-19-data-beautifully-in-python-in-5-minutes-or-less-affc361b2c6a)
+- [Dashboard to follow in real time the Covid-19 evolution](https://github.com/Lrakotoson/Covid-19)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2402,7 +2410,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 街道疫情防控综合管理系统](https://mp.weixin.qq.com/s/KKsSkO2SQhcS_TIaPDt12g)
 - [Open Source Pulse Oximeter for COVID-19](https://create.arduino.cc/projecthub/gatoninja236/open-source-pulse-oximeter-for-covid-19-4764c5)
 - [疫情防控信息化案例 | 南社社区构建智慧疫情防控体系介绍](https://mp.weixin.qq.com/s/AXlVhmipsDtVZnxg9PrH6w)
-- [报名启动 | 如何通过材料技术创新,应对全球“口罩荒”？未来·局](https://mp.weixin.qq.com/s/OuFiE-_MN_2FAb58z0_24g)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2538,6 +2545,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [AI未来说·青年学术论坛：《信息技术助力新冠防控》](https://mp.weixin.qq.com/s/fDxGSFsvpL66QGEZfPEcjw)
 - [【直播实录】金冬雁：人类冠状病毒的前世今生](http://mp.weixin.qq.com/s?__biz=MzA5MjA0NTA4NQ==&mid=2651046741&idx=1&sn=874c6b2b92d24d8bb26c59d3a300b632&chksm=8b844927bcf3c031e2f77c11de26372eaeb18dd7ce52e628fd1d135fa66f2c9ab93c820a3bd3&mpshare=1&scene=1&srcid=&sharer_sharetime=1586502784752&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [【讲座预告】鲍曙明：新冠病毒疫情冲击对长三角地区影响分析](https://mp.weixin.qq.com/s/-Y2_fv_u6Y6Nyb2kcQ4jGg)
+- [报名启动 | 如何通过材料技术创新,应对全球“口罩荒”？未来·局](https://mp.weixin.qq.com/s/OuFiE-_MN_2FAb58z0_24g)
+- [学术·预告 | “统计大讲堂”第一百一十四讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/-P9pavjqxy3EPVk-WLvtMw)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
@@ -2578,3 +2587,4 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [一览抗疫情洞察 | 我们能从抗疫成功经验中学到什么](https://mp.weixin.qq.com/s/JiAL0-vnUF6NaEp-sMK6HA)
 - [一览抗疫洞察︱疫情期间城市应该如何使用道路？](https://mp.weixin.qq.com/s/9BSpiutAPMqfD6MmG9R3wg)
 - [印度占地运动︱抗疫封城进入孟买贫民窟：达拉维的希望与困境](https://mp.weixin.qq.com/s/vFJY8Pfauu1D1PtxtRurjw)
+- [天空之眼 | 全球商业卫星公司利用数据揭示COVID-19的影响](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650128483&idx=1&sn=d06bfe44dd80f48298c82dadfbe0b317&chksm=8742b436b0353d2045a8a2be97218f65696c7fefae0c08a47b82e61f22997ae42c07858dca4d&mpshare=1&scene=1&srcid=&sharer_sharetime=1586691917967&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
