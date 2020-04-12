@@ -2450,6 +2450,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [听音断病？CMU研究人员开发一款程序，用来 “侦听” 新冠病毒迹象](https://mp.weixin.qq.com/s/Kk8tcDEzVky8Q9p65SbfLg)
 - [Coronavirus Detected By Voice? Carnegie Mellon Researchers Develop App To ‘Listen’ For Signs Of COVID-19](https://pittsburgh.cbslocal.com/2020/03/31/arnegie-mellon-university-coronavirus-voice-app/)
 - [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
+- [An implementation of the University of Pennsylvania’s COVID-19 Hospital Impact Model for Epidemics (CHIME) for use in any license of ArcGIS Pro 2.3 or higher](https://disasterresponse.maps.arcgis.com/home/item.html?id=37ad6eb0d1034cd58844314a9b305de2)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
