@@ -2230,6 +2230,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Assessing the risks of "infodemics" in response to COVID-19 epidemics](https://arxiv.org/abs/2004.03997)
 - [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets](https://github.com/emanuele-guidotti/COVID19)
 - [R package to obtain and analyze live data from the nCOVID19 coronavirus](https://github.com/mponce0/covid19.analytics)
+- [Extract COVID data from www.humanitarianresponse.info pdf](https://github.com/ColinFay/covidbf)
+- [Data for the 2019-nCoV outbreak](https://github.com/qingyuanzhao/2019-nCov-Data)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
