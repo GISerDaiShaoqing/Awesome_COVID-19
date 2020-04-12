@@ -1038,6 +1038,16 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [昨天的境外输入病例，为疫情发生以来单日最高](https://mp.weixin.qq.com/s/HD7qLRvr7qnqLKuhcD9RuA)
 - [美国为何快速启动新冠病毒抗体检测](https://mp.weixin.qq.com/s/Hy4ggK1BzF8o_3_72I1Aig)
 - [跟特朗普反着干，英国将向世卫等组织注资2亿英镑](https://mp.weixin.qq.com/s/WajbbC9s_3E6L2BXetApeg)
+- [绥芬河发出呼吁](https://mp.weixin.qq.com/s/6K-zCdCmE8DXjgC4Y-qAxg)
+- [宁波一佛事活动致67人确诊、15人成无症状感染者](https://mp.weixin.qq.com/s/gxwDFuryaYFDbQFrOA3eug)
+- [疫情下的美国：农民倒掉牛奶、工厂捣碎鸡蛋](https://mp.weixin.qq.com/s/DUrFtBhUYGLUrNLPdg9SHw)
+- [累计25587例，假期中各项新增放缓！鹿特丹养老院超半数老人死亡，引起各界关注！](https://mp.weixin.qq.com/s/rAJwoZVQpgYYWFqodvMYzA)
+- [WHO：不要轻敌，只戴口罩也没用！](https://mp.weixin.qq.com/s/HQ-eC678kSbDNkCG19w9FA)
+- [生命游戏之父、数学家约翰·康威因新冠肺炎去世；投稿被拒不用慌，还可以投给更好的期刊哦 等| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/uYE8uQjyalHyklNYc7eH8w)
+- [180名中国留学生乘临时航班抵达上海，将隔离14天](https://mp.weixin.qq.com/s/HUGS-IkapaxESXlAYxQ9mw)
+- [驻俄领馆再次强烈提醒：勿贸然回国](https://mp.weixin.qq.com/s/w2j7b9YTGmL3WrvFqta12g)
+- [9小时新增境外输入34例，均来自俄罗斯](https://mp.weixin.qq.com/s/CT-Wmmz8970BNM9c_LSVvg)
+- [英国首相，出院了](https://mp.weixin.qq.com/s/6iJg-cQe6NGH-b1ns-3RDw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -2108,6 +2118,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [复盘新冠疫情中的重庆——人口迁徙与复工(二)](https://mp.weixin.qq.com/s/usEtY9oW894vkfmgpTizzA)
 - [新华社点赞！疫情冲击之下，厦门为“三高”企业复工复产按下“快进键”](https://mp.weixin.qq.com/s/U_RSMxsi69M95dZ2-1YlpQ)
 - [Rabobank：大流行病可能给全球经济衰退带来结构性变化｜KK Talk](https://mp.weixin.qq.com/s/8fInFm5MOA8NtjbW2Lm-ug)
+- [抗击疫情，女规划师在行动｜冷红 李姝媛：基于急性传染病疫情防控的规划响应](http://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662541&idx=1&sn=998c0c4d3ec4902d516dc7bdf3f22d52&chksm=beddaadb89aa23cdfc249a1cbfe63a6f5ce2d4d9b078b7fdb9f16ec48c343c1a0d705596003b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586705986575&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [寻城、封城，一个规划师的影像笔记](https://mp.weixin.qq.com/s/g41AaLf67fa0aSM7qcQK6Q)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2410,6 +2422,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 街道疫情防控综合管理系统](https://mp.weixin.qq.com/s/KKsSkO2SQhcS_TIaPDt12g)
 - [Open Source Pulse Oximeter for COVID-19](https://create.arduino.cc/projecthub/gatoninja236/open-source-pulse-oximeter-for-covid-19-4764c5)
 - [疫情防控信息化案例 | 南社社区构建智慧疫情防控体系介绍](https://mp.weixin.qq.com/s/AXlVhmipsDtVZnxg9PrH6w)
+- [隔离有助手：斯坦福李飞飞团队推出家用AI系统，实时监测独居老人症状](https://mp.weixin.qq.com/s/tyCqMxmzJUpaNLS2Dc_Dpg)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
