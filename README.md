@@ -1073,6 +1073,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [英国手机基站被烧背后的阴谋论：“5G导致新冠病毒”是如何疯传的？](http://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651725197&idx=3&sn=acd17d9a680c029e4e14fb18ea2f7b31&chksm=5da2391f6ad5b009809f41a77b62a88616930fce2f431b02b17b62489cbd5af4ea53cf9de496&mpshare=1&scene=1&srcid=&sharer_sharetime=1586765025658&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [快讯！厦门两例治愈境外输入新冠肺炎患者出院](http://mp.weixin.qq.com/s?__biz=MjM5NzMxODM2Mw==&mid=2650131772&idx=2&sn=8b6c9a00ea016ccdce77e8c775c27f0e&chksm=bedab68889ad3f9e561713af3ed46c0ad460ce1d69e2227e880135f7c9460395c44428d442e0&scene=0&xtrack=1#rd)
 - [张文宏：下一波疫情可能11月来！世界疫情的控制取决于……](https://mp.weixin.qq.com/s/2-sIcV-J6OGHAz2Me6Xpow)
+- [黑龙江新增7例确诊病例，都与一人有关](https://mp.weixin.qq.com/s/rp-vbKMABEG1T4jy7e7Bfg)
+- [社会文化变量对网上讽刺交流的影响 | 网络科学论文速递9篇](https://mp.weixin.qq.com/s/1FPSPi2l-zCXyPnvABsNCw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1359,6 +1361,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Scutellaria baicalensis extract and baicalein inhibit replication of SARS-CoV-2 and its 3C-like protease in vitro](https://www.biorxiv.org/content/10.1101/2020.04.10.035824v1)
 - [如果人们买不起，那新冠救命药有什么用？｜《科学》新闻](https://mp.weixin.qq.com/s/AFeR6AKl86SDKeK3E6Yjhw)
 - [Would-be coronavirus drugs are cheap to make](https://www.sciencemag.org/news/2020/04/would-be-coronavirus-drugs-are-cheap-make)
+- [好消息！中国又有2款新冠疫苗将进入临床试验](https://mp.weixin.qq.com/s/rbF00Nc9CZwVrynUFcTk1w)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1568,6 +1571,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [人源可溶性重组ACE2蛋白：潜在的新冠肺炎药物 | Cell Press青促会述评](https://mp.weixin.qq.com/s/XJNJuPpMTrLrOQp7wyLMrg)
 - [最新 | 武汉大学李红良等系统介绍ACE2的功能及在新冠肺炎中潜在治疗作用](https://mp.weixin.qq.com/s/998eY1DgIClUG26OnJ9Lzw)
 - [ACE2 the Janus-faced protein – from cardiovascular protection to severe acute respiratory syndrome-coronavirus and COVID-19](https://portlandpress.com/clinsci/article-lookup/doi/10.1042/CS20200363)
+- [疫情期间，动物进城没啥，我怕他们回去……](https://mp.weixin.qq.com/s/Vdyu31TyrmIriURtD_zopg3)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1950,6 +1954,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [杀了？放了？带回家？疫情中实验动物可怎么办](https://mp.weixin.qq.com/s/R7VuXM4_6NEzMEJA-OI00A)
 - [王晓昌：污水处理应基于病毒设定风控目标](http://news.sciencenet.cn/htmlnews/2020/4/438283.shtm)
 - [Challenges in lung cancer therapy during the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30170-3/fulltext)
+- [全球城市观察︱新冠接触者追踪技术能否确保隐私和安全](https://mp.weixin.qq.com/s/4RJ3QwVVKnZNOJaG-I6nyg)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2163,6 +2168,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [寻城、封城，一个规划师的影像笔记](https://mp.weixin.qq.com/s/g41AaLf67fa0aSM7qcQK6Q)
 - [全球化的每一步，都是流行病的一大步](https://mp.weixin.qq.com/s/gGJrQXdxX2WwkXj140Ld2w)
 - [国际资讯 | [德]2019柏林住房市场报告/促进健康与可持续城市发展的五大倡议(2020.4)](https://mp.weixin.qq.com/s/OZ78AilnLGa2OlOV_H-P6A)
+- [疫情加速新基建，AI发力还需闯几关？](https://mp.weixin.qq.com/s/HaxzWNr_tuA2tpaQX8R9XA)
+- [交通设施︱疫情期间，城市需列出确保系统基本运转的服务岗位](https://mp.weixin.qq.com/s/MyBfT2u6DWAmceVpHDaBRQ)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2612,6 +2619,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [学术·预告 | “统计大讲堂”第一百一十四讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/-P9pavjqxy3EPVk-WLvtMw)
 - [今日【直播预告】一带“医”路 中外新冠疫情管理交流-第三期](https://mp.weixin.qq.com/s/3FhFmfslPIdRfVqVjl0lMg)
 - [直播报名 | 4 月 23 日 Tableau 网络入门课程 - 医疗行业可视化分析](https://mp.weixin.qq.com/s/Ky4XpsfjqYpSNZuSC73uZw)
+- [爱思唯尔云论坛：疫情挑战下的大数据与人工智能研究](https://mp.weixin.qq.com/s/Z6T7eYOq7Qf4QH9tP-Qnvg)
+- [云课堂｜新冠肺炎治疗最新进展：从抗病毒治疗到代谢调节](https://mp.weixin.qq.com/s/IAUOEuoVjZ1BIV1o8klmMg)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
