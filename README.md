@@ -1048,6 +1048,31 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [驻俄领馆再次强烈提醒：勿贸然回国](https://mp.weixin.qq.com/s/w2j7b9YTGmL3WrvFqta12g)
 - [9小时新增境外输入34例，均来自俄罗斯](https://mp.weixin.qq.com/s/CT-Wmmz8970BNM9c_LSVvg)
 - [英国首相，出院了](https://mp.weixin.qq.com/s/6iJg-cQe6NGH-b1ns-3RDw)
+- [美媒公布“美军感染地图”，军方信息“不透明”引多方不满](https://mp.weixin.qq.com/s/Ya-xnuZVNVUfM_tNYppgcg)
+- [荷兰新冠时间线（四）—— 柳叶刀打脸荷兰不觉疼](https://mp.weixin.qq.com/s/ETG8FPFvtiP6e86rkjtAqg)
+- [今日确诊患者比例结构发生了改变，中低年龄患者正在增加，新增死亡人数降回两位数，但总体死亡率依旧超10%](https://mp.weixin.qq.com/s/94o3WT7Qbj-Vs_cAiQSbEw)
+- [傲慢.偏见.炮轰：看荷兰《人民报》复活节的表演](https://mp.weixin.qq.com/s/rp8UfeU903Fnrx0k-G8wcw)
+- [世卫组织向英国表示感谢](https://mp.weixin.qq.com/s/IdGCk4rLCxenCn_IUkanvw)
+- [土耳其内政部长因宣布“禁足令”辞职](https://mp.weixin.qq.com/s/FqBo43yziePlxvVLgoVR5Q)
+- [黑龙江：新增7例本土，49例输入](https://mp.weixin.qq.com/s/5Qk7GcuXMuonChcokSgWcQ)
+- [上海新增境外输入11例，9人同一航班](https://mp.weixin.qq.com/s/KUh4kE5_mD8J_T9BWXKRlg)
+- [快讯！4月12日福建无新增确诊病例、疑似病例、无症状感染者！](https://mp.weixin.qq.com/s/VS8Pe-CTYT_SAd2zO3cv6Q)
+- [英国首相出院，“佛系抗疫”还继续吗](https://mp.weixin.qq.com/s/BSa0xA5kNb1b6VaAGZb7AQ)
+- [新增10例本土病例，来自这两个地方](https://mp.weixin.qq.com/s/DvfHYGtWIEZ3CgMcdnpkrg)
+- [美国耽误抗疫时机，是因为特朗普？](https://mp.weixin.qq.com/s/heAbS9uMGJVxPES3Fi-x_Q)
+- [国家卫健委：新增确诊病例108例，新增无症状感染者61例](https://mp.weixin.qq.com/s/aVF4rwyxjpydk78FtVZf9w)
+- [英国首相治愈出院后首次露面，美国确诊超55万例！](https://mp.weixin.qq.com/s/xhg_FeFSBxdzD6RhY5aF2A)
+- [日本国会出现首例确诊](https://mp.weixin.qq.com/s/gdFWAsUTrqNr2TtBDJdkAg)
+- [英国首相出院后录制视频讲话](https://mp.weixin.qq.com/s/v-cXkt4Qgd_kWCEdv-5-Dw)
+- [英国留学生包机回国费用公布](https://mp.weixin.qq.com/s/fOaSaaVmpLWG8U1rmyBfeg)
+- [“COVID-19”科研动态监测每日快报（4月12日）【中国科讯】](https://mp.weixin.qq.com/s/o_wi_xeYhr2cSTb0K8JlKw)
+- [瑞德西韦中国重症临床试验已停止，数据或将在恰当时机公布｜科研圈日报](https://mp.weixin.qq.com/s/StjtEdPb5gHvGXEY6RsI1A)
+- [中国又一新冠疫苗将进入临床试验](https://mp.weixin.qq.com/s/rOXogoJ8GsiV0YQ9Y2aExQ)
+- [英国首相，“我曾生死难料”](https://mp.weixin.qq.com/s/FJyzbHeiaegTIsKo-svE2w)
+- [张文宏：下一波疫情可能11月来](https://mp.weixin.qq.com/s/0299rxGhPamqC0N_jelt3w)
+- [英国手机基站被烧背后的阴谋论：“5G导致新冠病毒”是如何疯传的？](http://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2651725197&idx=3&sn=acd17d9a680c029e4e14fb18ea2f7b31&chksm=5da2391f6ad5b009809f41a77b62a88616930fce2f431b02b17b62489cbd5af4ea53cf9de496&mpshare=1&scene=1&srcid=&sharer_sharetime=1586765025658&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [快讯！厦门两例治愈境外输入新冠肺炎患者出院](http://mp.weixin.qq.com/s?__biz=MjM5NzMxODM2Mw==&mid=2650131772&idx=2&sn=8b6c9a00ea016ccdce77e8c775c27f0e&chksm=bedab68889ad3f9e561713af3ed46c0ad460ce1d69e2227e880135f7c9460395c44428d442e0&scene=0&xtrack=1#rd)
+- [张文宏：下一波疫情可能11月来！世界疫情的控制取决于……](https://mp.weixin.qq.com/s/2-sIcV-J6OGHAz2Me6Xpow)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1329,6 +1354,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Compassionate Use of Remdesivir for Patients with Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?query=featured_coronavirus)
 - [首份瑞德西韦治疗新冠临床研究，“结果令人鼓舞”](https://mp.weixin.qq.com/s/RRCE8YgruMliF7RNwsOlCA)
 - [NEJM翻译+述评|瑞德西韦同情治疗重症新冠肺炎，68%临床获益，评价疗效尚早](https://mp.weixin.qq.com/s/tas9i2vdExsz4ogT8FsbNA)
+- [新冠病毒为何如此诡异](https://mp.weixin.qq.com/s/9G14tymheseZ6jSB7BWOOw)
+- [新发现 | 北京大学来鲁华等团队发现黄芩提取物可抗新冠病毒，有望作为治疗药物](https://mp.weixin.qq.com/s/-RQla263RBDtXz29PmgiGQ)
+- [Scutellaria baicalensis extract and baicalein inhibit replication of SARS-CoV-2 and its 3C-like protease in vitro](https://www.biorxiv.org/content/10.1101/2020.04.10.035824v1)
+- [如果人们买不起，那新冠救命药有什么用？｜《科学》新闻](https://mp.weixin.qq.com/s/AFeR6AKl86SDKeK3E6Yjhw)
+- [Would-be coronavirus drugs are cheap to make](https://www.sciencemag.org/news/2020/04/would-be-coronavirus-drugs-are-cheap-make)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1533,6 +1563,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [再添实证 | 新冠病毒不会发生母婴垂直传播](https://mp.weixin.qq.com/s/HCmQM6AwgI4W52d2_cYAQg)
 - [Vaginal Delivery Report of a Healthy Neonate Born to a Convalescent Mother with COVID­19](https://onlinelibrary.wiley.com/doi/10.1002/jmv.25857)
 - [曹雪涛专访 | 新发《自然》子刊评述文章，谈新冠肺炎免疫病理和治疗启示](https://mp.weixin.qq.com/s/Sb0gLX3nzTNWOhsbMIzi-g)
+- [【研究】芬兰科学家论证新冠病毒可在空气中传播](https://mp.weixin.qq.com/s/el_8qk965uooWq4TnZqKpA)
+- [Researchers modelling the spread of the coronavirus emphasise the importance of avoiding busy indoor spaces](https://www.aalto.fi/en/news/researchers-modelling-the-spread-of-the-coronavirus-emphasise-the-importance-of-avoiding-busy)
+- [人源可溶性重组ACE2蛋白：潜在的新冠肺炎药物 | Cell Press青促会述评](https://mp.weixin.qq.com/s/XJNJuPpMTrLrOQp7wyLMrg)
+- [最新 | 武汉大学李红良等系统介绍ACE2的功能及在新冠肺炎中潜在治疗作用](https://mp.weixin.qq.com/s/998eY1DgIClUG26OnJ9Lzw)
+- [ACE2 the Janus-faced protein – from cardiovascular protection to severe acute respiratory syndrome-coronavirus and COVID-19](https://portlandpress.com/clinsci/article-lookup/doi/10.1042/CS20200363)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1669,6 +1704,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [machine learning and data science to analyze the spread of COVID-19](https://github.com/docfate111/covid19analyticsclass)
 - [This package curate (downloads, clean, consolidate, smooth) data from Johns Hokpins for analysing international outbreak of COVID-19](https://github.com/rOpenStats/COVID19analytics)
 - [天气转暖，真的有助于杀死Covid-19吗？](https://mp.weixin.qq.com/s/cwVgM-VdN1nVM6TklGn0Yg)
+- [最新模型研究：要实时监控疫情发展，防止可能出现的新感染](https://mp.weixin.qq.com/s/bKPk0l4vHuj-11EjHIXupw)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -1691,6 +1727,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [2篇Lancet长文 | 梁卓伟/胡子祺/梁诗敏等发现第二波COVID-19可能出现，仍需严密监控](https://mp.weixin.qq.com/s/U7hZWgRBBmt9nBSE7J21Zg)
 - [First-wave COVID-19 transmissibility and severity in China outside Hubei after control measures, and second-wave scenario planning: a modelling impact assessment](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30746-7/fulltext#%20)
 - [Beware of the second wave of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30845-X/fulltext)
+- [国际资讯|用于评估和映射COVID-19危害风险的开源程序](https://mp.weixin.qq.com/s/NTbLTQu6k8JCGu4_0C8fZw)
+- [Open-source program to assess and map COVID-19 hazard risk](https://www.geospatialworld.net/blogs/open-source-program-to-assess-and-map-covid-19-hazard-risk/)
 
 ## Evaluation intervention
 - [Effect of non-pharmaceutical interventions for containing the COVID-19 outbreak: an observational and modelling study](https://www.worldpop.org/events/COVID_NPI)
@@ -1909,6 +1947,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [SnapShot: COVID-19](https://www.cell.com/pb-assets/products/coronavirus/CELL_11362_S5.pdf)
 - [对抗新冠肺炎疫情 数据科学大有可为 | Patterns主编声音](https://mp.weixin.qq.com/s/uQcR3xwIMBs7itgOkcFTiQ)
 - [Lancet Voice 特别版 | COVID-19疫情中的“错误信息”](https://mp.weixin.qq.com/s/kbmsrza9PgGA_97_ge83iw)
+- [杀了？放了？带回家？疫情中实验动物可怎么办](https://mp.weixin.qq.com/s/R7VuXM4_6NEzMEJA-OI00A)
+- [王晓昌：污水处理应基于病毒设定风控目标](http://news.sciencenet.cn/htmlnews/2020/4/438283.shtm)
+- [Challenges in lung cancer therapy during the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30170-3/fulltext)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2120,6 +2161,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Rabobank：大流行病可能给全球经济衰退带来结构性变化｜KK Talk](https://mp.weixin.qq.com/s/8fInFm5MOA8NtjbW2Lm-ug)
 - [抗击疫情，女规划师在行动｜冷红 李姝媛：基于急性传染病疫情防控的规划响应](http://mp.weixin.qq.com/s?__biz=MjM5Nzc3MjYwMQ==&mid=2650662541&idx=1&sn=998c0c4d3ec4902d516dc7bdf3f22d52&chksm=beddaadb89aa23cdfc249a1cbfe63a6f5ce2d4d9b078b7fdb9f16ec48c343c1a0d705596003b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586705986575&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [寻城、封城，一个规划师的影像笔记](https://mp.weixin.qq.com/s/g41AaLf67fa0aSM7qcQK6Q)
+- [全球化的每一步，都是流行病的一大步](https://mp.weixin.qq.com/s/gGJrQXdxX2WwkXj140Ld2w)
+- [国际资讯 | [德]2019柏林住房市场报告/促进健康与可持续城市发展的五大倡议(2020.4)](https://mp.weixin.qq.com/s/OZ78AilnLGa2OlOV_H-P6A)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2232,6 +2275,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [R package to obtain and analyze live data from the nCOVID19 coronavirus](https://github.com/mponce0/covid19.analytics)
 - [Extract COVID data from www.humanitarianresponse.info pdf](https://github.com/ColinFay/covidbf)
 - [Data for the 2019-nCoV outbreak](https://github.com/qingyuanzhao/2019-nCov-Data)
+- [Johns Hopkins data with ISO-3166 3 letter Country Code](https://github.com/AnthonyEbert/COVID-19_ISO-3166)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -2358,6 +2402,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [How some cities ‘flattened the curve’ during the 1918 flu pandemic](https://api.nationalgeographic.com/distribution/public/amp/history/2020/03/how-cities-flattened-curve-1918-spanish-flu-pandemic-coronavirus)
 - [Visualizing COVID-19 Data Beautifully in Python (in 5 Minutes or Less!!)](https://towardsdatascience.com/visualizing-covid-19-data-beautifully-in-python-in-5-minutes-or-less-affc361b2c6a)
 - [Dashboard to follow in real time the Covid-19 evolution](https://github.com/Lrakotoson/Covid-19)
+- [投票 | 疫情数据可视化公益行动第七期优秀作品候选名单公示](https://mp.weixin.qq.com/s/U8aJ2c8abXAxje5cK_xjBA)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2425,6 +2470,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Open Source Pulse Oximeter for COVID-19](https://create.arduino.cc/projecthub/gatoninja236/open-source-pulse-oximeter-for-covid-19-4764c5)
 - [疫情防控信息化案例 | 南社社区构建智慧疫情防控体系介绍](https://mp.weixin.qq.com/s/AXlVhmipsDtVZnxg9PrH6w)
 - [隔离有助手：斯坦福李飞飞团队推出家用AI系统，实时监测独居老人症状](https://mp.weixin.qq.com/s/tyCqMxmzJUpaNLS2Dc_Dpg)
+- [疫情防控信息化案例 | 全系规划，无界管控--品茗疫情上报助手赋能防疫狙击战](https://mp.weixin.qq.com/s/fQIPQJS-uIEZQJ1gKnhu2w)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2466,6 +2512,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Coronavirus Detected By Voice? Carnegie Mellon Researchers Develop App To ‘Listen’ For Signs Of COVID-19](https://pittsburgh.cbslocal.com/2020/03/31/arnegie-mellon-university-coronavirus-voice-app/)
 - [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
 - [An implementation of the University of Pennsylvania’s COVID-19 Hospital Impact Model for Epidemics (CHIME) for use in any license of ArcGIS Pro 2.3 or higher](https://disasterresponse.maps.arcgis.com/home/item.html?id=37ad6eb0d1034cd58844314a9b305de2)
+- [史上首次！苹果谷歌高调合作，打通iOS和安卓，蓝牙匿名追踪新冠接触者，5月上线](https://mp.weixin.qq.com/s/9X83cv0Q1ocxQCKWnZlmTg)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
@@ -2563,12 +2610,15 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【讲座预告】鲍曙明：新冠病毒疫情冲击对长三角地区影响分析](https://mp.weixin.qq.com/s/-Y2_fv_u6Y6Nyb2kcQ4jGg)
 - [报名启动 | 如何通过材料技术创新,应对全球“口罩荒”？未来·局](https://mp.weixin.qq.com/s/OuFiE-_MN_2FAb58z0_24g)
 - [学术·预告 | “统计大讲堂”第一百一十四讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/-P9pavjqxy3EPVk-WLvtMw)
+- [今日【直播预告】一带“医”路 中外新冠疫情管理交流-第三期](https://mp.weixin.qq.com/s/3FhFmfslPIdRfVqVjl0lMg)
+- [直播报名 | 4 月 23 日 Tableau 网络入门课程 - 医疗行业可视化分析](https://mp.weixin.qq.com/s/Ky4XpsfjqYpSNZuSC73uZw)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
 - [面向全国开放申请，50-200万元/项，这所顶尖名校启动肺炎科研攻关项目](https://mp.weixin.qq.com/s/OC4NlPD-Ld2F46VvKw9hBQ)
 - [科技部关于发布新型冠状病毒(2019-nCoV)现场快速检测产品研发应急项目申报指南的通知](https://mp.weixin.qq.com/s?__biz=MzI5MjIwMzk1MQ==&mid=2247514753&idx=2&sn=b2b8d5e49c79df4d3da7e3e7fb4a3b0d&chksm=ec060641db718f574102dd8e969469995dd8bc81afe0118df4144d401877ef52a763f6357834&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522114323&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [重大疫情的环境安全与次生风险防控重大项目2020年度项目指南](http://www.nsfc.gov.cn/publish/portal0/tab568/info77534.htm)
+- [通知 | ​面向因抗击疫情延误申请国家自然科学基金 国际(地区)合作与交流项目的科研人员 定向开放项目申请](https://mp.weixin.qq.com/s/cJb6VKcbjQFWCGnc1m8UQg)
 
 # ISLE
 - [The introduction to the ISLE(International Initiative on Spatial Lifecourse Epidemiology)](https://mp.weixin.qq.com/s?__biz=MzU5Njk2NjI5OQ==&mid=100000007&idx=1&sn=22a079e6bf2c7d7ffc69b221d38e54fe&chksm=7e5beff3492c66e59a7d034aef8e1b999e3e861faa43164f4ae8d3431a4514107f52da37e2e2&mpshare=1&scene=1&srcid=&sharer_sharetime=1584355634880&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
