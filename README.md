@@ -306,6 +306,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中科院新冠病毒研究取得系列进展丨亮点成果](https://mp.weixin.qq.com/s/BKgQo14YVVnCJ3tdAQeJOQ)
 - [新冠病毒疫苗研发再加速 两款灭活疫苗启动临床试验](https://mp.weixin.qq.com/s/BwkApjPOoym-yNi0bWBPBA)
 - [大专院校新冠肺炎疫情防控技术方案](https://mp.weixin.qq.com/s/cmenc8qL1uo6EsXlWtp1oQ)
+- [COVID-19流行期间因流动限制而造成经济隔离的证据 | 网络科学论文速递23篇](https://mp.weixin.qq.com/s/P6TvSQcg_V5TA8Zyj-jvLA)
 
 ## The News
 - [北京部署“快速AI体温检测仪”应对返工潮；李飞飞当选美国国家工程院院士；Facebook开源最大规模并行语料库 | AI一周资讯](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500237&idx=1&sn=7a665273b53d328d157c3370783839d7&chksm=fbea7802cc9df114202315bf20d018fa367877f8280656f2d6f992c2d74fcf8d74503d8c30cc&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522406951&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1115,6 +1116,14 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新冠肺炎疫情报道中的建设性新闻](https://mp.weixin.qq.com/s/ROr-zv9Pt9G0BsEfaR1DFw)
 - [全球唯一！疫苗好消息！](https://mp.weixin.qq.com/s/FT0KcWErcqh0YQosZDkTfQ)
 - [广州排查高风险国家在穗4355人，已全部进行核酸检测](https://mp.weixin.qq.com/s/CITS5d39e5nh9mL98C210g)
+- [广东卫健委：这六类重点人员免费检测核酸](https://mp.weixin.qq.com/s/4_OjPhtwo_oqxc5_WdO1aw)
+- [警惕无症状感染者！疫情如何终结？普通人如何应对？](https://mp.weixin.qq.com/s/RhSQy3ZMBblIQYumtsdi0g)
+- [新增确诊868人,看荷兰段子手怎么说!多国相继出现拐点,张文宏教授明早连线荷兰,别错过！](https://mp.weixin.qq.com/s/mQbHzdZTh4v5UlDWMim-Dw)
+- [“今年全球经济，近90年来最糟”](https://mp.weixin.qq.com/s/ACWcyEa1j4WLknWIPo9aJA)
+- [疫情是否还会爆发？钟南山这样说](https://mp.weixin.qq.com/s/UduMMBq2Z25YzFAEPeyaZg)
+- [一架俄罗斯的航班80人送医，“破案”全程高能](https://mp.weixin.qq.com/s/GRX21H8aD1mlYZ_z3RQC_Q)
+- [哈尔滨一人感染十人，黑龙江省长表态](https://mp.weixin.qq.com/s/88PEr0iI-Ppm9ETRVWEYyA)
+- [荷兰确诊病例分布在向中低龄偏移，确诊病例中女性医护人员占了81%，1.5m将成为荷兰新常态](https://mp.weixin.qq.com/s/x5JcflKUSV3IEyEEpOaQqg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1764,6 +1773,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Universal Screening for SARS-CoV-2 in Women Admitted for Delivery](https://www.nejm.org/doi/full/10.1056/NEJMc2009316?query=featured_home)
 - [柳叶刀-公共卫生 | 健康不平等为何会导致疫情扩散？](https://mp.weixin.qq.com/s/l4rug6xDieNsh0rPZAsgBw)
 - [Why inequality could spread COVID-19](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30085-2/fulltext)
+- [国际资讯|使用位置数据绘制人们的活动方式、社交距离与COVID-19的传播情况](http://mp.weixin.qq.com/s?__biz=MzIwNDE1NjM2NA==&mid=2652073691&idx=2&sn=7b7d97a4d44895fac9a18ee65cf7b13f&chksm=8d23b278ba543b6ec5b7a664f9a9f37be55203b5b55954c957c4df44a25c9eb89d93a84cd251&mpshare=1&scene=1&srcid=&sharer_sharetime=1586893904741&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [Using Location Data to Map People’s Movements, Social Distancing Efforts, and the Spread of COVID-19](https://www.gislounge.com/using-location-data-to-map-peoples-movements-social-distancing-efforts-and-the-spread-of-covid-19/)
+- [A collection of work related to COVID-19](https://github.com/k-sys/covid-19)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2232,6 +2244,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [抗击疫情，女规划师在行动｜叶裕民：建构“以人民为中心”的城市治理秩序](https://mp.weixin.qq.com/s/N0FNnNTeIu203Zr9e2mUVA)
 - [疫情之下：企业裁员保命，被裁者艰难求生](https://mp.weixin.qq.com/s/yswbK035gCJuTfiNv4sdlg)
 - [疫情下的思考——依然要坚守规划价值导向](https://mp.weixin.qq.com/s/Qs8iJpsO5e-AdhmGHmdOjA)
+- [疫情危机对房地产市场意味着什么？](https://mp.weixin.qq.com/s/HNonAv-T05ACJ5x1hAHP3A)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2473,6 +2486,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Dashboard to follow in real time the Covid-19 evolution](https://github.com/Lrakotoson/Covid-19)
 - [投票 | 疫情数据可视化公益行动第七期优秀作品候选名单公示](https://mp.weixin.qq.com/s/U8aJ2c8abXAxje5cK_xjBA)
 - [Mapping county-level mobility pattern changes in the United States in response to COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3570145)
+- [倒不如用R画个新冠病毒吧...](https://mp.weixin.qq.com/s/iD4OGIUquFLC2BV_EZTqxg)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2550,6 +2564,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化应用案例 | 人网疫情管控系统](https://mp.weixin.qq.com/s/ion4EHU5c37iwDsnikQaQQ)
 - [一个APP即可追踪新冠患者！苹果谷歌联手推抗疫神器，安卓iPhone可互通](https://mp.weixin.qq.com/s/q3ZN7j0qZqaaAJMCN2PuJw)
 - [用AI将冠状病毒结构转变为音乐！协助科学家发现显微镜遗漏的细节](https://mp.weixin.qq.com/s/Xi3DZ9gW5UPio6be9i71fg)
+- [疫情防控信息化案例 | 不松懈抓防疫 科技手段促复工](https://mp.weixin.qq.com/s/n8dbwvduNZyUPLkgnXkxwg)
+- [Application mobile qui doit permettre à une personne d’être informée du risque qu’elle a encouru en étant au contact de personnes diagnostiquées porteuses du coronavirus 19](https://github.com/betagouv/StopCovid)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
