@@ -1108,6 +1108,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新突破！我国新冠病毒灭活疫苗获批进入临床试验](https://mp.weixin.qq.com/s/jjaE99wtmWuMTBAKejZGmQ)
 - [美国50个州全部出现新冠死亡病例](https://mp.weixin.qq.com/s/Dg3H02jASl6-OZFyvEnctQ)
 - [今天，雷神山患者清零！](https://mp.weixin.qq.com/s/Kje33NY57VFOanUFtAPNbQ)
+- [美疾控中心最新研究，新冠病毒可通过鞋底传播](https://mp.weixin.qq.com/s/g7Sb47n6v3qzUTDQ0Ux0tw)
+- [哈尔滨一人感染十人，有个问题值得警惕](https://mp.weixin.qq.com/s/UBrl5j2AZD0DqT_WF_yWRA)
+- [什么时候能用上疫苗？王军志院士回答](https://mp.weixin.qq.com/s/KxvSywtUR_hGLOL8ibTmlA)
+- [“莫斯科不相信口罩”](https://mp.weixin.qq.com/s/i4bnZ_TcMxJTHslBrDKacw)
+- [新冠肺炎疫情报道中的建设性新闻](https://mp.weixin.qq.com/s/ROr-zv9Pt9G0BsEfaR1DFw)
+- [全球唯一！疫苗好消息！](https://mp.weixin.qq.com/s/FT0KcWErcqh0YQosZDkTfQ)
+- [广州排查高风险国家在穗4355人，已全部进行核酸检测](https://mp.weixin.qq.com/s/CITS5d39e5nh9mL98C210g)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1138,6 +1145,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Opacity detection (pneumonia) on chest x-ray](https://marketplace.arterys.com/model/rsna2018chestXR)
 - [COVID-19 Imaging-based AI Research Paper Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list)
 - [新加坡首次公布扫描影像，新冠患者肺部出现“碎石路”](https://mp.weixin.qq.com/s/-WFCBXccV67PVCxqkiJGBg)
+- [TensorFlow.js 助力医学影像学](https://mp.weixin.qq.com/s/O2SCnpKXS7C9e3xrrNhoAQ)
 
 ## Clinic Medicine
 - [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext)
@@ -1780,6 +1788,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Beware of the second wave of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30845-X/fulltext)
 - [国际资讯|用于评估和映射COVID-19危害风险的开源程序](https://mp.weixin.qq.com/s/NTbLTQu6k8JCGu4_0C8fZw)
 - [Open-source program to assess and map COVID-19 hazard risk](https://www.geospatialworld.net/blogs/open-source-program-to-assess-and-map-covid-19-hazard-risk/)
+- [无症状感染者：一场大战中的扫尾任务](https://mp.weixin.qq.com/s/KkYC_TBLJm9Jqp0AaBCK7Q)
+- [关于无症状感染者，我们需要担心吗？](https://mp.weixin.qq.com/s/DRttgIV9sd-bxJbaZH2ABw)
 
 ## Evaluation intervention
 - [Effect of non-pharmaceutical interventions for containing the COVID-19 outbreak: an observational and modelling study](https://www.worldpop.org/events/COVID_NPI)
@@ -2593,6 +2603,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [期刊专辑征稿·新冠肺炎二(总第72期)](https://mp.weixin.qq.com/s/V2RqzW3UChhof-R1k1eJVQ)
 - [免收文章处理费 | Frontiers 新冠肺炎专刊正式上线征稿](https://mp.weixin.qq.com/s/zJWtaCtAfGb36sG_sk7QXQ)
 - [全球战“疫” | 澎湃新闻“长三角议事厅”征稿启事](http://mp.weixin.qq.com/s?__biz=MzA4NTYwOTk0NA==&mid=2652341873&idx=1&sn=42ccde23bdbaca669474d3ad0c8b76a3&chksm=84367ac6b341f3d060681e09ec235d0a5aa605cb5942e1c23e8121eb930c82072fb3c54f5c90&scene=0&xtrack=1#rd)
+- [Frontiers专刊征稿 | 如何治疗感染新冠肺炎的癌症患者？](https://mp.weixin.qq.com/s/31QPBOKWej6vZFUcfH4v_w)
 
 # Competitions
 - [快来组队参加数据可视化竞赛](https://mp.weixin.qq.com/s?__biz=MzUzMzMwNjgzNA==&mid=2247484181&idx=1&sn=db4a9f57c0f6d9efa3e64d34a52b9a9e&chksm=faa74fa8cdd0c6bea80471ec45a24b0d62ed18c2d515722c70a99405fc4daf99ea90c08ee51e&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520559308&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2686,6 +2697,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [4月15日直播：新冠肺炎重症治疗论坛](https://mp.weixin.qq.com/s/iJjLcfkEoUv_3L2xX8x7VQ)
 - [4月15日直播：抗疫后时代-新冠肺炎重症治疗经验分享与总结](https://mp.weixin.qq.com/s/cFahtGvEpLSrOevij0RdPQ)
 - [【CRRT学社新冠云讲堂第二期】4月17日直播：标准与创新-抗击新冠，决胜关键时刻](https://mp.weixin.qq.com/s/1F5ONDEuxoioDsXI3hPGKQ)
+- [重要通知 | 直播预告：驻欧盟使团与驻荷兰、比利时、卢森堡使馆共邀张文宏教授答“疫”释惑](https://mp.weixin.qq.com/s/IySv-jHGGTIQ5EQOX9YIAA)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
