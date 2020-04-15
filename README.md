@@ -310,6 +310,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [养成一个新习惯，只需要0.5秒？蝙蝠体内又发现了6种新的冠状病毒 | 领研网24小时热门论文](https://mp.weixin.qq.com/s/VfH3sWMFDu8gYy0dMldcWQ)
 - [“COVID-19”科研动态监测每日快报（4月14日）【中国科讯】](https://mp.weixin.qq.com/s/lKpPc5BLGmVX2awvequGuQ)
 - [​北大支援武大，清华支援华科：湖北高校就业帮扶行动启动｜科研圈日报](https://mp.weixin.qq.com/s/dWwLfqrPz4nE7ih-y-eVUg)
+- [利用社交媒体预测中国大陆COVID-19病例数 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/4tE7eVvlje39VpU7WnfBkQ)
 
 ## The News
 - [北京部署“快速AI体温检测仪”应对返工潮；李飞飞当选美国国家工程院院士；Facebook开源最大规模并行语料库 | AI一周资讯](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500237&idx=1&sn=7a665273b53d328d157c3370783839d7&chksm=fbea7802cc9df114202315bf20d018fa367877f8280656f2d6f992c2d74fcf8d74503d8c30cc&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522406951&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1144,6 +1145,24 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [雷神山医最后病区贴上了封条](https://mp.weixin.qq.com/s/UextQvayn0CDXXyehN8xXg)
 - [广州新增本土病例系夫妻，曾为外籍确诊者搬货](https://mp.weixin.qq.com/s/ZqxyWsgWsW_DEgvoAKRm6g)
 - [返京留学生隔离14天核酸呈阴性，回家两天后发热确诊](https://mp.weixin.qq.com/s/cn7tQ11SQUF3mqnNWHB7YQ)
+- [确诊两个月后，98岁天文学泰斗韩天芑出院回家](https://mp.weixin.qq.com/s/WanXhsV14Qje_8edeQMWmg)
+- [首次公布！6764例](https://mp.weixin.qq.com/s/8Tz4WNPD5Iq-IlYj4afSoQ)
+- [首次公布！6764例](https://mp.weixin.qq.com/s/GA765LztBWIjbyiKLewMoA)
+- [快讯！厦门两例治愈境外输入新冠肺炎患者出院](https://mp.weixin.qq.com/s/ioqpFMktgfURABcG2H352Q)
+- [致敬！福建最美的“逆行者”！](https://mp.weixin.qq.com/s/DVaHFQSiCfot8ONqTS2PLQ)
+- [境外入闽人员可以申领健康码啦](https://mp.weixin.qq.com/s/MAsivWoBEiuSHI8Sagb1dw)
+- [用动物喂动物，德国动物园疫情中求生](https://mp.weixin.qq.com/s/-jRAsn6CqJsAGNL5Q_cj8w)
+- [如何发现无症状感染者](https://mp.weixin.qq.com/s/OXvgM9IFiT4GTRgmizsusA)
+- [注意！留学生解除隔离后确诊，一查有“隐情”](https://mp.weixin.qq.com/s/S2EQGeRr7E3KjmjUESEF3Q)
+- [张文宏教授针对荷兰疫情答疑：口罩、复工复学、轻症转重症原因…](https://mp.weixin.qq.com/s/W5nP-8MH1eGUDLiD0BkpfA)
+- [新增确诊734荷兰8000医护感染！美国暂停WHO资金，原因是“没批评中国”？](https://mp.weixin.qq.com/s/wfLElUUwXsbzTfS3snPm7w)
+- [“外籍人员隔离费用，原则上由个人负担”](http://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651625199&idx=2&sn=02efdc9379236bf6d689947eb3d4498e&chksm=bd610b538a1682457955c80b1c969c33794412cad7db1d4dce7823313b8afe717d975c7f398b&mpshare=1&scene=1&srcid=&sharer_sharetime=1586967733380&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [小朋友真的有问号了，但张文宏没蒙](https://mp.weixin.qq.com/s/8DlhwW59z11XKEz6swsljw)
+- [我说抗疫 第6期｜如何检测新冠病毒](https://mp.weixin.qq.com/s/fMrsR7TdKM_BnJDAsVmgUQ)
+- [荷兰新增734，全球确诊病例破200万例！美国暂停WHO资金，荷兰有人因谣言而烧毁电信塔](https://mp.weixin.qq.com/s/FCtMkEOZnCmB3LO09Hul4g)
+- [特朗普暂停资助世卫组织，盖茨发声](https://mp.weixin.qq.com/s/zf95VPNh6JrgQgZmaeSfWw)
+- [全球，200w+](https://mp.weixin.qq.com/s/ADFMKgDrzLR_wSf-nmXpkw)
+- [22岁女留学生感染备受关注，哈尔滨通报](https://mp.weixin.qq.com/s/zcjW8gGLprRLqmjx0WA_cg)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1660,6 +1679,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Nature点评 | 蝙蝠是人类病毒的主要来源，但啮齿动物老鼠等也需要考虑](https://mp.weixin.qq.com/s/B-jzfHWKaTFwUkbEBE_u5w)
 - [Viral zoonotic risk is homogenous among taxonomic orders of mammalian and avian reservoir hosts](https://www.pnas.org/content/early/2020/04/08/1919176117)
 - [Bats are a key source of human viruses — but they’re not special](https://www.nature.com/articles/d41586-020-01096-z)
+- [蝙蝠传染流浪狗？新冠病毒溯源新假说发表，但尚无实际检测证据](https://mp.weixin.qq.com/s/afl3w3RDOnHeCdgUSN7cMQ)
+- [Extreme genomic CpG deficiency in SARS-CoV-2 and evasion of host antiviral defense](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msaa094/5819559)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1811,6 +1832,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020](https://wwwnc.cdc.gov/eid/article/26/7/20-0764-f1)
 - [Science突破 | 新冠肺炎可能会在今年冬季暴发，到2024年仍有暴发的风险，长期监控很有必要](https://mp.weixin.qq.com/s/5ao8NLX4v-kETR2jythr7Q)
 - [Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
+- [哈佛研究团队：新冠肺炎有可能数年后卷土重来](https://mp.weixin.qq.com/s/6YpjRN2za5JPVmRDvtKh6Q)
+- [台湾清华大学、美国哈佛大学、Facebook三方合作利用大数据研究新冠疫情传播动向](https://mp.weixin.qq.com/s/wdOK8VPxHGPzJA7qnxStnA)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2061,6 +2084,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [全球城市观察︱新冠接触者追踪技术能否确保隐私和安全](https://mp.weixin.qq.com/s/4RJ3QwVVKnZNOJaG-I6nyg)
 - [【观点】世界正在压平疫情曲线，但能否压平气候变化曲线？](https://mp.weixin.qq.com/s/BiW4XRIPkIqKwDCX3ErijA)
 - [Two Steps Forward Can we flatten the curve on climate?](https://www.greenbiz.com/article/can-we-flatten-curve-climate)
+- [Matter主编：COVID-19下的“头大”生活](https://mp.weixin.qq.com/s/hHl0MessQXNtaJTc_1x_7w)
+- [COVID-19 Is a Huge Headache](https://www.cell.com/matter/fulltext/S2590-2385(20)30130-2)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2285,6 +2310,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国际资讯 | [美]西雅图开展在线设计审查/新冠疫情下的社会公平(2020.4)](https://mp.weixin.qq.com/s/8dvYNOmlAlZdQis67CJfYg)
 - [思考城市公共卫生：理念认知、区域管控与设施配置](https://mp.weixin.qq.com/s/9_8j_b9_6rSnncxLTx5KxA)
 - [志愿者抗疫记｜留学毕业延期，还想为阿富汗做更多](https://mp.weixin.qq.com/s/H-TSgYgtzZDoig6qQWx-Zg)
+- [从"暂停"到"重启"，遥感卫星见证武汉独家记"疫"](https://mp.weixin.qq.com/s/kp-RRhoPBxvo7Cee0T44Aw)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2609,6 +2635,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 不松懈抓防疫 科技手段促复工](https://mp.weixin.qq.com/s/n8dbwvduNZyUPLkgnXkxwg)
 - [Application mobile qui doit permettre à une personne d’être informée du risque qu’elle a encouru en étant au contact de personnes diagnostiquées porteuses du coronavirus 19](https://github.com/betagouv/StopCovid)
 - [What is Big Tech Contributing to Help Fight COVID-19?](https://www.visualcapitalist.com/big-tech-covid-19/)
+- [疫情防控信息化案例 | 莫干山高新区新冠防疫监测一张图](https://mp.weixin.qq.com/s/me4AT5xGYzN5k-bRwcR4Pg)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2664,6 +2691,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [全球战“疫” | 澎湃新闻“长三角议事厅”征稿启事](http://mp.weixin.qq.com/s?__biz=MzA4NTYwOTk0NA==&mid=2652341873&idx=1&sn=42ccde23bdbaca669474d3ad0c8b76a3&chksm=84367ac6b341f3d060681e09ec235d0a5aa605cb5942e1c23e8121eb930c82072fb3c54f5c90&scene=0&xtrack=1#rd)
 - [Frontiers专刊征稿 | 如何治疗感染新冠肺炎的癌症患者？](https://mp.weixin.qq.com/s/31QPBOKWej6vZFUcfH4v_w)
 - [联合征稿 | 民族主义在疫情期间及之后对世界政治的影响](https://mp.weixin.qq.com/s/nJRKMJGOycIh7LDH9Ft7Rg)
+- [论文征集 | 爱思唯尔Big Data Research期刊专辑：大数据技术在流行病领域的应用](https://mp.weixin.qq.com/s/2BYrzTUtGc-b5yKu2jP37A)
 
 # Competitions
 - [快来组队参加数据可视化竞赛](https://mp.weixin.qq.com/s?__biz=MzUzMzMwNjgzNA==&mid=2247484181&idx=1&sn=db4a9f57c0f6d9efa3e64d34a52b9a9e&chksm=faa74fa8cdd0c6bea80471ec45a24b0d62ed18c2d515722c70a99405fc4daf99ea90c08ee51e&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520559308&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2760,6 +2788,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [重要通知 | 直播预告：驻欧盟使团与驻荷兰、比利时、卢森堡使馆共邀张文宏教授答“疫”释惑](https://mp.weixin.qq.com/s/IySv-jHGGTIQ5EQOX9YIAA)
 - [明日直播 | 中国疾控中心流行病首席专家谈新冠肺炎的预防与应对【中国科讯】](https://mp.weixin.qq.com/s/uwJYr5vXocxv7OW12_Qhxw)
 - [2020 霍普金斯沙龙 V: 世界顶级创伤中心如何应对新冠疫情？](https://mp.weixin.qq.com/s/ywrQpJZZSaLtFtMTrZwWkw)
+- [新冠生存指南｜《科学》新冠专题网络研讨会](https://mp.weixin.qq.com/s/S2scpDyxBrOV9QGm4mhdRQ)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
