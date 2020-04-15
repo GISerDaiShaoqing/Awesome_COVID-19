@@ -2283,6 +2283,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [武汉企业76天生死考：「裁员？不是没想过」、「一条视频带火一个小厂」](https://mp.weixin.qq.com/s/MLaYFah3IFVbEKSQyV-KZQ)
 - [【资源分享】增强城市发展韧性，提高城市应对重大公共卫生事件能力](https://mp.weixin.qq.com/s/DRYtYOvxyNJeKA-T6KGH9Q)
 - [国际资讯 | [美]西雅图开展在线设计审查/新冠疫情下的社会公平(2020.4)](https://mp.weixin.qq.com/s/8dvYNOmlAlZdQis67CJfYg)
+- [思考城市公共卫生：理念认知、区域管控与设施配置](https://mp.weixin.qq.com/s/9_8j_b9_6rSnncxLTx5KxA)
+- [志愿者抗疫记｜留学毕业延期，还想为阿富汗做更多](https://mp.weixin.qq.com/s/H-TSgYgtzZDoig6qQWx-Zg)
 
 # Data, Visualization, Platform and Tools
 ## Data
