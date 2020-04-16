@@ -1190,6 +1190,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [中国疾控中心：影剧院、游戏厅等娱乐场所暂不开业 大型展览展会暂不开展](https://mp.weixin.qq.com/s/5CcrGTjxvb22EsT2497qog)
 - [安倍宣布日本进入紧急状态](https://mp.weixin.qq.com/s/7v2K6oaMIsKhdpGcYUvhDw)
 - [网友建议武汉师生开学先做核酸检测，官方答复](https://mp.weixin.qq.com/s/9RrxQITB4-RdS1t63NKyYw)
+- [荷兰确诊逼近3万，荷兰关于口罩的最新官方建议来了，可以戴但不能使用医护同款！](https://mp.weixin.qq.com/s/UX2DZGGyz7JfLjHWT-8IBg)
+- [谭德塞回应美国：我们的重点仍然是阻止这一病毒并拯救生命](https://mp.weixin.qq.com/s/pmlkY0nKl4M3-RclXjJ1yg)
+- [丹麦学校复课，被质疑拿孩子当小白鼠](https://mp.weixin.qq.com/s/e4kt6575aklHlEO9IU7g7g)
+- [新增12例本土病例，有一个共同点](https://mp.weixin.qq.com/s/MiFCVQKkXJtrZXTclY0Oug)
+- [新增确诊1061例｜重症患者再次下降，申根地区入境令延长至5月15日｜WHO：目前仍处于大流行的早期阶段！](https://mp.weixin.qq.com/s/2YS2J0DP5wpdG9F2KO_5rA)
+- [“链式”传播！新增11名无症状感染者中，6名为护士](https://mp.weixin.qq.com/s/F2EukN-dNKW7ocsZFXXLGA)
+- [习近平同俄罗斯总统普京通电话](https://mp.weixin.qq.com/s/S1bJW1yQT87kNU06-xoyew)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1720,6 +1727,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [病毒溯源没那么简单！历史上很多疾病来源至今是谜](https://mp.weixin.qq.com/s/eV9nkaKh__zXc7n-l4rv_g)
 - [实锤！视频显示讲话产生的液滴在密闭空间悬浮数秒](https://mp.weixin.qq.com/s/udih0024GAds0Lrf3SkS4g)
 - [Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering](https://www.nejm.org/doi/10.1056/NEJMc2007800)
+- [钟南山专访 | 对近600项临床试验不要完全贬读！](https://mp.weixin.qq.com/s/9rvR4htMrpXVFQO0rKoR9A)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1881,6 +1889,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [哈佛学者Science刊文：社交疏离措施可能要保持到2022年](https://mp.weixin.qq.com/s/KJL3eelEGrqDuOmRqMEGJQ)
 - [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
 - [最新研究：新冠肺炎患者或在有症状两三天前就排毒](http://news.sciencenet.cn/htmlnews/2020/4/438476.shtm)
+- [Estimating case ascertainment rates for COVID-19 in Australia](https://github.com/goldingn/australia_covid_ascertainment)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2144,6 +2153,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [《柳叶刀》社论 | 姑息治疗与COVID-19大流行](https://mp.weixin.qq.com/s/QKTcn-eyuq_8Yar4tnkUQg)
 - [Palliative care and the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30822-9/fulltext)
 - [Enhanced secondary pollution offset reduction of primary emissions during COVID-19 lockdown in China](https://eartharxiv.org/hvuzy/)
+- [盖茨基金会再度提高赠款总额，呼吁全球合作保护民众免受疫情侵害](https://mp.weixin.qq.com/s/vaxfuHqWz0caoYY227-25w)
+- [盖茨基金会CEO：新冠疫情正在考验我们二十年来的工作](https://mp.weixin.qq.com/s/4RlFVXdoP2r4oCiYt_LrxA)
+- [李德仁院士：基于时空位置大数据的公共疫情防控服务让城市更智慧](https://mp.weixin.qq.com/s/J_mRElg7UrusJ4MBKyPReg)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2371,6 +2383,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [从"暂停"到"重启"，遥感卫星见证武汉独家记"疫"](https://mp.weixin.qq.com/s/kp-RRhoPBxvo7Cee0T44Aw)
 - [反思这场历史性大考，谋划疫后世界新格局](https://mp.weixin.qq.com/s/XqTfI157TWkvHRjo2empEA)
 - [如何转“危”为“机”？新冠疫情考验全球治理](https://mp.weixin.qq.com/s/DS6LgLrx17hJWvqEXhBiwA)
+- [荷兰哪个区域的经济受新冠疫情影响最大？](https://mp.weixin.qq.com/s/asORP03UxyT4ZL1saUHyLw)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2484,6 +2497,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Extract COVID data from www.humanitarianresponse.info pdf](https://github.com/ColinFay/covidbf)
 - [Data for the 2019-nCoV outbreak](https://github.com/qingyuanzhao/2019-nCov-Data)
 - [Johns Hopkins data with ISO-3166 3 letter Country Code](https://github.com/AnthonyEbert/COVID-19_ISO-3166)
+- [covid19-intervention-data](https://github.com/Keystone-Strategy/covid19-intervention-data)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -2620,6 +2634,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [COVID-19The Front Line: Visualizing the Occupations with the Highest COVID-19 Risk](https://www.visualcapitalist.com/the-front-line-visualizing-the-occupations-with-the-highest-covid-19-risk/)
 - [See how your community is moving around differently due to COVID-19](https://www.google.com/covid19/mobility/)
 - [Apple: Mobility Trends Reports](https://www.apple.com/covid19/mobility)
+- [图说每日疫情（4月15日）：全球确诊病例超过200万例！](https://mp.weixin.qq.com/s/Spk2XIArBkFN8RTYucyMDg)
+- [Flexdashboard for covid19 cases](https://github.com/CBDRH/ozcoviz)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2702,6 +2718,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [What is Big Tech Contributing to Help Fight COVID-19?](https://www.visualcapitalist.com/big-tech-covid-19/)
 - [疫情防控信息化案例 | 莫干山高新区新冠防疫监测一张图](https://mp.weixin.qq.com/s/me4AT5xGYzN5k-bRwcR4Pg)
 - [Covid-19 疫情信息导航网站](https://github.com/wuhan2020/COVID-19-Nav)
+- [疫情防控信息化案例 | 复工复产信息综合管控系统](https://mp.weixin.qq.com/s/AwpDNh29-wA_XPlLdquhWA)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
