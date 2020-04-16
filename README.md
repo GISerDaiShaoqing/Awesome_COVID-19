@@ -89,6 +89,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Practical tools and code for analysts working to support health and care during the COVID-19 pandemic](https://github.com/HFAnalyticsLab/COVID19_Resources)
 - [Community-driven COVID-19 analytics in R](https://github.com/reconhub/covid19hub)
 - [知识疫图-全球新冠疫情智能驾驶舱](https://covid-dashboard.aminer.cn/)
+- [Dispatches from the Field: Scientists, experts and policy makers addressing the Covid-19 crisis around the world](https://sustainabledevelopment.un.org/blog/covid19)
 
 ## WHO, CDC and other correlated department
 - [WHO Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
@@ -314,6 +315,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [瑞德西韦同情用药结果发布，重症患者死亡率13%；打字多了会“读不好书” 等 | 领研网24小时热门论文](https://mp.weixin.qq.com/s/v9cZ4Vcd98oSIjQUletKRg)
 - [“COVID-19”科研动态监测每日快报（4月15日）【中国科讯】](https://mp.weixin.qq.com/s/XWF1IByemU5hG9W_NGpvvw)
 - [社交隔离或须持续到2022年，2024年疫情还可能再次暴发｜科研圈日报](https://mp.weixin.qq.com/s/LySvM1y5ekbGlJlCJqLt8w)
+- [【视频】新冠肺炎 儿童防护篇（预防接种）](https://mp.weixin.qq.com/s/sl4pWi40mzt1Yp1TNU6h_w)
+- [“待在附近或被检查”：Covid-19锁定退出策略 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/EfT4FfmEqD7hjMA2U84ZLw)
+- [哈佛停止招聘，MIT校长自愿减薪，澳洲高校大裁员：全球学术就业进入“黑暗时期”](https://mp.weixin.qq.com/s/3XvsaHfvZtzqi1Rl_4vPAQ)
 
 ## The News
 - [北京部署“快速AI体温检测仪”应对返工潮；李飞飞当选美国国家工程院院士；Facebook开源最大规模并行语料库 | AI一周资讯](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500237&idx=1&sn=7a665273b53d328d157c3370783839d7&chksm=fbea7802cc9df114202315bf20d018fa367877f8280656f2d6f992c2d74fcf8d74503d8c30cc&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522406951&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1184,6 +1188,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [广州：外国人不配合隔离治疗将强制执行，情节严重者驱逐出境](https://mp.weixin.qq.com/s/zvBO3WG9mf0lk4_q3A8tFw)
 - [新冠病毒蔓延有多迅猛？1分钟扩散整个超市通道](https://mp.weixin.qq.com/s/25gvJ8I5Fps_XiEAmEfZ7Q)
 - [中国疾控中心：影剧院、游戏厅等娱乐场所暂不开业 大型展览展会暂不开展](https://mp.weixin.qq.com/s/5CcrGTjxvb22EsT2497qog)
+- [安倍宣布日本进入紧急状态](https://mp.weixin.qq.com/s/7v2K6oaMIsKhdpGcYUvhDw)
+- [网友建议武汉师生开学先做核酸检测，官方答复](https://mp.weixin.qq.com/s/9RrxQITB4-RdS1t63NKyYw)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1712,6 +1718,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Cell重磅 | 脑洞大开，首次提出CRISPR技术用来抗新冠病毒：6个靶点设计，可以靶向绝大部分冠状病毒](https://mp.weixin.qq.com/s/Wi7DgMLDl8cmDU21f4hd9w)
 - [Development of CRISPR as an antiviral strategy to combat SARSCoV-2 and influenza](http://eproxy2.lib.tsinghua.edu.cn/rwt/25/https/P75YPLUDMWXGZLUDN7XUVNBVGD/pb-assets/products/coronavirus/CELL_CELL-D-20-00736.pdf)
 - [病毒溯源没那么简单！历史上很多疾病来源至今是谜](https://mp.weixin.qq.com/s/eV9nkaKh__zXc7n-l4rv_g)
+- [实锤！视频显示讲话产生的液滴在密闭空间悬浮数秒](https://mp.weixin.qq.com/s/udih0024GAds0Lrf3SkS4g)
+- [Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering](https://www.nejm.org/doi/10.1056/NEJMc2007800)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1870,6 +1878,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Temporal dynamics in viral shedding and transmissibility of COVID-19](https://www.nature.com/articles/s41591-020-0869-5)
 - [《柳叶刀》新论文：高楼层住户更易感染新冠病毒？下水道和排气扇都是诱因](https://mp.weixin.qq.com/s/Gy5elwE9S2rcUCqDAdCIGw)
 - [COVID-19: mitigating transmission via wastewater plumbing systems](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30112-1/fulltext)
+- [哈佛学者Science刊文：社交疏离措施可能要保持到2022年](https://mp.weixin.qq.com/s/KJL3eelEGrqDuOmRqMEGJQ)
+- [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
+- [最新研究：新冠肺炎患者或在有症状两三天前就排毒](http://news.sciencenet.cn/htmlnews/2020/4/438476.shtm)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2128,6 +2139,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Geohealth: Science’s First Responders](https://eos.org/opinions/geohealth-sciences-first-responders)
 - [联合国网站登载郭华东院士“大数据支撑全球疫情应对”文章](https://mp.weixin.qq.com/s/jq63V2AYt1cygy1AeGvwTA)
 - [Blog: Big Data Platforms for a Global Pandemic](https://sustainabledevelopment.un.org/?page=view&nr=1656&type=230&menu=2059)
+- [【大数据】揭示新冠肺炎深度分析的重要发现](https://yqh.aliyun.com/detail/8716?utm_content=g_1000112693)
+- [Hi Sigma, do I have the Coronavirus?: Call for a New Artificial Intelligence Approach to Support Health Care Professionals Dealing With The COVID-19 Pandemic](https://arxiv.org/abs/2004.06510)
+- [《柳叶刀》社论 | 姑息治疗与COVID-19大流行](https://mp.weixin.qq.com/s/QKTcn-eyuq_8Yar4tnkUQg)
+- [Palliative care and the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30822-9/fulltext)
+- [Enhanced secondary pollution offset reduction of primary emissions during COVID-19 lockdown in China](https://eartharxiv.org/hvuzy/)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2601,6 +2617,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [How the Virus Transformed the Way Americans Spend Their Money](https://www.nytimes.com/interactive/2020/04/11/business/economy/coronavirus-us-economy-spending.html)
 - [【图说】疫情改变加州电力负荷“鸭子曲线”：尾巴模糊、脖子变短](https://mp.weixin.qq.com/s/1yThB8Zah2pRYp3WCUBKqg)
 - [How coronavirus is changing electricity usage, in 3 charts](https://grist.org/energy/how-coronavirus-is-changing-electricity-usage-in-3-charts/)
+- [COVID-19The Front Line: Visualizing the Occupations with the Highest COVID-19 Risk](https://www.visualcapitalist.com/the-front-line-visualizing-the-occupations-with-the-highest-covid-19-risk/)
+- [See how your community is moving around differently due to COVID-19](https://www.google.com/covid19/mobility/)
+- [Apple: Mobility Trends Reports](https://www.apple.com/covid19/mobility)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2682,6 +2701,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Application mobile qui doit permettre à une personne d’être informée du risque qu’elle a encouru en étant au contact de personnes diagnostiquées porteuses du coronavirus 19](https://github.com/betagouv/StopCovid)
 - [What is Big Tech Contributing to Help Fight COVID-19?](https://www.visualcapitalist.com/big-tech-covid-19/)
 - [疫情防控信息化案例 | 莫干山高新区新冠防疫监测一张图](https://mp.weixin.qq.com/s/me4AT5xGYzN5k-bRwcR4Pg)
+- [Covid-19 疫情信息导航网站](https://github.com/wuhan2020/COVID-19-Nav)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
@@ -2739,6 +2759,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Frontiers专刊征稿 | 如何治疗感染新冠肺炎的癌症患者？](https://mp.weixin.qq.com/s/31QPBOKWej6vZFUcfH4v_w)
 - [联合征稿 | 民族主义在疫情期间及之后对世界政治的影响](https://mp.weixin.qq.com/s/nJRKMJGOycIh7LDH9Ft7Rg)
 - [论文征集 | 爱思唯尔Big Data Research期刊专辑：大数据技术在流行病领域的应用](https://mp.weixin.qq.com/s/2BYrzTUtGc-b5yKu2jP37A)
+- [征稿启示 | 从星球健康角度看COVID-19](https://mp.weixin.qq.com/s/wFWIMH_gLvpOF2bcjRzzvQ)
 
 # Competitions
 - [快来组队参加数据可视化竞赛](https://mp.weixin.qq.com/s?__biz=MzUzMzMwNjgzNA==&mid=2247484181&idx=1&sn=db4a9f57c0f6d9efa3e64d34a52b9a9e&chksm=faa74fa8cdd0c6bea80471ec45a24b0d62ed18c2d515722c70a99405fc4daf99ea90c08ee51e&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520559308&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2838,6 +2859,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新冠生存指南｜《科学》新冠专题网络研讨会](https://mp.weixin.qq.com/s/S2scpDyxBrOV9QGm4mhdRQ)
 - [全程视频 | 驻欧盟使团与驻荷兰、比利时、卢森堡使馆共邀张文宏教授答“疫”解惑](https://mp.weixin.qq.com/s/z3HMtzSySUun7XsiDPe-UQ)
 - [周六直播预告 | 疫情挑战下的大数据与人工智能研究【中国科讯】](https://mp.weixin.qq.com/s/mCO-J60PYm5G-_8zvu8S6w)
+- [听恒源祥、洛可可、木屋烧烤等同学聊聊后疫情时代的企业增长力量重构|新商业学堂](https://mp.weixin.qq.com/s/S4rywWDQb5MW2h4Ur5-Izw)
+- [AI for Medicine 专项课程](https://www.coursera.org/specializations/ai-for-medicine?aid=true#about)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
