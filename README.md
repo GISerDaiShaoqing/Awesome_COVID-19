@@ -1890,6 +1890,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
 - [最新研究：新冠肺炎患者或在有症状两三天前就排毒](http://news.sciencenet.cn/htmlnews/2020/4/438476.shtm)
 - [Estimating case ascertainment rates for COVID-19 in Australia](https://github.com/goldingn/australia_covid_ascertainment)
+- [Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys](https://github.com/LarremoreLab/covid_serological_sampling)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
