@@ -318,6 +318,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [【视频】新冠肺炎 儿童防护篇（预防接种）](https://mp.weixin.qq.com/s/sl4pWi40mzt1Yp1TNU6h_w)
 - [“待在附近或被检查”：Covid-19锁定退出策略 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/EfT4FfmEqD7hjMA2U84ZLw)
 - [哈佛停止招聘，MIT校长自愿减薪，澳洲高校大裁员：全球学术就业进入“黑暗时期”](https://mp.weixin.qq.com/s/3XvsaHfvZtzqi1Rl_4vPAQ)
+- [中国科大“托珠单抗+常规治疗”进入新冠肺炎第七版诊疗方案丨转化亮点](https://mp.weixin.qq.com/s/4oPbbZyI4qWaHCI8pqoyPg)
+- [不仅是打喷嚏，正常呼吸也可传播新冠病毒；​新冠病毒能在外科口罩上停留7天？| 领研网24小时热门论文](https://mp.weixin.qq.com/s/JBKx16FB8S2jOK2sprPCng)
+- [超大城市应急物资保障亟待加强](https://mp.weixin.qq.com/s/OIWfWpZ47pHJN0FCk5fQAg)
+- [疫情剥夺科学家“一生一次”的机会](https://mp.weixin.qq.com/s/DaNU0PRjb23C91GAU7dRXw)
+- [武汉市新冠死亡病例核增1290例，总数订正为3869例 | 科研圈日报](https://mp.weixin.qq.com/s/-PUPrIXD-n6x9QI3yk3Dww)
+- [深化抗击疫情国际合作 共筑人类卫生健康共同体](http://mp.weixin.qq.com/s?__biz=MzA3MzU2MzIwMg==&mid=2650691691&idx=4&sn=bb2cd9ce39ce641285530654eb28b637&chksm=8707d546b0705c50b52e4356ca3c8dc54db65b5ea87b278f015645890199ada4b5b70249b426&mpshare=1&scene=1&srcid=&sharer_sharetime=1587105123263&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [“COVID-19”科研动态监测每日快报（4月16日）【中国科讯】](https://mp.weixin.qq.com/s/Y4_axX-qexE_Op6lEvZ7Pg)
 
 ## The News
 - [北京部署“快速AI体温检测仪”应对返工潮；李飞飞当选美国国家工程院院士；Facebook开源最大规模并行语料库 | AI一周资讯](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500237&idx=1&sn=7a665273b53d328d157c3370783839d7&chksm=fbea7802cc9df114202315bf20d018fa367877f8280656f2d6f992c2d74fcf8d74503d8c30cc&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522406951&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1197,6 +1204,19 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新增确诊1061例｜重症患者再次下降，申根地区入境令延长至5月15日｜WHO：目前仍处于大流行的早期阶段！](https://mp.weixin.qq.com/s/2YS2J0DP5wpdG9F2KO_5rA)
 - [“链式”传播！新增11名无症状感染者中，6名为护士](https://mp.weixin.qq.com/s/F2EukN-dNKW7ocsZFXXLGA)
 - [习近平同俄罗斯总统普京通电话](https://mp.weixin.qq.com/s/S1bJW1yQT87kNU06-xoyew)
+- [最后通牒！巴西总统被要求限期交出新冠检测结果](http://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2651626344&idx=4&sn=70b0494a43b255a58d0865e1593e3bd0&chksm=bd6106d48a168fc2531e30b164ff1beb91d0fdc3748a71104f2553a98bdb6d9f92d5472d5e7e&mpshare=1&scene=1&srcid=&sharer_sharetime=1587105370171&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
+- [黑龙江7天23人确诊，问题出在哪？](https://mp.weixin.qq.com/s/His7_9sJ2L9aDStnUI1WCQ)
+- [独家 | 三百多名中国雇员被困在马尔代夫，“最基础的药都没有”](https://mp.weixin.qq.com/s/FjhI-1YS9cx0ckQJaa3a6Q)
+- [日本全国进入紧急状态，英国议会将创下700多年首次……](https://mp.weixin.qq.com/s/yO4_GlN5F26aqTg04uTqbA)
+- [快讯！4月16日厦门新增境外输入确诊病例1例，来自美国](https://mp.weixin.qq.com/s/FdNt3mu0ujlQwnwOEkX5MA)
+- [国家卫健委：新增确诊病例26例，新增无症状感染者66例](https://mp.weixin.qq.com/s/I52ecm2-J2VHooyfIinZ0w)
+- [刚刚！厦门通报新增境外输入确诊病例详情！](https://mp.weixin.qq.com/s/T84BELMP7HJtal-WvlaedQ)
+- [新增无症状感染者，66例](https://mp.weixin.qq.com/s/BCvB3oyBRy3zvTl-RFOp5w)
+- [马克龙默克尔表态：支持世卫组织](https://mp.weixin.qq.com/s/yt2x8JWL_ulPs8mj-4TSqg)
+- [张文宏最新提醒：上班开会和关系最差的人坐一起！](https://mp.weixin.qq.com/s/oUgrrQnE2uL95vav_iZaWQ)
+- [关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报](https://mp.weixin.qq.com/s/y5bVu1RgIBQlnAio5NGZqw)
+- [武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况答记者问](https://mp.weixin.qq.com/s/RLeW0FuBrKmBYmmglZaIFw)
+- [关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报](https://mp.weixin.qq.com/s/MPGt5bK9gYgu7yYP1vReFA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1504,6 +1524,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新冠疫苗全球研发现状：78个已确认，5个进入临床](https://mp.weixin.qq.com/s/TlnOqTmNjcOrzx4QHUGmsA)
 - [The COVID-19 vaccine development landscape](https://www.nature.com/articles/d41573-020-00073-5)
 - [高血糖或可解释为什么某些流感、新冠患者会出现严重症状｜Science Advances](https://mp.weixin.qq.com/s/0982O6oHUJeyP8ilSR5cNA)
+- [O-GlcNAc transferase promotes influenza A virus–induced cytokine storm by targeting interferon regulatory factor–5](https://advances.sciencemag.org/content/6/16/eaaz7086)
+- [JAMA子刊 | 华中科技大学胡波等团队系统报道新冠肺炎患者的神经学临床表现](https://mp.weixin.qq.com/s/T6Ja6Iz24Is0k80tskRVcA)
+- [Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China](https://jamanetwork.com/journals/jamaneurology/fullarticle/2764549)
+- [COVID-19如何致人死亡？新冠肺炎的治疗难题](https://mp.weixin.qq.com/s/A9sPm163TFND2R_2CcGuuA)
+- [How does COVID-19 kill? Uncertainty is hampering doctors’ ability to choose treatments](https://www.nature.com/articles/d41586-020-01056-7)
+- [对新冠并发症的抗生素治疗可导致耐药性细菌的激增｜《科学》新闻](https://mp.weixin.qq.com/s/PSjlH08IkOALrb4U1NWUmQ)
+- [Antibiotic treatment for COVID-19 complications could fuel resistant bacteria](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -1728,6 +1755,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [实锤！视频显示讲话产生的液滴在密闭空间悬浮数秒](https://mp.weixin.qq.com/s/udih0024GAds0Lrf3SkS4g)
 - [Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering](https://www.nejm.org/doi/10.1056/NEJMc2007800)
 - [钟南山专访 | 对近600项临床试验不要完全贬读！](https://mp.weixin.qq.com/s/9rvR4htMrpXVFQO0rKoR9A)
+- [基于CRISPR的SARS-CoV-2快速诊断技术 | 《自然-生物技术》论文](https://mp.weixin.qq.com/s/8SN0nGh5WYY6iaeHMPP6Sw)
+- [CRISPR–Cas12-based detection of SARS-CoV-2](https://www.nature.com/articles/s41587-020-0513-4)
 
 # Epidemiology correlated Resources
 ## Modeling spearding and epidemiological analysis
@@ -1891,6 +1920,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [最新研究：新冠肺炎患者或在有症状两三天前就排毒](http://news.sciencenet.cn/htmlnews/2020/4/438476.shtm)
 - [Estimating case ascertainment rates for COVID-19 in Australia](https://github.com/goldingn/australia_covid_ascertainment)
 - [Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys](https://github.com/LarremoreLab/covid_serological_sampling)
+- [Global COVID-19 Epidemic Evaluation and Prediction](https://github.com/bigscity/nCov-predict)
 
 ## Risk assessment
 - [Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China](https://www.worldpop.org/events/china)
@@ -2157,6 +2187,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [盖茨基金会再度提高赠款总额，呼吁全球合作保护民众免受疫情侵害](https://mp.weixin.qq.com/s/vaxfuHqWz0caoYY227-25w)
 - [盖茨基金会CEO：新冠疫情正在考验我们二十年来的工作](https://mp.weixin.qq.com/s/4RlFVXdoP2r4oCiYt_LrxA)
 - [李德仁院士：基于时空位置大数据的公共疫情防控服务让城市更智慧](https://mp.weixin.qq.com/s/J_mRElg7UrusJ4MBKyPReg)
+- [【预测】疫情救地球？碳排放今年下降5.5%，但气候目标要求每年减排7.6%！](https://mp.weixin.qq.com/s/o9kTa1zR_pNRGOTeBbrzbg)
+- [Analysis: Coronavirus set to cause largest ever annual fall in CO2 emissions](https://www.carbonbrief.org/analysis-coronavirus-set-to-cause-largest-ever-annual-fall-in-co2-emissions)
+- [柳叶刀-艾滋病 | 在COVID-19大流行期间维持HIV照护](https://mp.weixin.qq.com/s/oadEb8p4dtjVuFc30GV5KA)
+- [Maintaining HIV care during the COVID-19 pandemic](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30105-3/fulltext)
+- [Are we ready for a new era of high-impact and high-frequency epidemics?](https://www.nature.com/articles/d41586-020-01079-0)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2385,6 +2420,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [反思这场历史性大考，谋划疫后世界新格局](https://mp.weixin.qq.com/s/XqTfI157TWkvHRjo2empEA)
 - [如何转“危”为“机”？新冠疫情考验全球治理](https://mp.weixin.qq.com/s/DS6LgLrx17hJWvqEXhBiwA)
 - [荷兰哪个区域的经济受新冠疫情影响最大？](https://mp.weixin.qq.com/s/asORP03UxyT4ZL1saUHyLw)
+- [国家统计局：今年一季度国内生产总值同比下降6.8%](https://mp.weixin.qq.com/s/zyODsEr6znRIyyOmr5rn1g)
+- [车水马龙，人间烟火 全国近7成城市拥堵恢复至去年同期90%](https://mp.weixin.qq.com/s/l6vRaNgIllG2M6jvxd8ffA)
+- [一季度全国GDP，同比下降6.8%](https://mp.weixin.qq.com/s/CzqBbbKuzSEkwkG_9rxZ0g)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2499,6 +2537,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Data for the 2019-nCoV outbreak](https://github.com/qingyuanzhao/2019-nCov-Data)
 - [Johns Hopkins data with ISO-3166 3 letter Country Code](https://github.com/AnthonyEbert/COVID-19_ISO-3166)
 - [covid19-intervention-data](https://github.com/Keystone-Strategy/covid19-intervention-data)
+- [【数据】疫情将导致美国清洁能源领域失去15%的就业岗位](https://mp.weixin.qq.com/s/EMOtfENLwWexscQXpkM08Q)
+- [Clean Energy Employment: Initial Impacts from COVID-19 Economic Crisis](https://e2.org/reports/clean-jobs-covid-economic-crisis-march-2020/)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -2758,6 +2798,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Compartmental epidemic models for forecasting and analysis of infectious disease pandemics](https://github.com/bbolker/McMasterPandemic)
 - [An implementation of the University of Pennsylvania’s COVID-19 Hospital Impact Model for Epidemics (CHIME) for use in any license of ArcGIS Pro 2.3 or higher](https://disasterresponse.maps.arcgis.com/home/item.html?id=37ad6eb0d1034cd58844314a9b305de2)
 - [Bayesian estimation of Rt (C code)](https://github.com/majelli/Rt)
+- [An implementation of Metapopulation SIR model for forecasting epidemic transmission](https://github.com/bigscity/metapopulation-SIR)
 
 # Organizations
 - [nCoV疫情地图项目组介绍](https://docs.qq.com/doc/DVW5oY0RHU0llVVRl)
@@ -2778,6 +2819,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [联合征稿 | 民族主义在疫情期间及之后对世界政治的影响](https://mp.weixin.qq.com/s/nJRKMJGOycIh7LDH9Ft7Rg)
 - [论文征集 | 爱思唯尔Big Data Research期刊专辑：大数据技术在流行病领域的应用](https://mp.weixin.qq.com/s/2BYrzTUtGc-b5yKu2jP37A)
 - [征稿启示 | 从星球健康角度看COVID-19](https://mp.weixin.qq.com/s/wFWIMH_gLvpOF2bcjRzzvQ)
+- [RCR特刊征稿：COVID-19与重大传染病中的资源和废物管理](https://mp.weixin.qq.com/s/z0mvSTfAtHIgKLaecrWFZg)
 
 # Competitions
 - [快来组队参加数据可视化竞赛](https://mp.weixin.qq.com/s?__biz=MzUzMzMwNjgzNA==&mid=2247484181&idx=1&sn=db4a9f57c0f6d9efa3e64d34a52b9a9e&chksm=faa74fa8cdd0c6bea80471ec45a24b0d62ed18c2d515722c70a99405fc4daf99ea90c08ee51e&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520559308&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2893,6 +2935,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [新闻快讯 | “请大家远程办公！”](https://mp.weixin.qq.com/s?__biz=MzU5Njk2NjI5OQ==&mid=2247483747&idx=1&sn=4bd52d7e47a3a4bc5008c6f2e12989b1&chksm=fe5bef97c92c6681b886ea6fb0d9d2e768f1a2a1dfcc37481df915737c399242cb803a2e9991&mpshare=1&scene=1&srcid=&sharer_sharetime=1584905566510&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [‘My main advice: work from home’](https://www.utoday.nl/news/68032/my-main-advice-work-from-home)
 - [屯特大学空间流行病学专家贾鹏教授就荷兰防疫措施在校园媒体发声](https://mp.weixin.qq.com/s/GqcQgxAiAATI2SlzV7uFgg)
+- [新闻快讯 | “走在疫情的前面”](https://mp.weixin.qq.com/s/9HTDYsIyRFEqcdl6BPzGkw)
 
 # Sustainable cities & mobility
 - [抗击疫情特刊① ︱武汉新型冠状病毒肺炎通过航空国际传播的风险评估](https://mp.weixin.qq.com/s/JkBxnJhqhihGWxHzwP9Igg)
@@ -2922,3 +2965,4 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [印度占地运动︱抗疫封城进入孟买贫民窟：达拉维的希望与困境](https://mp.weixin.qq.com/s/vFJY8Pfauu1D1PtxtRurjw)
 - [天空之眼 | 全球商业卫星公司利用数据揭示COVID-19的影响](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650128483&idx=1&sn=d06bfe44dd80f48298c82dadfbe0b317&chksm=8742b436b0353d2045a8a2be97218f65696c7fefae0c08a47b82e61f22997ae42c07858dca4d&mpshare=1&scene=1&srcid=&sharer_sharetime=1586691917967&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [只有一个纽约 | 纽约前市长撰文: 我曾帮助纽约在911之后复兴，而此次新冠疫情之后纽约复兴的秘密就在…](https://mp.weixin.qq.com/s/z8_-iKKrQs3NBDcmAgVZcw)
+- [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
