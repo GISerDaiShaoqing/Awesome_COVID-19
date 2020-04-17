@@ -325,6 +325,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [武汉市新冠死亡病例核增1290例，总数订正为3869例 | 科研圈日报](https://mp.weixin.qq.com/s/-PUPrIXD-n6x9QI3yk3Dww)
 - [深化抗击疫情国际合作 共筑人类卫生健康共同体](http://mp.weixin.qq.com/s?__biz=MzA3MzU2MzIwMg==&mid=2650691691&idx=4&sn=bb2cd9ce39ce641285530654eb28b637&chksm=8707d546b0705c50b52e4356ca3c8dc54db65b5ea87b278f015645890199ada4b5b70249b426&mpshare=1&scene=1&srcid=&sharer_sharetime=1587105123263&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [“COVID-19”科研动态监测每日快报（4月16日）【中国科讯】](https://mp.weixin.qq.com/s/Y4_axX-qexE_Op6lEvZ7Pg)
+- [连接印度的COVID-19传播点 | 网络科学论文速递11篇](https://mp.weixin.qq.com/s/7ijAnIMgOKdEQXbH1G9uYg)
 
 ## The News
 - [北京部署“快速AI体温检测仪”应对返工潮；李飞飞当选美国国家工程院院士；Facebook开源最大规模并行语料库 | AI一周资讯](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500237&idx=1&sn=7a665273b53d328d157c3370783839d7&chksm=fbea7802cc9df114202315bf20d018fa367877f8280656f2d6f992c2d74fcf8d74503d8c30cc&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522406951&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -1222,6 +1223,24 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [青岛境外输入病例传播链：已致病友一家3人感染](https://mp.weixin.qq.com/s/qo5QnVFQ5e-Jo4SkW0UWuA)
 - [KTV擅自对外营业，负责人拘留5天](https://mp.weixin.qq.com/s/GC0IR0UsU5k_Gzob5Exq5g)
 - [投桃报李！湖北安陆向绥芬河捐抗疫物资](https://mp.weixin.qq.com/s/yE1kNf5acQraM77C_EEjMA)
+- [武汉完成1.1万居民血清学采样](https://mp.weixin.qq.com/s/_OHm_ek116SCaw3OPjVOkg)
+- [“熔喷布之乡”踩刹车，口罩泡沫是该挤一挤了](https://mp.weixin.qq.com/s/knWkDvBsAV1mCa7o7Ze7FQ)
+- [武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况答记者问](https://mp.weixin.qq.com/s/7H1qN-wpDajFdjQPxGvERg)
+- [快讯！厦门又有两例治愈境外输入新冠肺炎患者出院](https://mp.weixin.qq.com/s/2qAvEIzKuEKK-TIKwgKHpw)
+- [省委常委会召开会议 进一步部署落实常态化疫情防控举措、全面推进复工复产、加强安全生产等工作](https://mp.weixin.qq.com/s/2EX-HSxlDoxnRpO2FjTDiA)
+- [全国数据也订正了](https://mp.weixin.qq.com/s/P_5uwBqmLjdRSc6uu9B9zg)
+- [缺钱！美多所顶尖高校面临财务危机](https://mp.weixin.qq.com/s/xr9OfPE81Kv6Fe7tdAovXw)
+- [火线提拔！这些专家抗疫有功获重用](https://mp.weixin.qq.com/s/pbqJdatR_8YbKZpyBfk_Jg)
+- [确诊破三万！荷兰西欧第一头铁？几乎全世界都承认了口罩，荷兰依旧拒绝，理由是...](https://mp.weixin.qq.com/s/wLJye2WTkmAYOvvxVBZcFQ)
+- [他们开始给张文宏扣帽子了！喝牛奶崇洋媚外，喝粥才爱国？](https://mp.weixin.qq.com/s/9zlbrc1mY48cIvZmGypeYg)
+- [来了！真实数据发布，武汉确诊病例和死亡病例数订正！](https://mp.weixin.qq.com/s/SCnsPOI4qKa2H5Jzez0QZQ)
+- [白宫称G7一致同意改革世卫，德国立马打脸！](https://mp.weixin.qq.com/s/tAEttj16wd7rIhAvjU-I3g)
+- [哈尔滨副市长等18人被追责，市委市政府作深刻检讨](https://mp.weixin.qq.com/s/hPXOLyrlBTPABdfQDk5I_g)
+- [1传36，哈尔滨疫情防控和院感防控是如何失守的？](https://mp.weixin.qq.com/s/o-ROnXHPiFklpCgRehNaFQ)
+- [连花清瘟新增新冠肺炎适应症，但“没病不要吃”](https://mp.weixin.qq.com/s/WkBEyKBPwhIiy6y5EZbklQ)
+- [一家十口7人感染3人幸免，专家解惑](https://mp.weixin.qq.com/s/3u0VkuImyaCFuZFxAgnO9Q)
+- [荷兰确诊病例过3万｜瑞德西韦传利好消息｜武汉订正确诊病例和死亡数｜全球新冠临床病例排行](https://mp.weixin.qq.com/s/b4BJCXzjV8gfiaeE386eHQ)
+- [【短片】荷兰莱顿大学儿童心理学家为儿童制作了短片](https://mp.weixin.qq.com/s/qikRVmymkkYmdMvMLmDw2g)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -1536,6 +1555,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [How does COVID-19 kill? Uncertainty is hampering doctors’ ability to choose treatments](https://www.nature.com/articles/d41586-020-01056-7)
 - [对新冠并发症的抗生素治疗可导致耐药性细菌的激增｜《科学》新闻](https://mp.weixin.qq.com/s/PSjlH08IkOALrb4U1NWUmQ)
 - [Antibiotic treatment for COVID-19 complications could fuel resistant bacteria](https://www.sciencemag.org/news/2020/04/antibiotic-treatment-covid-19-complications-could-fuel-resistant-bacteria)
+- [瑞德西韦美国临床数据泄露：大部分重症患者不到一周即可出院](https://mp.weixin.qq.com/s/nIAsmCCFXXaePqFsgxQ9OA)
 
 # Virology correlated Resources
 - [最新！新型冠状病毒毒种电镜照片发布](https://mp.weixin.qq.com/s/Wn8LdAfb5oyWUIQV-XUETg)
@@ -2197,6 +2217,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [柳叶刀-艾滋病 | 在COVID-19大流行期间维持HIV照护](https://mp.weixin.qq.com/s/oadEb8p4dtjVuFc30GV5KA)
 - [Maintaining HIV care during the COVID-19 pandemic](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30105-3/fulltext)
 - [Are we ready for a new era of high-impact and high-frequency epidemics?](https://www.nature.com/articles/d41586-020-01079-0)
+- [你爸妈摘口罩了嘛？ 疫情期间的代沟和反哺现象](https://mp.weixin.qq.com/s/20YH36CU4rnqO1hue96-ZA)
+- [新冠疫情的全球抗击建议：结合中国经验，强化全球防疫 | Infectious Diseases of Poverty](https://mp.weixin.qq.com/s/rPDbMIhqVoo-kKW2qHn_JA)
+- [Fighting against the common enemy of COVID-19: a practice of building a community with a shared future for mankind](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00650-1?utm_source=wechat&utm_medium=social&utm_content=KYQ&utm_campaign=BSCN_4_CZ01_CN_org_WC_IDP_coronavirus_Apr_AH_paid_social_KYQ_1)
 
 # Economic, Urban planning and Govermance correlated resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
@@ -2429,6 +2452,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [车水马龙，人间烟火 全国近7成城市拥堵恢复至去年同期90%](https://mp.weixin.qq.com/s/l6vRaNgIllG2M6jvxd8ffA)
 - [一季度全国GDP，同比下降6.8%](https://mp.weixin.qq.com/s/CzqBbbKuzSEkwkG_9rxZ0g)
 - [疫情与城市 | 新型冠状病毒肺炎如何影响城市规划？](https://mp.weixin.qq.com/s/mj9VMP3ETW_96K8qdrisRA)
+- [疫情“冰封”影视业，院线公司究竟亏了多少](https://mp.weixin.qq.com/s/MgZqu0ee7gcIHs5JPur-sw)
 
 # Data, Visualization, Platform and Tools
 ## Data
@@ -2545,6 +2569,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [covid19-intervention-data](https://github.com/Keystone-Strategy/covid19-intervention-data)
 - [【数据】疫情将导致美国清洁能源领域失去15%的就业岗位](https://mp.weixin.qq.com/s/EMOtfENLwWexscQXpkM08Q)
 - [Clean Energy Employment: Initial Impacts from COVID-19 Economic Crisis](https://e2.org/reports/clean-jobs-covid-economic-crisis-march-2020/)
+- [This script pull the data from JHU dashboard in real-time](https://github.com/gohkokhan/covid19_JHU_dashboard)
 
 ## Visualization
 - [2019 新型冠状病毒扩散的可视化，科学研究，媒体报道，展示数据，理解事件](https://sociologist.xyz/visual-ncov?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends&scene=1&clicktime=1579926732&enterid=1579926732&from=timeline&isappinstalled=0)
@@ -2683,6 +2708,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Apple: Mobility Trends Reports](https://www.apple.com/covid19/mobility)
 - [图说每日疫情（4月15日）：全球确诊病例超过200万例！](https://mp.weixin.qq.com/s/Spk2XIArBkFN8RTYucyMDg)
 - [Flexdashboard for covid19 cases](https://github.com/CBDRH/ozcoviz)
+- [我们距离第一支新冠疫苗还有多远？](https://mp.weixin.qq.com/s/-OpuQ0fr7hDO456kRtNSig)
 
 ## Platform(Including 3S Technology)
 - [新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
@@ -2927,6 +2953,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [周六直播预告 | 疫情挑战下的大数据与人工智能研究【中国科讯】](https://mp.weixin.qq.com/s/mCO-J60PYm5G-_8zvu8S6w)
 - [听恒源祥、洛可可、木屋烧烤等同学聊聊后疫情时代的企业增长力量重构|新商业学堂](https://mp.weixin.qq.com/s/S4rywWDQb5MW2h4Ur5-Izw)
 - [AI for Medicine 专项课程](https://www.coursera.org/specializations/ai-for-medicine?aid=true#about)
+- [【会议速递】鲍曙明：新冠病毒疫情冲击对长三角地区影响分析](https://mp.weixin.qq.com/s/Te_iONo5PLNxDlPJs1ZXiQ)
 
 # Funding application
 - [通知通告 | “新型冠状病毒（2019-nCoV）溯源、致病及防治的基础研究”专项项目指南](https://mp.weixin.qq.com/s?__biz=MzI5NDU2MDc0OA==&mid=2247488184&idx=1&sn=5898772927c9b3bfed15a7627888e6dd&chksm=ec61a43bdb162d2db04d27122ef76613b43c18ec9967ce91d25a30869f789b846c466ac726bf&mpshare=1&scene=1&srcid=&sharer_sharetime=1579705790954&sharer_shareid=b6f13c633b70c430ca34191cb48fe961#rd)
