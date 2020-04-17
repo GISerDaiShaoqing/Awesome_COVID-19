@@ -2792,6 +2792,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [疫情防控信息化案例 | 莫干山高新区新冠防疫监测一张图](https://mp.weixin.qq.com/s/me4AT5xGYzN5k-bRwcR4Pg)
 - [Covid-19 疫情信息导航网站](https://github.com/wuhan2020/COVID-19-Nav)
 - [疫情防控信息化案例 | 复工复产信息综合管控系统](https://mp.weixin.qq.com/s/AwpDNh29-wA_XPlLdquhWA)
+- [疫情防控信息化案例 | 网络化疫情防控工作平台方案 —利用互联网+大数据+区块链，助力疫情精准防控](https://mp.weixin.qq.com/s/qloL0G_iUGoePQzHPxAYnA)
 
 ## Tools
 - [R package - load, visualise and analyse daily updated data on the COVID-19 outbreak in Germany](https://github.com/nevrome/covid19germany)
