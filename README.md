@@ -1219,6 +1219,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报](https://mp.weixin.qq.com/s/MPGt5bK9gYgu7yYP1vReFA)
 - [国家统计局点名直播带货](https://mp.weixin.qq.com/s/fCqijiaS1IWpBlmR7XvP5Q)
 - [欧盟委员会主席再向意大利致歉](https://mp.weixin.qq.com/s/ExQT7koyTYVpz6AqPSou7Q)
+- [青岛境外输入病例传播链：已致病友一家3人感染](https://mp.weixin.qq.com/s/qo5QnVFQ5e-Jo4SkW0UWuA)
+- [KTV擅自对外营业，负责人拘留5天](https://mp.weixin.qq.com/s/GC0IR0UsU5k_Gzob5Exq5g)
+- [投桃报李！湖北安陆向绥芬河捐抗疫物资](https://mp.weixin.qq.com/s/yE1kNf5acQraM77C_EEjMA)
 
 # Clinic Medicine correlated Resources
 ## Radiology
