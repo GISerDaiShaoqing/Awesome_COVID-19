@@ -1217,6 +1217,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报](https://mp.weixin.qq.com/s/y5bVu1RgIBQlnAio5NGZqw)
 - [武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况答记者问](https://mp.weixin.qq.com/s/RLeW0FuBrKmBYmmglZaIFw)
 - [关于武汉市新冠肺炎确诊病例数确诊病例死亡数订正情况的通报](https://mp.weixin.qq.com/s/MPGt5bK9gYgu7yYP1vReFA)
+- [国家统计局点名直播带货](https://mp.weixin.qq.com/s/fCqijiaS1IWpBlmR7XvP5Q)
+- [欧盟委员会主席再向意大利致歉](https://mp.weixin.qq.com/s/ExQT7koyTYVpz6AqPSou7Q)
 
 # Clinic Medicine correlated Resources
 ## Radiology
@@ -2423,6 +2425,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [国家统计局：今年一季度国内生产总值同比下降6.8%](https://mp.weixin.qq.com/s/zyODsEr6znRIyyOmr5rn1g)
 - [车水马龙，人间烟火 全国近7成城市拥堵恢复至去年同期90%](https://mp.weixin.qq.com/s/l6vRaNgIllG2M6jvxd8ffA)
 - [一季度全国GDP，同比下降6.8%](https://mp.weixin.qq.com/s/CzqBbbKuzSEkwkG_9rxZ0g)
+- [疫情与城市 | 新型冠状病毒肺炎如何影响城市规划？](https://mp.weixin.qq.com/s/mj9VMP3ETW_96K8qdrisRA)
 
 # Data, Visualization, Platform and Tools
 ## Data
