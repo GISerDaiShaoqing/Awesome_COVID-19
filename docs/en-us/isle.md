@@ -6,4 +6,4 @@
 - [屯特大学空间流行病学专家贾鹏教授就荷兰防疫措施在校园媒体发声](https://mp.weixin.qq.com/s/GqcQgxAiAATI2SlzV7uFgg)
 - [新闻快讯 | “走在疫情的前面”](https://mp.weixin.qq.com/s/9HTDYsIyRFEqcdl6BPzGkw)
 
-![](./img/ISLEwechat.jpg)
+![](/img/ISLEwechat.jpg)

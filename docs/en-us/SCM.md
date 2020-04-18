@@ -28,4 +28,4 @@
 - [只有一个纽约 | 纽约前市长撰文: 我曾帮助纽约在911之后复兴，而此次新冠疫情之后纽约复兴的秘密就在…](https://mp.weixin.qq.com/s/z8_-iKKrQs3NBDcmAgVZcw)
 - [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
 
-![](./img/SCM.jpg)
+![](/img/SCM.jpg)

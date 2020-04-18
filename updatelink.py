@@ -30,7 +30,7 @@ for i in range(0, len(lists), 1):
             addn = len(lecenline) - len(leccnline)
             for k in range(0, len(lecenline[-addn:]), 1):
                 addlink = addlink + lecenline[-addn:][k] + "\n"
-            with open('zh/lec.md','a+') as f:
+            with open(fncn,'a+') as f:
                 f.write(addlink)
     elif "img" in fn:
         print("it's picture")         
@@ -55,5 +55,5 @@ for i in range(0, len(lists), 1):
                 addn = len(lecenline) - len(leccnline)
                 for k in range(0, len(lecenline[-addn:]), 1):
                     addlink = addlink + lecenline[-addn:][k] + "\n"
-                with open('zh/lec.md','a+') as f:
+                with open(fncn,'a+') as f:
                     f.write(addlink)
