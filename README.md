@@ -332,6 +332,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [回国人员转运车辆 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/p4JHa9Mja6JMxbCcBrGJGw)
 - [电梯按键滋生新冠病毒？激光技术加持，金属表面可瞬间杀菌](https://mp.weixin.qq.com/s/lzNuKDMu7-u_aSIlt-VyIg)
 - [Now metal surfaces can be instant bacteria killers, thanks to new laser treatment technique](https://www.purdue.edu/newsroom/releases/2020/Q2/now-metal-surfaces-can-be-instant-bacteria-killers,-thanks-to-new-laser-treatment-technique.html)
+- [“首篇新冠被撤论文”重新上线](http://news.sciencenet.cn/htmlnews/2020/4/438566.shtm)
 
 ## The News
 - [北京部署“快速AI体温检测仪”应对返工潮；李飞飞当选美国国家工程院院士；Facebook开源最大规模并行语料库 | AI一周资讯](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247500237&idx=1&sn=7a665273b53d328d157c3370783839d7&chksm=fbea7802cc9df114202315bf20d018fa367877f8280656f2d6f992c2d74fcf8d74503d8c30cc&mpshare=1&scene=1&srcid=&sharer_sharetime=1581522406951&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
