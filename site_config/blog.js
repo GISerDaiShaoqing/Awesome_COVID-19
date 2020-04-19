@@ -1,6 +1,6 @@
 export default {
   'en-us': {
-    barText: 'Blog',
+    barText: 'Work',
     postsTitle: 'All posts',
     list: [
       {
@@ -55,7 +55,7 @@ export default {
     ],
   },
   'zh-cn': {
-    barText: '博客',
+    barText: '研究工作',
     postsTitle: '所有文章',
     list: [
       {

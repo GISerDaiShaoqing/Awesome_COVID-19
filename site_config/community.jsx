@@ -65,7 +65,7 @@ export default {
           img: '/img/mailinglist.png',
           imgHover: '/img/mailinglist_hover.png',
           title: 'Mailing List',
-          link: ''
+          link: 'dsq1993qingge@163.com'
         },
         {
           img: '/img/alibaba.png',
@@ -77,19 +77,19 @@ export default {
           img: '/img/segmentfault.png',
           imgHover: '/img/segmentfault_hover.png',
           title: 'Segment Fault',
-          link: ''
+          link: 'https://segmentfault.com/u/pangpangdiao'
         },
         {
           img: '/img/weibo.png',
           imgHover: '/img/weibo_hover.png',
           title: 'weibo',
-          link: '',
+          link: 'https://www.weibo.com/2884386252/profile?rightmod=1&wvr=6&mod=personinfo',
         },
       ],
     },
     contributorGuide: {
       title: 'Contributor Guide',
-      desc: 'some description',
+      desc: '',
       list: [
         {
           img: '/img/mailinglist.png',
@@ -114,50 +114,50 @@ export default {
       ],
     },
     ecos: {
-      title: 'Eco System',
+      title: 'Spatial Lifecourse Epidemiology',
       list: [
         {
-          title: 'Eco1',
-          content: <span>Eco System1</span>,
+          title: 'Map of COVID-19',
+          content: <span>Map of COVID-19</span>,
           tags: [
             {
-              text: 'tag1',
+              text: 'GIS',
               link: '',
               bgColor: '#7A63FC',
             },
             {
-              text: 'tag2',
+              text: 'R',
               link: '',
               bgColor: '#00D0D9',
             },
             {
-              text: 'tag3',
+              text: 'Shiny',
               link: '',
               bgColor: '#00D0D9',
             },
           ],
         },
         {
-          title: 'Eco2',
-          content: <span>Eco System2</span>,
+          title: 'Modeling analysis of COVID-19',
+          content: <span>Modeling analysis of COVID-19</span>,
           tags: [
             {
-              text: 'tag1',
+              text: 'Epidemiology',
               link: '',
               bgColor: '#7A63FC',
             },
             {
-              text: 'tag2',
+              text: 'GIS',
               link: '',
               bgColor: '#00D0D9',
             },
             {
-              text: 'tag3',
+              text: 'Satellite and Remote Sensing',
               link: '/en-us/docs/demo1.html',
               bgColor: '#00D0D9',
             },
             {
-              text: 'tag4',
+              text: 'Stastitics',
               link: '',
               bgColor: '#00D0D9',
             },
@@ -230,7 +230,7 @@ export default {
           img: '/img/mailinglist.png',
           imgHover: '/img/mailinglist_hover.png',
           title: '邮件列表',
-          link: ''
+          link: 'dsq1993qingge@163.com'
         },
         {
           img: '/img/alibaba.png',
@@ -242,19 +242,19 @@ export default {
           img: '/img/segmentfault.png',
           imgHover: '/img/segmentfault_hover.png',
           title: 'Segment Fault',
-          link: ''
+          link: 'https://segmentfault.com/u/pangpangdiao'
         },
         {
           img: '/img/weibo.png',
           imgHover: '/img/weibo_hover.png',
           title: '微博',
-          link: '',
+          link: 'https://www.weibo.com/2884386252/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1',
         },
       ],
     },
     contributorGuide: {
       title: '贡献指南',
-      desc: '一些描述',
+      desc: '',
       list: [
         {
           img: '/img/mailinglist.png',
@@ -279,50 +279,50 @@ export default {
       ],
     },
     ecos: {
-      title: '生态系统',
+      title: '空间生命历程流行病学',
       list: [
         {
-          title: '生态系统1',
-          content: <span>生态系统1</span>,
+          title: 'COVID-19疫情地图',
+          content: <span>COVID-19疫情地图</span>,
           tags: [
             {
-              text: '标签1',
+              text: '地理信息系统',
               link: '',
               bgColor: '#7A63FC',
             },
             {
-              text: '标签2',
+              text: 'R语言',
               link: '',
               bgColor: '#00D0D9',
             },
             {
-              text: '标签3',
+              text: 'Shiny',
               link: '',
               bgColor: '#00D0D9',
             },
           ],
         },
         {
-          title: '生态系统2',
-          content: <span>生态系统2</span>,
+          title: 'COVID-19建模分析',
+          content: <span>COVID-19建模分析</span>,
           tags: [
             {
-              text: '标签1',
+              text: '流行病学',
               link: '',
               bgColor: '#7A63FC',
             },
             {
-              text: '标签2',
+              text: '地理信息系统',
               link: '',
               bgColor: '#00D0D9',
             },
             {
-              text: '标签3',
+              text: '卫星与遥感',
               link: '/zh-cn/docs/demo1.html',
               bgColor: '#00D0D9',
             },
             {
-              text: '标签4',
+              text: '统计学',
               link: '',
               bgColor: '#00D0D9',
             },

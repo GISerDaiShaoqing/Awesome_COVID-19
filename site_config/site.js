@@ -30,7 +30,7 @@ export default {
     ],
     disclaimer: {
       title: 'Disclaimer',
-      content: 'the disclaimer content',
+      content: '',
     },
     documentation: {
       title: 'Resources',
@@ -89,7 +89,7 @@ export default {
     ],
     disclaimer: {
       title: '免责声明',
-      content: '免责声明的具体内容',
+      content: '',
     },
     documentation: {
       title: '资源列表',
