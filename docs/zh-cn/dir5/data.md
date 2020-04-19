@@ -113,3 +113,4 @@
 - [【数据】疫情将导致美国清洁能源领域失去15%的就业岗位](https://mp.weixin.qq.com/s/EMOtfENLwWexscQXpkM08Q)
 - [Clean Energy Employment: Initial Impacts from COVID-19 Economic Crisis](https://e2.org/reports/clean-jobs-covid-economic-crisis-march-2020/)
 - [This script pull the data from JHU dashboard in real-time](https://github.com/gohkokhan/covid19_JHU_dashboard)
+- [A simple and fast API for tracking the coronavirus (COVID-19) outbreak in Greece](https://github.com/Covid-19-Response-Greece/covid19-greece-api)

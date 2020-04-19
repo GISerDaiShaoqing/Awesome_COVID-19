@@ -19,8 +19,8 @@ export default {
       ],
     },
     introduction: {
-      title: '开源产品的介绍',
-      desc: '开源产品的简单介绍，提供一些该产品的优点、特性描述等',
+      title: 'COVID-19疫情发展概览',
+      desc: 'COVID-19疫情时间序列分布',
       img: '/img/architecture.png',
     },
     features: {
@@ -108,8 +108,8 @@ export default {
       ],
     },
     introduction: {
-      title: 'introduction title',
-      desc: 'some introduction of your product',
+      title: 'Overview of COVID-19',
+      desc: 'Timeseries data of COVID-19',
       img: '/img/architecture.png',
     },
     features: {

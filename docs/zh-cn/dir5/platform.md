@@ -168,3 +168,5 @@
 - [疫情防控信息化案例 | 网络化疫情防控工作平台方案 —利用互联网+大数据+区块链，助力疫情精准防控](https://mp.weixin.qq.com/s/qloL0G_iUGoePQzHPxAYnA)
 - [疫情防控信息化应用案例 | 宁波市新冠肺炎疫情防控大数据平台](https://mp.weixin.qq.com/s/krsfk4fgIuGAM2R5EaM2uw)
 - [疫情上报管理系统（PHP版）](https://github.com/2020NCOV/ncov-report-manage-system-PHP)
+
+- [信息化疫情防控案例 | 青海省地理信息中心疫情防控在线监测平台](https://mp.weixin.qq.com/s/FXV9u3KmyGDNfxH0hbyJjA)

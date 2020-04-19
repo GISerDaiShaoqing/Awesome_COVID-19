@@ -29,3 +29,5 @@
 - [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
 
 ![](/img/SCM.jpg)
+
+![](/img/SCM.jpg)

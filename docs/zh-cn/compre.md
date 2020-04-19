@@ -211,3 +211,4 @@
 - [Drug Evaluation during the Covid-19 Pandemic](https://www.nejm.org/doi/10.1056/NEJMp2009457)
 - [COVID-19现阶段全景综述](https://mp.weixin.qq.com/s/Y7mb5o2tOPQPOVWVRRJGyA)
 - [SnapShot: COVID-19](https://www.cell.com/pb-assets/products/coronavirus/CELL_11362_S5.pdf)
+- [Lancet Voice 特别版 | COVID-19大流行中的老年人](https://mp.weixin.qq.com/s/sAuRzT9UptQBIXq7FmEGJw)
