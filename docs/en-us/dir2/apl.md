@@ -219,3 +219,7 @@
 - [电梯按键滋生新冠病毒？激光技术加持，金属表面可瞬间杀菌](https://mp.weixin.qq.com/s/lzNuKDMu7-u_aSIlt-VyIg)
 - [Now metal surfaces can be instant bacteria killers, thanks to new laser treatment technique](https://www.purdue.edu/newsroom/releases/2020/Q2/now-metal-surfaces-can-be-instant-bacteria-killers,-thanks-to-new-laser-treatment-technique.html)
 - [“首篇新冠被撤论文”重新上线](http://news.sciencenet.cn/htmlnews/2020/4/438566.shtm)
+- [“首篇新冠被撤论文”重新上线 涉及法匹拉韦临床试验](https://mp.weixin.qq.com/s/Wjy8WGXzG6FFp1mC386_ng)
+- [海关（边检、卫生检疫）人员 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/WsOOFJkZGECU5VIFuntj3g)
+- [“COVID-19”科研动态监测每日快报（4月18日）【中国科讯】](https://mp.weixin.qq.com/s/Vg9ZY_SMthU0RwDZIh-paw)
+- [10个小技巧，让你写论文简洁不啰嗦；新冠起源新假说指向流浪狗 等| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/cw7S2sT5-w-sidhVovb_3A)

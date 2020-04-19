@@ -12,3 +12,5 @@
 - [论文征集 | 爱思唯尔Big Data Research期刊专辑：大数据技术在流行病领域的应用](https://mp.weixin.qq.com/s/2BYrzTUtGc-b5yKu2jP37A)
 - [征稿启示 | 从星球健康角度看COVID-19](https://mp.weixin.qq.com/s/wFWIMH_gLvpOF2bcjRzzvQ)
 - [RCR特刊征稿：COVID-19与重大传染病中的资源和废物管理](https://mp.weixin.qq.com/s/z0mvSTfAtHIgKLaecrWFZg)
+- [Infectious Diseases of Poverty: Containment and case management of COVID-19 pandemic](https://idpjournal.biomedcentral.com/cfp-containment-covid-19)
+- [Infectious Diseases of Poverty: Call for Submissions to a Thematic Series, Transmission patterns and control of COVID-19 epidemic](https://idpjournal.biomedcentral.com/call-for-papers)

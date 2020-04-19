@@ -38,3 +38,4 @@
 - [An implementation of Metapopulation SIR model for forecasting epidemic transmission](https://github.com/bigscity/metapopulation-SIR)
 - [【ICMR2020】持续健康状态接口事件检索](https://mp.weixin.qq.com/s/ju0C_sZLKk7byk_DQZ1X0A)
 - [Continuous Health Interface Event Retrieval](https://arxiv.org/abs/2004.07716)
+- [R package to obtain and analyze live data from the nCOVID19 coronavirus](https://github.com/mponce0/covid19.analytics)

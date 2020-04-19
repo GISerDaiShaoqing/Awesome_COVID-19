@@ -294,3 +294,7 @@
 - [Science重磅 | 瑞德昔韦治疗新冠肺炎效果显著，猴子可以作为新冠肺炎的动物模型](https://mp.weixin.qq.com/s/ZzPu7GAC6b_ra5a6xlTFng)
 - [Comparative pathogenesis of COVID-19, MERS, and SARS in a nonhuman primate model](https://science.sciencemag.org/content/early/2020/04/16/science.abb7314)
 - [全球疫苗免疫联盟CEO：新冠疫苗难在哪儿？](https://mp.weixin.qq.com/s/YdZaZWh6ssQ-EBpYeuIznA)
+- [失而复得 | “中国首篇新冠被撤论文”重新上线，涉及法匹拉韦临床试验，结论及讨论更加委婉](https://mp.weixin.qq.com/s/ui1NoPadit5wqMgJC2i1RA)
+- [Experimental Treatment with Favipiravir for COVID-19: An Open-Label Control Study](https://www.sciencedirect.com/science/article/pii/S2095809920300631)
+- [Lancet子刊 | 广州医科大学钟南山/李时悦等首次描述新冠肺炎患者的静脉栓塞的临床表现及管理](https://mp.weixin.qq.com/s/eud3K06DKJBwDps2DRBs_w)
+- [Attention should be paid to venous thromboembolism prophylaxis in the management of COVID-19](https://www.thelancet.com/pdfs/journals/lanhae/PIIS2352-3026(20)30109-5.pdf)

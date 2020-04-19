@@ -53,7 +53,7 @@ export default {
       title: 'Work and communication',
       list: [
         {
-          text: 'Blog',
+          text: 'Work',
           link: '/en-us/blog/index.html',
         },
         {

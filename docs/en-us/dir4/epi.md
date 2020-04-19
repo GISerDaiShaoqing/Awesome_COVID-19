@@ -166,3 +166,4 @@
 - [How deep learning algorithms can be used to measure social distancing](https://thenextweb.com/syndication/2020/04/16/how-deep-learning-algorithms-can-be-used-to-measure-social-distancing/)
 - [Network Model of COVID-19 on Cruise Ships](https://github.com/EpiModel/COVID-CruiseShip)
 - [ARIMA-based forecasting of confirmed COVID/ Corona cases for various country-province combinations](https://github.com/atecon/covid_19_forecast)
+- [R package eSIR: extended state-space SIR epidemiological models](https://github.com/lilywang1988/eSIR)

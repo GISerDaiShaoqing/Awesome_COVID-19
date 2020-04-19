@@ -27,5 +27,7 @@
 - [天空之眼 | 全球商业卫星公司利用数据揭示COVID-19的影响](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650128483&idx=1&sn=d06bfe44dd80f48298c82dadfbe0b317&chksm=8742b436b0353d2045a8a2be97218f65696c7fefae0c08a47b82e61f22997ae42c07858dca4d&mpshare=1&scene=1&srcid=&sharer_sharetime=1586691917967&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [只有一个纽约 | 纽约前市长撰文: 我曾帮助纽约在911之后复兴，而此次新冠疫情之后纽约复兴的秘密就在…](https://mp.weixin.qq.com/s/z8_-iKKrQs3NBDcmAgVZcw)
 - [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
+- [抗疫与城市 | 英国就业类型与产业类型对封城效果地区性差异的影响](https://mp.weixin.qq.com/s/8zhpiC51fzwAQVxvx0DMdw)
+- [抗疫与妇女 | 对抗新冠病毒疫情的秘密武器：妇女](https://mp.weixin.qq.com/s/ZtlwE2qbLWHEmBKHnpBHeA)
 
 ![](/img/SCM.jpg)
