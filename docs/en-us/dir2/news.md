@@ -982,3 +982,5 @@
 - [高峰期后的荷兰，生活的新常态 | 4月19日](https://mp.weixin.qq.com/s/aD_0aN_XNs4mQI7BzbpqTw)
 - [号召家长为学校捐防疫物资，官方回应](https://mp.weixin.qq.com/s/Hb6eiBv6PZNhGYgZSLM1TQ)
 - [武汉今起发放5亿元消费券](https://mp.weixin.qq.com/s/owzB0Mw8FWOFRpf6JRdTZA)
+- [荷兰新冠时间线（五）—— 8万欧一年的“生命年”是什么梗？除了钱，我们是否能谈谈别的？](https://mp.weixin.qq.com/s/sMbhbqTnw5nFKmbe6Zt5Tg)
+- [荷兰今日上报死亡降回100人以下，男性患者占比连续17天下降｜全球新冠死亡病例超6成来自欧洲](https://mp.weixin.qq.com/s/uEQEWsnSSKnOEFdWB23x8Q)
