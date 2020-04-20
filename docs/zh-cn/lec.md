@@ -178,3 +178,5 @@
 
 
 - [倒计时3天！姜世勃：广谱抗冠疫苗和药物是战胜新冠疫情的终极武器](https://mp.weixin.qq.com/s/c6TihYNtq9vhpBSYwGJttg)
+
+- [【课程提醒】周四下午 2 点 Tableau 网络入门课程 - 医疗行业可视化分析](https://mp.weixin.qq.com/s/qijWyqdCGSSQEEOz2WwHqg)
