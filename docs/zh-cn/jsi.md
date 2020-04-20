@@ -32,3 +32,4 @@
 - [Infectious Diseases of Poverty: Containment and case management of COVID-19 pandemic](https://idpjournal.biomedcentral.com/cfp-containment-covid-19)
 - [Infectious Diseases of Poverty: Call for Submissions to a Thematic Series, Transmission patterns and control of COVID-19 epidemic](https://idpjournal.biomedcentral.com/call-for-papers)
 
+

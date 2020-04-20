@@ -468,3 +468,7 @@
 - [【存照】严重疫情之下信心不减，印度光伏报价比去年还低4.7%！](https://mp.weixin.qq.com/s/9J-OZDBPR7tguyEQrP6j6A)
 - [India’s Mega PV Auction Amid Lockdown Shows Investor Faith](https://about.bnef.com/blog/indias-mega-pv-auction-amid-lockdown-shows-investor-faith/)
 - [【学术笔谈】邓兴栋| 从“全民抗疫”看城市精细化治理| 2020年第2期](https://mp.weixin.qq.com/s/dKrqxpu6Ew0M-hCIeQ5rpw)
+
+- [【学术笔谈】邓兴栋| 从“全民抗疫”看城市精细化治理| 2020年第2期](https://mp.weixin.qq.com/s/dKrqxpu6Ew0M-hCIeQ5rpw)
+- [【学术笔谈】熊健| 规划城市“韧性”，以包容的城市空间应对未知挑战| 2020年第2期](https://mp.weixin.qq.com/s/B_cp1yG51nACYIMIoRIJEQ)
+- [国际资讯 | [欧]瑞典移动数据追踪疫情/芬兰筹建首个地热供暖社区(2020.4)](https://mp.weixin.qq.com/s/PgiHzV37Y-M31T5jeKbR9w)

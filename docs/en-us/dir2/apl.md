@@ -233,3 +233,6 @@
 - [盖茨突然被指「新冠元凶」！这波阴谋论竟源于2015年的「神预言」](https://mp.weixin.qq.com/s/ngkgYWQPGKsnoqauBQK71w)
 - [一文读懂，新冠疫苗到底还要多久才能问世](https://mp.weixin.qq.com/s/5FANuVXZXVPV36jS04OAqw)
 - [最新研究：新冠灭活疫苗动物试验结果良好](https://mp.weixin.qq.com/s/eTjDWzufw6hrqq1TnFbBfA)
+- [灭活疫苗背后的湖北科学战疫担当](https://mp.weixin.qq.com/s/g3dtB4_fCDKajbUKf--lGw)
+- [国务院联防联控机制发布新冠肺炎药物研发和疫苗研制等科研攻关进展情况【一周科学看点2020-04-20丨中国科学院院刊】](https://mp.weixin.qq.com/s/sovy3uG9G3g7L3ZDKSh6-A)
+- [女人担心家庭，男人担心经济：对COVID-19情感反应中的性别差异 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/HgghuvraedTVsvi-hpnUBA)

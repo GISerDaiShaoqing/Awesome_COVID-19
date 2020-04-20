@@ -337,3 +337,6 @@
 
 - [R package eSIR: extended state-space SIR epidemiological models](https://github.com/lilywang1988/eSIR)
 
+
+- [特别报道：建模如何帮助应对新冠肺炎疫情？](https://mp.weixin.qq.com/s/nZ6OAXiDeP9vhBQiRhSS-g)
+- [Special report: The simulations driving the world’s response to COVID-19](https://www.nature.com/articles/d41586-020-01003-6)

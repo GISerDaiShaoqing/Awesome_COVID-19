@@ -228,3 +228,5 @@
 - [COVID-19: a new virus, but an old cytokine release syndrome](https://marlin-prod.literatumonline.com/pb-assets/products/coronavirus/immuni4349_S5.pdf)
 - [【观点】高层建筑病毒传播的风险：注意洗浴间的“反水弯”！](https://mp.weixin.qq.com/s/P-XBS-C1tU7dwGaPwVjLCw)
 - [CORONAVIRUS: PEOPLE IN TALL BUILDINGS MAY BE MORE AT RISK – HERE’S HOW TO STAY SAFE](https://www.universal-sci.com/headlines/2020/4/12/coronavirus-people-in-tall-buildings-may-be-more-at-risk-heres-how-to-stay-safe)
+- [李兰娟新发论文：找到新冠病毒19个致病性新突变！](https://mp.weixin.qq.com/s/TnMlP8BAKx4BD3gnPaxaHA)
+- [Patient-derived mutations impact pathogenicity of SARS-CoV-2](https://doi.org/10.1101/2020.04.14.20060160)

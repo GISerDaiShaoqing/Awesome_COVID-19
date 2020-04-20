@@ -599,3 +599,12 @@
 - [Lancet子刊 | 广州医科大学钟南山/李时悦等首次描述新冠肺炎患者的静脉栓塞的临床表现及管理](https://mp.weixin.qq.com/s/eud3K06DKJBwDps2DRBs_w)
 - [Attention should be paid to venous thromboembolism prophylaxis in the management of COVID-19](https://www.thelancet.com/pdfs/journals/lanhae/PIIS2352-3026(20)30109-5.pdf)
 
+
+- [Experimental Treatment with Favipiravir for COVID-19: An Open-Label Control Study](https://www.sciencedirect.com/science/article/pii/S2095809920300631)
+- [Lancet子刊 | 广州医科大学钟南山/李时悦等首次描述新冠肺炎患者的静脉栓塞的临床表现及管理](https://mp.weixin.qq.com/s/eud3K06DKJBwDps2DRBs_w)
+- [Attention should be paid to venous thromboembolism prophylaxis in the management of COVID-19](https://www.thelancet.com/pdfs/journals/lanhae/PIIS2352-3026(20)30109-5.pdf)
+- [浙大王福俤/闵军霞团队等发布全球最大新冠肺炎重症及死亡风险荟萃分析](https://mp.weixin.qq.com/s/LVXNJCTqT4KgBrO5wXJBJw)
+- [ Comorbid Chronic Diseases and Acute Organ Injuries Are Strongly Correlated with Disease Severity and Mortality among COVID-19 Patients: A Systemic Review and Meta-Analysis](https://spj.sciencemag.org/research/2020/2402961/)
+- [重大进展 | 中国多个团队同时发现新冠病毒能在产生特异性抗体的患者体内长期存在](https://mp.weixin.qq.com/s/jefAdVIbbBX8LTtE6P4M7w)
+- [Long-term Co-existence of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) with Antibody Response in Non-severe Coronavirus Disease 2019 (COVID-19) Patients](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v1)
+- [Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications](https://www.medrxiv.org/content/10.1101/2020.04.13.20040980v1)

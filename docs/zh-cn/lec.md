@@ -176,3 +176,5 @@
 - [2020世界地球日特邀报告|齐心抗疫，守护家园](https://mp.weixin.qq.com/s/mUhK9kEZLW43GxBFBz0VnA)
 
 
+
+- [倒计时3天！姜世勃：广谱抗冠疫苗和药物是战胜新冠疫情的终极武器](https://mp.weixin.qq.com/s/c6TihYNtq9vhpBSYwGJttg)
