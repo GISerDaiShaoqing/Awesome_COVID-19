@@ -167,3 +167,5 @@
 - [Network Model of COVID-19 on Cruise Ships](https://github.com/EpiModel/COVID-CruiseShip)
 - [ARIMA-based forecasting of confirmed COVID/ Corona cases for various country-province combinations](https://github.com/atecon/covid_19_forecast)
 - [R package eSIR: extended state-space SIR epidemiological models](https://github.com/lilywang1988/eSIR)
+- [特别报道：建模如何帮助应对新冠肺炎疫情？](https://mp.weixin.qq.com/s/nZ6OAXiDeP9vhBQiRhSS-g)
+- [Special report: The simulations driving the world’s response to COVID-19](https://www.nature.com/articles/d41586-020-01003-6)

@@ -86,3 +86,5 @@
 - [【会议速递】鲍曙明：新冠病毒疫情冲击对长三角地区影响分析](https://mp.weixin.qq.com/s/Te_iONo5PLNxDlPJs1ZXiQ)
 - [学术·预告 | “统计大讲堂”第一百一十五讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/lfyOxctMwUCImyCnahJuqQ)
 - [2020世界地球日特邀报告|齐心抗疫，守护家园](https://mp.weixin.qq.com/s/mUhK9kEZLW43GxBFBz0VnA)
+- [直播|NEJM主编携手中美抗疫专家线上研讨：临床试验、疫苗、ICU和公卫](https://mp.weixin.qq.com/s/TkY-AEW0BKpgufh35zRZfA)
+- [倒计时3天！姜世勃：广谱抗冠疫苗和药物是战胜新冠疫情的终极武器](https://mp.weixin.qq.com/s/c6TihYNtq9vhpBSYwGJttg)

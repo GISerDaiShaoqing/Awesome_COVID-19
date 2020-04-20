@@ -29,5 +29,7 @@
 - [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
 - [抗疫与城市 | 英国就业类型与产业类型对封城效果地区性差异的影响](https://mp.weixin.qq.com/s/8zhpiC51fzwAQVxvx0DMdw)
 - [抗疫与妇女 | 对抗新冠病毒疫情的秘密武器：妇女](https://mp.weixin.qq.com/s/ZtlwE2qbLWHEmBKHnpBHeA)
+- [疫情与意象︱用意象地图描绘新冠疫情的隔离生活](https://mp.weixin.qq.com/s/_Wnl3DxnOIhbxfr4cK76_g)
+- [疫情之后︱应对新冠疫情危机: 基础设施与CBD商务区该怎么办？](https://mp.weixin.qq.com/s/xMJaV1fC7oBcPk8ncnXTJw)
 
 ![](/img/SCM.jpg)
