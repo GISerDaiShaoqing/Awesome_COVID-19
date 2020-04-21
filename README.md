@@ -1,4 +1,4 @@
-Awesome COVID-19 Reserach
+# Awesome COVID-19 Reserach
 
 |Author|Shaoqing Dai|
 |---|---|
@@ -8,6 +8,8 @@ A curated list of awesome jouranl, papers, code, data, tools, visualization, hel
 
 [Awesome COVID-19](http://covid19.gisersqdai.top/en-us/index.html)
 
+![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/websnapt.jpg)
+
 The website was powered by [docsite](https://github.com/txd-team/docsite).
 
-If you have any question about it, please contact me via E-mail。
+If you have any question about it, please contact me via E-mail.
