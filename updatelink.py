@@ -37,9 +37,9 @@ for i in range(0, len(lists), 1):
         elif "# Organizations" in lecenu:
             leccn.write(lecenu.replace("# Organizations", "# 学术组织"))
         elif "# Sustainable cities & mobility" in lecenu:
-            leccn.write(lecenu.replace("# Sustainable cities & mobility", "#  一览众山小-可持续城市与交通"))
+            leccn.write(lecenu.replace("# Sustainable cities & mobility", "# 一览众山小-可持续城市与交通"))
         else:
-            leccn.write(lecenu.replace("# Virology correlated Resources", "#  病毒学与生物学相关资源"))      
+            leccn.write(lecenu.replace("# Virology correlated Resources", "# 病毒学与生物学相关资源"))      
     elif "img" in fn:
         print("it's picture")         
     else:
@@ -56,8 +56,8 @@ for i in range(0, len(lists), 1):
             if "# Journal" in lecenu:
                 leccn.write(lecenu.replace("# Journal", "# 期刊"))
             elif "# University & Institute & Company" in lecenu:
-                leccn.write(lecenu.replace("# University & Institute & Company", "# 大学&研究机构&公司"))
-            elif "# WHO, CDC and other correlated departments" in lecenu:
+                leccn.write(lecenu.replace("# University & Institute & Company", "# 大学 & 研究机构 & 公司"))
+            elif "# WHO, CDC and other correlated department" in lecenu:
                 leccn.write(lecenu.replace("# WHO, CDC and other correlated department", "# 世界卫生组织, 疾病预防控制中心与其他相关机构"))
             elif "# Academic paper letter" in lecenu:
                 leccn.write(lecenu.replace("# Academic paper letter", "# 学术快报"))
@@ -69,13 +69,17 @@ for i in range(0, len(lists), 1):
                 leccn.write(lecenu.replace("# Clinic Medicine", "# 临床医学"))
             elif "# Modeling spearding and epidemiological analysis" in lecenu:
                 leccn.write(lecenu.replace("# Modeling spearding and epidemiological analysis", "# 疫情传播建模与流行病学分析"))
-            elif "# Journal special issues" in lecenu:
-                leccn.write(lecenu.replace("# Journal special issues", "# 期刊特刊"))
-            elif "# Lecture" in lecenu:
-                leccn.write(lecenu.replace("# Lecture", "# 讲座与课程"))
-            elif "# Organizations" in lecenu:
-                leccn.write(lecenu.replace("# Organizations", "# 学术组织"))
-            elif "# Sustainable cities & mobility" in lecenu:
-                leccn.write(lecenu.replace("# Sustainable cities & mobility", "#  一览众山小-可持续城市与交通"))
+            elif "# Risk assessment" in lecenu:
+                leccn.write(lecenu.replace("# Risk assessment", "# 风险评估"))
+            elif "# Evaluation intervention" in lecenu:
+                leccn.write(lecenu.replace("# Evaluation intervention", "# 公共卫生干预评估"))
+            elif "# Data" in lecenu:
+                leccn.write(lecenu.replace("# Data", "# 数据"))
+            elif "# Visualization" in lecenu:
+                leccn.write(lecenu.replace("# Visualization", "# 可视化"))
+            elif "# Platform(Including 3S Technology)" in lecenu:
+                leccn.write(lecenu.replace("# Platform(Including 3S Technology)", "# 平台（包括3S技术）"))
             else:
-                leccn.write(lecenu.replace("# Virology correlated Resources", "#  病毒学与生物学相关资源"))  
+                leccn.write(lecenu.replace("# Tools", "# 工具"))
+    lecen.close()
+    leccn.close()

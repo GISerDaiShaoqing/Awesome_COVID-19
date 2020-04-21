@@ -71,7 +71,7 @@ export default {
           img: '/img/alibaba.png',
           imgHover: '/img/alibaba_hover.png',
           title: 'gitter',
-          link: '',
+          link: 'https://github.com/GISerDaiShaoqing',
         },
         {
           img: '/img/segmentfault.png',
@@ -94,22 +94,22 @@ export default {
         {
           img: '/img/mailinglist.png',
           title: 'Mailing List',
-          content: <span>this is the content</span>,
+          content: <span>Please send the suggestions to me via E-mail</span>,
         },
         {
           img: '/img/issue.png',
           title: 'Issue',
-          content: <span>this is the content</span>,
+          content: <span>Please submit the bug via Github</span>,
         },
         {
           img: '/img/documents.png',
           title: 'Documents',
-          content: <span>this is the content</span>,
+          content: <span>Please submit the markdown files to me via E-mail</span>,
         },
         {
           img: '/img/pullrequest.png',
           title: 'Pull Request',
-          content: <span>this is the content</span>,
+          content: <span>Please submit the Pull request via Github</span>,
         },
       ],
     },
@@ -224,7 +224,7 @@ export default {
     },
     contacts: {
       title: '联系我们',
-      desc: '有问题需要反馈？请通过一下方式联系我们。',
+      desc: '有问题需要反馈？请通过以下方式联系我们。',
       list: [
         {
           img: '/img/mailinglist.png',
@@ -236,7 +236,7 @@ export default {
           img: '/img/alibaba.png',
           imgHover: '/img/alibaba_hover.png',
           title: 'gitter',
-          link: '',
+          link: 'https://github.com/GISerDaiShaoqing',
         },
         {
           img: '/img/segmentfault.png',
@@ -259,22 +259,22 @@ export default {
         {
           img: '/img/mailinglist.png',
           title: '邮件列表',
-          content: <span>这是描述</span>,
+          content: <span>请将建议发送到我的邮箱</span>,
         },
         {
           img: '/img/issue.png',
           title: '报告缺陷',
-          content: <span>这是描述</span>,
+          content: <span>请通过Github提交bug</span>,
         },
         {
           img: '/img/documents.png',
           title: '文档',
-          content: <span>这是描述</span>,
+          content: <span>请将md文件发送到我的邮箱</span>,
         },
         {
           img: '/img/pullrequest.png',
           title: 'Pull Request',
-          content: <span>这是描述</span>,
+          content: <span>请通过Github提交pr</span>,
         },
       ],
     },

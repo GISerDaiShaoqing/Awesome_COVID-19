@@ -24,35 +24,41 @@ export default {
       img: '/img/architecture.png',
     },
     features: {
-      title: '特性一览',
+      title: '研究主题',
       list: [
         {
-          img: '/img/feature_transpart.png',
+          //img: '/img/feature_transpart.png',
+          img: '/img/ISLElogo.jpg',
           title: '空间生命历程流行病学',
           content: '',
         },
         {
-          img: '/img/feature_loadbalances.png',
+          //img: '/img/feature_loadbalances.png',
+          img: '/img/gis.png',
           title: '地理信息系统',
           content: '',
         },
         {
-          img: '/img/feature_service.png',
+          //img: '/img/feature_service.png',
+          img: '/img/RSEO.png',
           title: '卫星遥感',
           content: '',
         },
         {
-          img: '/img/feature_hogh.png',
+          //img: '/img/feature_hogh.png',
+          img: '/img/sensor.png',
           title: '全球定位与传感器',
           content: '',
         },
         {
-          img: '/img/feature_runtime.png',
+          //img: '/img/feature_runtime.png',
+          img: '/img/statistics.png',
           title: '统计学',
           content: '',
         },
         {
-          img: '/img/feature_maintenance.png',
+          //img: '/img/feature_maintenance.png',
+          img: '/img/machinelearning.png',
           title: '机器学习',
           content: '',
         },
@@ -71,7 +77,8 @@ export default {
       title: '贡献者',
       desc: <span></span>,
       list: [
-        '/img/users_alibaba.png',
+        //'/img/users_alibaba.png',
+        '/img/card.jpg',
       ],
     },
   },
@@ -98,35 +105,41 @@ export default {
       img: '/img/architecture.png',
     },
     features: {
-      title: 'Feature List',
+      title: 'Topics',
       list: [
         {
-          img: '/img/feature_transpart.png',
+          //img: '/img/feature_transpart.png',
+          img: '/img/ISLElogo.jpg',
           title: 'Spatial Lifecourse Epidemiology',
           content: '',
         },
         {
-          img: '/img/feature_loadbalances.png',
+          //img: '/img/feature_loadbalances.png',
+          img: '/img/gis.png',
           title: 'GIS',
           content: '',
         },
         {
-          img: '/img/feature_service.png',
+          //img: '/img/feature_service.png',
+          img: '/img/RSEO.png',
           title: 'Satellite and Remote Sensing',
           content: '',
         },
         {
-          img: '/img/feature_hogh.png',
+          //img: '/img/feature_hogh.png',
+          img: '/img/sensor.png',
           title: 'GPS and Sensors',
           content: '',
         },
         {
-          img: '/img/feature_runtime.png',
+          //img: '/img/feature_runtime.png',
+          img: '/img/statistics.png',
           title: 'Statistics',
           content: '',
         },
         {
-          img: '/img/feature_maintenance.png',
+          //img: '/img/feature_maintenance.png',
+          img: '/img/machinelearning.png',
           title: 'Machine Learning',
           content: '',
         }
@@ -145,7 +158,8 @@ export default {
       title: 'Contributors',
       desc: <span></span>,
       list: [
-        '/img/users_alibaba.png',
+        //'/img/users_alibaba.png',
+        '/img/card.jpg',
       ],
     },
   },

@@ -27,6 +27,4 @@
 - [知识疫图-全球新冠疫情智能驾驶舱](https://covid-dashboard.aminer.cn/)
 - [Dispatches from the Field: Scientists, experts and policy makers addressing the Covid-19 crisis around the world](https://sustainabledevelopment.un.org/blog/covid19)
 - [Teralytics](https://www.teralytics.net/knowledge-hub/)
-
-
-
+- [University of Glasgow: Urban Impacts of COVID-19](https://www.ubdc.ac.uk/research/research-projects?topic=Urban+Impacts+of+COVID-19)

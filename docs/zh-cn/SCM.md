@@ -1,37 +1,4 @@
-# 一览众山小·可持续交通与城市公众号
-- [抗击疫情特刊① ︱武汉新型冠状病毒肺炎通过航空国际传播的风险评估](https://mp.weixin.qq.com/s/JkBxnJhqhihGWxHzwP9Igg)
-- [抗击疫情特刊② ︱Science：传染病是这么传染的！传染病者的“有效”距离](https://mp.weixin.qq.com/s/HP2JdYwKyIK_0-zKpYJEnQ)
-- [抗击疫情特刊③︱bioRxiv：导致近期人病毒性肺炎暴发的新型冠状病毒及其源于蝙蝠的相关研究](https://mp.weixin.qq.com/s/srDSJtKWF-x8CYoaR2rNvQ)
-- [抗击疫情特刊④ ︱面对新型肺炎来袭你应该怎么做？听听美国疾控中心的建议](https://mp.weixin.qq.com/s/sZhvqoVHT-YN9jOXFp43iA)
-- [抗击疫情特刊⑤ ︱从2003年SARS到2009年甲型H1N1流感：台湾预防流行病的经验](https://mp.weixin.qq.com/s/cd8Y0GKEyVO9-uyD4c5i8g)
-- [抗击疫情特刊⑥ ︱2019年中国新型冠状病毒国内外传播的初步风险分析](https://mp.weixin.qq.com/s/7Ti2T3-09jCXTPonS2dtBg)
-- [抗击疫情特刊⑦︱火神山请看过来：隔离室这么设置才合理](https://mp.weixin.qq.com/s/iH3DtZ6GPWExtrRLtrrPUQ)
-- [抗击疫情特刊⑧︱武汉新型冠状病毒2019-nCoV的传播能力分析](https://mp.weixin.qq.com/s/wDl3DQBmM6LX83w0ST2hAA)
-- [抗击疫情特刊⑨︱香港九龙湾淘大花园中建筑物空气流动及其对SARS疫情传染的相关性研究](https://mp.weixin.qq.com/s/FZu-VBW5UtbhO5S1OO1Otw)
-- [抗击疫情特刊⑩︱面罩通风与呼出气体扩散](https://mp.weixin.qq.com/s/VJKUsZfqEnltUDy2RHyX9A)
-- [抗击疫情特刊⑾︱香港SARS之后的反思：高密度城市的规划政策及技术准则之香港空气流通评估](https://mp.weixin.qq.com/s/wk6u2UoHMe1UDQPtp6gHDw)
-- [抗击疫情特刊⒀︱上班在即：且看纽约地铁出行在流感传播中的角色](https://mp.weixin.qq.com/s/nAp6siPnzFY7C6anmIJ2aA)
-- [抗击疫情特刊(终)︱2020.0202: 团队寄语...](https://mp.weixin.qq.com/s/oA9b2eZ9-w2gK6T5bJd5Jg)
-- [抗击疫情增刊 ①︱后疫情时代-小议城市交通、交通规划该往何处去？答曰: 请下基层去!](https://mp.weixin.qq.com/s/Q_4UcyzOpu5bWPyEykydYA)
-- [抗击疫情增刊 ②︱疫情期间坐不坐公交？公共交通对疫病传播的影响-考虑跨区交通出行的RIS改进模型](https://mp.weixin.qq.com/s/GRhWpteWYQOt-5R5Y407oA)
-- [抗击疫情增刊 ③︱如何将传染病GIS绘图作为抗疫工具 (两则)](https://mp.weixin.qq.com/s/4u03xxZ5eC40Hh3iLjdDAg)
-- [抗击疫情增刊 ④︱流行病测绘是种不完美科学 (三则)](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650127323&idx=2&sn=cbec14f5cd3758bfb35b29cee01f7cd8&chksm=8742cf8eb03546987a4df121eecd330db78fbab4fb5d3a6d045318791b390ef9903fa1053011&mpshare=1&scene=1&srcid=&sharer_sharetime=1585066984060&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [抗击疫情增刊 ④︱人民出行专访刘岱宗：从国际视野、公交行业来看待这次疫情！](https://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650127430&idx=1&sn=f4545c251e6cdd4c916cc48064cd7f57&chksm=8742c813b0354105d664485a675b347fb6277faaca4d082a58e442216d3d3510f2e92a65af36&mpshare=1&scene=1&srcid=&sharer_sharetime=1584912230914&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [抗击疫情增刊 ⑥︱图说新冠病毒对中国经济的影响 (截止至2月28日)](https://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650127461&idx=1&sn=934e645635835d7e712566d84b05dbd1&chksm=8742c830b03541269406aeca3060a700905d604e2a97c5f0b26982372ce7254ef4892bcac49c&mpshare=1&scene=1&srcid=&sharer_sharetime=1584911638887&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [新冠病毒与公交︱新冠疫情下的美国公共交通系统 (两则)](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650127847&idx=2&sn=a2afefc9cc8a3b8cec65fac63009de9c&chksm=8742c9b2b03540a48ded9fe3071cc47134b983257b263deb03da55f44c482afa49fcc809d44c&mpshare=1&scene=1&srcid=&sharer_sharetime=1584904192158&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [新冠病毒与城市 | 为何1918年大流感对某些城市的影响更大？](https://mp.weixin.qq.com/s/FaiPgCtQ8rRRBo2Y_Ue7mA)
-- [新冠病毒与城市︱大流行病也是城市规划的问题 (两则)](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650127879&idx=1&sn=7d6dee187e660a544fdee76f9a942029&chksm=8742ca52b03543446527ba53addd9c20751c292a7e8197c47079d3bf62ffd70b369b56edf87a&mpshare=1&scene=1&srcid=&sharer_sharetime=1584903711254&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [一览抗疫情洞察 | 我们能从抗疫成功经验中学到什么](https://mp.weixin.qq.com/s/JiAL0-vnUF6NaEp-sMK6HA)
-- [一览抗疫洞察︱疫情期间城市应该如何使用道路？](https://mp.weixin.qq.com/s/9BSpiutAPMqfD6MmG9R3wg)
-- [印度占地运动︱抗疫封城进入孟买贫民窟：达拉维的希望与困境](https://mp.weixin.qq.com/s/vFJY8Pfauu1D1PtxtRurjw)
-- [天空之眼 | 全球商业卫星公司利用数据揭示COVID-19的影响](http://mp.weixin.qq.com/s?__biz=MzA3ODM2NjAxMA==&mid=2650128483&idx=1&sn=d06bfe44dd80f48298c82dadfbe0b317&chksm=8742b436b0353d2045a8a2be97218f65696c7fefae0c08a47b82e61f22997ae42c07858dca4d&mpshare=1&scene=1&srcid=&sharer_sharetime=1586691917967&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
-- [只有一个纽约 | 纽约前市长撰文: 我曾帮助纽约在911之后复兴，而此次新冠疫情之后纽约复兴的秘密就在…](https://mp.weixin.qq.com/s/z8_-iKKrQs3NBDcmAgVZcw)
-- [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
-
-![](/img/SCM.jpg)
-
-![](/img/SCM.jpg)
-
+# 一览众山小-可持续城市与交通
 - [抗击疫情特刊① ︱武汉新型冠状病毒肺炎通过航空国际传播的风险评估](https://mp.weixin.qq.com/s/JkBxnJhqhihGWxHzwP9Igg)
 - [抗击疫情特刊② ︱Science：传染病是这么传染的！传染病者的“有效”距离](https://mp.weixin.qq.com/s/HP2JdYwKyIK_0-zKpYJEnQ)
 - [抗击疫情特刊③︱bioRxiv：导致近期人病毒性肺炎暴发的新型冠状病毒及其源于蝙蝠的相关研究](https://mp.weixin.qq.com/s/srDSJtKWF-x8CYoaR2rNvQ)
@@ -62,10 +29,8 @@
 - [COVID-19 | 疫情如何改变美国人的消费行为](https://mp.weixin.qq.com/s/mHy_NfF3xY3QGzZCAygzOg)
 - [抗疫与城市 | 英国就业类型与产业类型对封城效果地区性差异的影响](https://mp.weixin.qq.com/s/8zhpiC51fzwAQVxvx0DMdw)
 - [抗疫与妇女 | 对抗新冠病毒疫情的秘密武器：妇女](https://mp.weixin.qq.com/s/ZtlwE2qbLWHEmBKHnpBHeA)
-
-![](/img/SCM.jpg)
-
+- [疫情与意象︱用意象地图描绘新冠疫情的隔离生活](https://mp.weixin.qq.com/s/_Wnl3DxnOIhbxfr4cK76_g)
 - [疫情之后︱应对新冠疫情危机: 基础设施与CBD商务区该怎么办？](https://mp.weixin.qq.com/s/xMJaV1fC7oBcPk8ncnXTJw)
+- [后疫情时代 | 意大利米兰宣布雄心勃勃的疫后复兴计划，封城结束后将减少小汽车的使用](https://mp.weixin.qq.com/s/b5VEmO2AHUQ2RLE7ropcfg)
 
 ![](/img/SCM.jpg)
-
