@@ -59,7 +59,7 @@ export default {
       ],
     },
     start: {
-      title: 'COVID-19 Shinayapp',
+      title: 'COVID-19 Shiny app',
       desc: 'COVID-19疫情仪表盘',
       img: '/img/quick_start.png',
       button: {
@@ -68,7 +68,7 @@ export default {
       },
     },
     users: {
-      title: '用户',
+      title: '贡献者',
       desc: <span></span>,
       list: [
         '/img/users_alibaba.png',
@@ -133,7 +133,7 @@ export default {
       ]
     },
     start: {
-      title: 'COVID-19 Shina app',
+      title: 'COVID-19 Shiny app',
       desc: 'The dashboard of COVID-19',
       img: '/img/quick_start.png',
       button: {
@@ -142,7 +142,7 @@ export default {
       },
     },
     users: {
-      title: 'users',
+      title: 'Contributors',
       desc: <span></span>,
       list: [
         '/img/users_alibaba.png',

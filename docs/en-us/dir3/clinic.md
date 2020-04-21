@@ -303,3 +303,5 @@
 - [重大进展 | 中国多个团队同时发现新冠病毒能在产生特异性抗体的患者体内长期存在](https://mp.weixin.qq.com/s/jefAdVIbbBX8LTtE6P4M7w)
 - [Long-term Co-existence of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) with Antibody Response in Non-severe Coronavirus Disease 2019 (COVID-19) Patients](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v1)
 - [Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications](https://www.medrxiv.org/content/10.1101/2020.04.13.20040980v1)
+- [武汉COVID-19患者的心脏损伤](https://mp.weixin.qq.com/s/OkcXGjlIviEPUVlrgi5BZQ)
+- [Cardiac Injury with COVID-19 in Wuhan](https://www.jwatch.org/na51235/2020/03/28/cardiac-injury-with-covid-19-wuhan?query=nejmyxqy)

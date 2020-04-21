@@ -84,3 +84,5 @@
 - [疫情防控信息化应用案例 | 宁波市新冠肺炎疫情防控大数据平台](https://mp.weixin.qq.com/s/krsfk4fgIuGAM2R5EaM2uw)
 - [疫情上报管理系统（PHP版）](https://github.com/2020NCOV/ncov-report-manage-system-PHP)
 - [信息化疫情防控案例 | 青海省地理信息中心疫情防控在线监测平台](https://mp.weixin.qq.com/s/FXV9u3KmyGDNfxH0hbyJjA)
+- [吴恩达团队创建人工智能工具，用摄像头画面测量社交距离](https://mp.weixin.qq.com/s/waqoGI4QEt07y2RPL48N5Q)
+- [吴恩达的公司发布社交距离监控工具，疫情期间别靠太近！](https://mp.weixin.qq.com/s/lM_In4DCal8_csE4kNp2kw)
