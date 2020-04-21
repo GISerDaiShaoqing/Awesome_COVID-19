@@ -90,3 +90,7 @@
 - [倒计时3天！姜世勃：广谱抗冠疫苗和药物是战胜新冠疫情的终极武器](https://mp.weixin.qq.com/s/c6TihYNtq9vhpBSYwGJttg)
 - [【课程提醒】周四下午 2 点 Tableau 网络入门课程 - 医疗行业可视化分析](https://mp.weixin.qq.com/s/qijWyqdCGSSQEEOz2WwHqg)
 - [An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock](https://github.com/gerryguy311/CyberProfDevelopmentCovidResources)
+- [清华大学吴及教授：“信息技术助力新冠防控” 介绍疫情期间研发的辅助分诊系统](https://v.qq.com/x/page/i09437o3u0u.html)
+- [北京大学王亚沙教授：“新冠肺炎传播预测模型” 介绍多种疫情数据分析方法和疫情预测模型](https://v.qq.com/x/page/a0944t1wyfi.html)
+- [百度黄际洲：“时空大数据与AI助力抗击疫情：百度地图的实践与思考”](https://v.qq.com/x/page/b0943t9bfow.html)
+- [百度张传明：“疫情下的“活”导航是如何炼成的”](https://v.qq.com/x/page/i094421a9v8.html)

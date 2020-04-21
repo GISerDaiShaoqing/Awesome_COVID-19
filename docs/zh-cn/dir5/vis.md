@@ -139,3 +139,5 @@
 - [【图说】不同职业感染病毒风险评估：牙科医生最高，经济学家最低](https://mp.weixin.qq.com/s/uQgDY7Z_D_CEqMkRhLH8hA)
 - [国际视野|交互式地图展示新冠疫情对于欧美部分国家出行量的影响](https://mp.weixin.qq.com/s/ghmGjsGIj40L2Rr0JqfDig)
 - [COVID-19-US-county-map](https://github.com/randel/COVID-19-US-county-map)
+- [COVID-19How Oil Prices Went Subzero: Explaining the COVID-19 Oil Crash](https://www.visualcapitalist.com/subzero-oil-price-crash-covid-19/)
+- [Corona-Krise: Wo schon Intensivbetten knapp sind](https://interaktiv.morgenpost.de/corona-deutschland-intensiv-betten-monitor-krankenhaus-auslastung/)

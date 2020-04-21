@@ -249,3 +249,4 @@
 - [【视频】安全返校 家长怎样做](https://mp.weixin.qq.com/s/Xy0jzK_nVkI26Rd4aQKraQ)
 - [预估COVID-19冠状病毒爆发期间的航空客运量及其社会经济影响 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/oE7IqUQJDu-atGXml6jLkg)
 - [中国一线专家：中国有14亿人，"群体免疫"做不来](https://mp.weixin.qq.com/s/qmxvYYRs1OwxnxL2H98-CA)
+- [Lancet子刊钟南山参与研究：40%新冠肺炎患者静脉血栓栓塞风险高| 领研网24小时热门论文](https://mp.weixin.qq.com/s/wI0LhSuTy7WSzLtPZ7PClg)

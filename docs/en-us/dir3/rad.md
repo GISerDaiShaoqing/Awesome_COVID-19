@@ -28,3 +28,4 @@
 - [新加坡首次公布扫描影像，新冠患者肺部出现“碎石路”](https://mp.weixin.qq.com/s/-WFCBXccV67PVCxqkiJGBg)
 - [TensorFlow.js 助力医学影像学](https://mp.weixin.qq.com/s/O2SCnpKXS7C9e3xrrNhoAQ)
 - [Weakly Supervised Geodesic Segmentation of Egyptian Mummy CT Scans](https://arxiv.org/abs/2004.08270)
+- [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167)
