@@ -20,7 +20,7 @@ export default {
     },
     introduction: {
       title: 'COVID-19疫情发展概览',
-      desc: 'COVID-19疫情时间序列变化趋势，数据源: https://github.com/ExpDev07/coronavirus-tracker-api; https://github.com/CSSEGISandData/COVID-19',
+      desc: 'COVID-19疫情时间序列变化趋势，数据源: https://github.com/ExpDev07/coronavirus-tracker-api; https://github.com/CSSEGISandData/COVID-19; https://github.com/mathdroid/covid-19-api。',
       img: '/img/architecture.png',
     },
     features: {
@@ -101,7 +101,7 @@ export default {
     },
     introduction: {
       title: 'Overview of COVID-19',
-      desc: 'Timeseries data of COVID-19, data sources: https://github.com/ExpDev07/coronavirus-tracker-api; https://github.com/CSSEGISandData/COVID-19',
+      desc: 'Timeseries data of COVID-19, data sources: https://github.com/ExpDev07/coronavirus-tracker-api; https://github.com/CSSEGISandData/COVID-19; https://github.com/mathdroid/covid-19-api.',
       img: '/img/architecture.png',
     },
     features: {
