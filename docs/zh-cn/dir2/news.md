@@ -1043,3 +1043,6 @@
 - [被全民网暴的比尔·盖茨，仍在用力拯救世界](https://mp.weixin.qq.com/s/_l7wmMeknAz5rdb8N9z-Bg)
 - [世卫组织警告：最糟糕的时刻即将到来！](https://mp.weixin.qq.com/s/d1OIa_0odFpJZxmipNDokA)
 - [又来造谣抹黑！特朗普白宫顾问：中国不愿分享病毒数据是为抢占疫苗研发先机，打赢商业战争！](https://mp.weixin.qq.com/s/TFQGVzFs3TFhd1McImWOOA)
+- [荷兰新冠死亡病例中男性比例连续19天下降，由50%以上降至40%以下｜世卫组织警告：最糟糕的时刻即将到来](https://mp.weixin.qq.com/s/Zk7U_G8ZDThGkHJZ1oznjQ)
+- [4月21日晚间内阁发布会：小学半开放复学，其他措施继续延迟，集会禁止到9月1日](https://mp.weixin.qq.com/s/TsjkR2vYvnnIU0JPJesTAQ)
+- [社交距离1.5米“新常态”，会给荷兰社会及经济带来哪些方面的改变？](https://mp.weixin.qq.com/s/CeijcsX6egR2LsaEXFSZxg)

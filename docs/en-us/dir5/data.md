@@ -119,3 +119,4 @@
 - [欧盟宣布建立COVID-19数据共享平台以对抗新冠病毒](https://mp.weixin.qq.com/s/vw-wjP3kf21aM0cynd11cA)
 - [Latest COVID-19 Coronavirus data in javascript, now including country populations ](https://github.com/fullergalway/covid19js)
 - [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets](https://github.com/covid19datahub/COVID19)
+- [Daily COVID-19 statistics by country, region, and city ](https://github.com/coviddata/coviddata)
