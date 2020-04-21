@@ -8,7 +8,7 @@ A curated list of awesome jouranl, papers, code, data, tools, visualization, hel
 
 [Awesome COVID-19](http://covid19.gisersqdai.top/en-us/index.html)
 
-![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/websnapt.jpg)
+![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/websnapt.png)
 
 The website was powered by [docsite](https://github.com/txd-team/docsite).
 
