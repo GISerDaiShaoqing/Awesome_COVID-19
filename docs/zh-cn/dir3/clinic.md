@@ -305,3 +305,7 @@
 - [Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications](https://www.medrxiv.org/content/10.1101/2020.04.13.20040980v1)
 - [武汉COVID-19患者的心脏损伤](https://mp.weixin.qq.com/s/OkcXGjlIviEPUVlrgi5BZQ)
 - [Cardiac Injury with COVID-19 in Wuhan](https://www.jwatch.org/na51235/2020/03/28/cardiac-injury-with-covid-19-wuhan?query=nejmyxqy)
+- [BMJ首次 | 尿液中检测到新冠病毒，浙江大学梁廷波团队发现粪便排毒时间最长](https://mp.weixin.qq.com/s/6TDLONBNmYl6C6Ub6LMeYg)
+- [Viral load dynamics and disease severity in patients infected with SARS-CoV-2 in Zhejiang province, China, January-March 2020: retrospective cohort stud](https://www.bmj.com/content/369/bmj.m1443)
+- [Barabási组最新：网络科学大幅缩小新冠特效药搜索范围至81种](https://mp.weixin.qq.com/s/hwVVoMy1NBEFGvPftaabtA)
+- [Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19](https://arxiv.org/abs/2004.07229)

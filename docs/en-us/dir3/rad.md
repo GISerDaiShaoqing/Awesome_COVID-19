@@ -29,3 +29,6 @@
 - [TensorFlow.js 助力医学影像学](https://mp.weixin.qq.com/s/O2SCnpKXS7C9e3xrrNhoAQ)
 - [Weakly Supervised Geodesic Segmentation of Egyptian Mummy CT Scans](https://arxiv.org/abs/2004.08270)
 - [CheXbert: Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT](https://arxiv.org/abs/2004.09167)
+- [AI+医学影像应用全景扫描：除自动识别病灶，还支持放射治疗、手术路径规划等](https://mp.weixin.qq.com/s/_zuBI2ZruGM27OUCht6xeA)
+- [计算机视觉用于新冠病毒COVID-19的控制综述，25页pdf](https://mp.weixin.qq.com/s/xP2M0DwoqPBEE93peuWvhQ)
+- [Computer Vision for COVID-19 Control: A Survey](https://arxiv.org/abs/2004.09420)

@@ -19,6 +19,8 @@
 - [爱思唯尔向PubMed Central等公共卫生数据库完全开放其新型冠状病毒资源中心](https://mp.weixin.qq.com/s/UkfTCXnhX4rGXsN7oWn7-A)
 - [Elsevier COVID-19 Healthcare hub](https://covid-19.elsevier.health/index.html#toolkits)
 - [爱思唯尔推出COVID-19医疗资源中心](https://mp.weixin.qq.com/s/gEfvyBosCQr2Y7xyrOEicQ)
+- [爱思唯尔推出Pure新型冠状病毒信息中心](https://mp.weixin.qq.com/s/3tPnvfzH_GOxTjOSBFU_Kg)
+- [Pure新型冠状病毒信息中心](https://covid19.elsevierpure.com/)
 - [Spring Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
 - [Springer Nature Experiments冠状病毒主题专属页面](https://mp.weixin.qq.com/s/hgqjvsu6am22QqsWeyfQfQ)
 - [Springer Nature Experiments: coronavirus](https://experiments.springernature.com/search?term=coronavirus&submit=%E6%8F%90%E4%BA%A4)

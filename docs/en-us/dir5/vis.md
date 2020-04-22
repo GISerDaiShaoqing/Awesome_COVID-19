@@ -141,3 +141,4 @@
 - [COVID-19-US-county-map](https://github.com/randel/COVID-19-US-county-map)
 - [COVID-19How Oil Prices Went Subzero: Explaining the COVID-19 Oil Crash](https://www.visualcapitalist.com/subzero-oil-price-crash-covid-19/)
 - [Corona-Krise: Wo schon Intensivbetten knapp sind](https://interaktiv.morgenpost.de/corona-deutschland-intensiv-betten-monitor-krankenhaus-auslastung/)
+- [资讯 | 如何用动态地图分析全球疫情？](https://mp.weixin.qq.com/s/KamBYGLi8QKn0nlFuYI3-w)

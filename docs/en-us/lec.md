@@ -94,3 +94,4 @@
 - [北京大学王亚沙教授：“新冠肺炎传播预测模型” 介绍多种疫情数据分析方法和疫情预测模型](https://v.qq.com/x/page/a0944t1wyfi.html)
 - [百度黄际洲：“时空大数据与AI助力抗击疫情：百度地图的实践与思考”](https://v.qq.com/x/page/b0943t9bfow.html)
 - [百度张传明：“疫情下的“活”导航是如何炼成的”](https://v.qq.com/x/page/i094421a9v8.html)
+- [周六直播 | 用“心”防疫 心身健康——中医心理学助力共同抗击疫情【“科学人讲坛”在线科普讲座】](https://mp.weixin.qq.com/s/zR60SKqXQbCz7cz-04dqWg)

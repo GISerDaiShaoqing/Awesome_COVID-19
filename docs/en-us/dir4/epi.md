@@ -174,3 +174,6 @@
 - [Modeling Epidemic Spreading through Public Transit using Time-Varying Encounter Network](https://arxiv.org/abs/2004.04602)
 - [Spatio-temporal analysis of the incidence of COVID-19 in Spain with a focus on environmental correlates](https://github.com/paezha/covid19-environmental-correlates)
 - [MobilityEpidemio](https://github.com/JusteRaimbault/MobilityEpidemio)
+- [【研究】空气污染严重地区新冠死亡率高：相关关系还是因果关系？](https://mp.weixin.qq.com/s/PFgOGVvAny2NTVCYTWX2bg)
+- [Air pollution may be ‘key contributor’ to Covid-19 deaths – study](https://www.theguardian.com/environment/2020/apr/20/air-pollution-may-be-key-contributor-to-covid-19-deaths-study?CMP=share_btn_tw)
+- [Assessing nitrogen dioxide (NO2) levels as a contributing factor to coronavirus (COVID-19) fatality](https://www.sciencedirect.com/science/article/pii/S0048969720321215?via%3Dihub)
