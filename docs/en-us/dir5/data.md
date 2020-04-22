@@ -121,3 +121,4 @@
 - [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets](https://github.com/covid19datahub/COVID19)
 - [Daily COVID-19 statistics by country, region, and city ](https://github.com/coviddata/coviddata)
 - [我从新冠数据里学到的四个数据科学基础知识](https://mp.weixin.qq.com/s/L2pPXl0GLwRWS1_hY-R7iw)
+- [Cleaned COVID-19 Data from JHU CSSE (R-Friendly)](https://github.com/Lucas-Czarnecki/COVID-19-CLEANED-JHUCSSE)

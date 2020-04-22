@@ -41,3 +41,4 @@
 - [Optimising Lockdown Policies for Epidemic Control using Reinforcement Learning](https://arxiv.org/abs/2003.14093)
 - [JAMA | 突破，邬堂春/魏晟/林希虹首次揭示武汉公共卫生干预，显著控制了新冠肺炎的大规模爆发](https://mp.weixin.qq.com/s/bnsSzDpf_NWU3qj_Hk3odA)
 - [Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China](https://jamanetwork.com/journals/jama/fullarticle/2764658)
+- [R tools for monitoring effectiveness of COVID-19 control efforts](https://github.com/CBDRH/covidrecon)
