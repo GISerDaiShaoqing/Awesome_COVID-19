@@ -1,10 +1,13 @@
 ---
-key1: hello
-key2: world
+title: Spatial Lifecourse Epidemiology and Infectious Disease Research
+keywords: spatial lifecourse epidemiology, infectious disease, spatial analysis
+description: This paper published in Trends in Parasitology and was added to the Cell Press COVID-19 hub.
 ---
 
-# blog1
+# Introdution
 
-it supports the resolution of meta data，the text between `---`(at least three`-`)written in the format of `key:value`，will be resolved to `md_json/blog.json`，`filename` and `__html` are preserved.
+Spatial lifecourse epidemiology aims to utilize advanced spatial, location-aware, and artificial intelligence technologies to investigate long-term effects of measurable biological, environmental, behavioral, and psychosocial factors on individual risk for chronic diseases. It could also further the research on infectious disease dynamics, risks, and consequences across the life course.
 
-filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text filling text 
+# Content
+
+[Spatial Lifecourse Epidemiology and Infectious Disease Research](https://www.sciencedirect.com/science/article/pii/S1471492220300052)
