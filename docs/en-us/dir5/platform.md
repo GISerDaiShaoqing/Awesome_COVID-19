@@ -86,3 +86,5 @@
 - [信息化疫情防控案例 | 青海省地理信息中心疫情防控在线监测平台](https://mp.weixin.qq.com/s/FXV9u3KmyGDNfxH0hbyJjA)
 - [吴恩达团队创建人工智能工具，用摄像头画面测量社交距离](https://mp.weixin.qq.com/s/waqoGI4QEt07y2RPL48N5Q)
 - [吴恩达的公司发布社交距离监控工具，疫情期间别靠太近！](https://mp.weixin.qq.com/s/lM_In4DCal8_csE4kNp2kw)
+- [疫情困人于屋中，AI赋能移动应用，助力咫尺间的生活与工作 | 智周报告核心版](https://mp.weixin.qq.com/s/NB6UMsSfx9KuZ3sagzpKlw)
+- [2012年火起来的科技圈宠儿，又被新冠带回来了](https://mp.weixin.qq.com/s/sbDb-zfDdLr0OjxaoVLLag)

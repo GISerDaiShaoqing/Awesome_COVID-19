@@ -4,7 +4,7 @@ export default {
   'zh-cn': {
     brand: {
       brandName: 'COVID-19研究资源',
-      briefIntroduction: '关于COVID-19研究的各项研究资源集锦的网站',
+      briefIntroduction: '关于COVID-19的各项研究资源集锦的网站',
       buttons: [
         {
           text: '立即开始',
