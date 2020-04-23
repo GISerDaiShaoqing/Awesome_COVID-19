@@ -181,3 +181,4 @@
 - [Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy](https://www.nature.com/articles/s41591-020-0883-7)
 - [关于国际航班乘客入境中国检测出新冠肺炎的报道](https://mp.weixin.qq.com/s/P2NbavceJnsV_wGdwfBGZA)
 - [Importing coronavirus disease 2019 (COVID-19) into China after international air travel](https://www.sciencedirect.com/science/article/pii/S1477893920300880?via%3Dihub)
+- [GIS-based spatial modeling of COVID-19 incidence rate in the continental United States](https://www.sciencedirect.com/science/article/pii/S0048969720324013?via%3Dihub)

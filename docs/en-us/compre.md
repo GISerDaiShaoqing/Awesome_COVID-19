@@ -248,3 +248,4 @@
 - [独家 | 数据科学如何用于理解COVID-19（附链接）](https://mp.weixin.qq.com/s/wSELxb1EuArM_xWA3Op31A)
 - [How Data Science Is Being Used to Understand COVID-19](https://www.kdnuggets.com/2020/04/data-science-understand-covid-19.html)
 - [Connecting clusters of COVID-19: an epidemiological and serological investigation](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30273-5/fulltext)
+- [COVID-19 Epidemic Prevention - Data Science (COVID-19 Open Data)](https://github.com/Glacier-Ice/Covid-19-data-science)

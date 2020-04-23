@@ -99,3 +99,4 @@
 - [约翰·霍普金斯大学新冠在线课程免费发布，超1万人次参与学习](https://mp.weixin.qq.com/s/wXrHJN_YYEnjaaoNMtVTDw)
 - [Free online course features COVID-19 insights from Johns Hopkins experts](https://hub.jhu.edu/2020/04/20/free-online-covid-19-course/)
 - [NEJM主编携团队“云相约”中美一线抗疫专家，探讨新冠未来之路](https://mp.weixin.qq.com/s/8nPhdMKp4s7i9MPI5X5Esg)
+- [新冠病毒数据分析系列公益讲座](https://mp.weixin.qq.com/s/X6dtYfg3ZNDyHv6tZ4en-A)
