@@ -244,3 +244,8 @@
 - [Cell | 惊人发现，ACE2是干扰素诱导基因，新冠病毒感染期间会加重病毒感染](https://mp.weixin.qq.com/s/exJTA2ja42UlaseRnI7aIA)
 - [SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway epithelial cells and is detected in specific cell subsets across tissues](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00767.pdf)
 - [Comparative tropism, replication kinetics, and cell damage profiling of SARS-CoV-2 and SARS-CoV with implications for clinical manifestations, transmissibility, and laboratory studies of COVID-19: an observational study](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30004-5/fulltext)
+- [传播病毒没有特殊物种](https://mp.weixin.qq.com/s/MLH3zwo1AOYiAtpHlgGqRQ)
+- [Viral zoonotic risk is homogenous among taxonomic orders of mammalian and avian reservoir hosts](https://www.pnas.org/content/early/2020/04/08/1919176117)
+- [加快审稿 | 中国学者等连续发表11篇CNS文章，系统介绍新冠病毒致病的分子机制](https://mp.weixin.qq.com/s/YqaVBw6IAe1lrcqnJ_fp-w)
+- [Structure-based design of antiviral drug candidates targeting the SARS-CoV-2 main protease](https://science.sciencemag.org/content/early/2020/04/21/science.abb4489)
+- [为什么“新冠病毒人造论”站不住脚？这篇文章说清楚了](https://mp.weixin.qq.com/s/gxSz-cfbyztz-LGpfWcbCw)

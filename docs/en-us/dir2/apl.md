@@ -270,3 +270,4 @@
 - [特朗普施压，哈佛“认怂”退还救助金！斯坦福撤销申请！](https://mp.weixin.qq.com/s/ll6msIEnwq0dwLBxijVzLA)
 - [疫情挡不住，目测今年基金申请会再创新高！](https://mp.weixin.qq.com/s/X2fYVsy1PQNf6eaVIbLSbA)
 - [中科院科研抗疫“特种兵”，回京啦！](https://mp.weixin.qq.com/s/PgTMgNbEU7Q6FxQajK846A)
+- [应对第一波COVID-19，中国香港为什么没有采取全封闭措施？嗅觉和味觉丧失也是新冠早期症状| 领研网24小时热门论文](https://mp.weixin.qq.com/s/dlYIWqjeq3sKwtXo4P0oaw)

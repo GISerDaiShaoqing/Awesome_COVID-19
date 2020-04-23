@@ -40,3 +40,5 @@
 - [Continuous Health Interface Event Retrieval](https://arxiv.org/abs/2004.07716)
 - [R package to obtain and analyze live data from the nCOVID19 coronavirus](https://github.com/mponce0/covid19.analytics)
 - [Scripts to help pull & analyze Coronavirus data](https://github.com/jbarton311/coronavirus-analysis)
+- [Decentralized Privacy-Preserving Proximity Tracing -- Documents](https://github.com/DP-3T/documents)
+- [An interactive map of COVID-19 data with spatial analysis tools ](https://github.com/GeoDaCenter/covid-atlas)

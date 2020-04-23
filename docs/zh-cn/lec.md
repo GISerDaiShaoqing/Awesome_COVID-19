@@ -95,3 +95,8 @@
 - [百度黄际洲：“时空大数据与AI助力抗击疫情：百度地图的实践与思考”](https://v.qq.com/x/page/b0943t9bfow.html)
 - [百度张传明：“疫情下的“活”导航是如何炼成的”](https://v.qq.com/x/page/i094421a9v8.html)
 - [周六直播 | 用“心”防疫 心身健康——中医心理学助力共同抗击疫情【“科学人讲坛”在线科普讲座】](https://mp.weixin.qq.com/s/zR60SKqXQbCz7cz-04dqWg)
+- [高端论坛|武汉大学张过教授：遥感+防疫](https://mp.weixin.qq.com/s/bsDncuXeeCwTauQ1KsfYpA)
+- [约翰·霍普金斯大学新冠在线课程免费发布，超1万人次参与学习](https://mp.weixin.qq.com/s/wXrHJN_YYEnjaaoNMtVTDw)
+- [Free online course features COVID-19 insights from Johns Hopkins experts](https://hub.jhu.edu/2020/04/20/free-online-covid-19-course/)
+- [NEJM主编携团队“云相约”中美一线抗疫专家，探讨新冠未来之路](https://mp.weixin.qq.com/s/8nPhdMKp4s7i9MPI5X5Esg)
+- [新冠病毒数据分析系列公益讲座](https://mp.weixin.qq.com/s/X6dtYfg3ZNDyHv6tZ4en-A)

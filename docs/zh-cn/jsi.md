@@ -15,3 +15,5 @@
 - [Infectious Diseases of Poverty: Containment and case management of COVID-19 pandemic](https://idpjournal.biomedcentral.com/cfp-containment-covid-19)
 - [Infectious Diseases of Poverty: Call for Submissions to a Thematic Series, Transmission patterns and control of COVID-19 epidemic](https://idpjournal.biomedcentral.com/call-for-papers)
 - [专刊征稿：人居环境健康、公共卫生与GIS](https://mp.weixin.qq.com/s/XvxPYs2ewSgajBJPgdSDrw)
+- [Bio-protocol发布COVID-19主题特刊，全球征集相关研究方法｜推广](https://mp.weixin.qq.com/s/Kpe-M30MZ2AhCO2bZBUoTA)
+- [“后疫情社区”故事征集](https://mp.weixin.qq.com/s/EznHDFC5T4htD7cf2GunsQ)
