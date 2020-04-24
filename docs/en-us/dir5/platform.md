@@ -88,3 +88,4 @@
 - [吴恩达的公司发布社交距离监控工具，疫情期间别靠太近！](https://mp.weixin.qq.com/s/lM_In4DCal8_csE4kNp2kw)
 - [疫情困人于屋中，AI赋能移动应用，助力咫尺间的生活与工作 | 智周报告核心版](https://mp.weixin.qq.com/s/NB6UMsSfx9KuZ3sagzpKlw)
 - [2012年火起来的科技圈宠儿，又被新冠带回来了](https://mp.weixin.qq.com/s/sbDb-zfDdLr0OjxaoVLLag)
+- [借助微软Healthcare Bot服务，国际卫生保健组织以机器人抗击新冠肺炎疫情](https://mp.weixin.qq.com/s/bSnmrpXfcte9IfZoRP4ZIQ)

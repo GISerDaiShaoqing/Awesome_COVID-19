@@ -249,3 +249,6 @@
 - [加快审稿 | 中国学者等连续发表11篇CNS文章，系统介绍新冠病毒致病的分子机制](https://mp.weixin.qq.com/s/YqaVBw6IAe1lrcqnJ_fp-w)
 - [Structure-based design of antiviral drug candidates targeting the SARS-CoV-2 main protease](https://science.sciencemag.org/content/early/2020/04/21/science.abb4489)
 - [为什么“新冠病毒人造论”站不住脚？这篇文章说清楚了](https://mp.weixin.qq.com/s/gxSz-cfbyztz-LGpfWcbCw)
+- [多组织遗传学分析表明SARS-CoV-2可能感染特定鼻细胞 |《自然-医学》论文](https://mp.weixin.qq.com/s/-aOwYFvylgy43RB4-PSX_w)
+- [SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes](https://www.nature.com/articles/s41591-020-0868-6)
+- [前沿 |《细胞》：新冠病毒突破人体防线的能力，真的太强了！](https://mp.weixin.qq.com/s/ktJZonLMFyUyUfWvc0IShg)

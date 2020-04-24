@@ -17,3 +17,5 @@
 - [专刊征稿：人居环境健康、公共卫生与GIS](https://mp.weixin.qq.com/s/XvxPYs2ewSgajBJPgdSDrw)
 - [Bio-protocol发布COVID-19主题特刊，全球征集相关研究方法｜推广](https://mp.weixin.qq.com/s/Kpe-M30MZ2AhCO2bZBUoTA)
 - [“后疫情社区”故事征集](https://mp.weixin.qq.com/s/EznHDFC5T4htD7cf2GunsQ)
+- [前沿专刊征稿 | 新冠肺炎对患精神疾病老人的影响](https://mp.weixin.qq.com/s/miJYOUEx_PHixM_QdWDgrA)
+- [Frontiers 12 本期刊联合发布 - 前沿专刊征稿 | 新冠病毒分子机制及其治疗方案研究](https://mp.weixin.qq.com/s/GSoYdJkDFBt_psb1Qsnbrw)

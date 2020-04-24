@@ -251,3 +251,6 @@
 - [大数据报告 | 北京复工复产空间特征分析](https://mp.weixin.qq.com/s/27imuuskttegz3aogXFFGA)
 - [COVID-19疫情下的规划再思考](https://mp.weixin.qq.com/s/z8zdbJ5PfJK70kn9fkIKBw)
 - [大数据报告 | 北京复工复产空间特征分析](https://mp.weixin.qq.com/s/McbF60APbitlZh7TPQEzkQ)
+- [国际资讯 | [荷]环境法立法/海牙禁止短租房(2020.4)](https://mp.weixin.qq.com/s/YEr-7NeJD2Zsa2_T2pfpmQ)
+- [抗疫战呼唤智慧防控，上海加快智慧城市建设](https://mp.weixin.qq.com/s/Tu2gH87CwKDYmhtAHAeWGQ)
+- [生态城模式塑造疫后中国城市未来](https://mp.weixin.qq.com/s/BVYSatULtyxHPPUJuoarQA)

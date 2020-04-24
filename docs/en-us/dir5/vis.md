@@ -145,3 +145,5 @@
 - [Dasymetric Map of COVID Cases in New York City](https://github.com/willgeary/covid-nyc-dasymetric-map)
 - [Create your own dashboard web app with free resources](https://github.com/Unicorndy/covid19_dashboard)
 - [An RShiny App for mapping nCoV2019 line list data ](https://github.com/Emergent-Epidemics/Emergent_Epidemics_Lab_nCoV2019)
+- [17岁小码农登上One World演唱会，开发疫情网站点击过10亿！比丁香医生还早20天](https://mp.weixin.qq.com/s/SN85aoLIa88uNULYfRrQ9A)
+- [nCoV2019live](https://ncov2019.live/)

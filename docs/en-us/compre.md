@@ -249,3 +249,8 @@
 - [How Data Science Is Being Used to Understand COVID-19](https://www.kdnuggets.com/2020/04/data-science-understand-covid-19.html)
 - [Connecting clusters of COVID-19: an epidemiological and serological investigation](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30273-5/fulltext)
 - [COVID-19 Epidemic Prevention - Data Science (COVID-19 Open Data)](https://github.com/Glacier-Ice/Covid-19-data-science)
+- [未知中的团结：COVID-19大流行促进风湿病学界合作](https://mp.weixin.qq.com/s/ie03l0_wLdvbsCA-8z4Rng)
+- [Unity amidst uncertainty: COVID-19 pandemic fosters collaboration in rheumatology community](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30082-5/fulltext)
+- [比尔 · 盖茨：1号大流行病将重新定义这个时代](https://mp.weixin.qq.com/s/mAgSuFxjfu_rXZCTOhPDYw)
+- [Medical students for health-care staff shortages during the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30923-5/fulltext)
+- [病毒政治化可休矣](https://mp.weixin.qq.com/s/280jKHaMnF1UYygabUn4iQ)

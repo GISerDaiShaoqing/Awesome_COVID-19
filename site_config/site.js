@@ -40,12 +40,12 @@ export default {
           link: '/en-us/docs/isle.html',
         },
         {
-          text: 'Comprehensive research',
-          link: '/en-us/docs/compre.html',
+          text: 'My blog',
+          link: 'http://gisersqdai.top/',
         },
         {
-          text: 'Journal',
-          link: '/en-us/docs/dir/journal.html',
+          text: 'Homepage',
+          link: 'http://gisersqdai.top/mycv/',
         },
       ],
     },
@@ -88,7 +88,7 @@ export default {
       },
     ],
     disclaimer: {
-      title: '免责声明',
+      title: '声明',
       content: '',
     },
     documentation: {
@@ -99,12 +99,12 @@ export default {
           link: '/zh-cn/docs/isle.html',
         },
         {
-          text: '综合性研究',
-          link: '/zh-cn/docs/compre.html',
+          text: '个人博客',
+          link: 'http://gisersqdai.top/',
         },
         {
-          text: '期刊资源',
-          link: '/zh-cn/docs/dir/journal.html',
+          text: '个人主页',
+          link: 'http://gisersqdai.top/mycv/',
         },
       ],
     },

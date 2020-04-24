@@ -182,3 +182,5 @@
 - [关于国际航班乘客入境中国检测出新冠肺炎的报道](https://mp.weixin.qq.com/s/P2NbavceJnsV_wGdwfBGZA)
 - [Importing coronavirus disease 2019 (COVID-19) into China after international air travel](https://www.sciencedirect.com/science/article/pii/S1477893920300880?via%3Dihub)
 - [GIS-based spatial modeling of COVID-19 incidence rate in the continental United States](https://www.sciencedirect.com/science/article/pii/S0048969720324013?via%3Dihub)
+- [德国科学家发现近80%新冠死亡病例，都在空气严重污染地区](https://mp.weixin.qq.com/s/PE0xCp4jPoZ_Plu0nDMUvA)
+- [Air pollution linked to raised Covid-19 death risk](https://www.bbc.com/news/health-52351290)

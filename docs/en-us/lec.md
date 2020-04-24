@@ -100,3 +100,6 @@
 - [Free online course features COVID-19 insights from Johns Hopkins experts](https://hub.jhu.edu/2020/04/20/free-online-covid-19-course/)
 - [NEJM主编携团队“云相约”中美一线抗疫专家，探讨新冠未来之路](https://mp.weixin.qq.com/s/8nPhdMKp4s7i9MPI5X5Esg)
 - [新冠病毒数据分析系列公益讲座](https://mp.weixin.qq.com/s/X6dtYfg3ZNDyHv6tZ4en-A)
+- [【直播预告】4月25日 一带“医”路 中外新冠疫情管理交流-第五期](https://mp.weixin.qq.com/s/Yvo5_3KuIV6QfBgoTb1spw)
+- [【直播实录】姜世勃：广谱抗冠疫苗和药物是战胜新冠疫情的终极武器](https://mp.weixin.qq.com/s/kPhyDRabLQenFrLcn2l_mQ)
+- [讲座预告 | 疫情之下的人文阅读与思考](https://mp.weixin.qq.com/s/_yw-pteBuFgnYonxEto_7Q)
