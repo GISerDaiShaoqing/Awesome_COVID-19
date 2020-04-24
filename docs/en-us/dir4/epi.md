@@ -184,3 +184,4 @@
 - [GIS-based spatial modeling of COVID-19 incidence rate in the continental United States](https://www.sciencedirect.com/science/article/pii/S0048969720324013?via%3Dihub)
 - [德国科学家发现近80%新冠死亡病例，都在空气严重污染地区](https://mp.weixin.qq.com/s/PE0xCp4jPoZ_Plu0nDMUvA)
 - [Air pollution linked to raised Covid-19 death risk](https://www.bbc.com/news/health-52351290)
+- [Bayesian SEIR model to estimate physical-distancing effects](https://github.com/seananderson/covidseir)

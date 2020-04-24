@@ -254,3 +254,5 @@
 - [比尔 · 盖茨：1号大流行病将重新定义这个时代](https://mp.weixin.qq.com/s/mAgSuFxjfu_rXZCTOhPDYw)
 - [Medical students for health-care staff shortages during the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30923-5/fulltext)
 - [病毒政治化可休矣](https://mp.weixin.qq.com/s/280jKHaMnF1UYygabUn4iQ)
+- [国际资讯|看COVID-19疫情期间Aeolus卫星如何助力天气预报](https://mp.weixin.qq.com/s/Jd1k1Zfj5TrX7R2c7D-uMQ)
+- [COVID-19: Aeolus and weather forecasts](https://www.esa.int/Applications/Observing_the_Earth/Aeolus/COVID-19_Aeolus_and_weather_forecasts)
