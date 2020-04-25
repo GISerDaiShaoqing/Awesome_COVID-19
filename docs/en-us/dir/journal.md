@@ -23,6 +23,7 @@
 - [Pure新型冠状病毒信息中心](https://covid19.elsevierpure.com/)
 - [Spring Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
 - [Springer Nature Experiments冠状病毒主题专属页面](https://mp.weixin.qq.com/s/hgqjvsu6am22QqsWeyfQfQ)
+- [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/?utm_source=hub0415&utm_medium=weibo&utm_campaign=chinaad)
 - [Springer Nature Experiments: coronavirus](https://experiments.springernature.com/search?term=coronavirus&submit=%E6%8F%90%E4%BA%A4)
 - [MedRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 - [CNKI](http://cajn.cnki.net/gzbd/brief/Default.aspx)

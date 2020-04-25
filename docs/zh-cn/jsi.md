@@ -19,3 +19,6 @@
 - [“后疫情社区”故事征集](https://mp.weixin.qq.com/s/EznHDFC5T4htD7cf2GunsQ)
 - [前沿专刊征稿 | 新冠肺炎对患精神疾病老人的影响](https://mp.weixin.qq.com/s/miJYOUEx_PHixM_QdWDgrA)
 - [Frontiers 12 本期刊联合发布 - 前沿专刊征稿 | 新冠病毒分子机制及其治疗方案研究](https://mp.weixin.qq.com/s/GSoYdJkDFBt_psb1Qsnbrw)
+- [【征稿】新型冠状病毒（COVID-19）对心理健康影响的研究 | Globalization and Health](https://mp.weixin.qq.com/s/u1Yf8kL-A0tuzPQH8cci2w)
+- [征稿启事 | 新冠疫情与商业](https://mp.weixin.qq.com/s/K86ui7Cr5t_Qg85QhL1gGQ)
+- [征稿 | JDM推出IS/IT Role in Emergency and Pandemic Management为主题的专刊](https://mp.weixin.qq.com/s/GH7-onO5ioWTdKTCLTpyKg)

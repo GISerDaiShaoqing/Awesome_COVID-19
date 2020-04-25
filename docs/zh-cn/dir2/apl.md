@@ -284,3 +284,7 @@
 - [前《科学》主编、前斯坦福校长唐纳德·肯尼迪因新冠辞世，曾在动荡时期领导《科学》前行](https://mp.weixin.qq.com/s/bdaIve3IRDXLOTe_TgUumQ)
 - [Donald Kennedy, who led Science through turbulent times, dies at 88](https://www.sciencemag.org/news/2020/04/donald-kennedy-who-led-science-through-turbulent-times-dies-88)
 - [COVID-19传播动力学的数学建模——以武汉市为例 | 网络科学论文速递7篇](https://mp.weixin.qq.com/s/550_mKxJUlNHeQwzSpCGKA)
+- [“COVID-19”科研动态监测每日快报（4月24日）【中国科讯】](https://mp.weixin.qq.com/s/9iFRoapCoW57IDHGX8OA5w)
+- [隔离或许还要提前：新冠病毒传染性在潜伏期就能达到峰值（Nature Medicine） | 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/ikwbFGERB9T6e-zALUbQOg)
+- [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/jcvoabURUPA2mErAfd2KEA)
+- [公园 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/oHAwDPP3iy-t3HRIIzMrWw)

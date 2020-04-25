@@ -252,3 +252,7 @@
 - [多组织遗传学分析表明SARS-CoV-2可能感染特定鼻细胞 |《自然-医学》论文](https://mp.weixin.qq.com/s/-aOwYFvylgy43RB4-PSX_w)
 - [SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes](https://www.nature.com/articles/s41591-020-0868-6)
 - [前沿 |《细胞》：新冠病毒突破人体防线的能力，真的太强了！](https://mp.weixin.qq.com/s/ktJZonLMFyUyUfWvc0IShg)
+- [病毒检测的那些事儿](https://mp.weixin.qq.com/s/FfgbY_YAErlMKbFvYG4oCg)
+- [Cell：不用疫苗也能预防新冠病毒！重组人ACE2蛋白可削弱新型冠状病毒的感染能力，幅度超千倍](https://mp.weixin.qq.com/s/V33rM1iMyygv9J514MMT1A)
+- [新进展 | 高福/施一首次解析了新冠病毒聚合酶核心复合物的结构](https://mp.weixin.qq.com/s/UmYX1NX6xcIB5hcAY37nsw)
+- [Structural and biochemical characterization of nsp12-nsp7-nsp8 core polymerase complex from COVID-19 virus](https://www.biorxiv.org/content/10.1101/2020.04.23.057265v1)

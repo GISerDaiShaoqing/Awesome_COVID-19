@@ -42,3 +42,4 @@
 - [Scripts to help pull & analyze Coronavirus data](https://github.com/jbarton311/coronavirus-analysis)
 - [Decentralized Privacy-Preserving Proximity Tracing -- Documents](https://github.com/DP-3T/documents)
 - [An interactive map of COVID-19 data with spatial analysis tools ](https://github.com/GeoDaCenter/covid-atlas)
+- [Knowledge Discovery for COVID19: Search the full text of CORD19 research papers on COVID 19](https://github.com/nmonath/kdcovid)

@@ -185,3 +185,5 @@
 - [德国科学家发现近80%新冠死亡病例，都在空气严重污染地区](https://mp.weixin.qq.com/s/PE0xCp4jPoZ_Plu0nDMUvA)
 - [Air pollution linked to raised Covid-19 death risk](https://www.bbc.com/news/health-52351290)
 - [Bayesian SEIR model to estimate physical-distancing effects](https://github.com/seananderson/covidseir)
+- [一养老院新冠阳性者56%检测时无症状，NEJM称无症状传播是抗疫致命弱点](https://mp.weixin.qq.com/s/aokWtTEdQCaY0T6sNNAolg)
+- [Asymptomatic Transmission, the Achilles’ Heel of Current Strategies to Control Covid-19](https://www.nejm.org/doi/10.1056/NEJMe2009758)

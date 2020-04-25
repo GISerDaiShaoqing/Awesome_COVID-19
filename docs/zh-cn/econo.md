@@ -254,3 +254,7 @@
 - [国际资讯 | [荷]环境法立法/海牙禁止短租房(2020.4)](https://mp.weixin.qq.com/s/YEr-7NeJD2Zsa2_T2pfpmQ)
 - [抗疫战呼唤智慧防控，上海加快智慧城市建设](https://mp.weixin.qq.com/s/Tu2gH87CwKDYmhtAHAeWGQ)
 - [生态城模式塑造疫后中国城市未来](https://mp.weixin.qq.com/s/BVYSatULtyxHPPUJuoarQA)
+- [【研究】数学家建模：疫情未过，但可划分“绿色小区”逐步重启经济](https://mp.weixin.qq.com/s/b0Mx2tLmKnZz1hwM2oT-Og)
+- [Milan announces ambitious scheme to reduce car use after lockdown](https://www.theguardian.com/world/2020/apr/21/milan-seeks-to-prevent-post-crisis-return-of-traffic-pollution)
+- [疫情下这些国家的贫民窟都怎么样了？](https://mp.weixin.qq.com/s/p_VCsqNt9QwN1yua0l_ZcA)
+- [408研究小组 | 疫情下社区防疫生活的调查结果](https://mp.weixin.qq.com/s/aqaNVW6hjUd96sfSn7ZZSA)
