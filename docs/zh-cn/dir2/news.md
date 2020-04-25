@@ -1146,3 +1146,6 @@
 - [新增确诊655例，荷兰对戴口罩态度松口？比利时政府给全国发“布口罩”！](https://mp.weixin.qq.com/s/O7cF4qnqrwAek_bd9EMOxg)
 - [叫停移民？利用疫情实现政治诉求， 川建国花式作妖！](https://mp.weixin.qq.com/s/YxXHjkMngZZC9WXYzsBY5A)
 - [新冠肺炎疫情中关于中国的16个谣言和真相](https://mp.weixin.qq.com/s/QWsFdE4wlJPYZClsInQrxA)
+- [特朗普说注射消毒剂可治新冠，企业警告，专家辟谣](https://mp.weixin.qq.com/s/V1UH4Xu9M-jgRWudDopVkw)
+- [荷兰今日新增确诊病例较昨日有近20%的降幅｜中国新冠疫苗研发加速推进｜WHO：无证据表明新冠康复者能避免二次感染](https://mp.weixin.qq.com/s/v_bUtcWzH5-ZAzx6Sa3deg)
+- [学校开放后，如果疫情因此扩大了怎么办？RIVM专家对话NOS：病毒快速复发的机会微乎其微](https://mp.weixin.qq.com/s/J-Y3zSiFFmbFT1fJOLvtFA)

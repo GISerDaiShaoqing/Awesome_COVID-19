@@ -147,3 +147,4 @@
 - [An RShiny App for mapping nCoV2019 line list data ](https://github.com/Emergent-Epidemics/Emergent_Epidemics_Lab_nCoV2019)
 - [17岁小码农登上One World演唱会，开发疫情网站点击过10亿！比丁香医生还早20天](https://mp.weixin.qq.com/s/SN85aoLIa88uNULYfRrQ9A)
 - [nCoV2019live](https://ncov2019.live/)
+- [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗) ](https://github.com/simonblowsnow/COVID-19-Visualization)
