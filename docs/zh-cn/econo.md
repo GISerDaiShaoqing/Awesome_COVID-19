@@ -258,3 +258,5 @@
 - [Milan announces ambitious scheme to reduce car use after lockdown](https://www.theguardian.com/world/2020/apr/21/milan-seeks-to-prevent-post-crisis-return-of-traffic-pollution)
 - [疫情下这些国家的贫民窟都怎么样了？](https://mp.weixin.qq.com/s/p_VCsqNt9QwN1yua0l_ZcA)
 - [408研究小组 | 疫情下社区防疫生活的调查结果](https://mp.weixin.qq.com/s/aqaNVW6hjUd96sfSn7ZZSA)
+- [【专家成果】范恒山：疫情对区域经济发展带来的主要影响](https://mp.weixin.qq.com/s/ZYvQ-ujlIKxnqS3-HAZuuw)
+- [【专家成果】张学良：减轻疫情影响需处理好四类关系——以长三角和长江经济带为例](https://mp.weixin.qq.com/s/tOyzABZVowvjg4EJNfSLBA)
