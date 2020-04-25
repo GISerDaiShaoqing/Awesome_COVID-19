@@ -67,10 +67,10 @@ export default {
     start: {
       title: 'COVID-19 Shiny app',
       desc: 'COVID-19疫情仪表盘',
-      img: '/img/quick_start.png',
+      img: '/img/dashboard.png',
       button: {
         text: '阅读更多',
-        link: '/zh-cn/docs/isle.html',
+        link: 'https://gisersqdai.shinyapps.io/COVID19VIS/',
       },
     },
     users: {
@@ -148,10 +148,10 @@ export default {
     start: {
       title: 'COVID-19 Shiny app',
       desc: 'The dashboard of COVID-19',
-      img: '/img/quick_start.png',
+      img: '/img/dashboard.png',
       button: {
         text: 'READ MORE',
-        link: '/en-us/docs/isle.html',
+        link: 'https://gisersqdai.shinyapps.io/COVID19VIS/',
       },
     },
     users: {

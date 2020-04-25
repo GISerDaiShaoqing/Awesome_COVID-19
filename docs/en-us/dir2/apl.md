@@ -288,3 +288,4 @@
 - [隔离或许还要提前：新冠病毒传染性在潜伏期就能达到峰值（Nature Medicine） | 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/ikwbFGERB9T6e-zALUbQOg)
 - [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/jcvoabURUPA2mErAfd2KEA)
 - [公园 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/oHAwDPP3iy-t3HRIIzMrWw)
+- [“COVID-19”科研动态监测每日快报（4月25日）【中国科讯】](https://mp.weixin.qq.com/s/p7KhLd_9q_jtcIBWnDKnUw)
