@@ -106,3 +106,4 @@
 - [ZOOM会议 | 国际中华传播学会（CCA）​团结论坛“新冠疫情研究的计算路径”](https://mp.weixin.qq.com/s/i0YBX52VwRZvH8b-sc5kyw)
 - [用自然语言处理对抗新冠病毒](https://www.slideshare.net/takahirokubo7792/ss-232619125)
 - [哈佛大学教授林希虹：武汉为全球新冠肺炎的公共卫生防疫提供了什么启迪](https://mp.weixin.qq.com/s/-9jx4XbhnjwvW1yHYOIA_Q)
+- [学术·预告 | “统计大讲堂”第一百一十六讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/UEkfSAQ8XPCcVPDZQrNVIQ)

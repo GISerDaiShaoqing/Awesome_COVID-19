@@ -1169,3 +1169,6 @@
 - [商务部：中国从未限制防疫物资出口](https://mp.weixin.qq.com/s/PpJjO4gsmkQzi51HDIWywA)
 - [美国首例死亡病例尸检报告公布，新冠肺炎引发心脏破裂](https://mp.weixin.qq.com/s/TJwYqw1KyBMk7rkMuziW8g)
 - [荷兰新增死亡66例，近一月最低！因疫情滞留？欧盟委员会：签发临时居留卡！](https://mp.weixin.qq.com/s/Tca1WpifnryG5iFoBQfjeg)
+- [今日新增病例655，新增死亡66，为本月最低死亡数据｜国王节云演奏《威廉颂》](https://mp.weixin.qq.com/s/AaZTwOJsn0DI14Fv6a11yA)
+- [北布拉邦水貂养殖场的动物感染新冠病毒](https://mp.weixin.qq.com/s/XN9KWeWm7RGKyfzIiyUuEw)
+- [联合利华称大封锁让个人卫生标准降低](https://mp.weixin.qq.com/s/NTnS0VxX8CAGVj41-kF92g)

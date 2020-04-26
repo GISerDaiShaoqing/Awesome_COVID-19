@@ -90,3 +90,4 @@
 - [2012年火起来的科技圈宠儿，又被新冠带回来了](https://mp.weixin.qq.com/s/sbDb-zfDdLr0OjxaoVLLag)
 - [借助微软Healthcare Bot服务，国际卫生保健组织以机器人抗击新冠肺炎疫情](https://mp.weixin.qq.com/s/bSnmrpXfcte9IfZoRP4ZIQ)
 - [国际视野| COVID-19疫情期间不可或缺的云技术](https://mp.weixin.qq.com/s/EjakC7pMloimH0xwX-VcIw)
+- [年少有为 武大90后测绘学子3天研发出疫情防控系统](https://mp.weixin.qq.com/s/wgqQ5U05LdScrOozSrheyQ)

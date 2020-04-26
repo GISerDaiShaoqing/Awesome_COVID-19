@@ -149,3 +149,5 @@
 - [nCoV2019live](https://ncov2019.live/)
 - [2019新型冠状病毒疫情可视化。COVID-2019(原NCOV)，武汉(WuHan)疫情、全国疫情地图及时间轴变化，各省市地图及疫情曲线。疫情数据分析系统，疫情小区可视化，COVID-2019 Data Visualization Analysis System (前端+后端+数据清洗) ](https://github.com/simonblowsnow/COVID-19-Visualization)
 - [日产500万人份，中国的新冠病毒检测试剂盒都去哪儿了？](https://mp.weixin.qq.com/s/ZrywVBbLhiv0foly0FmrpQ)
+- [国际资讯|中国使用卫星影像协助抗击疫情](https://mp.weixin.qq.com/s/9I31s4Bjl59OAaHEPiakLQ)
+- [China uses satellite imagery to fight COVID-19](https://www.geospatialworld.net/blogs/china-uses-satellite-imagery-to-fight-covid-19/)

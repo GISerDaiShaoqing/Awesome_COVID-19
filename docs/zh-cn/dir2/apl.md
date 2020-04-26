@@ -296,3 +296,4 @@
 - [瑞德西韦中国临床试验失败结果意外曝光，吉利德回应称该数据尚不代表结论| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/gJxiS5yl2E7pY4yO7o8EAg)
 - [新冠中陨落的学术群星](https://mp.weixin.qq.com/s/5tjzmi7rxuy5FWoovvXhjw)
 - [中药是安慰剂还是特效药？中医科学院院长问答抗疫](https://mp.weixin.qq.com/s/P2nKxbBHSVDLDtDQMG1w5A)
+- [吉利德科学宣布将在一周内公布首批新冠病毒研究数据](https://mp.weixin.qq.com/s/C-QfAR1_e5TSSBU2URrHMQ)
