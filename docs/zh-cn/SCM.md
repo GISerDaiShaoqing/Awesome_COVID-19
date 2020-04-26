@@ -32,5 +32,7 @@
 - [疫情与意象︱用意象地图描绘新冠疫情的隔离生活](https://mp.weixin.qq.com/s/_Wnl3DxnOIhbxfr4cK76_g)
 - [疫情之后︱应对新冠疫情危机: 基础设施与CBD商务区该怎么办？](https://mp.weixin.qq.com/s/xMJaV1fC7oBcPk8ncnXTJw)
 - [后疫情时代 | 意大利米兰宣布雄心勃勃的疫后复兴计划，封城结束后将减少小汽车的使用](https://mp.weixin.qq.com/s/b5VEmO2AHUQ2RLE7ropcfg)
+- [抗疫与城市︱新冠病毒是否会终止城市密度？](https://mp.weixin.qq.com/s/-CkxlVtTrj4gpVxzvxaBOA)
+- [抗疫与城市︱封锁下的城市如何仍能宜居--从更宽的人行道到更好的阳台，一位资深城市规划专家的建议](https://mp.weixin.qq.com/s/pfrXjIDZ-eTctVdeppkvoA)
 
 ![](/img/SCM.jpg)

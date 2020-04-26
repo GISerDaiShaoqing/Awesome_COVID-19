@@ -293,3 +293,6 @@
 - [银行 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/vxxNfrftAGIOALyKKhLh_Q)
 - [美国疾控中心流感指南：中小学如何做好防护及清洁](https://mp.weixin.qq.com/s/-7SKe3s7dvRhcpSdiufnGA)
 - [医生如何兼顾临床工作与科研|中日医院曹彬](https://mp.weixin.qq.com/s/9QMi-G4AFnBet6H3HTA39g)
+- [瑞德西韦中国临床试验失败结果意外曝光，吉利德回应称该数据尚不代表结论| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/gJxiS5yl2E7pY4yO7o8EAg)
+- [新冠中陨落的学术群星](https://mp.weixin.qq.com/s/5tjzmi7rxuy5FWoovvXhjw)
+- [中药是安慰剂还是特效药？中医科学院院长问答抗疫](https://mp.weixin.qq.com/s/P2nKxbBHSVDLDtDQMG1w5A)
