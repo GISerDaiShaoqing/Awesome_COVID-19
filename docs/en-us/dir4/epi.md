@@ -187,3 +187,7 @@
 - [Bayesian SEIR model to estimate physical-distancing effects](https://github.com/seananderson/covidseir)
 - [一养老院新冠阳性者56%检测时无症状，NEJM称无症状传播是抗疫致命弱点](https://mp.weixin.qq.com/s/aokWtTEdQCaY0T6sNNAolg)
 - [Asymptomatic Transmission, the Achilles’ Heel of Current Strategies to Control Covid-19](https://www.nejm.org/doi/10.1056/NEJMe2009758)
+- [【研究】纽约时报：3月1日纽约首例确诊，但当时实际感染人数已经过万](https://mp.weixin.qq.com/s/1_v6J6LkW9ByVtL_3T48KQ)
+- [Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say](https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html?smtyp=cur&smid=tw-nytimesscience)
+- [NEJM全文翻译|一个专业养老院内的症状前SARS-CoV-2感染以及传播](https://mp.weixin.qq.com/s/F7XHmGOsPCxwBEZ8upwJuw)
+- [Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457)

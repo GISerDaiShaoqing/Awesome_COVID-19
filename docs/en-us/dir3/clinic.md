@@ -328,3 +328,8 @@
 - [Neurosurgery in an infant with COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30927-2/fulltext)
 - [No SARS-CoV-2 detected in amniotic fluid in mid-pregnancy](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30320-0/fulltext)
 - [Practical recommendations for the management of diabetes in patients with COVID-19](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30152-2/fulltext)
+- [新研究：瑞德西韦小鼠实验中有生殖毒性，严重影响精子质量](https://mp.weixin.qq.com/s/vTBxTqAKlyRs004gbMcvxg)
+- [A preliminary study on the reproductive toxicity of GS-5734 on male mice](https://www.biorxiv.org/content/10.1101/2020.04.21.050104v1)
+- [新发现 | 新冠病毒更偏爱男性的潜在原因被揭示：肺表达更多及更高的ACE2](https://mp.weixin.qq.com/s/nAAGRhB_9y7ID4MIvTA9mA)
+- [Expression of ACE2, the SARS-CoV-2 receptor, and TMPRSS2 in prostate epithelial cells](https://www.biorxiv.org/content/10.1101/2020.04.24.056259v2)
+- [后遗症暴露？瑞德西韦小鼠实验被证有生殖毒性，严重影响精子质量](https://mp.weixin.qq.com/s/1ovQEMBdwWb5zckbDhJqNA)

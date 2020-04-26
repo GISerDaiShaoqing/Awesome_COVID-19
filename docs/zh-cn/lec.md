@@ -103,3 +103,5 @@
 - [【直播预告】4月25日 一带“医”路 中外新冠疫情管理交流-第五期](https://mp.weixin.qq.com/s/Yvo5_3KuIV6QfBgoTb1spw)
 - [【直播实录】姜世勃：广谱抗冠疫苗和药物是战胜新冠疫情的终极武器](https://mp.weixin.qq.com/s/kPhyDRabLQenFrLcn2l_mQ)
 - [讲座预告 | 疫情之下的人文阅读与思考](https://mp.weixin.qq.com/s/_yw-pteBuFgnYonxEto_7Q)
+- [ZOOM会议 | 国际中华传播学会（CCA）​团结论坛“新冠疫情研究的计算路径”](https://mp.weixin.qq.com/s/i0YBX52VwRZvH8b-sc5kyw)
+- [用自然语言处理对抗新冠病毒](https://www.slideshare.net/takahirokubo7792/ss-232619125)

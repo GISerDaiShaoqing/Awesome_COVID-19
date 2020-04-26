@@ -260,3 +260,4 @@
 - [408研究小组 | 疫情下社区防疫生活的调查结果](https://mp.weixin.qq.com/s/aqaNVW6hjUd96sfSn7ZZSA)
 - [【专家成果】范恒山：疫情对区域经济发展带来的主要影响](https://mp.weixin.qq.com/s/ZYvQ-ujlIKxnqS3-HAZuuw)
 - [【专家成果】张学良：减轻疫情影响需处理好四类关系——以长三角和长江经济带为例](https://mp.weixin.qq.com/s/tOyzABZVowvjg4EJNfSLBA)
+- [How COVID-19 will change the nation’s long-term economic trends, according to Brookings Metro scholars](https://www.brookings.edu/research/how-covid-19-will-change-the-nations-long-term-economic-trends-brookings-metro/)

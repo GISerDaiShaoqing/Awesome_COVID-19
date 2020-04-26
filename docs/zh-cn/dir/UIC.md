@@ -29,3 +29,4 @@
 - [Teralytics](https://www.teralytics.net/knowledge-hub/)
 - [University of Glasgow: Urban Impacts of COVID-19](https://www.ubdc.ac.uk/research/research-projects?topic=Urban+Impacts+of+COVID-19)
 - [ResearchGate: COVID-19 research community](https://www.researchgate.net/community/COVID-19)
+- [“以智能服务为中心的软件开发设计与实现”清华大学计算机课程作业“COVID-19疫情可视化”](https://isoa-2020.aminer.cn/)

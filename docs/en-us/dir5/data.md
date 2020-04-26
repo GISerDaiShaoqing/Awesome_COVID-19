@@ -123,3 +123,6 @@
 - [我从新冠数据里学到的四个数据科学基础知识](https://mp.weixin.qq.com/s/L2pPXl0GLwRWS1_hY-R7iw)
 - [Cleaned COVID-19 Data from JHU CSSE (R-Friendly)](https://github.com/Lucas-Czarnecki/COVID-19-CLEANED-JHUCSSE)
 - [nCoV-2019-Data](https://github.com/yiluheihei/nCoV-2019-Data)
+- [Rapidly Bootstrapping a Question Answering Dataset for COVID-19](https://arxiv.org/abs/2004.11339)
+- [NAIST COVID: Multilingual COVID-19 Twitter and Weibo Dataset](https://arxiv.org/abs/2004.08145)
+- [A Multilingual COVID-19 Twitter and Weibo Dataset](https://github.com/sociocom/covid19_dataset)

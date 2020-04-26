@@ -289,3 +289,7 @@
 - [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/jcvoabURUPA2mErAfd2KEA)
 - [公园 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/oHAwDPP3iy-t3HRIIzMrWw)
 - [“COVID-19”科研动态监测每日快报（4月25日）【中国科讯】](https://mp.weixin.qq.com/s/p7KhLd_9q_jtcIBWnDKnUw)
+- [华裔病毒学家：疫苗研发到了最难的“过草地”阶段](https://mp.weixin.qq.com/s/vpQJG0hYELIlm6MJZtTrCQ)
+- [银行 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/vxxNfrftAGIOALyKKhLh_Q)
+- [美国疾控中心流感指南：中小学如何做好防护及清洁](https://mp.weixin.qq.com/s/-7SKe3s7dvRhcpSdiufnGA)
+- [医生如何兼顾临床工作与科研|中日医院曹彬](https://mp.weixin.qq.com/s/9QMi-G4AFnBet6H3HTA39g)
