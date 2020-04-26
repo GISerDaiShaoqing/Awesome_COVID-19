@@ -1172,3 +1172,4 @@
 - [今日新增病例655，新增死亡66，为本月最低死亡数据｜国王节云演奏《威廉颂》](https://mp.weixin.qq.com/s/AaZTwOJsn0DI14Fv6a11yA)
 - [北布拉邦水貂养殖场的动物感染新冠病毒](https://mp.weixin.qq.com/s/XN9KWeWm7RGKyfzIiyUuEw)
 - [联合利华称大封锁让个人卫生标准降低](https://mp.weixin.qq.com/s/NTnS0VxX8CAGVj41-kF92g)
+- [荷兰疫情4月26日更新](https://mp.weixin.qq.com/s/SUh6MidDBlnc69Ox-ADS_Q)
