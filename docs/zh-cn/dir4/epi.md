@@ -191,3 +191,4 @@
 - [Hidden Outbreaks Spread Through U.S. Cities Far Earlier Than Americans Knew, Estimates Say](https://www.nytimes.com/2020/04/23/us/coronavirus-early-outbreaks-cities.html?smtyp=cur&smid=tw-nytimesscience)
 - [NEJM全文翻译|一个专业养老院内的症状前SARS-CoV-2感染以及传播](https://mp.weixin.qq.com/s/F7XHmGOsPCxwBEZ8upwJuw)
 - [Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457)
+- [Prediction of the COVID-19 spread in African countries and implications for prevention and controls: A case study in South Africa, Egypt, Algeria, Nigeria, Senegal and Kenya](https://www.sciencedirect.com/science/article/pii/S0048969720324761?via%3Dihub#!)
