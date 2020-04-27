@@ -297,3 +297,7 @@
 - [新冠中陨落的学术群星](https://mp.weixin.qq.com/s/5tjzmi7rxuy5FWoovvXhjw)
 - [中药是安慰剂还是特效药？中医科学院院长问答抗疫](https://mp.weixin.qq.com/s/P2nKxbBHSVDLDtDQMG1w5A)
 - [吉利德科学宣布将在一周内公布首批新冠病毒研究数据](https://mp.weixin.qq.com/s/C-QfAR1_e5TSSBU2URrHMQ)
+- [全球疫情会导致粮食危机吗](https://mp.weixin.qq.com/s/crgNtqKReRh_StH6XDRhyw)
+- [“COVID-19”科研动态监测每日快报（4月26日）【中国科讯】](https://mp.weixin.qq.com/s/Sk3S6HB8UTsa8kVOTHBY5A)
+- [物业管理中心 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/bG9an_pRLetBNoxEeCfjXQ)
+- [WHO警告：有抗体 ≠ 对新冠病毒免疫，不应用抗体检测指导复工｜科研圈日报](https://mp.weixin.qq.com/s/zjmcM_GE9mxNDk57Yj2pXw)

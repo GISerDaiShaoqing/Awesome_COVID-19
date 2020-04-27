@@ -24,6 +24,7 @@
 - [Spring Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
 - [Springer Nature Experiments冠状病毒主题专属页面](https://mp.weixin.qq.com/s/hgqjvsu6am22QqsWeyfQfQ)
 - [新冠最新临床及医学研究摘要 | Springer Nature 新型冠状病毒（SARS-CoV-2）资源中心](https://mp.weixin.qq.com/s/bM1EEcHd4wvarv01b32HmA)
+- [新冠临床及医学研究摘要 | Springer Nature 新型冠状病毒（SARS-CoV-2）资源中心](https://mp.weixin.qq.com/s/DA0-MU-e3pGqksz31g2F5A)
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/?utm_source=hub0415&utm_medium=weibo&utm_campaign=chinaad)
 - [Springer Nature Experiments: coronavirus](https://experiments.springernature.com/search?term=coronavirus&submit=%E6%8F%90%E4%BA%A4)
 - [MedRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)

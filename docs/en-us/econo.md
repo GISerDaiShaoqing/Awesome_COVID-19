@@ -261,3 +261,7 @@
 - [【专家成果】范恒山：疫情对区域经济发展带来的主要影响](https://mp.weixin.qq.com/s/ZYvQ-ujlIKxnqS3-HAZuuw)
 - [【专家成果】张学良：减轻疫情影响需处理好四类关系——以长三角和长江经济带为例](https://mp.weixin.qq.com/s/tOyzABZVowvjg4EJNfSLBA)
 - [How COVID-19 will change the nation’s long-term economic trends, according to Brookings Metro scholars](https://www.brookings.edu/research/how-covid-19-will-change-the-nations-long-term-economic-trends-brookings-metro/)
+- [国际资讯 | [英]新冠疫情下的工作者状态/英国临时许可开发权生效(2020.4)](https://mp.weixin.qq.com/s/ci62vOxObdnrKn170DBYyQ)
+- [【疫情思考】李继军 胡玉婷 | 基于公共健康的完整社区建设思考](https://mp.weixin.qq.com/s/1Fkjq9IYy4qlqU8V7BPL-Q)
+- [【疫情思考】谢波 王潇 | 新冠肺炎疫情下城市人口流动性的管控 ——基于大数据的舆情挖掘与防疫政策评估](https://mp.weixin.qq.com/s/teVKHKVco0hnotZ1f9wl1w)
+- [全球城市观察︱疫情下英国的一线岗位，少数族裔面临高风险](https://mp.weixin.qq.com/s/M5nR61njewQdy0svgD0q6A)

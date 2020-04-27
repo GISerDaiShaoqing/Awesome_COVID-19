@@ -151,3 +151,5 @@
 - [日产500万人份，中国的新冠病毒检测试剂盒都去哪儿了？](https://mp.weixin.qq.com/s/ZrywVBbLhiv0foly0FmrpQ)
 - [国际资讯|中国使用卫星影像协助抗击疫情](https://mp.weixin.qq.com/s/9I31s4Bjl59OAaHEPiakLQ)
 - [China uses satellite imagery to fight COVID-19](https://www.geospatialworld.net/blogs/china-uses-satellite-imagery-to-fight-covid-19/)
+- [一张基因组地图，暗示美国新冠肺炎的传播规律 #GoGlobal DataViz Week](https://mp.weixin.qq.com/s/seNlntj3GVNCNlLIdX_7gg)
+- [Mapbox 高级地图设计师「盘点」全球疫情地图，并揭示 7 个超好用的设计准则](https://mp.weixin.qq.com/s/dUk9UIt0qvDKQa-46jhGQA)
