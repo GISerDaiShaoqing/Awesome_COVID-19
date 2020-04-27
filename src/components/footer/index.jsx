@@ -21,6 +21,7 @@ class Footer extends React.Component {
           <div className="cols-container">
             <div className="col col-12">
               <h3>{dataSource.disclaimer.title}</h3>
+              <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=Z4hZu6_oRks5vYuoY36YJ7HoaRM6agOigWmWcili-tw&w=150"></script>
               <p>{dataSource.disclaimer.content}</p>
             </div>
             <div className="col col-6">
