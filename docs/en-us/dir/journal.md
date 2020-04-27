@@ -28,5 +28,7 @@
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/?utm_source=hub0415&utm_medium=weibo&utm_campaign=chinaad)
 - [Springer Nature Experiments: coronavirus](https://experiments.springernature.com/search?term=coronavirus&submit=%E6%8F%90%E4%BA%A4)
 - [MedRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
+- [预印本平台SSRN I COVID-19早期研究资源中心](https://mp.weixin.qq.com/s/YLe_8ultpE_OPTWCnDG8sA)
+- [SSRN’s Coronavirus and Infectious Disease Research page](https://www.ssrn.com/index.cfm/en/coronavirus/)
 - [CNKI](http://cajn.cnki.net/gzbd/brief/Default.aspx)
 - [超星·疫情防控公益知识库](http://lib-yq.museum.chaoxing.com/html/yqknowledge/)

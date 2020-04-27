@@ -273,3 +273,6 @@
 - [我的宝贝孩子从不下线：一边带“神兽”一边做科研的六个故事](https://mp.weixin.qq.com/s/bVCtuZ9EbSsvSJ1FE6rAEQ)
 - [Six ways to juggle science and childcare from home](https://www.nature.com/articles/d41586-020-01060-x)
 - [戴口罩背后的地域文化](https://mp.weixin.qq.com/s/rD--YVVdEbF0LydhFacjOw)
+- [CRISPR治疗策略，基因流行病学以及在美传播路径 | 新冠中心论文集锦](https://mp.weixin.qq.com/s/_IDuTW4nHIaJiE9T8NgprA)
+- [Development of CRISPR as an antiviral strategy to combat SARSCoV-2 and influenza](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00736.pdf)
+- [Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the United States](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00892.pdf)
