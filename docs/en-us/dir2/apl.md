@@ -301,3 +301,4 @@
 - [“COVID-19”科研动态监测每日快报（4月26日）【中国科讯】](https://mp.weixin.qq.com/s/Sk3S6HB8UTsa8kVOTHBY5A)
 - [物业管理中心 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/bG9an_pRLetBNoxEeCfjXQ)
 - [WHO警告：有抗体 ≠ 对新冠病毒免疫，不应用抗体检测指导复工｜科研圈日报](https://mp.weixin.qq.com/s/zjmcM_GE9mxNDk57Yj2pXw)
+- [手机位置数据揭示了社交距离对COVID-19流行病传播的影响和地理变化 | 网络科学论文速递15篇](https://mp.weixin.qq.com/s/b1LcV7hWz5CDGMD9QgR52A)
