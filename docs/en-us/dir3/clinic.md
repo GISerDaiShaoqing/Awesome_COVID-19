@@ -351,4 +351,4 @@
 - [围绕重症医学质控中心职能优势，提升重型新型冠状病毒肺炎患者救治效率](http://rs.yiigle.com/yufabiao/1190993.htm)
 - [专家论坛丨新型冠状病毒肺炎从普通型到重症型如何早期识别和应对——浅谈在金银潭医院的救治体会](https://mp.weixin.qq.com/s/wqwii4KxI5Flh92zyEw8_w)
 - [新型冠状病毒肺炎从普通型到重症型如何早期识别和应对——浅谈在金银潭医院的救治体会](http://rs.yiigle.com/yufabiao/1190560.htm)
-- [【直播预告】一带“医”路 中外新冠疫情管理交流-第六期](https://mp.weixin.qq.com/s/IHoUlpkZxp9edmPHurCuiQ)
+- [方舱庇护医院：应对公共卫生紧急状况的新理念](https://mp.weixin.qq.com/s/V2MYk5YocIcQr6dIOYus0Q)

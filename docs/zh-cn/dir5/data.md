@@ -126,3 +126,5 @@
 - [Rapidly Bootstrapping a Question Answering Dataset for COVID-19](https://arxiv.org/abs/2004.11339)
 - [NAIST COVID: Multilingual COVID-19 Twitter and Weibo Dataset](https://arxiv.org/abs/2004.08145)
 - [A Multilingual COVID-19 Twitter and Weibo Dataset](https://github.com/sociocom/covid19_dataset)
+- [独家 | 为你的数据科学项目提供有力支撑——3个寻找数据集的最佳网站](https://mp.weixin.qq.com/s/VPYd49ARhpoHVzn2k1kZJw)
+- [3 Best Sites to Find Datasets for your Data Science Projects](https://www.kdnuggets.com/2020/04/best-sites-datasets-data-science.html)

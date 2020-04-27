@@ -114,3 +114,4 @@
 - [【抗疫超声在线】4月27日：COVID-2019 ，掌超膈肌功能筛查](https://mp.weixin.qq.com/s/63QLsskrhjHUlnXZWKsj3A)
 - [直播预告 | 愛讀·领读人计划：西方历史上的疫情与应对【中国科讯】](https://mp.weixin.qq.com/s/xCalNflYlAO24Pj0jnwEjw)
 - [今晚7点 《疫线疾控人》尽锐出击！](https://mp.weixin.qq.com/s/fKL483xiGBiuvd-j7T1L2w)
+- [【直播预告】一带“医”路 中外新冠疫情管理交流-第六期](https://mp.weixin.qq.com/s/IHoUlpkZxp9edmPHurCuiQ)
