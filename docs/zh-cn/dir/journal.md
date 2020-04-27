@@ -30,5 +30,6 @@
 - [MedRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 - [预印本平台SSRN I COVID-19早期研究资源中心](https://mp.weixin.qq.com/s/YLe_8ultpE_OPTWCnDG8sA)
 - [SSRN’s Coronavirus and Infectious Disease Research page](https://www.ssrn.com/index.cfm/en/coronavirus/)
+- [Coronavirus Disease Research Community - COVID-19](https://zenodo.org/communities/covid-19/?page=1&size=20)
 - [CNKI](http://cajn.cnki.net/gzbd/brief/Default.aspx)
 - [超星·疫情防控公益知识库](http://lib-yq.museum.chaoxing.com/html/yqknowledge/)

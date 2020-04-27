@@ -256,3 +256,4 @@
 - [Cell：不用疫苗也能预防新冠病毒！重组人ACE2蛋白可削弱新型冠状病毒的感染能力，幅度超千倍](https://mp.weixin.qq.com/s/V33rM1iMyygv9J514MMT1A)
 - [新进展 | 高福/施一首次解析了新冠病毒聚合酶核心复合物的结构](https://mp.weixin.qq.com/s/UmYX1NX6xcIB5hcAY37nsw)
 - [Structural and biochemical characterization of nsp12-nsp7-nsp8 core polymerase complex from COVID-19 virus](https://www.biorxiv.org/content/10.1101/2020.04.23.057265v1)
+- [Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals](https://www.nature.com/articles/s41586-020-2271-3)
