@@ -271,3 +271,6 @@
 - [全网首发|【专题讨论1】直面新型冠状病毒肺炎疫情的城市规划反思](https://mp.weixin.qq.com/s/HxwVTQRQYoXJsmvTEbpw4Q)
 - [全网首发|【专题讨论2】突发公共卫生事件引发的城市发展思考与规划应对](https://mp.weixin.qq.com/s/-LwIBENed5BmIEk8o0T1GQ)
 - [全网首发|【专题讨论3】城市公共健康风险的复杂性认知与适应性规划响应](https://mp.weixin.qq.com/s/-9Y5asFi6v5GdHqJOfCVgg)
+- [沈南鹏三度蝉联「全球最佳创投人」，福布斯专访解读疫情下的中国科技行业新机遇](https://mp.weixin.qq.com/s/8BQPFjP76kmB3_-TQSuHtw)
+- [LALI|俞孔坚：我窗外的风景：关于covid-19的思考](https://mp.weixin.qq.com/s/hSL9DADHvzDA9qfS8dNTwQ)
+- [改变了世界格局的新冠结束后，中国面对的世界还会一样吗？](https://mp.weixin.qq.com/s/Gqf1YjdeaS8CTihAx_FoYg)

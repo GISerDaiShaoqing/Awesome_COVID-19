@@ -354,3 +354,5 @@
 - [方舱庇护医院：应对公共卫生紧急状况的新理念](https://mp.weixin.qq.com/s/V2MYk5YocIcQr6dIOYus0Q)
 - [西湖大学郑钜圣等发现：肠道菌群可能是健康人群易感新冠肺炎并发展为重症的重要因素](https://mp.weixin.qq.com/s/F23okZ270QhZVs5FcEaJgQ)
 - [Gut microbiota may underlie the predisposition of healthy individuals to COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.22.20076091v1)
+- [冠状病毒警报：英国专家调查儿童罕见综合症是否与新冠病毒有关](https://mp.weixin.qq.com/s/4EXnGl_KgXBOv2LISIkDcw)
+- [Coronavirus alert: Rare syndrome seen in UK children](https://www.bbc.com/news/health-52439005?from=groupmessage&isappinstalled=0)

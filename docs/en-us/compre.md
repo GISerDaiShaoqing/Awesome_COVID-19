@@ -279,3 +279,6 @@
 - [将预防和缓解家庭暴力纳入全球 COVID-19 预防和救援工作 | BMC Public Health](https://mp.weixin.qq.com/s/sY1gYcMuMMIJphBTRpOdzQ)
 - [疫情期间隔着网络，导师该怎么指导学生？](https://mp.weixin.qq.com/s/zQk8do-B-mosETOVuVoobg)
 - [Mentoring during the COVID-19 pandemic](https://www.nature.com/articles/d41586-020-01028-x)
+- [聚焦出版业&全球抗疫|中华医学会杂志社助力全球抗疫的有效尝试](https://mp.weixin.qq.com/s/TYOxGmbNvDw1hvgVxbI64g)
+- [COVID-19：一个关于在社区中佩戴口罩的讨论](https://mp.weixin.qq.com/s/9lSPNKO64OvTYMIjpv1-Qw)
+- [Wearing face masks in the community during the COVID-19 pandemic: altruism and solidarity](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30918-1/fulltext)

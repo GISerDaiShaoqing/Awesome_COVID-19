@@ -260,3 +260,6 @@
 - [什么是ADE效应？——好心可能办坏事！](https://mp.weixin.qq.com/s/mzzAfoWOkHNWFIWw7_rRSw)
 - [Nature | 武汉大学等多单位合作发现新冠病毒可能通过气溶胶传播，执行严格的消毒措施，可限制该途径的传播](https://mp.weixin.qq.com/s/dK6Av-8iaTeIcdl1hZ_uTg)
 - [在气溶胶中检测到SARS-CoV-2遗传物质 |《自然》论文](https://mp.weixin.qq.com/s/NWusRzWgwph9uz1OgQa8Lg)
+- [柳叶刀-微生物 | SARS-CoV-2在不同环境中的稳定性](https://mp.weixin.qq.com/s/ybRGKttC5tYO3F_nuRuF0A)
+- [Stability of SARS-COV-2 in different environmental conditions](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)
+- [《自然》关于新冠的最新发现](https://mp.weixin.qq.com/s/MvwB6Kp1F_mjlJoP5wdztA)
