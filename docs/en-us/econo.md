@@ -266,3 +266,4 @@
 - [【疫情思考】谢波 王潇 | 新冠肺炎疫情下城市人口流动性的管控 ——基于大数据的舆情挖掘与防疫政策评估](https://mp.weixin.qq.com/s/teVKHKVco0hnotZ1f9wl1w)
 - [全球城市观察︱疫情下英国的一线岗位，少数族裔面临高风险](https://mp.weixin.qq.com/s/M5nR61njewQdy0svgD0q6A)
 - [【编者絮语】石楠 | 学习](https://mp.weixin.qq.com/s/XngNeQvcabysfOgK7QkdbA)
+- [百度地图2020年Q1城市活力研究报告：全国总体迁徙规模较去年农历同期下降40%](https://mp.weixin.qq.com/s/r-fjPa1I8XYrzCC4nmROUA)
