@@ -302,3 +302,8 @@
 - [物业管理中心 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/bG9an_pRLetBNoxEeCfjXQ)
 - [WHO警告：有抗体 ≠ 对新冠病毒免疫，不应用抗体检测指导复工｜科研圈日报](https://mp.weixin.qq.com/s/zjmcM_GE9mxNDk57Yj2pXw)
 - [手机位置数据揭示了社交距离对COVID-19流行病传播的影响和地理变化 | 网络科学论文速递15篇](https://mp.weixin.qq.com/s/b1LcV7hWz5CDGMD9QgR52A)
+- [哪些人还在说“中国病毒”、“武汉肺炎”？他们都是怎么想的？| 领研网24小时热门论文](https://mp.weixin.qq.com/s/0CkUsRXQmWu0UcCipL7s3A)
+- [“COVID-19”科研动态监测每日快报（4月27日）【中国科讯】](https://mp.weixin.qq.com/s/UvXxz8c17kACwleTuTxD7w)
+- [餐厅（馆） 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/V2Hc2BLonJtTiothbtLGBw)
+- [“消失的苹果”| 千余人志愿参与“人体挑战”疫苗测试 | 2100年地球会有多热？ | 自然每周简报](https://mp.weixin.qq.com/s/e310viqS2c95RhWv2CHn7g)
+- [华中科大将获超100亿元投资，支持P3实验室等重大突发公共卫生事件相关项目 | 科研圈日报](https://mp.weixin.qq.com/s/aAdQ6hSgMAjV7sA-rJDiTg)

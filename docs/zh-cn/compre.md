@@ -276,3 +276,6 @@
 - [CRISPR治疗策略，基因流行病学以及在美传播路径 | 新冠中心论文集锦](https://mp.weixin.qq.com/s/_IDuTW4nHIaJiE9T8NgprA)
 - [Development of CRISPR as an antiviral strategy to combat SARSCoV-2 and influenza](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00736.pdf)
 - [Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the United States](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00892.pdf)
+- [将预防和缓解家庭暴力纳入全球 COVID-19 预防和救援工作 | BMC Public Health](https://mp.weixin.qq.com/s/sY1gYcMuMMIJphBTRpOdzQ)
+- [疫情期间隔着网络，导师该怎么指导学生？](https://mp.weixin.qq.com/s/zQk8do-B-mosETOVuVoobg)
+- [Mentoring during the COVID-19 pandemic](https://www.nature.com/articles/d41586-020-01028-x)

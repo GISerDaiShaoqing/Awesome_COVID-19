@@ -192,3 +192,7 @@
 - [NEJM全文翻译|一个专业养老院内的症状前SARS-CoV-2感染以及传播](https://mp.weixin.qq.com/s/F7XHmGOsPCxwBEZ8upwJuw)
 - [Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility](https://www.nejm.org/doi/full/10.1056/NEJMoa2008457)
 - [Prediction of the COVID-19 spread in African countries and implications for prevention and controls: A case study in South Africa, Egypt, Algeria, Nigeria, Senegal and Kenya](https://www.sciencedirect.com/science/article/pii/S0048969720324761?via%3Dihub#!)
+- [社会物理学 | 数学模型预测新冠肺炎趋势](https://mp.weixin.qq.com/s/eOIU6CntEanhxvAi6GxKDA)
+- [Forecasting COVID-19 代码](http://www.matjazperc.com/COVID-19)
+- [Forecasting COVID-19](https://www.frontiersin.org/articles/10.3389/fphy.2020.00127/full?utm_source=aricle0427&utm_medium=wechat&utm_campaign=chinaad)
+- [气温升高了，病毒会被遏制吗？全球专家最新观点来了](https://mp.weixin.qq.com/s/1uZB_iHFfyVDOA4vUeVxzA)

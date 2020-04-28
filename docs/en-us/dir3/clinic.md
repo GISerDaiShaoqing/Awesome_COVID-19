@@ -352,3 +352,5 @@
 - [专家论坛丨新型冠状病毒肺炎从普通型到重症型如何早期识别和应对——浅谈在金银潭医院的救治体会](https://mp.weixin.qq.com/s/wqwii4KxI5Flh92zyEw8_w)
 - [新型冠状病毒肺炎从普通型到重症型如何早期识别和应对——浅谈在金银潭医院的救治体会](http://rs.yiigle.com/yufabiao/1190560.htm)
 - [方舱庇护医院：应对公共卫生紧急状况的新理念](https://mp.weixin.qq.com/s/V2MYk5YocIcQr6dIOYus0Q)
+- [西湖大学郑钜圣等发现：肠道菌群可能是健康人群易感新冠肺炎并发展为重症的重要因素](https://mp.weixin.qq.com/s/F23okZ270QhZVs5FcEaJgQ)
+- [Gut microbiota may underlie the predisposition of healthy individuals to COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.22.20076091v1)

@@ -30,3 +30,5 @@
 - [University of Glasgow: Urban Impacts of COVID-19](https://www.ubdc.ac.uk/research/research-projects?topic=Urban+Impacts+of+COVID-19)
 - [ResearchGate: COVID-19 research community](https://www.researchgate.net/community/COVID-19)
 - [“以智能服务为中心的软件开发设计与实现”清华大学计算机课程作业“COVID-19疫情可视化”](https://isoa-2020.aminer.cn/)
+- [微软亚洲研究院推出新冠数据分析网站COVID Insights](https://mp.weixin.qq.com/s/4KglP1kRVgSrkMFc-L1_NA)
+- [Microsoft Research Asia COVID Insights](https://covid.msra.cn/)

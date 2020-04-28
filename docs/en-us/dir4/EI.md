@@ -43,3 +43,4 @@
 - [Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China](https://jamanetwork.com/journals/jama/fullarticle/2764658)
 - [R tools for monitoring effectiveness of COVID-19 control efforts](https://github.com/CBDRH/covidrecon)
 - [COEXI(S)T - Modelling COVID-19 exit strategies for policy makers in the United Kingdom](https://github.com/gbohner/coexist)
+- [Code for estimating social distances from RGB cameras](https://github.com/IIT-PAVIS/Social-Distancing)

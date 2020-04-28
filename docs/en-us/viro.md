@@ -257,3 +257,6 @@
 - [新进展 | 高福/施一首次解析了新冠病毒聚合酶核心复合物的结构](https://mp.weixin.qq.com/s/UmYX1NX6xcIB5hcAY37nsw)
 - [Structural and biochemical characterization of nsp12-nsp7-nsp8 core polymerase complex from COVID-19 virus](https://www.biorxiv.org/content/10.1101/2020.04.23.057265v1)
 - [Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals](https://www.nature.com/articles/s41586-020-2271-3)
+- [什么是ADE效应？——好心可能办坏事！](https://mp.weixin.qq.com/s/mzzAfoWOkHNWFIWw7_rRSw)
+- [Nature | 武汉大学等多单位合作发现新冠病毒可能通过气溶胶传播，执行严格的消毒措施，可限制该途径的传播](https://mp.weixin.qq.com/s/dK6Av-8iaTeIcdl1hZ_uTg)
+- [在气溶胶中检测到SARS-CoV-2遗传物质 |《自然》论文](https://mp.weixin.qq.com/s/NWusRzWgwph9uz1OgQa8Lg)

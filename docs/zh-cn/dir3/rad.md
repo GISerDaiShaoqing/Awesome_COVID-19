@@ -35,3 +35,4 @@
 - [Cell重磅 | 开拓新领域，中国多单位合作，张康发现用AI系统能提前识别出潜在的新冠肺炎重症患者，对于减少死亡率有重大临床意义](https://mp.weixin.qq.com/s/mQ5FSEaxWbmxNcsvfLgpcw)
 - [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00656.pdf)
 - [Deep Learning for Screening COVID-19 using Chest X-Ray Images](https://www.arxiv-vanity.com/papers/2004.10507/)
+- [MedicalZooPytorch: A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation](https://github.com/black0017/MedicalZooPytorch)

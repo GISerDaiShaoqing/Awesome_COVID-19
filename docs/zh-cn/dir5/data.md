@@ -128,3 +128,6 @@
 - [A Multilingual COVID-19 Twitter and Weibo Dataset](https://github.com/sociocom/covid19_dataset)
 - [独家 | 为你的数据科学项目提供有力支撑——3个寻找数据集的最佳网站](https://mp.weixin.qq.com/s/VPYd49ARhpoHVzn2k1kZJw)
 - [3 Best Sites to Find Datasets for your Data Science Projects](https://www.kdnuggets.com/2020/04/best-sites-datasets-data-science.html)
+- [有史以来最直观！全球上百个新冠数据集各显神通，让你我都成为“半个流行病学家”](https://mp.weixin.qq.com/s/Suc_VghYs05AU8_AMi7VDA)
+- [【数据】医疗产品出口：德国、美国领先，中国第7（但口罩第1）](https://mp.weixin.qq.com/s/HHaepvzLhw131U-simbp5w)
+- [TRADE IN MEDICAL GOODS IN THE CONTEXT OF TACKLING COVID-19](https://www.wto.org/english/news_e/news20_e/rese_03apr20_e.pdf)
