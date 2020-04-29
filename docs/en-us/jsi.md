@@ -22,3 +22,4 @@
 - [【征稿】新型冠状病毒（COVID-19）对心理健康影响的研究 | Globalization and Health](https://mp.weixin.qq.com/s/u1Yf8kL-A0tuzPQH8cci2w)
 - [征稿启事 | 新冠疫情与商业](https://mp.weixin.qq.com/s/K86ui7Cr5t_Qg85QhL1gGQ)
 - [征稿 | JDM推出IS/IT Role in Emergency and Pandemic Management为主题的专刊](https://mp.weixin.qq.com/s/GH7-onO5ioWTdKTCLTpyKg)
+- [Special Issue on "COVID-19 impacts on Energy and Environment"](https://www.journals.elsevier.com/applied-energy/call-for-papers/special-issue-on-covid-19-impacts-on-energy-and-environment)

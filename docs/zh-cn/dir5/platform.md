@@ -92,3 +92,4 @@
 - [国际视野| COVID-19疫情期间不可或缺的云技术](https://mp.weixin.qq.com/s/EjakC7pMloimH0xwX-VcIw)
 - [年少有为 武大90后测绘学子3天研发出疫情防控系统](https://mp.weixin.qq.com/s/wgqQ5U05LdScrOozSrheyQ)
 - [【技术贴】中国“健康码”和美国“接触追踪”是如何追踪信息的？丨城市数据派](https://mp.weixin.qq.com/s/Kcrfac7WKxeMucp_lpUlYw)
+- [谷歌AI“翻车”泰国！眼疾检测实验室准确率达90%，小诊所传张照片就得等两小时](https://mp.weixin.qq.com/s/uH-znoQopvvLh-qRJ5IaeA)

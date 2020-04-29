@@ -116,3 +116,4 @@
 - [今晚7点 《疫线疾控人》尽锐出击！](https://mp.weixin.qq.com/s/fKL483xiGBiuvd-j7T1L2w)
 - [【直播预告】一带“医”路 中外新冠疫情管理交流-第六期](https://mp.weixin.qq.com/s/IHoUlpkZxp9edmPHurCuiQ)
 - [2020 霍普金斯沙龙 VI: 新冠药物最新进展](https://mp.weixin.qq.com/s/2CQv_aZg7Na1sgO03P3u8A)
+- [今日直播丨疫情后的增长策略要这样制定](https://mp.weixin.qq.com/s/kEVlxT5QfjJhQm_vyZfA9w)

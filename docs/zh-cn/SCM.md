@@ -34,5 +34,6 @@
 - [后疫情时代 | 意大利米兰宣布雄心勃勃的疫后复兴计划，封城结束后将减少小汽车的使用](https://mp.weixin.qq.com/s/b5VEmO2AHUQ2RLE7ropcfg)
 - [抗疫与城市︱新冠病毒是否会终止城市密度？](https://mp.weixin.qq.com/s/-CkxlVtTrj4gpVxzvxaBOA)
 - [抗疫与城市︱封锁下的城市如何仍能宜居--从更宽的人行道到更好的阳台，一位资深城市规划专家的建议](https://mp.weixin.qq.com/s/pfrXjIDZ-eTctVdeppkvoA)
+- [抗疫与城市︱新冠疫情下的韧性社区规划](https://mp.weixin.qq.com/s/bCsuY0LiitAzxXrf2AfOIQ)
 
 ![](/img/SCM.jpg)

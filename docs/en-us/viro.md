@@ -263,3 +263,7 @@
 - [柳叶刀-微生物 | SARS-CoV-2在不同环境中的稳定性](https://mp.weixin.qq.com/s/ybRGKttC5tYO3F_nuRuF0A)
 - [Stability of SARS-COV-2 in different environmental conditions](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext)
 - [《自然》关于新冠的最新发现](https://mp.weixin.qq.com/s/MvwB6Kp1F_mjlJoP5wdztA)
+- [重大突破 | 复阳的原因被发现！卞修武/平轶方/刘新东首次发现新冠患者复阳的潜在机制：新冠病毒都隐藏在了肺中](https://mp.weixin.qq.com/s/X7b9-nD2Tj80h41dOvXVhA)
+- [Pathological evidence for residual SARS-CoV-2 in pulmonary tissues of a ready-for-discharge patient](https://www.nature.com/articles/s41422-020-0318-5)
+- [新冠肺炎研究：COVID-19与吸烟的关系：尼古丁是隐藏的关连点吗？](https://mp.weixin.qq.com/s/d4X1ZwQB4XWuVd2qYoWY1w)
+- [COVID-19 and Smoking. Is Nicotine the Hidden Link?](https://doi.org/10.1183/13993003.01116-2020)
