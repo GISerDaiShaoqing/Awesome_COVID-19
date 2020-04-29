@@ -132,3 +132,4 @@
 - [【数据】医疗产品出口：德国、美国领先，中国第7（但口罩第1）](https://mp.weixin.qq.com/s/HHaepvzLhw131U-simbp5w)
 - [TRADE IN MEDICAL GOODS IN THE CONTEXT OF TACKLING COVID-19](https://www.wto.org/english/news_e/news20_e/rese_03apr20_e.pdf)
 - [国家地球系统科学数据中心发布新冠疫情专题分析报告100期](https://mp.weixin.qq.com/s/1KniQyPMq6nXerOuHSTemA)
+- [R package for the COVID Tracking Project API providing US COVID-19 data](https://github.com/aedobbyn/covid19us)
