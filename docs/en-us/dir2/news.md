@@ -1252,3 +1252,4 @@
 - [抗疫期间顶风公款聚餐，17人为什么去吃这顿饭](https://mp.weixin.qq.com/s/9NQwuGZW8AbVhXYvgkb03g)
 - [法国口罩短缺，但已公布“解封”方案](https://mp.weixin.qq.com/s/wacFvIiUagZCYd_vXLJ8aw)
 - [“双清零”！​截至目前，厦门17例境外输入新冠肺炎患者全部治愈出院](https://mp.weixin.qq.com/s/wBLtzWv8L4UAICDaqaXSvw)
+- [志愿者抗疫记｜从意大利回武汉，她成了社区“食物猎人”](https://mp.weixin.qq.com/s/wAhAeuu2YGUKUSYvavR39g)

@@ -294,3 +294,5 @@
 - [THE FOLDING@HOME CONSORTIUM](https://foldingathome.org/about/the-foldinghome-consortium/)
 - [柳叶刀-艾滋病 | COVID-19应对可从HIV大流行吸取的三点教训](https://mp.weixin.qq.com/s/EXYKdoL2dz-S1coCAAefVQ)
 - [Three lessons for the COVID-19 response from pandemic HIV](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30110-7/fulltext)
+- [盖茨：人类应如何应对“后新冠生活”？](https://www.weibo.com/ttarticle/p/show?id=2309404498746904805505)
+- [《科学》发声｜反对疫情期间的“例外主义”，拒绝低质量研究](https://mp.weixin.qq.com/s/PYrUFUGDz3QkhM3rwDdagA)
