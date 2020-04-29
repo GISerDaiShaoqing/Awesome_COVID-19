@@ -313,3 +313,5 @@
 - [哈佛教授：封城第二天武汉即迎来转折点](https://mp.weixin.qq.com/s/o4oGIluLMzl0GKsNv8mVVA)
 - [4 月 28 日全国报告新增确诊病例 22 例 ｜科研圈日报](https://mp.weixin.qq.com/s/kl-OqkQ-RYi_23lxO-ENsA)
 - [口罩之争？这不“科学”](https://mp.weixin.qq.com/s/-rHWvqZxUBIxoC0oHsDbxw)
+- [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/5w-FoSobIa0-DDKXGVl9Qg)
+- [COVID-19大流行而导致的全球CO2排放量减少 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/KACTbj10_4MKbVqWUuUs4g)

@@ -197,3 +197,4 @@
 - [Forecasting COVID-19](https://www.frontiersin.org/articles/10.3389/fphy.2020.00127/full?utm_source=aricle0427&utm_medium=wechat&utm_campaign=chinaad)
 - [气温升高了，病毒会被遏制吗？全球专家最新观点来了](https://mp.weixin.qq.com/s/1uZB_iHFfyVDOA4vUeVxzA)
 - [covid19monitoring_mobility_ZaehlstellenMIVLVVelo](https://github.com/statistikZH/covid19monitoring_mobility_ZaehlstellenMIVLVVelo)
+- [Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic](https://arxiv.org/abs/2004.11430)

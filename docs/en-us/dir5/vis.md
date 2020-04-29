@@ -155,3 +155,4 @@
 - [Mapbox 高级地图设计师「盘点」全球疫情地图，并揭示 7 个超好用的设计准则](https://mp.weixin.qq.com/s/dUk9UIt0qvDKQa-46jhGQA)
 - [数百万人滞留海外，他们的回家之路还有多远？](https://mp.weixin.qq.com/s/8tEto4vPLzAnEmujp55nKA)
 - [【发现】Facebook与卡内基梅隆大学合作发布首张新冠肺炎症状地图](https://mp.weixin.qq.com/s/l4OxXXTtPUkjthW0Awl59w)
+- [Plots and analysis relating to the pandemic](https://github.com/VictimOfMaths/COVID-19)

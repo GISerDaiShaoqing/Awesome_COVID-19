@@ -12,3 +12,4 @@
 - [AI战疫，微软吹响校园集结号！](https://mp.weixin.qq.com/s/lj0yk2krzvK5Xs0I_tn2LQ)
 - [新冠肺炎时期的“窗外景观” | 艺术竞赛预告](https://mp.weixin.qq.com/s/yPUhxdDQEsyN1Eb1gYCFYQ)
 - [风雨砥砺 未来可期 | 第四届“城垣杯·规划决策支持模型设计大赛”正式开启](https://mp.weixin.qq.com/s/VzQK_kcMOBokNvPZsO9v2A)
+- [赛事推荐：深圳开放数据应用创新大赛开启，计算社会科学研究再放异彩](https://mp.weixin.qq.com/s/3L2khPvKmumKHSEkzVVHmw)

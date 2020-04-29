@@ -1253,3 +1253,6 @@
 - [法国口罩短缺，但已公布“解封”方案](https://mp.weixin.qq.com/s/wacFvIiUagZCYd_vXLJ8aw)
 - [“双清零”！​截至目前，厦门17例境外输入新冠肺炎患者全部治愈出院](https://mp.weixin.qq.com/s/wBLtzWv8L4UAICDaqaXSvw)
 - [志愿者抗疫记｜从意大利回武汉，她成了社区“食物猎人”](https://mp.weixin.qq.com/s/wAhAeuu2YGUKUSYvavR39g)
+- [中国疾控中心援鄂战疫前线青年突击队荣获2020年“全国向上向善好青年群体”](https://mp.weixin.qq.com/s/bpTiI0OGyazTs2W2BqYuog)
+- [确诊超300万，疫情之下，这些国家都经历了什么？](https://mp.weixin.qq.com/s/IBxPVRTH2P2_RikcKSKeQQ)
+- [北京将重大突发公共卫生事件应急响应下调为二级响应](https://mp.weixin.qq.com/s/PyW_WDrxGkwvgbdvpdCuLA)

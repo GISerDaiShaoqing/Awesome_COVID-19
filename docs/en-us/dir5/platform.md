@@ -93,3 +93,4 @@
 - [年少有为 武大90后测绘学子3天研发出疫情防控系统](https://mp.weixin.qq.com/s/wgqQ5U05LdScrOozSrheyQ)
 - [【技术贴】中国“健康码”和美国“接触追踪”是如何追踪信息的？丨城市数据派](https://mp.weixin.qq.com/s/Kcrfac7WKxeMucp_lpUlYw)
 - [谷歌AI“翻车”泰国！眼疾检测实验室准确率达90%，小诊所传张照片就得等两小时](https://mp.weixin.qq.com/s/uH-znoQopvvLh-qRJ5IaeA)
+- [防疫资讯 | 3分钟内完成疑似 症状的风险自评，这款在线应用你值得拥有！](https://mp.weixin.qq.com/s/AlA4cDxJPiInLgDeiJ-l3A)

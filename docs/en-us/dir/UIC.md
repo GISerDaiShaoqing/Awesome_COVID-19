@@ -32,3 +32,4 @@
 - [“以智能服务为中心的软件开发设计与实现”清华大学计算机课程作业“COVID-19疫情可视化”](https://isoa-2020.aminer.cn/)
 - [微软亚洲研究院推出新冠数据分析网站COVID Insights](https://mp.weixin.qq.com/s/4KglP1kRVgSrkMFc-L1_NA)
 - [Microsoft Research Asia COVID Insights](https://covid.msra.cn/)
+- [国家地球系统科学数据中心: 新型冠状病毒肺炎疫情主题库](http://www.geodata.cn/sari2020/web/index.html)
