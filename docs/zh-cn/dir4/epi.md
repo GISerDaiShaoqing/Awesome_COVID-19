@@ -198,3 +198,6 @@
 - [气温升高了，病毒会被遏制吗？全球专家最新观点来了](https://mp.weixin.qq.com/s/1uZB_iHFfyVDOA4vUeVxzA)
 - [covid19monitoring_mobility_ZaehlstellenMIVLVVelo](https://github.com/statistikZH/covid19monitoring_mobility_ZaehlstellenMIVLVVelo)
 - [Mobile phone location data reveal the effect and geographic variation of social distancing on the spread of the COVID-19 epidemic](https://arxiv.org/abs/2004.11430)
+- [中国学者连发2篇Nature/Science | 余宏杰等团队发现儿童感染率最低，社会隔离措施控制了新冠肺炎大规模爆发](https://mp.weixin.qq.com/s/_1xXCD4IClRvXTinRxwbgA)
+- [Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China](https://science.sciencemag.org/content/early/2020/04/28/science.abb8001)
+- [Population flow drives spatio-temporal distribution of COVID-19 in China](https://www.nature.com/articles/s41586-020-2284-y)

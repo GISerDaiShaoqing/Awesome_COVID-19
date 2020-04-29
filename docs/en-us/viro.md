@@ -267,3 +267,5 @@
 - [Pathological evidence for residual SARS-CoV-2 in pulmonary tissues of a ready-for-discharge patient](https://www.nature.com/articles/s41422-020-0318-5)
 - [新冠肺炎研究：COVID-19与吸烟的关系：尼古丁是隐藏的关连点吗？](https://mp.weixin.qq.com/s/d4X1ZwQB4XWuVd2qYoWY1w)
 - [COVID-19 and Smoking. Is Nicotine the Hidden Link?](https://doi.org/10.1183/13993003.01116-2020)
+- [冠状病毒是空气传播的吗？专家并不同意](https://mp.weixin.qq.com/s/LL0W4QFIq6qCWvHnQClh1g)
+- [Is the coronavirus airborne? Experts can’t agree](https://www.nature.com/articles/d41586-020-00974-w)

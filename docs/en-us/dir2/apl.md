@@ -315,3 +315,4 @@
 - [口罩之争？这不“科学”](https://mp.weixin.qq.com/s/-rHWvqZxUBIxoC0oHsDbxw)
 - [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/5w-FoSobIa0-DDKXGVl9Qg)
 - [COVID-19大流行而导致的全球CO2排放量减少 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/KACTbj10_4MKbVqWUuUs4g)
+- [快讯！“人民希望”3期临床结果公布，吉利德公司股价大涨！](https://mp.weixin.qq.com/s/2R4wAAYP3lptRncLdkx5tw)

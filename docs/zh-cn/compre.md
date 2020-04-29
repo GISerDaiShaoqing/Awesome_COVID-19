@@ -296,3 +296,6 @@
 - [Three lessons for the COVID-19 response from pandemic HIV](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30110-7/fulltext)
 - [盖茨：人类应如何应对“后新冠生活”？](https://www.weibo.com/ttarticle/p/show?id=2309404498746904805505)
 - [《科学》发声｜反对疫情期间的“例外主义”，拒绝低质量研究](https://mp.weixin.qq.com/s/PYrUFUGDz3QkhM3rwDdagA)
+- [宅家一个月动物就进城了，宅个5000万年会发生什么？](https://mp.weixin.qq.com/s/ooM18KbtawYKTKDQ4oFqTw)
+- [国际资讯|NASA在对抗COVID-19方面的创新专业知识贡献](https://mp.weixin.qq.com/s/3qBkdxMbclBktJwKooKFSQ)
+- [NASA contributes expertise, ingenuity in fight against COVID-19](https://www.geospatialworld.net/news/nasa-contributes-expertise-ingenuity-in-fight-against-covid-19/)
