@@ -47,3 +47,4 @@
 - [使用Python，Google Sheets和Google Finance分析新冠病毒对股市的影响](https://mp.weixin.qq.com/s/qKCOJVKUiC8IqQCvF_78CA)
 - [Analyzing the Impact of Coronavirus on the Stock Market using Python, Google Sheets and Google Finance](http://adilmoujahid.com/posts/2020/04/stocks-analysis-covid19-coronavirus-python/)
 - [新冠疫情相似句对判定大赛 线上第一名方案](https://github.com/zzy99/epidemic-sentence-pair)
+- [Estimating Low Income Job loss due to COVID-19](https://github.com/UrbanInstitute/covid-neighborhood-job-analysis)
