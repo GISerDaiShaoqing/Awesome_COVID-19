@@ -7,6 +7,13 @@ export default {
       title: 'Events & News',
       list: [
         {
+          img: 'https://ars.els-cdn.com/content/image/1-s2.0-S0033062020300840-gr1.jpg',
+          title: 'Towards precision management of cardiovascular patients with COVID-19 to reduce mortality',
+          content: ' We suggest, therefore, considering the epidemiological information of patients (e.g., birthplace and residential history) when implementing precision management of CVD patients with COVID-19, to enhance mortality risk reduction.',
+          dateStr: 'April 30th，2020',
+          link: '/en-us/blog/blog4.html',
+        },
+        {
           img: '/img/Nature.png',
           title: 'Are we ready for a new era of high-impact and high-frequency epidemics?',
           content: ' We reported our work about COVID-19 during the past four months in the Nature and was titled as "Outpace epidemic transitional phases".',

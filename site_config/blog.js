@@ -4,6 +4,13 @@ export default {
     postsTitle: 'All posts',
     list: [
       {
+        title: 'Towards precision management of cardiovascular patients with COVID-19 to reduce mortality',
+        author: 'Kehua Zhou, Shujuan Yang, Peng Jia',
+        dateStr: 'April 30th，2020',
+        desc: ' We suggest, therefore, considering the epidemiological information of patients (e.g., birthplace and residential history) when implementing precision management of CVD patients with COVID-19, to enhance mortality risk reduction.',
+        link: '/en-us/blog/blog4.html',
+      },
+      {
         title: 'Are we ready for a new era of high-impact and high-frequency epidemics?',
         author: 'Peng Jia, Shujuan Yang',
         dateStr: 'April 14th，2020',
