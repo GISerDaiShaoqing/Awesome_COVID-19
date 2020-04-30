@@ -201,3 +201,7 @@
 - [中国学者连发2篇Nature/Science | 余宏杰等团队发现儿童感染率最低，社会隔离措施控制了新冠肺炎大规模爆发](https://mp.weixin.qq.com/s/_1xXCD4IClRvXTinRxwbgA)
 - [Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China](https://science.sciencemag.org/content/early/2020/04/28/science.abb8001)
 - [Population flow drives spatio-temporal distribution of COVID-19 in China](https://www.nature.com/articles/s41586-020-2284-y)
+- [公共卫生 | 男性新冠患者死亡率可达女性的2.5倍](https://mp.weixin.qq.com/s/e3db_DydWROpsdIojk5NfQ)
+- [Gender Differences in Patients With COVID-19: Focus on Severity and Mortality](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00152/full?utm_source=aricle0429&utm_medium=wechat&utm_campaign=chinaad)
+- [利用手机数据预测中国的COVID-19传播 |《自然》论文](https://mp.weixin.qq.com/s/xK6NkOsnBW4Q6sJJJ1MAcw)
+- [Variational-LSTM Autoencoder to forecast the spread of coronavirus across the globe](https://www.medrxiv.org/content/10.1101/2020.04.20.20070938v1)
