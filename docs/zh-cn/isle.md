@@ -5,5 +5,6 @@
 - [‘My main advice: work from home’](https://www.utoday.nl/news/68032/my-main-advice-work-from-home)
 - [屯特大学空间流行病学专家贾鹏教授就荷兰防疫措施在校园媒体发声](https://mp.weixin.qq.com/s/GqcQgxAiAATI2SlzV7uFgg)
 - [新闻快讯 | “走在疫情的前面”](https://mp.weixin.qq.com/s/9HTDYsIyRFEqcdl6BPzGkw)
+- [科研成果|新冠肺炎的精准医学：降低心血管疾病患者的死亡率](https://mp.weixin.qq.com/s/5cqXGPW2NFt6hLjZ-KLj_g)
 
 ![](/img/ISLEwechat.jpg)
