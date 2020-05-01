@@ -50,3 +50,4 @@
 - [Estimating Low Income Job loss due to COVID-19](https://github.com/UrbanInstitute/covid-neighborhood-job-analysis)
 - [CoronaVis: A Real-time COVID-19 Tweets Analyzer-Paper](https://arxiv.org/abs/2004.13932)
 - [CoronaVis: A Real-time COVID-19 Tweets Analyzer-Code](https://github.com/mykabir/COVID19)
+- [Geostatistical analysis for epidemiology](https://www.geospatialworld.net/blogs/geostatistical-analysis-for-epidemiology/)
