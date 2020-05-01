@@ -146,7 +146,7 @@ export default {
             },
             {
               text: 'Satellite and Remote Sensing',
-              link: '/en-us/docs/demo1.html',
+              link: '',
               bgColor: '#00D0D9',
             },
             {
@@ -297,7 +297,7 @@ export default {
             },
             {
               text: '卫星与遥感',
-              link: '/zh-cn/docs/demo1.html',
+              link: '',
               bgColor: '#00D0D9',
             },
             {
