@@ -35,5 +35,7 @@
 - [抗疫与城市︱新冠病毒是否会终止城市密度？](https://mp.weixin.qq.com/s/-CkxlVtTrj4gpVxzvxaBOA)
 - [抗疫与城市︱封锁下的城市如何仍能宜居--从更宽的人行道到更好的阳台，一位资深城市规划专家的建议](https://mp.weixin.qq.com/s/pfrXjIDZ-eTctVdeppkvoA)
 - [抗疫与城市︱新冠疫情下的韧性社区规划](https://mp.weixin.qq.com/s/bCsuY0LiitAzxXrf2AfOIQ)
+- [疫情与气候︱全球封城的时，碳排放都是哪来的呢](https://mp.weixin.qq.com/s/ocGVXDn0Ok2Re0ZN-1vlvg)
+- [抗疫有GIS︱纽约社交距离与公共厕所地图制作（两则）](https://mp.weixin.qq.com/s/r7xdSsigtpUNYjssCKwC1Q)
 
 ![](/img/SCM.jpg)

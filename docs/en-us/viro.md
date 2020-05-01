@@ -269,3 +269,5 @@
 - [COVID-19 and Smoking. Is Nicotine the Hidden Link?](https://doi.org/10.1183/13993003.01116-2020)
 - [冠状病毒是空气传播的吗？专家并不同意](https://mp.weixin.qq.com/s/LL0W4QFIq6qCWvHnQClh1g)
 - [Is the coronavirus airborne? Experts can’t agree](https://www.nature.com/articles/d41586-020-00974-w)
+- [Nature罕见 | 百位研究人员合作，首次绘制出新冠病毒蛋白相互作用图谱，为药物开发设计奠定基础](https://mp.weixin.qq.com/s/ymLTiKtd7FlnluKVo4FY8g)
+- [A SARS-CoV-2 protein interaction map reveals targets for drug repurposing](https://www.nature.com/articles/s41586-020-2286-9)

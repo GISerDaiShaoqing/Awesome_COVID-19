@@ -316,3 +316,8 @@
 - [意大利出台新规定：保护新冠肺炎密切接触者追踪过程中的个人数据](https://mp.weixin.qq.com/s/LVQ4c3hKcUBX6XH3_lMTxQ)
 - [同样是瑞德西韦，为什么中美结果不同](https://mp.weixin.qq.com/s/jE0pUNX-J9Xn21D0AreKDA)
 - [新型冠状病毒（SARS-CoV-2）全球研究现状分析](http://www.biomedeng.cn/article/10.7507/1001-5515.202002034)
+- [【观点】IEA：可再生能源对病毒有“免疫”，像年轻人一样抵抗力强！](https://mp.weixin.qq.com/s/0U33dZey7kpG2eYIpSRrwA)
+- [IEA: Renewables Show Some Immunity to Pandemic](http://www.energyintel.com/pages/eig_article.aspx?DocId=1071348&NLID=173)
+- [新冠肺炎与气候政策](https://mp.weixin.qq.com/s/NwoXi7ByNao7UwBrGRWsgg)
+- [Climate Action and Policy ](https://www.springernature.com/gp/researchers/sdg-programme/earth-day/gary-yohe-blog)
+- [复工必将带来疫情反复，美国何去何从|《新英格兰医学杂志》主编访谈](https://mp.weixin.qq.com/s/2emdqvTBtlXcs76nyrKetg)
