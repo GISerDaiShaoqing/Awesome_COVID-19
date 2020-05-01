@@ -51,3 +51,4 @@
 - [CoronaVis: A Real-time COVID-19 Tweets Analyzer-Paper](https://arxiv.org/abs/2004.13932)
 - [CoronaVis: A Real-time COVID-19 Tweets Analyzer-Code](https://github.com/mykabir/COVID19)
 - [Geostatistical analysis for epidemiology](https://www.geospatialworld.net/blogs/geostatistical-analysis-for-epidemiology/)
+- [Statistical Process Control for Healthcare with R](https://github.com/Rmadillo/spc_healthcare_with_r)
