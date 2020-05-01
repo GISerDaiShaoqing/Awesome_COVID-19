@@ -322,3 +322,6 @@
 - [Climate Action and Policy ](https://www.springernature.com/gp/researchers/sdg-programme/earth-day/gary-yohe-blog)
 - [复工必将带来疫情反复，美国何去何从|《新英格兰医学杂志》主编访谈](https://mp.weixin.qq.com/s/2emdqvTBtlXcs76nyrKetg)
 - [地面震动监测各国居家隔离措施是否到位？](https://mp.weixin.qq.com/s/CXyOkomT0-Imn4QnmuRm8w)
+- [获批上市并非新冠疫苗的终点，后续工作需从现在就开始预备](https://mp.weixin.qq.com/s/fki0jKGJ6_9N7sJ0HkjGbQ)
+- [A COVID-19 vaccine might be ready within 18 months. But what happens then?](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-vaccine-development-gavi)
+- [比尔·盖茨：关于新冠疫苗你需要知道的事](https://mp.weixin.qq.com/s/HfCJ1-nJ7zy_Xph2wUnIHw)
