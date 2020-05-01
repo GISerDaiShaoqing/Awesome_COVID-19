@@ -325,3 +325,8 @@
 - [苏菲亚·布朗真能预言新冠肺炎吗](https://mp.weixin.qq.com/s/iLlVM_RqVpRckKNj1qouug)
 - [五一逛动物园吗？先收下这篇文！](https://mp.weixin.qq.com/s/osD61xrwQQGwncIssYUEVA)
 - [果壳战“疫” | 科技抗疫，科苑学子在行动](https://mp.weixin.qq.com/s/89dhP_f5S-iOtJoLc1fJ_w)
+- [“COVID-19”科研动态监测每日快报（4月30日）【中国科讯】](https://mp.weixin.qq.com/s/9FA9FKMUwU1L_soNybaxrQ)
+- [【视频】中国疾控中心提示：公共场所怎么做？](https://mp.weixin.qq.com/s/Yi91qC72TMQxcgUiHFl5hg)
+- [再不出门人就真的要废了：家里蹲带来的问题超出你的想象](https://mp.weixin.qq.com/s/GsDBaAGef8283Xic564Pzw)
+- [The Loneliness of the “Social Distancer” Triggers Brain Cravings Akin to Hunger](https://www.scientificamerican.com/article/the-loneliness-of-the-social-distancer-triggers-brain-cravings-akin-to-hunger/)
+- [疫情缓解措施对新冠肺炎在重灾区扩散的影响 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/qSgTMAU-7c6NrTC13fpP7A)
