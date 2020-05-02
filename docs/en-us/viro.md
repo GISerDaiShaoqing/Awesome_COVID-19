@@ -271,3 +271,5 @@
 - [Is the coronavirus airborne? Experts can’t agree](https://www.nature.com/articles/d41586-020-00974-w)
 - [Nature罕见 | 百位研究人员合作，首次绘制出新冠病毒蛋白相互作用图谱，为药物开发设计奠定基础](https://mp.weixin.qq.com/s/ymLTiKtd7FlnluKVo4FY8g)
 - [A SARS-CoV-2 protein interaction map reveals targets for drug repurposing](https://www.nature.com/articles/s41586-020-2286-9)
+- [【观点】病毒测试准确吗？“强直觉“比”弱测试“更靠谱！](https://mp.weixin.qq.com/s/sGT2Ew89yqOd4zQCJtBOTA)
+- [How accurate are coronavirus tests? ](https://www.weforum.org/agenda/2020/04/coronavirus-covid19-tests-pandemic-virus-antibodies-swab-blood)

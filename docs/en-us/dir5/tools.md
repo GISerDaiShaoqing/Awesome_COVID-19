@@ -52,3 +52,6 @@
 - [CoronaVis: A Real-time COVID-19 Tweets Analyzer-Code](https://github.com/mykabir/COVID19)
 - [Geostatistical analysis for epidemiology](https://www.geospatialworld.net/blogs/geostatistical-analysis-for-epidemiology/)
 - [Statistical Process Control for Healthcare with R](https://github.com/Rmadillo/spc_healthcare_with_r)
+- [Model of 1997 measles outbreak in Sao Paulo, Brazil](https://github.com/fonnesbeck/SaoPauloMeasles)
+- [IVIG treatment response for Kawasaki disease](https://github.com/fonnesbeck/kawasaki)
+- [Psychosocial determinants of weight study using the Healthy Weight Cohort](https://github.com/fonnesbeck/psychosocial_determinants_bmi)

@@ -287,3 +287,4 @@
 - [全网首发|【专题讨论8】应对重大突发事件的规划反思](https://mp.weixin.qq.com/s/iX1O59dlOha92qchNPEoAQ)
 - [全网首发|【专题讨论9】特大城市公共卫生风险识别及规划应对](https://mp.weixin.qq.com/s/SVxzZRo6P9Pge13Fkyg7oA)
 - [经此一疫，互联网公司格局发生了哪些变化？](https://mp.weixin.qq.com/s/uK_cW5j7yFLTnCo-BIPtzg)
+- [疫情之下，职场人自降薪资期待求自保 | 2020Q1报告](https://mp.weixin.qq.com/s/0pcuObdkReaEU1q6zvLBkw)

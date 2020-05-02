@@ -330,3 +330,7 @@
 - [再不出门人就真的要废了：家里蹲带来的问题超出你的想象](https://mp.weixin.qq.com/s/GsDBaAGef8283Xic564Pzw)
 - [The Loneliness of the “Social Distancer” Triggers Brain Cravings Akin to Hunger](https://www.scientificamerican.com/article/the-loneliness-of-the-social-distancer-triggers-brain-cravings-akin-to-hunger/)
 - [疫情缓解措施对新冠肺炎在重灾区扩散的影响 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/qSgTMAU-7c6NrTC13fpP7A)
+- [“COVID-19”科研动态监测每日快报（5月1日）【中国科讯】](https://mp.weixin.qq.com/s/jVr1dlIGJmIEhwtegWX_Lw)
+- [【视频】中国疾控中心提示：外出怎么做？](https://mp.weixin.qq.com/s/SvS1JlBJZHKFmLrgXcb2-Q)
+- [世卫组织确定新冠病毒源自自然界](http://news.sciencenet.cn/htmlnews/2020/5/439259.shtm)
+- [中科院党组会暨应对疫情领导小组第八次会议召开](http://news.sciencenet.cn/htmlnews/2020/5/439271.shtm)
