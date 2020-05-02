@@ -398,3 +398,7 @@
 - [新冠病毒侵入人体全过程！从脚趾到大脑，科学家追踪到病毒对身体的巨大摧残](https://mp.weixin.qq.com/s/r1AwkjFpw6U6zxf2izBmgw)
 - [How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes](https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes#)
 - [新冠病毒感染人体最新鉴定出332种蛋白质相互作用](http://news.sciencenet.cn/htmlnews/2020/5/439257.shtm)
+- [为什么说有抗体不等于能免疫？](https://mp.weixin.qq.com/s/e-Hx1g3tWlG3wfbe2uIMsQ)
+- [What Immunity to COVID-19 Really Means](https://www.scientificamerican.com/article/what-immunity-to-covid-19-really-means/)
+- [科学家发现新冠肺炎2型糖尿病患者血糖控制范围](http://blog.sciencenet.cn/blog-3423233-1231321.html)
+- [Association of Blood Glucose Control and Outcomes in Patients with COVID-19 and Pre-existing Type 2 Diabetes](https://www.sciencedirect.com/science/article/pii/S1550413120302382?via%3Dihub)

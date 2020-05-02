@@ -336,3 +336,4 @@
 - [Why CO2 Isn’t Falling More during a Global Lockdown](https://www.scientificamerican.com/article/why-co2-isnt-falling-more-during-a-global-lockdown/)
 - [The Coronavirus Pandemic Is Bringing Down Emissions, but Not for Long](https://www.wired.com/story/coronavirus-emissions/)
 - [Security of supply and Covid-19: which lessons learnt for Renewable and Recycled Carbon Fuels, and their future role in decarbonizing transport?](http://www.enerarxiv.org/page/thesis.html?id=1720)
+- [疫情下重识地球一一人类与地理信息系统（GIS）](https://mp.weixin.qq.com/s/nD-TEQN_LEw6eTB5w3_7lg)
