@@ -134,3 +134,6 @@
 - [国家地球系统科学数据中心发布新冠疫情专题分析报告100期](https://mp.weixin.qq.com/s/1KniQyPMq6nXerOuHSTemA)
 - [R package for the COVID Tracking Project API providing US COVID-19 data](https://github.com/aedobbyn/covid19us)
 - [Healthcare services in Europe from a number of official datasources](https://github.com/eurostat/healthcare-services)
+- [【数据】全球每年因污染致死高达900万人，是艾滋病、肺炎、疟疾死亡人数的3倍](https://mp.weixin.qq.com/s/CtdqGK2DW6reAGGLr2d_og)
+- [Pollution is a silent killer. Here’s how we can stop it](https://www.weforum.org/agenda/2017/11/pollution-how-to-stop-the-silent-killer/)
+- [COVID-19 Pandemic Data R Package](https://github.com/eebrown/data2019nCoV)

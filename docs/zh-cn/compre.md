@@ -337,3 +337,8 @@
 - [The Coronavirus Pandemic Is Bringing Down Emissions, but Not for Long](https://www.wired.com/story/coronavirus-emissions/)
 - [Security of supply and Covid-19: which lessons learnt for Renewable and Recycled Carbon Fuels, and their future role in decarbonizing transport?](http://www.enerarxiv.org/page/thesis.html?id=1720)
 - [疫情下重识地球一一人类与地理信息系统（GIS）](https://mp.weixin.qq.com/s/nD-TEQN_LEw6eTB5w3_7lg)
+- [疫情让我的患者安心与体内的“定时炸弹”共存](https://mp.weixin.qq.com/s/LOCu6NiLlfkxzmlviUizzQ)
+- [TheInvisible Hand — Medical Care during the Pandemic](https://www.nejm.org/doi/full/10.1056/NEJMp2006607)
+- [乡间土匪与罐装花生：蒙古野生动物寻踪记](https://mp.weixin.qq.com/s/ZLhFlNZaS7_lE-wRroE0EA)
+- [Dodging bandits, eking out food: tracking wildlife in Mongolia](https://www.nature.com/articles/d41586-020-00763-5)
+- [Preparing for the Perpetual Challenges of Pandemics of Coronavirus Infections with Special Focus on SARS-CoV-2](https://link.springer.com/chapter/10.1007%2F978-981-15-4814-7_14)

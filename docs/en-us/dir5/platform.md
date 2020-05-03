@@ -95,3 +95,5 @@
 - [谷歌AI“翻车”泰国！眼疾检测实验室准确率达90%，小诊所传张照片就得等两小时](https://mp.weixin.qq.com/s/uH-znoQopvvLh-qRJ5IaeA)
 - [防疫资讯 | 3分钟内完成疑似 症状的风险自评，这款在线应用你值得拥有！](https://mp.weixin.qq.com/s/AlA4cDxJPiInLgDeiJ-l3A)
 - [一张图带你了解全球疫情动态：知识疫图携最强智能驾驶舱亮相](https://mp.weixin.qq.com/s/H0JCTZUa81eviLYSDPBZlg)
+- [人类如果找不到新冠肺炎药物，那 AI 可以吗？](https://mp.weixin.qq.com/s/gs88P_v2Hx2kA73Kf34HwQ)
+- [AI Uncovers a Potential Treatment for Covid-19 Patients](https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/)

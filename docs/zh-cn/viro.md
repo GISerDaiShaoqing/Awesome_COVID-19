@@ -273,3 +273,4 @@
 - [A SARS-CoV-2 protein interaction map reveals targets for drug repurposing](https://www.nature.com/articles/s41586-020-2286-9)
 - [【观点】病毒测试准确吗？“强直觉“比”弱测试“更靠谱！](https://mp.weixin.qq.com/s/sGT2Ew89yqOd4zQCJtBOTA)
 - [How accurate are coronavirus tests? ](https://www.weforum.org/agenda/2020/04/coronavirus-covid19-tests-pandemic-virus-antibodies-swab-blood)
+- [SARS-CoV-2 and Bats: From Flight to Fighting COVID-19](https://www.sciencedirect.com/science/article/pii/S2452302X20301765?via%3Dihub)

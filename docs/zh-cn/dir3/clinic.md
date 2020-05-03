@@ -402,3 +402,4 @@
 - [What Immunity to COVID-19 Really Means](https://www.scientificamerican.com/article/what-immunity-to-covid-19-really-means/)
 - [科学家发现新冠肺炎2型糖尿病患者血糖控制范围](http://blog.sciencenet.cn/blog-3423233-1231321.html)
 - [Association of Blood Glucose Control and Outcomes in Patients with COVID-19 and Pre-existing Type 2 Diabetes](https://www.sciencedirect.com/science/article/pii/S1550413120302382?via%3Dihub)
+- [Cell Metabolism | 全球首次，李红良/黄晓东/张丙宏/郭姣揭示2型糖尿病患者血糖控制与新冠肺炎患者结局的关系](https://mp.weixin.qq.com/s/T39W-YatyQSk40rOrx-QHQ)

@@ -36,3 +36,4 @@
 - [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/pb-assets/products/coronavirus/CELL_CELL-D-20-00656.pdf)
 - [Deep Learning for Screening COVID-19 using Chest X-Ray Images](https://www.arxiv-vanity.com/papers/2004.10507/)
 - [MedicalZooPytorch: A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation](https://github.com/black0017/MedicalZooPytorch)
+- [Chest computed tomography in children with COVID-19 respiratory infection](https://link.springer.com/article/10.1007%2Fs00247-020-04656-7)

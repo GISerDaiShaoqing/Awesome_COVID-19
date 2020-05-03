@@ -123,3 +123,5 @@
 - [追踪5万 AI 技术人的访问轨迹，他们为何关注这些实践？丨AICon](https://mp.weixin.qq.com/s/xOKGRNIHNPuq5lPoWTl_Uw)
 - [【直播实录】哈佛大学教授林希虹：武汉为全球新冠肺炎的公共卫生防疫提供了什么启迪](https://mp.weixin.qq.com/s/ruQEuPP9ZTUoYNvDmtTnPQ)
 - [防疫资讯 | 直播预告！钟南山院士将连线海外留学生答“疫”解惑](https://mp.weixin.qq.com/s/pN8rBoalSSb6AMGjKoz-JA)
+- [杨东亮：新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/dU0_bux8FMtYQ2WwEQ2VMw)
+- [杨小兵：国内外口罩标准与技术指标解读 | 未来·局回顾](https://mp.weixin.qq.com/s/foLEpjx4mfzPw3lFsfuOjQ)
