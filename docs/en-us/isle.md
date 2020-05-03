@@ -6,5 +6,6 @@
 - [屯特大学空间流行病学专家贾鹏教授就荷兰防疫措施在校园媒体发声](https://mp.weixin.qq.com/s/GqcQgxAiAATI2SlzV7uFgg)
 - [新闻快讯 | “走在疫情的前面”](https://mp.weixin.qq.com/s/9HTDYsIyRFEqcdl6BPzGkw)
 - [科研成果|新冠肺炎的精准医学：降低心血管疾病患者的死亡率](https://mp.weixin.qq.com/s/5cqXGPW2NFt6hLjZ-KLj_g)
+- [帮转｜中国和荷兰政府冠状病毒暴发应对措施的差异认知调查](https://mp.weixin.qq.com/s/FXJUkLCbtmnNM5X-upXb1A)
 
 ![](/img/ISLEwechat.jpg)

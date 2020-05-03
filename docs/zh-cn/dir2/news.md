@@ -1383,3 +1383,8 @@
 - [“滞留”南极的武大女教师：回来时恍如隔世](https://mp.weixin.qq.com/s/OgKyLbQS-R7xKbG4Ric_WQ)
 - [西班牙超4.2万名医护感染新冠肺炎，为全球最高](https://mp.weixin.qq.com/s/9xT7NKzLU0wbiaQpZxcQEQ)
 - [特朗普左右为难，拜登的机会来了？](https://mp.weixin.qq.com/s/JjuxtBlSZ8ey2WBIV-sBXQ)
+- [荷兰确诊人数继续降低｜乘坐Thalys和Eurostar的乘客必须戴口罩，否则将遭受罚款并拒乘](https://mp.weixin.qq.com/s/rclS58BaPXiuptdi9bynVA)
+- [对疫情的讨论不应解读为国家地缘斗争的一部分——《柳叶刀》主编和中国驻英大使接受采访](https://mp.weixin.qq.com/s/Mc0vuaKIhKTDc1jJJcAcDw)
+- [美国疾控中心承认了！](https://mp.weixin.qq.com/s/YOZDencfOHMn3kpmlE_Q5Q)
+- [别人家的学校！一次性退1700万住宿费](https://mp.weixin.qq.com/s/dSeCitUJG_tMEGE6mloF_Q)
+- [力挺90后，张文宏：我没有一句金句事前想过](https://mp.weixin.qq.com/s/BDpbpAC-XdI1uN2Lpu58hg)

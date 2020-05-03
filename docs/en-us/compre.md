@@ -342,3 +342,4 @@
 - [乡间土匪与罐装花生：蒙古野生动物寻踪记](https://mp.weixin.qq.com/s/ZLhFlNZaS7_lE-wRroE0EA)
 - [Dodging bandits, eking out food: tracking wildlife in Mongolia](https://www.nature.com/articles/d41586-020-00763-5)
 - [Preparing for the Perpetual Challenges of Pandemics of Coronavirus Infections with Special Focus on SARS-CoV-2](https://link.springer.com/chapter/10.1007%2F978-981-15-4814-7_14)
+- [Pandemics, tourism and global change: a rapid assessment of COVID-19](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1758708)

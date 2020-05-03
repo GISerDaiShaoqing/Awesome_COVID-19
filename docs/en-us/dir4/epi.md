@@ -206,3 +206,4 @@
 - [利用手机数据预测中国的COVID-19传播 |《自然》论文](https://mp.weixin.qq.com/s/xK6NkOsnBW4Q6sJJJ1MAcw)
 - [Variational-LSTM Autoencoder to forecast the spread of coronavirus across the globe](https://www.medrxiv.org/content/10.1101/2020.04.20.20070938v1)
 - [A COVID-19 epidemic model with latency period](https://www.sciencedirect.com/science/article/pii/S2468042720300099)
+- [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
