@@ -137,3 +137,4 @@
 - [【数据】全球每年因污染致死高达900万人，是艾滋病、肺炎、疟疾死亡人数的3倍](https://mp.weixin.qq.com/s/CtdqGK2DW6reAGGLr2d_og)
 - [Pollution is a silent killer. Here’s how we can stop it](https://www.weforum.org/agenda/2017/11/pollution-how-to-stop-the-silent-killer/)
 - [COVID-19 Pandemic Data R Package](https://github.com/eebrown/data2019nCoV)
+- [Data on COVID-19 confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
