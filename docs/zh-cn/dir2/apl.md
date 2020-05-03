@@ -340,3 +340,4 @@
 - [UT Researcher's Nonwoven Fabrics Protect the Health of More Than a Billion People](https://utrf.tennessee.edu/ut-researchers-nonwoven-fabrics-protect-the-health-of-more-than-a-billion-people/?from=timeline&isappinstalled=0)
 - [What you need to know about surgical masks, N95 respirators and coronavirus](https://www.knoxnews.com/story/news/2020/03/11/coronavirus-masks-n-95-respirators-faq/4978243002/)
 - [救命的N95口罩，离不开这位成电人的硬核技术！——记“第二届百名华侨华人专业人士杰出创业奖”获奖者刘朝宇校友](https://news.uestc.edu.cn/?n=UestcNews.Front.Document.ArticlePage&Id=76023)
+- [瑞德西韦在美国获“紧急使用授权”治疗COVID-19；霍普金斯疫情数据日互动10亿背后的故事 等| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/LUx5bLhqtiZ8_xsEZ0lNJA)
