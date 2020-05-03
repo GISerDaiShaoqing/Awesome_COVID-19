@@ -46,3 +46,5 @@
 - [Code for estimating social distances from RGB cameras](https://github.com/IIT-PAVIS/Social-Distancing)
 - [复旦大学余宏杰课题组在增加社会距离对新型冠状病毒传播的影响领域取得重要进展｜Science论文](https://mp.weixin.qq.com/s/tvPUy1x7QtrIvTVYB-E6SA)
 - [Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China](https://science.sciencemag.org/content/early/2020/04/28/science.abb8001)
+- [研究：相比居家隔离，中国式集中隔离可再减少37%新冠感染](http://news.sciencenet.cn/htmlnews/2020/5/439279.shtm)
+- [Institutional, not home-based, isolation could contain the COVID-19 outbreak](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31016-3/fulltext)
