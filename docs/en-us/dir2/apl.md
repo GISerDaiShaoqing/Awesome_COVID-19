@@ -345,3 +345,4 @@
 - [开启绿色通道，人工智能助力疫情下的物资保障 | 智周报告核心版](https://mp.weixin.qq.com/s/51oQXoez8_ZQ4a0_2gB8nA)
 - [【视频】中国疾控中心提示：在家怎么做？](https://mp.weixin.qq.com/s/lPW05qHQWbKca3kY0w1hjQ)
 - [《柳叶刀》主编力挺中国！全是坑！看驻英大使如何舌战！](https://mp.weixin.qq.com/s/Ss54D7zllON1f1uQ4Tq-yg)
+- [量化美国社会疏离政策对COVID-19结果的预期影响 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/XGOJ3zMbtOIAOz_91YeSSA)
