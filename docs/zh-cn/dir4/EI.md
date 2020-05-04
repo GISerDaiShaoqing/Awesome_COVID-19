@@ -48,3 +48,5 @@
 - [Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China](https://science.sciencemag.org/content/early/2020/04/28/science.abb8001)
 - [研究：相比居家隔离，中国式集中隔离可再减少37%新冠感染](http://news.sciencenet.cn/htmlnews/2020/5/439279.shtm)
 - [Institutional, not home-based, isolation could contain the COVID-19 outbreak](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31016-3/fulltext)
+- [Nature最新：人口流动可预测疫情传播，并揭示我国确诊数据真实可靠](https://mp.weixin.qq.com/s/UHaJDX_RlU0VPSA_6I_ZrQ)
+- [Population flow drives spatio-temporal distribution of COVID-19 in China](https://www.nature.com/articles/s41586-020-2284-y)
