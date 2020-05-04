@@ -1400,3 +1400,7 @@
 - [18岁留学生确诊，同一航班有52名密接者](https://mp.weixin.qq.com/s/N4Vd5Mfz0IS8dEMsvXhDhg)
 - [莆田通报1例无症状感染者详情！4月12日持湖北绿码自汉返闽](https://mp.weixin.qq.com/s/Hi5OiMl8DqpDR7A13fgFQQ)
 - [初中生戴口罩上体育课，跑步时猝死](https://mp.weixin.qq.com/s/klxnq1B-1jIQ4D5sGd79fw)
+- [湖北连续30天，无新增确诊](https://mp.weixin.qq.com/s/tw54DAaCARCBy_H7hwhYDg)
+- [日本宣布延长“紧急状态”](https://mp.weixin.qq.com/s/YoIckJbMbW-hBACvKUAyhQ)
+- [防疫前沿，这些厦门人的故事让人肃然起敬！](https://mp.weixin.qq.com/s/a4wqSRlmSDD6IfpVMk_Dug)
+- [@海外中国青年：前方是世界，后方是祖国](https://mp.weixin.qq.com/s/ojphF9_z9XUivBCoqRNWPA)
