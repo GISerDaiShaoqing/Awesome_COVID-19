@@ -344,3 +344,4 @@
 - [“COVID-19”科研动态监测每日快报（5月3日）【中国科讯】](https://mp.weixin.qq.com/s/eVvPfcjzeS4hqW7tK-3fkA)
 - [开启绿色通道，人工智能助力疫情下的物资保障 | 智周报告核心版](https://mp.weixin.qq.com/s/51oQXoez8_ZQ4a0_2gB8nA)
 - [【视频】中国疾控中心提示：在家怎么做？](https://mp.weixin.qq.com/s/lPW05qHQWbKca3kY0w1hjQ)
+- [《柳叶刀》主编力挺中国！全是坑！看驻英大使如何舌战！](https://mp.weixin.qq.com/s/Ss54D7zllON1f1uQ4Tq-yg)

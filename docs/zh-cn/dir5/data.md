@@ -138,3 +138,4 @@
 - [Pollution is a silent killer. Here’s how we can stop it](https://www.weforum.org/agenda/2017/11/pollution-how-to-stop-the-silent-killer/)
 - [COVID-19 Pandemic Data R Package](https://github.com/eebrown/data2019nCoV)
 - [Data on COVID-19 confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
+- [新增确诊新型冠状病毒肺炎统计数据（每日更新）](https://github.com/839Studio/Novel-Coronavirus-Updates)
