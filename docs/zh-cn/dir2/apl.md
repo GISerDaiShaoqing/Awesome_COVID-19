@@ -341,3 +341,6 @@
 - [What you need to know about surgical masks, N95 respirators and coronavirus](https://www.knoxnews.com/story/news/2020/03/11/coronavirus-masks-n-95-respirators-faq/4978243002/)
 - [救命的N95口罩，离不开这位成电人的硬核技术！——记“第二届百名华侨华人专业人士杰出创业奖”获奖者刘朝宇校友](https://news.uestc.edu.cn/?n=UestcNews.Front.Document.ArticlePage&Id=76023)
 - [瑞德西韦在美国获“紧急使用授权”治疗COVID-19；霍普金斯疫情数据日互动10亿背后的故事 等| 本周值得读·科研生涯](https://mp.weixin.qq.com/s/LUx5bLhqtiZ8_xsEZ0lNJA)
+- [“COVID-19”科研动态监测每日快报（5月3日）【中国科讯】](https://mp.weixin.qq.com/s/eVvPfcjzeS4hqW7tK-3fkA)
+- [开启绿色通道，人工智能助力疫情下的物资保障 | 智周报告核心版](https://mp.weixin.qq.com/s/51oQXoez8_ZQ4a0_2gB8nA)
+- [【视频】中国疾控中心提示：在家怎么做？](https://mp.weixin.qq.com/s/lPW05qHQWbKca3kY0w1hjQ)

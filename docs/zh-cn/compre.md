@@ -343,3 +343,7 @@
 - [Dodging bandits, eking out food: tracking wildlife in Mongolia](https://www.nature.com/articles/d41586-020-00763-5)
 - [Preparing for the Perpetual Challenges of Pandemics of Coronavirus Infections with Special Focus on SARS-CoV-2](https://link.springer.com/chapter/10.1007%2F978-981-15-4814-7_14)
 - [Pandemics, tourism and global change: a rapid assessment of COVID-19](https://www.tandfonline.com/doi/full/10.1080/09669582.2020.1758708)
+- [Lancet最新 | 天啊！年轻的胖子更容易成为新冠肺炎重症患者](https://mp.weixin.qq.com/s/nbosCNlVdCM7rbE74GpIQw)
+- [Obesity could shift severe COVID-19 disease to younger ages](https://www.thelancet.com/lancet/article/s0140-6736(20)31024-2)
+- [【研究】疫情封城改善空气，欧洲11,000人避免因污染导致的早亡](https://mp.weixin.qq.com/s/zbnPSJ-lYEvMJ_W_7HGQ6Q)
+- [11,000 air pollution-related deaths avoided in Europe as coal, oil consumption plummet](https://energyandcleanair.org/air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/)

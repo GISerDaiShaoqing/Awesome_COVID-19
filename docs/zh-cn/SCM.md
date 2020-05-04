@@ -37,5 +37,7 @@
 - [抗疫与城市︱新冠疫情下的韧性社区规划](https://mp.weixin.qq.com/s/bCsuY0LiitAzxXrf2AfOIQ)
 - [疫情与气候︱全球封城的时，碳排放都是哪来的呢](https://mp.weixin.qq.com/s/ocGVXDn0Ok2Re0ZN-1vlvg)
 - [抗疫有GIS︱纽约社交距离与公共厕所地图制作（两则）](https://mp.weixin.qq.com/s/r7xdSsigtpUNYjssCKwC1Q)
+- [抗疫青年说︱当讨论疫情后的经济复苏时，请先从公共交通的复兴开始…（两则）](https://mp.weixin.qq.com/s/X5Ij7YgSgcjseLNzgqTtNg)
+- [抗疫青年说︱大流行病与城市密度的未来: 卫生、公众理念和“城市惩罚”](https://mp.weixin.qq.com/s/wqoJmEBe3-7nNqcC0ooenQ)
 
 ![](/img/SCM.jpg)

@@ -4,7 +4,7 @@
 |---|---|
 |E-mail|dsq1993qingge@163.com|
 
-A curated list of awesome jouranl, papers, code, data, tools, visualization, helpful projects, linksabout COVID-19 correlated reseaches. Now I build the website for it. You could click the url and explore all the resources I collected.
+A curated list of awesome jouranl, papers, code, data, tools, visualization, helpful projects, links about COVID-19 correlated reseaches. Now I build the website for it. You could click the url and explore all the resources I collected.
 
 [Awesome COVID-19](http://covid19.gisersqdai.top/en-us/index.html)
 
