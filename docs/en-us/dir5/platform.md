@@ -98,3 +98,4 @@
 - [人类如果找不到新冠肺炎药物，那 AI 可以吗？](https://mp.weixin.qq.com/s/gs88P_v2Hx2kA73Kf34HwQ)
 - [AI Uncovers a Potential Treatment for Covid-19 Patients](https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/)
 - [covid-shinyapp](https://github.com/nnnagle/covid-shinyapp)
+- [C-19 Covid Symptom Tracker app: Rapid implementation of mobile technology for real-time epidemiology of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.02.20051334v1)

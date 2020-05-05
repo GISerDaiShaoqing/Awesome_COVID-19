@@ -207,3 +207,5 @@
 - [Variational-LSTM Autoencoder to forecast the spread of coronavirus across the globe](https://www.medrxiv.org/content/10.1101/2020.04.20.20070938v1)
 - [A COVID-19 epidemic model with latency period](https://www.sciencedirect.com/science/article/pii/S2468042720300099)
 - [Models of SEIRS epidemic dynamics with extensions, including network-structured populations, testing, contact tracing, and social distancing](https://github.com/ryansmcgee/seirsplus)
+- [【研究】疫情未结束情况下解封：MIT数学家精确计算感染概率](https://mp.weixin.qq.com/s/qkVdOlx7LHC0xGf5Pobq_g)
+- [COVID-19 lockdowns are lifting. How safe is it to go out?](https://www.weforum.org/agenda/2020/04/covid-19-coronavirus-lockdown-how-safe-go-out-elena-polozova)

@@ -125,3 +125,4 @@
 - [防疫资讯 | 直播预告！钟南山院士将连线海外留学生答“疫”解惑](https://mp.weixin.qq.com/s/pN8rBoalSSb6AMGjKoz-JA)
 - [杨东亮：新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/dU0_bux8FMtYQ2WwEQ2VMw)
 - [杨小兵：国内外口罩标准与技术指标解读 | 未来·局回顾](https://mp.weixin.qq.com/s/foLEpjx4mfzPw3lFsfuOjQ)
+- [基于 TensorFlow 的 AI 医疗专项课程](https://mp.weixin.qq.com/s/-tSNPFWuUAVTzrWepMduFA)

@@ -139,3 +139,5 @@
 - [COVID-19 Pandemic Data R Package](https://github.com/eebrown/data2019nCoV)
 - [Data on COVID-19 confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data](https://github.com/owid/covid-19-data)
 - [新增确诊新型冠状病毒肺炎统计数据（每日更新）](https://github.com/839Studio/Novel-Coronavirus-Updates)
+- [【存照】到目前全球有13个国家无疫情报告：10个是太平洋岛国！](https://mp.weixin.qq.com/s/x7khztXqJ2S_-ndpYkXXxw)
+- [Which Countries Have Escaped The Coronavirus So Far?](https://www.statista.com/chart/21279/countries-that-have-not-reported-coronavirus-cases/)

@@ -274,3 +274,8 @@
 - [【观点】病毒测试准确吗？“强直觉“比”弱测试“更靠谱！](https://mp.weixin.qq.com/s/sGT2Ew89yqOd4zQCJtBOTA)
 - [How accurate are coronavirus tests? ](https://www.weforum.org/agenda/2020/04/coronavirus-covid19-tests-pandemic-virus-antibodies-swab-blood)
 - [SARS-CoV-2 and Bats: From Flight to Fighting COVID-19](https://www.sciencedirect.com/science/article/pii/S2452302X20301765?via%3Dihub)
+- [Science重大进展 | 全球首次获得新冠病毒刺突蛋白的糖基化全景图谱，对于药物开发及疫苗设计具有重大推动作用](https://mp.weixin.qq.com/s/xb5Xa1y84NP-830HoVB-jA)
+- [Site-specific glycan analysis of the SARS-CoV-2 spike](https://science.sciencemag.org/content/early/2020/05/01/science.abb9983)
+- [Nature | 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体](https://mp.weixin.qq.com/s/DlSq5sdXQPf5rVNh5LmD6w)
+- [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9)
+- [An infectious cDNA clone of SARS-CoV-2](https://marlin-prod.literatumonline.com/pb-assets/products/coronavirus/CHOM_2291_s50_preproof.pdf)

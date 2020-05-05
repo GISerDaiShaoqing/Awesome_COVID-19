@@ -158,3 +158,5 @@
 - [Plots and analysis relating to the pandemic](https://github.com/VictimOfMaths/COVID-19)
 - [【存照】与往年的平均死亡率相比，各国疫情导致了多少“净增”的生命损失？](https://mp.weixin.qq.com/s/-HCDyODVa-XL2v5eejrnmQ)
 - [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/coronavirus-latest)
+- [图解新冠病毒：为什么单张图表根本不能说明新冠疫情的发展情况？](https://mp.weixin.qq.com/s/Fw2Se6zfuMCBtYufk6ir2Q)
+- [One Chart Isn’t Going To Tell You When The Pandemic Peaked](https://fivethirtyeight.com/features/one-chart-isnt-going-to-tell-you-when-the-pandemic-peaked/)

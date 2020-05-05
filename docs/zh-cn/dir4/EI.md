@@ -50,3 +50,5 @@
 - [Institutional, not home-based, isolation could contain the COVID-19 outbreak](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31016-3/fulltext)
 - [Nature最新：人口流动可预测疫情传播，并揭示我国确诊数据真实可靠](https://mp.weixin.qq.com/s/UHaJDX_RlU0VPSA_6I_ZrQ)
 - [Population flow drives spatio-temporal distribution of COVID-19 in China](https://www.nature.com/articles/s41586-020-2284-y)
+- [Nature重磅 | 新冠患者将突破700万，复旦大学等多机构合作发现如果中国不采取隔离/旅行限制等措施](https://mp.weixin.qq.com/s/lyDyxYA1JtUWhi7eKRnc0A)
+- [Effect of non-pharmaceutical interventions to contain COVID-19 in China](https://www.nature.com/articles/s41586-020-2293-x)
