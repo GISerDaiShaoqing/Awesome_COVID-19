@@ -348,3 +348,4 @@
 - [【研究】疫情封城改善空气，欧洲11,000人避免因污染导致的早亡](https://mp.weixin.qq.com/s/zbnPSJ-lYEvMJ_W_7HGQ6Q)
 - [11,000 air pollution-related deaths avoided in Europe as coal, oil consumption plummet](https://energyandcleanair.org/air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/)
 - [Cross-Modal Data Programming Enables Rapid Medical Machine Learning](https://www.cell.com/patterns/fulltext/S2666-3899(20)30019-2)
+- [Lancet Voice 特别版 | COVID-19大流行中的哮喘治疗](https://mp.weixin.qq.com/s/TDViPBzltx8nq-kEEfGiHA)

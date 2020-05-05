@@ -348,3 +348,5 @@
 - [量化美国社会疏离政策对COVID-19结果的预期影响 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/XGOJ3zMbtOIAOz_91YeSSA)
 - [细胞死了，菌死了，小鼠也不知第几代了……咱也不敢问呐 | 疫情期间的科研](https://mp.weixin.qq.com/s/QM6YTPNtnrGMl5EArPrdig)
 - [“COVID-19”科研动态监测每日快报（5月4日）【中国科讯】](https://mp.weixin.qq.com/s/Ck4_hgNkDKzwS58AHNJceA)
+- [提前采取针对COVID-19的遏制措施的决定有多重要？ | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/NMH6ccWcfmPfi5AHyadqgQ)
+- [2020中国科学家Science热门研究｜武汉封城前86%患者未被发现；你的记忆，可能正被这种免疫细胞吞噬 等](https://mp.weixin.qq.com/s/yCSwOJ5dpDHKpxyhhTz-tw)

@@ -279,3 +279,6 @@
 - [Nature | 颠覆认知， 2个团队体外人工合成出新冠病毒：能在一周之内生产或改造出大量病毒活体](https://mp.weixin.qq.com/s/DlSq5sdXQPf5rVNh5LmD6w)
 - [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.nature.com/articles/s41586-020-2294-9)
 - [An infectious cDNA clone of SARS-CoV-2](https://marlin-prod.literatumonline.com/pb-assets/products/coronavirus/CHOM_2291_s50_preproof.pdf)
+- [Comparative ACE2 variation and primate COVID-19 risk](https://www.biorxiv.org/content/10.1101/2020.04.09.034967v2)
+- [Lack of Rule-Adherence During Mountain Gorilla Tourism Encounters in Bwindi Impenetrable National Park, Uganda, Places Gorillas at Risk From Human Disease](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00001/full)
+- [科学家保护类人猿免遭新冠病毒感染](http://news.sciencenet.cn/htmlnews/2020/5/439311.shtm)

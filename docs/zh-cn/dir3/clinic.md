@@ -409,3 +409,5 @@
 - [Self-reported symptoms of covid-19 including symptoms most predictive of SARS-CoV- 2 infection, are heritable](https://www.medrxiv.org/content/10.1101/2020.04.22.20072124v2)
 - [预防肺结核的卡介苗可减轻新冠影响？柳叶刀：请遵循世卫建议](http://news.sciencenet.cn/htmlnews/2020/5/439302.shtm)
 - [Considering BCG vaccination to reduce the impact of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31025-4/fulltext#%20)
+- [Hepatology | 李红良团队首次提出天冬氨酸转氨酶异常与新冠肺炎死亡风险相关](https://mp.weixin.qq.com/s/TskCt1kisEeAklYMZi-iJA)
+- [Longitudinal association between markers of liver injury and mortality in COVID‐19 in China](https://aasldpubs.onlinelibrary.wiley.com/doi/abs/10.1002/hep.31301)
