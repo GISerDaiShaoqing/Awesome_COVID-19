@@ -99,3 +99,6 @@
 - [AI Uncovers a Potential Treatment for Covid-19 Patients](https://www.wired.com/story/ai-uncovers-potential-treatment-covid-19-patients/)
 - [covid-shinyapp](https://github.com/nnnagle/covid-shinyapp)
 - [C-19 Covid Symptom Tracker app: Rapid implementation of mobile technology for real-time epidemiology of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.02.20051334v1)
+- [清华计算机系开展新冠疫情作业，看看信息时代的学生们怎样完成？](https://mp.weixin.qq.com/s/JqjiF-uBNiVJS6qsZgtWlA)
+- [C3S开发探究温度和湿度对新冠病毒传播影响的可视化平台](https://mp.weixin.qq.com/s/0XjfEpnlE55xMppQK10IuQ)
+- [Climate Data Store - Monthly climate explorer for COVID-19](https://cds.climate.copernicus.eu/apps/c3s/app-c3s-monthly-climate-covid-19-explorer)

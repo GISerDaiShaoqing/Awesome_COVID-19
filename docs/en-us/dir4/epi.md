@@ -210,3 +210,5 @@
 - [【研究】疫情未结束情况下解封：MIT数学家精确计算感染概率](https://mp.weixin.qq.com/s/qkVdOlx7LHC0xGf5Pobq_g)
 - [COVID-19 lockdowns are lifting. How safe is it to go out?](https://www.weforum.org/agenda/2020/04/covid-19-coronavirus-lockdown-how-safe-go-out-elena-polozova)
 - [透视新冠肺炎死亡率排名前20国家，3点结论值得关注](https://mp.weixin.qq.com/s/iM0sxMkl2t-yaHWvH3yf5A)
+- [主编推荐 | 基于众包数据的COVID-19暴发早期流行病学分析](https://mp.weixin.qq.com/s/DRAX-chty3QXtZC0D7T64Q)
+- [Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a population-level observational study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext)

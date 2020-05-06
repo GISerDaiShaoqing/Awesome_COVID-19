@@ -39,5 +39,7 @@
 - [抗疫有GIS︱纽约社交距离与公共厕所地图制作（两则）](https://mp.weixin.qq.com/s/r7xdSsigtpUNYjssCKwC1Q)
 - [抗疫青年说︱当讨论疫情后的经济复苏时，请先从公共交通的复兴开始…（两则）](https://mp.weixin.qq.com/s/X5Ij7YgSgcjseLNzgqTtNg)
 - [抗疫青年说︱大流行病与城市密度的未来: 卫生、公众理念和“城市惩罚”](https://mp.weixin.qq.com/s/wqoJmEBe3-7nNqcC0ooenQ)
+- [抗疫青年说︱设计健康的生活：加拿大健康社区设计指南](https://mp.weixin.qq.com/s/nE1nBKtIjZuTvvr_F5VdRw)
+- [抗疫青年说︱麦肯锡: 后疫情世界如何应对气候变化](https://mp.weixin.qq.com/s/9SudUSiN3w2ozy_KccVtEQ)
 
 ![](/img/SCM.jpg)

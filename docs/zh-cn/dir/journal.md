@@ -21,6 +21,7 @@
 - [爱思唯尔推出COVID-19医疗资源中心](https://mp.weixin.qq.com/s/gEfvyBosCQr2Y7xyrOEicQ)
 - [爱思唯尔推出Pure新型冠状病毒信息中心](https://mp.weixin.qq.com/s/3tPnvfzH_GOxTjOSBFU_Kg)
 - [Pure新型冠状病毒信息中心](https://covid19.elsevierpure.com/)
+- [应对新冠疫情的工程资源，我们帮你整理好了](https://mp.weixin.qq.com/s/y7FJW-WBArNRaIbzL74WQA)
 - [Spring Nature](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
 - [Springer Nature Experiments冠状病毒主题专属页面](https://mp.weixin.qq.com/s/hgqjvsu6am22QqsWeyfQfQ)
 - [新冠最新临床及医学研究摘要 | Springer Nature 新型冠状病毒（SARS-CoV-2）资源中心](https://mp.weixin.qq.com/s/bM1EEcHd4wvarv01b32HmA)

@@ -160,3 +160,5 @@
 - [Coronavirus tracked: the latest figures as countries fight to contain the pandemic](https://www.ft.com/coronavirus-latest)
 - [图解新冠病毒：为什么单张图表根本不能说明新冠疫情的发展情况？](https://mp.weixin.qq.com/s/Fw2Se6zfuMCBtYufk6ir2Q)
 - [One Chart Isn’t Going To Tell You When The Pandemic Peaked](https://fivethirtyeight.com/features/one-chart-isnt-going-to-tell-you-when-the-pandemic-peaked/)
+- [利用Python+PyEcharts画出《人民日报》各国疫情图](https://mp.weixin.qq.com/s/ksatG_oKvt17-ix0-NtjsA)
+- [【保姆级教程】什么是彩虹玫瑰图？学习用Echarts画人民日报式海外疫情数据玫瑰图](https://mp.weixin.qq.com/s/w7TQVsmmXS0S6T3JkDV0Jw)
