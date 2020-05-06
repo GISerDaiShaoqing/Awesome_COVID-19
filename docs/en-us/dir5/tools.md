@@ -56,3 +56,4 @@
 - [IVIG treatment response for Kawasaki disease](https://github.com/fonnesbeck/kawasaki)
 - [Psychosocial determinants of weight study using the Healthy Weight Cohort](https://github.com/fonnesbeck/psychosocial_determinants_bmi)
 - [simple script to generate a projection of beds required to support given trajectory of covid19 cases requiring hospitalisation](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection)
+- [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
