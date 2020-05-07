@@ -365,3 +365,4 @@
 - [医疗废物处置中心 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/-MWTSbbrKao9aQxZ5_uKFw)
 - [“COVID-19”科研动态监测每日快报（5月6日）【中国科讯】](https://mp.weixin.qq.com/s/iIfDDlKEIUOWUolXjnAS0w)
 - [利用夜光和空气数据测算COVID-19对中国人口活动的影响 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/Z-5QvUHyQ0uaSMgFXfZKKQ)
+- [美华裔科研人员家中遇害，警方称与其从事新冠研究无关 | 科研圈日报](https://mp.weixin.qq.com/s/Wpa48stFhiLzKHS9Z8Bvxg)

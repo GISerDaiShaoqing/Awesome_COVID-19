@@ -1468,3 +1468,5 @@
 - [疫情期登记的个人信息，安全吗？](https://mp.weixin.qq.com/s/WMqtuAF50DXfnkz7FIy6nQ)
 - [美西政客VS法学专家，一图看懂“起诉中国”多荒谬](https://mp.weixin.qq.com/s/noUgyxdD_V50pdOQQDhPHA)
 - [习近平：巩固疫情防控成果，决不能前功尽弃](https://mp.weixin.qq.com/s/tSsNn9wqug6vJFF9hcjX3A)
+- [拾声｜上海疫情期的那些声音](https://mp.weixin.qq.com/s/j13StzW-mvxjo-QKPDePbw)
+- [“多名抗疫一线医护人员被裁”，处理结果公布](https://mp.weixin.qq.com/s/iMNPbgpwRWYqr5sth4zzOg)
