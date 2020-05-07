@@ -1,4 +1,4 @@
-# Economic, Urban planning and Govermance correlated resources
+# Economic, Urban planning and Governance correlated Resources
 - [新冠肺炎疫情对经济的影响及政策建议](https://mp.weixin.qq.com/s?__biz=MzA4OTMyNzIzOA==&mid=2650767941&idx=1&sn=d55dcba9243a61424334ceba14a152ea&chksm=8817b1acbf6038bac97f8d502d0f8029dd7f03620842222baa16323c7d5777d4b1c4e1f011aa&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520354520&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [恢复性空间规划：应对个体孤独、社会隔离和不平等](https://mp.weixin.qq.com/s?__biz=MjM5NTcyNDA0Mw==&mid=2650698103&idx=1&sn=55d1a8bf1e1dc1548c1eb4ff0af1bcf0&chksm=befeff138989760538aa7d9fdb1b17f6e90fafb61f5cef5d66c0d7b5418f262276df64a92440&mpshare=1&scene=1&srcid=&sharer_sharetime=1581520517741&sharer_shareid=cc522eb07e997d352cfce26bb80d69ec#rd)
 - [新冠肺炎疫情危机下国家和地方应急响应梳理及建议](https://mp.weixin.qq.com/s/PsCl4LifjrWWRwMM2ss1HQ)
@@ -301,3 +301,4 @@
 - [|全网首发|【专题讨论14】韧性城市理念下传染病医院弹性建设模式研究](https://mp.weixin.qq.com/s/rO57Bt4z1nWFI6-TlXIMgw)
 - [|全网首发|【专题讨论15】临时性到常备化：突发公共卫生事件下救治设施空间规划供给研究](https://mp.weixin.qq.com/s/qNJ6bS8yDt6693zOvnUIcQ)
 - [|全网首发|【专题讨论16】新型冠状病毒肺炎疫情下城市防灾规划复合化体系建构思考](https://mp.weixin.qq.com/s/q35TPT8A1wOQuZlwle-iIw)
+- [后疫情时期城市数字化转型的三大趋势](https://mp.weixin.qq.com/s/JL6MWoztwBRY_wnQWiMZhQ)

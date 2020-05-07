@@ -1,4 +1,4 @@
-# Modeling spearding and epidemiological analysis
+# Modeling spreading and epidemiological analysis
 - [周涛：介绍并分析帝国理工和东北大学关于武汉实际感染人数的估计结果](https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247489564&idx=1&sn=b056a8c8882646c5d307de40b1314677&chksm=96e91e9ea19e97886e06aed91c1d5b7e20a6de5cca6bb21674b9edb6c1d6b53cc0d6115add26&mpshare=1&scene=1&srcid=&sharer_sharetime=1579844718150&sharer_shareid=c5b49dbef054fecb25ea9b8b20406be6#rd)
 - [Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan City](http://www.cidid.org/publications-1/2020/1/20/preliminary-assessment-of-the-international-spreading-risk-associated-with-the-2019-novel-coronavirus-2019-ncov-outbreak-in-wuhan-city)
 - [Estimating the potential total number of novel Coronavirus in Wuhan City, China](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)

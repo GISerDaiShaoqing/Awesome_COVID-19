@@ -4,6 +4,13 @@ export default {
     postsTitle: 'All posts',
     list: [
       {
+        title: 'Tutorial of the Website "Awesome of COVID-19"',
+        author: 'Shaoqing Dai',
+        dateStr: 'May 7th，2020',
+        desc: 'With the pandemic of COVID-19, I built up a website, "Awesome of COVID-19", which collected the related resources of COVID-19 researches.',
+        link: '/en-us/blog/blog5.html',
+      },
+      {
         title: 'Towards precision management of cardiovascular patients with COVID-19 to reduce mortality',
         author: 'Kehua Zhou, Shujuan Yang, Peng Jia',
         dateStr: 'April 30th，2020',

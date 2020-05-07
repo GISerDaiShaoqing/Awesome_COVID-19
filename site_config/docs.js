@@ -63,7 +63,7 @@ export default {
             opened: true,
             children: [
               {
-                title: 'Modeling spearding and epidemiological analysis',
+                title: 'Modeling spreading and epidemiological analysis',
                 link: '/en-us/docs/dir4/epi.html',
               },
               {
@@ -81,7 +81,7 @@ export default {
             link: '/en-us/docs/compre.html',
           },
           {
-            title: 'Economic, Urban planning and Govermance correlated resources',
+            title: 'Economic, Urban planning and Governance correlated Resources',
             link: '/en-us/docs/econo.html',
           },
           {

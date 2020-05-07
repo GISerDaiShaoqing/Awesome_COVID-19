@@ -24,8 +24,8 @@ for i in range(0, len(lists), 1):
             leccn.write(lecenu.replace("# Competitions", "# 竞赛"))
         elif "# Comprehensive Research" in lecenu:
             leccn.write(lecenu.replace("# Comprehensive Research", "# 综合性研究"))
-        elif "# Economic, Urban planning and Govermance correlated resources" in lecenu:
-            leccn.write(lecenu.replace("# Economic, Urban planning and Govermance correlated resources", "# 经济，城市规划与政府治理相关资源"))
+        elif "# Economic, Urban planning and Governance correlated Resources" in lecenu:
+            leccn.write(lecenu.replace("# Economic, Urban planning and Governance correlated Resources", "# 经济，城市规划与政府治理相关资源"))
         elif "# Funding application" in lecenu:
             leccn.write(lecenu.replace("# Funding application", "# 基金申请"))
         elif "# ISLE" in lecenu:
@@ -67,8 +67,8 @@ for i in range(0, len(lists), 1):
                 leccn.write(lecenu.replace("# Radiology", "# 影像学"))
             elif "# Clinic Medicine" in lecenu:
                 leccn.write(lecenu.replace("# Clinic Medicine", "# 临床医学"))
-            elif "# Modeling spearding and epidemiological analysis" in lecenu:
-                leccn.write(lecenu.replace("# Modeling spearding and epidemiological analysis", "# 疫情传播建模与流行病学分析"))
+            elif "# Modeling spreading and epidemiological analysis" in lecenu:
+                leccn.write(lecenu.replace("# Modeling spreading and epidemiological analysis", "# 疫情传播建模与流行病学分析"))
             elif "# Risk assessment" in lecenu:
                 leccn.write(lecenu.replace("# Risk assessment", "# 风险评估"))
             elif "# Evaluation intervention" in lecenu:

@@ -7,6 +7,13 @@ export default {
       title: 'Events & News',
       list: [
         {
+          img: 'http://blog.gisersqdai.top/1588883152411532qwf6c.png',
+          title: 'Tutorial of the Website "Awesome of COVID-19"',
+          content: ' With the pandemic of COVID-19, I built up a website, "Awesome of COVID-19", which collected the related resources of COVID-19 researches.',
+          dateStr: 'May 7th，2020',
+          link: '/en-us/blog/blog5.html',
+        },
+        {
           img: 'https://ars.els-cdn.com/content/image/1-s2.0-S0033062020300840-gr1.jpg',
           title: 'Towards precision management of cardiovascular patients with COVID-19 to reduce mortality',
           content: ' We suggest, therefore, considering the epidemiological information of patients (e.g., birthplace and residential history) when implementing precision management of CVD patients with COVID-19, to enhance mortality risk reduction.',

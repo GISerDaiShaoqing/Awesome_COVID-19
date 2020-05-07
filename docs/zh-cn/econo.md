@@ -301,3 +301,4 @@
 - [|全网首发|【专题讨论14】韧性城市理念下传染病医院弹性建设模式研究](https://mp.weixin.qq.com/s/rO57Bt4z1nWFI6-TlXIMgw)
 - [|全网首发|【专题讨论15】临时性到常备化：突发公共卫生事件下救治设施空间规划供给研究](https://mp.weixin.qq.com/s/qNJ6bS8yDt6693zOvnUIcQ)
 - [|全网首发|【专题讨论16】新型冠状病毒肺炎疫情下城市防灾规划复合化体系建构思考](https://mp.weixin.qq.com/s/q35TPT8A1wOQuZlwle-iIw)
+- [后疫情时期城市数字化转型的三大趋势](https://mp.weixin.qq.com/s/JL6MWoztwBRY_wnQWiMZhQ)
