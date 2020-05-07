@@ -143,3 +143,4 @@
 - [Which Countries Have Escaped The Coronavirus So Far?](https://www.statista.com/chart/21279/countries-that-have-not-reported-coronavirus-cases/)
 - [Novel Coronavirus 2019 time series data on cases](https://github.com/datasets/covid-19)
 - [Compare Covid19 Data Sources](https://github.com/SteveGoldstein/CompareCovid19DataSources)
+- [Bing search dataset for Coronavirus Intent](https://github.com/microsoft/BingCoronavirusQuerySet)

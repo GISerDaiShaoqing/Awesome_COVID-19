@@ -290,3 +290,4 @@
 - [Hoping Llamas Will Become Coronavirus Heroes](https://www.nytimes.com/2020/05/06/science/llama-coronavirus-antibodies.html)
 - [中国团队发布全球首个新冠疫苗动物实验研究结果](https://mp.weixin.qq.com/s/ukjVTTWdPKqXA7IKbVxyYQ)
 - [Rapid development of aninactivated vaccine for SARS-CoV-2](https://science.sciencemag.org/content/early/2020/05/05/science.abc1932)
+- [中国团队发布全球首个新冠疫苗动物实验研究结果，安全有效](http://news.sciencenet.cn/htmlnews/2020/5/439395.shtm)

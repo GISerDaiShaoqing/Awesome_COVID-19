@@ -212,3 +212,4 @@
 - [透视新冠肺炎死亡率排名前20国家，3点结论值得关注](https://mp.weixin.qq.com/s/iM0sxMkl2t-yaHWvH3yf5A)
 - [主编推荐 | 基于众包数据的COVID-19暴发早期流行病学分析](https://mp.weixin.qq.com/s/DRAX-chty3QXtZC0D7T64Q)
 - [Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a population-level observational study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext)
+- [Epidemiological characteristics of confirmed COVID-19 in Guizhou province, China](https://static.aminer.cn/upload/pdf/863/1084/1539/5eb2a3629e795e7e85d553bf_1.pdf)

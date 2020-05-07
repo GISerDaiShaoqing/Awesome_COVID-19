@@ -366,3 +366,4 @@
 - [Is there a role for Fangcang hospitals in the UK?](https://blogs.bmj.com/bmj/2020/04/23/is-there-a-role-for-fangcang-hospitals-in-the-uk/)
 - [COVID-19: Impact Analysis and Recommendations for Power and Energy Sector Operation](http://www.enerarxiv.org/page/thesis.html?id=1799)
 - [原创 | 疫情之下，未来生活提前到来](https://mp.weixin.qq.com/s/KoM0XmNAgVYzrFsMdwX0Ag)
+- [COVID-19 and the Widening Gap in Health Inequity](https://static.aminer.cn/upload/pdf/1377/1597/519/5eb2a3639e795e7e85d553c1_1.pdf)
