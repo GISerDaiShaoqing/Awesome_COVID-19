@@ -41,5 +41,7 @@
 - [抗疫青年说︱大流行病与城市密度的未来: 卫生、公众理念和“城市惩罚”](https://mp.weixin.qq.com/s/wqoJmEBe3-7nNqcC0ooenQ)
 - [抗疫青年说︱设计健康的生活：加拿大健康社区设计指南](https://mp.weixin.qq.com/s/nE1nBKtIjZuTvvr_F5VdRw)
 - [抗疫青年说︱麦肯锡: 后疫情世界如何应对气候变化](https://mp.weixin.qq.com/s/9SudUSiN3w2ozy_KccVtEQ)
+- [新冠与城市︱访谈：城市密度是否决定新冠病毒下的城市宿命?](https://mp.weixin.qq.com/s/tqCqH2x1UuNEMr2KQaT2sA)
+- [大流行病的历史︱纽约1918年大流行病的样子](https://mp.weixin.qq.com/s/Crzy65M9GWps0DGc_eVUJQ)
 
 ![](/img/SCM.jpg)

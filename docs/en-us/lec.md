@@ -126,3 +126,6 @@
 - [杨东亮：新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/dU0_bux8FMtYQ2WwEQ2VMw)
 - [杨小兵：国内外口罩标准与技术指标解读 | 未来·局回顾](https://mp.weixin.qq.com/s/foLEpjx4mfzPw3lFsfuOjQ)
 - [基于 TensorFlow 的 AI 医疗专项课程](https://mp.weixin.qq.com/s/-tSNPFWuUAVTzrWepMduFA)
+- [云ICU-5月8日直播： “新冠后疫情下的思考”专题会议](https://mp.weixin.qq.com/s/xAuhaHR7AUZJMkGSpRvhWA)
+- [【重症灼见-公开课】5月7日直播：非机械通气患者镇痛镇静](https://mp.weixin.qq.com/s/4QNYqpBdDXHESqJ-HmdwsA)
+- [【抗疫超声在线】5月7日：床旁超声在胸腹部的应用](https://mp.weixin.qq.com/s/tKo-7a0_0Y0sxGVXc2wBQQ)

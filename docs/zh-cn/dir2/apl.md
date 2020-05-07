@@ -361,3 +361,7 @@
 - [多国最早感染时间提前！明晚直播听武汉协和医院教授杨东亮解析新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/cIJyP6lDEmOVxpn8eT31Bw)
 - [美华裔科研人员家中遇害，年仅37岁](https://mp.weixin.qq.com/s/pGcLnoouOBc4wYKR9FkO0A)
 - [使用后验预测分布分析流行病模型：墨西哥城的COVID-19 | 网络科学论文速递15篇](https://mp.weixin.qq.com/s/jw__iff7B4jWJFg4S5YFLA)
+- [怎样让口罩轻松一“变”十](https://mp.weixin.qq.com/s/V6hSrkWrh9h7JmOQVrq4nQ)
+- [医疗废物处置中心 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/-MWTSbbrKao9aQxZ5_uKFw)
+- [“COVID-19”科研动态监测每日快报（5月6日）【中国科讯】](https://mp.weixin.qq.com/s/iIfDDlKEIUOWUolXjnAS0w)
+- [利用夜光和空气数据测算COVID-19对中国人口活动的影响 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/Z-5QvUHyQ0uaSMgFXfZKKQ)
