@@ -43,5 +43,7 @@
 - [抗疫青年说︱麦肯锡: 后疫情世界如何应对气候变化](https://mp.weixin.qq.com/s/9SudUSiN3w2ozy_KccVtEQ)
 - [新冠与城市︱访谈：城市密度是否决定新冠病毒下的城市宿命?](https://mp.weixin.qq.com/s/tqCqH2x1UuNEMr2KQaT2sA)
 - [大流行病的历史︱纽约1918年大流行病的样子](https://mp.weixin.qq.com/s/Crzy65M9GWps0DGc_eVUJQ)
+- [新冠大数据 | 五份表格揭示纽约新冠病毒疫情](https://mp.weixin.qq.com/s/kF4ooSyq9Md1Mz14zzfFYQ)
+- [劫后重生的城市 | 全球顶尖专家漫谈疫情冲击下的城市](https://mp.weixin.qq.com/s/SW_yL6KXdy0Ohw7voRk5ew)
 
 ![](/img/SCM.jpg)

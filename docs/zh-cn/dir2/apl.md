@@ -366,3 +366,7 @@
 - [“COVID-19”科研动态监测每日快报（5月6日）【中国科讯】](https://mp.weixin.qq.com/s/iIfDDlKEIUOWUolXjnAS0w)
 - [利用夜光和空气数据测算COVID-19对中国人口活动的影响 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/Z-5QvUHyQ0uaSMgFXfZKKQ)
 - [美华裔科研人员家中遇害，警方称与其从事新冠研究无关 | 科研圈日报](https://mp.weixin.qq.com/s/Wpa48stFhiLzKHS9Z8Bvxg)
+- [给山里的猴子拍照喂吃的，需要距离多远才能防止耐药菌的传播？| 领研网24小时热门论文](https://mp.weixin.qq.com/s/xQg9emSfTXWHg4Qx1cqaag)
+- [“COVID-19”科研动态监测每日快报（5月7日）【中国科讯】](https://mp.weixin.qq.com/s/vz_WEGUcxwZEDLsTLqzp7w)
+- [【视频】有疾病流行地区居住旅行史人员应该怎么做？](https://mp.weixin.qq.com/s/fPUv_kWpUJKzGBEh-EkqjA)
+- [新冠病毒的新毒株或成主流，可能导致二次感染 | 科研圈日报](https://mp.weixin.qq.com/s/9pOfPMQnhrbEShM2P0UuGA)

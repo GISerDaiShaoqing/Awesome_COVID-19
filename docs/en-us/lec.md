@@ -129,3 +129,6 @@
 - [云ICU-5月8日直播： “新冠后疫情下的思考”专题会议](https://mp.weixin.qq.com/s/xAuhaHR7AUZJMkGSpRvhWA)
 - [【重症灼见-公开课】5月7日直播：非机械通气患者镇痛镇静](https://mp.weixin.qq.com/s/4QNYqpBdDXHESqJ-HmdwsA)
 - [【抗疫超声在线】5月7日：床旁超声在胸腹部的应用](https://mp.weixin.qq.com/s/tKo-7a0_0Y0sxGVXc2wBQQ)
+- [福建省抗疫护理先进事迹报告会即将直播！入口来了！](https://mp.weixin.qq.com/s/Q0HpweuD5zBnmveDFDoLDA)
+- [TalkingData崔晓波：以数据说话，重塑后疫情时代的企业数字化思维丨直播](https://mp.weixin.qq.com/s/twioGoWbY-tuVu-s3L2kzg)
+- [【直播实录】武汉协和医院教授杨东亮：新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/uFD92ZBaj5cxH9V1yfkCdA)

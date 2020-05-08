@@ -145,3 +145,4 @@
 - [Compare Covid19 Data Sources](https://github.com/SteveGoldstein/CompareCovid19DataSources)
 - [Bing search dataset for Coronavirus Intent](https://github.com/microsoft/BingCoronavirusQuerySet)
 - [Pulls the covid-19 data from the New York Times Public Data Source](https://github.com/Covid19R/covid19nytimes)
+- [A Tidy format for the COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/Covid19R/coronavirus)

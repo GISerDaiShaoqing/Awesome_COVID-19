@@ -213,3 +213,5 @@
 - [主编推荐 | 基于众包数据的COVID-19暴发早期流行病学分析](https://mp.weixin.qq.com/s/DRAX-chty3QXtZC0D7T64Q)
 - [Early epidemiological analysis of the coronavirus disease 2019 outbreak based on crowdsourced data: a population-level observational study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30026-1/fulltext)
 - [Epidemiological characteristics of confirmed COVID-19 in Guizhou province, China](https://static.aminer.cn/upload/pdf/863/1084/1539/5eb2a3629e795e7e85d553bf_1.pdf)
+- [识别已治愈的新冠肺炎（COVID-19）患者或有助于构建群体“护盾免疫” |《自然-医学》论文](https://mp.weixin.qq.com/s/7HwfHq7vLYATZnvFl5l_kA)
+- [Modeling shield immunity to reduce COVID-19 epidemic spread](https://www.nature.com/articles/s41591-020-0895-3)

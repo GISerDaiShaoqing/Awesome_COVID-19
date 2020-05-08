@@ -302,3 +302,6 @@
 - [|全网首发|【专题讨论15】临时性到常备化：突发公共卫生事件下救治设施空间规划供给研究](https://mp.weixin.qq.com/s/qNJ6bS8yDt6693zOvnUIcQ)
 - [|全网首发|【专题讨论16】新型冠状病毒肺炎疫情下城市防灾规划复合化体系建构思考](https://mp.weixin.qq.com/s/q35TPT8A1wOQuZlwle-iIw)
 - [后疫情时期城市数字化转型的三大趋势](https://mp.weixin.qq.com/s/JL6MWoztwBRY_wnQWiMZhQ)
+- [【动向】疫情让自行车在英国再次伟大！](https://mp.weixin.qq.com/s/4kFviIa434Vd6c7sMi1R0w)
+- [Coronavirus: Boom time for bikes as virus changes lifestyles](https://www.bbc.com/news/business-52564351)
+- [【新冠肺炎与健康城市】让城市更安全，防疫更高效](https://mp.weixin.qq.com/s/Fc1Tumx43II69caWohIDhQ)
