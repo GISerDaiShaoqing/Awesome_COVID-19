@@ -220,3 +220,4 @@
 - [Rapid implementation of mobile technology for real-time epidemiology of COVID-19](https://science.sciencemag.org/content/early/2020/05/05/science.abc0473)
 - [Quantifying the impact of physical distance measures on the transmission of COVID-19 in the UK](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01597-8)
 - [Evaluation of the Secondary Transmission Pattern and Epidemic Prediction of COVID-19 in the Four Metropolitan Areas of China](https://www.frontiersin.org/articles/10.3389/fmed.2020.00171/full)
+- [A simulation study of disaggregation regression for spatial disease mapping](https://arxiv.org/abs/2005.03604)

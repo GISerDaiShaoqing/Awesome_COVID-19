@@ -442,3 +442,4 @@
 - [7张图带你看懂90多种新冠疫苗的研发现状](https://mp.weixin.qq.com/s/6fpWulvCw2uucZ_gUS4bLw)
 - [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y)
 - [氯喹跌落神坛|NEJM大样本研究未发现羟氯喹降低Covid-19死亡或插管率](https://mp.weixin.qq.com/s/zkeAZbgTPbqGET2AuEghDQ)
+- [COVID-19-Related Stroke](https://link.springer.com/article/10.1007/s12975-020-00818-9)
