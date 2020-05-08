@@ -215,3 +215,5 @@
 - [Epidemiological characteristics of confirmed COVID-19 in Guizhou province, China](https://static.aminer.cn/upload/pdf/863/1084/1539/5eb2a3629e795e7e85d553bf_1.pdf)
 - [识别已治愈的新冠肺炎（COVID-19）患者或有助于构建群体“护盾免疫” |《自然-医学》论文](https://mp.weixin.qq.com/s/7HwfHq7vLYATZnvFl5l_kA)
 - [Modeling shield immunity to reduce COVID-19 epidemic spread](https://www.nature.com/articles/s41591-020-0895-3)
+- [An early analysis of the COVID-19 pandemic](https://github.com/qingyuanzhao/bets.covid19)
+- [SEIR model with scenario analysis and model-based predictive control to simulate the effect policies](https://github.com/UGentBiomath/COVID19-Model)

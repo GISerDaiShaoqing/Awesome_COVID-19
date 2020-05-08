@@ -370,3 +370,7 @@
 - [“COVID-19”科研动态监测每日快报（5月7日）【中国科讯】](https://mp.weixin.qq.com/s/vz_WEGUcxwZEDLsTLqzp7w)
 - [【视频】有疾病流行地区居住旅行史人员应该怎么做？](https://mp.weixin.qq.com/s/fPUv_kWpUJKzGBEh-EkqjA)
 - [新冠病毒的新毒株或成主流，可能导致二次感染 | 科研圈日报](https://mp.weixin.qq.com/s/9pOfPMQnhrbEShM2P0UuGA)
+- [使用人类移动数据量化COVID-19在中国大陆的经济影响 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/u_ziO1Gmd3N-JcZPixV5dA)
+- [新冠最新临床及医学研究摘要 | Springer Nature 新型冠状病毒（SARS-CoV-2）资源中心](https://mp.weixin.qq.com/s/bM1EEcHd4wvarv01b32HmA)
+- [新冠临床及医学研究摘要 | Springer Nature 新型冠状病毒（SARS-CoV-2）资源中心](https://mp.weixin.qq.com/s/DA0-MU-e3pGqksz31g2F5A)
+- [最新新冠临床及医学研究摘要 | Springer Nature 新型冠状病毒（SARS-CoV-2）资源中心](https://mp.weixin.qq.com/s/ViEl0Thgnqmb4nKRneIg8g)
