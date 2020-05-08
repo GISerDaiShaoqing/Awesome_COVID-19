@@ -38,3 +38,5 @@
 - [MedicalZooPytorch: A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation](https://github.com/black0017/MedicalZooPytorch)
 - [Chest computed tomography in children with COVID-19 respiratory infection](https://link.springer.com/article/10.1007%2Fs00247-020-04656-7)
 - [POCOVID-Net: Automatic Detection of COVID-19 From a New Lung Ultrasound Imaging Dataset (POCUS)](https://arxiv.org/abs/2004.12084)
+- [Is there a role for lung perfusion [99mTc]-MAA SPECT/CT to rule out pulmonary embolism in COVID-19 patients with contraindications for iodine contrast?](https://link.springer.com/article/10.1007%2Fs00259-020-04837-4)
+- [Clinical and radiological changes of hospitalised patients with COVID-19 pneumonia from disease onset to acute exacerbation: a multicentre paired cohort study](https://link.springer.com/article/10.1007%2Fs00330-020-06916-4)
