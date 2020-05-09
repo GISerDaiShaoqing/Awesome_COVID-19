@@ -7,5 +7,9 @@
 - [新闻快讯 | “走在疫情的前面”](https://mp.weixin.qq.com/s/9HTDYsIyRFEqcdl6BPzGkw)
 - [科研成果|新冠肺炎的精准医学：降低心血管疾病患者的死亡率](https://mp.weixin.qq.com/s/5cqXGPW2NFt6hLjZ-KLj_g)
 - [帮转｜中国和荷兰政府冠状病毒暴发应对措施的差异认知调查](https://mp.weixin.qq.com/s/FXJUkLCbtmnNM5X-upXb1A)
+- [Spatial Lifecourse Epidemiology and Infectious Disease Research](https://www.sciencedirect.com/science/article/pii/S1471492220300052?via%3Dihub)
+- [新型冠状病毒（SARS-CoV-2）全球研究现状分析](https://www.ncbi.nlm.nih.gov/pubmed/32329275)
+- [Are we ready for a new era of high-impact and high-frequency epidemics?](https://www.nature.com/articles/d41586-020-01079-0)
+- [Towards precision management of cardiovascular patients with COVID-19 to reduce mortality](https://www.sciencedirect.com/science/article/pii/S0033062020300840?via%3Dihub)
 
 ![](/img/ISLEwechat.jpg)
