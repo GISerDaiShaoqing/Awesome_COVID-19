@@ -305,3 +305,4 @@
 - [【动向】疫情让自行车在英国再次伟大！](https://mp.weixin.qq.com/s/4kFviIa434Vd6c7sMi1R0w)
 - [Coronavirus: Boom time for bikes as virus changes lifestyles](https://www.bbc.com/news/business-52564351)
 - [【新冠肺炎与健康城市】让城市更安全，防疫更高效](https://mp.weixin.qq.com/s/Fc1Tumx43II69caWohIDhQ)
+- [论文推送 | 颠覆性技术驱动下的未来人居——来自新城市科学和未来城市等视角 | 建筑学报](https://mp.weixin.qq.com/s/LnA2dj0gvPg2oQ3ILKsmIw)

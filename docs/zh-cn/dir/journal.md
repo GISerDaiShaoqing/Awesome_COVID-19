@@ -12,6 +12,7 @@
 - [BMJ Best Practice：COVID-19 患者教育](https://bestpractice.bmj.com/info/wp-content/uploads/2020/04/COVID-19-Patient-Leaflet.pdf)
 - [BMJ Best Practice：Patient information from BMJ](https://bestpractice.bmj.com/info/wp-content/uploads/2020/04/COVID-19-Patient-Leaflet-EN-2.pdf)
 - [BMJ Best Practice 临床实践再次开放多个免费主题，帮助医务工作者应对疫情](https://mp.weixin.qq.com/s/8zpSTnfZDzRnVFB55IzZhQ)
+- [BMJ Best Practice 临床实践移动应用版免费开放多个 COVID-19 相关主题](https://mp.weixin.qq.com/s/TKofTttYg5aCoTA4tgne9A)
 - [app.dimensions.ai](https://app.dimensions.ai/discover/publication?search_text=%222019-nCoV%22%20OR%20%22COVID-19%22%20OR%20%22SARS-CoV-2%22%20OR%20((%22coronavirus%22%20%20OR%20%22corona%20virus%22)%20AND%20(Wuhan%20OR%20China))&search_type=kws&search_field=full_search&and_facet_year=2020)
 - [PNAS](https://www.pnas.org/coronavirus)
 - [wiley](https://novel-coronavirus.onlinelibrary.wiley.com/)

@@ -443,3 +443,8 @@
 - [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y)
 - [氯喹跌落神坛|NEJM大样本研究未发现羟氯喹降低Covid-19死亡或插管率](https://mp.weixin.qq.com/s/zkeAZbgTPbqGET2AuEghDQ)
 - [COVID-19-Related Stroke](https://link.springer.com/article/10.1007/s12975-020-00818-9)
+- [2分钟看懂NEJM：洛匹那韦/利托那韦对COVID-19的疗效](https://mp.weixin.qq.com/s/fZ_GmgrjiS0_AOQYlbQDBQ)
+- [免疫学 | 治疗新冠肺炎的线索：细胞因子风暴和 T 细胞计数](https://mp.weixin.qq.com/s/oN0s3a18Z2HB9uGGETK7xg)
+- [Reduction and Functional Exhaustion of T Cells in Patients With Coronavirus Disease 2019 (COVID-19)](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00827/full?utm_source=article0508&utm_medium=wechat&utm_campaign=chinaad)
+- [Lancet | 证明有效！袁国勇团队发现联合用药治疗轻中新冠肺炎显奇效](https://mp.weixin.qq.com/s/BslfNSwawHFspFyrOIQxQA)
+- [Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext)

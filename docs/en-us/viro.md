@@ -299,3 +299,6 @@
 - [Nature重磅 | 中国团队：新冠病毒或为蝙蝠穿山甲冠状病毒重组](https://mp.weixin.qq.com/s/r106wEB9BuT9m8LMI-Y7Yg)
 - [晶体结构揭示SARS-CoV-2的药物靶点及其抑制剂之间的互作 |《自然-结构和分子生物学》论文](https://mp.weixin.qq.com/s/OjJqsX717rMAksecUcfU6Q)
 - [Structural basis for the inhibition of SARS-CoV-2 main protease by antineoplastic drug carmofur](https://www.nature.com/articles/s41594-020-0440-6)
+- [Nature | 华南农大研究表明，新冠病毒由穿山甲冠状病毒和蝙蝠冠状病毒重组而来](https://mp.weixin.qq.com/s/KaimXXr0krrJ_OvHnlvFUg)
+- [高福院士最新论文！从康复患者体内发现2种抗体，可阻断新冠病毒与ACE2结合，为疫苗设计提供结构基础](https://mp.weixin.qq.com/s/zgEsbT7RSYFfJzqOwPeAQg)
+- [A non-competing pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2](https://doi.org/10.1101/2020.05.01.20077743)
