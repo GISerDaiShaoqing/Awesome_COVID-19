@@ -62,3 +62,4 @@
 - [COVID-19 Preprints: This repository contains code used to extract details of preprints related to COVID-19 and visualize their distribution over time](https://github.com/nicholasmfraser/covid19_preprints)
 - [This script does topic modelling on the latest academic pre-prints on coronavirus to see if there were any unusual patterns. Its a total experiment and I have written an article summarising the things I thought were interesting](https://github.com/Raudaschl/coronvavirus_preprint_research_nlp)
 - [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
+- [Coronavirus in context: Scite.ai tracks positive and negative citations for COVID-19 literature](https://www.nature.com/articles/d41586-020-01324-6?utm_source=weibo&utm_medium=social&utm_term=d41586-020-01324-6)

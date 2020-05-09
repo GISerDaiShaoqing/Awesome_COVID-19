@@ -303,4 +303,3 @@
 - [高福院士最新论文！从康复患者体内发现2种抗体，可阻断新冠病毒与ACE2结合，为疫苗设计提供结构基础](https://mp.weixin.qq.com/s/zgEsbT7RSYFfJzqOwPeAQg)
 - [A non-competing pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2](https://doi.org/10.1101/2020.05.01.20077743)
 - [比利时研究团队发现：羊驼可产生新冠抗体！‘草泥马’拯救人类？](https://mp.weixin.qq.com/s/0-RponQKWc3_44EKnF-Q9Q)
-- [意大利年底前不对外国游客开放边境，国民也不能出国旅游！](https://mp.weixin.qq.com/s/9gusIURqLj_6-CKXK_-JAA)

@@ -392,3 +392,4 @@
 - [Both/and problem in an either/or world](https://science.sciencemag.org/content/early/2020/05/08/science.abc6859?utm_campaign=fr_sci_2020-05-08&et_rid=76975177&et_cid=3319632)
 - [Nature：构建新冠肺炎蛋白质相互作用网络，潜在特效药缩小至69种](https://mp.weixin.qq.com/s/73bebaV7wukZEyQRF0ftGA)
 - [A SARS-CoV-2 protein interaction map reveals targets for drug repurposing](https://www.nature.com/articles/s41586-020-2286-9)
+- [作为一个社会科学家，现在应该写一篇与COVID-19相关的论文吗？](https://mp.weixin.qq.com/s/iLRMZgHrw0Ftbd0QFoDEGg)

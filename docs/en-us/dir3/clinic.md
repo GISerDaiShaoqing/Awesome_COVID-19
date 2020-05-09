@@ -448,3 +448,4 @@
 - [Reduction and Functional Exhaustion of T Cells in Patients With Coronavirus Disease 2019 (COVID-19)](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00827/full?utm_source=article0508&utm_medium=wechat&utm_campaign=chinaad)
 - [Lancet | 证明有效！袁国勇团队发现联合用药治疗轻中新冠肺炎显奇效](https://mp.weixin.qq.com/s/BslfNSwawHFspFyrOIQxQA)
 - [Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext)
+- [How Corona Virus attacks Humans and difference between different nationalities](https://www.researchgate.net/publication/340005405_How_Corona_Virus_attacks_Humans_and_difference_between_different_nationalities)

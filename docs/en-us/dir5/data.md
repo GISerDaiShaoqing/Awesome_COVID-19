@@ -92,7 +92,6 @@
 - [NYC Coronavirus (COVID-19) data](https://github.com/nychealth/coronavirus-data)
 - [COVID-19 UK Historical Data](https://github.com/tomwhite/covid-19-uk-data)
 - [COVID-19 Policy Data](https://github.com/tgerke/covid-policy)
-- [Mobility changes in response to COVID-19, provided by Descartes Labs](https://github.com/descarteslabs/DL-COVID-19)
 - [新冠研究数据哪里找？科研工作者必看（附链接）](https://mp.weixin.qq.com/s/ulfY7-vvsqwKs936EnVyuQ)
 - [COVID-19 Global Public Health Intervention Database](https://github.com/HopkinsIDD/covid19-interventions)
 - [access to geographic locations of african health sites from different sources](https://github.com/afrimapr/afrihealthsites)
