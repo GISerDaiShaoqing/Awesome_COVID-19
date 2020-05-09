@@ -1519,3 +1519,4 @@
 - [“黑脸”医生，白回来了](https://mp.weixin.qq.com/s/efUO4qPxVyJ_T3_Qs1DmuQ)
 - [调整为中风险后，吉林舒兰发了一则通告](https://mp.weixin.qq.com/s/g8TBlW7CTucfEClG3r06JA)
 - [特朗普对疫苗研发态度有变：新冠病毒会自行消失](https://mp.weixin.qq.com/s/VS0f9XZyJJryDVy_XGXkXw)
+- [新增确诊289人，RIVM建模师担心荷兰解封，欧洲8国相继放松，全都上岸了？](https://mp.weixin.qq.com/s/G2hI8BrikqIDb_Qx6pG5gw)
