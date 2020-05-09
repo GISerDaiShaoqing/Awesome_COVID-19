@@ -132,3 +132,5 @@
 - [福建省抗疫护理先进事迹报告会即将直播！入口来了！](https://mp.weixin.qq.com/s/Q0HpweuD5zBnmveDFDoLDA)
 - [TalkingData崔晓波：以数据说话，重塑后疫情时代的企业数字化思维丨直播](https://mp.weixin.qq.com/s/twioGoWbY-tuVu-s3L2kzg)
 - [【直播实录】武汉协和医院教授杨东亮：新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/uFD92ZBaj5cxH9V1yfkCdA)
+- [A Intro to Interactive Visualization and R Shiny for Geography 183](https://github.com/mikejohnson51/COVID-19-dashboard)
+- [在线研讨会：疫情下全球城市领导者的反思 ∣ Journal of Urban Management](https://mp.weixin.qq.com/s/bH247r9mJty75gqU85qxgQ)

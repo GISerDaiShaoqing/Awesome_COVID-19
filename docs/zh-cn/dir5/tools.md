@@ -57,3 +57,8 @@
 - [Psychosocial determinants of weight study using the Healthy Weight Cohort](https://github.com/fonnesbeck/psychosocial_determinants_bmi)
 - [simple script to generate a projection of beds required to support given trajectory of covid19 cases requiring hospitalisation](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection)
 - [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+- [Preprint uploads during the COVID-19 (SARS-CoV-2) epidemic](https://github.com/lbrierley/epi_preprint)
+- [medrxiv-coronavirus-preprints](https://github.com/philgooch/medrxiv-coronavirus-preprints)
+- [COVID-19 Preprints: This repository contains code used to extract details of preprints related to COVID-19 and visualize their distribution over time](https://github.com/nicholasmfraser/covid19_preprints)
+- [This script does topic modelling on the latest academic pre-prints on coronavirus to see if there were any unusual patterns. Its a total experiment and I have written an article summarising the things I thought were interesting](https://github.com/Raudaschl/coronvavirus_preprint_research_nlp)
+- [Preprints from the BDI Pathogen Dynamics team about COVID-19 suppression through digital contact tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)

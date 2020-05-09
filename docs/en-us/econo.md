@@ -306,3 +306,8 @@
 - [Coronavirus: Boom time for bikes as virus changes lifestyles](https://www.bbc.com/news/business-52564351)
 - [【新冠肺炎与健康城市】让城市更安全，防疫更高效](https://mp.weixin.qq.com/s/Fc1Tumx43II69caWohIDhQ)
 - [论文推送 | 颠覆性技术驱动下的未来人居——来自新城市科学和未来城市等视角 | 建筑学报](https://mp.weixin.qq.com/s/LnA2dj0gvPg2oQ3ILKsmIw)
+- [|全网首发|【专题讨论17】应对突发传染性疫情的城市民生商业供应布局规划研究](https://mp.weixin.qq.com/s/V4vulbLcdl4j_4f2zNgH8w)
+- [|全网首发|【专题讨论18】城市规划中的风险管理与应对思考](https://mp.weixin.qq.com/s/q0QIKGKePNwbSIA41mDLxA)
+- [|全网首发|【专题讨论19】“冗余空间”：城市应急空间规划与管理思考](https://mp.weixin.qq.com/s/wWiejdMSgaULTDmWTNBP2w)
+- [|全网首发|【专题讨论20】突发公共卫生事件下的城乡关系思考](https://mp.weixin.qq.com/s/RrCZSSjeZnyAe6HWB-uBNQ)
+- [408研究小组 | 英国国家设计指南3：公共空间、功能、住宅](https://mp.weixin.qq.com/s/KRA_1BCvFjWaAITdVDl30w)
