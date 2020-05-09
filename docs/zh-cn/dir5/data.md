@@ -144,3 +144,4 @@
 - [Bing search dataset for Coronavirus Intent](https://github.com/microsoft/BingCoronavirusQuerySet)
 - [Pulls the covid-19 data from the New York Times Public Data Source](https://github.com/Covid19R/covid19nytimes)
 - [A Tidy format for the COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/Covid19R/coronavirus)
+- [This R package provides access to a wide variety of data sources about Covid-19 in a standardized tidy data format](https://github.com/Covid19R/covid19R)
