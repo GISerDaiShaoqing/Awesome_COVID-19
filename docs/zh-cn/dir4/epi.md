@@ -221,3 +221,4 @@
 - [Quantifying the impact of physical distance measures on the transmission of COVID-19 in the UK](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01597-8)
 - [Evaluation of the Secondary Transmission Pattern and Epidemic Prediction of COVID-19 in the Four Metropolitan Areas of China](https://www.frontiersin.org/articles/10.3389/fmed.2020.00171/full)
 - [A simulation study of disaggregation regression for spatial disease mapping](https://arxiv.org/abs/2005.03604)
+- [Using the contact network model and Metropolis-Hastings sampling to reconstruct the COVID-19 spread on the “Diamond Princess”](https://www.sciencedirect.com/science/article/pii/S2095927320302814?via%3Dihub#f0010)
