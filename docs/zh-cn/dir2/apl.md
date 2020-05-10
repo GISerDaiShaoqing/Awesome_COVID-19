@@ -381,3 +381,5 @@
 - [调查 | 疫情期间大学生假期生活调查](https://mp.weixin.qq.com/s/dGcUpwiE0no5B9lzoQwFZw)
 - [“COVID-19”科研动态监测每日快报（5月9日）【中国科讯】](https://mp.weixin.qq.com/s/NP1EY-lMfX3xMf7AkbWUrw)
 - [保安 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/FnfFe18aFUZ1WGLdTwqJGA)
+- [抗疫期间，中科院武汉病毒所做了什么](https://mp.weixin.qq.com/s/5Xlji1XXyHvQz8RZ-E35Ig)
+- [瑞德西韦获日本特殊批准，治疗新冠肺炎重症患者 | 本周值得读·科研生涯](https://mp.weixin.qq.com/s/Cyjt9mZhvd3Psx46qXxyAA)
