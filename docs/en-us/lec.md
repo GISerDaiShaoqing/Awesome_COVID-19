@@ -134,3 +134,4 @@
 - [【直播实录】武汉协和医院教授杨东亮：新冠病毒与宿主免疫系统的相互作用](https://mp.weixin.qq.com/s/uFD92ZBaj5cxH9V1yfkCdA)
 - [A Intro to Interactive Visualization and R Shiny for Geography 183](https://github.com/mikejohnson51/COVID-19-dashboard)
 - [在线研讨会：疫情下全球城市领导者的反思 ∣ Journal of Urban Management](https://mp.weixin.qq.com/s/bH247r9mJty75gqU85qxgQ)
+- [学术·预告 | “统计大讲堂”第一百一十七讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/fYqq2cN0wJ4TOCIsO_Q-cQ)

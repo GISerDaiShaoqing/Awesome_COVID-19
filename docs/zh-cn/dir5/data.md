@@ -145,3 +145,5 @@
 - [Pulls the covid-19 data from the New York Times Public Data Source](https://github.com/Covid19R/covid19nytimes)
 - [A Tidy format for the COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/Covid19R/coronavirus)
 - [This R package provides access to a wide variety of data sources about Covid-19 in a standardized tidy data format](https://github.com/Covid19R/covid19R)
+- [【数据】疫情之下中美贸易协议继续履行，目前两国之间关税到底有多高？](https://mp.weixin.qq.com/s/6P1H0565ZtMWqed3i9o_TQ)
+- [The New Energy Era: The Impact of Critical Minerals on National Security](https://www.visualcapitalist.com/new-energy-era-critical-minerals-u-s-national-security/)

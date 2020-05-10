@@ -378,3 +378,6 @@
 - [【视频】病例密切接触者的居家医学观察怎么做？](https://mp.weixin.qq.com/s/9KNx7mbD-iRAeIcr044Pgw)
 - [德国科学家发现近80%新冠死亡病例，都在空气严重污染地区｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/Nuxpm1RG_K3_jLNtLq8zbg)
 - [及时共享疫情信息 我国科技界让抗疫成果“全透明”](https://mp.weixin.qq.com/s/sb5X3ijV9qJcScqWKwXq4Q)
+- [调查 | 疫情期间大学生假期生活调查](https://mp.weixin.qq.com/s/dGcUpwiE0no5B9lzoQwFZw)
+- [“COVID-19”科研动态监测每日快报（5月9日）【中国科讯】](https://mp.weixin.qq.com/s/NP1EY-lMfX3xMf7AkbWUrw)
+- [保安 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/FnfFe18aFUZ1WGLdTwqJGA)
