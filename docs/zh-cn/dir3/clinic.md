@@ -451,3 +451,4 @@
 - [How Corona Virus attacks Humans and difference between different nationalities](https://www.researchgate.net/publication/340005405_How_Corona_Virus_attacks_Humans_and_difference_between_different_nationalities)
 - [重大进展 | 王红阳/陈薇/肖传乐率先解析新冠肺炎患者康复期血液免疫学特征](https://mp.weixin.qq.com/s/a7X-rhziQHXGi6iVycjC-w)
 - [Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing](https://www.nature.com/articles/s41421-020-0168-9)
+- [Lancet Voice 特别版 | 关于恢复期血浆治疗COVID-19的讨论](https://mp.weixin.qq.com/s/sInBUY-aTl6_rGcn_z7akA)
