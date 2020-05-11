@@ -135,3 +135,5 @@
 - [A Intro to Interactive Visualization and R Shiny for Geography 183](https://github.com/mikejohnson51/COVID-19-dashboard)
 - [在线研讨会：疫情下全球城市领导者的反思 ∣ Journal of Urban Management](https://mp.weixin.qq.com/s/bH247r9mJty75gqU85qxgQ)
 - [学术·预告 | “统计大讲堂”第一百一十七讲——COVID-19专题系列讲座](https://mp.weixin.qq.com/s/fYqq2cN0wJ4TOCIsO_Q-cQ)
+- [马上报名 | 5 月 21 日 Tableau 网络入门课程 - 全球新冠肺炎疫情可视化分析](https://mp.weixin.qq.com/s/FUb1_w8b_LKazwPIpXfJ9w)
+- [今日直播 |从病毒的精准检测到肿瘤的精准医疗——生命科学前沿热点”公益讲座之一【中国科讯】](https://mp.weixin.qq.com/s/qctAemJJFU8cp-hR4zdlSQ)

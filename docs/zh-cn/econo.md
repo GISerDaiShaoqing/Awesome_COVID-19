@@ -311,3 +311,5 @@
 - [|全网首发|【专题讨论19】“冗余空间”：城市应急空间规划与管理思考](https://mp.weixin.qq.com/s/wWiejdMSgaULTDmWTNBP2w)
 - [|全网首发|【专题讨论20】突发公共卫生事件下的城乡关系思考](https://mp.weixin.qq.com/s/RrCZSSjeZnyAe6HWB-uBNQ)
 - [408研究小组 | 英国国家设计指南3：公共空间、功能、住宅](https://mp.weixin.qq.com/s/KRA_1BCvFjWaAITdVDl30w)
+- [国际资讯 | [意]建筑施工领域重启/后COVID时期的城市交通(2020.5)​](https://mp.weixin.qq.com/s/Npa3PENr7TSAPBtBUy1owA)
+- [【视角】疫情“压测”下的中国智慧城市](https://mp.weixin.qq.com/s/0aqGcrkGWt_LCcxTEJv6ww)

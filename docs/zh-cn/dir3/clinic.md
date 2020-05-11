@@ -452,3 +452,5 @@
 - [重大进展 | 王红阳/陈薇/肖传乐率先解析新冠肺炎患者康复期血液免疫学特征](https://mp.weixin.qq.com/s/a7X-rhziQHXGi6iVycjC-w)
 - [Immune cell profiling of COVID-19 patients in the recovery stage by single-cell sequencing](https://www.nature.com/articles/s41421-020-0168-9)
 - [Lancet Voice 特别版 | 关于恢复期血浆治疗COVID-19的讨论](https://mp.weixin.qq.com/s/sInBUY-aTl6_rGcn_z7akA)
+- [改善新冠肺炎合并糖尿病患者预后，控制血糖是关键 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/20inWAJlCWEE_fT8F3vn1A)
+- [Association of Blood Glucose Control and Outcomes in Patients with COVID-19 and Pre-existing Type 2 Diabetes](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30238-2)

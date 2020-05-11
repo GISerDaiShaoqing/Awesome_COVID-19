@@ -401,3 +401,5 @@
 - [Impact of coronavirus outbreak on NO2 pollution assessed using TROPOMI and OMI observations](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087978)
 - [女性论文数量下降，男性数量稳定。问：疫情期间在家带孩子的是谁？](https://mp.weixin.qq.com/s/XcrITuem-adowl2LiFiZ7w)
 - [Nearly Half of Men Say They Do Most of the Home Schooling. 3 Percent of Women Agree](https://www.nytimes.com/2020/05/06/upshot/pandemic-chores-homeschooling-gender.html)
+- [【观点】疫情之下：塑料成为关键防护材料，“禁塑”运动何去何从？](https://mp.weixin.qq.com/s/IR1P06b9frHYGNK4DkI51g)
+- [Protector or polluter? The impact of COVID-19 on the movement to end plastic waste](https://www.weforum.org/agenda/2020/05/plastic-pollution-waste-pandemic-covid19-coronavirus-recycling-sustainability)

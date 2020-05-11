@@ -26,3 +26,4 @@
 - [【征稿启事】Applied Energy特刊：新冠疫情对能源与环境的影响](https://mp.weixin.qq.com/s/lHpGlwPJPr2VNKf21V2PGA)
 - [【征稿】人类的迁徙、斗争与传染病 | BMC期刊联合征稿](https://mp.weixin.qq.com/s/ZSsC3SK3bmE-HexqFd2bpw)
 - [Human migration, conflict and infectious diseases](https://www.biomedcentral.com/collections/confID?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_3_YD01_CN_MLSCN_confIDCFP_ORGANIC_WECHAT)
+- [【征稿】Genome Medicine | 基因组学对精准公共卫生的影响](https://mp.weixin.qq.com/s/EE9W8VGuHfCCSXyywk-PIg)
