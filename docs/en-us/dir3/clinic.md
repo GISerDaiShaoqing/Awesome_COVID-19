@@ -455,3 +455,5 @@
 - [改善新冠肺炎合并糖尿病患者预后，控制血糖是关键 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/20inWAJlCWEE_fT8F3vn1A)
 - [Association of Blood Glucose Control and Outcomes in Patients with COVID-19 and Pre-existing Type 2 Diabetes](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30238-2)
 - [武汉协和医院杨东亮：从免疫系统寻找对抗新冠的钥匙](http://news.sciencenet.cn/htmlnews/2020/5/439588.shtm)
+- [中国患者精液中检出新冠病毒，生殖系统长期影响仍未知](https://mp.weixin.qq.com/s/XuL2HOGIoZzgqEenBlG7HQ)
+- [Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765654)

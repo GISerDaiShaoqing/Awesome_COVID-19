@@ -385,3 +385,4 @@
 - [瑞德西韦获日本特殊批准，治疗新冠肺炎重症患者 | 本周值得读·科研生涯](https://mp.weixin.qq.com/s/Cyjt9mZhvd3Psx46qXxyAA)
 - [科研人员“节衣缩食”将成常态，多家高校压减2020科研与教学预算，《柳叶刀》：三联用药方案在 2 期试验中表现良好 | 科研圈日报](https://mp.weixin.qq.com/s/meebn-4uokIk4DbHmk0OIA)
 - [“COVID-19”科研动态监测每日快报（5月10日）【中国科讯】](https://mp.weixin.qq.com/s/jyFOMthX5gNaSlvWVDNrXQ)
+- [Covid-19增长的长程相关性 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/-LiNVAYbfffHPOSlkI6g5A)
