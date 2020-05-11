@@ -148,3 +148,4 @@
 - [【数据】疫情之下中美贸易协议继续履行，目前两国之间关税到底有多高？](https://mp.weixin.qq.com/s/6P1H0565ZtMWqed3i9o_TQ)
 - [The New Energy Era: The Impact of Critical Minerals on National Security](https://www.visualcapitalist.com/new-energy-era-critical-minerals-u-s-national-security/)
 - [COVID-19 District level data from Robert Koch Institute in Germany](https://github.com/averissimo/covid19.de.data)
+- [良心|哈佛大学COVID19数据资源（包含百度迁徙数据）](https://mp.weixin.qq.com/s/2TJD9fDOLiyneU0RpECy1A)
