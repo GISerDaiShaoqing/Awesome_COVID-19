@@ -454,3 +454,4 @@
 - [Lancet Voice 特别版 | 关于恢复期血浆治疗COVID-19的讨论](https://mp.weixin.qq.com/s/sInBUY-aTl6_rGcn_z7akA)
 - [改善新冠肺炎合并糖尿病患者预后，控制血糖是关键 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/20inWAJlCWEE_fT8F3vn1A)
 - [Association of Blood Glucose Control and Outcomes in Patients with COVID-19 and Pre-existing Type 2 Diabetes](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30238-2)
+- [武汉协和医院杨东亮：从免疫系统寻找对抗新冠的钥匙](http://news.sciencenet.cn/htmlnews/2020/5/439588.shtm)

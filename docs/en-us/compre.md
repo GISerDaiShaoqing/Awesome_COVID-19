@@ -403,3 +403,4 @@
 - [Nearly Half of Men Say They Do Most of the Home Schooling. 3 Percent of Women Agree](https://www.nytimes.com/2020/05/06/upshot/pandemic-chores-homeschooling-gender.html)
 - [【观点】疫情之下：塑料成为关键防护材料，“禁塑”运动何去何从？](https://mp.weixin.qq.com/s/IR1P06b9frHYGNK4DkI51g)
 - [Protector or polluter? The impact of COVID-19 on the movement to end plastic waste](https://www.weforum.org/agenda/2020/05/plastic-pollution-waste-pandemic-covid19-coronavirus-recycling-sustainability)
+- [预印本拒收“低质量”新冠病毒论文](http://news.sciencenet.cn/htmlnews/2020/5/439544.shtm)

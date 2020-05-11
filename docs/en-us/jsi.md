@@ -27,3 +27,6 @@
 - [【征稿】人类的迁徙、斗争与传染病 | BMC期刊联合征稿](https://mp.weixin.qq.com/s/ZSsC3SK3bmE-HexqFd2bpw)
 - [Human migration, conflict and infectious diseases](https://www.biomedcentral.com/collections/confID?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_3_YD01_CN_MLSCN_confIDCFP_ORGANIC_WECHAT)
 - [【征稿】Genome Medicine | 基因组学对精准公共卫生的影响](https://mp.weixin.qq.com/s/EE9W8VGuHfCCSXyywk-PIg)
+- [Call for papers: The impact of genomics on precision public health](https://genomemedicine.biomedcentral.com/articles/collections/precision-public-health?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_3_JG02_CN_GMED_PPH_wechat)
+- [IEEE Transactions论文征集：COVID-19的人工智能专题](https://mp.weixin.qq.com/s/qX8q1tyxb5D7jEPvFSv2Xg)
+- [Call for Papers: Special Issue on AI for COVID-19](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-ai-for-covid-19)

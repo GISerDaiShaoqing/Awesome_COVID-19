@@ -45,5 +45,6 @@
 - [大流行病的历史︱纽约1918年大流行病的样子](https://mp.weixin.qq.com/s/Crzy65M9GWps0DGc_eVUJQ)
 - [新冠大数据 | 五份表格揭示纽约新冠病毒疫情](https://mp.weixin.qq.com/s/kF4ooSyq9Md1Mz14zzfFYQ)
 - [劫后重生的城市 | 全球顶尖专家漫谈疫情冲击下的城市](https://mp.weixin.qq.com/s/SW_yL6KXdy0Ohw7voRk5ew)
+- [办公室之殇︱面对疫情期间空荡荡的办公室，也许它们本来就没什么意义](https://mp.weixin.qq.com/s/ZtJ2cizzf3f4z0beMimnDQ)
 
 ![](/img/SCM.jpg)
