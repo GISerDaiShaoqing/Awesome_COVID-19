@@ -386,3 +386,7 @@
 - [科研人员“节衣缩食”将成常态，多家高校压减2020科研与教学预算，《柳叶刀》：三联用药方案在 2 期试验中表现良好 | 科研圈日报](https://mp.weixin.qq.com/s/meebn-4uokIk4DbHmk0OIA)
 - [“COVID-19”科研动态监测每日快报（5月10日）【中国科讯】](https://mp.weixin.qq.com/s/jyFOMthX5gNaSlvWVDNrXQ)
 - [Covid-19增长的长程相关性 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/-LiNVAYbfffHPOSlkI6g5A)
+- [灰尘到底是哪来的？| 中国抗疫方案 | 涂鸦让城市变成植物园 | 自然每周简报](https://mp.weixin.qq.com/s/Hv0N957oNbk6FD-HFnTk_w)
+- [“COVID-19”科研动态监测每日快报（5月11日）【中国科讯】](https://mp.weixin.qq.com/s/pQ-TiqZGXabmHvaFY9Qe-g)
+- [精液中检出新冠病毒，对男性生殖系统长期影响未知；从未有一个黑洞，如此接近地球 等｜领研网24小时热门论文](https://mp.weixin.qq.com/s/fjjHUXN8QLw4D4BIWN0qLw)
+- [5月 11 日我国新增确诊病例 1 例，全球确诊病例超过 400 万 | 科研圈日报 ](https://mp.weixin.qq.com/s/LjxK-IfDQyhG1i6gAp6Jxw)

@@ -46,5 +46,6 @@
 - [新冠大数据 | 五份表格揭示纽约新冠病毒疫情](https://mp.weixin.qq.com/s/kF4ooSyq9Md1Mz14zzfFYQ)
 - [劫后重生的城市 | 全球顶尖专家漫谈疫情冲击下的城市](https://mp.weixin.qq.com/s/SW_yL6KXdy0Ohw7voRk5ew)
 - [办公室之殇︱面对疫情期间空荡荡的办公室，也许它们本来就没什么意义](https://mp.weixin.qq.com/s/ZtJ2cizzf3f4z0beMimnDQ)
+- [后疫情时代的小汽车︱最新研究显示小汽车在纽约播下了新冠病毒大规模传播的种子](https://mp.weixin.qq.com/s/su-so19Xe0lHwIN6B9kkCA)
 
 ![](/img/SCM.jpg)

@@ -321,3 +321,4 @@
 - [高红冰：疫情之危与新商业之机|新商业观察](https://mp.weixin.qq.com/s/XLcE3OPgEixATXi2A7wUNw)
 - [裁员、破产、疫情压力……海外商业航天企业深陷“破产潮”](https://mp.weixin.qq.com/s/mNjo5KMp11YrXtHYWFL4eA)
 - [全球城市观察︱受疫情影响，谷歌兄弟公司退出多伦多智慧社区](https://mp.weixin.qq.com/s/GqN3w06bLOJPGsNwvf1_GA)
+- [西贝两万员工待业，海底捞日亏近1亿！疫情期间，活下来的企业都做对了什么？](https://mp.weixin.qq.com/s/J8QlVvRtoQWjiG8Axc3fUw)

@@ -139,3 +139,4 @@
 - [今日直播 |从病毒的精准检测到肿瘤的精准医疗——生命科学前沿热点”公益讲座之一【中国科讯】](https://mp.weixin.qq.com/s/qctAemJJFU8cp-hR4zdlSQ)
 - [北京大学教授黄岩谊：新型冠状病毒的实验室检测](https://mp.weixin.qq.com/s/oo-X0ENBZLYY_MQzkaFk0Q)
 - [Final Assignment BIOL01301 COVID shiny app](https://github.com/sjspielman/datascience_final_assignment)
+- [今日直播 |抗体与疫苗工程下游的双水相分配——生命科学前沿热点”公益讲座之二【中国科讯】](https://mp.weixin.qq.com/s/8XfxNqnBQtExfPojin_p4w)
