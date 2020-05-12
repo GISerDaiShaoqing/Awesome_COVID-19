@@ -463,3 +463,5 @@
 - [Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State](https://jamanetwork.com/journals/jama/fullarticle/2766117)
 - [加强医护人员筛查，预防COVID-19医院感染](https://mp.weixin.qq.com/s/1_Ixi8qDosijmv8SudL5Cg)
 - [COVID-19: the case for health-care worker screening to prevent hospital transmission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30917-X/fulltext)
+- [COVID-19患者胰腺损伤的血清学证据](https://mp.weixin.qq.com/s/U95r9ctIfSP1P75r9gS5cA)
+- [Serologic Evidence of Pancreatic Injury in COVID-19](https://www.jwatch.org/na51331/2020/04/17/serologic-evidence-pancreatic-injury-covid-19?query=nejmyxqy)

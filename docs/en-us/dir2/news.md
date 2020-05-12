@@ -1596,3 +1596,5 @@
 - [武汉紧急通知！](https://mp.weixin.qq.com/s/EDSgQDgZXZ7gAHgKHb7Nrw)
 - [特朗普与记者僵持不下，转身就走](https://mp.weixin.qq.com/s/4EficrIf4taYorjrxYrJpA)
 - [韩国夜店集体感染，已致101人确诊](https://mp.weixin.qq.com/s/9jC7qJVqmkK17Knuqp79iQ)
+- [中小学生在校要不要戴口罩？教育部最新回应！](https://mp.weixin.qq.com/s/Rt42PJzNCibnryQHVlykaw)
+- [上海首批援鄂医疗队员面部，都受伤了](https://mp.weixin.qq.com/s/BVvVjjhT14bPW0osf5t4Ng)

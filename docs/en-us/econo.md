@@ -322,3 +322,7 @@
 - [裁员、破产、疫情压力……海外商业航天企业深陷“破产潮”](https://mp.weixin.qq.com/s/mNjo5KMp11YrXtHYWFL4eA)
 - [全球城市观察︱受疫情影响，谷歌兄弟公司退出多伦多智慧社区](https://mp.weixin.qq.com/s/GqN3w06bLOJPGsNwvf1_GA)
 - [西贝两万员工待业，海底捞日亏近1亿！疫情期间，活下来的企业都做对了什么？](https://mp.weixin.qq.com/s/J8QlVvRtoQWjiG8Axc3fUw)
+- [|全网首发|【专题讨论25】韧性城市视角下的新型冠状病毒肺炎疫情解读与响应研究](https://mp.weixin.qq.com/s/oq8vVq6rLTHY-Jcz2Jsb4w)
+- [|全网首发|【专题讨论26】突发公共卫生事件下对居民健身空间的规划思考](https://mp.weixin.qq.com/s/WXkGy36BaKy0tk5dg3g6IQ)
+- [|全网首发|【专题讨论27】健康乡村：突发公共卫生事件背景下的乡村应对策略](https://mp.weixin.qq.com/s/3nJqmvZav0nXyc3bz3auGg)
+- [|全网首发|【专题讨论28】突发公共卫生事件背景下乡村治理的应对思考](https://mp.weixin.qq.com/s/_eRPx9jNx-gm9nlzWq1omg)
