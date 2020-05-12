@@ -390,3 +390,4 @@
 - [“COVID-19”科研动态监测每日快报（5月11日）【中国科讯】](https://mp.weixin.qq.com/s/pQ-TiqZGXabmHvaFY9Qe-g)
 - [精液中检出新冠病毒，对男性生殖系统长期影响未知；从未有一个黑洞，如此接近地球 等｜领研网24小时热门论文](https://mp.weixin.qq.com/s/fjjHUXN8QLw4D4BIWN0qLw)
 - [5月 11 日我国新增确诊病例 1 例，全球确诊病例超过 400 万 | 科研圈日报 ](https://mp.weixin.qq.com/s/LjxK-IfDQyhG1i6gAp6Jxw)
+- [通过流行病重整化群框架分析社会隔离与大流行病边界限制（COVID-19）的相互作用 | 网络科学论文速递32篇](https://mp.weixin.qq.com/s/U3w_MTnjWc9bkLv98jSsGw)
