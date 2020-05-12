@@ -303,3 +303,5 @@
 - [高福院士最新论文！从康复患者体内发现2种抗体，可阻断新冠病毒与ACE2结合，为疫苗设计提供结构基础](https://mp.weixin.qq.com/s/zgEsbT7RSYFfJzqOwPeAQg)
 - [A non-competing pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2](https://doi.org/10.1101/2020.05.01.20077743)
 - [比利时研究团队发现：羊驼可产生新冠抗体！‘草泥马’拯救人类？](https://mp.weixin.qq.com/s/0-RponQKWc3_44EKnF-Q9Q)
+- [【在线速递】武汉两所医院的SARS-CoV-2空气动力学分析](https://mp.weixin.qq.com/s/Mss4U-Vpi4jW9JS0nENxxA)
+- [A human monoclonal antibody blocking SARS-CoV-2 infection](https://www.nature.com/articles/s41467-020-16256-y?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_deeplink_PID2190813&utm_content=deeplink)
