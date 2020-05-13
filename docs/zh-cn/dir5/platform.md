@@ -103,3 +103,4 @@
 - [C3S开发探究温度和湿度对新冠病毒传播影响的可视化平台](https://mp.weixin.qq.com/s/0XjfEpnlE55xMppQK10IuQ)
 - [Climate Data Store - Monthly climate explorer for COVID-19](https://cds.climate.copernicus.eu/apps/c3s/app-c3s-monthly-climate-covid-19-explorer)
 - [【点赞】武汉大学陈锐志教授团队发布疫情追踪安全感知新方案](https://mp.weixin.qq.com/s/UBGRU6gybQYfD4gACawzIw)
+- [16岁日本神童打造日版「健康码」，追踪用户行动数据抗击疫情](https://mp.weixin.qq.com/s/zJfmm24SbJsIUV92-JP3mw)
