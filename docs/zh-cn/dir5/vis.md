@@ -164,3 +164,4 @@
 - [【保姆级教程】什么是彩虹玫瑰图？学习用Echarts画人民日报式海外疫情数据玫瑰图](https://mp.weixin.qq.com/s/w7TQVsmmXS0S6T3JkDV0Jw)
 - [武汉，非同寻常30天](https://mp.weixin.qq.com/s/3k_G30rW9LeyrCJLCDwryQ)
 - [Where Low-Income Jobs Are Being Lost to COVID-19](https://github.com/UrbanInstitute/covid-jobloss-feature)
+- [GeoQ助力新华社生动演绎“非同寻常30天”](https://mp.weixin.qq.com/s/8WFwQpJuh5Jireopnc8X9Q)

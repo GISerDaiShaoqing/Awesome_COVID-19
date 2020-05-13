@@ -1627,3 +1627,5 @@
 - [吉林市全面封控！火车站暂停办理乘车业务！](https://mp.weixin.qq.com/s/yI3OnYtArdSOMV3PXnfD6Q)
 - [一晚夜店游致119人确诊，首尔疫情反弹](https://mp.weixin.qq.com/s/mC-2BaJshf6plfiEXLiG1g)
 - [张文宏开微博了，一条未发已有近5万粉丝](https://mp.weixin.qq.com/s/dMuvRP5_0tWDuNIA0z0d4Q)
+- [北京中小学、幼儿园复课时间确定](https://mp.weixin.qq.com/s/8-MITK17H5PDxuv_c5ebRg)
+- [“抗疫斗争的福建实践”之二：化危为机，奋力夺取“双胜利”](https://mp.weixin.qq.com/s/eBrbCVu6USAMvK0miaHNig)

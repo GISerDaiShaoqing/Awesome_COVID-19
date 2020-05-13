@@ -40,3 +40,4 @@
 - [POCOVID-Net: Automatic Detection of COVID-19 From a New Lung Ultrasound Imaging Dataset (POCUS)](https://arxiv.org/abs/2004.12084)
 - [Is there a role for lung perfusion [99mTc]-MAA SPECT/CT to rule out pulmonary embolism in COVID-19 patients with contraindications for iodine contrast?](https://link.springer.com/article/10.1007%2Fs00259-020-04837-4)
 - [Clinical and radiological changes of hospitalised patients with COVID-19 pneumonia from disease onset to acute exacerbation: a multicentre paired cohort study](https://link.springer.com/article/10.1007%2Fs00330-020-06916-4)
+- [AI 诊断 CT 影像准确率达 96%，医疗AI落地还有哪些挑战与解决方案？| AICon](https://mp.weixin.qq.com/s/oRc0wB-dkFRQeAZJpYttag)

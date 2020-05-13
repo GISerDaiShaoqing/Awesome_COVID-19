@@ -312,3 +312,4 @@
 - [Host-viral infection maps reveal signatures of severe COVID-19 patients](https://www.cell.com/cell/fulltext/S0092-8674(20)30568-7)
 - [一种检测SARS-CoV-2抗体的方法 |《自然-医学》论文](https://mp.weixin.qq.com/s/uP_DhQw7krAFzXEo8zAd1g)
 - [A serological assay to detect SARS-CoV-2 seroconversion in humans](https://www.nature.com/articles/s41591-020-0913-5)
+- [Comparative tropism, replication kinetics, and cell damage profiling of SARS-CoV-2 and SARS-CoV with implications for clinical manifestations, transmissibility, and laboratory studies of COVID-19: an observational study](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30004-5/fulltext)

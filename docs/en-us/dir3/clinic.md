@@ -469,3 +469,5 @@
 - [Clinical Characteristics of 5 COVID-19 Cases With Non-respiratory Symptoms as the First Manifestation in Children](https://www.frontiersin.org/articles/10.3389/fped.2020.00258/full?utm_source=article0512&utm_medium=wechat&utm_campaign=chinaad)
 - [分析新冠肺炎患者的呼吸系统免疫反应 |《自然-医学》论文](https://mp.weixin.qq.com/s/JvOFC9Id7Sv5tnr3DGEguQ)
 - [Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19](https://www.nature.com/articles/s41591-020-0901-9)
+- [最新研究 | 新三联抗病毒药物在2期随机临床试验中表现积极](https://mp.weixin.qq.com/s/6itCWf6xCprDuWsUh1ZPhQ)
+- [Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext)
