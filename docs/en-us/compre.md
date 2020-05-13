@@ -426,3 +426,5 @@
 - [《柳叶刀-微生物》创刊正当时：助力新冠病毒致病机制研究](https://mp.weixin.qq.com/s/P1Gpz8lN_OYFBpEwSCO8LA)
 - [从危机传播到风险沟通 ——突发公共卫生事件的传播转型](https://mp.weixin.qq.com/s/-EXtqsMn58L4P9J_vfV6Xw)
 - [Using AI to detect COVID-19 misinformation and exploitative content](https://ai.facebook.com/blog/using-ai-to-detect-covid-19-misinformation-and-exploitative-content)
+- [Are we there yet? The transition from response to recovery for the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S2590061720300399?via%3Dihub)
+- [Human coronaviruses with emphasis on the COVID-19 outbreak](https://link.springer.com/article/10.1007/s13337-020-00594-y)

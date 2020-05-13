@@ -316,3 +316,4 @@
 - [秦川团队的新冠病毒Nature论文，被质疑涉嫌图片造假、捏造数据](https://mp.weixin.qq.com/s/UD0u4oj2GieyabRoINx2AA)
 - [Science最新 | 高福院士等从康复患者体内发现2种抗体，可阻断新冠病毒与ACE2结合，为疫苗设计提供结构基础](https://mp.weixin.qq.com/s/WJ8Q1defvMx08EtQ7uLEPQ)
 - [A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2](https://science.sciencemag.org/content/early/2020/05/12/science.abc2241)
+- [COVID-19 outcomes and the human genome](https://www.nature.com/articles/s41436-020-0832-3?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_deeplink_PID2190813&utm_content=deeplink)
