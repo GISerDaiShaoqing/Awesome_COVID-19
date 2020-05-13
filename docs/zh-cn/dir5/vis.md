@@ -165,3 +165,5 @@
 - [武汉，非同寻常30天](https://mp.weixin.qq.com/s/3k_G30rW9LeyrCJLCDwryQ)
 - [Where Low-Income Jobs Are Being Lost to COVID-19](https://github.com/UrbanInstitute/covid-jobloss-feature)
 - [GeoQ助力新华社生动演绎“非同寻常30天”](https://mp.weixin.qq.com/s/8WFwQpJuh5Jireopnc8X9Q)
+- [Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country](https://github.com/trekhleb/covid-19)
+- [This is a dashboard, similar to the one from Johns Hopkins usind open source technology](https://github.com/chschoenenberger/covid19_dashboard)

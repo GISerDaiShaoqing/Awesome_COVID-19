@@ -425,3 +425,4 @@
 - [因低劣新冠论文泛滥，最大预印本网站开始拒稿新冠论文](https://mp.weixin.qq.com/s/hheu1b3GjQkDbXcbOUv4Tg)
 - [《柳叶刀-微生物》创刊正当时：助力新冠病毒致病机制研究](https://mp.weixin.qq.com/s/P1Gpz8lN_OYFBpEwSCO8LA)
 - [从危机传播到风险沟通 ——突发公共卫生事件的传播转型](https://mp.weixin.qq.com/s/-EXtqsMn58L4P9J_vfV6Xw)
+- [Using AI to detect COVID-19 misinformation and exploitative content](https://ai.facebook.com/blog/using-ai-to-detect-covid-19-misinformation-and-exploitative-content)
