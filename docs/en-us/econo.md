@@ -326,3 +326,6 @@
 - [|全网首发|【专题讨论26】突发公共卫生事件下对居民健身空间的规划思考](https://mp.weixin.qq.com/s/WXkGy36BaKy0tk5dg3g6IQ)
 - [|全网首发|【专题讨论27】健康乡村：突发公共卫生事件背景下的乡村应对策略](https://mp.weixin.qq.com/s/3nJqmvZav0nXyc3bz3auGg)
 - [|全网首发|【专题讨论28】突发公共卫生事件背景下乡村治理的应对思考](https://mp.weixin.qq.com/s/_eRPx9jNx-gm9nlzWq1omg)
+- [疫情“后遗症”：做生意的方式，再也回不到从前了](https://mp.weixin.qq.com/s/--7Wku9T4qRoQpBcf3pviQ)
+- [国际资讯 | [德]乡村信息化/新冠与城市未来(2020.5)](https://mp.weixin.qq.com/s/2aPyJLGEK-h4gZz_5Fwcow)
+- [研究成果 | 北京市复工趋势与疫情经济影响分析](https://mp.weixin.qq.com/s/tsN4UNp8jCiSidUUImadbQ)

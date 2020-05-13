@@ -391,3 +391,7 @@
 - [精液中检出新冠病毒，对男性生殖系统长期影响未知；从未有一个黑洞，如此接近地球 等｜领研网24小时热门论文](https://mp.weixin.qq.com/s/fjjHUXN8QLw4D4BIWN0qLw)
 - [5月 11 日我国新增确诊病例 1 例，全球确诊病例超过 400 万 | 科研圈日报 ](https://mp.weixin.qq.com/s/LjxK-IfDQyhG1i6gAp6Jxw)
 - [通过流行病重整化群框架分析社会隔离与大流行病边界限制（COVID-19）的相互作用 | 网络科学论文速递32篇](https://mp.weixin.qq.com/s/U3w_MTnjWc9bkLv98jSsGw)
+- [PNAS论文精选 | 预防下一场大流行，不能只盯着蝙蝠；剑桥大学最新研究：基因网络分析揭示北美、中国、欧洲的新冠病毒差异](https://mp.weixin.qq.com/s/GSh0PLwXtmjtK183yO3A-A)
+- [新冠病毒突破人体防线的能力，真的太强了！｜领研网24小时热门论文](https://mp.weixin.qq.com/s/hQlya84N5DTz8VCjwlqcvg)
+- [“COVID-19”科研动态监测每日快报（5月12日）【中国科讯】](https://mp.weixin.qq.com/s/4KhFi7aDHGLsL60xjqitAg)
+- [2.1万名澳洲大学教职工面临失业，澳高校因疫情将损失138亿人民币 | 科研圈日报](https://mp.weixin.qq.com/s/9HIDkqAEout1Vu5mhBWvlg)

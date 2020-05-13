@@ -465,3 +465,7 @@
 - [COVID-19: the case for health-care worker screening to prevent hospital transmission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30917-X/fulltext)
 - [COVID-19患者胰腺损伤的血清学证据](https://mp.weixin.qq.com/s/U95r9ctIfSP1P75r9gS5cA)
 - [Serologic Evidence of Pancreatic Injury in COVID-19](https://www.jwatch.org/na51331/2020/04/17/serologic-evidence-pancreatic-injury-covid-19?query=nejmyxqy)
+- [儿科 | 消化道症状可能是新冠肺炎儿童患者的首发症状](https://mp.weixin.qq.com/s/yGor7_zPRHQSlLXsHymmNw)
+- [Clinical Characteristics of 5 COVID-19 Cases With Non-respiratory Symptoms as the First Manifestation in Children](https://www.frontiersin.org/articles/10.3389/fped.2020.00258/full?utm_source=article0512&utm_medium=wechat&utm_campaign=chinaad)
+- [分析新冠肺炎患者的呼吸系统免疫反应 |《自然-医学》论文](https://mp.weixin.qq.com/s/JvOFC9Id7Sv5tnr3DGEguQ)
+- [Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19](https://www.nature.com/articles/s41591-020-0901-9)

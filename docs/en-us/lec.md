@@ -142,3 +142,5 @@
 - [今日直播 |抗体与疫苗工程下游的双水相分配——生命科学前沿热点”公益讲座之二【中国科讯】](https://mp.weixin.qq.com/s/8XfxNqnBQtExfPojin_p4w)
 - [2020世界物联网日系列活动之新一代信息技术助力疫情防控创新案例分享](https://mp.weixin.qq.com/s/J3h1W_oL4xhYeMUpF_eiag)
 - [抗疫超声在线系列直播预告](https://mp.weixin.qq.com/s/V3InlTD5_OkWqWEYtISRuA)
+- [深耕新基建线上研讨会① | 城市新基建驱动疫后经济绿色复苏](https://mp.weixin.qq.com/s/i7cxSxTzMPLNNnwS3IzdIQ)
+- [今日直播 | 如何利用大数据加快药物研发进程——美国化学文摘社的数据分析案例【中科院科研信息素养讲堂】](https://mp.weixin.qq.com/s/Qr64OKVAaGugETiDst-SlA)
