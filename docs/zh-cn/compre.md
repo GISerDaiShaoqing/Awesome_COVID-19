@@ -435,3 +435,5 @@
 - [疫情封锁期间，海陆空都悄悄发生了变化。好的那种](https://mp.weixin.qq.com/s/gNEJBCEJff-RnN0WrR9T9w)
 - [观点 | “社交隔离”只是阻止COVID-19大流行的第一步？](https://mp.weixin.qq.com/s/mBH92h0DuaPQKXX0ae5xuA)
 - [‘SOCIAL DISTANCING’ IS ONLY THE FIRST STEP TOWARD STOPPING THE COVID-19 PANDEMIC](https://news.northeastern.edu/2020/03/24/social-distancing-is-only-the-first-step-toward-stopping-the-covid-19-pandemic/)
+- [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
+- [Estimating the burden of SARS-CoV-2 in France](https://science.sciencemag.org/content/early/2020/05/12/science.abc3517)

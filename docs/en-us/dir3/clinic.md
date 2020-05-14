@@ -473,3 +473,4 @@
 - [Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext)
 - [进展 | Identified 40 new potential drugs that could treat COVID-19](https://mp.weixin.qq.com/s/ZUtfNvoaKVzpZUoVphVRug)
 - [NETWORK SCIENTISTS IDENTIFY 40 NEW DRUGS TO TEST AGAINST COVID-19](https://news.northeastern.edu/2020/04/02/network-scientists-identify-40-new-drugs-to-test-against-covid-19/)
+- [Multiorgan and Renal Tropism of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2011400)
