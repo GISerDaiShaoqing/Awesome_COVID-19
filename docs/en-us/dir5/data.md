@@ -151,3 +151,4 @@
 - [良心|哈佛大学COVID19数据资源（包含百度迁徙数据）](https://mp.weixin.qq.com/s/2TJD9fDOLiyneU0RpECy1A)
 - [Interoperable secondary data for research on the new COVID-19 coronavirus sars-cov-2 ](https://github.com/cjvanlissa/COVID19_metadata)
 - [Bases de datos y gráficas con información del COVID19 en México](https://github.com/alancarrillop/COVID19_Mexico)
+- [COVID19 Projections for US States](https://github.com/grantbrown/COVID19-US)
