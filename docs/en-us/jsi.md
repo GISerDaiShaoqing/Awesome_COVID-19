@@ -30,3 +30,5 @@
 - [Call for papers: The impact of genomics on precision public health](https://genomemedicine.biomedcentral.com/articles/collections/precision-public-health?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_3_JG02_CN_GMED_PPH_wechat)
 - [IEEE Transactions论文征集：COVID-19的人工智能专题](https://mp.weixin.qq.com/s/qX8q1tyxb5D7jEPvFSv2Xg)
 - [Call for Papers: Special Issue on AI for COVID-19](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-ai-for-covid-19)
+- [请点击投稿 | 空间不平等、传染病与疾病控制 | 开放获取期刊联合征稿](https://mp.weixin.qq.com/s/Nqi-G1vgRZvEJbE0Eh9bMA)
+- [Spatial inequality, infectious diseases and disease control](https://www.biomedcentral.com/collections/spatialinequality?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_3_YD01_CN_MLSCN_spatialinequalityCFP_ORGANIC_WECHAT)

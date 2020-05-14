@@ -395,3 +395,8 @@
 - [新冠病毒突破人体防线的能力，真的太强了！｜领研网24小时热门论文](https://mp.weixin.qq.com/s/hQlya84N5DTz8VCjwlqcvg)
 - [“COVID-19”科研动态监测每日快报（5月12日）【中国科讯】](https://mp.weixin.qq.com/s/4KhFi7aDHGLsL60xjqitAg)
 - [2.1万名澳洲大学教职工面临失业，澳高校因疫情将损失138亿人民币 | 科研圈日报](https://mp.weixin.qq.com/s/9HIDkqAEout1Vu5mhBWvlg)
+- [环卫工人 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/SGsf8TzON-TnolsSyh8swg)
+- [“COVID-19”科研动态监测每日快报（5月13日）【中国科讯】](https://mp.weixin.qq.com/s/AanrCY-h8M8XUw29ZJIV3A)
+- [哪种模式更好？中美德三国专家激辩](https://mp.weixin.qq.com/s/Im06IXtJ9Hgt-3KQ10VxOg)
+- [瑞德西韦刷屏后，《自然》又发表大型SARS-CoV-2蛋白互作详细图谱，找到300多种潜在药物开发方向｜领研网24小时热门论文](https://mp.weixin.qq.com/s/oX483_CYjGhJv22Z01aEOA)
+- [5 月 13 日我国新增确诊病例 3 例，新增无症状感染者 12 例 | 科研圈日报](https://mp.weixin.qq.com/s/sUpyk0nqOhPa9MvbQ1ROOw)

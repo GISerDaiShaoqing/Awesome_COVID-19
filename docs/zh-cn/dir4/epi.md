@@ -223,3 +223,5 @@
 - [A simulation study of disaggregation regression for spatial disease mapping](https://arxiv.org/abs/2005.03604)
 - [Using the contact network model and Metropolis-Hastings sampling to reconstruct the COVID-19 spread on the “Diamond Princess”](https://www.sciencedirect.com/science/article/pii/S2095927320302814?via%3Dihub#f0010)
 - [First month of the epidemic caused by COVID-19 in Italy: current status and real-time outbreak development forecast](https://www.medrxiv.org/content/10.1101/2020.03.26.20044628v1)
+- [广泛的接触者追踪与隔离是深圳控制SARS-CoV-2传播的关键](https://mp.weixin.qq.com/s/AoXyxebbIzweyDnfYmoZBw)
+- [Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30287-5/fulltext)

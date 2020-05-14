@@ -47,5 +47,6 @@
 - [劫后重生的城市 | 全球顶尖专家漫谈疫情冲击下的城市](https://mp.weixin.qq.com/s/SW_yL6KXdy0Ohw7voRk5ew)
 - [办公室之殇︱面对疫情期间空荡荡的办公室，也许它们本来就没什么意义](https://mp.weixin.qq.com/s/ZtJ2cizzf3f4z0beMimnDQ)
 - [后疫情时代的小汽车︱最新研究显示小汽车在纽约播下了新冠病毒大规模传播的种子](https://mp.weixin.qq.com/s/su-so19Xe0lHwIN6B9kkCA)
+- [新冠与城市︱谁更危险？美国疫情下社区租房风险与病毒政治化的影响 (两则)](https://mp.weixin.qq.com/s/9ThVsJ5zXlodEOF8rq74fg)
 
 ![](/img/SCM.jpg)

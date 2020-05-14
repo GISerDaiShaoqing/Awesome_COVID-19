@@ -335,3 +335,5 @@
 - [|全网首发|【专题讨论32】平疫结合的城市韧性社区建设与规划应对](https://mp.weixin.qq.com/s/2yDGoqEEvd3VxVn9sWVQMw)
 - [数据纪实｜颜强：疫情下的中国制造](https://mp.weixin.qq.com/s/3ffeisfExD0pA490XlUO3A)
 - [【新冠肺炎与健康城市】依法防控，为城市“把脉”](https://mp.weixin.qq.com/s/vs9CIo50AzXT-ln6Yv5rXg)
+- [疫情过后，中小微企业的现金流还扛得住吗？](https://mp.weixin.qq.com/s/WH9C-IzNmKhueQCpDlSmsg)
+- [【联合国人居署信息】联合国人居署有关新冠肺炎疫情的重要信息](https://mp.weixin.qq.com/s/crXA10MuUybcckrHMyveNA)

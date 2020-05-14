@@ -471,3 +471,5 @@
 - [Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19](https://www.nature.com/articles/s41591-020-0901-9)
 - [最新研究 | 新三联抗病毒药物在2期随机临床试验中表现积极](https://mp.weixin.qq.com/s/6itCWf6xCprDuWsUh1ZPhQ)
 - [Triple combination of interferon beta-1b, lopinavir–ritonavir, and ribavirin in the treatment of patients admitted to hospital with COVID-19: an open-label, randomised, phase 2 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext)
+- [进展 | Identified 40 new potential drugs that could treat COVID-19](https://mp.weixin.qq.com/s/ZUtfNvoaKVzpZUoVphVRug)
+- [NETWORK SCIENTISTS IDENTIFY 40 NEW DRUGS TO TEST AGAINST COVID-19](https://news.northeastern.edu/2020/04/02/network-scientists-identify-40-new-drugs-to-test-against-covid-19/)
