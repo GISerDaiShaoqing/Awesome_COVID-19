@@ -442,3 +442,4 @@
 - [中国医科院Nature最新论文被指一图多用，涉及新冠肺炎动物模型](https://mp.weixin.qq.com/s/8FCc9dtpHITuagHD5v735A)
 - [“新冠婴儿潮”不会来了：三分之一备孕父母疫情期间放弃生育意愿](https://mp.weixin.qq.com/s/1FxuF2YXn53vFwhC3jJ_Pg)
 - [COVID-19 baby boom? This new study suggests perhaps not](https://eurekalert.org/pub_releases/2020-05/tfg-cbb050620.php)
+- [Security of supply and Covid-19: which lessons learnt for Renewable and Recycled Carbon Fuels, and their future role in decarbonizing transport?](http://www.enerarxiv.org/page/thesis.html?id=1720)
