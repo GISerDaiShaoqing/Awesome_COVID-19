@@ -323,3 +323,7 @@
 - [新冠康复者体内产生抗体因人而异 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/Y3EFuwtCPK1T097L8wCMLw)
 - [Detection of SARS-CoV-2-specific humoral and cellular immunity in COVID-19 convalescent individuals](https://www.cell.com/immunity/fulltext/S1074-7613(20)30181-3)
 - [这名未上过大学的女科学家，让冠状病毒首次“显出原形”](https://mp.weixin.qq.com/s/yt8A74o8FYETJ1jZRQbH2w)
+- [Nature 3连发 | 重磅，中国多机构合作，发现人可以将新冠病毒传染给狗，但是狗传染人未知](https://mp.weixin.qq.com/s/dMkeqVH2FxOCkVM3OWruGQ)
+- [Infection of dogs with SARS-CoV-2](https://www.nature.com/articles/s41586-020-2334-5)
+- [Pathogenesis and transmission of SARS-CoV-2 in golden hamsters](https://www.nature.com/articles/s41586-020-2342-5)
+- [Dogs caught coronavirus from their owners, genetic analysis suggests](https://www.nature.com/articles/d41586-020-01430-5)

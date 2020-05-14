@@ -474,3 +474,5 @@
 - [进展 | Identified 40 new potential drugs that could treat COVID-19](https://mp.weixin.qq.com/s/ZUtfNvoaKVzpZUoVphVRug)
 - [NETWORK SCIENTISTS IDENTIFY 40 NEW DRUGS TO TEST AGAINST COVID-19](https://news.northeastern.edu/2020/04/02/network-scientists-identify-40-new-drugs-to-test-against-covid-19/)
 - [Multiorgan and Renal Tropism of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2011400)
+- [JAMA | 打破认知，大规模队列研究，儿童卡介苗接种对成年期COVID-19没有保护作用](https://mp.weixin.qq.com/s/ZuT0x623JRqR_dyksr7acw)
+- [SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults](https://jamanetwork.com/journals/jama/fullarticle/2766182)
