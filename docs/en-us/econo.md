@@ -337,3 +337,7 @@
 - [【新冠肺炎与健康城市】依法防控，为城市“把脉”](https://mp.weixin.qq.com/s/vs9CIo50AzXT-ln6Yv5rXg)
 - [疫情过后，中小微企业的现金流还扛得住吗？](https://mp.weixin.qq.com/s/WH9C-IzNmKhueQCpDlSmsg)
 - [【联合国人居署信息】联合国人居署有关新冠肺炎疫情的重要信息](https://mp.weixin.qq.com/s/crXA10MuUybcckrHMyveNA)
+- [|全网首发|【专题讨论33】突发公共卫生事件下的城市开放社区规划反思与应对策略](https://mp.weixin.qq.com/s/O210azuprX_E0ndwkIHuUQ)
+- [|全网首发|【专题讨论34】健康融入15分钟社区生活圈：突发公共卫生事件下的社区应对](https://mp.weixin.qq.com/s/tpkT030dZj7jcbydmQQJaQ)
+- [|全网首发|【专题讨论35】健康城市理念下社区建成空间环境研究与治理——由某农贸市场突发公共卫生事件引发的规划思考](https://mp.weixin.qq.com/s/v4luurh2FWV4HHbL0Z3K9w)
+- [|全网首发|【专题讨论36】强化应急治理能力的韧性社区营造策略——新型冠状病毒肺炎疫情的启示](https://mp.weixin.qq.com/s/cqp1Ze1K5NQzxL-lJFoXPA)
