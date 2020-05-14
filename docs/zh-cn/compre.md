@@ -437,3 +437,5 @@
 - [‘SOCIAL DISTANCING’ IS ONLY THE FIRST STEP TOWARD STOPPING THE COVID-19 PANDEMIC](https://news.northeastern.edu/2020/03/24/social-distancing-is-only-the-first-step-toward-stopping-the-covid-19-pandemic/)
 - [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
 - [Estimating the burden of SARS-CoV-2 in France](https://science.sciencemag.org/content/early/2020/05/12/science.abc3517)
+- [前线视野｜曾战胜埃博拉病毒的医生怎么看新冠病毒](https://mp.weixin.qq.com/s/LaTufdx1AsiGDVKKMQ76QQ)
+- [This doctor survived Ebola. This is her message on coronavirus](https://news.trust.org/item/20200424141138-zqaif)

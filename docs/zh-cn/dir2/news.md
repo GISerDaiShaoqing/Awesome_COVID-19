@@ -1650,3 +1650,4 @@
 - [“黑脸”医生回家后陪女儿上网课，他说一家人在一起就很开心](https://mp.weixin.qq.com/s/TmaFS9TPMF0FeWqnU0tRdQ)
 - [新增13例确诊？钟南山再赴武汉？官方回应来了……](https://mp.weixin.qq.com/s/KQriR9nJqDEB4F0fmvav0A)
 - [舒兰感染链跨省传播再升级！关联病例的俩同事相继确诊](https://mp.weixin.qq.com/s/_Um0YZNAgLMgOqNcEPvXpQ)
+- [特朗普被曝企图操控新冠死亡统计](https://mp.weixin.qq.com/s/Mf0rtn-dVjlDWIEigUVX4Q)

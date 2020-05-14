@@ -401,3 +401,4 @@
 - [瑞德西韦刷屏后，《自然》又发表大型SARS-CoV-2蛋白互作详细图谱，找到300多种潜在药物开发方向｜领研网24小时热门论文](https://mp.weixin.qq.com/s/oX483_CYjGhJv22Z01aEOA)
 - [5 月 13 日我国新增确诊病例 3 例，新增无症状感染者 12 例 | 科研圈日报](https://mp.weixin.qq.com/s/sUpyk0nqOhPa9MvbQ1ROOw)
 - [​居家令对SARS-CoV-2传播影响的因果估计 | 网络科学论文速递24篇](https://mp.weixin.qq.com/s/Upr5mxq-1DWiGA75xGf75w)
+- [视频 | 如何用Embase高效检索新冠肺炎文献？](https://mp.weixin.qq.com/s/eF-w__IfxpHXd74zKeK9Qg)
