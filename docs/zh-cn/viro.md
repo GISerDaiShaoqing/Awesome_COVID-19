@@ -320,3 +320,6 @@
 - [Infection of bat and human intestinal organoids by SARS-CoV-2](https://www.nature.com/articles/s41591-020-0912-6)
 - [柳叶刀-微生物 | SARS-CoV-2的细胞趋向性](https://mp.weixin.qq.com/s/TMZ2JuaRwxmHclI1vnOS4g)
 - [SARS-CoV-2 cellular tropism](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30008-2/fulltext)
+- [新冠康复者体内产生抗体因人而异 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/Y3EFuwtCPK1T097L8wCMLw)
+- [Detection of SARS-CoV-2-specific humoral and cellular immunity in COVID-19 convalescent individuals](https://www.cell.com/immunity/fulltext/S1074-7613(20)30181-3)
+- [这名未上过大学的女科学家，让冠状病毒首次“显出原形”](https://mp.weixin.qq.com/s/yt8A74o8FYETJ1jZRQbH2w)
