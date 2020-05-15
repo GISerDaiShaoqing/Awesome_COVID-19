@@ -1675,3 +1675,5 @@
 - [“控制新冠肺炎大流行，可能需要4到5年”](https://mp.weixin.qq.com/s/8WNV1TYo4CNu6o8P8VpT-w)
 - [舒兰传播链已致29人确诊，吉林又一区低转中](https://mp.weixin.qq.com/s/25gV8YZamdlmM7MW1znEOA)
 - [解封第1周数据大盘点！RIVM回答第二波疫情还有多远，警告现在放松还太早！](https://mp.weixin.qq.com/s/YquapwlS2_yEi-8i06121Q)
+- [湖北这一政策全网点赞，网友：建议推广！](https://mp.weixin.qq.com/s/1UWMxpv8GGyaWuDmyT0Bjw)
+- [什么时候发现新冠肺炎“人传人”？国家卫健委回应](https://mp.weixin.qq.com/s/p9IdZ3TZ3JrOKt0Jyfp1Jw)
