@@ -1670,3 +1670,5 @@
 - [全民核酸检测有必要吗？白岩松问了专家](https://mp.weixin.qq.com/s/MpPsG0lO25ogxoIZNE1DiA)
 - [多地发生聚集性疫情，有必要全民核酸检测吗？](https://mp.weixin.qq.com/s/gKOxCq_CqFFVj8zCc5LoYg)
 - [朴槿惠所在监狱出现疫情：一名狱警确诊](https://mp.weixin.qq.com/s/KE6yrVxu1FDjIdJpv-zjnA)
+- [奥运延期额外费用，谁来出？](https://mp.weixin.qq.com/s/FvC4Q9CKVOUEC2b6AQppVA)
+- [遭调岗的美疫苗专家：美国恐面临“现代历史上最黑暗的冬天”](https://mp.weixin.qq.com/s/3Dn9HQbWsbCjpZyMqQVobg)

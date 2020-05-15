@@ -478,3 +478,4 @@
 - [SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults](https://jamanetwork.com/journals/jama/fullarticle/2766182)
 - [COVID-19中的内皮细胞感染和内皮炎](https://mp.weixin.qq.com/s/Ln3YuinC_VRw-YQxIoCaTA)
 - [COVID-19: the case for health-care worker screening to prevent hospital transmission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30917-X/fulltext)
+- [Characteristics and outcomes of patients with breast cancer diagnosed with SARS-Cov-2 infection at an academic center in New York City](https://link.springer.com/article/10.1007/s10549-020-05667-6)

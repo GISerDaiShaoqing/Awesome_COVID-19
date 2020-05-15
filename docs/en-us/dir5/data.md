@@ -152,3 +152,4 @@
 - [Interoperable secondary data for research on the new COVID-19 coronavirus sars-cov-2 ](https://github.com/cjvanlissa/COVID19_metadata)
 - [Bases de datos y gráficas con información del COVID19 en México](https://github.com/alancarrillop/COVID19_Mexico)
 - [COVID19 Projections for US States](https://github.com/grantbrown/COVID19-US)
+- [Mega-COV: A Billion-Scale Dataset of 65 Languages For COVID-19](https://arxiv.org/abs/2005.06012)

@@ -342,3 +342,4 @@
 - [|全网首发|【专题讨论35】健康城市理念下社区建成空间环境研究与治理——由某农贸市场突发公共卫生事件引发的规划思考](https://mp.weixin.qq.com/s/v4luurh2FWV4HHbL0Z3K9w)
 - [|全网首发|【专题讨论36】强化应急治理能力的韧性社区营造策略——新型冠状病毒肺炎疫情的启示](https://mp.weixin.qq.com/s/cqp1Ze1K5NQzxL-lJFoXPA)
 - [海外行思 | 法国疫情日记（十二）从病人专用到全民时尚——法国口罩大逆袭](https://mp.weixin.qq.com/s/HmOjRJGpTnggptxRtZ_5cw)
+- [【新冠肺炎与健康城市】防疫医院与疫情防治](https://mp.weixin.qq.com/s/Dpx3Bb82x1pOIp_szABAzw)
