@@ -406,3 +406,4 @@
 - [面对阴谋论要相信理性和科学](https://mp.weixin.qq.com/s/_uiJ7XqsbZtI7ByuXvDh_g)
 - [Science论文精选｜用区块链技术促进对疫情爆发公平及时的合作研究](https://mp.weixin.qq.com/s/YydJuPEFPTkYZ3V0fpwTng)
 - [中国医科院回应Nature问题论文：已重新提交正确图片，相关实验记录齐全 | 科研圈日报](https://mp.weixin.qq.com/s/WC1wRagk2SsZV81E-W_JKQ)
+- [COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/yUB4Q4osabR-vBEml5vQig)

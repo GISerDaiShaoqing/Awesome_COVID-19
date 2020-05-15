@@ -450,3 +450,4 @@
 - [他曾让中国拥有当时世界上最先进的疫苗](https://mp.weixin.qq.com/s/5_ylfrIv9Q6VkRAduulqEQ)
 - [在Nature发新冠论文误用图片，中国医科院致歉！](https://mp.weixin.qq.com/s/V-8BW5bhoG9L_FwiSySpOA)
 - [Ethical triage during the COVID-19 pandemic: a toolkit for neurosurgical resource allocation](https://www.springermedizin.de/covid-19/ethical-triage-during-the-covid-19-pandemic-a-toolkit-for-neuros/17983108?fulltextView=true)
+- [为COVID-19建模——多学科视角看新冠疫情传播与防控](https://mp.weixin.qq.com/s/V4DlENQzBc8qHE7yRWqsdA)

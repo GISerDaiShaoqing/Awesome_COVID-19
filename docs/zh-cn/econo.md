@@ -343,3 +343,6 @@
 - [|全网首发|【专题讨论36】强化应急治理能力的韧性社区营造策略——新型冠状病毒肺炎疫情的启示](https://mp.weixin.qq.com/s/cqp1Ze1K5NQzxL-lJFoXPA)
 - [海外行思 | 法国疫情日记（十二）从病人专用到全民时尚——法国口罩大逆袭](https://mp.weixin.qq.com/s/HmOjRJGpTnggptxRtZ_5cw)
 - [【新冠肺炎与健康城市】防疫医院与疫情防治](https://mp.weixin.qq.com/s/Dpx3Bb82x1pOIp_szABAzw)
+- [城市密度与韧性：结合美国新冠疫情的反思](https://mp.weixin.qq.com/s/VkCRiENPlsGbq8__wvI3mQ)
+- [|全网首发|【专题讨论37】应对突发公共事件的社区建设策略——基于“社区”概念的辨析](https://mp.weixin.qq.com/s/OI0eADaKBVVmdk12Hf7igQ)
+- [The Coronavirus crisis: What will the post-pandemic city look like?](https://journals.sagepub.com/doi/10.1177/2399808320926912)

@@ -1672,3 +1672,6 @@
 - [朴槿惠所在监狱出现疫情：一名狱警确诊](https://mp.weixin.qq.com/s/KE6yrVxu1FDjIdJpv-zjnA)
 - [奥运延期额外费用，谁来出？](https://mp.weixin.qq.com/s/FvC4Q9CKVOUEC2b6AQppVA)
 - [遭调岗的美疫苗专家：美国恐面临“现代历史上最黑暗的冬天”](https://mp.weixin.qq.com/s/3Dn9HQbWsbCjpZyMqQVobg)
+- [“控制新冠肺炎大流行，可能需要4到5年”](https://mp.weixin.qq.com/s/8WNV1TYo4CNu6o8P8VpT-w)
+- [舒兰传播链已致29人确诊，吉林又一区低转中](https://mp.weixin.qq.com/s/25gV8YZamdlmM7MW1znEOA)
+- [解封第1周数据大盘点！RIVM回答第二波疫情还有多远，警告现在放松还太早！](https://mp.weixin.qq.com/s/YquapwlS2_yEi-8i06121Q)
