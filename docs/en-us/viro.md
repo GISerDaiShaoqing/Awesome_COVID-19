@@ -327,3 +327,4 @@
 - [Infection of dogs with SARS-CoV-2](https://www.nature.com/articles/s41586-020-2334-5)
 - [Pathogenesis and transmission of SARS-CoV-2 in golden hamsters](https://www.nature.com/articles/s41586-020-2342-5)
 - [Dogs caught coronavirus from their owners, genetic analysis suggests](https://www.nature.com/articles/d41586-020-01430-5)
+- [新冠病毒可以人传狗？（但未发现狗传人）](https://mp.weixin.qq.com/s/BJk4G-GXCOXLsm7BYpHkAw)

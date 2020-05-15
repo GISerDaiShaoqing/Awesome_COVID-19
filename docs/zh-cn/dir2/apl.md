@@ -402,3 +402,7 @@
 - [5 月 13 日我国新增确诊病例 3 例，新增无症状感染者 12 例 | 科研圈日报](https://mp.weixin.qq.com/s/sUpyk0nqOhPa9MvbQ1ROOw)
 - [​居家令对SARS-CoV-2传播影响的因果估计 | 网络科学论文速递24篇](https://mp.weixin.qq.com/s/Upr5mxq-1DWiGA75xGf75w)
 - [视频 | 如何用Embase高效检索新冠肺炎文献？](https://mp.weixin.qq.com/s/eF-w__IfxpHXd74zKeK9Qg)
+- [“COVID-19”科研动态监测每日快报（5月14日）【中国科讯】](https://mp.weixin.qq.com/s/vfOIiN3R8UxwLtikUbxWgg)
+- [面对阴谋论要相信理性和科学](https://mp.weixin.qq.com/s/_uiJ7XqsbZtI7ByuXvDh_g)
+- [Science论文精选｜用区块链技术促进对疫情爆发公平及时的合作研究](https://mp.weixin.qq.com/s/YydJuPEFPTkYZ3V0fpwTng)
+- [中国医科院回应Nature问题论文：已重新提交正确图片，相关实验记录齐全 | 科研圈日报](https://mp.weixin.qq.com/s/WC1wRagk2SsZV81E-W_JKQ)

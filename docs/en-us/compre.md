@@ -444,3 +444,8 @@
 - [COVID-19 baby boom? This new study suggests perhaps not](https://eurekalert.org/pub_releases/2020-05/tfg-cbb050620.php)
 - [Security of supply and Covid-19: which lessons learnt for Renewable and Recycled Carbon Fuels, and their future role in decarbonizing transport?](http://www.enerarxiv.org/page/thesis.html?id=1720)
 - [造假者的噩梦！论文P图泛滥，“照妖镜”来了](https://mp.weixin.qq.com/s/HbY8JqmzCQi6-AuxkTbPIA)
+- [IEA探讨新型冠状病毒COVID-19带来的全球危机](https://mp.weixin.qq.com/s/btV2sROfuGiPATyL6Q5VIQ)
+- [模型发现三个与COVID-19死亡率相关的生物标志物 |《自然-机器智能》论文](https://mp.weixin.qq.com/s/xibAPtljYA-OVN0Qe8y0RQ)
+- [An interpretable mortality prediction model for COVID-19 patients](https://www.nature.com/articles/s42256-020-0180-7)
+- [他曾让中国拥有当时世界上最先进的疫苗](https://mp.weixin.qq.com/s/5_ylfrIv9Q6VkRAduulqEQ)
+- [在Nature发新冠论文误用图片，中国医科院致歉！](https://mp.weixin.qq.com/s/V-8BW5bhoG9L_FwiSySpOA)

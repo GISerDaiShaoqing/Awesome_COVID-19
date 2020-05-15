@@ -144,3 +144,4 @@
 - [抗疫超声在线系列直播预告](https://mp.weixin.qq.com/s/V3InlTD5_OkWqWEYtISRuA)
 - [深耕新基建线上研讨会① | 城市新基建驱动疫后经济绿色复苏](https://mp.weixin.qq.com/s/i7cxSxTzMPLNNnwS3IzdIQ)
 - [今日直播 | 如何利用大数据加快药物研发进程——美国化学文摘社的数据分析案例【中科院科研信息素养讲堂】](https://mp.weixin.qq.com/s/Qr64OKVAaGugETiDst-SlA)
+- [【直播实录】北京大学教授黄岩谊：新型冠状病毒的实验室检测](https://mp.weixin.qq.com/s/qtqhrPbZGK7oLEtwMuf54g)

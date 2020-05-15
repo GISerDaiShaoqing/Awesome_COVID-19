@@ -476,3 +476,5 @@
 - [Multiorgan and Renal Tropism of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2011400)
 - [JAMA | 打破认知，大规模队列研究，儿童卡介苗接种对成年期COVID-19没有保护作用](https://mp.weixin.qq.com/s/ZuT0x623JRqR_dyksr7acw)
 - [SARS-CoV-2 Rates in BCG-Vaccinated and Unvaccinated Young Adults](https://jamanetwork.com/journals/jama/fullarticle/2766182)
+- [COVID-19中的内皮细胞感染和内皮炎](https://mp.weixin.qq.com/s/Ln3YuinC_VRw-YQxIoCaTA)
+- [COVID-19: the case for health-care worker screening to prevent hospital transmission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30917-X/fulltext)
