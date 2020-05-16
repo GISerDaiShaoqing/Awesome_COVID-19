@@ -1700,3 +1700,5 @@
 - [演够了？治病吧！](https://mp.weixin.qq.com/s/eBJl_fnEmo3x7xjIv--fTw)
 - [新加坡18名“常阳患者”获准出院](https://mp.weixin.qq.com/s/IVvsYX3d937rW2biN7tSiw)
 - [沈阳：初高三实行校园封闭管理，其他推迟开学](https://mp.weixin.qq.com/s/fvI-lmEhV3QYKkwToKzcGQ)
+- [新增确诊189，荷兰延长旅行禁令！高校应届毕业生可退学费？](https://mp.weixin.qq.com/s/DseJAhpEwKwnaI7mgP8Vfg)
+- [疫情最重灾区，凌晨4点，这个男人偷偷跑上街头，随后发生的一幕温暖了无数人……](https://mp.weixin.qq.com/s/kE_JzbXjIKidTctxq9QfsA)
