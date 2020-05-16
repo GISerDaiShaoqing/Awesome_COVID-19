@@ -454,3 +454,4 @@
 - [Coronavirus pandemic reduced China’s CO2 emissions in short-term, while stimulus packages may lead to emissions growth in medium- and long-term](http://www.enerarxiv.org/page/thesis.html?id=1864)
 - [Gaps in international law impede pandemic research](https://www.eurekalert.org/pub_releases/2020-05/aaft-gii051120.php)
 - [Blockchain-facilitated sharing to advance outbreak R&D](https://science.sciencemag.org/content/368/6492/719)
+- [学术成果 | COVID-19对美国电力行业短期影响分析](https://mp.weixin.qq.com/s/GkORoQG6zRdMWEtSEH9N-Q)

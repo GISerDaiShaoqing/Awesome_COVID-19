@@ -153,3 +153,4 @@
 - [Bases de datos y gráficas con información del COVID19 en México](https://github.com/alancarrillop/COVID19_Mexico)
 - [COVID19 Projections for US States](https://github.com/grantbrown/COVID19-US)
 - [Mega-COV: A Billion-Scale Dataset of 65 Languages For COVID-19](https://arxiv.org/abs/2005.06012)
+- [Combined Data Hub with Electricity Market and Coronavirus Case Data in U.S](https://github.com/tamu-engineering-research/COVID-EMDA)
