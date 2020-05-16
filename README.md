@@ -12,6 +12,8 @@ A curated list of awesome jouranl, papers, code, data, tools, visualization, hel
 
 ![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/websnapt.png)
 
-The website was powered by [docsite](https://github.com/txd-team/docsite).
+The website was powered by [docsite](https://github.com/txd-team/docsite). On May 12th, 2020 this site was indexed in the [Aminer COVID-19 Open Datasets](https://aminer.cn/data-covid19/?lang=zh).
+
+![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/indexedaminer.png)
 
 If you have any question about it, please contact me via E-mail.
