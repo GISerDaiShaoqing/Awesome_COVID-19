@@ -452,3 +452,5 @@
 - [Ethical triage during the COVID-19 pandemic: a toolkit for neurosurgical resource allocation](https://www.springermedizin.de/covid-19/ethical-triage-during-the-covid-19-pandemic-a-toolkit-for-neuros/17983108?fulltextView=true)
 - [为COVID-19建模——多学科视角看新冠疫情传播与防控](https://mp.weixin.qq.com/s/V4DlENQzBc8qHE7yRWqsdA)
 - [Coronavirus pandemic reduced China’s CO2 emissions in short-term, while stimulus packages may lead to emissions growth in medium- and long-term](http://www.enerarxiv.org/page/thesis.html?id=1864)
+- [Gaps in international law impede pandemic research](https://www.eurekalert.org/pub_releases/2020-05/aaft-gii051120.php)
+- [Blockchain-facilitated sharing to advance outbreak R&D](https://science.sciencemag.org/content/368/6492/719)
