@@ -23,3 +23,4 @@
 - [Open-source program to assess and map COVID-19 hazard risk](https://www.geospatialworld.net/blogs/open-source-program-to-assess-and-map-covid-19-hazard-risk/)
 - [无症状感染者：一场大战中的扫尾任务](https://mp.weixin.qq.com/s/KkYC_TBLJm9Jqp0AaBCK7Q)
 - [关于无症状感染者，我们需要担心吗？](https://mp.weixin.qq.com/s/DRttgIV9sd-bxJbaZH2ABw)
+- [COVID-19 Vulnerability Index for neighbourhoods, wards and Local Authorities in the UK](https://github.com/britishredcrosssociety/covid-19-vulnerability)
