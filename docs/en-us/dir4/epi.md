@@ -226,3 +226,4 @@
 - [广泛的接触者追踪与隔离是深圳控制SARS-CoV-2传播的关键](https://mp.weixin.qq.com/s/AoXyxebbIzweyDnfYmoZBw)
 - [Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30287-5/fulltext)
 - [Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30854-0/fulltext)
+- [Bayesian inference and forecast of COVID-19](https://github.com/Priesemann-Group/covid19_inference_forecast)

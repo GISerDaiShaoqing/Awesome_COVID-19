@@ -407,3 +407,7 @@
 - [Science论文精选｜用区块链技术促进对疫情爆发公平及时的合作研究](https://mp.weixin.qq.com/s/YydJuPEFPTkYZ3V0fpwTng)
 - [中国医科院回应Nature问题论文：已重新提交正确图片，相关实验记录齐全 | 科研圈日报](https://mp.weixin.qq.com/s/WC1wRagk2SsZV81E-W_JKQ)
 - [COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/yUB4Q4osabR-vBEml5vQig)
+- [保洁员 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/WLYAqGayHldIM6miNuD8dA)
+- [中国一半成年人血糖异常；精液中测出新冠病毒；这个黑洞肉眼可见？| 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/igKoBJuoMLbCR0VAb-RZSQ)
+- [“COVID-19”科研动态监测每日快报（5月15日）【中国科讯】](https://mp.weixin.qq.com/s/vcA2FrqpgzzxRuqYdOBoBg)
+- [原武汉病毒所科研人员万余字长文：疫情之下的是与非](https://mp.weixin.qq.com/s/Qpijc59bTMxuKIDmfJoJEA)

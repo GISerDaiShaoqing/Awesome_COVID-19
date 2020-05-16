@@ -328,3 +328,5 @@
 - [Pathogenesis and transmission of SARS-CoV-2 in golden hamsters](https://www.nature.com/articles/s41586-020-2342-5)
 - [Dogs caught coronavirus from their owners, genetic analysis suggests](https://www.nature.com/articles/d41586-020-01430-5)
 - [新冠病毒可以人传狗？（但未发现狗传人）](https://mp.weixin.qq.com/s/BJk4G-GXCOXLsm7BYpHkAw)
+- [NEJM | 实锤！受感染的猫可以在猫群之间进行传播新冠病毒，猫可能是SARS-CoV-2的沉默中间宿主](https://mp.weixin.qq.com/s/hifg6PPb674B1k8slBci1w)
+- [Transmission of SARS-CoV-2 in Domestic Cats](https://www.nejm.org/doi/full/10.1056/NEJMc2013400?query=featured_home)
