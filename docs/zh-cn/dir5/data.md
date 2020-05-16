@@ -154,3 +154,4 @@
 - [COVID19 Projections for US States](https://github.com/grantbrown/COVID19-US)
 - [Mega-COV: A Billion-Scale Dataset of 65 Languages For COVID-19](https://arxiv.org/abs/2005.06012)
 - [Combined Data Hub with Electricity Market and Coronavirus Case Data in U.S](https://github.com/tamu-engineering-research/COVID-EMDA)
+- [This package curate (downloads, clean, consolidate, smooth) data from Johns Hokpins for analysing international outbreak of COVID-19](https://github.com/rOpenStats/COVID19analytics)
