@@ -1696,3 +1696,7 @@
 - [“钻石公主”号，重启旅游航行](https://mp.weixin.qq.com/s/cBIIuo8QsWpm2q2mWeu7SA)
 - [17日0点起，吉林市关停所有个体诊所和门诊部](https://mp.weixin.qq.com/s/hkMhXBeT6pUJlIbBJfVArg)
 - [李兰娟：这三点永远是防控传染病的根本](https://mp.weixin.qq.com/s/xZ2_scbYoqhFMOE6cmFUrw)
+- [不忍直视！美国政要自相矛盾实录](https://mp.weixin.qq.com/s/ghh7vCdvcvIAvUYM5wLb-Q)
+- [演够了？治病吧！](https://mp.weixin.qq.com/s/eBJl_fnEmo3x7xjIv--fTw)
+- [新加坡18名“常阳患者”获准出院](https://mp.weixin.qq.com/s/IVvsYX3d937rW2biN7tSiw)
+- [沈阳：初高三实行校园封闭管理，其他推迟开学](https://mp.weixin.qq.com/s/fvI-lmEhV3QYKkwToKzcGQ)
