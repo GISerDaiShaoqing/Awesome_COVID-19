@@ -148,3 +148,4 @@
 - [【Café速递】吴冲：做能解决实际问题的GISer—以疫情防控系统开发为例&代文：学术发展之路与公派留学的机遇与挑战](https://mp.weixin.qq.com/s/IWlSj4emdZE58TKfRxxa5Q)
 - [活动报道 | 中国地理学会经济地理专业委员会召开学术云会，探讨新冠疫情下中国经济地理学的挑战与创新](https://mp.weixin.qq.com/s/XuC23ox6Fc64vquBwGDwvg)
 - [清华大学终身教授祁海：新冠病毒的免疫征途](https://mp.weixin.qq.com/s/oAZ25Mo2fxNkm48WrjQOzA)
+- [【讲座预告】长江战略研究院年中特别系列讲座：瞭望区域经济，疫情危中见机](https://mp.weixin.qq.com/s/j39IeEbRV7aT8BqHrWVYCg)

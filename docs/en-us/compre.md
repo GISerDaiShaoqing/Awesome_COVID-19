@@ -461,3 +461,6 @@
 - [科学家呼吁叫停未经证实的新冠肺炎干细胞疗法](http://news.sciencenet.cn/htmlnews/2020/5/439845.shtm)
 - [Bioethicist calls out unproven and unlicensed 'stem cell treatments' for COVID-19](https://eurekalert.org/pub_releases/2020-05/cp-bco050720.php)
 - [Preying on Public Fears and Anxieties in a Pandemic: Businesses Selling Unproven and Unlicensed “Stem Cell Treatments” for COVID-19](https://www.sciencedirect.com/science/article/pii/S1934590920302010?via%3Dihub)
+- [非洲疫线｜乌干达主流媒体眼中的疫情与中非关系](https://mp.weixin.qq.com/s/qERkCUGo9c1upaVT4WuHwA)
+- [非洲疫线｜非洲艺术小镇如何应对新冠疫情](https://mp.weixin.qq.com/s/ZKjYO5yhD9FUKeWqmiBf4A)
+- [人工智能如何用于抵抗COVID-19？Mila这份《AI against COVID-19 》PPT](https://mp.weixin.qq.com/s/o4Qk-MDW4zwWgZkWNMR6sQ)
