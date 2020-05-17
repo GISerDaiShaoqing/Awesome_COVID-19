@@ -331,3 +331,4 @@
 - [NEJM | 实锤！受感染的猫可以在猫群之间进行传播新冠病毒，猫可能是SARS-CoV-2的沉默中间宿主](https://mp.weixin.qq.com/s/hifg6PPb674B1k8slBci1w)
 - [Transmission of SARS-CoV-2 in Domestic Cats](https://www.nejm.org/doi/full/10.1056/NEJMc2013400?query=featured_home)
 - [Nature Medicine | 突破，袁国勇团队首次得到了新冠病毒可以感染蝙蝠的直接证据](https://mp.weixin.qq.com/s/vDgp4icGFmSy8U6KKwjBfw)
+- [Structure of the RNA-dependent RNA polymerase from COVID-19 virus](https://science.sciencemag.org/content/368/6492/779)

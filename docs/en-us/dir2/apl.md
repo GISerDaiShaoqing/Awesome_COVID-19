@@ -413,3 +413,4 @@
 - [原武汉病毒所科研人员万余字长文：疫情之下的是与非](https://mp.weixin.qq.com/s/Qpijc59bTMxuKIDmfJoJEA)
 - [厨师 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/HfZV286CFJoFlPhJdOw4lg)
 - [“COVID-19”科研动态监测每日快报（5月16日）【中国科讯】](https://mp.weixin.qq.com/s/vE4QHt5b5ELlRJ-GfO_s-A)
+- [特朗普称考虑恢复对WHO资助，金额或削减90%；美国计划全面切断华为芯片晶圆全球供应 等 | 本周值得读·科研生涯](https://mp.weixin.qq.com/s/KwuFjrVhfiuYV1TP7gOqpQ)
