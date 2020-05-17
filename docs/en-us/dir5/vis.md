@@ -168,3 +168,5 @@
 - [Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country](https://github.com/trekhleb/covid-19)
 - [This is a dashboard, similar to the one from Johns Hopkins usind open source technology](https://github.com/chschoenenberger/covid19_dashboard)
 - [Visualization of confirmed Covid-19 cases ](https://github.com/nicebread/corona)
+- [国际资讯｜利用地理空间技术绘制COVID-19分布图并降低其对商业的影响](https://mp.weixin.qq.com/s/PnLLJf_BJvvlQuFKJeHXWA)
+- [Leveraging Geospatial technology to effectively map the spread of COVID-19& minimize its impact on business](https://www.geospatialworld.net/news/leveraging-geospatial-technology-to-effectively-map-the-spread-of-covid-19-minimize-its-impact-on-business/)

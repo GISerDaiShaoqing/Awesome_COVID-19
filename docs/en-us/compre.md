@@ -464,3 +464,4 @@
 - [非洲疫线｜乌干达主流媒体眼中的疫情与中非关系](https://mp.weixin.qq.com/s/qERkCUGo9c1upaVT4WuHwA)
 - [非洲疫线｜非洲艺术小镇如何应对新冠疫情](https://mp.weixin.qq.com/s/ZKjYO5yhD9FUKeWqmiBf4A)
 - [人工智能如何用于抵抗COVID-19？Mila这份《AI against COVID-19 》PPT](https://mp.weixin.qq.com/s/o4Qk-MDW4zwWgZkWNMR6sQ)
+- [Nature子刊：华科团队找到3个新冠死亡标志物，预测死亡准确率超九成](https://mp.weixin.qq.com/s/r6RqY6K4idwhQCszimkEdw)
