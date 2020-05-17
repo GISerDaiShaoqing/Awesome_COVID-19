@@ -455,3 +455,6 @@
 - [Gaps in international law impede pandemic research](https://www.eurekalert.org/pub_releases/2020-05/aaft-gii051120.php)
 - [Blockchain-facilitated sharing to advance outbreak R&D](https://science.sciencemag.org/content/368/6492/719)
 - [学术成果 | COVID-19对美国电力行业短期影响分析](https://mp.weixin.qq.com/s/GkORoQG6zRdMWEtSEH9N-Q)
+- [疫情暴露和加剧的不平等，与经济的未来可能 | 《资本与意识形态》其书](https://mp.weixin.qq.com/s/W-9oU3_CdgcKpHT3HAy_bg)
+- [Post-pandemic economic overhaul will take more than tweaks](https://www.nature.com/articles/d41586-020-01222-x)
+- [BMC聚焦后疫情时代 | 这些关于心理健康的研究值得关注](https://mp.weixin.qq.com/s/lnrxGtYmPjJ1Qg4uUGElPA)
