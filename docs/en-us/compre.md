@@ -458,3 +458,6 @@
 - [疫情暴露和加剧的不平等，与经济的未来可能 | 《资本与意识形态》其书](https://mp.weixin.qq.com/s/W-9oU3_CdgcKpHT3HAy_bg)
 - [Post-pandemic economic overhaul will take more than tweaks](https://www.nature.com/articles/d41586-020-01222-x)
 - [BMC聚焦后疫情时代 | 这些关于心理健康的研究值得关注](https://mp.weixin.qq.com/s/lnrxGtYmPjJ1Qg4uUGElPA)
+- [科学家呼吁叫停未经证实的新冠肺炎干细胞疗法](http://news.sciencenet.cn/htmlnews/2020/5/439845.shtm)
+- [Bioethicist calls out unproven and unlicensed 'stem cell treatments' for COVID-19](https://eurekalert.org/pub_releases/2020-05/cp-bco050720.php)
+- [Preying on Public Fears and Anxieties in a Pandemic: Businesses Selling Unproven and Unlicensed “Stem Cell Treatments” for COVID-19](https://www.sciencedirect.com/science/article/pii/S1934590920302010?via%3Dihub)

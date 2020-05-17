@@ -492,3 +492,4 @@
 - [Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data](https://www.bmj.com/content/369/bmj.m1844)
 - [Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial](https://www.bmj.com/content/369/bmj.m1849)
 - [核酸检测还能更快更准吗？自我检测是否可行？](https://mp.weixin.qq.com/s/vjKviL9h-ixKhQzQpbnJ-g)
+- [疫苗专家：新冠病毒疫苗最早有望明年年底前上市](http://news.sciencenet.cn/htmlnews/2020/5/439828.shtm)
