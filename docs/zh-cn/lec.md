@@ -147,3 +147,4 @@
 - [【直播实录】北京大学教授黄岩谊：新型冠状病毒的实验室检测](https://mp.weixin.qq.com/s/qtqhrPbZGK7oLEtwMuf54g)
 - [【Café速递】吴冲：做能解决实际问题的GISer—以疫情防控系统开发为例&代文：学术发展之路与公派留学的机遇与挑战](https://mp.weixin.qq.com/s/IWlSj4emdZE58TKfRxxa5Q)
 - [活动报道 | 中国地理学会经济地理专业委员会召开学术云会，探讨新冠疫情下中国经济地理学的挑战与创新](https://mp.weixin.qq.com/s/XuC23ox6Fc64vquBwGDwvg)
+- [清华大学终身教授祁海：新冠病毒的免疫征途](https://mp.weixin.qq.com/s/oAZ25Mo2fxNkm48WrjQOzA)

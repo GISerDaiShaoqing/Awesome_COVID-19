@@ -1717,3 +1717,4 @@
 - [美国迪士尼，5月27日部分回归](https://mp.weixin.qq.com/s/uTZ5l0wDmIFZz5qlxP8Mow)
 - [吉林市丰满区今起实行严格管控：每户每天派1名成员外出采购](https://mp.weixin.qq.com/s/fnwv90rqt-B9w8QDMT1S7Q)
 - [“举报确诊病例奖励2万元”，内蒙古通辽最新通知](https://mp.weixin.qq.com/s/7eERdmJBn4XN8VE12_CIfA)
+- [舒兰市公安局政委被免职：同批被免干部中唯一非卫生系统](https://mp.weixin.qq.com/s/pMub1GRm-qC0lPhLeu_2Dg)
