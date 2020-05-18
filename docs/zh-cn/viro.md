@@ -332,3 +332,7 @@
 - [Transmission of SARS-CoV-2 in Domestic Cats](https://www.nejm.org/doi/full/10.1056/NEJMc2013400?query=featured_home)
 - [Nature Medicine | 突破，袁国勇团队首次得到了新冠病毒可以感染蝙蝠的直接证据](https://mp.weixin.qq.com/s/vDgp4icGFmSy8U6KKwjBfw)
 - [Structure of the RNA-dependent RNA polymerase from COVID-19 virus](https://science.sciencemag.org/content/368/6492/779)
+- [高福院士发表Science论文！从康复患者体内发现2种抗体，可阻断新冠病毒与ACE2结合，为疫苗设计提供结构基础](https://mp.weixin.qq.com/s/mtLi_TwMMliscF7H8WeZhA)
+- [NEJM 发现新冠病毒“猫传猫”，WHO 建议与宠物保持一定“隔离”](https://mp.weixin.qq.com/s/ucbqUIWocdpXd2v2llxIhA)
+- [SARS-Coronavirus (CoV)-2 and cats](http://www.abcdcatsvets.org/sars-coronavirus-2-and-cats/)
+- [Cats can infect other cats with virus that causes COVID-19](https://www.eurekalert.org/pub_releases/1969-12/uot-cci051320.php)

@@ -228,3 +228,5 @@
 - [Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30854-0/fulltext)
 - [Bayesian inference and forecast of COVID-19](https://github.com/Priesemann-Group/covid19_inference_forecast)
 - [Forecasting the effective reproduction number over short timescales](https://github.com/epiforecasts/EpiSoon)
+- [流动中的人口，是传染病的最佳媒介么？| BMC Blog](https://mp.weixin.qq.com/s/XdQXio0Xrn91hNius6acRw)
+- [Humans: are we the most effective vector of disease?](http://blogs.biomedcentral.com/bugbitten/2020/05/01/humans-are-we-the-most-effective-vector-of-disease/?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_blog_May)

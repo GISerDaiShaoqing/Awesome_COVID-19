@@ -493,3 +493,7 @@
 - [Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial](https://www.bmj.com/content/369/bmj.m1849)
 - [核酸检测还能更快更准吗？自我检测是否可行？](https://mp.weixin.qq.com/s/vjKviL9h-ixKhQzQpbnJ-g)
 - [疫苗专家：新冠病毒疫苗最早有望明年年底前上市](http://news.sciencenet.cn/htmlnews/2020/5/439828.shtm)
+- [与其锦上添花，不如釜底抽薪，控制细胞因子风暴，改善新冠病毒肺炎预后](https://mp.weixin.qq.com/s/JSWbIvLCPYGGo3vMJNWhbQ)
+- [治疗有效？ 广州医科大学赖天文等人连发4篇NEJM，强烈质疑瑞德昔韦可以降低重症患者死亡率：统计使用方法，计算等有误](https://mp.weixin.qq.com/s/mmzb5YtLAbc_F_El-fzQtw)
+- [Compassionate Use of Remdesivir in Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMc2015312?query=recirc_curatedRelated_article)
+- [半年来，尸检一直在揭示新冠肺炎真容](https://mp.weixin.qq.com/s/ERVnLfLae9j6Vs6R3Xnwsw)

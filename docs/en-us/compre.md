@@ -465,3 +465,7 @@
 - [非洲疫线｜非洲艺术小镇如何应对新冠疫情](https://mp.weixin.qq.com/s/ZKjYO5yhD9FUKeWqmiBf4A)
 - [人工智能如何用于抵抗COVID-19？Mila这份《AI against COVID-19 》PPT](https://mp.weixin.qq.com/s/o4Qk-MDW4zwWgZkWNMR6sQ)
 - [Nature子刊：华科团队找到3个新冠死亡标志物，预测死亡准确率超九成](https://mp.weixin.qq.com/s/r6RqY6K4idwhQCszimkEdw)
+- [“我梦见牙齿一颗颗脱落” ……为什么疫情期间，人更容易做可怕的梦？](https://mp.weixin.qq.com/s/2c-kHOMU5Tz77O72uFVMZQ)
+- [深入医院抗疫、督导市民隔离，全能波士顿动力机器狗大显身手](https://mp.weixin.qq.com/s/yttGbgHOVq_48pMwim68oQ)
+- [【文献与探索】新冠肺炎疫情与政策科学：回应和展望](https://mp.weixin.qq.com/s/Lf8fi51B6IsYbRk6MyGkWQ)
+- [COVID-19 and the policy sciences: initial reactions and perspectives](https://link.springer.com/article/10.1007/s11077-020-09381-4)

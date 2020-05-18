@@ -414,3 +414,7 @@
 - [厨师 新冠肺炎防控技术指南](https://mp.weixin.qq.com/s/HfZV286CFJoFlPhJdOw4lg)
 - [“COVID-19”科研动态监测每日快报（5月16日）【中国科讯】](https://mp.weixin.qq.com/s/vE4QHt5b5ELlRJ-GfO_s-A)
 - [特朗普称考虑恢复对WHO资助，金额或削减90%；美国计划全面切断华为芯片晶圆全球供应 等 | 本周值得读·科研生涯](https://mp.weixin.qq.com/s/KwuFjrVhfiuYV1TP7gOqpQ)
+- [“COVID-19”科研动态监测每日快报（5月17日）【中国科讯】](https://mp.weixin.qq.com/s/5mUXqmAxplVCLA0SJzCBqA)
+- [“5分钟”病毒检测“神器”更胜一筹？专家表示： 核酸检测目前无可替代](https://mp.weixin.qq.com/s/2rRst2cjC_ccMCZA6hiEMg)
+- [Cell：新冠肺炎患者可产生能特异性识别病毒的 T 细胞，该发现有利于疫苗研发 | 科研圈日报](https://mp.weixin.qq.com/s/f76yhDDDYMe6TqhNRcDQTA)
+- [低风险地区是否有必要全天佩戴口罩？](https://mp.weixin.qq.com/s/ORnW38UqZyv0MElimZGmlg)
