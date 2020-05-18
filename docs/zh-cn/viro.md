@@ -339,3 +339,4 @@
 - [史卫峰团队为新冠病毒“自然起源”再添有力证据 | CellPress对话科学家](https://mp.weixin.qq.com/s/3aJQ1dc21suz98Hzy0EOeg)
 - [A novel bat coronavirus closely related to SARS-CoV-2 contains natural insertions at the S1/S2 cleavage site of the spike protein](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30662-X)
 - [A highly conserved cryptic epitope in the receptor binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/368/6491/630)
+- [Tracing back roots: unravelling feline enteric coronavirus pathogenesis to combat feline infectious peritonitis](https://biblio.ugent.be/publication/5815404/file/5815409)
