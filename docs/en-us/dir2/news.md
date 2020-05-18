@@ -1739,3 +1739,5 @@
 - [疫情影响实习？浙财大的学生家里就能完成](https://mp.weixin.qq.com/s/2jG5h3q9fdPfSAbw3i8Xww)
 - [上海中小学生复学，一班两教室、警察护校](https://mp.weixin.qq.com/s/8Xg3nvn70MPrCXdiF_bOSA)
 - [做核酸检测被要求持身份证拍照留底，武汉通报](https://mp.weixin.qq.com/s/XTc2MRKp2pkgesra6YVUSg)
+- [上海新增湖北输入病例轨迹查清！动车车次、入住宾馆公布](https://mp.weixin.qq.com/s/7ORdyxx0s9uDfHT6JNKP_w)
+- [对湖北高校帮扶一对一，南大、厦大等加入](https://mp.weixin.qq.com/s/4eahWnDYz70ZGG5_gReVuA)
