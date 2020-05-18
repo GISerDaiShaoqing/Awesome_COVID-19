@@ -170,3 +170,8 @@
 - [Visualization of confirmed Covid-19 cases ](https://github.com/nicebread/corona)
 - [国际资讯｜利用地理空间技术绘制COVID-19分布图并降低其对商业的影响](https://mp.weixin.qq.com/s/PnLLJf_BJvvlQuFKJeHXWA)
 - [Leveraging Geospatial technology to effectively map the spread of COVID-19& minimize its impact on business](https://www.geospatialworld.net/news/leveraging-geospatial-technology-to-effectively-map-the-spread-of-covid-19-minimize-its-impact-on-business/)
+- [数据解读全球失业率，印度近四分之一人口受影响，灵活用工或加重下岗情况](https://mp.weixin.qq.com/s/44gt-5oSOAQBLeZeZXSgdQ)
+- [世卫：病毒可能永不消失！英首相：疫苗可能永远研发不出来！](https://mp.weixin.qq.com/s/qPcLbk3bNwsplk_M4l_o1w)
+- [内阁昨日举行阳光户外会议，灵魂拷问：RIVM为啥不学学邻国？又是百姓看不懂？](https://mp.weixin.qq.com/s/KOeUQTdVBjQdNgpznVkyBA)
+- [国际资讯｜MapDash COVID-19如何提供美国的态势感知](https://mp.weixin.qq.com/s/C7cYDCVj3nTCIY3csEMAzA)
+- [How MapDash COVID-19 is providing situational awareness in the US](https://www.geospatialworld.net/blogs/how-mapdash-covid-19-is-providing-situational-awareness-in-the-us/)

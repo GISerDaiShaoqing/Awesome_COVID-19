@@ -497,3 +497,8 @@
 - [治疗有效？ 广州医科大学赖天文等人连发4篇NEJM，强烈质疑瑞德昔韦可以降低重症患者死亡率：统计使用方法，计算等有误](https://mp.weixin.qq.com/s/mmzb5YtLAbc_F_El-fzQtw)
 - [Compassionate Use of Remdesivir in Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMc2015312?query=recirc_curatedRelated_article)
 - [半年来，尸检一直在揭示新冠肺炎真容](https://mp.weixin.qq.com/s/ERVnLfLae9j6Vs6R3Xnwsw)
+- [罕见！新英格兰连发4篇文章质疑“人民的希望”实验结果](https://mp.weixin.qq.com/s/qIv89nIQ5dNS4E_C-gRMVQ)
+- [重大突破：首个新冠肺炎强效新药有望！北大谢晓亮团队Cell发布最新重磅成果，即将进入临床](https://mp.weixin.qq.com/s/4sBnEJQQrQS5spTN7GzUIA)
+- [Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](https://www.cell.com/cell/fulltext/S0092-8674(20)30620-6)
+- [Cell重磅 | 谢晓亮/秦川/秦成峰/金荣华从8000多种抗体中筛选出新冠病毒中和抗体，有望迅速应用于临床](https://mp.weixin.qq.com/s/ML8k8LQh9ZXT-mSJYjhVPA)
+- [The immune system of children: the key to understanding SARS-CoV-2 susceptibility?](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30135-8/fulltext)

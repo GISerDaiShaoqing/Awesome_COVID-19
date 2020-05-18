@@ -106,3 +106,4 @@
 - [16岁日本神童打造日版「健康码」，追踪用户行动数据抗击疫情](https://mp.weixin.qq.com/s/zJfmm24SbJsIUV92-JP3mw)
 - [【科技】16岁日本神童打造日版“健康码”，追踪用户行动数据抗击疫情](https://mp.weixin.qq.com/s/9TxBdfOQHIbX1ZCOLlDREw)
 - [时空大数据服务平台 支撑重庆疫情地图服务疫情防控](https://mp.weixin.qq.com/s/65HhxTpKMdUDwQvWFupMsw)
+- [COVID-Notebooks: COVIDMINDER Prototyping via R Notebooks](https://github.com/TheRensselaerIDEA/COVID-Notebooks)

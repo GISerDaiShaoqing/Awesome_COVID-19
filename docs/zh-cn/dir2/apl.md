@@ -418,3 +418,5 @@
 - [“5分钟”病毒检测“神器”更胜一筹？专家表示： 核酸检测目前无可替代](https://mp.weixin.qq.com/s/2rRst2cjC_ccMCZA6hiEMg)
 - [Cell：新冠肺炎患者可产生能特异性识别病毒的 T 细胞，该发现有利于疫苗研发 | 科研圈日报](https://mp.weixin.qq.com/s/f76yhDDDYMe6TqhNRcDQTA)
 - [低风险地区是否有必要全天佩戴口罩？](https://mp.weixin.qq.com/s/ORnW38UqZyv0MElimZGmlg)
+- [COS 访谈第 37 期：俞声老师 —— 践行医学信息学的统计人](https://mp.weixin.qq.com/s/43lqYlMXVGvOAp2JUxcptg)
+- [钟南山：对新冠疫苗不乐观，警惕第二波疫情！2月初已对武汉病毒所石正丽实验室进行了调查](https://mp.weixin.qq.com/s/TXmS0mCLvIm2DWa70pE4hw)

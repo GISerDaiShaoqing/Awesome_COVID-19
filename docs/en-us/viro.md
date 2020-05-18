@@ -336,3 +336,6 @@
 - [NEJM 发现新冠病毒“猫传猫”，WHO 建议与宠物保持一定“隔离”](https://mp.weixin.qq.com/s/ucbqUIWocdpXd2v2llxIhA)
 - [SARS-Coronavirus (CoV)-2 and cats](http://www.abcdcatsvets.org/sars-coronavirus-2-and-cats/)
 - [Cats can infect other cats with virus that causes COVID-19](https://www.eurekalert.org/pub_releases/1969-12/uot-cci051320.php)
+- [史卫峰团队为新冠病毒“自然起源”再添有力证据 | CellPress对话科学家](https://mp.weixin.qq.com/s/3aJQ1dc21suz98Hzy0EOeg)
+- [A novel bat coronavirus closely related to SARS-CoV-2 contains natural insertions at the S1/S2 cleavage site of the spike protein](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30662-X)
+- [A highly conserved cryptic epitope in the receptor binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/368/6491/630)

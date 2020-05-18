@@ -469,3 +469,7 @@
 - [深入医院抗疫、督导市民隔离，全能波士顿动力机器狗大显身手](https://mp.weixin.qq.com/s/yttGbgHOVq_48pMwim68oQ)
 - [【文献与探索】新冠肺炎疫情与政策科学：回应和展望](https://mp.weixin.qq.com/s/Lf8fi51B6IsYbRk6MyGkWQ)
 - [COVID-19 and the policy sciences: initial reactions and perspectives](https://link.springer.com/article/10.1007/s11077-020-09381-4)
+- [大浪里淘沙：被2万余篇新冠文献淹没的科研人，新工具能帮助他们吗？](https://mp.weixin.qq.com/s/uSFM-I-_A7iCxqciIaG3Og)
+- [Scientists are drowning in COVID-19 papers. Can new tools keep them afloat?](https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat)
+- [《柳叶刀-精神病学》社论：危机来临时，社会应更加包容](https://mp.weixin.qq.com/s/7uKz7StytUEpBfJgfnus4A)
+- [Isolation and inclusion](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30156-5/fulltext)
