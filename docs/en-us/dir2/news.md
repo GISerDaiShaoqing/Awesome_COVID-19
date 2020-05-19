@@ -1767,3 +1767,4 @@
 - [医病医身医心，救人救国救世](https://mp.weixin.qq.com/s/vAFACPhyg_c4xbBPj20EsQ)
 - [“我想成为像他们那样的共产党员”]https://mp.weixin.qq.com/s/AzeOaSLwQJ1StJr_cMm9mg)
 - [武汉9天7人感染，都在一个小区](https://mp.weixin.qq.com/s/kagNlTvz9nYYomfopokQgQ)
+- [疫情之中，国科大海外学子的“流浪地球”](https://mp.weixin.qq.com/s/_KbHEKHRncc9wiER22uePg)
