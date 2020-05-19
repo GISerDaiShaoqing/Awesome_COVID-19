@@ -510,3 +510,5 @@
 - [研制新冠肺炎强效药！北大谢晓亮团队与合作者借助高通量单细胞技术，成功筛选出多个新冠病毒高活性中和抗体](https://mp.weixin.qq.com/s/v4AVqRg0OeeazfECHxrV5Q)
 - [迫切需要COVID-19新冠肺炎恢复患者的管理计划](https://mp.weixin.qq.com/s/SBD-1CkFiJZqIYZRiftcqw)
 - [Urgent need of a management plan for survivors of COVID-19](https://erj.ersjournals.com/content/55/4/2000764?ctkey=wechat)
+- [新冠康复者体内产生多种特异性抗体](http://news.sciencenet.cn/htmlnews/2020/5/439899.shtm)
+- [Detection of SARS-CoV-2-Specific Humoral and Cellular Immunity in COVID-19 Convalescent Individuals](https://www.sciencedirect.com/science/article/pii/S1074761320301813?via%3Dihub)

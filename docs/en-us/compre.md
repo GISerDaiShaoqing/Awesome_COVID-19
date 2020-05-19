@@ -483,3 +483,4 @@
 - [How Facebook is Using AI to Fight COVID-19 Misinformation](https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/how-facebook-is-using-ai-to-fight-covid19-misinformation)
 - [Facebook and YouTube are rushing to delete “Plandemic,” a conspiracy-laden video](https://www.technologyreview.com/2020/05/07/1001469/facebook-youtube-plandemic-covid-misinformation/)
 - [公众在重大疫情暴发初期的风险感知差异 ———新型冠状病毒肺炎健康信息采用的影响机制研究](https://mp.weixin.qq.com/s/Bq3HLaE8PQ6N3tiFDOKI_Q)
+- [他们用代码抗击新冠](https://www.weibo.com/ttarticle/p/show?id=2309404506265375080513)
