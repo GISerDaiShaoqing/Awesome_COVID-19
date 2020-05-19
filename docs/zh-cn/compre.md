@@ -473,3 +473,13 @@
 - [Scientists are drowning in COVID-19 papers. Can new tools keep them afloat?](https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat)
 - [《柳叶刀-精神病学》社论：危机来临时，社会应更加包容](https://mp.weixin.qq.com/s/7uKz7StytUEpBfJgfnus4A)
 - [Isolation and inclusion](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30156-5/fulltext)
+- [【观点】耶鲁专家：疫情之后，我们想要回到什么样的“正常”状态？](https://mp.weixin.qq.com/s/C8X6gVKLMk-J-A89Av3mzQ)
+- [When Social Distancing Ends, Will We Rethink the World We Want?](https://e360.yale.edu/features/when-social-distancing-ends-will-we-rethink-the-world-we-want)
+- [疫情背景催生联合学士学位教育期待](https://mp.weixin.qq.com/s/b2_O0mcpgyilT7m3vZkhcg)
+- [返校VS不返校: 美国常青藤盟校这样选择](https://mp.weixin.qq.com/s/-8sf-sirswCioWbQM-UsZA)
+- [Nature：谣言四起，阴谋论猖獗，疫情下人们不相信科学的真相很“无语”](https://mp.weixin.qq.com/s/6H83UBYwnQ_VFklVbD1Yfw)
+- [Anti-vaccine movement could undermine efforts to end coronavirus pandemic, researchers warn](https://www.nature.com/articles/d41586-020-01423-4)
+- [Vaccine opponents are gaining in Facebook ‘battle for hearts and minds,’ new map shows](https://www.sciencemag.org/news/2020/05/vaccine-opponents-are-gaining-facebook-battle-hearts-and-minds-new-map-shows)
+- [How Facebook is Using AI to Fight COVID-19 Misinformation](https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/how-facebook-is-using-ai-to-fight-covid19-misinformation)
+- [Facebook and YouTube are rushing to delete “Plandemic,” a conspiracy-laden video](https://www.technologyreview.com/2020/05/07/1001469/facebook-youtube-plandemic-covid-misinformation/)
+- [疾病与罪污：身处阿片危机中心的精神病学家]

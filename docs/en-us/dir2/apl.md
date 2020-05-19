@@ -420,3 +420,6 @@
 - [低风险地区是否有必要全天佩戴口罩？](https://mp.weixin.qq.com/s/ORnW38UqZyv0MElimZGmlg)
 - [COS 访谈第 37 期：俞声老师 —— 践行医学信息学的统计人](https://mp.weixin.qq.com/s/43lqYlMXVGvOAp2JUxcptg)
 - [钟南山：对新冠疫苗不乐观，警惕第二波疫情！2月初已对武汉病毒所石正丽实验室进行了调查](https://mp.weixin.qq.com/s/TXmS0mCLvIm2DWa70pE4hw)
+- [“COVID-19”科研动态监测每日快报（5月18日）【中国科讯】](https://mp.weixin.qq.com/s/r25k98208ercEwHyKp_p8w)
+- [疫情期间 孕产妇如何科学膳食](https://mp.weixin.qq.com/s/TgMJ13AlMZ2DarWFKf94lg)
+- [美国率先披露新冠疫苗临床初步结果：效果令人振奋，最快年末投入使用 | 科研圈日报](https://mp.weixin.qq.com/s/v62unMxhtHikoLVtleFhAA)

@@ -65,3 +65,5 @@
 - [Coronavirus in context: Scite.ai tracks positive and negative citations for COVID-19 literature](https://www.nature.com/articles/d41586-020-01324-6?utm_source=weibo&utm_medium=social&utm_term=d41586-020-01324-6)
 - [Publicly available data, source code, and other resources prepared by the COV-IND-19 Study Group in response to the COVID-19 outbreak in India](https://github.com/umich-cphds/cov-ind-19)
 - [Broutonlab face recognition with medical masks](https://github.com/broutonlab/face-id-with-medical-masks)
+- [使用OpenCV、Keras/TensorFlow和深度学习实现口罩探测器](https://mp.weixin.qq.com/s/OYewph_JMbRO_1qHBXaHwg)
+- [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/#download-the-code)

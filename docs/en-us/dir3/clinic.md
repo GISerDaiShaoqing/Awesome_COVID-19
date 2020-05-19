@@ -502,3 +502,6 @@
 - [Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](https://www.cell.com/cell/fulltext/S0092-8674(20)30620-6)
 - [Cell重磅 | 谢晓亮/秦川/秦成峰/金荣华从8000多种抗体中筛选出新冠病毒中和抗体，有望迅速应用于临床](https://mp.weixin.qq.com/s/ML8k8LQh9ZXT-mSJYjhVPA)
 - [The immune system of children: the key to understanding SARS-CoV-2 susceptibility?](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30135-8/fulltext)
+- [SARS治愈者的抗体可以抑制SARS-CoV-2 |《自然-免疫》论文](https://mp.weixin.qq.com/s/4BShh0haALd_DPCSFANpOQ)
+- [Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody](https://www.nature.com/articles/s41586-020-2349-y)
+- [小型观察性研究：关节炎治疗药物阿那白滞素对COVID-19患者有临床获益](https://mp.weixin.qq.com/s/C33YDv7hJnYsRkXoB8KaWQ)
