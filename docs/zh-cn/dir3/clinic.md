@@ -508,3 +508,5 @@
 - [英国医学杂志 (The BMJ) 刊文：方舱医院感染预防与控制的“中国经验”](https://mp.weixin.qq.com/s/HC_Og8VPVMnzny1F3mRyjw)
 - [China experience: infection prevention and control in the FangCang hospitals of Wuhan](https://blogs.bmj.com/bmj/2020/05/13/china-experience-infection-prevention-and-control-in-the-fangcang-hospitals-of-wuhan/)
 - [研制新冠肺炎强效药！北大谢晓亮团队与合作者借助高通量单细胞技术，成功筛选出多个新冠病毒高活性中和抗体](https://mp.weixin.qq.com/s/v4AVqRg0OeeazfECHxrV5Q)
+- [迫切需要COVID-19新冠肺炎恢复患者的管理计划](https://mp.weixin.qq.com/s/SBD-1CkFiJZqIYZRiftcqw)
+- [Urgent need of a management plan for survivors of COVID-19](https://erj.ersjournals.com/content/55/4/2000764?ctkey=wechat)
