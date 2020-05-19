@@ -482,4 +482,3 @@
 - [Vaccine opponents are gaining in Facebook ‘battle for hearts and minds,’ new map shows](https://www.sciencemag.org/news/2020/05/vaccine-opponents-are-gaining-facebook-battle-hearts-and-minds-new-map-shows)
 - [How Facebook is Using AI to Fight COVID-19 Misinformation](https://spectrum.ieee.org/view-from-the-valley/artificial-intelligence/machine-learning/how-facebook-is-using-ai-to-fight-covid19-misinformation)
 - [Facebook and YouTube are rushing to delete “Plandemic,” a conspiracy-laden video](https://www.technologyreview.com/2020/05/07/1001469/facebook-youtube-plandemic-covid-misinformation/)
-- [疾病与罪污：身处阿片危机中心的精神病学家]

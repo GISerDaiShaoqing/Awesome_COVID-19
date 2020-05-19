@@ -347,3 +347,4 @@
 - [|全网首发|【专题讨论37】应对突发公共事件的社区建设策略——基于“社区”概念的辨析](https://mp.weixin.qq.com/s/OI0eADaKBVVmdk12Hf7igQ)
 - [The Coronavirus crisis: What will the post-pandemic city look like?](https://journals.sagepub.com/doi/10.1177/2399808320926912)
 - [【新冠肺炎与健康城市】合理通风换气，营造健康人居环境](https://mp.weixin.qq.com/s/xMUf7bAOMYgYclsvlJppjg)
+- [An Updated Assessment of the Economic Impact of COVID-19](https://www.adb.org/sites/default/files/publication/604206/adb-brief-133-updated-economic-impact-covid-19.pdf)

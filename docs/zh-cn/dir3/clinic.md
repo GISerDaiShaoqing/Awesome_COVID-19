@@ -505,3 +505,5 @@
 - [SARS治愈者的抗体可以抑制SARS-CoV-2 |《自然-免疫》论文](https://mp.weixin.qq.com/s/4BShh0haALd_DPCSFANpOQ)
 - [Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody](https://www.nature.com/articles/s41586-020-2349-y)
 - [小型观察性研究：关节炎治疗药物阿那白滞素对COVID-19患者有临床获益](https://mp.weixin.qq.com/s/C33YDv7hJnYsRkXoB8KaWQ)
+- [英国医学杂志 (The BMJ) 刊文：方舱医院感染预防与控制的“中国经验”](https://mp.weixin.qq.com/s/HC_Og8VPVMnzny1F3mRyjw)
+- [China experience: infection prevention and control in the FangCang hospitals of Wuhan](https://blogs.bmj.com/bmj/2020/05/13/china-experience-infection-prevention-and-control-in-the-fangcang-hospitals-of-wuhan/)
