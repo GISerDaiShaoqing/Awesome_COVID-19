@@ -107,3 +107,5 @@
 - [【科技】16岁日本神童打造日版“健康码”，追踪用户行动数据抗击疫情](https://mp.weixin.qq.com/s/9TxBdfOQHIbX1ZCOLlDREw)
 - [时空大数据服务平台 支撑重庆疫情地图服务疫情防控](https://mp.weixin.qq.com/s/65HhxTpKMdUDwQvWFupMsw)
 - [COVID-Notebooks: COVIDMINDER Prototyping via R Notebooks](https://github.com/TheRensselaerIDEA/COVID-Notebooks)
+- [WhereNext丨在COVID-19疫情之下，Bass Pro Shops使用位置智能保障业务连续性](https://mp.weixin.qq.com/s/4XeR3qHd4CfmNqsINEdCng)
+- [Inside Bass Pro Shops’ Path to Business Continuity during COVID-19](https://www.esri.com/about/newsroom/publications/wherenext/inside-bass-pro-shops-path-to-business-continuity-during-covid-19/)

@@ -348,3 +348,5 @@
 - [The Coronavirus crisis: What will the post-pandemic city look like?](https://journals.sagepub.com/doi/10.1177/2399808320926912)
 - [【新冠肺炎与健康城市】合理通风换气，营造健康人居环境](https://mp.weixin.qq.com/s/xMUf7bAOMYgYclsvlJppjg)
 - [An Updated Assessment of the Economic Impact of COVID-19](https://www.adb.org/sites/default/files/publication/604206/adb-brief-133-updated-economic-impact-covid-19.pdf)
+- [客户应用直播分享丨从疫情思考企业管理模式的未来](https://mp.weixin.qq.com/s/MbGoXBS_bE25Q2nBYHsaMw)
+- [统筹推进疫情防控和产业转型升级促进制造业通信业稳定发展发布会](https://mp.weixin.qq.com/s/540JEHenfx1dmHdN0V8ZKw)

@@ -492,3 +492,6 @@
 - [新冠疫情期间全球二氧化碳减排10亿吨](http://news.sciencenet.cn/htmlnews/2020/5/440070.shtm)
 - [疫情之下的生物医学研究：危险与机会](https://mp.weixin.qq.com/s/kwHztof1rTcg_98GjLF7mw)
 - [Biomedical Research Goes Viral: Dangers and Opportunities](https://www.cell.com/cell/fulltext/S0092-8674(20)30576-6)
+- [拾声｜红嘴鸥不再寂寞：疫情时期昆明的声音](https://mp.weixin.qq.com/s/e73IOEaSA1IQ7r0ntxspEQ)
+- [柳叶刀-公共卫生 | COVID-19为社会带来考验](https://mp.weixin.qq.com/s/DnOZlBNfNd1cYas5_rrfAQ)
+- [COVID-19 puts societies to the test](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30097-9/fulltext)

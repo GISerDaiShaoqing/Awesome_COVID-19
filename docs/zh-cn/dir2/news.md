@@ -1788,3 +1788,4 @@
 - [上海一疑似被确诊，从武汉来](https://mp.weixin.qq.com/s/-exxeligXLeLaUoSfEl9Bw)
 - [湖北向高校毕业生发放一次性补贴](https://mp.weixin.qq.com/s/9yFeWVc6Wmhgemw9nJh38Q)
 - [温州重启大型宴席，但有条件](https://mp.weixin.qq.com/s/yRBlo4Ip-YhXTdwIjBNUfA)
+- [疫情防控新亮点：居民在家游戏“狼人杀”同比增长71.18%](https://mp.weixin.qq.com/s/HLU5vmZSbL-fktUKmkw3jw)

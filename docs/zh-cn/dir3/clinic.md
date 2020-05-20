@@ -518,3 +518,6 @@
 - [Liver Manifestations of COVID-19 Infection](https://www.jwatch.org/na51399/2020/04/21/liver-manifestations-covid-19-infection?query=nejmyxqy)
 - [洗手液成分对SARS-CoV-2的抗病毒效果](https://mp.weixin.qq.com/s/ZxAzoV8XC6iVKBRETmNToA)
 - [Effectiveness of Hand Sanitizer Constituents Against SARS-CoV-2](https://www.jwatch.org/na51381/2020/04/21/effectiveness-hand-sanitizer-constituents-against-sars-cov?query=nejmyxqy)
+- [疫情过后广州一家医院消化内科日常服务恢复情况](https://mp.weixin.qq.com/s/LooQg8Ites9Plwl_HRw_3Q)
+- [Resumption of daily services in a gastroenterology department in Guangzhou, China, in the wake of COVID-19](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30133-3/fulltext)
+- [Endoscopy in inflammatory bowel diseases during the COVID-19 pandemic and post-pandemic period](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30119-9/fulltext)
