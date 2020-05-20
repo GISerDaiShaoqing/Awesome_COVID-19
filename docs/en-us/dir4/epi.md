@@ -234,3 +234,5 @@
 - [Seroprevalence of SARS-CoV-2–Specific Antibodies Among Adults in Los Angeles County, California, on April 10-11, 2020](https://jamanetwork.com/journals/jama/fullarticle/2766367)
 - [Science | 颠覆认知，炎热的夏天不能抑制新冠病毒的传播，反而是潮湿的澡堂等地方容易爆发大规模疫情](https://mp.weixin.qq.com/s/zjiGqADhlCWO2mJT_COSRw)
 - [Susceptible supply limits the role of climate in the early SARS-CoV-2 pandemic](https://science.sciencemag.org/content/early/2020/05/15/science.abc2535)
+- [Science流行病建模综述：捕捉冠状病毒传播全过程](https://mp.weixin.qq.com/s/ZEx7p4CFZuiVkU51-LeuGQ)
+- [Modeling infectious disease dynamics](https://science.sciencemag.org/content/368/6492/713)

@@ -427,3 +427,4 @@
 - [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/O2xsNIV9gRTXJ4k0aJCWIw)
 - [《自然》：终于搞清了新冠病毒会怎么搞乱细胞通路，而它的弱点也暴露了｜领研网24小时热门论文](https://mp.weixin.qq.com/s/g6640tsh00sn-blwj7jmAw)
 - [专家质疑美国新冠疫苗临床初步结果：未公布关键数据，应持谨慎态度 | 科研圈日报](https://mp.weixin.qq.com/s/3e4LpZTIfrA9sujTsrPD9g)
+- [COVID-19流行病的城市标度律 | 网络科学论文速递28篇](https://mp.weixin.qq.com/s/x-uPkRPpphl6ir8dsFkneA)
