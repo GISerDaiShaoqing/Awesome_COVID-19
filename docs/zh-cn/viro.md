@@ -340,3 +340,7 @@
 - [A novel bat coronavirus closely related to SARS-CoV-2 contains natural insertions at the S1/S2 cleavage site of the spike protein](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30662-X)
 - [A highly conserved cryptic epitope in the receptor binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/368/6491/630)
 - [Tracing back roots: unravelling feline enteric coronavirus pathogenesis to combat feline infectious peritonitis](https://biblio.ugent.be/publication/5815404/file/5815409)
+- [Proteomics of SARS-CoV-2-infected host cells reveals therapy targets](https://www.nature.com/articles/s41586-020-2332-7)
+- [突破 | 中国科学家公布实验室首个mRNA新冠候选疫苗的动物数据](https://mp.weixin.qq.com/s/Jbl0OljtXP3ke6Z8CmxWIg)
+- [A single dose SARS-CoV-2 simulating particle vaccine induces potent neutralizing activities](https://www.biorxiv.org/content/10.1101/2020.05.14.093054v1)
+- [Attenuated SARS-CoV-2 variants with deletions at the S1/S2 junction](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1756700)

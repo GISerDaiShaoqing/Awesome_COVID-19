@@ -423,3 +423,7 @@
 - [“COVID-19”科研动态监测每日快报（5月18日）【中国科讯】](https://mp.weixin.qq.com/s/r25k98208ercEwHyKp_p8w)
 - [疫情期间 孕产妇如何科学膳食](https://mp.weixin.qq.com/s/TgMJ13AlMZ2DarWFKf94lg)
 - [美国率先披露新冠疫苗临床初步结果：效果令人振奋，最快年末投入使用 | 科研圈日报](https://mp.weixin.qq.com/s/v62unMxhtHikoLVtleFhAA)
+- [“COVID-19”科研动态监测每日快报（5月19日）【中国科讯】](https://mp.weixin.qq.com/s/aqsx3cx5zUwPpf8BSJydJw)
+- [【有奖调查】新冠肺炎健康科普传播效果评估](https://mp.weixin.qq.com/s/O2xsNIV9gRTXJ4k0aJCWIw)
+- [《自然》：终于搞清了新冠病毒会怎么搞乱细胞通路，而它的弱点也暴露了｜领研网24小时热门论文](https://mp.weixin.qq.com/s/g6640tsh00sn-blwj7jmAw)
+- [专家质疑美国新冠疫苗临床初步结果：未公布关键数据，应持谨慎态度 | 科研圈日报](https://mp.weixin.qq.com/s/3e4LpZTIfrA9sujTsrPD9g)

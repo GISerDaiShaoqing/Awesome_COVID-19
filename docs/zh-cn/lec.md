@@ -152,3 +152,8 @@
 - [【抗疫超声在线】5月18日：COVID-2019 ，掌超桡动脉穿刺](https://mp.weixin.qq.com/s/y4lKMqtAvZraqRQKnJDQJg)
 - [重症灼见-公开课】5月19日直播：ECMO患者的镇痛镇静](https://mp.weixin.qq.com/s/f1Iut33shkjd4nkf0o5d3w)
 - [【CRRT学社新冠云讲堂第三期】5月22日直播：ECMO精细化管理，各个击破](https://mp.weixin.qq.com/s/pEUnADhGULQqPtUq-tHfWg)
+- [【GeoScience Café 第255期】“战疫在行动”——研究生学术沙龙](https://mp.weixin.qq.com/s/bUsoapJeaB76rcuSbfluEw)
+- [今日直播 | 微生物病原体检测方法简介——生命科学前沿热点”公益讲座之八【中国科讯】](https://mp.weixin.qq.com/s/8uBbQ2jhsHi8Y-E-btgJ7w)
+- [【直播预告】一带“医”路 中外新冠疫情管理交流项目 - 中南大学湘雅二医院&乌克兰](https://mp.weixin.qq.com/s/a19ISh-2yvOM7r73LgQciQ)
+- [知识疫图背后的故事之地区风险预测与基于搜索日志疫情预测技术实践](https://mp.weixin.qq.com/s/CEwcrxMgmhlT-41wUCfD0g)
+- [「重磅公益课」《擘雅讲谈》第一季•全球疫情引发的人文思考](https://mp.weixin.qq.com/s/7L51hIUH4L5ofPSw_akvig)

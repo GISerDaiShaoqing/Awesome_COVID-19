@@ -230,3 +230,7 @@
 - [Forecasting the effective reproduction number over short timescales](https://github.com/epiforecasts/EpiSoon)
 - [流动中的人口，是传染病的最佳媒介么？| BMC Blog](https://mp.weixin.qq.com/s/XdQXio0Xrn91hNius6acRw)
 - [Humans: are we the most effective vector of disease?](http://blogs.biomedcentral.com/bugbitten/2020/05/01/humans-are-we-the-most-effective-vector-of-disease/?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_blog_May)
+- [JAMA | 美国最大的县新冠病毒成年人感染率达到4.65％，一个县达到36万人被感染，为限制传播带来了极大挑战](https://mp.weixin.qq.com/s/F-ZTH3aWmeZm4g48_AXJTw)
+- [Seroprevalence of SARS-CoV-2–Specific Antibodies Among Adults in Los Angeles County, California, on April 10-11, 2020](https://jamanetwork.com/journals/jama/fullarticle/2766367)
+- [Science | 颠覆认知，炎热的夏天不能抑制新冠病毒的传播，反而是潮湿的澡堂等地方容易爆发大规模疫情](https://mp.weixin.qq.com/s/zjiGqADhlCWO2mJT_COSRw)
+- [Susceptible supply limits the role of climate in the early SARS-CoV-2 pandemic](https://science.sciencemag.org/content/early/2020/05/15/science.abc2535)
