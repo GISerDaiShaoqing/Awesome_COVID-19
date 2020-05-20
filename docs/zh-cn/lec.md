@@ -157,3 +157,4 @@
 - [【直播预告】一带“医”路 中外新冠疫情管理交流项目 - 中南大学湘雅二医院&乌克兰](https://mp.weixin.qq.com/s/a19ISh-2yvOM7r73LgQciQ)
 - [知识疫图背后的故事之地区风险预测与基于搜索日志疫情预测技术实践](https://mp.weixin.qq.com/s/CEwcrxMgmhlT-41wUCfD0g)
 - [「重磅公益课」《擘雅讲谈》第一季•全球疫情引发的人文思考](https://mp.weixin.qq.com/s/7L51hIUH4L5ofPSw_akvig)
+- [Tracking Epidemics in Cities Urban environments and the insights they provide into disease](http://senseable.mit.edu/webinars/Tracking-Epidemics-in-Cities?utm_medium=email&utm_campaign=May%2029%20Webinar&utm_content=May%2029%20Webinar%20CID_28595434e70369c78d965fb8d068f51f&utm_source=SCL%20Analytics&utm_term=Register%20Now)

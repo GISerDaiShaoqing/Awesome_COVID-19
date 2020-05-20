@@ -157,3 +157,4 @@
 - [This package curate (downloads, clean, consolidate, smooth) data from Johns Hokpins for analysing international outbreak of COVID-19](https://github.com/rOpenStats/COVID19analytics)
 - [Source code and data for The Economist's covid-19 excess deaths tracker ](https://github.com/TheEconomist/covid-19-excess-deaths-tracker)
 - [Tracking covid-19 excess deaths across countries](https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries)
+- [Provides a home for the covid19R data, updated daily, as well as scripts for updating](https://github.com/Covid19R/covid19Rdata)

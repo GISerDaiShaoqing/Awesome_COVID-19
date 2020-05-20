@@ -236,3 +236,6 @@
 - [Susceptible supply limits the role of climate in the early SARS-CoV-2 pandemic](https://science.sciencemag.org/content/early/2020/05/15/science.abc2535)
 - [Science流行病建模综述：捕捉冠状病毒传播全过程](https://mp.weixin.qq.com/s/ZEx7p4CFZuiVkU51-LeuGQ)
 - [Modeling infectious disease dynamics](https://science.sciencemag.org/content/368/6492/713)
+- [国际资讯｜利用手机数据限制COVID-19的传播](https://mp.weixin.qq.com/s/DojS6bnnqsqfAJQ1M0_URg)
+- [Using Mobile Phone Data to Limit the Spread of COVID-19](https://www.gislounge.com/using-mobile-phone-data-to-limit-the-spread-of-covid-19/)
+- [First, second and potential third generation spreads of the COVID-19 epidemic in mainland China: an early exploratory study incorporating location-based service data of mobile devices](https://www.sciencedirect.com/science/article/pii/S1201971220303556?via%3Dihub)
