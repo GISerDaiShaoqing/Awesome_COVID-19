@@ -175,3 +175,4 @@
 - [内阁昨日举行阳光户外会议，灵魂拷问：RIVM为啥不学学邻国？又是百姓看不懂？](https://mp.weixin.qq.com/s/KOeUQTdVBjQdNgpznVkyBA)
 - [国际资讯｜MapDash COVID-19如何提供美国的态势感知](https://mp.weixin.qq.com/s/C7cYDCVj3nTCIY3csEMAzA)
 - [How MapDash COVID-19 is providing situational awareness in the US](https://www.geospatialworld.net/blogs/how-mapdash-covid-19-is-providing-situational-awareness-in-the-us/)
+- [Visualizing Thirty Years of Crude Oil Prices](https://howmuch.net/articles/timeline-crude-oil-price-changes-1986-2020)

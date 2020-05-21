@@ -29,6 +29,8 @@
 - [Springer Nature Experiments冠状病毒主题专属页面](https://mp.weixin.qq.com/s/hgqjvsu6am22QqsWeyfQfQ)
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/?utm_source=hub0415&utm_medium=weibo&utm_campaign=chinaad)
 - [Springer Nature Experiments: coronavirus](https://experiments.springernature.com/search?term=coronavirus&submit=%E6%8F%90%E4%BA%A4)
+- [Springer首本聚焦新型冠状病毒专著 | 全书免费下载](https://mp.weixin.qq.com/s/o4AbYUNRDfKniPgGdfrv3w)
+- [Coronavirus Disease 2019 (COVID-19) Epidemiology, Pathogenesis, Diagnosis, and Therapeutics](https://link.springer.com/book/10.1007/978-981-15-4814-7?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_DD01_CN_MLSCNBooks_COVID19)
 - [MedRxiv and bioRxiv](https://connect.biorxiv.org/relate/content/181)
 - [enerarxiv: COVID-19 IMPACTS ON ENERGY & ENVIROMENT](http://enerarxiv.org/page/category.html?id=7)
 - [预印本平台SSRN I COVID-19早期研究资源中心](https://mp.weixin.qq.com/s/YLe_8ultpE_OPTWCnDG8sA)

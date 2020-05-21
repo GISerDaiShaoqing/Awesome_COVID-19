@@ -109,3 +109,4 @@
 - [COVID-Notebooks: COVIDMINDER Prototyping via R Notebooks](https://github.com/TheRensselaerIDEA/COVID-Notebooks)
 - [WhereNext丨在COVID-19疫情之下，Bass Pro Shops使用位置智能保障业务连续性](https://mp.weixin.qq.com/s/4XeR3qHd4CfmNqsINEdCng)
 - [Inside Bass Pro Shops’ Path to Business Continuity during COVID-19](https://www.esri.com/about/newsroom/publications/wherenext/inside-bass-pro-shops-path-to-business-continuity-during-covid-19/)
+- [Development and Utilization of a Rapid and Accurate Epidemic Investigation Support System for COVID-19](https://ophrp.org/journal/view.php?number=556)

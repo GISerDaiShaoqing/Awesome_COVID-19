@@ -428,3 +428,7 @@
 - [《自然》：终于搞清了新冠病毒会怎么搞乱细胞通路，而它的弱点也暴露了｜领研网24小时热门论文](https://mp.weixin.qq.com/s/g6640tsh00sn-blwj7jmAw)
 - [专家质疑美国新冠疫苗临床初步结果：未公布关键数据，应持谨慎态度 | 科研圈日报](https://mp.weixin.qq.com/s/3e4LpZTIfrA9sujTsrPD9g)
 - [COVID-19流行病的城市标度律 | 网络科学论文速递28篇](https://mp.weixin.qq.com/s/x-uPkRPpphl6ir8dsFkneA)
+- [“COVID-19”科研动态监测每日快报（5月20日）【中国科讯】](https://mp.weixin.qq.com/s/tYDILgws9e5K_TVWjIuewg)
+- [HIV新疫苗能帮新冠疫苗“开窍”吗？](https://mp.weixin.qq.com/s/jhZBx3I0Mf9tLi4_1xcQZw)
+- [疫情期间 婴幼儿居家喂养及膳食建议](https://mp.weixin.qq.com/s/nEL7eEFSHTqc8LeRcO7Dxw)
+- [剑桥宣布本学期不退学费，网络授课将延长至明年6月 | 科研圈日报](https://mp.weixin.qq.com/s/Lkm5_Fxhap8soCnnAz2KmQ)
