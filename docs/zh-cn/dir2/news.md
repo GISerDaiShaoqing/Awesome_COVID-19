@@ -1814,3 +1814,8 @@
 - [男子隐瞒武汉接触史致3人感染、上百人隔离，法院判了](https://mp.weixin.qq.com/s/px7R8l4bVz2gRQqvMjLk2g)
 - [剑桥大学取消下学年面授大课，学生抗议要求退费！](http://news.sciencenet.cn/htmlnews/2020/5/440106.shtm)
 - [世卫组织：目前已有超过120个新冠病毒疫苗正在开发](http://m.news.cctv.com/2020/05/21/ARTIIi13guvgk2HiCH3cMKt2200521.shtml)
+- [新冠病毒在吉林"升级"，这些特征变强！张文宏：以后这种事是大概率…](https://mp.weixin.qq.com/s/9Jx3EVQl6CdVEoqDZg12Rw)
+- [人大代表郝世玲提议案呼吁加大打假力度：像防控疫情一样防控假货洼地](https://mp.weixin.qq.com/s/t2q4nG0PJhD63gAxKg8FgQ)
+- [全球确诊500万+，巴西遭遇“浩劫”](https://mp.weixin.qq.com/s/uVwi3lXVfTufW6QTpZKcdw)
+- [一分钟默哀，来自她的“最短提案”](https://mp.weixin.qq.com/s/ddv4RkJJV7Ekq_W8Sb_BDQ)
+- [委员通道开启，抗疫院士率先亮相](https://mp.weixin.qq.com/s/_YUa4pcNqBKD1hKMkOzYBA)

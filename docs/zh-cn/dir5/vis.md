@@ -176,3 +176,4 @@
 - [国际资讯｜MapDash COVID-19如何提供美国的态势感知](https://mp.weixin.qq.com/s/C7cYDCVj3nTCIY3csEMAzA)
 - [How MapDash COVID-19 is providing situational awareness in the US](https://www.geospatialworld.net/blogs/how-mapdash-covid-19-is-providing-situational-awareness-in-the-us/)
 - [Visualizing Thirty Years of Crude Oil Prices](https://howmuch.net/articles/timeline-crude-oil-price-changes-1986-2020)
+- [遥感卫星见证武钢特殊时期“一分钟没有停产”](https://mp.weixin.qq.com/s/rRJ7v6Tqk1Lbnb34CxoTRg)

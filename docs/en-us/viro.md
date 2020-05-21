@@ -351,3 +351,5 @@
 - [DNA vaccine protection against SARS-CoV-2 in rhesus macaques](https://science.sciencemag.org/content/early/2020/05/19/science.abc6284)
 - [中国学者鉴定出可阻止新冠病毒入侵的中和抗体](http://news.sciencenet.cn/sbhtmlnews/2020/5/355180.shtm?id=355180)
 - [新冠病毒能够感染肠细胞](http://news.sciencenet.cn/htmlnews/2020/5/439710.shtm)
+- [再添力证！石正丽重磅新论文：病毒来自自然，进一步证实蝙蝠SARS样冠状病毒跨物种感染](https://mp.weixin.qq.com/s/6v7wKEO3vtz-Mmjt-1NYLA)
+- [Evolutionary arms race between virus and host drives genetic diversity in bat SARS related coronavirus spike genes](https://www.biorxiv.org/content/10.1101/2020.05.13.093658v1)
