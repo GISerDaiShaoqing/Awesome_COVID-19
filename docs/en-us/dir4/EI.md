@@ -53,3 +53,5 @@
 - [Nature重磅 | 新冠患者将突破700万，复旦大学等多机构合作发现如果中国不采取隔离/旅行限制等措施](https://mp.weixin.qq.com/s/lyDyxYA1JtUWhi7eKRnc0A)
 - [Effect of non-pharmaceutical interventions to contain COVID-19 in China](https://www.nature.com/articles/s41586-020-2293-x)
 - [Effective containment explains subexponential growthin recent confirmed COVID-19 cases in China](https://science.sciencemag.org/content/368/6492/742)
+- [如何在疫情中确定哪种干预措施最有效｜COVID-19](https://mp.weixin.qq.com/s/_chdcG4XVqjSwtRSuRW3Dw)
+- [Which interventions work best in a pandemic?](https://science.sciencemag.org/content/early/2020/05/20/science.abb6144)

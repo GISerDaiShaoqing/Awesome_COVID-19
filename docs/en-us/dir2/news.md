@@ -1827,3 +1827,6 @@
 - [人大代表朱列玉建议：食用野生动物或宠物拘留10到15天](https://mp.weixin.qq.com/s/Q06rpSLOZfEU8DUwmBGBzw)
 - [吉林“断链”病例，找到传染源了](https://mp.weixin.qq.com/s/9uO5wYZR_P9JPZyFvzTHrw)
 - [近期回国人员必读 | 回国登机前第14天起，需连续逐日填报“防疫健康码国际版”](https://mp.weixin.qq.com/s/FoF0R06TKSJozhebf853_w)
+- [志愿者抗疫记｜海外求医的罕见病患儿家庭如何度过疫情](https://mp.weixin.qq.com/s/OODD1QRoCGLooBMx1Y2-8w)
+- [李军方：口罩及口罩材料的再利用 | 未来·局回顾](https://mp.weixin.qq.com/s/UNyTMLn-1316JhUkNv9ucA)
+- [韩国一场周岁宴暴发疫情，9人确诊](https://mp.weixin.qq.com/s/XSMz29hcQ0ZSiq6IDgs6bA)

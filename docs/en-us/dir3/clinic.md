@@ -537,3 +537,5 @@
 - [Nasal Gene Expression of Angiotensin-Converting Enzyme 2 in Children and Adults](https://jamanetwork.com/journals/jama/fullarticle/2766524)
 - [100%有效！“良心药”羟氯喹治疗新冠肺炎有效，遭撤稿，通讯作者表示：得修改结论](https://mp.weixin.qq.com/s/Cy1HF6hxpnGD0TJC5xLAVw)
 - [Hydroxychloroquine plus azithromycin: a potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)?](https://www.medrxiv.org/content/10.1101/2020.05.05.20088757v2)
+- [The BMJ 发布 COVID-19 远程诊疗快速指南图表信息(Infographics)](https://mp.weixin.qq.com/s/Z50GGUk9RsLCe08WhJVGRw)
+- [Covid-19: a remote assessment in primary care](https://www.bmj.com/content/368/bmj.m1182/infographic)
