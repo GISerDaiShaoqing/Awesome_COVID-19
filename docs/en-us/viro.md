@@ -353,3 +353,5 @@
 - [新冠病毒能够感染肠细胞](http://news.sciencenet.cn/htmlnews/2020/5/439710.shtm)
 - [再添力证！石正丽重磅新论文：病毒来自自然，进一步证实蝙蝠SARS样冠状病毒跨物种感染](https://mp.weixin.qq.com/s/6v7wKEO3vtz-Mmjt-1NYLA)
 - [Evolutionary arms race between virus and host drives genetic diversity in bat SARS related coronavirus spike genes](https://www.biorxiv.org/content/10.1101/2020.05.13.093658v1)
+- [突破 | 连发Cell及Nature，石正丽团队及秦川团队同时开发出新冠动物模型](https://mp.weixin.qq.com/s/6vTTqc8ajXvqXdY3xvvvFw)
+- [Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2](https://www.cell.com/cell/fulltext/S0092-8674(20)30622-X)

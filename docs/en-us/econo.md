@@ -354,3 +354,4 @@
 - [天猫618要发100亿现金消费券，迎疫情后最大消费季](https://mp.weixin.qq.com/s/uez2zp4ARhJ5tAIIMIgZFw)
 - [数字消费券，疫情之下消费重启的重要力量——基于杭州消费券的实证研究及政策建议](https://mp.weixin.qq.com/s/Hnbz6TzNAncRr1yVbLehmw)
 - [【公共卫生与规划响应】浅议新基建背景下城市公共卫生基础设施建设趋势 | 上海城市规划](https://mp.weixin.qq.com/s/FjjEHGjhpr_fnEAvUm5GoA)
+- [重磅 | 机器之心发布百页中国人工智能企业「智能战疫」与「疫后经营」调查报告](https://mp.weixin.qq.com/s/Of09Wjf6cPW_DhhxKVI2xg)
