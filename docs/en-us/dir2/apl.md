@@ -445,3 +445,5 @@
 - [夏季空调运行管理与使用指引](https://mp.weixin.qq.com/s/q7lxXBtFH-2INxrl5LrSVg)
 - [风雨无阻向前进——科技界代表委员谈应对疫情挑战](https://mp.weixin.qq.com/s/S3AmIdR7h-Q_JYFvSwjPHA)
 - [77名诺奖得主联名批评NIH，反对终止资助中国蝙蝠冠状病毒研究 | 科研圈日报](https://mp.weixin.qq.com/s/pM9eW9iSVg5p5PHCrq8umA)
+- [77名诺奖得主上书！抨击特朗普政府砍掉冠状病毒研究资助](https://mp.weixin.qq.com/s/Z2i5AuoqlTDVTYL2CaGSkg)
+- [空间异质性可能导致COVID-19时机和严重性发生较大的局部变化 | 网络科学论文速递40篇](https://mp.weixin.qq.com/s/nk-93LJyiTjJw9URZMl3cA)

@@ -539,3 +539,7 @@
 - [Hydroxychloroquine plus azithromycin: a potential interest in reducing in-hospital morbidity due to COVID-19 pneumonia (HI-ZY-COVID)?](https://www.medrxiv.org/content/10.1101/2020.05.05.20088757v2)
 - [The BMJ 发布 COVID-19 远程诊疗快速指南图表信息(Infographics)](https://mp.weixin.qq.com/s/Z50GGUk9RsLCe08WhJVGRw)
 - [Covid-19: a remote assessment in primary care](https://www.bmj.com/content/368/bmj.m1182/infographic)
+- [柳叶刀发布陈薇团队新冠疫苗试验结果](https://mp.weixin.qq.com/s/BwrGXh7OGqdnWetUbCKFSQ)
+- [Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31208-3/fulltext)
+- [全球首个安全有效新冠疫苗：陈薇院士团队研制，登上《柳叶刀》](https://mp.weixin.qq.com/s/ivQNnziRS_Q__MTxFiPaTQ)
+- [安全有效，全球首个新冠疫苗人体数据来自中国！陈薇团队成果，《柳叶刀》重磅发布](https://mp.weixin.qq.com/s/mL64Y84_QF9fdrOf4yHfXA)

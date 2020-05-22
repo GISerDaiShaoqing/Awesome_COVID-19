@@ -522,3 +522,5 @@
 - [‘Preposterous.’ 77 Nobel laureates blast NIH decision to cancel coronavirus grant, demand investigation](https://www.sciencemag.org/news/2020/05/preposterous-77-nobel-laureates-blast-nih-decision-cancel-coronavirus-grant-demand)
 - [Nature Climate Change | COVID-19疫情导致全球CO2排放减少](https://mp.weixin.qq.com/s/ZcBEITwdRoutJoZpv27C3w)
 - [高端访谈 | 光明日报专访：后疫情时代的人类可持续发展](https://mp.weixin.qq.com/s/KkrOER7itz-G-bI-prvMtQ)
+- [Science头条：77名诺奖得主联名上书，抨击特朗普政府砍掉冠状病毒研究资助](https://mp.weixin.qq.com/s/CEMz7UVYxUb98w1fRGudcA)
+- [对抗过埃博拉和艾滋病毒的科学勇士，新冠病毒劫后余生的些许反思](https://mp.weixin.qq.com/s/K1NCmrZnwO1GTCQ6lTs5Ow)
