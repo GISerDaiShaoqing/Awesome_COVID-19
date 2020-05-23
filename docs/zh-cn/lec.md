@@ -160,3 +160,4 @@
 - [Tracking Epidemics in Cities Urban environments and the insights they provide into disease](http://senseable.mit.edu/webinars/Tracking-Epidemics-in-Cities?utm_medium=email&utm_campaign=May%2029%20Webinar&utm_content=May%2029%20Webinar%20CID_28595434e70369c78d965fb8d068f51f&utm_source=SCL%20Analytics&utm_term=Register%20Now)
 - [【直播预告】一带“医”路 中外新冠疫情管理交流项目 - 四川省人民医院&埃及](https://mp.weixin.qq.com/s/0DJ73pHFu1uoYt-Om4XPRQ)
 - [报名 | 新冠病毒检测越洋研讨会：技术、应用与创新——未来•局x真格精酿](https://mp.weixin.qq.com/s/c60mTMz-yw1D5QMebjuhtw)
+- [“新冠大挑战 向科学要答案”｜会议第一弹：病毒暴发及响应](https://mp.weixin.qq.com/s/Joncf6l5tB3OcOzfHJP7YQ)

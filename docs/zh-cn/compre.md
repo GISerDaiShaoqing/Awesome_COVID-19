@@ -524,3 +524,5 @@
 - [高端访谈 | 光明日报专访：后疫情时代的人类可持续发展](https://mp.weixin.qq.com/s/KkrOER7itz-G-bI-prvMtQ)
 - [Science头条：77名诺奖得主联名上书，抨击特朗普政府砍掉冠状病毒研究资助](https://mp.weixin.qq.com/s/CEMz7UVYxUb98w1fRGudcA)
 - [对抗过埃博拉和艾滋病毒的科学勇士，新冠病毒劫后余生的些许反思](https://mp.weixin.qq.com/s/K1NCmrZnwO1GTCQ6lTs5Ow)
+- [疫情之下，全球各大城市迎来自行车、电动车“大流行”](https://mp.weixin.qq.com/s/eyaR7mgjrhqsw5ws_oncbw)
+- [CITIES ARE TRANSFORMING AS ELECTRIC BIKE SALES SKYROCKET](https://www.theverge.com/2020/5/14/21258412/city-bike-lanes-open-streets-ebike-sales-bicyclist-pedestrian)
