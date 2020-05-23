@@ -556,3 +556,4 @@
 - [全球首个！陈薇院士新冠疫苗临床试验结果发布：全部产生免疫应答！](https://mp.weixin.qq.com/s/MMFZecQTxyQfYjNhF3k78w)
 - [NEJM重磅：美国首项瑞德西韦临床试验初步结果正式发表，作者解释备受争议的临床终点修改问题](https://mp.weixin.qq.com/s/mpeaxUNCNraDQCtKTaMN_A)
 - [Remdesivir for the Treatment of Covid-19 — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764)
+- [《柳叶刀》重磅发布！全球首个新冠疫苗在中国诞生，但其实真没你想象的那么乐观......](https://mp.weixin.qq.com/s/mwR4UfNwDM55AnkSHPv0Mw)
