@@ -4,6 +4,13 @@ export default {
     postsTitle: 'All posts',
     list: [
       {
+        title: 'China needs a national intelligent syndromic surveillance system',
+        author: 'Peng Jia, Shujuan Yang',
+        dateStr: 'May 23th，2020',
+        desc: 'An epidemic can open a window of opportunity for reflection on and a revolution in disease control and prevention. In China, the 2003 severe acute respiratory syndrome (SARS) epidemic urged the national paper-based disease-reporting system to be transformed into the national notifiable disease reporting system (NNDRS), a system operated by the Chinese Center for Disease Control and Prevention (CDC) to facilitate the complete and timely reporting of cases of infectious disease. The coronavirus disease 2019 (COVID-19) pandemic is now posing an urgent call for upgrading the NNDRS further.',
+        link: '/en-us/blog/blog6.html',
+      },
+      {
         title: 'Tutorial of the Website "Awesome of COVID-19"',
         author: 'Shaoqing Dai',
         dateStr: 'May 7th，2020',

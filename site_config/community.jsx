@@ -7,23 +7,30 @@ export default {
       title: 'Events & News',
       list: [
         {
+          img: 'https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-0921-5/MediaObjects/41591_2020_921_Fig1_HTML.png?as=webp',
+          title: 'China needs a national intelligent syndromic surveillance system',
+          content: 'An epidemic can open a window of opportunity for reflection on and a revolution in disease control and prevention. In China, the 2003 severe acute respiratory syndrome (SARS) epidemic urged the national paper-based disease-reporting system to be transformed into the national notifiable disease reporting system (NNDRS), a system operated by the Chinese Center for Disease Control and Prevention (CDC) to facilitate the complete and timely reporting of cases of infectious disease. The coronavirus disease 2019 (COVID-19) pandemic is now posing an urgent call for upgrading the NNDRS further.',
+          dateStr: 'May 23th，2020',
+          link: '/en-us/blog/blog6.html',
+        },
+        {
           img: 'http://blog.gisersqdai.top/1588883152411532qwf6c.png',
           title: 'Tutorial of the Website "Awesome of COVID-19"',
-          content: ' With the pandemic of COVID-19, I built up a website, "Awesome of COVID-19", which collected the related resources of COVID-19 researches.',
+          content: 'With the pandemic of COVID-19, I built up a website, "Awesome of COVID-19", which collected the related resources of COVID-19 researches.',
           dateStr: 'May 7th，2020',
           link: '/en-us/blog/blog5.html',
         },
         {
           img: 'https://ars.els-cdn.com/content/image/1-s2.0-S0033062020300840-gr1.jpg',
           title: 'Towards precision management of cardiovascular patients with COVID-19 to reduce mortality',
-          content: ' We suggest, therefore, considering the epidemiological information of patients (e.g., birthplace and residential history) when implementing precision management of CVD patients with COVID-19, to enhance mortality risk reduction.',
+          content: 'We suggest, therefore, considering the epidemiological information of patients (e.g., birthplace and residential history) when implementing precision management of CVD patients with COVID-19, to enhance mortality risk reduction.',
           dateStr: 'April 30th，2020',
           link: '/en-us/blog/blog4.html',
         },
         {
           img: '/img/Nature.png',
           title: 'Are we ready for a new era of high-impact and high-frequency epidemics?',
-          content: ' We reported our work about COVID-19 during the past four months in the Nature and was titled as "Outpace epidemic transitional phases".',
+          content: 'We reported our work about COVID-19 during the past four months in the Nature and was titled as "Outpace epidemic transitional phases".',
           dateStr: 'April 14th，2020',
           link: '/en-us/blog/blog3.html',
         },
