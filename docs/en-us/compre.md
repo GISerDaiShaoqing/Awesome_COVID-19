@@ -526,3 +526,5 @@
 - [对抗过埃博拉和艾滋病毒的科学勇士，新冠病毒劫后余生的些许反思](https://mp.weixin.qq.com/s/K1NCmrZnwO1GTCQ6lTs5Ow)
 - [疫情之下，全球各大城市迎来自行车、电动车“大流行”](https://mp.weixin.qq.com/s/eyaR7mgjrhqsw5ws_oncbw)
 - [CITIES ARE TRANSFORMING AS ELECTRIC BIKE SALES SKYROCKET](https://www.theverge.com/2020/5/14/21258412/city-bike-lanes-open-streets-ebike-sales-bicyclist-pedestrian)
+- [Digital Contact Tracing and Surveillance: Geospatial Opportunities, Limitations, and Research Directions](https://sgsup.asu.edu/sites/default/files/covid_white_paper_05212020.pdf)
+- [年内动工！湖北省重大疫情防控救治基地落户武汉大学中南医院](https://mp.weixin.qq.com/s/kgK2EtbG8O8UW_dIBOwDAg)

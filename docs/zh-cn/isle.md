@@ -11,5 +11,7 @@
 - [新型冠状病毒（SARS-CoV-2）全球研究现状分析](https://www.ncbi.nlm.nih.gov/pubmed/32329275)
 - [Are we ready for a new era of high-impact and high-frequency epidemics?](https://www.nature.com/articles/d41586-020-01079-0)
 - [Towards precision management of cardiovascular patients with COVID-19 to reduce mortality](https://www.sciencedirect.com/science/article/pii/S0033062020300840?via%3Dihub)
+- [新闻快讯 |我们需要一个全国智能综合症状监测系统](https://mp.weixin.qq.com/s/-3Vsbl4LGQMxOlbq8SOVhQ)
+- [China needs a national intelligent syndromic surveillance system](https://www.nature.com/articles/s41591-020-0921-5?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_deeplink_PID2190813&utm_content=deeplink)
 
 ![](/img/ISLEwechat.jpg)

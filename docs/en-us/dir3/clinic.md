@@ -551,3 +551,8 @@
 - [继续领跑世界！陈薇团队发布全球首个新冠疫苗人体试验数据：安全，成功诱导免疫！](https://mp.weixin.qq.com/s/VyKQGlLv2nCdOjV4X3GZmw)
 - [《柳叶刀》发表首个新冠病毒疫苗人体试验，安全并能诱导快速免疫应答](https://mp.weixin.qq.com/s/KBzzmhrccU12U7Z-mdy03A)
 - [《柳叶刀》发布中国团队新冠疫苗临床结果：安全，可快速诱导免疫应答](https://mp.weixin.qq.com/s/qx5qbVHlq3UHg8xuNqH4Cw)
+- [Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext)
+- [柳叶刀发布陈薇院士团队新冠疫苗I期临床结果：108人全部产生免疫反应，真•人民的希望！](https://mp.weixin.qq.com/s/6rZdWFuOB6Ht2gwheVqG7g)
+- [全球首个！陈薇院士新冠疫苗临床试验结果发布：全部产生免疫应答！](https://mp.weixin.qq.com/s/MMFZecQTxyQfYjNhF3k78w)
+- [NEJM重磅：美国首项瑞德西韦临床试验初步结果正式发表，作者解释备受争议的临床终点修改问题](https://mp.weixin.qq.com/s/mpeaxUNCNraDQCtKTaMN_A)
+- [Remdesivir for the Treatment of Covid-19 — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764)

@@ -161,3 +161,4 @@
 - [【直播预告】一带“医”路 中外新冠疫情管理交流项目 - 四川省人民医院&埃及](https://mp.weixin.qq.com/s/0DJ73pHFu1uoYt-Om4XPRQ)
 - [报名 | 新冠病毒检测越洋研讨会：技术、应用与创新——未来•局x真格精酿](https://mp.weixin.qq.com/s/c60mTMz-yw1D5QMebjuhtw)
 - [“新冠大挑战 向科学要答案”｜会议第一弹：病毒暴发及响应](https://mp.weixin.qq.com/s/Joncf6l5tB3OcOzfHJP7YQ)
+- [祁海深度解读新冠病毒免疫征途​，颜宁主持首秀，张文宏、曹彬、李文辉、牛俊奇、姜世勃等专家齐发问](https://mp.weixin.qq.com/s/szf1t-ebpUz8ZGmjKkYtbg)
