@@ -111,3 +111,4 @@
 - [Inside Bass Pro Shops’ Path to Business Continuity during COVID-19](https://www.esri.com/about/newsroom/publications/wherenext/inside-bass-pro-shops-path-to-business-continuity-during-covid-19/)
 - [Development and Utilization of a Rapid and Accurate Epidemic Investigation Support System for COVID-19](https://ophrp.org/journal/view.php?number=556)
 - [PPT分享 | 空间信息技术助力疫情防控——天津新冠疫情地图系统](https://mp.weixin.qq.com/s/oPae12RQJKVwXScx-eY0GA)
+- [Word Embedding News | 词嵌入新鲜事：COVID-19特刊](https://mp.weixin.qq.com/s/kbMojVJbw4iBgGyJ2s7ceg)

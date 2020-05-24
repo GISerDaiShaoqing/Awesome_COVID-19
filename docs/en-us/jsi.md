@@ -35,3 +35,4 @@
 - [前沿专刊征稿 | 新冠肺炎传播的数学模型](https://mp.weixin.qq.com/s/RBBwbJ_Q_B5dMLI_44v5jg)
 - [Mathematical modelling of the pandemic of 2019 novel coronavirus (COVID-19): Patterns, Dynamics, Prediction, and Control](https://www.frontiersin.org/research-topics/14086/mathematical-modelling-of-the-pandemic-of-2019-novel-coronavirus-covid-19-patterns-dynamics-predicti?utm_source=yanyuRT2&utm_medium=wechat&utm_campaign=chinaad)
 - [征稿启事 | 新冠疫情与全球化](https://mp.weixin.qq.com/s/J8MXmm3kZKsGarWuFFm99w)
+- [征集活动 | 中国地理学会关于征集“抗疫防疫工作表现突出” 集体和个人及其先进事迹的通知](https://mp.weixin.qq.com/s/CEofuyPU-TIMBx5TeStVIw)

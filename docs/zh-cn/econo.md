@@ -357,3 +357,4 @@
 - [重磅 | 机器之心发布百页中国人工智能企业「智能战疫」与「疫后经营」调查报告](https://mp.weixin.qq.com/s/Of09Wjf6cPW_DhhxKVI2xg)
 - [【存照】印共（马）领导创造了印度抗疫的“喀拉拉邦模式”](https://mp.weixin.qq.com/s/PEirluDKwY4K1bkCbjlr_w)
 - [The Kerala Model](https://www.project-syndicate.org/commentary/kerala-model-for-beating-covid-19-by-shashi-tharoor-2020-05)
+- [后疫情时代城乡规划变革系列访谈：张文宏，打造一个一流的公共卫生安全城市需要具备什么样的能力](https://mp.weixin.qq.com/s/NLbOKcQLzBaR2xxJ9TDW6w)
