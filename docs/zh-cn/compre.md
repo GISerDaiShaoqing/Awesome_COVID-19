@@ -539,3 +539,4 @@
 - [COVID 19 Pandemic : Impact on Global Economy, Energy and Environment](http://www.enerarxiv.org/page/thesis.html?id=1908)
 - [What happened and will happen in the energy sector under the impact of COVID-19? A review](http://www.enerarxiv.org/page/thesis.html?id=1900)
 - [Impacts of Coronavirus Lockdown on UK Energy Usage](http://www.enerarxiv.org/page/thesis.html?id=1795)
+- [COVI White Paper](https://arxiv.org/abs/2005.08502)
