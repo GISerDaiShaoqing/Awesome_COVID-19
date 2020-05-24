@@ -450,3 +450,4 @@
 - [上学路上 开学返校防控新冠知多少](https://mp.weixin.qq.com/s/wAHzr82jGi2NazgH5ZISLg)
 - [“COVID-19”科研动态监测每日快报（5月22日）【中国科讯】](https://mp.weixin.qq.com/s/1_bmi-TYd6hR6hwke7mfIg)
 - [全球首个新冠疫苗人体试验结果公布！陈薇院士：应谨慎解读](https://mp.weixin.qq.com/s/grW1_UTc-MaYQ7miJLPF3A)
+- [“COVID-19”科研动态监测每日快报（5月23日）【中国科讯】](https://mp.weixin.qq.com/s/H0iT6tL70hH9t7S6LJsbYw)
