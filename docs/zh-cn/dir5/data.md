@@ -159,3 +159,4 @@
 - [Tracking covid-19 excess deaths across countries](https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries)
 - [Provides a home for the covid19R data, updated daily, as well as scripts for updating](https://github.com/Covid19R/covid19Rdata)
 - [COVerAGE-DB: COVID-19 cases, deaths, and tests by age and sex](https://github.com/timriffe/covid_age)
+- [public open-resource page for COVID19 data for Canada](https://github.com/wzmli/COVID19-Canada)

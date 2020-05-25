@@ -548,3 +548,4 @@
 - [Desinformación en tiempos de pandemia: tipología de los bulos sobre la Covid-19](https://recyt.fecyt.es/index.php/EPI/article/view/epi.2020.may.15)
 - [柳叶刀-精神病学 | 应考虑COVID-19对心理健康的长期影响](https://mp.weixin.qq.com/s/UrAd-eNgPv7yyhPhC2sHGA)
 - [Psychiatric and neuropsychiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with comparison to the COVID-19 pandemic](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30203-0/fulltext)
+- [美国播客节目《指数视角》专访李飞飞：疫情、 AI 伦理、人才培养](https://mp.weixin.qq.com/s/tRQsmd3aUtuaM8RDg0ttEQ)
