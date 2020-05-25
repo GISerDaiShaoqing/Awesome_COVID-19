@@ -568,3 +568,4 @@
 - [Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMcp2009575)
 - [Lancet | 震惊，规模最大，近10万参与者，羟氯喹治疗新冠会明显增加死亡率及心率失常](https://mp.weixin.qq.com/s/Y1isQIumAw1x44RMz0LVpQ)
 - [李一诺：新冠疫苗后面的国际难题](https://mp.weixin.qq.com/s/d50PzCaz7MXY3-lkaQJ-aA)
+- [COVID-19 Disease in Children: What Dentists Should Know and Do to Prevent Viral Spread. The Italian Point of View](https://www.mdpi.com/1660-4601/17/10/3642)

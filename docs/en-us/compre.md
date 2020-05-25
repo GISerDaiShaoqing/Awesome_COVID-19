@@ -542,3 +542,7 @@
 - [COVI White Paper](https://arxiv.org/abs/2005.08502)
 - [数学的力量 |“混合样本池”策略助力加快新冠病毒大范围检测进程](https://mp.weixin.qq.com/s/1THdHa-ryLgfycAcaE4LIw)
 - [Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)
+- [新冠肺炎疫情下的全球新闻传播：挑战与探索](https://mp.weixin.qq.com/s/lSnJ1TV5V_NoGzfHuNh1LQ)
+- [50 States or 50 Countries: What Did We Miss and What Do We Do Now?](https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/50-states-or-50-countries-what-did-we-miss-and-what-do-we-do-now/7955CCB38AB21BBCC12A66774C73A2D6)
+- [New Insights of Emerging SARS-CoV-2: Epidemiology, Etiology, Clinical Features, Clinical Treatment, and Prevention](https://www.frontiersin.org/articles/10.3389/fcell.2020.00410/full)
+- [Desinformación en tiempos de pandemia: tipología de los bulos sobre la Covid-19](https://recyt.fecyt.es/index.php/EPI/article/view/epi.2020.may.15)
