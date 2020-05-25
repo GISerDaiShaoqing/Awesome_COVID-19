@@ -239,3 +239,4 @@
 - [国际资讯｜利用手机数据限制COVID-19的传播](https://mp.weixin.qq.com/s/DojS6bnnqsqfAJQ1M0_URg)
 - [Using Mobile Phone Data to Limit the Spread of COVID-19](https://www.gislounge.com/using-mobile-phone-data-to-limit-the-spread-of-covid-19/)
 - [First, second and potential third generation spreads of the COVID-19 epidemic in mainland China: an early exploratory study incorporating location-based service data of mobile devices](https://www.sciencedirect.com/science/article/pii/S1201971220303556?via%3Dihub)
+- [Repo for fitting a stochastic model to COVID data](https://github.com/CEIDatUGA/COVID-stochastic-fitting)

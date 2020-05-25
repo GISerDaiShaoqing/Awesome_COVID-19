@@ -55,3 +55,4 @@
 - [Effective containment explains subexponential growthin recent confirmed COVID-19 cases in China](https://science.sciencemag.org/content/368/6492/742)
 - [如何在疫情中确定哪种干预措施最有效｜COVID-19](https://mp.weixin.qq.com/s/_chdcG4XVqjSwtRSuRW3Dw)
 - [Which interventions work best in a pandemic?](https://science.sciencemag.org/content/early/2020/05/20/science.abb6144)
+- [Differential Effects of Intervention Timing on COVID-19 Spread in the United States](https://www.medrxiv.org/content/10.1101/2020.05.15.20103655v1)

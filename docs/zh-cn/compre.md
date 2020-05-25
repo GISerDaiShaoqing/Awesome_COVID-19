@@ -540,3 +540,5 @@
 - [What happened and will happen in the energy sector under the impact of COVID-19? A review](http://www.enerarxiv.org/page/thesis.html?id=1900)
 - [Impacts of Coronavirus Lockdown on UK Energy Usage](http://www.enerarxiv.org/page/thesis.html?id=1795)
 - [COVI White Paper](https://arxiv.org/abs/2005.08502)
+- [数学的力量 |“混合样本池”策略助力加快新冠病毒大范围检测进程](https://mp.weixin.qq.com/s/1THdHa-ryLgfycAcaE4LIw)
+- [Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)

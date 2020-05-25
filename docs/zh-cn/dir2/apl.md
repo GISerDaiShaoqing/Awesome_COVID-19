@@ -452,3 +452,7 @@
 - [全球首个新冠疫苗人体试验结果公布！陈薇院士：应谨慎解读](https://mp.weixin.qq.com/s/grW1_UTc-MaYQ7miJLPF3A)
 - [“COVID-19”科研动态监测每日快报（5月23日）【中国科讯】](https://mp.weixin.qq.com/s/H0iT6tL70hH9t7S6LJsbYw)
 - [哈工大、奇虎360等机构被美国列入“实体清单”；疫情将如何改变世界大学排名？| 本周值得读 · 科研生涯](https://mp.weixin.qq.com/s/APvfGIZQWdJjm1usng5-MA)
+- [日常防护 开学返校防控新冠知多少](https://mp.weixin.qq.com/s/46bFiwvZ7hflJlaIJS9ivQ)
+- [新冠肺炎疫情叩问中国医学教育： 能否扛稳守护健康“大旗”](https://mp.weixin.qq.com/s/_WCKRKYProLFSKewkFMjTw)
+- [“COVID-19”科研动态监测每日快报（5月24日）【中国科讯】](https://mp.weixin.qq.com/s/HFS_XzMWPPfzggQ2jryP3Q)
+- [全球人类发展30年来首次衰退，疫情重创健康、教育和收入 | 科研圈日报](https://mp.weixin.qq.com/s/bE2Qr7h0EDDdox-L2DGYBQ)

@@ -358,3 +358,8 @@
 - [【存照】印共（马）领导创造了印度抗疫的“喀拉拉邦模式”](https://mp.weixin.qq.com/s/PEirluDKwY4K1bkCbjlr_w)
 - [The Kerala Model](https://www.project-syndicate.org/commentary/kerala-model-for-beating-covid-19-by-shashi-tharoor-2020-05)
 - [后疫情时代城乡规划变革系列访谈：张文宏，打造一个一流的公共卫生安全城市需要具备什么样的能力](https://mp.weixin.qq.com/s/NLbOKcQLzBaR2xxJ9TDW6w)
+- [末日掩体大受追捧，现实版《流浪地球》地下城能否躲避疫情危机？](https://mp.weixin.qq.com/s/cUZumSI48nHApuOlzhLU1w)
+- [【存照】疫情如何影响世界？美国第一智库用了三个字母：U、W、L](https://mp.weixin.qq.com/s/IXH9saxScYd9pgoayDSE_w)
+- [Forecasting Covid-19’s Course](https://www.csis.org/analysis/forecasting-covid-19s-course)
+- [新刊出炉 ｜ 2020年第2期“儿童与城市环境”](https://mp.weixin.qq.com/s/etIso1t-PSvehe5jGk5cQw)
+- [国际资讯 | [欧]立陶宛首都全城变身露天咖啡馆/巴塞罗那道路改造适应疫后新常态(2020.5)](https://mp.weixin.qq.com/s/4_U20Y7GO8H-yQWZ_0EhOw)

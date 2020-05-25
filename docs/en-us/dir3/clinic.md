@@ -564,3 +564,7 @@
 - [Lancet Voice 特别版 | COVID-19与类川崎病？](https://mp.weixin.qq.com/s/FtqoQp4-oYmA29TF_ZJRQw)
 - [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
 - [Kawasaki-like disease: emerging complication during the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31129-6/fulltext)
+- [新英格兰医学杂志：治疗重症Covid-19的临床建议](https://mp.weixin.qq.com/s/CJ3XPbNOkr0Dyp59Kp3u9w)
+- [Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMcp2009575)
+- [Lancet | 震惊，规模最大，近10万参与者，羟氯喹治疗新冠会明显增加死亡率及心率失常](https://mp.weixin.qq.com/s/Y1isQIumAw1x44RMz0LVpQ)
+- [李一诺：新冠疫苗后面的国际难题](https://mp.weixin.qq.com/s/d50PzCaz7MXY3-lkaQJ-aA)

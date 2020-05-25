@@ -24,3 +24,4 @@
 - [无症状感染者：一场大战中的扫尾任务](https://mp.weixin.qq.com/s/KkYC_TBLJm9Jqp0AaBCK7Q)
 - [关于无症状感染者，我们需要担心吗？](https://mp.weixin.qq.com/s/DRttgIV9sd-bxJbaZH2ABw)
 - [COVID-19 Vulnerability Index for neighbourhoods, wards and Local Authorities in the UK](https://github.com/britishredcrosssociety/covid-19-vulnerability)
+- [Spatiotemporal Analysis of Medical Resource Deficiencies in the U.S. under COVID-19 Pandemic](https://www.researchgate.net/publication/341580459_Spatiotemporal_Analysis_of_Medical_Resource_Deficiencies_in_the_US_under_COVID-19_Pandemic?channel=doi&linkId=5ec84eb792851c11a88159a7&showFulltext=true)
