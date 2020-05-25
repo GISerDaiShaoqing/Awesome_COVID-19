@@ -355,3 +355,4 @@
 - [Evolutionary arms race between virus and host drives genetic diversity in bat SARS related coronavirus spike genes](https://www.biorxiv.org/content/10.1101/2020.05.13.093658v1)
 - [突破 | 连发Cell及Nature，石正丽团队及秦川团队同时开发出新冠动物模型](https://mp.weixin.qq.com/s/6vTTqc8ajXvqXdY3xvvvFw)
 - [Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2](https://www.cell.com/cell/fulltext/S0092-8674(20)30622-X)
+- [生物化学 | 消灭新型冠状病毒，可能有新策略？](https://mp.weixin.qq.com/s/NOWAN0zi_jxZM4hzGBe9nw)

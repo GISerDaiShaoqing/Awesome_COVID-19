@@ -1901,3 +1901,5 @@
 - [厦门拟确定四种分餐模式！怎么分？谁来分？聚餐可能变这样……](https://mp.weixin.qq.com/s/woL0me17yGB4kWsLwlvWqQ)
 - [联合国：新冠肺炎恐在也门全国流行](https://mp.weixin.qq.com/s/CyPKoyxFqE-MNug-7RrkSg)
 - [湖北公布高校毕业年级返校时间](https://mp.weixin.qq.com/s/IFpAEX1x4s6sM9Rg_6Z2XQ)
+- [日本全境解除紧急状态](https://mp.weixin.qq.com/s/szSahHxwjPgykgMw8yyeFg)
+- [紧急扩散！厦门发车！急寻K904列车与新冠肺炎患者同车乘客！](https://mp.weixin.qq.com/s/rQdSuiJ3MZAwraqAE4Ae8Q)

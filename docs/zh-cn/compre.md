@@ -546,3 +546,5 @@
 - [50 States or 50 Countries: What Did We Miss and What Do We Do Now?](https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/50-states-or-50-countries-what-did-we-miss-and-what-do-we-do-now/7955CCB38AB21BBCC12A66774C73A2D6)
 - [New Insights of Emerging SARS-CoV-2: Epidemiology, Etiology, Clinical Features, Clinical Treatment, and Prevention](https://www.frontiersin.org/articles/10.3389/fcell.2020.00410/full)
 - [Desinformación en tiempos de pandemia: tipología de los bulos sobre la Covid-19](https://recyt.fecyt.es/index.php/EPI/article/view/epi.2020.may.15)
+- [柳叶刀-精神病学 | 应考虑COVID-19对心理健康的长期影响](https://mp.weixin.qq.com/s/UrAd-eNgPv7yyhPhC2sHGA)
+- [Psychiatric and neuropsychiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with comparison to the COVID-19 pandemic](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30203-0/fulltext)

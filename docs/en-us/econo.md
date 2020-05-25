@@ -363,3 +363,4 @@
 - [Forecasting Covid-19’s Course](https://www.csis.org/analysis/forecasting-covid-19s-course)
 - [新刊出炉 ｜ 2020年第2期“儿童与城市环境”](https://mp.weixin.qq.com/s/etIso1t-PSvehe5jGk5cQw)
 - [国际资讯 | [欧]立陶宛首都全城变身露天咖啡馆/巴塞罗那道路改造适应疫后新常态(2020.5)](https://mp.weixin.qq.com/s/4_U20Y7GO8H-yQWZ_0EhOw)
+- [人民网丨冯学钢：被暂停后，旅游业如何整装再出发？](https://mp.weixin.qq.com/s/n1nrCDOf_XwSCcXrtjdR2w)
