@@ -368,3 +368,5 @@
 - [【新冠肺炎与健康城市】同舟共济，全球城市的战“疫”之路](https://mp.weixin.qq.com/s/p_igs-6MMbxPNXeG8mq--A)
 - [【观点】沃顿商学院院长：疫情之下，“去全球化”加速、“城市化”遭逆转](https://mp.weixin.qq.com/s/gIlOq08-KviT_pxX9FSQ6Q)
 - [The post-COVID-19 world could be less global and less urban](https://www.weforum.org/agenda/2020/05/coronavirus-covid19-urbanization-globalization-change)
+- [交通设施︱新冠疫情留给运输从业者的考卷](https://mp.weixin.qq.com/s/CZKwBrYsakwlMBSjbwZGEw)
+- [疫情大考下中国消费零售新机遇|大咖视点](https://mp.weixin.qq.com/s/WyzZgL295RNTjSmffs84sQ)
