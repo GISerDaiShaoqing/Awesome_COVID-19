@@ -160,3 +160,4 @@
 - [Provides a home for the covid19R data, updated daily, as well as scripts for updating](https://github.com/Covid19R/covid19Rdata)
 - [COVerAGE-DB: COVID-19 cases, deaths, and tests by age and sex](https://github.com/timriffe/covid_age)
 - [public open-resource page for COVID19 data for Canada](https://github.com/wzmli/COVID19-Canada)
+- [TREC-COVID results - this is a mirror of data on the TREC website in a more convenient format ](https://github.com/castorini/TREC-COVID)

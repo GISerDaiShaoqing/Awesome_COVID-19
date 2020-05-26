@@ -164,3 +164,4 @@
 - [祁海深度解读新冠病毒免疫征途​，颜宁主持首秀，张文宏、曹彬、李文辉、牛俊奇、姜世勃等专家齐发问](https://mp.weixin.qq.com/s/szf1t-ebpUz8ZGmjKkYtbg)
 - [明日直播！清华医学院教授祁海：现代免疫学知识可以应对一些棘手的病原体](https://mp.weixin.qq.com/s/IrO_3pp_cJgDmxtaXe4Trg)
 - [深耕“新基建”线上研讨会精华回顾 | 城市新基建将成为绿色复苏的引擎](https://mp.weixin.qq.com/s/z-e-Uo_yaxxanYJM2g8wxg)
+- [【直播实录】祁海深度解读新冠病毒免疫征途​，颜宁主持首秀，张文宏、曹彬、李文辉、牛俊奇、姜世勃等专家齐发问](https://mp.weixin.qq.com/s/ctgEjZGSYQBQo2sqSYxRLQ)

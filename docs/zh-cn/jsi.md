@@ -37,3 +37,4 @@
 - [征稿启事 | 新冠疫情与全球化](https://mp.weixin.qq.com/s/J8MXmm3kZKsGarWuFFm99w)
 - [征集活动 | 中国地理学会关于征集“抗疫防疫工作表现突出” 集体和个人及其先进事迹的通知](https://mp.weixin.qq.com/s/CEofuyPU-TIMBx5TeStVIw)
 - [#榜样的力量#寻找新冠战“疫”，中国数据智能产业先锋力量丨数据猿公益策划](https://mp.weixin.qq.com/s/2MT9PIGZZgJwiZLiXMO_jQ)
+- [疫情下的科研人，Cell Press 要您出镜](https://mp.weixin.qq.com/s/RWU6b32Se3g7oZDeX7-JHw)

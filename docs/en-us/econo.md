@@ -365,3 +365,6 @@
 - [国际资讯 | [欧]立陶宛首都全城变身露天咖啡馆/巴塞罗那道路改造适应疫后新常态(2020.5)](https://mp.weixin.qq.com/s/4_U20Y7GO8H-yQWZ_0EhOw)
 - [人民网丨冯学钢：被暂停后，旅游业如何整装再出发？](https://mp.weixin.qq.com/s/n1nrCDOf_XwSCcXrtjdR2w)
 - [全球城市观察︱疫情下的美国“小长假”，观望中的度假小镇](https://mp.weixin.qq.com/s/fHEUve3WLbY1tEvCKXBvsA)
+- [【新冠肺炎与健康城市】同舟共济，全球城市的战“疫”之路](https://mp.weixin.qq.com/s/p_igs-6MMbxPNXeG8mq--A)
+- [【观点】沃顿商学院院长：疫情之下，“去全球化”加速、“城市化”遭逆转](https://mp.weixin.qq.com/s/gIlOq08-KviT_pxX9FSQ6Q)
+- [The post-COVID-19 world could be less global and less urban](https://www.weforum.org/agenda/2020/05/coronavirus-covid19-urbanization-globalization-change)

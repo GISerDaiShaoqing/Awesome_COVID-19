@@ -569,3 +569,7 @@
 - [Lancet | 震惊，规模最大，近10万参与者，羟氯喹治疗新冠会明显增加死亡率及心率失常](https://mp.weixin.qq.com/s/Y1isQIumAw1x44RMz0LVpQ)
 - [李一诺：新冠疫苗后面的国际难题](https://mp.weixin.qq.com/s/d50PzCaz7MXY3-lkaQJ-aA)
 - [COVID-19 Disease in Children: What Dentists Should Know and Do to Prevent Viral Spread. The Italian Point of View](https://www.mdpi.com/1660-4601/17/10/3642)
+- [落下帷幕 | 羟氯喹从神药到一地鸡毛，羟氯喹被停止全球测试](https://mp.weixin.qq.com/s/O7cdEnJtmC2jeWH2DhsBKg)
+- [盘点 | 十项新冠疫苗研发项目进入临床开发阶段，它们的最新进展意味着什么？](https://mp.weixin.qq.com/s/_9eTgC94bukVDv0o1Iyktg)
+- [对COVID-19感染者的患者支持](https://mp.weixin.qq.com/s/-hffpCjnKqvwihL5a-9KbQ)
+- [Managing the supportive care needs of those affected by COVID-19](https://erj.ersjournals.com/content/55/4/2000815)

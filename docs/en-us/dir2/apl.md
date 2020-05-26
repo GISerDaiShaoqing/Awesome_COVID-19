@@ -456,3 +456,7 @@
 - [新冠肺炎疫情叩问中国医学教育： 能否扛稳守护健康“大旗”](https://mp.weixin.qq.com/s/_WCKRKYProLFSKewkFMjTw)
 - [“COVID-19”科研动态监测每日快报（5月24日）【中国科讯】](https://mp.weixin.qq.com/s/HFS_XzMWPPfzggQ2jryP3Q)
 - [全球人类发展30年来首次衰退，疫情重创健康、教育和收入 | 科研圈日报](https://mp.weixin.qq.com/s/bE2Qr7h0EDDdox-L2DGYBQ)
+- [在学校复学复课过程中，应做好哪些疫情防控工作？](https://mp.weixin.qq.com/s/ER9cV0Xa9luXgAYJ0_GeWQ)
+- [“COVID-19”科研动态监测每日快报（5月25日）【中国科讯】](https://mp.weixin.qq.com/s/rRYhtc1aDbVh1cX6Dgp1Bw)
+- [美国“豪赌”12亿美元，要求10月获得新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/-HxwGtiZK02vO8QexfOnDg)
+- [JAMA：儿童新冠患者少，可能是上呼吸道的病毒受体基因表达低｜领研网24小时热门论文](https://mp.weixin.qq.com/s/bFgbDpl8CBxTCsT1WJOwZw)

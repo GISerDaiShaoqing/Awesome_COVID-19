@@ -356,3 +356,6 @@
 - [突破 | 连发Cell及Nature，石正丽团队及秦川团队同时开发出新冠动物模型](https://mp.weixin.qq.com/s/6vTTqc8ajXvqXdY3xvvvFw)
 - [Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2](https://www.cell.com/cell/fulltext/S0092-8674(20)30622-X)
 - [生物化学 | 消灭新型冠状病毒，可能有新策略？](https://mp.weixin.qq.com/s/NOWAN0zi_jxZM4hzGBe9nw)
+- [从细胞生物学的角度看COVID-19的发病机制](https://mp.weixin.qq.com/s/OWz6TrIXpoNaT3dWYt4H0w)
+- [Pathogenesis of COVID-19 from a cell biology perspective](https://erj.ersjournals.com/content/55/4/2000607)
+- [谢晓亮团队：利用单细胞测序技术筛选新冠有效抗体 | CellPress对话科学家](https://mp.weixin.qq.com/s/qfsCOShjRH0SxLI56Sb9Lw)

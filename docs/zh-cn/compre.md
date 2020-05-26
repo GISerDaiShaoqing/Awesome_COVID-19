@@ -549,3 +549,8 @@
 - [柳叶刀-精神病学 | 应考虑COVID-19对心理健康的长期影响](https://mp.weixin.qq.com/s/UrAd-eNgPv7yyhPhC2sHGA)
 - [Psychiatric and neuropsychiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with comparison to the COVID-19 pandemic](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30203-0/fulltext)
 - [美国播客节目《指数视角》专访李飞飞：疫情、 AI 伦理、人才培养](https://mp.weixin.qq.com/s/tRQsmd3aUtuaM8RDg0ttEQ)
+- [《科学》专访邵一鸣｜中美两国应对疫情的独立观察](https://mp.weixin.qq.com/s/CQ2jfJIv-yYDeknSFAz84Q)
+- [代表委员热议“后疫情时代”的高等教育](https://mp.weixin.qq.com/s/u7HB0t8iDr6V-5WTVd2noQ)
+- [中国学者呼吁后疫情时代的中美科研合作](https://mp.weixin.qq.com/s/1MJoLUWVDbCqOWdvGqFn5A)
+- [Science superpowers after COVID-19 lockdowns lift: a letter of hope from China to the United States](https://www.nature.com/articles/d41586-020-01544-w)
+- [强者愈强！疫情拉大“数据资产”贫富差距，顶级公司数据建设靠什么](https://mp.weixin.qq.com/s/p4byuaIN9cPw4X0ue3og5A)
