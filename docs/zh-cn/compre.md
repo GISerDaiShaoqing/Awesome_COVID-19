@@ -556,3 +556,4 @@
 - [强者愈强！疫情拉大“数据资产”贫富差距，顶级公司数据建设靠什么](https://mp.weixin.qq.com/s/p4byuaIN9cPw4X0ue3og5A)
 - [柳叶刀-星球健康 | 疫情期间，中国的空气污染下降且有死亡率改善效益](https://mp.weixin.qq.com/s/jrbJD6GUWjkL1C9Xnu1Q1Q)
 - [Air pollution reduction and mortality benefit during the COVID-19 outbreak in China](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30107-8/fulltext#%20)
+- [挤满新冠患者的ICU，正在量产幻觉？](https://mp.weixin.qq.com/s/UxxtU-a03gSRK1iclfsr3Q)

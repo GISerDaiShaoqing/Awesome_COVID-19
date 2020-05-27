@@ -359,3 +359,5 @@
 - [从细胞生物学的角度看COVID-19的发病机制](https://mp.weixin.qq.com/s/OWz6TrIXpoNaT3dWYt4H0w)
 - [Pathogenesis of COVID-19 from a cell biology perspective](https://erj.ersjournals.com/content/55/4/2000607)
 - [谢晓亮团队：利用单细胞测序技术筛选新冠有效抗体 | CellPress对话科学家](https://mp.weixin.qq.com/s/qfsCOShjRH0SxLI56Sb9Lw)
+- [振奋人心的进展 | 3篇Nature/Cell，高福，张政及秦川等团队发现新冠特异性的中和抗体，可阻止新冠病毒的感染](https://mp.weixin.qq.com/s/IjjcSkZOGmkTaPoc6-Dcgw)
+- [A human neutralizing antibody targets the receptor binding site of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2381-y)

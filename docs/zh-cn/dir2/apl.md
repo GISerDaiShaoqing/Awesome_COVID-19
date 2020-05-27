@@ -460,3 +460,7 @@
 - [“COVID-19”科研动态监测每日快报（5月25日）【中国科讯】](https://mp.weixin.qq.com/s/rRYhtc1aDbVh1cX6Dgp1Bw)
 - [美国“豪赌”12亿美元，要求10月获得新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/-HxwGtiZK02vO8QexfOnDg)
 - [JAMA：儿童新冠患者少，可能是上呼吸道的病毒受体基因表达低｜领研网24小时热门论文](https://mp.weixin.qq.com/s/bFgbDpl8CBxTCsT1WJOwZw)
+- [什么来头？颜宁主持首秀，给了清华教授这场讲座](https://mp.weixin.qq.com/s/ZlySGr3sEpE2qkBOTTi5HA)
+- [为什么大多数COVID-19感染曲线呈线性？ | 网络科学论文速递37篇](https://mp.weixin.qq.com/s/kaGLqOSCSi_AIDA5JKwKTQ)
+- [颜宁主持首秀！神仙阵容，张文宏、曹彬都在](https://mp.weixin.qq.com/s/5azrRn7l-naqSQbVWGea8w)
+- [高福：武汉华南海鲜市场或为受害单位，病毒之前已存在，动物样本中未提取到病毒](https://mp.weixin.qq.com/s/NcXLuPgcCQx8svO-F5iXmQ)
