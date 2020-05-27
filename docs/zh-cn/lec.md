@@ -165,3 +165,7 @@
 - [明日直播！清华医学院教授祁海：现代免疫学知识可以应对一些棘手的病原体](https://mp.weixin.qq.com/s/IrO_3pp_cJgDmxtaXe4Trg)
 - [深耕“新基建”线上研讨会精华回顾 | 城市新基建将成为绿色复苏的引擎](https://mp.weixin.qq.com/s/z-e-Uo_yaxxanYJM2g8wxg)
 - [【直播实录】祁海深度解读新冠病毒免疫征途​，颜宁主持首秀，张文宏、曹彬、李文辉、牛俊奇、姜世勃等专家齐发问](https://mp.weixin.qq.com/s/ctgEjZGSYQBQo2sqSYxRLQ)
+- [王林发：盘点近25年来，“超级病毒”为何多数源于蝙蝠？](https://mp.weixin.qq.com/s/LhWw5Y7PJRRywiqUwWItjA)
+- [不断创新迭代，新冠病毒检测如何成为复工复产“加速器”？｜「未来•局x真格精酿」开讲在即](https://mp.weixin.qq.com/s/MVGqkWyJtpcwo31ixx6UHw)
+- [“新冠大挑战 向科学要答案”｜会议第一弹：病毒暴发及响应](https://mp.weixin.qq.com/s/7NKa-PlY1iWAgSAJekhWHQ)
+- [【讲座预告】杨超伟：疫情数据时空分析](https://mp.weixin.qq.com/s/6VYpPlbJbZxZqyLtGsTzWA)

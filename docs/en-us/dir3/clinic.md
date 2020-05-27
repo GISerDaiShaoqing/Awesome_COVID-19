@@ -575,3 +575,8 @@
 - [Managing the supportive care needs of those affected by COVID-19](https://erj.ersjournals.com/content/55/4/2000815)
 - [雄起 | 深圳市第三人民医院张政等团队连发Cell/Nature等3项研究成果，为临床干预新冠奠定基础](https://mp.weixin.qq.com/s/B2t-i92yukuVAfC-Ib3yzQ)
 - [Human neutralizing antibodies elicited by SARS-CoV-2 infection](https://www.nature.com/articles/s41586-020-2380-z)
+- [《新英格兰医学杂志》主编：新冠疫苗存在很多不确定性，但值得押宝](https://mp.weixin.qq.com/s/-V5oGd7MSo1JlLPbyovPvA)
+- [上海市COVID-19疑似病例的筛查机制与早期临床危险因素识别的多中心临床研究](https://mp.weixin.qq.com/s/-k2NBePvB8N9HY_2_vZwUA)
+- [Assessing risk factors for SARS-CoV-2 infection in patients presenting with symptoms in Shanghai, China: a multicentre, observational cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30109-6/fulltext)
+- [褪黑素或可用于辅助治疗新冠肺炎](https://mp.weixin.qq.com/s/Agp1sh_UTwMu1zXZEd0gDQ)
+- [COVID-19: Melatonin as a potential adjuvant treatment](https://www.sciencedirect.com/science/article/abs/pii/S0024320520303313)

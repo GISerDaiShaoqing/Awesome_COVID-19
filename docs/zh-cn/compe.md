@@ -13,3 +13,4 @@
 - [新冠肺炎时期的“窗外景观” | 艺术竞赛预告](https://mp.weixin.qq.com/s/yPUhxdDQEsyN1Eb1gYCFYQ)
 - [风雨砥砺 未来可期 | 第四届“城垣杯·规划决策支持模型设计大赛”正式开启](https://mp.weixin.qq.com/s/VzQK_kcMOBokNvPZsO9v2A)
 - [赛事推荐：深圳开放数据应用创新大赛开启，计算社会科学研究再放异彩](https://mp.weixin.qq.com/s/3L2khPvKmumKHSEkzVVHmw)
+- [活动通知 |中国地理学会研学工作组 “新蚁族杯”第二届“映像·新知”摄影摄像大赛](https://mp.weixin.qq.com/s/0wcYt4Ua-51l-2vhVImyuw)

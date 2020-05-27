@@ -370,3 +370,8 @@
 - [The post-COVID-19 world could be less global and less urban](https://www.weforum.org/agenda/2020/05/coronavirus-covid19-urbanization-globalization-change)
 - [交通设施︱新冠疫情留给运输从业者的考卷](https://mp.weixin.qq.com/s/CZKwBrYsakwlMBSjbwZGEw)
 - [疫情大考下中国消费零售新机遇|大咖视点](https://mp.weixin.qq.com/s/WyzZgL295RNTjSmffs84sQ)
+- [【动向】西班牙推出2050年零碳排放目标，成为疫情后经济复苏的杠杆](https://mp.weixin.qq.com/s/W7jPwX0C9IR9pJuTW2IZPA)
+- [Spain unveils climate law to cut emissions to net zero by 2050](https://www.climatechangenews.com/2020/05/18/spain-unveils-climate-law-cut-emissions-net-zero-2050/)
+- [疫情重创，又因数据泄露索赔1586亿元，这家航空公司实惨！](https://mp.weixin.qq.com/s/0ePprQPXXp_BKrwEcVUWkA)
+- [第二轮“新冠肺炎疫情下中小微企业生存状态调查”邀请函](https://mp.weixin.qq.com/s/VtFGcSz3THXD6VG8NlHZ3A)
+- [【报告】疫情后的新世界：全民“报复性嗜甜”，车房刚需有增无减](https://mp.weixin.qq.com/s/Rma1ba8rzYg-oD9eGM1tEQ)

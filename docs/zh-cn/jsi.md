@@ -38,3 +38,6 @@
 - [征集活动 | 中国地理学会关于征集“抗疫防疫工作表现突出” 集体和个人及其先进事迹的通知](https://mp.weixin.qq.com/s/CEofuyPU-TIMBx5TeStVIw)
 - [#榜样的力量#寻找新冠战“疫”，中国数据智能产业先锋力量丨数据猿公益策划](https://mp.weixin.qq.com/s/2MT9PIGZZgJwiZLiXMO_jQ)
 - [疫情下的科研人，Cell Press 要您出镜](https://mp.weixin.qq.com/s/RWU6b32Se3g7oZDeX7-JHw)
+- [【征稿期延长】气候变化对传染病传播的影响 | BMC传染病学期刊联合征稿](https://mp.weixin.qq.com/s/tVKrDYE5Ql92oxy8z2MLEg)
+- [Contribution of climate change to the spread of infectious diseases](https://www.biomedcentral.com/collections/ccid?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_YD01_CN_INFECTIOUSDISEASES_ORGANIC_WECHAT)
+- [新冠疫情与商业研究专题征稿 | 教授论文发展工作坊回顾](https://mp.weixin.qq.com/s/UP_XNjgBglfqbEbQm7nrcQ)
