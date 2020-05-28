@@ -169,3 +169,4 @@
 - [不断创新迭代，新冠病毒检测如何成为复工复产“加速器”？｜「未来•局x真格精酿」开讲在即](https://mp.weixin.qq.com/s/MVGqkWyJtpcwo31ixx6UHw)
 - [“新冠大挑战 向科学要答案”｜会议第一弹：病毒暴发及响应](https://mp.weixin.qq.com/s/7NKa-PlY1iWAgSAJekhWHQ)
 - [【讲座预告】杨超伟：疫情数据时空分析](https://mp.weixin.qq.com/s/6VYpPlbJbZxZqyLtGsTzWA)
+- [狗熊会学术报告 | 陈松蹊教授：25国新冠疫情比较研究--寻找更有效的防控策略](https://mp.weixin.qq.com/s/H_Mx67HHd_Cp4ainneTaow)

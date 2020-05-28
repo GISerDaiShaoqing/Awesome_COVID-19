@@ -580,3 +580,6 @@
 - [Assessing risk factors for SARS-CoV-2 infection in patients presenting with symptoms in Shanghai, China: a multicentre, observational cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30109-6/fulltext)
 - [褪黑素或可用于辅助治疗新冠肺炎](https://mp.weixin.qq.com/s/Agp1sh_UTwMu1zXZEd0gDQ)
 - [COVID-19: Melatonin as a potential adjuvant treatment](https://www.sciencedirect.com/science/article/abs/pii/S0024320520303313)
+- [重磅 | 连发2篇NEJM ，随机对照临床试验表明瑞德昔韦效果有效及短时间治疗可能作为首选](https://mp.weixin.qq.com/s/t66zevVq62CGT5J82hGOrQ)
+- [Remdesivir for 5 or 10 Days in Patients with Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2015301?query=featured_home)
+- [瑞德西韦5或10天治疗Covid-19正式发表：重要结果，但只是第一步](https://mp.weixin.qq.com/s/hG-AEQnHppRO5yfjagnOuw)

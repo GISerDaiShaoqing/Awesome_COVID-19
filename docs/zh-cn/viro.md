@@ -361,4 +361,5 @@
 - [谢晓亮团队：利用单细胞测序技术筛选新冠有效抗体 | CellPress对话科学家](https://mp.weixin.qq.com/s/qfsCOShjRH0SxLI56Sb9Lw)
 - [振奋人心的进展 | 3篇Nature/Cell，高福，张政及秦川等团队发现新冠特异性的中和抗体，可阻止新冠病毒的感染](https://mp.weixin.qq.com/s/IjjcSkZOGmkTaPoc6-Dcgw)
 - [A human neutralizing antibody targets the receptor binding site of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2381-y)
-- []()
+- [Cell | 使用新方法，发现鼻是新冠病毒感染的门户及新冠病毒呈现梯度感染模式](https://mp.weixin.qq.com/s/Uqry4kyBir2n5GxReihYAw)
+- [SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory Tract](https://www.cell.com/cell/fulltext/S0092-8674(20)30675-9)

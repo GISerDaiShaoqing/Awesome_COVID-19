@@ -472,3 +472,7 @@
 - [宿舍食堂 开学返校防控新冠知多少](https://mp.weixin.qq.com/s/sDGfmGsZ5PpAQ6dgTSnhjw)
 - [“COVID-19”科研动态监测每日快报（5月26日）【中国科讯】](https://mp.weixin.qq.com/s/ZM-wF1ruIh-G5e4px6bksQ)
 - [同心谋发展 书写新篇章 | 科技支撑疫情防控战和脱贫攻坚战](http://news.sciencenet.cn/htmlnews/2020/5/440552.shtm)
+- [“COVID-19”科研动态监测每日快报（5月27日）【中国科讯】](https://mp.weixin.qq.com/s/Uqry4kyBir2n5GxReihYAw)
+- [澳大利亚高等教育界女性员工受疫情冲击更大 | 科研圈日报](https://mp.weixin.qq.com/s/nAMZ4HGXH5gbr0c4HfJowg)
+- [有预防新冠病毒作用，可抑制感染：中国团队报告在灵长类动物中有效的中和抗体｜领研网24小时热门论文](https://mp.weixin.qq.com/s/gT-zB2-ibtD_dtLrFHvHpw)
+- [新冠肺炎疫情期间 老年人群营养健康指导建议](https://mp.weixin.qq.com/s/on_SIG4Ev-ze7LdH8ePugg)

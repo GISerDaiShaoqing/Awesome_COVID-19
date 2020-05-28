@@ -240,3 +240,5 @@
 - [Using Mobile Phone Data to Limit the Spread of COVID-19](https://www.gislounge.com/using-mobile-phone-data-to-limit-the-spread-of-covid-19/)
 - [First, second and potential third generation spreads of the COVID-19 epidemic in mainland China: an early exploratory study incorporating location-based service data of mobile devices](https://www.sciencedirect.com/science/article/pii/S1201971220303556?via%3Dihub)
 - [Repo for fitting a stochastic model to COVID data](https://github.com/CEIDatUGA/COVID-stochastic-fitting)
+- [【存照】与其他致命疾病比较，新冠病毒造成的病亡率到底有多大？](https://mp.weixin.qq.com/s/g0hNwZ8-C7e6ajLGtZZ1NQ)
+- [Global deaths: This is how COVID-19 compares to other diseases](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus)
