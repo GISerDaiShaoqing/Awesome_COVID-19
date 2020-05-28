@@ -377,3 +377,4 @@
 - [【报告】疫情后的新世界：全民“报复性嗜甜”，车房刚需有增无减](https://mp.weixin.qq.com/s/Rma1ba8rzYg-oD9eGM1tEQ)
 - [【新冠肺炎与健康城市】健康城市的治理与防疫](https://mp.weixin.qq.com/s/Bg4-EFgqEAoozqvOKjcZ1g)
 - [国际资讯 | [荷]城市边缘设计研究/荷兰疫情信息汇编(2020.5)](https://mp.weixin.qq.com/s/j8dpc-OOszM-WIK4YyeUaQ)
+- [疫情大考下中国消费零售新机遇|大咖视点](https://mp.weixin.qq.com/s/Rx4jpDd2mMln3LBLdvposA)

@@ -363,3 +363,6 @@
 - [A human neutralizing antibody targets the receptor binding site of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2381-y)
 - [Cell | 使用新方法，发现鼻是新冠病毒感染的门户及新冠病毒呈现梯度感染模式](https://mp.weixin.qq.com/s/Uqry4kyBir2n5GxReihYAw)
 - [SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory Tract](https://www.cell.com/cell/fulltext/S0092-8674(20)30675-9)
+- [动态 | 研究院与人民卫生出版社联合制作的新型冠状病毒检测方法培训视频正式发布](https://mp.weixin.qq.com/s/_saSo7cpoNMJwXxWw7gVAw)
+- [专家警告：可能会出现新冠病毒和MERS病毒的嵌合病毒](https://mp.weixin.qq.com/s/s5QWV3PYX2s4NHFKJ1ynHg)
+- [意大利科学界证实：新冠病毒毒性正在减弱，新感染者几乎无症状！](https://mp.weixin.qq.com/s/R8N6S1NllaSdoZ6F_b3q1w)

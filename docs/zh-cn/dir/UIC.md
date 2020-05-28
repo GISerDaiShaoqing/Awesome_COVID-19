@@ -17,6 +17,7 @@
 - [Github: Useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 - [Github：Curated list of Coronavirus data & apps](https://github.com/pyk/covid19-resources)
 - [Github：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV)
+- [Github: Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus)
 - [中国科学院新型冠状病毒肺炎科研文献共享平台](http://ncov.cas.cn/)
 - [FYI: ICIAM创建的Mathematics of COVID-19研究进展推介主页！](https://mp.weixin.qq.com/s/0lGVkBZPbZqLRm0tEJZbEg)
 - [ICIAM创建的Mathematics of COVID-19研究进展推介主页](http://www.iciam.org/mathematics-and-covid-19)

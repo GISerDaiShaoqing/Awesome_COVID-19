@@ -583,3 +583,6 @@
 - [重磅 | 连发2篇NEJM ，随机对照临床试验表明瑞德昔韦效果有效及短时间治疗可能作为首选](https://mp.weixin.qq.com/s/t66zevVq62CGT5J82hGOrQ)
 - [Remdesivir for 5 or 10 Days in Patients with Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2015301?query=featured_home)
 - [瑞德西韦5或10天治疗Covid-19正式发表：重要结果，但只是第一步](https://mp.weixin.qq.com/s/hG-AEQnHppRO5yfjagnOuw)
+- [最新研究 | 尚无证据表明氯喹和羟氯喹对COVID-19患者有益](https://mp.weixin.qq.com/s/17Z2BcgWt8hU_5x7MBM3Kw)
+- [医学 | 新冠肺炎的死亡病例加深我们对该疾病发展的了解](https://mp.weixin.qq.com/s/cH1Tgt-Gt8xvMO9skDxNzQ)
+- [Novel Insights Into Illness Progression and Risk Profiles for Mortality in Non-survivors of COVID-19](https://www.frontiersin.org/articles/10.3389/fmed.2020.00246/full?utm_source=article0528&utm_medium=wechat&utm_campaign=chinaad)

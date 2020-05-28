@@ -476,3 +476,4 @@
 - [澳大利亚高等教育界女性员工受疫情冲击更大 | 科研圈日报](https://mp.weixin.qq.com/s/nAMZ4HGXH5gbr0c4HfJowg)
 - [有预防新冠病毒作用，可抑制感染：中国团队报告在灵长类动物中有效的中和抗体｜领研网24小时热门论文](https://mp.weixin.qq.com/s/gT-zB2-ibtD_dtLrFHvHpw)
 - [新冠肺炎疫情期间 老年人群营养健康指导建议](https://mp.weixin.qq.com/s/on_SIG4Ev-ze7LdH8ePugg)
+- [COVID-19与社会隔离悖论：危险与解决方案 | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/rBRMdqHtcHo0SLk1k2N4xg)
