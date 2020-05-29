@@ -170,3 +170,5 @@
 - [【讲座预告】杨超伟：疫情数据时空分析](https://mp.weixin.qq.com/s/6VYpPlbJbZxZqyLtGsTzWA)
 - [狗熊会学术报告 | 陈松蹊教授：25国新冠疫情比较研究--寻找更有效的防控策略](https://mp.weixin.qq.com/s/H_Mx67HHd_Cp4ainneTaow)
 - [【直播实录】祁海深度解读新冠病毒免疫征途​，颜宁主持首秀，张文宏、曹彬、李文辉、牛俊奇、姜世勃等专家齐发问](https://mp.weixin.qq.com/s/JL1sLr_d6SRkKGXOV1GIpQ)
+- [【直播预告】安全返校，你问我答](https://mp.weixin.qq.com/s/Ai0sPBVBgWEO51ynlVk8dg)
+- [知识疫图背后的故事：如何将新冠疫情搬上地图](https://mp.weixin.qq.com/s/yB9EVYxju37JLTLv5A6Gmw)

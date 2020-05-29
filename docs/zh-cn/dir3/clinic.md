@@ -586,3 +586,8 @@
 - [最新研究 | 尚无证据表明氯喹和羟氯喹对COVID-19患者有益](https://mp.weixin.qq.com/s/17Z2BcgWt8hU_5x7MBM3Kw)
 - [医学 | 新冠肺炎的死亡病例加深我们对该疾病发展的了解](https://mp.weixin.qq.com/s/cH1Tgt-Gt8xvMO9skDxNzQ)
 - [Novel Insights Into Illness Progression and Risk Profiles for Mortality in Non-survivors of COVID-19](https://www.frontiersin.org/articles/10.3389/fmed.2020.00246/full?utm_source=article0528&utm_medium=wechat&utm_campaign=chinaad)
+- [The BMJ: 更多证据不支持使用羟氯喹治疗 COVID-19 患者](https://mp.weixin.qq.com/s/uJC-vRZo9n9Fvdn45VVs6A)
+- [Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data](https://www.bmj.com/content/369/bmj.m1844)
+- [Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial](https://www.bmj.com/content/369/bmj.m1849)
+- [争鸣 | 出现极大反转！钟南山，单鸿等人发现氯喹是潜在的治疗新冠肺炎的药物：恢复快，无重大副作用](https://mp.weixin.qq.com/s/1rKM6Lek3efkn-aBgFd9cg)
+- [Preliminary evidence from a multicenter prospective observational study of the safety and efficacy of chloroquine for the treatment of COVID-19](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa113/5848167)

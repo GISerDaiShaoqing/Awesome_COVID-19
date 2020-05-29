@@ -568,3 +568,4 @@
 - [面对疫情下的人类行为，AI迷惑！数据变化引起的工作“异常”需人为调控](https://mp.weixin.qq.com/s/03bgZ1lriHOXJEdtxYkwNg)
 - [NEJM编辑的“小道”消息从哪里来？当前希望发表哪类新冠论文？](https://mp.weixin.qq.com/s/WGvXOZ-gEDNXILcB-zhcpw)
 - [抗击新冠肺炎，谁遭受了替代性心理创伤？](https://mp.weixin.qq.com/s/yKK0vDbmFCOW9uwaByroHw)
+- [留下思考的时间：在疫情期间及时完成审稿任务](https://mp.weixin.qq.com/s/b_vWlnl7dXVJ6h5QsD3vcQ)

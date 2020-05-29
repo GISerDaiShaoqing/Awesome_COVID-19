@@ -242,3 +242,7 @@
 - [Repo for fitting a stochastic model to COVID data](https://github.com/CEIDatUGA/COVID-stochastic-fitting)
 - [【存照】与其他致命疾病比较，新冠病毒造成的病亡率到底有多大？](https://mp.weixin.qq.com/s/g0hNwZ8-C7e6ajLGtZZ1NQ)
 - [Global deaths: This is how COVID-19 compares to other diseases](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus)
+- [Various implementations of the classical SIR model in Julia](https://github.com/epirecipes/sir-julia)
+- [Combining fine-scale social contact data with epidemic modelling reveals interactions between contact tracing, quarantine, testing and physical distancing for controlling COVID-19](https://github.com/biouea/covidhm)
+- [NEJM重大发现 | 在确诊的新冠肺炎患者中，黑人超过70%](https://mp.weixin.qq.com/s/XJW5G1lFnxrMQODqq1Zg_w)
+- [Hospitalization and Mortality among Black Patients and White Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMsa2011686?query=featured_home)

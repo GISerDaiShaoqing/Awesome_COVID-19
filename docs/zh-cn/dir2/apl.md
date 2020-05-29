@@ -477,3 +477,7 @@
 - [有预防新冠病毒作用，可抑制感染：中国团队报告在灵长类动物中有效的中和抗体｜领研网24小时热门论文](https://mp.weixin.qq.com/s/gT-zB2-ibtD_dtLrFHvHpw)
 - [新冠肺炎疫情期间 老年人群营养健康指导建议](https://mp.weixin.qq.com/s/on_SIG4Ev-ze7LdH8ePugg)
 - [COVID-19与社会隔离悖论：危险与解决方案 | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/rBRMdqHtcHo0SLk1k2N4xg)
+- [Nat. Comm. 论文精选 | 新冠病毒中和抗体竞赛，疫苗后的又一希望、虚假记忆作祟，让自私更不自知等](https://mp.weixin.qq.com/s/CKsoK3K4O2ItNPLJVDyemQ)
+- [法国 12 月可能就已出现首个新冠感染者｜领研网24小时热门论文](https://mp.weixin.qq.com/s/hYqMwrvdnjQ_7nBcPZwuGg)
+- [国际热核聚变实验堆开始吊装核心反应装置，但整个项目可能因为疫情延期 | 科研圈日报](https://mp.weixin.qq.com/s/ZWjXV-r-GuWNyP2LGyWxYw)
+- [“COVID-19”科研动态监测每日快报（5月28日）【中国科讯】](https://mp.weixin.qq.com/s/ghw2s8MSIvCNx7VWkZiVMw)

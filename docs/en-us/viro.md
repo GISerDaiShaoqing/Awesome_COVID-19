@@ -366,3 +366,7 @@
 - [动态 | 研究院与人民卫生出版社联合制作的新型冠状病毒检测方法培训视频正式发布](https://mp.weixin.qq.com/s/_saSo7cpoNMJwXxWw7gVAw)
 - [专家警告：可能会出现新冠病毒和MERS病毒的嵌合病毒](https://mp.weixin.qq.com/s/s5QWV3PYX2s4NHFKJ1ynHg)
 - [意大利科学界证实：新冠病毒毒性正在减弱，新感染者几乎无症状！](https://mp.weixin.qq.com/s/R8N6S1NllaSdoZ6F_b3q1w)
+- [饶子和、王权、龚鹏团队：新冠病毒聚合酶催化机制 | CellPress对话科学家](https://mp.weixin.qq.com/s/W6TJsKTUXMkPowzwhxbxnQ)
+- [Structural basis for RNA replication by the SARS-CoV-2 polymerase](https://www.cell.com/cell/fulltext/S0092-8674(20)30629-2#)
+- [Cell突破 | 温州医科大学与西湖大学强力合作，揭示了新冠标志物的特征](https://mp.weixin.qq.com/s/ejU47vFYPl7lm6nwCMTsWg)
+- [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9#%20)
