@@ -164,3 +164,4 @@
 - [NYC coronavirus data tracked by THE CITY](https://github.com/thecityny/covid-19-nyc-data)
 - [Tracking state test counts. Posting diff changes every ~30mins to #urlwatch in COVID-Tracking](https://github.com/COVID19Tracking/covid-tracking)
 - [COVID-19 positive cases tracker for New York State](https://github.com/chazeon/NYState-COVID-19-Tracker)
+- [COVID-19 case numbers in Germany by state, over time](https://github.com/jgehrcke/covid-19-germany-gae)
