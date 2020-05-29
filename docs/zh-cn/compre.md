@@ -569,3 +569,7 @@
 - [NEJM编辑的“小道”消息从哪里来？当前希望发表哪类新冠论文？](https://mp.weixin.qq.com/s/WGvXOZ-gEDNXILcB-zhcpw)
 - [抗击新冠肺炎，谁遭受了替代性心理创伤？](https://mp.weixin.qq.com/s/yKK0vDbmFCOW9uwaByroHw)
 - [留下思考的时间：在疫情期间及时完成审稿任务](https://mp.weixin.qq.com/s/b_vWlnl7dXVJ6h5QsD3vcQ)
+- [“后疫情”时代下的物竞天择：多位AI领域专家，深度探讨“新基建”发展趋势 | 未来·局](https://mp.weixin.qq.com/s/oOXOmt-OB_qovAct_OSbyg)
+- [各国关于新型冠状病毒的研究合集](https://mp.weixin.qq.com/s/QfcNH896T1YF88zpVB7LXw)
+- [学术界正在倒车：疫情期间论文数量暴涨，然而女科学家产出骤降](https://mp.weixin.qq.com/s/VH3N0cf-CrgrzzMezpk7QA)
+- [疫情的发展研究是一个长期需要关注的问题](https://mp.weixin.qq.com/s/3ccSxm3WZaEQXO3jCakN7A)
