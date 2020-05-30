@@ -51,5 +51,7 @@
 - [后疫情时代︱重塑后疫情时代的公共交通与自行车交通，我们能否避免重回小汽车时代？(两则)](https://mp.weixin.qq.com/s/cz75a3ZqhhbEuN-4AjN6bA)
 - [后疫情时代︱ARUP的十大构想，帮助地方政府重振疫后经济](https://mp.weixin.qq.com/s/g7KVMLc6AqlhTZMrsiTtkQ)
 - [新冠启示录︱非典之后中美两国公交系统恢复的对比，及对可持续交通未来的启示](https://mp.weixin.qq.com/s/s8tZJs7O6BQhbTo_6rZSxw)
+- [后疫情时代︱新冠患者的地理分布和医疗资源的分配模型](https://mp.weixin.qq.com/s/3WOO4TUH6U1vCzEVSPVQWA)
+- [后疫情时代︱新冠之后，城市出行正式进入气候友好的时代（两则）](https://mp.weixin.qq.com/s/ziAI0u0IvckvG1G3WU3upQ)
 
 ![](/img/SCM.jpg)

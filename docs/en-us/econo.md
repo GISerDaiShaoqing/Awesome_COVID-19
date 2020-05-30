@@ -380,3 +380,4 @@
 - [疫情大考下中国消费零售新机遇|大咖视点](https://mp.weixin.qq.com/s/Rx4jpDd2mMln3LBLdvposA)
 - [疫情时代的城市治理 | 首尔疫情防控三大经验：透明、问责与团结](https://mp.weixin.qq.com/s/GGheJjUQZEDjeFezAuOKJw)
 - [后疫情时代的外卖生意怎么做？](https://mp.weixin.qq.com/s/oaZ1qDYR7lUwciuF3zFtMQ)
+- [中国互联网公司疫期亏损排行榜](https://mp.weixin.qq.com/s/hJYPQUtBsCM85Jd9daRIOw)

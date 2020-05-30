@@ -481,3 +481,5 @@
 - [法国 12 月可能就已出现首个新冠感染者｜领研网24小时热门论文](https://mp.weixin.qq.com/s/hYqMwrvdnjQ_7nBcPZwuGg)
 - [国际热核聚变实验堆开始吊装核心反应装置，但整个项目可能因为疫情延期 | 科研圈日报](https://mp.weixin.qq.com/s/ZWjXV-r-GuWNyP2LGyWxYw)
 - [“COVID-19”科研动态监测每日快报（5月28日）【中国科讯】](https://mp.weixin.qq.com/s/ghw2s8MSIvCNx7VWkZiVMw)
+- [“COVID-19”科研动态监测每日快报（5月29日）【中国科讯】](https://mp.weixin.qq.com/s/_70sgNYdiDzd-cZ53iyWoA)
+- [全国科技工作者日 | 中国地理学会关于表扬“抗疫防疫先进集体和个人“的决定](https://mp.weixin.qq.com/s/h2PAu2e0KhB25--nmXLV0A)

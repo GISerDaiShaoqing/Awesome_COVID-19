@@ -573,3 +573,6 @@
 - [各国关于新型冠状病毒的研究合集](https://mp.weixin.qq.com/s/QfcNH896T1YF88zpVB7LXw)
 - [学术界正在倒车：疫情期间论文数量暴涨，然而女科学家产出骤降](https://mp.weixin.qq.com/s/VH3N0cf-CrgrzzMezpk7QA)
 - [疫情的发展研究是一个长期需要关注的问题](https://mp.weixin.qq.com/s/3ccSxm3WZaEQXO3jCakN7A)
+- [【存照】德国抗疫何以成功？德国卫生部长：因为我们有时间做好充分准备](https://mp.weixin.qq.com/s/JpQFVwDamO4QMaRgxvSQ6A)
+- [How Germany Contained the Coronavirus](https://www.project-syndicate.org/commentary/how-germany-contained-covid19-by-jens-spahn-2020-05)
+- [Socio-Economic Impacts of COVID-19 on Household Consumption and Poverty](https://arxiv.org/abs/2005.05945)
