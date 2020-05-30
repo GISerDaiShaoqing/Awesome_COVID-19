@@ -576,3 +576,4 @@
 - [【存照】德国抗疫何以成功？德国卫生部长：因为我们有时间做好充分准备](https://mp.weixin.qq.com/s/JpQFVwDamO4QMaRgxvSQ6A)
 - [How Germany Contained the Coronavirus](https://www.project-syndicate.org/commentary/how-germany-contained-covid19-by-jens-spahn-2020-05)
 - [Socio-Economic Impacts of COVID-19 on Household Consumption and Poverty](https://arxiv.org/abs/2005.05945)
+- [Nature发文痛批：伪科学抗疫大行其道，政府医院竟为它们背书！](https://mp.weixin.qq.com/s/EWvqbr3NWrfKWoxnWTiSug)

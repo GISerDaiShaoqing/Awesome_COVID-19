@@ -165,3 +165,4 @@
 - [Tracking state test counts. Posting diff changes every ~30mins to #urlwatch in COVID-Tracking](https://github.com/COVID19Tracking/covid-tracking)
 - [COVID-19 positive cases tracker for New York State](https://github.com/chazeon/NYState-COVID-19-Tracker)
 - [COVID-19 case numbers in Germany by state, over time](https://github.com/jgehrcke/covid-19-germany-gae)
+- [Data collection to analyze the dissemination of COVID-19 through Brazilian states. Contributions are welcome](https://github.com/elhenrico/covid19-Brazil-timeseries)

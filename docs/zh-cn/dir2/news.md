@@ -2001,3 +2001,6 @@
 - [山东新增境外输入2例，来自同一艘船](https://mp.weixin.qq.com/s/IrPbvXY0-Q_2SSpCoTkTFQ)
 - [特朗普宣布美国将终止与世卫组织的关系](https://mp.weixin.qq.com/s/aSOtsAi-Ss6c1bMiRFZUlQ)
 - [新增4例确诊，均为境外输入](https://mp.weixin.qq.com/s/7K-dtdfOPD2hnDv5T_tLOg)
+- [两名联合国维和人员感染新冠死亡](https://mp.weixin.qq.com/s/ILFJRKhFH6TZTabwAXiKIw)
+- [默克尔婉拒特朗普邀请](https://mp.weixin.qq.com/s/Fv-SW6MNrzN8daOAbTFvFQ)
+- [合肥一确诊病例出院第3个月“复阳”](https://mp.weixin.qq.com/s/95B4lQkhIdWnve0fFoTLxQ)
