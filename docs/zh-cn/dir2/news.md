@@ -2004,3 +2004,5 @@
 - [两名联合国维和人员感染新冠死亡](https://mp.weixin.qq.com/s/ILFJRKhFH6TZTabwAXiKIw)
 - [默克尔婉拒特朗普邀请](https://mp.weixin.qq.com/s/Fv-SW6MNrzN8daOAbTFvFQ)
 - [合肥一确诊病例出院第3个月“复阳”](https://mp.weixin.qq.com/s/95B4lQkhIdWnve0fFoTLxQ)
+- [【荷兰数据】新增确诊131人，新增死亡20例，新增5名新冠患者入院治疗！](https://mp.weixin.qq.com/s/nuiouX37p_Fv5LTkE-hFpg)
+- [又一例！同船共3例境外输入确诊](https://mp.weixin.qq.com/s/e9XD0lakXrYFOvaEnF41SA)
