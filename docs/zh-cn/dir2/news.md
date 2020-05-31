@@ -2018,3 +2018,6 @@
 - [比利时王子新冠结果阳性，曾违反“禁足令”](https://mp.weixin.qq.com/s/Yw32GEALizvKqEQb5NJTaA)
 - [最新！厦门一例境外输入新冠肺炎患者治愈出院](https://mp.weixin.qq.com/s/SiViweUfQGcjQKdaSOcdiw)
 - [吉林已连续7天无新增本地确诊](https://mp.weixin.qq.com/s/bUK1RCx1fQMn-Ki6Uu4GJg)
+- [新增确诊185人，才解封海里就漂起废弃口罩和手套！疫情还没结束，人类又开始作妖！](https://mp.weixin.qq.com/s/vnFRtgn1K9t3Jzv7oBXfzg)
+- [普京新闻秘书确诊后首次露面，很憔悴](https://mp.weixin.qq.com/s/8Pym2-sE-p2UKDJhJ8GQwQ)
+- [张文宏​：秋冬第二波疫情是肯定的](https://mp.weixin.qq.com/s/36nST-pmhZ9nGta9bhgyAA)

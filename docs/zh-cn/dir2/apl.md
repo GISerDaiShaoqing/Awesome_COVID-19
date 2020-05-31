@@ -486,3 +486,4 @@
 - [估计COVID-19大流行中的感染病例数 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/N8Pg0UOl1ADVC9Xnyxiykw)
 - [“COVID-19”科研动态监测每日快报（5月30日）【中国科讯】](https://mp.weixin.qq.com/s/QQbIUqWnFh4YZ7mllF9WQg)
 - [SARS-CoV-2传播动力学中的随机性和异质性 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/US39LK0MmYe3w60wQctRfQ)
+- [特朗普宣布美国将终止与世界卫生组织的关系|本周值得读 · 科研生涯](https://mp.weixin.qq.com/s/GsTAY2gCBrNA8T2KOyaEEg)
