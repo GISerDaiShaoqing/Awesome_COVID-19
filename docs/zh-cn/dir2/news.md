@@ -2016,3 +2016,5 @@
 - [宁陕县多名学生不明原因咳嗽发烧，检测结果公布](https://mp.weixin.qq.com/s/XuTP4aFG4eyQEF21skbMNQ)
 - [美国“退群”，其他群成员意见一致](https://mp.weixin.qq.com/s/zLUvU1w6G2fEm6Dgs6qhAQ)
 - [比利时王子新冠结果阳性，曾违反“禁足令”](https://mp.weixin.qq.com/s/Yw32GEALizvKqEQb5NJTaA)
+- [最新！厦门一例境外输入新冠肺炎患者治愈出院](https://mp.weixin.qq.com/s/SiViweUfQGcjQKdaSOcdiw)
+- [吉林已连续7天无新增本地确诊](https://mp.weixin.qq.com/s/bUK1RCx1fQMn-Ki6Uu4GJg)

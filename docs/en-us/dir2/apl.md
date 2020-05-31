@@ -485,3 +485,4 @@
 - [全国科技工作者日 | 中国地理学会关于表扬“抗疫防疫先进集体和个人“的决定](https://mp.weixin.qq.com/s/h2PAu2e0KhB25--nmXLV0A)
 - [估计COVID-19大流行中的感染病例数 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/N8Pg0UOl1ADVC9Xnyxiykw)
 - [“COVID-19”科研动态监测每日快报（5月30日）【中国科讯】](https://mp.weixin.qq.com/s/QQbIUqWnFh4YZ7mllF9WQg)
+- [SARS-CoV-2传播动力学中的随机性和异质性 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/US39LK0MmYe3w60wQctRfQ)
