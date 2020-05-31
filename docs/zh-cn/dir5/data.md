@@ -166,3 +166,5 @@
 - [COVID-19 positive cases tracker for New York State](https://github.com/chazeon/NYState-COVID-19-Tracker)
 - [COVID-19 case numbers in Germany by state, over time](https://github.com/jgehrcke/covid-19-germany-gae)
 - [Data collection to analyze the dissemination of COVID-19 through Brazilian states. Contributions are welcome](https://github.com/elhenrico/covid19-Brazil-timeseries)
+- [【数据】从各国城市数据看，人类距离群体免疫还有多远？](https://mp.weixin.qq.com/s/Bv1AWyyzJZx9J2nvul3FmA)
+- [COVID-19 How Far Away Are We From Herd Immunity?](https://www.statista.com/chart/21866/estimated-share-of-the-population-with-covid-19-antibodies/)

@@ -381,3 +381,4 @@
 - [疫情时代的城市治理 | 首尔疫情防控三大经验：透明、问责与团结](https://mp.weixin.qq.com/s/GGheJjUQZEDjeFezAuOKJw)
 - [后疫情时代的外卖生意怎么做？](https://mp.weixin.qq.com/s/oaZ1qDYR7lUwciuF3zFtMQ)
 - [中国互联网公司疫期亏损排行榜](https://mp.weixin.qq.com/s/hJYPQUtBsCM85Jd9daRIOw)
+- [【专家成果】范恒山：以代价换重塑 用现在争未来](https://mp.weixin.qq.com/s/T5bNxXuob7KiSkpCTJn1hA)
