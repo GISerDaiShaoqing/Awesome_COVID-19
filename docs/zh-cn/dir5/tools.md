@@ -69,3 +69,4 @@
 - [COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/#download-the-code)
 - [“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](https://github.com/huanghuidmml/epidemicTextMatch)
 - [How I built a Face Mask Detector for COVID-19 using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
+- [独家 | COVID-19：利用Opencv, Keras/Tensorflow和深度学习进行口罩检测](https://mp.weixin.qq.com/s/HFHBPMhYaoSnA9bU_MMpKQ)

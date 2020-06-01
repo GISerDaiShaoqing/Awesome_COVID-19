@@ -605,3 +605,5 @@
 - [Cigarette Smoke Exposure and Inflammatory Signaling Increase the Expression of the SARS-CoV-2 Receptor ACE2 in the Respiratory Tract](https://www.cell.com/developmental-cell/fulltext/S1534-5807(20)30401-9)
 - [Lancet重大发现 | 羟氯喹及阿奇霉素治疗新冠伴随有癌症的患者，死亡率增加2倍以上](https://mp.weixin.qq.com/s/uVOqpMq9Kxz77l02FQJo0Q)
 - [Clinical impact of COVID-19 on patients with cancer (CCC19): a cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31187-9/fulltext)
+- [COVID-19患儿的胃肠道特征：在8例患儿中的不同临床表现](https://mp.weixin.qq.com/s/BF86nd8pZ7Z7CrVNWnEK7w)
+- [Gastrointestinal features in children with COVID-19: an observation of varied presentation in eight children](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30165-6/fulltext)

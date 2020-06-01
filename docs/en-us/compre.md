@@ -580,3 +580,4 @@
 - [Pseudoscience and COVID-19 — we’ve had enough already](https://www.nature.com/articles/d41586-020-01266-z)
 - [IEA关注新冠病毒危机对全球能源需求的影响](https://mp.weixin.qq.com/s/6CxsVPE3syo8Oy4rvmJjsw)
 - [Global Energy Review 2020: The impacts of the Covid-19 crisis on global energy demand and CO2 emissions](https://www.iea.org/reports/global-energy-review-2020)
+- [新冠疫情让全球碳排放量“历史性下降”？别高兴太早](https://mp.weixin.qq.com/s/1SUqaEcfU_u1T9ZGLbSrtw)
