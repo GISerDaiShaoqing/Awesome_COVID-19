@@ -173,3 +173,4 @@
 - [【直播预告】安全返校，你问我答](https://mp.weixin.qq.com/s/Ai0sPBVBgWEO51ynlVk8dg)
 - [知识疫图背后的故事：如何将新冠疫情搬上地图](https://mp.weixin.qq.com/s/yB9EVYxju37JLTLv5A6Gmw)
 - [直播｜Wiley携手李兰娟院士对话顶级专家，分享抗疫经验](https://mp.weixin.qq.com/s/0YMhs5myiP3qpSDdvNu_dQ)
+- [【课程提醒】周三下午两点 Tableau 高级分析解读新冠肺炎疫情发展](https://mp.weixin.qq.com/s/TKMCKKZVavBpFoK7yRnZEg)

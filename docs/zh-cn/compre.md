@@ -577,3 +577,6 @@
 - [How Germany Contained the Coronavirus](https://www.project-syndicate.org/commentary/how-germany-contained-covid19-by-jens-spahn-2020-05)
 - [Socio-Economic Impacts of COVID-19 on Household Consumption and Poverty](https://arxiv.org/abs/2005.05945)
 - [Nature发文痛批：伪科学抗疫大行其道，政府医院竟为它们背书！](https://mp.weixin.qq.com/s/EWvqbr3NWrfKWoxnWTiSug)
+- [Pseudoscience and COVID-19 — we’ve had enough already](https://www.nature.com/articles/d41586-020-01266-z)
+- [IEA关注新冠病毒危机对全球能源需求的影响](https://mp.weixin.qq.com/s/6CxsVPE3syo8Oy4rvmJjsw)
+- [Global Energy Review 2020: The impacts of the Covid-19 crisis on global energy demand and CO2 emissions](https://www.iea.org/reports/global-energy-review-2020)

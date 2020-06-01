@@ -382,3 +382,6 @@
 - [后疫情时代的外卖生意怎么做？](https://mp.weixin.qq.com/s/oaZ1qDYR7lUwciuF3zFtMQ)
 - [中国互联网公司疫期亏损排行榜](https://mp.weixin.qq.com/s/hJYPQUtBsCM85Jd9daRIOw)
 - [【专家成果】范恒山：以代价换重塑 用现在争未来](https://mp.weixin.qq.com/s/T5bNxXuob7KiSkpCTJn1hA)
+- [【观点】索罗斯建议发行“无限期债券”应对新冠和气候双重危机](https://mp.weixin.qq.com/s/-I0GqWuE87pJGEFbFGQHmQ)
+- [Perpetual Bonds Could Save the European Union](https://www.project-syndicate.org/commentary/perpetual-bonds-are-essential-to-european-union-survival-by-george-soros-2020-05)
+- [国际资讯 | [非洲]内罗毕《区划条例》亟待修编/COVID-19后的非洲智慧城市(2020.6)](https://mp.weixin.qq.com/s/HmKQqHRkTwDENs4iks4W2Q)

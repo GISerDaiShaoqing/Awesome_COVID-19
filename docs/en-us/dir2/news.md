@@ -2021,3 +2021,8 @@
 - [新增确诊185人，才解封海里就漂起废弃口罩和手套！疫情还没结束，人类又开始作妖！](https://mp.weixin.qq.com/s/vnFRtgn1K9t3Jzv7oBXfzg)
 - [普京新闻秘书确诊后首次露面，很憔悴](https://mp.weixin.qq.com/s/8Pym2-sE-p2UKDJhJ8GQwQ)
 - [张文宏​：秋冬第二波疫情是肯定的](https://mp.weixin.qq.com/s/36nST-pmhZ9nGta9bhgyAA)
+- [美国明尼苏达州确诊病例开始上升，南苏丹又一副总统感染新冠病毒](https://mp.weixin.qq.com/s/3_F03Az2szUtbiNunCHMQw)
+- [国家卫健委：新增确诊病例16例，均为境外输入！福建0新增！](https://mp.weixin.qq.com/s/C5BDRV5gYoJQJYwZ-0XhIw)
+- [抗疫烈士彭银华去世第102天，女儿在武汉出生](https://mp.weixin.qq.com/s/_H_2eUC_HWvaCxPHaf7s_g)
+- [武汉首次无症状感染者新增为0](https://mp.weixin.qq.com/s/40it1UbkbZqgeRxescc0zQ)
+- [新增境外输入16例，四川占11例](https://mp.weixin.qq.com/s/bDuEdadfVMFhFO7oXMMyaA)

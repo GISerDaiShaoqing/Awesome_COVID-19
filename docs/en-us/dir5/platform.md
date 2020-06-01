@@ -113,3 +113,4 @@
 - [PPT分享 | 空间信息技术助力疫情防控——天津新冠疫情地图系统](https://mp.weixin.qq.com/s/oPae12RQJKVwXScx-eY0GA)
 - [Word Embedding News | 词嵌入新鲜事：COVID-19特刊](https://mp.weixin.qq.com/s/kbMojVJbw4iBgGyJ2s7ceg)
 - [COVID-19 ACCELEROMETER](https://github.com/adamtaiti/SARS-CoV-2)
+- [“中国科协联合国咨商专委会新冠病毒肺炎知识与数据信息系统”信息类型数字化图标集](https://mp.weixin.qq.com/s/eK3HX2GYoqlL-nJ2yzRsfw)

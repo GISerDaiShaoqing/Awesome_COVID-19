@@ -487,3 +487,5 @@
 - [“COVID-19”科研动态监测每日快报（5月30日）【中国科讯】](https://mp.weixin.qq.com/s/QQbIUqWnFh4YZ7mllF9WQg)
 - [SARS-CoV-2传播动力学中的随机性和异质性 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/US39LK0MmYe3w60wQctRfQ)
 - [特朗普宣布美国将终止与世界卫生组织的关系|本周值得读 · 科研生涯](https://mp.weixin.qq.com/s/GsTAY2gCBrNA8T2KOyaEEg)
+- [“COVID-19”科研动态监测每日快报（5月31日）【中国科讯】](https://mp.weixin.qq.com/s/uLAJBG7VzjTX4SymhGhKFQ)
+- [专家警告：美国退出 WHO 或损害全球应对疾病威胁的能力 ​| 科研圈日报](https://mp.weixin.qq.com/s/e-8HcbwZfdVGJx9GjGaabA)
