@@ -2029,3 +2029,4 @@
 - [这组照片真惊人，美国壮汉与病毒肉搏6周，出院后瘦成“纸片人”](https://mp.weixin.qq.com/s/9Zn0iOji2qM-MvDIdi8ALg)
 - [【荷兰数据】今日确诊103人，荷兰趋势折线图愈加平缓！](https://mp.weixin.qq.com/s/i38WEb12LVgdx5aIngkD5w)
 - [武汉首次无症状感染者新增为0，是如何做到的？](https://mp.weixin.qq.com/s/fhnwqBLl70yFd9V8zCKxEQ)
+- [支援绥芬河医生于铁夫突发心脏骤停离世，年仅42岁](https://mp.weixin.qq.com/s/GNCBOKEzBF2_JsaZmRpxGQ)
