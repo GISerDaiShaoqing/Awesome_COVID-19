@@ -489,3 +489,8 @@
 - [特朗普宣布美国将终止与世界卫生组织的关系|本周值得读 · 科研生涯](https://mp.weixin.qq.com/s/GsTAY2gCBrNA8T2KOyaEEg)
 - [“COVID-19”科研动态监测每日快报（5月31日）【中国科讯】](https://mp.weixin.qq.com/s/uLAJBG7VzjTX4SymhGhKFQ)
 - [专家警告：美国退出 WHO 或损害全球应对疾病威胁的能力 ​| 科研圈日报](https://mp.weixin.qq.com/s/e-8HcbwZfdVGJx9GjGaabA)
+- [“COVID-19”科研动态监测每日快报（6月1日）【中国科讯】](https://mp.weixin.qq.com/s/R7tnjnZxeghmtww-r7ms6A)
+- [bioRxiv：截至目前，新冠病毒的突变似乎并没有增加其传播力｜领研网24小时热门论文](https://mp.weixin.qq.com/s/T3AGW9-FZcsRvYmifl7w_A)
+- [应对疫情“大考”，大学生的“知与行”](https://mp.weixin.qq.com/s/gvXU2M0vpDbLGgAZgafh6w)
+- [6 月 1 日我国新增确诊病例 5 例 | 科研圈日报](https://mp.weixin.qq.com/s/WAR_20TaPHIkWMfgPC3XMA)
+- [苔藓球，跑起来 | 分子尺度的电影 | COVID-19造成的研究人员失业对女性冲击更大|自然每周简报](https://mp.weixin.qq.com/s/aqRNd7YdCghtWZvHrvDscA)

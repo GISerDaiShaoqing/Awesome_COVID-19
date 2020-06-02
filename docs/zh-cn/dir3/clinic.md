@@ -607,3 +607,6 @@
 - [Clinical impact of COVID-19 on patients with cancer (CCC19): a cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31187-9/fulltext)
 - [COVID-19患儿的胃肠道特征：在8例患儿中的不同临床表现](https://mp.weixin.qq.com/s/BF86nd8pZ7Z7CrVNWnEK7w)
 - [Gastrointestinal features in children with COVID-19: an observation of varied presentation in eight children](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30165-6/fulltext)
+- [作者表示：原始数据不能公开！全球120位研究人员质疑羟氯喹治疗新冠会增加死亡率！](https://mp.weixin.qq.com/s/eaZ3_wGd4-hIwx0rI81iPw)
+- [An open letter to Mehra et al and The Lancet](https://zenodo.org/record/3862789#.XtTw4jNIAtS)
+- [Safety fears over drug hyped to treat the coronavirus spark global confusion](https://www.nature.com/articles/d41586-020-01599-9#ref-CR1)

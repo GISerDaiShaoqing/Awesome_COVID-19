@@ -386,3 +386,5 @@
 - [Perpetual Bonds Could Save the European Union](https://www.project-syndicate.org/commentary/perpetual-bonds-are-essential-to-european-union-survival-by-george-soros-2020-05)
 - [国际资讯 | [非洲]内罗毕《区划条例》亟待修编/COVID-19后的非洲智慧城市(2020.6)](https://mp.weixin.qq.com/s/HmKQqHRkTwDENs4iks4W2Q)
 - [全球城市观察︱疫情后，纽约市的“社区冰箱”能否继续](https://mp.weixin.qq.com/s/QpmbdGGBMG3OydmPBiP3pA)
+- [【联合国人居署信息】联合国人居署关于新冠肺炎疫情下的非正规住区的重要信息](https://mp.weixin.qq.com/s/DiLCyjm0OAqUK14bAf1STQ)
+- [全球汇 | 全球疫情下，英国后工业的脆弱性和资本主义新伦理](https://mp.weixin.qq.com/s/aA2N3QZ5bsNs81OMYVFASA)

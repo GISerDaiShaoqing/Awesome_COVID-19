@@ -175,3 +175,4 @@
 - [直播｜Wiley携手李兰娟院士对话顶级专家，分享抗疫经验](https://mp.weixin.qq.com/s/0YMhs5myiP3qpSDdvNu_dQ)
 - [【课程提醒】周三下午两点 Tableau 高级分析解读新冠肺炎疫情发展](https://mp.weixin.qq.com/s/TKMCKKZVavBpFoK7yRnZEg)
 - [【讲座预告】宋学坤：美国县级新冠疫情风险预测的时空扩散模型](https://mp.weixin.qq.com/s/W2kmyr_YaHoMWmDx4mVOOg)
+- [直播预告 | 抗击新冠，共克时艰——李兰娟院士及顶尖专家线上经验分享【中国科讯】](https://mp.weixin.qq.com/s/kN12czukKtOn6-1AwT1Kzg)

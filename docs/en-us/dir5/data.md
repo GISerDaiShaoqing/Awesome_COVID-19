@@ -172,3 +172,4 @@
 - [COVID-19 How Far Away Are We From Herd Immunity?](https://www.statista.com/chart/21866/estimated-share-of-the-population-with-covid-19-antibodies/)
 - [Data analysis and visualizations of daily COVID cases report](https://github.com/govex/COVID-19)
 - [Worldometers daily data: Country level daily cases, deaths, recovered and testing counts](https://github.com/bumbeishvili/covid19-daily-data)
+- [A repo for sharing language resources related to the outbreak (in machine readable format)](https://github.com/neulab/covid19-datashare)
