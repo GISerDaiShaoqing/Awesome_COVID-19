@@ -389,3 +389,4 @@
 - [【联合国人居署信息】联合国人居署关于新冠肺炎疫情下的非正规住区的重要信息](https://mp.weixin.qq.com/s/DiLCyjm0OAqUK14bAf1STQ)
 - [全球汇 | 全球疫情下，英国后工业的脆弱性和资本主义新伦理](https://mp.weixin.qq.com/s/aA2N3QZ5bsNs81OMYVFASA)
 - [什么是健康街道设计：健康街道设计的理论、方法与实践](https://mp.weixin.qq.com/s/HNw4n89vdl97N5s7cRH9_Q)
+- [观点 | 全球规划师共商共享健康城市规划策略](https://mp.weixin.qq.com/s/YzWqkk0Is6z0eSXAElaCZw)

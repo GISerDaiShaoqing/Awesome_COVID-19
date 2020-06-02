@@ -610,3 +610,4 @@
 - [作者表示：原始数据不能公开！全球120位研究人员质疑羟氯喹治疗新冠会增加死亡率！](https://mp.weixin.qq.com/s/eaZ3_wGd4-hIwx0rI81iPw)
 - [An open letter to Mehra et al and The Lancet](https://zenodo.org/record/3862789#.XtTw4jNIAtS)
 - [Safety fears over drug hyped to treat the coronavirus spark global confusion](https://www.nature.com/articles/d41586-020-01599-9#ref-CR1)
+- [国际著名病毒专家王林发成功研发出全球首个中和抗体检测盒，1小时快速检测！](https://mp.weixin.qq.com/s/_dwFA7zyyId14EK25xiFxQ)

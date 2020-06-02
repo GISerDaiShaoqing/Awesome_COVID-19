@@ -590,3 +590,4 @@
 - [Study: World carbon pollution falls 17% during pandemic peak](https://apnews.com/7c268d15e503eb9d46d0c35cd9ac3543)
 - [Coronavirus crisis leads to 17% drop in global carbon emissions, study says](https://www.latimes.com/world-nation/story/2020-05-19/study-world-carbon-pollution-falls-17-during-pandemic-peak)
 - [你想听什么曲子？新冠病毒、上帝粒子，还是宇宙？](https://mp.weixin.qq.com/s/3waWIJnYASvlkZEbWrO1hw)
+- [疫情下加拿大教育点滴，“非常”时期下的“如常”](https://mp.weixin.qq.com/s/pdDK-FXO2PGLyvKrj3ad-w)

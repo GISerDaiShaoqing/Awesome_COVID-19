@@ -246,3 +246,4 @@
 - [Combining fine-scale social contact data with epidemic modelling reveals interactions between contact tracing, quarantine, testing and physical distancing for controlling COVID-19](https://github.com/biouea/covidhm)
 - [NEJM重大发现 | 在确诊的新冠肺炎患者中，黑人超过70%](https://mp.weixin.qq.com/s/XJW5G1lFnxrMQODqq1Zg_w)
 - [Hospitalization and Mortality among Black Patients and White Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMsa2011686?query=featured_home)
+- [This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.](https://github.com/mrc-ide/covid-sim)
