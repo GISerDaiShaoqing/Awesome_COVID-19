@@ -392,3 +392,5 @@
 - [观点 | 全球规划师共商共享健康城市规划策略](https://mp.weixin.qq.com/s/YzWqkk0Is6z0eSXAElaCZw)
 - [408研究小组 | 新冠病毒如何改变城市和我们的生活方式](https://mp.weixin.qq.com/s/nuNo97SPGorB9p08_1rSlA)
 - [疫情防控常态化下社区治理提升的难点及思考](https://mp.weixin.qq.com/s/aYWW3hWMtbujUNYasY3_TQ)
+- [CEADs研究：全球疫情控制政策对经济影响的评估](https://mp.weixin.qq.com/s/1HxddpoWnA2X_tJszzI9yw)
+- [Global supply-chain effects of COVID-19 control measures](https://www.nature.com/articles/s41562-020-0896-8)

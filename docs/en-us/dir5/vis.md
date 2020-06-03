@@ -180,3 +180,4 @@
 - [Daily new confirmed COVID-19 deaths per million people, May 26, 2020](https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=latest&deathsMetric=true&dailyFreq=true&perCapita=true&smoothing=7&country=ARG+BOL+BRA+CHL+COL+ECU+PER+URY+AUT+BEL+BGR+BIH+BLR+CHE+CZE+DEU+DNK+ESP+EST+FRA+GBR+GRC+HRV+IRL+ITA+NLD+NOR+POL+PRT+RUS+SMR+SWE+DZA+EGY+GAB+LBR+SDN+ZAF+ARM+BGD+BHR+IDN+IND+IRN+IRQ+ISR+JPN+PAK+PHL+TUR+CAN+DOM+HND+MEX+PAN+ALB+SGP+GIN+USA)
 - [用shiny和echarts4r制作一个COVID-19的dashboard](https://mp.weixin.qq.com/s/GS4OsIvePo3O-6ltD1b9Qg)
 - [an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries](https://github.com/stevenliuyi/covid19)
+- [Interactive dashboard for real-time recording of COVID-19 outbreak in Japan](https://github.com/swsoyee/2019-ncov-japan)

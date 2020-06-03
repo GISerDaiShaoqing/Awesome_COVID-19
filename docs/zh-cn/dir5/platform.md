@@ -114,3 +114,4 @@
 - [Word Embedding News | 词嵌入新鲜事：COVID-19特刊](https://mp.weixin.qq.com/s/kbMojVJbw4iBgGyJ2s7ceg)
 - [COVID-19 ACCELEROMETER](https://github.com/adamtaiti/SARS-CoV-2)
 - [“中国科协联合国咨商专委会新冠病毒肺炎知识与数据信息系统”信息类型数字化图标集](https://mp.weixin.qq.com/s/eK3HX2GYoqlL-nJ2yzRsfw)
+- [COVID Atlas alpha code](https://github.com/GeoDaCenter/covid)
