@@ -597,3 +597,7 @@
 - [Slowing economy causes sizable German energy use decrease in first quarter 2020](https://www.cleanenergywire.org/news/slowing-economy-causes-sizable-german-energy-use-decrease-first-quarter-2020)
 - [多频道的人③｜凯蒂·迪肖：我们应对疫情的方式来自同理心](https://mp.weixin.qq.com/s/OA2xqDJvaVVNrHylyR-faA)
 - [日本防灾｜防灾活动是社区的最后一根稻草](https://mp.weixin.qq.com/s/N59CA24y19m8TcAX72qwhQ)
+- [哈佛最新研究：温度高于25℃可降低新冠病毒传染率，每升1度，下降3.1%](https://mp.weixin.qq.com/s/XYnPb_gfvzILbMyWV9XPJw)
+- [气候条件与新型冠状病毒肺炎（COVID-19）传播：估计与预测](https://projects.iq.harvard.edu/covid19/abstract-chinese)
+- [The Modest Impact of Weather and Air Pollution on COVID-19 Transmission](https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf)
+- [新冠全球大流行，GIS空间分析如何助力流行病防控？](https://mp.weixin.qq.com/s/7jFLuwYfwPtTNU1M0qdnXA)
