@@ -500,3 +500,7 @@
 - [“新冠病毒在临床上已经消失！”病毒毒性正在减弱，感染患者几乎无症状，病毒载量也较小！](https://mp.weixin.qq.com/s/upbxlCZ3Tj1rjupN3k8s_w)
 - [荷兰开放全民免费测试！谁可以测？怎么预约？去哪测？所有答案都在这儿！](https://mp.weixin.qq.com/s/-85csKPo2hYdyoUfeiKlfA)
 - [十几天如何完成千万人口的核酸检测？武汉卫健委回应](https://mp.weixin.qq.com/s/7DFvejQQ1E2vNQufhV57jA)
+- [美国知名医学期刊撤回“口罩无用论”论文 | 科研圈日报](https://mp.weixin.qq.com/s/wNXKVbrI5yOfKLmT7BsKDw)
+- [“COVID-19”科研动态监测每日快报（6月2日）【中国科讯】](https://mp.weixin.qq.com/s/8VBuaDKBb-KpeulAIAnItw)
+- [科技是战胜困难的有力武器](https://mp.weixin.qq.com/s/GO-0zGPqaHYgdaHwRmJiLw)
+- [新冠肺炎疫情期间 儿童青少年营养健康指导建议](https://mp.weixin.qq.com/s/wE65G5Gq13o9DH4BFsm2Fg)

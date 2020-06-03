@@ -372,3 +372,7 @@
 - [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9#%20)
 - [Cell：西湖大学再获重要突破，郭天南等发现新冠重症患者生物标志物](https://mp.weixin.qq.com/s/IrPbvXY0-Q_2SSpCoTkTFQ)
 - [百万年进化，上百种病毒！数据揭秘你可能并不了解的蝙蝠](https://mp.weixin.qq.com/s/M_iiEnaeK0ZOTzzNKmMB6A)
+- [动物传播新冠病毒的风险有几分？](https://mp.weixin.qq.com/s/Iu-R8W0xY7iklelIj97T3Q)
+- [What’s the risk that animals will spread the coronavirus?](https://www.nature.com/articles/d41586-020-01574-4)
+- [科学家发现抗新冠全人源纳米抗体](http://news.sciencenet.cn/htmlnews/2020/5/440515.shtm)
+- [Identification of Human Single-Domain Antibodies against SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S193131282030250X?via%3Dihub)

@@ -53,5 +53,7 @@
 - [新冠启示录︱非典之后中美两国公交系统恢复的对比，及对可持续交通未来的启示](https://mp.weixin.qq.com/s/s8tZJs7O6BQhbTo_6rZSxw)
 - [后疫情时代︱新冠患者的地理分布和医疗资源的分配模型](https://mp.weixin.qq.com/s/3WOO4TUH6U1vCzEVSPVQWA)
 - [后疫情时代︱新冠之后，城市出行正式进入气候友好的时代（两则）](https://mp.weixin.qq.com/s/ziAI0u0IvckvG1G3WU3upQ)
+- [新冠疫情的意象地图 (上) ︱压力重重的通勤、始料未及的生活](https://mp.weixin.qq.com/s/z8PSsK7Rv4nZQ-TdwZwt9A)
+- [新冠疫情的意象地图 (下) ︱ 野生动物重现城市](https://mp.weixin.qq.com/s/B_Y0ZuQXBKssjRF0SaSA_A)
 
 ![](/img/SCM.jpg)

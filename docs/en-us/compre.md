@@ -591,3 +591,7 @@
 - [Coronavirus crisis leads to 17% drop in global carbon emissions, study says](https://www.latimes.com/world-nation/story/2020-05-19/study-world-carbon-pollution-falls-17-during-pandemic-peak)
 - [你想听什么曲子？新冠病毒、上帝粒子，还是宇宙？](https://mp.weixin.qq.com/s/3waWIJnYASvlkZEbWrO1hw)
 - [疫情下加拿大教育点滴，“非常”时期下的“如常”](https://mp.weixin.qq.com/s/pdDK-FXO2PGLyvKrj3ad-w)
+- [新冠未平，埃博拉又起！致死率超60%，2020年太难了](https://mp.weixin.qq.com/s/LZhi8XAD0pLRJs6T3B8gVA)
+- [数据“皮包”公司改变全球抗疫进程，其提供的数据可信度存疑，后期众多文章面临撤稿的风险](https://mp.weixin.qq.com/s/9any57eWS69PADlNp89zIA)
+- [【数据】德国：疫情之下能耗下降7%，2020年减排可望超额达标！](https://mp.weixin.qq.com/s/1JW0FyCYqCtQSs_9HQQG0Q)
+- [Slowing economy causes sizable German energy use decrease in first quarter 2020](https://www.cleanenergywire.org/news/slowing-economy-causes-sizable-german-energy-use-decrease-first-quarter-2020)

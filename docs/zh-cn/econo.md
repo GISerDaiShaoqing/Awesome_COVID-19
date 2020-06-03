@@ -390,3 +390,5 @@
 - [全球汇 | 全球疫情下，英国后工业的脆弱性和资本主义新伦理](https://mp.weixin.qq.com/s/aA2N3QZ5bsNs81OMYVFASA)
 - [什么是健康街道设计：健康街道设计的理论、方法与实践](https://mp.weixin.qq.com/s/HNw4n89vdl97N5s7cRH9_Q)
 - [观点 | 全球规划师共商共享健康城市规划策略](https://mp.weixin.qq.com/s/YzWqkk0Is6z0eSXAElaCZw)
+- [408研究小组 | 新冠病毒如何改变城市和我们的生活方式](https://mp.weixin.qq.com/s/nuNo97SPGorB9p08_1rSlA)
+- [疫情防控常态化下社区治理提升的难点及思考](https://mp.weixin.qq.com/s/aYWW3hWMtbujUNYasY3_TQ)
