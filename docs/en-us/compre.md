@@ -595,3 +595,5 @@
 - [数据“皮包”公司改变全球抗疫进程，其提供的数据可信度存疑，后期众多文章面临撤稿的风险](https://mp.weixin.qq.com/s/9any57eWS69PADlNp89zIA)
 - [【数据】德国：疫情之下能耗下降7%，2020年减排可望超额达标！](https://mp.weixin.qq.com/s/1JW0FyCYqCtQSs_9HQQG0Q)
 - [Slowing economy causes sizable German energy use decrease in first quarter 2020](https://www.cleanenergywire.org/news/slowing-economy-causes-sizable-german-energy-use-decrease-first-quarter-2020)
+- [多频道的人③｜凯蒂·迪肖：我们应对疫情的方式来自同理心](https://mp.weixin.qq.com/s/OA2xqDJvaVVNrHylyR-faA)
+- [日本防灾｜防灾活动是社区的最后一根稻草](https://mp.weixin.qq.com/s/N59CA24y19m8TcAX72qwhQ)

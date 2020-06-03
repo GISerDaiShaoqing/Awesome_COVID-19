@@ -2053,3 +2053,4 @@
 - [快讯！6月2日福建0新增！重要提醒：这些考试取消了！](https://mp.weixin.qq.com/s/1sf5nUmJ4DmVe9eWp_gLIA)
 - [美国新冠确诊超182万，官员称示威抗议将引发新一轮疫情暴发](https://mp.weixin.qq.com/s/7MWbF1WfQfPpYDRGfUGnGg)
 - [习近平：构建起强大的公共卫生体系 为维护人民健康提供有力保障](https://mp.weixin.qq.com/s/QMAvCz9Tlve0_e22xBAhfA)
+- [社论 | 武汉，安全](https://mp.weixin.qq.com/s/HFniTduEbjvdrFlS3IAZOw)

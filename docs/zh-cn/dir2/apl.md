@@ -504,3 +504,4 @@
 - [“COVID-19”科研动态监测每日快报（6月2日）【中国科讯】](https://mp.weixin.qq.com/s/8VBuaDKBb-KpeulAIAnItw)
 - [科技是战胜困难的有力武器](https://mp.weixin.qq.com/s/GO-0zGPqaHYgdaHwRmJiLw)
 - [新冠肺炎疫情期间 儿童青少年营养健康指导建议](https://mp.weixin.qq.com/s/wE65G5Gq13o9DH4BFsm2Fg)
+- [新冠肺炎与痰液管理专题（上篇）](https://mp.weixin.qq.com/s/n1Q-jCRRbzmp0AuYcd_XKA)
