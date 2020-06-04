@@ -511,3 +511,6 @@
 - [“COVID-19”科研动态监测每日快报（6月3日）【中国科讯】](https://mp.weixin.qq.com/s/iPnbG3c7JtTotE02g4tP-Q)
 - [新冠肺炎与痰液管理专题（下篇）](https://mp.weixin.qq.com/s/tU6nydgDi7xf2X0JZiQd8g)
 - [分析在线社交媒体上的COVID-19：趋势，情感和情绪 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/yvlgJRfXYPvHhMjdothKbA)
+- [数学建模和统计分析在流行病趋势预测和精准防控中的作用](http://blog.sciencenet.cn/blog-3075-1236381.html)
+- [世卫组织对中、南美洲国家疫情加速蔓延表示担忧](http://news.sciencenet.cn/htmlnews/2020/6/440916.shtm)
+- [中美文献最多且数量相当、世界4600多家机构参与科研——新冠病毒研究全球合作广泛而普遍](http://news.sciencenet.cn/htmlnews/2020/6/440912.shtm)
