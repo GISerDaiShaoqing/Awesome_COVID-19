@@ -510,3 +510,4 @@
 - [6 月 3 日我国新增确诊病例 1 例｜科研圈日报](https://mp.weixin.qq.com/s/w-8KjbYT6LBo_m-exTGDSQ)
 - [“COVID-19”科研动态监测每日快报（6月3日）【中国科讯】](https://mp.weixin.qq.com/s/iPnbG3c7JtTotE02g4tP-Q)
 - [新冠肺炎与痰液管理专题（下篇）](https://mp.weixin.qq.com/s/tU6nydgDi7xf2X0JZiQd8g)
+- [分析在线社交媒体上的COVID-19：趋势，情感和情绪 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/yvlgJRfXYPvHhMjdothKbA)

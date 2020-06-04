@@ -603,3 +603,6 @@
 - [新冠全球大流行，GIS空间分析如何助力流行病防控？](https://mp.weixin.qq.com/s/7jFLuwYfwPtTNU1M0qdnXA)
 - [【存照】减少空气污染，有助于应对第二波病毒感染高峰](https://mp.weixin.qq.com/s/w1U2xZLpA5ELpEwEAXX3jw)
 - [Cut air pollution to help avoid second coronavirus peak, MPs urge](https://www.theguardian.com/environment/2020/may/29/cut-air-pollution-avoid-second-coronavirus-peak-mps-urge)
+- [为什么疫情期间科学家Paper发少了？在家带娃才是主要原因](https://mp.weixin.qq.com/s/_trEQ-sWbzKYMnnNpHj1fA)
+- [Quantifying the Immediate Effects of the COVID-19 Pandemic on Scientists](https://arxiv.org/abs/2005.11358)
+- [COVID-19 lockdowns cause global air pollution declines with implications for public health risk](https://www.medrxiv.org/content/10.1101/2020.04.10.20060673v1)

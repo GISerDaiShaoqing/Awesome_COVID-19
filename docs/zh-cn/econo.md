@@ -396,3 +396,6 @@
 - [Global supply-chain effects of COVID-19 control measures](https://www.nature.com/articles/s41562-020-0896-8)
 - [【联合国人居署信息】供水和卫生行业经营者在对抗新冠肺炎疫情的战役中能做些什么](https://mp.weixin.qq.com/s/UVUx3eUY3qjxqiSSoKaxCw)
 - [封锁措施对全球供应链的影响 |《自然-人类行为》论文](https://mp.weixin.qq.com/s/Fgj1ekdChTHgE9pVE81Drg)
+- [资讯 | 构建强大的公共卫生体系，将健康融入城市规划、建设、管理全过程](https://mp.weixin.qq.com/s/fC_istHomyK0DIZHiZCQbg)
+- [来“春晖杯”在线访谈，为你剖析后疫情时代创业的“危”与“机”](https://mp.weixin.qq.com/s/uRcWeCKb5NQlIPTes7Yd6Q)
+- [学术前沿 | 从新冠肺炎事件反思规划理论体系变革](https://mp.weixin.qq.com/s/08hpplUpBcZEKyOvkv4cbA)

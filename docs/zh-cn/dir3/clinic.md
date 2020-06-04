@@ -621,3 +621,5 @@
 - [JAMA争鸣 | 结果无效：随机对照试验，刘忠等发现输注恢复期患者血浆不能改善COVID-19重症/危重患者临床症状](https://mp.weixin.qq.com/s/RyKz3O8iHxVsrLLSWIFVEw)
 - [Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19，A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2766943)
 - [Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma](https://jamanetwork.com/journals/jama/fullarticle/2763983)
+- [最新研究 | SARS-CoV-2感染者术后发生肺部并发症的风险较高](https://mp.weixin.qq.com/s/DPhTy4DjMvZUaccv7Qp-2A)
+- [Mortality and pulmonary complications in patients undergoing surgery with perioperative SARS-CoV-2 infection: an international cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31182-X/fulltext)

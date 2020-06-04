@@ -2065,3 +2065,4 @@
 - [“奖励+熔断”，民航局发通知调整了](https://mp.weixin.qq.com/s/WuoeMtNydwtzr53rUp6Mog)
 - [疫情政治化，美国冲突混乱；美国科学促进会CEO致函会员：谨记原则，坚守使命](https://mp.weixin.qq.com/s/bhEb5cSrxmC0mrlUwOk3HQ)
 - [低风险≠没有风险！夏天可以脱口罩了吗？厦门专家提醒→→](https://mp.weixin.qq.com/s/jhP1uXJzaV2UzQeRKdJmbQ)
+- [美方暂停往返中国民航航班，外交部回应](https://mp.weixin.qq.com/s/bdwB6rk1r8BNZRdLQfgcdA)
