@@ -506,3 +506,7 @@
 - [新冠肺炎疫情期间 儿童青少年营养健康指导建议](https://mp.weixin.qq.com/s/wE65G5Gq13o9DH4BFsm2Fg)
 - [新冠肺炎与痰液管理专题（上篇）](https://mp.weixin.qq.com/s/n1Q-jCRRbzmp0AuYcd_XKA)
 - [韩启德院士：疫情呼唤加强科学文化建设](https://mp.weixin.qq.com/s/6foKi6LBCoY9Twx_QUqNqg)
+- [压力太大，或能引发胃溃疡；跑步10分钟，健康效果立竿见影；钟南山团队研究表明氯喹治疗COVID-19有效｜领研网24小时热门论文](https://mp.weixin.qq.com/s/OksDuo9n2ItdyjCKDHJfBQ)
+- [6 月 3 日我国新增确诊病例 1 例｜科研圈日报](https://mp.weixin.qq.com/s/w-8KjbYT6LBo_m-exTGDSQ)
+- [“COVID-19”科研动态监测每日快报（6月3日）【中国科讯】](https://mp.weixin.qq.com/s/iPnbG3c7JtTotE02g4tP-Q)
+- [新冠肺炎与痰液管理专题（下篇）](https://mp.weixin.qq.com/s/tU6nydgDi7xf2X0JZiQd8g)

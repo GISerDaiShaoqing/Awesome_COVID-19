@@ -601,3 +601,5 @@
 - [气候条件与新型冠状病毒肺炎（COVID-19）传播：估计与预测](https://projects.iq.harvard.edu/covid19/abstract-chinese)
 - [The Modest Impact of Weather and Air Pollution on COVID-19 Transmission](https://projects.iq.harvard.edu/files/covid19/files/weather_and_covid-19_preprint.pdf)
 - [新冠全球大流行，GIS空间分析如何助力流行病防控？](https://mp.weixin.qq.com/s/7jFLuwYfwPtTNU1M0qdnXA)
+- [【存照】减少空气污染，有助于应对第二波病毒感染高峰](https://mp.weixin.qq.com/s/w1U2xZLpA5ELpEwEAXX3jw)
+- [Cut air pollution to help avoid second coronavirus peak, MPs urge](https://www.theguardian.com/environment/2020/may/29/cut-air-pollution-avoid-second-coronavirus-peak-mps-urge)

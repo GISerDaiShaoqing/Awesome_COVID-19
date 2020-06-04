@@ -618,3 +618,6 @@
 - [France bans use of hydroxychloroquine, drug touted by Trump, in coronavirus patients](https://www.cbsnews.com/news/france-bans-use-of-hydroxychloroquine-drug-touted-by-trump-to-treat-coronavirus/)
 - [Scientists Question Validity of Major Hydroxychloroquine Study](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
 - [Hydroxychloroquine: a drug dividing the world](https://www.macaubusiness.com/hydroxychloroquine-a-drug-dividing-the-world/)
+- [JAMA争鸣 | 结果无效：随机对照试验，刘忠等发现输注恢复期患者血浆不能改善COVID-19重症/危重患者临床症状](https://mp.weixin.qq.com/s/RyKz3O8iHxVsrLLSWIFVEw)
+- [Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19，A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2766943)
+- [Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma](https://jamanetwork.com/journals/jama/fullarticle/2763983)

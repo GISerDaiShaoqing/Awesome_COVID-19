@@ -394,3 +394,5 @@
 - [疫情防控常态化下社区治理提升的难点及思考](https://mp.weixin.qq.com/s/aYWW3hWMtbujUNYasY3_TQ)
 - [CEADs研究：全球疫情控制政策对经济影响的评估](https://mp.weixin.qq.com/s/1HxddpoWnA2X_tJszzI9yw)
 - [Global supply-chain effects of COVID-19 control measures](https://www.nature.com/articles/s41562-020-0896-8)
+- [【联合国人居署信息】供水和卫生行业经营者在对抗新冠肺炎疫情的战役中能做些什么](https://mp.weixin.qq.com/s/UVUx3eUY3qjxqiSSoKaxCw)
+- [封锁措施对全球供应链的影响 |《自然-人类行为》论文](https://mp.weixin.qq.com/s/Fgj1ekdChTHgE9pVE81Drg)
