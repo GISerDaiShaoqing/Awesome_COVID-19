@@ -606,3 +606,8 @@
 - [为什么疫情期间科学家Paper发少了？在家带娃才是主要原因](https://mp.weixin.qq.com/s/_trEQ-sWbzKYMnnNpHj1fA)
 - [Quantifying the Immediate Effects of the COVID-19 Pandemic on Scientists](https://arxiv.org/abs/2005.11358)
 - [COVID-19 lockdowns cause global air pollution declines with implications for public health risk](https://www.medrxiv.org/content/10.1101/2020.04.10.20060673v1)
+- [评估解除封锁后的社交疏远策略 | 《自然-人类行为》论文](https://mp.weixin.qq.com/s/UO0s_aMVybzNa5tv5VCm0g)
+- [Social network-based distancing strategies to flatten the COVID-19 curve in a post-lockdown world](https://www.nature.com/articles/s41562-020-0898-6)
+- [Lancet | 高福等团队系统介绍中国的防疫经验，帮助全球共同抗击新冠肺炎](https://mp.weixin.qq.com/s/382EOW9HOoajUH1360dcLQ)
+- [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
+- [疫情隔离期间，天变蓝了，为什么臭氧污染反而更严重了？](https://mp.weixin.qq.com/s/6MW8B8UeLGHveHihW1TpLQ)

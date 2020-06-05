@@ -623,3 +623,5 @@
 - [Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma](https://jamanetwork.com/journals/jama/fullarticle/2763983)
 - [最新研究 | SARS-CoV-2感染者术后发生肺部并发症的风险较高](https://mp.weixin.qq.com/s/DPhTy4DjMvZUaccv7Qp-2A)
 - [Mortality and pulmonary complications in patients undergoing surgery with perioperative SARS-CoV-2 infection: an international cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31182-X/fulltext)
+- [震惊 | 新冠数据涉嫌胡编乱造，顶级期刊Lancet及NEJM文章被撤稿，后期会撤更多的文章](https://mp.weixin.qq.com/s/S8wuDfrf5EKKg2-bx3aD1A)
+- [NEJM|羟氯喹未能防止Covid-19密切接触者出现症状或病情进展](https://mp.weixin.qq.com/s/39P0TwHjQYCgPpUY9zwdgg)

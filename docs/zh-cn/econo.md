@@ -399,3 +399,7 @@
 - [资讯 | 构建强大的公共卫生体系，将健康融入城市规划、建设、管理全过程](https://mp.weixin.qq.com/s/fC_istHomyK0DIZHiZCQbg)
 - [来“春晖杯”在线访谈，为你剖析后疫情时代创业的“危”与“机”](https://mp.weixin.qq.com/s/uRcWeCKb5NQlIPTes7Yd6Q)
 - [学术前沿 | 从新冠肺炎事件反思规划理论体系变革](https://mp.weixin.qq.com/s/08hpplUpBcZEKyOvkv4cbA)
+- [国际资讯 | [澳]居家隔离引发社区规划思考/珀斯的城市公共艺术(2020.6)](https://mp.weixin.qq.com/s/LvbGVNCF58bHnXWLTxHVwg)
+- [【观点】疫情不会终结全球化，但全球价值链重组不可避免](https://mp.weixin.qq.com/s/JBJVi71kvIlHMl1ZfPcrMg)
+- [Lessons from China: This is how COVID-19 could affect globalization](https://www.weforum.org/agenda/2020/05/coronavirus-globalisation-shakeup-is-inevitable)
+- [后疫情时期制造业现状及机遇丨「数字化交付打造质量品牌」苏州地区研讨会欢迎莅临](https://mp.weixin.qq.com/s/tmWD0qI48YDXyBuObRb78A)

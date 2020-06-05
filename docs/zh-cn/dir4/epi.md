@@ -247,3 +247,4 @@
 - [NEJM重大发现 | 在确诊的新冠肺炎患者中，黑人超过70%](https://mp.weixin.qq.com/s/XJW5G1lFnxrMQODqq1Zg_w)
 - [Hospitalization and Mortality among Black Patients and White Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMsa2011686?query=featured_home)
 - [This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.](https://github.com/mrc-ide/covid-sim)
+- [精品案例 | 全国新型冠状病毒（COVID-19）疫情预测分析](https://mp.weixin.qq.com/s/DktoBtJpeZe2V0WEI7kyfQ)
