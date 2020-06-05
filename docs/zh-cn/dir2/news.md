@@ -2083,3 +2083,5 @@
 - [清零了！](https://mp.weixin.qq.com/s/_Txu_I3YLIytfRWmFPyDSg)
 - [湖北清零](https://mp.weixin.qq.com/s/RfT7a_Ts5Dj2ukFt1ZKPng)
 - [厦门通报新增境外输入无症状感染者详情！密切接触者57人均已隔离](https://mp.weixin.qq.com/s/sF7Ur_uAO4l_nJC8Z_GcNQ)
+- [北京、河北防控再调降](https://mp.weixin.qq.com/s/PrTWoEJ84wkMCcoVOO7BOw)
+- [北京明确户外可以不戴口罩；苏宁内测“练摊儿”小程序 | TGO 每日速递](https://mp.weixin.qq.com/s/9lQ5521X3Jxms1Px3wM_KQ)

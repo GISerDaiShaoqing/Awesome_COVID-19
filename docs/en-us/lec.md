@@ -179,3 +179,4 @@
 - [【GeoScience Café 第257期】人类活动对地表温度的影响——以城市化和灌溉为例 | 新冠肺炎之珞珈山战役——武汉大学临床救治工作与科研成果介绍](https://mp.weixin.qq.com/s/Y9q_dHX3ZTRuvG0RLp5Sqw)
 - [今晚8点线上会：冠状病毒和发病机理 | 新冠大挑战 向科学要答案](https://mp.weixin.qq.com/s/hMCbx_Fj6fk2RyKc6NN9DQ)
 - [耶鲁大学报告|张和平教授：疫情期间经济复苏的时间和风险评估](https://mp.weixin.qq.com/s/eZ4huH43_oHqDocFAtKaBw)
+- [视频 | 国际视角下的COVID-19和它为美国医疗卫生带来的深远影响](https://mp.weixin.qq.com/s/x42etnN018N_s_PO33B3xA)

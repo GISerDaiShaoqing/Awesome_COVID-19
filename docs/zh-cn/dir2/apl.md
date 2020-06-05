@@ -521,3 +521,5 @@
 - [两大医学顶刊同时撤稿新冠药物论文：两项临床研究均无法提供原始数据 | 科研圈日报](https://mp.weixin.qq.com/s/4DUk2dieUxh5SayIif82Kg)
 - [吸烟患者体内，新冠病毒受体表达水平更高｜领研网24小时热门论文](https://mp.weixin.qq.com/s/929it_-s0ONFjVf31bos7A)
 - [中科院大健康领域15个院地合作项目落户武汉](http://news.sciencenet.cn/htmlnews/2020/6/440983.shtm)
+- [中华医学会系列杂志纳入世卫组织COVID-19数据库与全球分享抗疫经验](https://mp.weixin.qq.com/s/I_7Gypl13wMX7rgcA6eRxw)
+- [开学复课！中小学校防控新冠肺炎疫情要做好这些事](https://mp.weixin.qq.com/s/cY_OcjmdLU8JvoZOpbHH_w)

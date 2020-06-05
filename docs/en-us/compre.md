@@ -612,3 +612,4 @@
 - [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
 - [疫情隔离期间，天变蓝了，为什么臭氧污染反而更严重了？](https://mp.weixin.qq.com/s/6MW8B8UeLGHveHihW1TpLQ)
 - [Quality of primary health care in China: challenges and recommendations](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30122-7/fulltext#tables)
+- [Abrupt declines in tropospheric nitrogen dioxide over China after the outbreak of COVID-19](https://arxiv.org/abs/2004.06542)

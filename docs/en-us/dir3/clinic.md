@@ -625,3 +625,6 @@
 - [Mortality and pulmonary complications in patients undergoing surgery with perioperative SARS-CoV-2 infection: an international cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31182-X/fulltext)
 - [震惊 | 新冠数据涉嫌胡编乱造，顶级期刊Lancet及NEJM文章被撤稿，后期会撤更多的文章](https://mp.weixin.qq.com/s/S8wuDfrf5EKKg2-bx3aD1A)
 - [NEJM|羟氯喹未能防止Covid-19密切接触者出现症状或病情进展](https://mp.weixin.qq.com/s/39P0TwHjQYCgPpUY9zwdgg)
+- [郭天南团队：新冠重症患者血清中多种独特的分子调控 | CellPress对话科学家](https://mp.weixin.qq.com/s/9HxvGUUm5W-mIyqu9AVMRA)
+- [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9)
+- [疫情以来首个科研丑闻调查！两大医学顶刊撤稿，WHO被误导](https://mp.weixin.qq.com/s/KqvX-UDyyqBRpM7hKkdNoQ)
