@@ -611,3 +611,4 @@
 - [Lancet | 高福等团队系统介绍中国的防疫经验，帮助全球共同抗击新冠肺炎](https://mp.weixin.qq.com/s/382EOW9HOoajUH1360dcLQ)
 - [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
 - [疫情隔离期间，天变蓝了，为什么臭氧污染反而更严重了？](https://mp.weixin.qq.com/s/6MW8B8UeLGHveHihW1TpLQ)
+- [Quality of primary health care in China: challenges and recommendations](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30122-7/fulltext#tables)
