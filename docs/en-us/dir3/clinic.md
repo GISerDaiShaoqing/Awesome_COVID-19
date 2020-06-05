@@ -628,3 +628,4 @@
 - [郭天南团队：新冠重症患者血清中多种独特的分子调控 | CellPress对话科学家](https://mp.weixin.qq.com/s/9HxvGUUm5W-mIyqu9AVMRA)
 - [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9)
 - [疫情以来首个科研丑闻调查！两大医学顶刊撤稿，WHO被误导](https://mp.weixin.qq.com/s/KqvX-UDyyqBRpM7hKkdNoQ)
+- [学术丑闻：炮制数据致多篇重磅新冠研究被撤！顶刊编辑被解雇，期刊陷入信任危机](https://mp.weixin.qq.com/s/m3ahXZHPrf-shAIve1RQ7w)
