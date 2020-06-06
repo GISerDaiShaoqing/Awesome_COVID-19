@@ -403,3 +403,4 @@
 - [【观点】疫情不会终结全球化，但全球价值链重组不可避免](https://mp.weixin.qq.com/s/JBJVi71kvIlHMl1ZfPcrMg)
 - [Lessons from China: This is how COVID-19 could affect globalization](https://www.weforum.org/agenda/2020/05/coronavirus-globalisation-shakeup-is-inevitable)
 - [后疫情时期制造业现状及机遇丨「数字化交付打造质量品牌」苏州地区研讨会欢迎莅临](https://mp.weixin.qq.com/s/tmWD0qI48YDXyBuObRb78A)
+- [Spatio-temporal analysis on epidemic versus economic performances of COVID-19 lockdown](https://www.researchgate.net/publication/341909334_Spatio-temporal_analysis_on_epidemic_versus_economic_performances_of_COVID-19_lockdown)

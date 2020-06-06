@@ -616,3 +616,7 @@
 - [【研究】疫情之下的美国：催泪瓦斯可能加速病毒蔓延](https://mp.weixin.qq.com/s/KSxbjA8XwPWGRayZp7e_zQ)
 - [Tear gas and coronavirus are ‘a recipe for disaster,’ experts warn](https://grist.org/justice/tear-gas-and-coronavirus-are-a-recipe-for-disaster-experts-warn/)
 - [应对新冠，16国在卫生与医疗领域做了这些事【中国科讯】](https://mp.weixin.qq.com/s/1gS5Zad29zj-NS6Fj4N5uw)
+- [旅行受限、合作紧缩，Nature刊文忧虑跨国学术交流大退潮](https://mp.weixin.qq.com/s/PTu_rl8LPP8EJtYnE-ShuA)
+- [3S战“疫”—COVID-19专栏](http://ch.whu.edu.cn/topic?id=eb905eea-05ca-4c3f-a872-213487b19b59)
+- [基于时空位置大数据的公共疫情防控服务让城市更智慧](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20200145)
+- [3S战“疫”｜中国数字化公共卫生应急管理体系建设的科技策略建议](https://mp.weixin.qq.com/s?__biz=MzA5MDcyMzA5OA==&mid=2650386921&idx=1&sn=39a424b84490a800a7550d412d3257c9&chksm=880a579cbf7dde8a931563d5454982703f3d7d9b8c2a59d7e13d98ad3571d3d3aed9c64b275a&token=461504668&lang=zh_CN#rd)

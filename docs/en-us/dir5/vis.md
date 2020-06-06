@@ -182,3 +182,4 @@
 - [an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries](https://github.com/stevenliuyi/covid19)
 - [Interactive dashboard for real-time recording of COVID-19 outbreak in Japan](https://github.com/swsoyee/2019-ncov-japan)
 - [保持社交距离？路够宽吗？地图告诉你！](https://mp.weixin.qq.com/s/BYIf-ijs9-PcI1bymI3tBg)
+- [Mapping county-level mobility pattern changes in the United States in response to COVID-19](https://dl.acm.org/doi/10.1145/3404111.3404115)

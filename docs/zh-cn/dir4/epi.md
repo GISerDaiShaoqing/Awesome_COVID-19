@@ -250,3 +250,5 @@
 - [精品案例 | 全国新型冠状病毒（COVID-19）疫情预测分析](https://mp.weixin.qq.com/s/DktoBtJpeZe2V0WEI7kyfQ)
 - [重大进展 | 中国多单位合作，最大规模的新冠肺炎感染率出炉：武汉地区新冠血清阳性率大于3%](https://mp.weixin.qq.com/s/FFVN6a_f_GV_gLmhcfxk4A)
 - [Seroprevalence of immunoglobulin M and G antibodies against SARS-CoV-2 in China](https://www.nature.com/articles/s41591-020-0949-6)
+- [3S战“疫”｜利用手机数据进行新冠疫情时空扩散推估](https://mp.weixin.qq.com/s?__biz=MzA5MDcyMzA5OA==&mid=2650386885&idx=1&sn=b31615561b47f4e7c5190eb344ee1643&chksm=880a57b0bf7ddea617a50c752a22b558cb57e70e55f5cd7e087b0d7749205895490efbf03811&token=461504668&lang=zh_CN#rd)
+- [3S战“疫”｜多阶段动态时滞动力学模型的COVID⁃19 传播分析](https://mp.weixin.qq.com/s?__biz=MzA5MDcyMzA5OA==&mid=2650386921&idx=2&sn=cacf748c8b26b9475a7ad3a306b5760c&chksm=880a579cbf7dde8af59e5c711454f18b43b31b7ec0f234786dfebce08dce3e10f39e7905b061&token=461504668&lang=zh_CN#rd)

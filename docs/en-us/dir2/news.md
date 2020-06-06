@@ -2096,3 +2096,7 @@
 - [中国人切勿前往！文旅部发布警告](https://mp.weixin.qq.com/s/j3m4iwAMGHOp0h5cIzT8bg)
 - [广东+3，境外输入](https://mp.weixin.qq.com/s/sQOFvarCpjUi5GeoZLGM-A)
 - [美媒：美国取消禁止中国航空公司飞往美国的计划](https://mp.weixin.qq.com/s/BLqoi6yMaYfyQT7ihxpghg)
+- [福建核酸检测，再降价！](https://mp.weixin.qq.com/s/G8sWwfVijvVC7dwcxbxN-g)
+- [厦门发布公告！6月8日起，统一使用“八闽健康码”](https://mp.weixin.qq.com/s/bGb0NkCU7xCoMOrY7HvwMA)
+- [巴西也威胁要退出WHO](https://mp.weixin.qq.com/s/kndrn5nq0Z5b2Sc7H-j0bA)
+- [荷兰今日新增确诊183人，气温不稳更应注意预防感冒！](https://mp.weixin.qq.com/s/oL7mI9_q_Pqdar_L1quhzw)
