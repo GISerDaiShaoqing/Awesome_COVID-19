@@ -613,3 +613,6 @@
 - [疫情隔离期间，天变蓝了，为什么臭氧污染反而更严重了？](https://mp.weixin.qq.com/s/6MW8B8UeLGHveHihW1TpLQ)
 - [Quality of primary health care in China: challenges and recommendations](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30122-7/fulltext#tables)
 - [Abrupt declines in tropospheric nitrogen dioxide over China after the outbreak of COVID-19](https://arxiv.org/abs/2004.06542)
+- [【研究】疫情之下的美国：催泪瓦斯可能加速病毒蔓延](https://mp.weixin.qq.com/s/KSxbjA8XwPWGRayZp7e_zQ)
+- [Tear gas and coronavirus are ‘a recipe for disaster,’ experts warn](https://grist.org/justice/tear-gas-and-coronavirus-are-a-recipe-for-disaster-experts-warn/)
+- [应对新冠，16国在卫生与医疗领域做了这些事【中国科讯】](https://mp.weixin.qq.com/s/1gS5Zad29zj-NS6Fj4N5uw)

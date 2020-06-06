@@ -248,3 +248,5 @@
 - [Hospitalization and Mortality among Black Patients and White Patients with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMsa2011686?query=featured_home)
 - [This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.](https://github.com/mrc-ide/covid-sim)
 - [精品案例 | 全国新型冠状病毒（COVID-19）疫情预测分析](https://mp.weixin.qq.com/s/DktoBtJpeZe2V0WEI7kyfQ)
+- [重大进展 | 中国多单位合作，最大规模的新冠肺炎感染率出炉：武汉地区新冠血清阳性率大于3%](https://mp.weixin.qq.com/s/FFVN6a_f_GV_gLmhcfxk4A)
+- [Seroprevalence of immunoglobulin M and G antibodies against SARS-CoV-2 in China](https://www.nature.com/articles/s41591-020-0949-6)

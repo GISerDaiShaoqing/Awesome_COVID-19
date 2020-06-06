@@ -175,3 +175,4 @@
 - [A repo for sharing language resources related to the outbreak (in machine readable format)](https://github.com/neulab/covid19-datashare)
 - [Extracting COVID-19 Events from Twitter](https://arxiv.org/abs/2006.02567)
 - [This repo contains the annotated corpus and code for paper ``Extracting COVID-19 Events from Twitter"](https://github.com/viczong/extract_COVID19_events_from_Twitter)
+- [2019年新型冠状病毒疫情数据 API](http://ncov.mapplus.cn/api)
