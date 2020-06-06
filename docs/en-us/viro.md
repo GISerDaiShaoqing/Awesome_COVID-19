@@ -377,3 +377,5 @@
 - [科学家发现抗新冠全人源纳米抗体](http://news.sciencenet.cn/htmlnews/2020/5/440515.shtm)
 - [Identification of Human Single-Domain Antibodies against SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S193131282030250X?via%3Dihub)
 - [冠状病毒疫苗已经用了80年，有了它才有便宜的炸鸡和炒蛋](https://mp.weixin.qq.com/s/wK6m2nLk4hDuMKCAKQLbxw)
+- [4篇Cell等连发 | 高福与秦川等团队联手合作，首次开发灭活的新冠病毒疫苗，动物试验有效：对新冠病毒的感染有保护作用](https://mp.weixin.qq.com/s/m3HwZlhLOyViqKyX1ex49w)
+- [Development of an inactivated vaccine candidate, BBIBP-CorV, with potent protection against SARS-CoV-2](https://www.cell.com/cell/fulltext/S0092-8674(20)30695-4)

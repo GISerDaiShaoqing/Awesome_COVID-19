@@ -2100,3 +2100,5 @@
 - [厦门发布公告！6月8日起，统一使用“八闽健康码”](https://mp.weixin.qq.com/s/bGb0NkCU7xCoMOrY7HvwMA)
 - [巴西也威胁要退出WHO](https://mp.weixin.qq.com/s/kndrn5nq0Z5b2Sc7H-j0bA)
 - [荷兰今日新增确诊183人，气温不稳更应注意预防感冒！](https://mp.weixin.qq.com/s/oL7mI9_q_Pqdar_L1quhzw)
+- [陈薇团队研制的新冠疫苗有望在贵州投产](https://mp.weixin.qq.com/s/L2f3Mjd8lUD-4ggJpTvPNQ)
+- [天津新增1例境外输入，从美国休斯敦回国](https://mp.weixin.qq.com/s/tO9MZBrMf9WEEKTWNq9mwg)
