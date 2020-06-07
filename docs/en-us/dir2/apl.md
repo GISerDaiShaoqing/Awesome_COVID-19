@@ -527,3 +527,5 @@
 - [“COVID-19”科研动态监测每日快报（6月5日）【中国科讯】](https://mp.weixin.qq.com/s/ssN_B-uznlzQwXK2d2F_TA)
 - [COVID-19：重新开放时的社交媒体情绪分析 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/JjsCwbR_8zABPw7gwsV9og)
 - [“COVID-19”科研动态监测每日快报（6月6日）【中国科讯】](https://mp.weixin.qq.com/s/dGe3TRQ-CQXTg3NJzgtAnw)
+- [SARS-CoV-2缓解措施的财政和死亡率影响平衡 | 网络科学论文速递22篇](https://mp.weixin.qq.com/s/Mer59Btw5NyXWEg2nM4ijg)
+- [​武汉近990万人核酸检测结果：无症状感染者300名，未发现确诊病例；地摊经济如何拯救贫民？｜ 本周值得读· 科研生涯](https://mp.weixin.qq.com/s/8rpwAX8f0vT6CRabP_q8zQ)

@@ -176,3 +176,4 @@
 - [Extracting COVID-19 Events from Twitter](https://arxiv.org/abs/2006.02567)
 - [This repo contains the annotated corpus and code for paper ``Extracting COVID-19 Events from Twitter"](https://github.com/viczong/extract_COVID19_events_from_Twitter)
 - [2019年新型冠状病毒疫情数据 API](http://ncov.mapplus.cn/api)
+- [巴西政府大量删除疫情数据](https://mp.weixin.qq.com/s/iPEGT59WFJRVujNnN2aeWQ)
