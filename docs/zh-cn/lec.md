@@ -182,3 +182,5 @@
 - [视频 | 国际视角下的COVID-19和它为美国医疗卫生带来的深远影响](https://mp.weixin.qq.com/s/x42etnN018N_s_PO33B3xA)
 - [【直播实录】病毒学家王林发：盘点近25年来，“超级病毒”为何多数源于蝙蝠？李文辉、石正丽、苏立山等专家齐发问](https://mp.weixin.qq.com/s/rbe7saW6EaRJXxQYZji91w)
 - [北京大学陈宝权：科学思维是对抗疫情的最佳利器 | YEF 专栏](https://mp.weixin.qq.com/s/btsXKpwbrbdSvQbtrdRSdw)
+- [6月10日直播：新冠肺炎感染多学科讨论](https://mp.weixin.qq.com/s/kqIMbe8ny4xYQZb914BMrQ)
+- [【抗疫超声在线】6月8日：COVID-2019 ，掌超桡动脉穿刺](https://mp.weixin.qq.com/s/PPbEdK_3UOY4wmQoLSFl7Q)

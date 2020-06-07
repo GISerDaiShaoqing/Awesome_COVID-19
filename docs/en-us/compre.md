@@ -620,3 +620,5 @@
 - [3S战“疫”—COVID-19专栏](http://ch.whu.edu.cn/topic?id=eb905eea-05ca-4c3f-a872-213487b19b59)
 - [基于时空位置大数据的公共疫情防控服务让城市更智慧](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20200145)
 - [3S战“疫”｜中国数字化公共卫生应急管理体系建设的科技策略建议](https://mp.weixin.qq.com/s?__biz=MzA5MDcyMzA5OA==&mid=2650386921&idx=1&sn=39a424b84490a800a7550d412d3257c9&chksm=880a579cbf7dde8a931563d5454982703f3d7d9b8c2a59d7e13d98ad3571d3d3aed9c64b275a&token=461504668&lang=zh_CN#rd)
+- [【观点】为什么非洲疫情相对较轻？三个因素：天热、年轻、卡介苗](https://mp.weixin.qq.com/s/EUrGwFPDXOSjTOuDZRdwpA)
+- [COVID-19's Spread: A Continental Disparity](https://www.statista.com/chart/21839/reported-covid-19-cases-by-who-region/)

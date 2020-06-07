@@ -526,3 +526,4 @@
 - [喝咖啡或有助于女性减肥；疫情期间发论文变少了，在家带娃是主要原因？人类肿瘤里发现大量细菌 | 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/b89K3oy4a-0fJpjkQyB35Q)
 - [“COVID-19”科研动态监测每日快报（6月5日）【中国科讯】](https://mp.weixin.qq.com/s/ssN_B-uznlzQwXK2d2F_TA)
 - [COVID-19：重新开放时的社交媒体情绪分析 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/JjsCwbR_8zABPw7gwsV9og)
+- [“COVID-19”科研动态监测每日快报（6月6日）【中国科讯】](https://mp.weixin.qq.com/s/dGe3TRQ-CQXTg3NJzgtAnw)
