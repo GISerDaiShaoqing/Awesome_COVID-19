@@ -70,3 +70,4 @@
 - [“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](https://github.com/huanghuidmml/epidemicTextMatch)
 - [How I built a Face Mask Detector for COVID-19 using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 - [独家 | COVID-19：利用Opencv, Keras/Tensorflow和深度学习进行口罩检测](https://mp.weixin.qq.com/s/HFHBPMhYaoSnA9bU_MMpKQ)
+- [Truck Detection with Sentinel-2 during COVID-19 crisis](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19)
