@@ -404,3 +404,4 @@
 - [Lessons from China: This is how COVID-19 could affect globalization](https://www.weforum.org/agenda/2020/05/coronavirus-globalisation-shakeup-is-inevitable)
 - [后疫情时期制造业现状及机遇丨「数字化交付打造质量品牌」苏州地区研讨会欢迎莅临](https://mp.weixin.qq.com/s/tmWD0qI48YDXyBuObRb78A)
 - [Spatio-temporal analysis on epidemic versus economic performances of COVID-19 lockdown](https://www.researchgate.net/publication/341909334_Spatio-temporal_analysis_on_epidemic_versus_economic_performances_of_COVID-19_lockdown)
+- [全球城市观察︱远程办公成趋势，人们会逃离昂贵的旧金山吗](https://mp.weixin.qq.com/s/K4UMk1z0NkaW5dbGCaIUPQ)

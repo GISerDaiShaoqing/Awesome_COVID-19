@@ -529,3 +529,6 @@
 - [“COVID-19”科研动态监测每日快报（6月6日）【中国科讯】](https://mp.weixin.qq.com/s/dGe3TRQ-CQXTg3NJzgtAnw)
 - [SARS-CoV-2缓解措施的财政和死亡率影响平衡 | 网络科学论文速递22篇](https://mp.weixin.qq.com/s/Mer59Btw5NyXWEg2nM4ijg)
 - [​武汉近990万人核酸检测结果：无症状感染者300名，未发现确诊病例；地摊经济如何拯救贫民？｜ 本周值得读· 科研生涯](https://mp.weixin.qq.com/s/8rpwAX8f0vT6CRabP_q8zQ)
+- [“COVID-19”科研动态监测每日快报（6月7日）【中国科讯】](https://mp.weixin.qq.com/s/1xHzV4M-_FH2_o0eJGR49w)
+- [转基因奶牛可生产新冠病毒多克隆抗体，计划今年夏天开始临床试验｜科研圈日报](https://mp.weixin.qq.com/s/D5e7Q5lLsTSV4-Ww1LfiKw)
+- [习近平主持专家学者座谈会强调 构建起强大的公共卫生体系【一周科学看点2020-06-08丨中国科学院院刊】](https://mp.weixin.qq.com/s/fl7TkaNmxHqu6o-b-kIgXg)

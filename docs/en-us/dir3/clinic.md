@@ -629,3 +629,7 @@
 - [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9)
 - [疫情以来首个科研丑闻调查！两大医学顶刊撤稿，WHO被误导](https://mp.weixin.qq.com/s/KqvX-UDyyqBRpM7hKkdNoQ)
 - [学术丑闻：炮制数据致多篇重磅新冠研究被撤！顶刊编辑被解雇，期刊陷入信任危机](https://mp.weixin.qq.com/s/m3ahXZHPrf-shAIve1RQ7w)
+- [重磅 | 卞修武院士领衔全球最大规模的新冠肺炎尸检报告出炉：新冠病毒可感染睾丸，肺等组织；存在多种病毒传播途径](https://mp.weixin.qq.com/s/vPv_uXLBNdNWiVYJi82m7A)
+- [Autopsy of COVID-19 victims in China](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa123/5854209?searchresult=1)
+- [比测体温更有效？《柳叶刀》称丧失嗅觉是新冠最强指标，优于发烧](https://mp.weixin.qq.com/s/ngvwZjcSbreoy71hLAhgQg)\
+- [Quantifying additional COVID-19 symptoms will save lives](https://www.thelancet.com/journals/lanplh/article/PIIS0140-6736(20)31281-2/fulltext)

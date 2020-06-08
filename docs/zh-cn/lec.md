@@ -184,3 +184,4 @@
 - [北京大学陈宝权：科学思维是对抗疫情的最佳利器 | YEF 专栏](https://mp.weixin.qq.com/s/btsXKpwbrbdSvQbtrdRSdw)
 - [6月10日直播：新冠肺炎感染多学科讨论](https://mp.weixin.qq.com/s/kqIMbe8ny4xYQZb914BMrQ)
 - [【抗疫超声在线】6月8日：COVID-2019 ，掌超桡动脉穿刺](https://mp.weixin.qq.com/s/PPbEdK_3UOY4wmQoLSFl7Q)
+- [直播预告：2020BCL年会，后疫情时代的未来城市（Post-pandemic Cities）](https://mp.weixin.qq.com/s/haqhjq8_aJGM3Ls1a85Xzg)

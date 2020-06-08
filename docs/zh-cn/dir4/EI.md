@@ -58,3 +58,4 @@
 - [Differential Effects of Intervention Timing on COVID-19 Spread in the United States](https://www.medrxiv.org/content/10.1101/2020.05.15.20103655v1)
 - [Growth Rate and Acceleration Analysis of the COVID-19 Pandemic Reveals the Effect of Public Health Measures in Real Time](https://www.frontiersin.org/articles/10.3389/fmed.2020.00247/full)
 - [Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China](https://science.sciencemag.org/content/368/6492/742)
+- [Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China](https://gh.bmj.com/content/5/5/e002794)

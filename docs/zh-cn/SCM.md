@@ -57,5 +57,7 @@
 - [新冠疫情的意象地图 (下) ︱ 野生动物重现城市](https://mp.weixin.qq.com/s/B_Y0ZuQXBKssjRF0SaSA_A)
 - [后疫情时代︱MaaS会成为疫后重振交通市场的救星吗？](https://mp.weixin.qq.com/s/WetE_lHcwADbBFzz9FyEsQ)
 - [疫后的航站楼︱机场为何消亡？（两则）](https://mp.weixin.qq.com/s/8k9L6sCpflKQMoFFSEGyKA)
+- [后疫情时代︱德勤报告：后疫情时代未来交通的四大场景 (上)](https://mp.weixin.qq.com/s/9LIQq_ss6auu8Dpgn4z91w)
+- [后疫情时代︱德勤报告：后疫情时代未来交通的四大场景 (下)](https://mp.weixin.qq.com/s/Z-Um1UJ_gbd854_mfONMMw)
 
 ![](/img/SCM.jpg)
