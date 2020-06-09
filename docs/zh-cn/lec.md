@@ -185,3 +185,6 @@
 - [6月10日直播：新冠肺炎感染多学科讨论](https://mp.weixin.qq.com/s/kqIMbe8ny4xYQZb914BMrQ)
 - [【抗疫超声在线】6月8日：COVID-2019 ，掌超桡动脉穿刺](https://mp.weixin.qq.com/s/PPbEdK_3UOY4wmQoLSFl7Q)
 - [直播预告：2020BCL年会，后疫情时代的未来城市（Post-pandemic Cities）](https://mp.weixin.qq.com/s/haqhjq8_aJGM3Ls1a85Xzg)
+- [YEF2020论坛精彩分享：【抗疫、隐私，如何兼顾？】观点论坛](https://mp.weixin.qq.com/s/ze3V2qIV1dYNZUUpzorFHQ)
+- [在线学术报告 | 周静：基于移动设备SDK脱敏数据的地区人群聚集度与疫情发展的相关研究](https://mp.weixin.qq.com/s/LBtw6-Oudzp5AqncQaKvSg)
+- [直播预告：2020BCL年会，后疫情时代的未来城市（Post-pandemic Cities）](https://mp.weixin.qq.com/s/jPH03SOXTtNKb326HIiMhg)

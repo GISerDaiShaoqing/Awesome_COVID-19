@@ -59,5 +59,6 @@
 - [疫后的航站楼︱机场为何消亡？（两则）](https://mp.weixin.qq.com/s/8k9L6sCpflKQMoFFSEGyKA)
 - [后疫情时代︱德勤报告：后疫情时代未来交通的四大场景 (上)](https://mp.weixin.qq.com/s/9LIQq_ss6auu8Dpgn4z91w)
 - [后疫情时代︱德勤报告：后疫情时代未来交通的四大场景 (下)](https://mp.weixin.qq.com/s/Z-Um1UJ_gbd854_mfONMMw)
+- [预告 | NACTO全球街道应对新冠疫情指南与案例集](https://mp.weixin.qq.com/s/SdNas1nEqFCZPrb0Lffbxg)
 
 ![](/img/SCM.jpg)

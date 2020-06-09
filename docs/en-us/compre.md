@@ -630,3 +630,7 @@
 - [新冠病毒大流行下能源和人工智能技术发展的危机与机遇](https://mp.weixin.qq.com/s/B0hzowTDSEDUty8TQTOwXQ)
 - [Crises and opportunities in terms of energy and AI technologies during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S2666546820300136)
 - [《柳叶刀》最新综述 | 中国基层医疗卫生服务质量：挑战与建议](https://mp.weixin.qq.com/s/cOg-sTXJD1Yvh6DvftmPYA)
+- [疫情之下，留学之路通向何方](https://mp.weixin.qq.com/s/ld6cO4z7HnmDYYCYwZWLmg)
+- [《柳叶刀》：中国基层医疗卫生体系面临挑战和机遇]https://mp.weixin.qq.com/s/EYENlYekB7r0xdrPVog4IA)
+- [Digital Science 发布新冠肺炎科研活动报告](https://mp.weixin.qq.com/s/r5prr2qslKj3nN-yJKt8Tw)
+- [How COVID-19 is Changing Research Culture](https://digitalscience.figshare.com/articles/How_COVID-19_is_Changing_Research_Culture/12383267)

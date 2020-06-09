@@ -532,3 +532,8 @@
 - [“COVID-19”科研动态监测每日快报（6月7日）【中国科讯】](https://mp.weixin.qq.com/s/1xHzV4M-_FH2_o0eJGR49w)
 - [转基因奶牛可生产新冠病毒多克隆抗体，计划今年夏天开始临床试验｜科研圈日报](https://mp.weixin.qq.com/s/D5e7Q5lLsTSV4-Ww1LfiKw)
 - [习近平主持专家学者座谈会强调 构建起强大的公共卫生体系【一周科学看点2020-06-08丨中国科学院院刊】](https://mp.weixin.qq.com/s/fl7TkaNmxHqu6o-b-kIgXg)
+- [【视频】新冠肺炎 幼儿园开学防护篇](https://mp.weixin.qq.com/s/wAyjAqhCbxAakV0AxbJACw)
+- [JAMA发表新冠血浆治疗中国临床试验结果：重症患者康复加快，带来积极信号｜领研网24小时热门论文](https://mp.weixin.qq.com/s/YbjfS4N8Rhf_V6RLzx6ZBg)
+- [王祥喜：为了新冠疫苗研发的加速度｜全国向上向善好青年](https://mp.weixin.qq.com/s/XoLNC3ClZBcNm7Ov9oOTKQ)
+- [“COVID-19”科研动态监测每日快报（6月8日）【中国科讯】](https://mp.weixin.qq.com/s/WxpBLBuvyO15aMjyAtT13w)
+- [武汉市 300 名无症状感染者未检出“活病毒”，没有传染性 | 科研圈日报](https://mp.weixin.qq.com/s/MNqVI2ndhJhl6eBT-IQ_uA)

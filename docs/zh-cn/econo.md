@@ -405,3 +405,5 @@
 - [后疫情时期制造业现状及机遇丨「数字化交付打造质量品牌」苏州地区研讨会欢迎莅临](https://mp.weixin.qq.com/s/tmWD0qI48YDXyBuObRb78A)
 - [Spatio-temporal analysis on epidemic versus economic performances of COVID-19 lockdown](https://www.researchgate.net/publication/341909334_Spatio-temporal_analysis_on_epidemic_versus_economic_performances_of_COVID-19_lockdown)
 - [全球城市观察︱远程办公成趋势，人们会逃离昂贵的旧金山吗](https://mp.weixin.qq.com/s/K4UMk1z0NkaW5dbGCaIUPQ)
+- [估值20亿英镑后，英国Fintech新贵的疫情自救故事](https://mp.weixin.qq.com/s/g_7EbdkcIgQCzeCgiOEkwg)
+- [阿里云张建锋：经此一“疫”，原本要3到5年的数字化，将在1年加速完成](https://mp.weixin.qq.com/s/oOwUEpvP3uXWBzKaH7yj4Q)
