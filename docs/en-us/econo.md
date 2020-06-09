@@ -407,3 +407,4 @@
 - [全球城市观察︱远程办公成趋势，人们会逃离昂贵的旧金山吗](https://mp.weixin.qq.com/s/K4UMk1z0NkaW5dbGCaIUPQ)
 - [估值20亿英镑后，英国Fintech新贵的疫情自救故事](https://mp.weixin.qq.com/s/g_7EbdkcIgQCzeCgiOEkwg)
 - [阿里云张建锋：经此一“疫”，原本要3到5年的数字化，将在1年加速完成](https://mp.weixin.qq.com/s/oOwUEpvP3uXWBzKaH7yj4Q)
+- [【即将截止】#榜样的力量#寻找新冠战“疫”，中国数据智能产业先锋力量丨数据猿公益策划](https://mp.weixin.qq.com/s/Ub7H-KmJgOsR1zmLo5rHoQ)

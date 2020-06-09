@@ -180,3 +180,4 @@
 - [COVID Tracking Data (CSV)](https://github.com/COVID19Tracking/covid-tracking-data)
 - [The Los Angeles Times' independent tally of coronavirus cases in California.](https://github.com/datadesk/california-coronavirus-data)
 - [刚刚，美国确诊超200万！美国CDC、JHU在用的疫情数据库，来自这个武汉姑娘的华人团队](https://mp.weixin.qq.com/s/rtTUT9TlAEaVci12KvsznA)
+- [COVID-19 India Datasets by DataMeet](https://github.com/datameet/covid19)

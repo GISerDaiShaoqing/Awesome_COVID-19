@@ -633,3 +633,4 @@
 - [Autopsy of COVID-19 victims in China](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa123/5854209?searchresult=1)
 - [比测体温更有效？《柳叶刀》称丧失嗅觉是新冠最强指标，优于发烧](https://mp.weixin.qq.com/s/ngvwZjcSbreoy71hLAhgQg)\
 - [Quantifying additional COVID-19 symptoms will save lives](https://www.thelancet.com/journals/lanplh/article/PIIS0140-6736(20)31281-2/fulltext)
+- [Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2](https://www.nature.com/articles/s41586-020-2423-5)
