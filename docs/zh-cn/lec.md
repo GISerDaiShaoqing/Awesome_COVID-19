@@ -188,3 +188,4 @@
 - [YEF2020论坛精彩分享：【抗疫、隐私，如何兼顾？】观点论坛](https://mp.weixin.qq.com/s/ze3V2qIV1dYNZUUpzorFHQ)
 - [在线学术报告 | 周静：基于移动设备SDK脱敏数据的地区人群聚集度与疫情发展的相关研究](https://mp.weixin.qq.com/s/LBtw6-Oudzp5AqncQaKvSg)
 - [直播预告：2020BCL年会，后疫情时代的未来城市（Post-pandemic Cities）](https://mp.weixin.qq.com/s/jPH03SOXTtNKb326HIiMhg)
+- [Science科研主编上阵主持：新冠病毒结构与药物研发｜线上会](https://mp.weixin.qq.com/s/kjHwN_lNp6L3SlPo_I4edg)

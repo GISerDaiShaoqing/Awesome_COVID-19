@@ -537,3 +537,7 @@
 - [王祥喜：为了新冠疫苗研发的加速度｜全国向上向善好青年](https://mp.weixin.qq.com/s/XoLNC3ClZBcNm7Ov9oOTKQ)
 - [“COVID-19”科研动态监测每日快报（6月8日）【中国科讯】](https://mp.weixin.qq.com/s/WxpBLBuvyO15aMjyAtT13w)
 - [武汉市 300 名无症状感染者未检出“活病毒”，没有传染性 | 科研圈日报](https://mp.weixin.qq.com/s/MNqVI2ndhJhl6eBT-IQ_uA)
+- [“COVID-19”科研动态监测每日快报（6月9日）【中国科讯】](https://mp.weixin.qq.com/s/P_6rlzSgiUGBHq6SVjAiDw)
+- [【在线调查】新型冠状病毒疫苗接种意愿调查](https://mp.weixin.qq.com/s/r1qD4UoE3Z9Nz45l5otDCA)
+- [中国90%大学生近视，主要是因为宅？吃胎盘究竟有没有好处？Science报告显示，纽约新冠主要源于欧洲｜领研网24小时热门论文](https://mp.weixin.qq.com/s/nLOXwWPa4jC1uCy8REIKjw)
+- [6 月 9 日全国报告新增确诊病例 3 例｜科研圈日报](https://mp.weixin.qq.com/s/Q4qyvYeW2XFJ5VKPwAzBAw)

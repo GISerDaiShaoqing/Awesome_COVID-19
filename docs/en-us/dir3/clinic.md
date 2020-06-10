@@ -634,3 +634,8 @@
 - [比测体温更有效？《柳叶刀》称丧失嗅觉是新冠最强指标，优于发烧](https://mp.weixin.qq.com/s/ngvwZjcSbreoy71hLAhgQg)\
 - [Quantifying additional COVID-19 symptoms will save lives](https://www.thelancet.com/journals/lanplh/article/PIIS0140-6736(20)31281-2/fulltext)
 - [Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2](https://www.nature.com/articles/s41586-020-2423-5)
+- [柳叶刀-血液病学 | COVID-19凝血病：一个不断发展的故事](https://mp.weixin.qq.com/s/LIItBUNFMZobyy8d2S6xXg)
+- [COVID-19 coagulopathy: an evolving story](https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(20)30151-4/fulltext)
+- [Science及Nature连发 | 瑞德昔韦治疗新冠肺炎效果显著：早期干预效果更好](https://mp.weixin.qq.com/s/zYx7XK25brckS9644F7UTA)
+- [托珠单抗有可能减轻COVID-19患者的“细胞因子风暴”](https://mp.weixin.qq.com/s/SA0TNIvFX4N6vdcnBc9T4Q)
+- [Tocilizumab Might Attenuate the “Cytokine Storm” in COVID-19 Patients](https://www.jwatch.org/na51506/2020/05/12/tocilizumab-might-attenuate-cytokine-storm-covid-19?query=nejmyxqy)
