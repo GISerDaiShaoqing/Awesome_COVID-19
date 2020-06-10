@@ -2163,3 +2163,6 @@
 - [多部门连发预警，澳大利亚到底发生了什么？](https://mp.weixin.qq.com/s/7o9ejDzEvthYXIk7EJ28Lg)
 - [快讯！6月9日福建新增境外输入无症状感染者1例，来自加纳](https://mp.weixin.qq.com/s/qXXVayMltx49Ig1AG6wlgw)
 - [境外输入无症状感染者，和武汉排查出的300人“含义不同”](https://mp.weixin.qq.com/s/fKo2DXoBUTuFHFpAgBRcDw)
+- [中意两国大规模排查新冠，做法却不同，原来是因为……](https://mp.weixin.qq.com/s/jR8J-U7lrYDFmkiL7x-dHA)
+- [检测8000+检出率仅1.4！又增4农场动物感染，全荷150农场大筛查！](https://mp.weixin.qq.com/s/VNYsKm53GXgw6Yfw9KmaGQ)
+- [多部门连发预警，澳大利亚到底发生了什么](https://mp.weixin.qq.com/s/V2tm3qkFdhZJwR3nf-t_IA)

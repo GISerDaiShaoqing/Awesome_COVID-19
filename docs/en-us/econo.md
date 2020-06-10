@@ -408,3 +408,6 @@
 - [估值20亿英镑后，英国Fintech新贵的疫情自救故事](https://mp.weixin.qq.com/s/g_7EbdkcIgQCzeCgiOEkwg)
 - [阿里云张建锋：经此一“疫”，原本要3到5年的数字化，将在1年加速完成](https://mp.weixin.qq.com/s/oOwUEpvP3uXWBzKaH7yj4Q)
 - [【即将截止】#榜样的力量#寻找新冠战“疫”，中国数据智能产业先锋力量丨数据猿公益策划](https://mp.weixin.qq.com/s/Ub7H-KmJgOsR1zmLo5rHoQ)
+- [国际资讯 | [日]后疫情时代是新成熟社会的开始(2020.6)](https://mp.weixin.qq.com/s/-VehCFMeey7vFAorfr5QGg)
+- [WRI为全球在经济复苏时期加强气候行动提出4条建议](https://mp.weixin.qq.com/s/RvfOgmF7WcDPZyyuo2iqJQ)
+- [以人为本的未来健康城市如何设计？](https://mp.weixin.qq.com/s/bOh0kmxa68IJ3IFUiQfFoQ)

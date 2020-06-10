@@ -41,3 +41,4 @@
 - [【征稿期延长】气候变化对传染病传播的影响 | BMC传染病学期刊联合征稿](https://mp.weixin.qq.com/s/tVKrDYE5Ql92oxy8z2MLEg)
 - [Contribution of climate change to the spread of infectious diseases](https://www.biomedcentral.com/collections/ccid?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_YD01_CN_INFECTIOUSDISEASES_ORGANIC_WECHAT)
 - [新冠疫情与商业研究专题征稿 | 教授论文发展工作坊回顾](https://mp.weixin.qq.com/s/UP_XNjgBglfqbEbQm7nrcQ)
+- [“全球新型冠状病毒肺炎(COVID-19)疫情动态的时空建模与可视化决策分析”专刊征稿（征稿中）](http://www.dqxxkx.cn/CN/column/item509.shtml)
