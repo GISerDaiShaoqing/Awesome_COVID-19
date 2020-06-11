@@ -641,3 +641,4 @@
 - [疫情过后，大学再也不一样了](https://mp.weixin.qq.com/s/mW8gR7EYILi4NIXQmtRRFw)
 - [Universities will never be the same after the coronavirus crisis](https://www.nature.com/articles/d41586-020-01518-y)
 - [Could the coronavirus crisis finally finish off coal?](https://www.bbc.com/news/science-environment-52968716)
+- [哈佛大学甩锅中国论文粗制滥造，怕是学了个假GIS](https://mp.weixin.qq.com/s/2Kw4zbWYcqjFfMvM9nCghQ)

@@ -28,3 +28,5 @@
 - [Seek COVER: Development and validation of a personalized risk calculator for COVID-19 outcomes in an international network](https://www.medrxiv.org/content/10.1101/2020.05.26.20112649v1)
 - [Lancet最新 | 距离保持1米以上，戴口罩等措施可明显降低新冠肺炎传播](https://mp.weixin.qq.com/s/zKb03lnS9WAFSQ1geCTcWg)
 - [Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext)
+- [最新综述 | 为保持身体距离、使用口罩及眼部防护提供了证据](https://mp.weixin.qq.com/s/ensmhdkU-e2H9qMBFHOy-Q)
+- [Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext)

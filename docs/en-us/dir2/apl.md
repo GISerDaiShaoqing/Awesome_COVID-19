@@ -541,3 +541,8 @@
 - [【在线调查】新型冠状病毒疫苗接种意愿调查](https://mp.weixin.qq.com/s/r1qD4UoE3Z9Nz45l5otDCA)
 - [中国90%大学生近视，主要是因为宅？吃胎盘究竟有没有好处？Science报告显示，纽约新冠主要源于欧洲｜领研网24小时热门论文](https://mp.weixin.qq.com/s/nLOXwWPa4jC1uCy8REIKjw)
 - [6 月 9 日全国报告新增确诊病例 3 例｜科研圈日报](https://mp.weixin.qq.com/s/Q4qyvYeW2XFJ5VKPwAzBAw)
+- [“COVID-19”科研动态监测每日快报（6月10日）【中国科讯】](https://mp.weixin.qq.com/s/ZOTfMzzbxisi8g0DJx3PCA)
+- [疾病和信息在多重网络中以不同的速度传播 | 网络科学论文速递31篇](https://mp.weixin.qq.com/s/Tib0MG1WU_Sf6NyEgWrIwg)
+- [喜讯 | 中国地理学会被推选为“优秀抗疫学会”受到中国科协表扬](https://mp.weixin.qq.com/s/_NKvJrN4hgvJmOlEg2M4aQ)
+- [6 月 10 日全国报告新增确诊病例 11 例｜科研圈日报](https://mp.weixin.qq.com/s/kUoD-4Lh_j0TBNp3P5pBSg)
+- [调查显示：科学家好评度创历史新高](https://mp.weixin.qq.com/s/iNt9uac1cTixMsccFViWHg)

@@ -380,3 +380,7 @@
 - [4篇Cell等连发 | 高福与秦川等团队联手合作，首次开发灭活的新冠病毒疫苗，动物试验有效：对新冠病毒的感染有保护作用](https://mp.weixin.qq.com/s/m3HwZlhLOyViqKyX1ex49w)
 - [Development of an inactivated vaccine candidate, BBIBP-CorV, with potent protection against SARS-CoV-2](https://www.cell.com/cell/fulltext/S0092-8674(20)30695-4)
 - [Virological assessment of hospitalized patients with COVID-2019](https://www.nature.com/articles/s41586-020-2196-x)
+- [高福、秦川团队：灭活候选疫苗BBIBP-CorV可提供对抗SARS-CoV-2的强大保护作用](https://mp.weixin.qq.com/s/Cso7gTBC3w3bWTyiIIDQ0Q)
+- [重大进展 | 连发4篇Cell及Nature，赵金存团队，石正丽团队及秦川团队等开发出新冠小鼠动物模型](https://mp.weixin.qq.com/s/grELLG8bhayXw-s8w_Tdjg)
+- [Generation of a Broadly Useful Model for COVID-19 Pathogenesis Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8#%20)
+- [A SARS-CoV-2 infection model in mice demonstrates protection by neutralizing antibodies](https://www.cell.com/cell/fulltext/S0092-8674(20)30742-X)

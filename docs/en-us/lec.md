@@ -189,3 +189,6 @@
 - [在线学术报告 | 周静：基于移动设备SDK脱敏数据的地区人群聚集度与疫情发展的相关研究](https://mp.weixin.qq.com/s/LBtw6-Oudzp5AqncQaKvSg)
 - [直播预告：2020BCL年会，后疫情时代的未来城市（Post-pandemic Cities）](https://mp.weixin.qq.com/s/jPH03SOXTtNKb326HIiMhg)
 - [Science科研主编上阵主持：新冠病毒结构与药物研发｜线上会](https://mp.weixin.qq.com/s/kjHwN_lNp6L3SlPo_I4edg)
+- [狗熊会学术报告分享](https://mp.weixin.qq.com/s/_viEjsdpwoimTimllNAPZw)
+- [【讲座预告】范恒山：新冠疫情背景下的中国区域协调发展](https://mp.weixin.qq.com/s/GOB48sirJtmSDK3i8Rgyng)
+- [6月14日国际论坛预告 | 百万新冠患者的愈后康复，如何应对挑战？](https://mp.weixin.qq.com/s/JYOe8hO5esqCID-_jSl0XA)

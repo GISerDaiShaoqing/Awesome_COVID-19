@@ -61,5 +61,6 @@
 - [后疫情时代︱德勤报告：后疫情时代未来交通的四大场景 (下)](https://mp.weixin.qq.com/s/Z-Um1UJ_gbd854_mfONMMw)
 - [预告 | NACTO全球街道应对新冠疫情指南与案例集](https://mp.weixin.qq.com/s/SdNas1nEqFCZPrb0Lffbxg)
 - [Streets Fight Covid-19︱街道战疫: NACTO全球街道应对新冠疫情指南及案例集 (上)](https://mp.weixin.qq.com/s/MGn6VGNqhT9tTHHnLg4jzA)
+- [街道战疫︱边摆地摊边抗疫: NACTO全球街道应对新冠疫情指南与案例集 (下）](https://mp.weixin.qq.com/s/qzY4XeWBjR8UMgwLNXFo_A)
 
 ![](/img/SCM.jpg)
