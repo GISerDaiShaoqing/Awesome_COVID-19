@@ -642,3 +642,6 @@
 - [瑞德西韦减缓了新冠肺炎恒河猴的疾病进展 |《自然》论文](https://mp.weixin.qq.com/s/bC66vu6JPTIcwROTnus2fg)
 - [BMJ重磅 | 创造奇迹！0感染，血清学检测及核酸检测都为阴性：中山大学肖海鹏团队揭示援助武汉医护人员的新冠感染情况](https://mp.weixin.qq.com/s/eGE4xTZLq4sPG3Iv947OFQ)
 - [Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study](https://www.bmj.com/content/369/bmj.m2195)
+- [港中大全球首证 新冠患者肠道微生态现失衡](https://mp.weixin.qq.com/s/P-4ics-5hhI9jyetGBFKCQ)
+- [疫情常态化防控，为何必须关注核酸检测灵敏度](https://mp.weixin.qq.com/s/yMYrKSYNqLWjdwTQtG2jDw)
+- [False Negative Tests for SARS-CoV-2 Infection — Challenges and Implications](https://www.nejm.org/doi/full/10.1056/NEJMp2015897)

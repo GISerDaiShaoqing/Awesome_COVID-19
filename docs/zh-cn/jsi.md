@@ -42,3 +42,4 @@
 - [Contribution of climate change to the spread of infectious diseases](https://www.biomedcentral.com/collections/ccid?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_YD01_CN_INFECTIOUSDISEASES_ORGANIC_WECHAT)
 - [新冠疫情与商业研究专题征稿 | 教授论文发展工作坊回顾](https://mp.weixin.qq.com/s/UP_XNjgBglfqbEbQm7nrcQ)
 - [“全球新型冠状病毒肺炎(COVID-19)疫情动态的时空建模与可视化决策分析”专刊征稿（征稿中）](http://www.dqxxkx.cn/CN/column/item509.shtml)
+- [Special Issue of Urban Forestry and Urban Greening "COVID-19"](https://twitter.com/CLEARINGHOUSE_/status/1271072297118568448?s=09)

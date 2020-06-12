@@ -642,3 +642,4 @@
 - [Universities will never be the same after the coronavirus crisis](https://www.nature.com/articles/d41586-020-01518-y)
 - [Could the coronavirus crisis finally finish off coal?](https://www.bbc.com/news/science-environment-52968716)
 - [哈佛大学甩锅中国论文粗制滥造，怕是学了个假GIS](https://mp.weixin.qq.com/s/2Kw4zbWYcqjFfMvM9nCghQ)
+- [探索「老药新用」最短路径：亚马逊AI Lab开源大规模药物重定位知识图谱DRKG](https://mp.weixin.qq.com/s/kzyn4LbJW4IZ3JkY1gvPhg)
