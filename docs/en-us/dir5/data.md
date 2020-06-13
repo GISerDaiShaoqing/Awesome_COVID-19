@@ -184,3 +184,4 @@
 - [新数据：中国抗击COVID-19科研进展视频报告（第1期）： 流行病学](https://mp.weixin.qq.com/s/TN4jWh1e_B15aZLa49WE_Q)
 - [Unified COVID-19 Dataset](https://github.com/hsbadr/COVID-19)
 - [Oxford Covid-19 Government Response Tracker (OxCGRT)](https://github.com/OxCGRT/covid-policy-tracker)
+- [COVID-19 related virus data, environmental data and policy data](https://github.com/stccenter/COVID-19-Data)

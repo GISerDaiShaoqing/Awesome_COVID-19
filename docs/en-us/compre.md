@@ -643,3 +643,5 @@
 - [Could the coronavirus crisis finally finish off coal?](https://www.bbc.com/news/science-environment-52968716)
 - [哈佛大学甩锅中国论文粗制滥造，怕是学了个假GIS](https://mp.weixin.qq.com/s/2Kw4zbWYcqjFfMvM9nCghQ)
 - [探索「老药新用」最短路径：亚马逊AI Lab开源大规模药物重定位知识图谱DRKG](https://mp.weixin.qq.com/s/kzyn4LbJW4IZ3JkY1gvPhg)
+- [Nature 视频 | 与新冠病毒一起流行的谣言](https://mp.weixin.qq.com/s/LA6tQoeAvmR2Qe_VIrUTWg)
+- [We test a home antibody kit for tracking Covid-19](https://www.nature.com/nature/articles?type=nature-video)

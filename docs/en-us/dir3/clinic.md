@@ -645,3 +645,5 @@
 - [港中大全球首证 新冠患者肠道微生态现失衡](https://mp.weixin.qq.com/s/P-4ics-5hhI9jyetGBFKCQ)
 - [疫情常态化防控，为何必须关注核酸检测灵敏度](https://mp.weixin.qq.com/s/yMYrKSYNqLWjdwTQtG2jDw)
 - [False Negative Tests for SARS-CoV-2 Infection — Challenges and Implications](https://www.nejm.org/doi/full/10.1056/NEJMp2015897)
+- [儿童的新冠肺炎症状为什么不那么严重？答案可能和血管有关](https://mp.weixin.qq.com/s/6VhZ3UHxCZXGP-PTzRh1TQ)
+- [Why children avoid the worst coronavirus complications might lie in their arteries](https://www.nature.com/articles/d41586-020-01692-z)

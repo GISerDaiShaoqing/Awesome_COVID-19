@@ -549,3 +549,4 @@
 - [“COVID-19”科研动态监测每日快报（6月11日）【中国科讯】](https://mp.weixin.qq.com/s/V-2YikkTpo9bPM7cenBEZg)
 - [6 月 11 日我国新增确诊病例 7 例，包含 1 例本土病例 | 科研圈日报](https://mp.weixin.qq.com/s/-ULzT4x4hyGRjoq6Qe8rMw)
 - [COVID-19实时跟踪器和分析报告 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/86JAb6UKR9LHPZT2exxylQ)
+- [“COVID-19”科研动态监测每日快报（6月12日）【中国科讯】](https://mp.weixin.qq.com/s/ywMMtoMWT-wqm4Sb0onFYg)
