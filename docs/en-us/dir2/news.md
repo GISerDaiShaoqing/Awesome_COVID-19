@@ -2221,3 +2221,6 @@
 - [北京又有两地升为中风险](https://mp.weixin.qq.com/s/ceduYhZ9eqBSTw6i3c48WQ)
 - [多地提醒市民近期不要前往北京](https://mp.weixin.qq.com/s/wiTzyJwWMvaY1grDm_YbIg)
 - [【荷兰数据】今日新增179例确诊，死亡4人; 检测预约爆满…](https://mp.weixin.qq.com/s/32SZBsMBTtbACEFd1ZH2mQ)
+- [速递！教育部、国家卫健委印发《疫情防控常态化下复学复课工作20问》](https://mp.weixin.qq.com/s/TIjWxjgeJxLKjXxhxEdeSg)
+- [震惊！几张遥感照片就想给中国定罪？哈佛大学看图说话学艺不精](https://mp.weixin.qq.com/s/lS5ikq-QMNwrvQ5YdZb2sA)
+- [北京海淀区所有社区恢复二级响应防控措施](https://mp.weixin.qq.com/s/hCYOimdYiIaXWraZW2SrBA)
