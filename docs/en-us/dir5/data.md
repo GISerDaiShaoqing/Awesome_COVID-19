@@ -185,3 +185,4 @@
 - [Unified COVID-19 Dataset](https://github.com/hsbadr/COVID-19)
 - [Oxford Covid-19 Government Response Tracker (OxCGRT)](https://github.com/OxCGRT/covid-policy-tracker)
 - [COVID-19 related virus data, environmental data and policy data](https://github.com/stccenter/COVID-19-Data)
+- [新数据：中国抗击COVID-19科研进展视频报告（第2期）：疫苗研发](https://mp.weixin.qq.com/s/59KmMS1-QLisN-fYcKui4w)

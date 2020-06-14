@@ -551,3 +551,6 @@
 - [COVID-19实时跟踪器和分析报告 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/86JAb6UKR9LHPZT2exxylQ)
 - [“COVID-19”科研动态监测每日快报（6月12日）【中国科讯】](https://mp.weixin.qq.com/s/ywMMtoMWT-wqm4Sb0onFYg)
 - [COVID-19期间的学校教学计划 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/Is8LbAclSyLRThlJUH16mg)
+- [“COVID-19”科研动态监测每日快报（6月13日）【中国科讯】](https://mp.weixin.qq.com/s/4y8xigjqwVD7j0FODk_skA)
+- [《自然》（20200611出版）一周论文导读](https://mp.weixin.qq.com/s/IZxVg_8MYAO4WaIs7glgew)
+- [阿斯利康已与德法意荷四国达成协议，提供最多4亿剂新冠疫苗｜ 本周值得读·科研生涯](https://mp.weixin.qq.com/s/R3OhkBpUvVrb0jfhpH7reQ)

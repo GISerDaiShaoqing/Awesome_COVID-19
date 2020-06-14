@@ -647,3 +647,6 @@
 - [False Negative Tests for SARS-CoV-2 Infection — Challenges and Implications](https://www.nejm.org/doi/full/10.1056/NEJMp2015897)
 - [儿童的新冠肺炎症状为什么不那么严重？答案可能和血管有关](https://mp.weixin.qq.com/s/6VhZ3UHxCZXGP-PTzRh1TQ)
 - [Why children avoid the worst coronavirus complications might lie in their arteries](https://www.nature.com/articles/d41586-020-01692-z)
+- [Science背靠背 | 治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点](https://mp.weixin.qq.com/s/ARXLEMZFNfrhf_CHnF62eQ)
+- [Type III interferons disrupt the lung epithelial barrier upon viral recognition](https://science.sciencemag.org/content/early/2020/06/10/science.abc3545)
+- [Type I and III interferons disrupt lung epithelial repair during recovery from viral infection](https://science.sciencemag.org/content/early/2020/06/10/science.abc2061)
