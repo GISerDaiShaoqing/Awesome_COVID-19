@@ -192,3 +192,4 @@
 - [狗熊会学术报告分享](https://mp.weixin.qq.com/s/_viEjsdpwoimTimllNAPZw)
 - [【讲座预告】范恒山：新冠疫情背景下的中国区域协调发展](https://mp.weixin.qq.com/s/GOB48sirJtmSDK3i8Rgyng)
 - [6月14日国际论坛预告 | 百万新冠患者的愈后康复，如何应对挑战？](https://mp.weixin.qq.com/s/JYOe8hO5esqCID-_jSl0XA)
+- [讲座预告|秦昆：疫情扩散模式及多元流网络的相关性分析](https://mp.weixin.qq.com/s/XE8zItVZodycCvjHbV3fNQ)

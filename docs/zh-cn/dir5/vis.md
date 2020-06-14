@@ -186,3 +186,4 @@
 - [Maps show UK pavements not wide enough for social distancing - in pictures](https://www.theguardian.com/world/gallery/2020/jun/01/pavement-widths-and-social-distancing-esri-uk-maps)
 - [COVID-19 wider impacts on the health care system](https://github.com/Health-SocialCare-Scotland/covid-wider-impact)
 - [Open COVID19 Map Visualization based on Johns Hopkins live data set](https://github.com/daniel-karl/covid19-map)
+- [北京人民挺住！新冠病毒再次袭来！史上最直观的疫情分布地图](https://mp.weixin.qq.com/s/fgql92slD_Jlq6BYQP2agg)
