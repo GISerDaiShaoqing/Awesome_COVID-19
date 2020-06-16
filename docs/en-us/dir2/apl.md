@@ -561,3 +561,4 @@
 - [Cell：利用反向遗传系统，研究人员绘制了SARS-CoV-2感染图谱｜领研网24小时热门论文](https://mp.weixin.qq.com/s/xCIpMKxysYuof4tpKuvbvg)
 - [预防新冠肺炎 防护知识问答](https://mp.weixin.qq.com/s/Jos4IOsv-PLwxmC1osFvpg)
 - [美国 FDA 撤销羟氯喹/氯喹治疗新冠的紧急使用授权| 科研圈日报](https://mp.weixin.qq.com/s/PeXkeErbc6OuGVx1aPml-w)
+- [使用感染源评估未诊断的COVID-19感染数量 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/J_-Db36ciOfufoTsPnL0Cg)

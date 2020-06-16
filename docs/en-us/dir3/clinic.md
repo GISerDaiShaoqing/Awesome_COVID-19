@@ -650,3 +650,7 @@
 - [Science背靠背 | 治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点](https://mp.weixin.qq.com/s/ARXLEMZFNfrhf_CHnF62eQ)
 - [Type III interferons disrupt the lung epithelial barrier upon viral recognition](https://science.sciencemag.org/content/early/2020/06/10/science.abc3545)
 - [Type I and III interferons disrupt lung epithelial repair during recovery from viral infection](https://science.sciencemag.org/content/early/2020/06/10/science.abc2061)
+- [国产新冠病毒灭活疫苗初步成果公布：安全性、有效性良好](https://mp.weixin.qq.com/s/Y0RL1RQ77YTfsNtGZjZISA)
+- [重磅：1120人，两针接种阳转率100%！全球首个新冠灭活疫苗Ⅰ/Ⅱ期临床全部产生抗体](https://mp.weixin.qq.com/s/oDnWlF4T5Wk_tJtaGMLz6w)
+- [振奋人心 | 迎来了光明！大规模临床随机对照试验，全球首个廉价药类固醇地塞米松可以降低新冠患者30%以上的死亡率](https://mp.weixin.qq.com/s/4rgXRvmcQae_FswjD5odfA)
+- [Coronavirus breakthrough: dexamethasone is first drug shown to save lives](https://www.nature.com/articles/d41586-020-01824-5)

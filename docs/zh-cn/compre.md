@@ -647,3 +647,6 @@
 - [We test a home antibody kit for tracking Covid-19](https://www.nature.com/nature/articles?type=nature-video)
 - [疫情让鲸类暂时远离了人工噪声，但在这之前，它们已被打扰了一百多年](https://mp.weixin.qq.com/s/Cn0GUUY1NBzhCJcSdRyneg)
 - [柳叶刀 | 基层医疗卫生机构在2019冠状病毒病防控中应发挥重要作用](https://mp.weixin.qq.com/s/zd_lv20eYsisIO4WDvkpdg)
+- [未来三天北京疫情如何走向，我们需要知道这7个问题](https://mp.weixin.qq.com/s/VByUw_KkP0Ef_O1BXV8dFw)
+- [武大病毒专家：新发地病毒致病性和传播力高于武汉华南海鲜市场](https://mp.weixin.qq.com/s/fRzqXEuNviFymtRuUfAXiQ)
+- [如何缓解疫情下的科研焦虑？](https://mp.weixin.qq.com/s/tr7fKPB8G6BKExEuWY-o_A)
