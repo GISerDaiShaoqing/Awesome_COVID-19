@@ -556,3 +556,8 @@
 - [阿斯利康已与德法意荷四国达成协议，提供最多4亿剂新冠疫苗｜ 本周值得读·科研生涯](https://mp.weixin.qq.com/s/R3OhkBpUvVrb0jfhpH7reQ)
 - [为防范疫情，美国、英国取消南极野外研究｜科研圈日报](https://mp.weixin.qq.com/s/2XxrBtM-pLK5kAh2mg8FBw)
 - [“COVID-19”科研动态监测每日快报（6月14日）【中国科讯】](https://mp.weixin.qq.com/s/wg8V5JXKgYSS3evMJCYhBA)
+- [疫情影响下全球二氧化碳排放减少，全球变暖会缓解吗？丨大气悟理](https://mp.weixin.qq.com/s/Kj99MFqADau2mBGyKFWvqg)
+- [“COVID-19”科研动态监测每日快报（6月15日）【中国科讯】](https://mp.weixin.qq.com/s/4zc-qXo0AEif2yozSai7rA)
+- [Cell：利用反向遗传系统，研究人员绘制了SARS-CoV-2感染图谱｜领研网24小时热门论文](https://mp.weixin.qq.com/s/xCIpMKxysYuof4tpKuvbvg)
+- [预防新冠肺炎 防护知识问答](https://mp.weixin.qq.com/s/Jos4IOsv-PLwxmC1osFvpg)
+- [美国 FDA 撤销羟氯喹/氯喹治疗新冠的紧急使用授权| 科研圈日报](https://mp.weixin.qq.com/s/PeXkeErbc6OuGVx1aPml-w)

@@ -416,3 +416,4 @@
 - [后疫情时代 “新服务”彰显公共价值|新服务观察](https://mp.weixin.qq.com/s/dItbESvmvipY0uD8ZgfSNQ)
 - [疫情过后，城市规划领域面临的四大趋势](https://mp.weixin.qq.com/s/7fOjEIzN0v6T9QQj7CT4dA)
 - [全球城市观察︱德国联邦政府投入10亿欧元，重启文化产业](https://mp.weixin.qq.com/s/sIQ9m1RaSpttvFjbEJZs6A)
+- [观点 | 严金明：后疫情时代，如何破解城乡土地结构失衡？](https://mp.weixin.qq.com/s/5xcjOekwuP9P97HIhnJ6Bg)
