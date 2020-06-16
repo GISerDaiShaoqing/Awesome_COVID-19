@@ -384,3 +384,5 @@
 - [重大进展 | 连发4篇Cell及Nature，赵金存团队，石正丽团队及秦川团队等开发出新冠小鼠动物模型](https://mp.weixin.qq.com/s/grELLG8bhayXw-s8w_Tdjg)
 - [Generation of a Broadly Useful Model for COVID-19 Pathogenesis Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8#%20)
 - [A SARS-CoV-2 infection model in mice demonstrates protection by neutralizing antibodies](https://www.cell.com/cell/fulltext/S0092-8674(20)30742-X)
+- [柳叶刀-呼吸病学 | 通风不良的空间中的小飞沫气溶胶与SARS-CoV-2传播](https://mp.weixin.qq.com/s/wZCPZrS0m3wbX9KLX1fn2g)
+- [Small droplet aerosols in poorly ventilated spaces and SARS-COV-2 transmission](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30245-9/fulltext)

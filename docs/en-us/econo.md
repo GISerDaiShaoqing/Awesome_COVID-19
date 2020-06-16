@@ -414,3 +414,5 @@
 - [新冠肺炎在香港：五波疫情背后的不同阶层 | 政见CNPolitics](https://mp.weixin.qq.com/s/DCZXm6OrFRAnnmt6eZP4vQ)
 - [清华大学地学系关大博教授研究组发文评估全球疫情控制政策对经济的影响](https://mp.weixin.qq.com/s/drMBdKjqvq1-P46T9hsP0w)
 - [后疫情时代 “新服务”彰显公共价值|新服务观察](https://mp.weixin.qq.com/s/dItbESvmvipY0uD8ZgfSNQ)
+- [疫情过后，城市规划领域面临的四大趋势](https://mp.weixin.qq.com/s/7fOjEIzN0v6T9QQj7CT4dA)
+- [全球城市观察︱德国联邦政府投入10亿欧元，重启文化产业](https://mp.weixin.qq.com/s/sIQ9m1RaSpttvFjbEJZs6A)

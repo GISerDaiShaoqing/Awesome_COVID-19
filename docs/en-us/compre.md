@@ -646,3 +646,4 @@
 - [Nature 视频 | 与新冠病毒一起流行的谣言](https://mp.weixin.qq.com/s/LA6tQoeAvmR2Qe_VIrUTWg)
 - [We test a home antibody kit for tracking Covid-19](https://www.nature.com/nature/articles?type=nature-video)
 - [疫情让鲸类暂时远离了人工噪声，但在这之前，它们已被打扰了一百多年](https://mp.weixin.qq.com/s/Cn0GUUY1NBzhCJcSdRyneg)
+- [柳叶刀 | 基层医疗卫生机构在2019冠状病毒病防控中应发挥重要作用](https://mp.weixin.qq.com/s/zd_lv20eYsisIO4WDvkpdg)

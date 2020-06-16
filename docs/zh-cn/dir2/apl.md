@@ -554,3 +554,5 @@
 - [“COVID-19”科研动态监测每日快报（6月13日）【中国科讯】](https://mp.weixin.qq.com/s/4y8xigjqwVD7j0FODk_skA)
 - [《自然》（20200611出版）一周论文导读](https://mp.weixin.qq.com/s/IZxVg_8MYAO4WaIs7glgew)
 - [阿斯利康已与德法意荷四国达成协议，提供最多4亿剂新冠疫苗｜ 本周值得读·科研生涯](https://mp.weixin.qq.com/s/R3OhkBpUvVrb0jfhpH7reQ)
+- [为防范疫情，美国、英国取消南极野外研究｜科研圈日报](https://mp.weixin.qq.com/s/2XxrBtM-pLK5kAh2mg8FBw)
+- [“COVID-19”科研动态监测每日快报（6月14日）【中国科讯】](https://mp.weixin.qq.com/s/wg8V5JXKgYSS3evMJCYhBA)

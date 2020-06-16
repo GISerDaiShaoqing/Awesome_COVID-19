@@ -193,3 +193,6 @@
 - [【讲座预告】范恒山：新冠疫情背景下的中国区域协调发展](https://mp.weixin.qq.com/s/GOB48sirJtmSDK3i8Rgyng)
 - [6月14日国际论坛预告 | 百万新冠患者的愈后康复，如何应对挑战？](https://mp.weixin.qq.com/s/JYOe8hO5esqCID-_jSl0XA)
 - [讲座预告|秦昆：疫情扩散模式及多元流网络的相关性分析](https://mp.weixin.qq.com/s/XE8zItVZodycCvjHbV3fNQ)
+- [6月15日直播：势起·七剑聚，重症论剑](https://mp.weixin.qq.com/s/ncLZEq434PU8jpwP01hsug)
+- [【抗击疫情，免e同行】6月15日直播：新冠肺炎感染救治多学科论坛](https://mp.weixin.qq.com/s/dDVeDWYpw2kKyvCUkapK3w)
+- [【抗疫超声在线】6月15日：COVID-2019 ，掌超桡动脉穿刺](https://mp.weixin.qq.com/s/-92FBuKXZwDj3XTSoCWkCA)
