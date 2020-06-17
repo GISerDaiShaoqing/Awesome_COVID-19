@@ -659,3 +659,4 @@
 - [Nature重磅：首个新冠特效药？地塞米松能够减少三成重症患者死亡](https://mp.weixin.qq.com/s/fhBgEn73xCajy29ez2UXVg)
 - [Lancet Voice 特别版 | 对细胞因子风暴的解释](https://mp.weixin.qq.com/s/tjju5GbHnLavD355CuoQGA)
 - [首个降低新冠重症死亡率的药物：地塞米松“不是奇迹，但确实有用”](https://mp.weixin.qq.com/s/g5qGxQQmDYhVkuODMw35mw)
+- [便宜货“地塞米松”刷屏！新冠首个“救命药”来了？](https://mp.weixin.qq.com/s/19PI1x3syn0Yp97SMWDW4w)

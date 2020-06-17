@@ -420,3 +420,4 @@
 - [蓝志勇：新冠疫情与公共治理](https://mp.weixin.qq.com/s/KfvBO2TbVJexOBT1yT_2wA)
 - [疫情之下，城市韧性如何提升？](https://mp.weixin.qq.com/s/gdp9XdziPwpdA_L-X9MDPA)
 - [后疫情社区：直面社区的经验和忧虑](https://mp.weixin.qq.com/s/trmfCPWN3gmSKpNfgf6QhQ)
+- [#榜样的力量#面向社会免费开放的美林数据疫情防控平台丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/gDcdnhNmeLHNZ42ZUN7WYA)

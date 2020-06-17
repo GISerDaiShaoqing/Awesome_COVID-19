@@ -2335,3 +2335,8 @@
 - [全国新增确诊44例！北京对所有小区全面实行严格封闭式管理！厦门最近这些事要注意](https://mp.weixin.qq.com/s/2BmAFsukvLqRvMWoA5EUKg)
 - [“北京疫情还处于上升期”，新增病例中最小8岁](https://mp.weixin.qq.com/s/KCKAOjcKAb7aKyjZjCxh3g)
 - [警惕！已有4省出现北京确诊关联病例，2人因隐瞒疫情信息被查](https://mp.weixin.qq.com/s/vn0ceM0tVfAnya87Dde-RA)
+- [荷兰机票限价！不能低于34欧！屠宰场继续感染，会影响超市肉类吗？](https://mp.weixin.qq.com/s/vwZTBp_1fVkVjHN1JcoI7g)
+- [北京16日新增报告31例，防控策略有15个重大变化，铁路、民航相关退票措施来了](https://mp.weixin.qq.com/s/lmEo407KbelmGkIPEsX_PQ)
+- [“我是湖北人，我为北京加油”](https://mp.weixin.qq.com/s/0kGc-LBt75-Wqdho-XSDcw)
+- [重回“二级响应”的北京，有什么变化](https://mp.weixin.qq.com/s/YVcfkOl3Xr29IC0kYDtUUQ)
+- [天津新增1例本土：西餐厅帮厨人员，14天无外出史](https://mp.weixin.qq.com/s/O2hT6xinEljmvHGV9Rublw)

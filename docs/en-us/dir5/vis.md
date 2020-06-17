@@ -187,3 +187,4 @@
 - [COVID-19 wider impacts on the health care system](https://github.com/Health-SocialCare-Scotland/covid-wider-impact)
 - [Open COVID19 Map Visualization based on Johns Hopkins live data set](https://github.com/daniel-karl/covid19-map)
 - [北京人民挺住！新冠病毒再次袭来！史上最直观的疫情分布地图](https://mp.weixin.qq.com/s/fgql92slD_Jlq6BYQP2agg)
+- [图说每日疫情（6月15日）：北京新增新冠确诊病例已达106例](https://mp.weixin.qq.com/s/UBmkVuenC5OnZRY3RlfitQ)

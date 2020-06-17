@@ -565,3 +565,4 @@
 - [千余人接种后100%产生新冠抗体，无严重不良反应：中国新冠疫苗I/II期临床试验结果积极 | 科研圈日报](https://mp.weixin.qq.com/s/L0MIozqRszAAagC6hCFAxQ)
 - [防控最前沿——新冠疫情防控 六大问题你要懂](https://mp.weixin.qq.com/s/TvhstdEVYsaAccEcDYOf2A)
 - [“COVID-19”科研动态监测每日快报（6月16日）【中国科讯】](https://mp.weixin.qq.com/s/81emDYFz6gfTLSyBt26HHA)
+- [COVID-19大流行的周期性封锁和经济活动 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/FAL8yHqd0liW03Gk8nGc5A)

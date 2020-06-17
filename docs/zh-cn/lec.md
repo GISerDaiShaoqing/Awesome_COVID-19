@@ -199,3 +199,5 @@
 - [【Café速递】陈松：新冠肺炎之珞珈山战役](https://mp.weixin.qq.com/s/0iG1XBC31GMG0yYNk2hocQ)
 - [“新冠大挑战 向科学要答案” | 第四期预告：保护性免疫与疫苗](https://mp.weixin.qq.com/s/kBC9gFPMJxgZ1gmfecrazg)
 - [“新冠大挑战 向科学要答案” | 第四期：保护性免疫与疫苗（今晚直播）](https://mp.weixin.qq.com/s/LX9ojz3ORnBUqsy-Apo14A)
+- [【GeoScience Café 第260期】孙一璠：从创业尝试到北美PHD & 郑星雨：武汉大学疫情安全感知与追踪团队成果介绍](https://mp.weixin.qq.com/s/4Dez3-Y3wTgNgCbeAJ38uQ)
+- [高端论坛|武汉大学陈锐志教授：社交距离精准感知](https://mp.weixin.qq.com/s/YcokJ1qLTZ4Is6Oz3KCX-w)

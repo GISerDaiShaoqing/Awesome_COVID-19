@@ -401,3 +401,6 @@
 - [Broad neutralization of SARS-related viruses by human monoclonal antibodies](https://science.sciencemag.org/content/early/2020/06/15/science.abc7424)
 - [新冠检测大显身手的质谱法，应用前景十分广阔](https://mp.weixin.qq.com/s/k7Juu_CfONmSSlpdStZf6g)
 - [Progress in Pathogen Identification Based on Mass Spectrometry](https://www.frontiersin.org/research-topics/14501/progress-in-pathogen-identification-based-on-mass-spectrometry?utm_source=nanRT2&utm_medium=wechat&utm_campaign=chinaad)
+- [钟南山指导团队构建首个新冠肺炎非转基因鼠模型](http://news.sciencenet.cn/htmlnews/2020/6/441416.shtm)
+- [A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies](https://www.cell.com/cell/fulltext/S0092-8674(20)30742-X)
+- [Generation of a Broadly Useful Model for COVID-19 Pathogenesis, Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8?rss=yes)

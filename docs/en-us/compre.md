@@ -652,3 +652,4 @@
 - [如何缓解疫情下的科研焦虑？](https://mp.weixin.qq.com/s/tr7fKPB8G6BKExEuWY-o_A)
 - [社交媒体上的全球幸福感空前下降](https://mp.weixin.qq.com/s/OlasJ7VkMxYMiV7MnGFMfg)
 - [经历过疫情的年轻人，不愿相信科学家｜全球7万人调查](https://mp.weixin.qq.com/s/F0J_oEEgYKV_XzSGM4Ntpg)
+- [新冠疫情改变欧美人睡眠](http://news.sciencenet.cn/htmlnews/2020/6/441436.shtm)
