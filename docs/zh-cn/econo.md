@@ -417,3 +417,6 @@
 - [疫情过后，城市规划领域面临的四大趋势](https://mp.weixin.qq.com/s/7fOjEIzN0v6T9QQj7CT4dA)
 - [全球城市观察︱德国联邦政府投入10亿欧元，重启文化产业](https://mp.weixin.qq.com/s/sIQ9m1RaSpttvFjbEJZs6A)
 - [观点 | 严金明：后疫情时代，如何破解城乡土地结构失衡？](https://mp.weixin.qq.com/s/5xcjOekwuP9P97HIhnJ6Bg)
+- [蓝志勇：新冠疫情与公共治理](https://mp.weixin.qq.com/s/KfvBO2TbVJexOBT1yT_2wA)
+- [疫情之下，城市韧性如何提升？](https://mp.weixin.qq.com/s/gdp9XdziPwpdA_L-X9MDPA)
+- [后疫情社区：直面社区的经验和忧虑](https://mp.weixin.qq.com/s/trmfCPWN3gmSKpNfgf6QhQ)

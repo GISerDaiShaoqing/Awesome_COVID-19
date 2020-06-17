@@ -254,3 +254,5 @@
 - [3S战“疫”｜多阶段动态时滞动力学模型的COVID⁃19 传播分析](https://mp.weixin.qq.com/s?__biz=MzA5MDcyMzA5OA==&mid=2650386921&idx=2&sn=cacf748c8b26b9475a7ad3a306b5760c&chksm=880a579cbf7dde8af59e5c711454f18b43b31b7ec0f234786dfebce08dce3e10f39e7905b061&token=461504668&lang=zh_CN#rd)
 - [This is my personal repository of Iowa specific COVID-19 models based on publically available data](https://github.com/grantbrown/COVID19)
 - [The relationship between human mobility and viral transmissibility during the COVID-19 epidemics in Italy](https://arxiv.org/abs/2006.03141)
+- [年龄与COVID-19感染率及症状轻重的关系 |《自然-医学》论文](https://mp.weixin.qq.com/s/nJdfxKN3LZLCYGs5fY348g)
+- [Age-dependent effects in the transmission and control of COVID-19 epidemics](https://www.nature.com/articles/s41591-020-0962-9)

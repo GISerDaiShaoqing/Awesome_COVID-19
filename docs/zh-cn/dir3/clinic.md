@@ -654,3 +654,8 @@
 - [重磅：1120人，两针接种阳转率100%！全球首个新冠灭活疫苗Ⅰ/Ⅱ期临床全部产生抗体](https://mp.weixin.qq.com/s/oDnWlF4T5Wk_tJtaGMLz6w)
 - [振奋人心 | 迎来了光明！大规模临床随机对照试验，全球首个廉价药类固醇地塞米松可以降低新冠患者30%以上的死亡率](https://mp.weixin.qq.com/s/4rgXRvmcQae_FswjD5odfA)
 - [Coronavirus breakthrough: dexamethasone is first drug shown to save lives](https://www.nature.com/articles/d41586-020-01824-5)
+- [地塞米松：首个能降低新冠肺炎重症死亡率的药物](https://mp.weixin.qq.com/s/7crF6wUFe0d0f5lHlaAo3g)
+- [Coronavirus breakthrough: dexamethasone is first drug shown to save lives](https://www.nature.com/articles/d41586-020-01824-5)
+- [Nature重磅：首个新冠特效药？地塞米松能够减少三成重症患者死亡](https://mp.weixin.qq.com/s/fhBgEn73xCajy29ez2UXVg)
+- [Lancet Voice 特别版 | 对细胞因子风暴的解释](https://mp.weixin.qq.com/s/tjju5GbHnLavD355CuoQGA)
+- [首个降低新冠重症死亡率的药物：地塞米松“不是奇迹，但确实有用”](https://mp.weixin.qq.com/s/g5qGxQQmDYhVkuODMw35mw)

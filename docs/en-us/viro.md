@@ -399,3 +399,5 @@
 - [Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability](https://science.sciencemag.org/content/early/2020/06/15/science.abc5902)
 - [Studies in humanized mice and convalescent humans yield a SARS-CoV-2 antibody cocktail](https://science.sciencemag.org/content/early/2020/06/15/science.abd0827)
 - [Broad neutralization of SARS-related viruses by human monoclonal antibodies](https://science.sciencemag.org/content/early/2020/06/15/science.abc7424)
+- [新冠检测大显身手的质谱法，应用前景十分广阔](https://mp.weixin.qq.com/s/k7Juu_CfONmSSlpdStZf6g)
+- [Progress in Pathogen Identification Based on Mass Spectrometry](https://www.frontiersin.org/research-topics/14501/progress-in-pathogen-identification-based-on-mass-spectrometry?utm_source=nanRT2&utm_medium=wechat&utm_campaign=chinaad)

@@ -650,3 +650,5 @@
 - [未来三天北京疫情如何走向，我们需要知道这7个问题](https://mp.weixin.qq.com/s/VByUw_KkP0Ef_O1BXV8dFw)
 - [武大病毒专家：新发地病毒致病性和传播力高于武汉华南海鲜市场](https://mp.weixin.qq.com/s/fRzqXEuNviFymtRuUfAXiQ)
 - [如何缓解疫情下的科研焦虑？](https://mp.weixin.qq.com/s/tr7fKPB8G6BKExEuWY-o_A)
+- [社交媒体上的全球幸福感空前下降](https://mp.weixin.qq.com/s/OlasJ7VkMxYMiV7MnGFMfg)
+- [经历过疫情的年轻人，不愿相信科学家｜全球7万人调查](https://mp.weixin.qq.com/s/F0J_oEEgYKV_XzSGM4Ntpg)

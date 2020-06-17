@@ -198,3 +198,4 @@
 - [【抗疫超声在线】6月15日：COVID-2019 ，掌超桡动脉穿刺](https://mp.weixin.qq.com/s/-92FBuKXZwDj3XTSoCWkCA)
 - [【Café速递】陈松：新冠肺炎之珞珈山战役](https://mp.weixin.qq.com/s/0iG1XBC31GMG0yYNk2hocQ)
 - [“新冠大挑战 向科学要答案” | 第四期预告：保护性免疫与疫苗](https://mp.weixin.qq.com/s/kBC9gFPMJxgZ1gmfecrazg)
+- [“新冠大挑战 向科学要答案” | 第四期：保护性免疫与疫苗（今晚直播）](https://mp.weixin.qq.com/s/LX9ojz3ORnBUqsy-Apo14A)

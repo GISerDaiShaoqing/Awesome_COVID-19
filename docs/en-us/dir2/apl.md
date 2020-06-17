@@ -562,3 +562,6 @@
 - [预防新冠肺炎 防护知识问答](https://mp.weixin.qq.com/s/Jos4IOsv-PLwxmC1osFvpg)
 - [美国 FDA 撤销羟氯喹/氯喹治疗新冠的紧急使用授权| 科研圈日报](https://mp.weixin.qq.com/s/PeXkeErbc6OuGVx1aPml-w)
 - [使用感染源评估未诊断的COVID-19感染数量 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/J_-Db36ciOfufoTsPnL0Cg)
+- [千余人接种后100%产生新冠抗体，无严重不良反应：中国新冠疫苗I/II期临床试验结果积极 | 科研圈日报](https://mp.weixin.qq.com/s/L0MIozqRszAAagC6hCFAxQ)
+- [防控最前沿——新冠疫情防控 六大问题你要懂](https://mp.weixin.qq.com/s/TvhstdEVYsaAccEcDYOf2A)
+- [“COVID-19”科研动态监测每日快报（6月16日）【中国科讯】](https://mp.weixin.qq.com/s/81emDYFz6gfTLSyBt26HHA)

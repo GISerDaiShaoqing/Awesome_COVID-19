@@ -62,5 +62,7 @@
 - [预告 | NACTO全球街道应对新冠疫情指南与案例集](https://mp.weixin.qq.com/s/SdNas1nEqFCZPrb0Lffbxg)
 - [Streets Fight Covid-19︱街道战疫: NACTO全球街道应对新冠疫情指南及案例集 (上)](https://mp.weixin.qq.com/s/MGn6VGNqhT9tTHHnLg4jzA)
 - [街道战疫︱边摆地摊边抗疫: NACTO全球街道应对新冠疫情指南与案例集 (下）](https://mp.weixin.qq.com/s/qzY4XeWBjR8UMgwLNXFo_A)
+- [后疫情时代︱新冠病毒是共享经济的终结？还是重生？](https://mp.weixin.qq.com/s/4RqET9ujRSLvi2a4kjAOlg)
+- [后疫情时代︱麦肯锡：快速复苏的价值，后疫情时代的增长蓝图](https://mp.weixin.qq.com/s/1JTwJlwi5yAGPMBddjpIqg)
 
 ![](/img/SCM.jpg)
