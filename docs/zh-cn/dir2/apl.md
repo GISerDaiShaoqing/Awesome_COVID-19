@@ -566,3 +566,7 @@
 - [防控最前沿——新冠疫情防控 六大问题你要懂](https://mp.weixin.qq.com/s/TvhstdEVYsaAccEcDYOf2A)
 - [“COVID-19”科研动态监测每日快报（6月16日）【中国科讯】](https://mp.weixin.qq.com/s/81emDYFz6gfTLSyBt26HHA)
 - [COVID-19大流行的周期性封锁和经济活动 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/FAL8yHqd0liW03Gk8nGc5A)
+- [“COVID-19”科研动态监测每日快报（6月17日）【中国科讯】](https://mp.weixin.qq.com/s/X4ecU1mk_SCSItq0qPHUPA)
+- [疫情让我们睡得更多，却也睡得更差；锻炼1小时，就能影响生物钟？稀释血浆就能逆转衰老？｜领研网24小时热门论文](https://mp.weixin.qq.com/s/X-4pa68IjFQGlBXBjy6Opg)
+- [Cell 论文精选 | 首款同时杀灭两大类细菌的抗生素诞生，还能避免耐药性产生](https://mp.weixin.qq.com/s/G3YXVlhCUCbeDVeIv2OcOQ)
+- [北京疫情还处于上升期，严格管理不意味着封城｜科研圈日报](https://mp.weixin.qq.com/s/1avGAStN2qtk0KyOrUlENA)

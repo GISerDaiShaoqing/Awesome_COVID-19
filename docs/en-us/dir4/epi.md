@@ -256,3 +256,5 @@
 - [The relationship between human mobility and viral transmissibility during the COVID-19 epidemics in Italy](https://arxiv.org/abs/2006.03141)
 - [年龄与COVID-19感染率及症状轻重的关系 |《自然-医学》论文](https://mp.weixin.qq.com/s/nJdfxKN3LZLCYGs5fY348g)
 - [Age-dependent effects in the transmission and control of COVID-19 epidemics](https://www.nature.com/articles/s41591-020-0962-9)
+- [NEJM重大新发现 | 不同人对于新冠病毒的易感性被揭示： A型血的人更易感新冠肺炎，而O型更不易感](https://mp.weixin.qq.com/s/JSpje_j2FyDQbZ78EMN0eA)
+- [Genomewide Association Study of Severe Covid-19 with Respiratory Failure](https://www.nejm.org/doi/full/10.1056/NEJMoa2020283?query=featured_home)

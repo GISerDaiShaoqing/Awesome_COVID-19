@@ -660,3 +660,7 @@
 - [Lancet Voice 特别版 | 对细胞因子风暴的解释](https://mp.weixin.qq.com/s/tjju5GbHnLavD355CuoQGA)
 - [首个降低新冠重症死亡率的药物：地塞米松“不是奇迹，但确实有用”](https://mp.weixin.qq.com/s/g5qGxQQmDYhVkuODMw35mw)
 - [便宜货“地塞米松”刷屏！新冠首个“救命药”来了？](https://mp.weixin.qq.com/s/19PI1x3syn0Yp97SMWDW4w)
+- [《英国医学杂志》：医务人员防护装备和使用培训对预防 COVID-19 的重要性](https://mp.weixin.qq.com/s/4B-ZUwjTN7U5sHSLbhgaxQ)
+- [Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study](https://www.bmj.com/content/369/bmj.m2195)
+- [世卫组织宣布停止羟氯喹治疗新冠试验](http://news.sciencenet.cn/htmlnews/2020/6/441604.shtm)
+- [世卫组织：欢迎地塞米松治疗新冠试验结果但应谨慎用药](http://news.sciencenet.cn/htmlnews/2020/6/441608.shtm)
