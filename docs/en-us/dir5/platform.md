@@ -117,3 +117,4 @@
 - [COVID Atlas alpha code](https://github.com/GeoDaCenter/covid)
 - [华人团队构建全球疫情实时追踪系统，已被美国CDC、JHU使用](https://mp.weixin.qq.com/s/eibIJp_T1LZBzLIFfEyVVA)
 - [The Live Status of Novel Coronavirus in Australia](https://github.com/covid-19-au/covid-19-au.github.io)
+- [Rapid Action on COVID-19 and EO](https://race.esa.int/)

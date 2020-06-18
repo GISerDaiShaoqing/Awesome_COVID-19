@@ -186,3 +186,6 @@
 - [Oxford Covid-19 Government Response Tracker (OxCGRT)](https://github.com/OxCGRT/covid-policy-tracker)
 - [COVID-19 related virus data, environmental data and policy data](https://github.com/stccenter/COVID-19-Data)
 - [新数据：中国抗击COVID-19科研进展视频报告（第2期）：疫苗研发](https://mp.weixin.qq.com/s/59KmMS1-QLisN-fYcKui4w)
+- [数据福利|有关COVID-19的全国新浪微博与全球Twitter数据集](https://mp.weixin.qq.com/s/VHaV8Z2AZy2Dap-g4rIwhQ)
+- [Continuously updated Sina Weibo Public Opinion Datasets / 持续维护的微博舆情数据集](https://github.com/nghuyong/weibo-public-opinion-datasets)
+- [A Multilingual COVID-19 Twitter and Weibo Dataset](https://github.com/sociocom/covid19_dataset)

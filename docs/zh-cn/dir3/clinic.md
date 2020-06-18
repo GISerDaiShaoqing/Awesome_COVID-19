@@ -664,3 +664,4 @@
 - [Use of personal protective equipment against coronavirus disease 2019 by healthcare professionals in Wuhan, China: cross sectional study](https://www.bmj.com/content/369/bmj.m2195)
 - [世卫组织宣布停止羟氯喹治疗新冠试验](http://news.sciencenet.cn/htmlnews/2020/6/441604.shtm)
 - [世卫组织：欢迎地塞米松治疗新冠试验结果但应谨慎用药](http://news.sciencenet.cn/htmlnews/2020/6/441608.shtm)
+- [检测！检测！新冠病毒检测怎么做到更快、更准、更稳定？](https://mp.weixin.qq.com/s/fI7_Ts2PDjFoYWdStxsGgA)

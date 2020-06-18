@@ -570,3 +570,5 @@
 - [疫情让我们睡得更多，却也睡得更差；锻炼1小时，就能影响生物钟？稀释血浆就能逆转衰老？｜领研网24小时热门论文](https://mp.weixin.qq.com/s/X-4pa68IjFQGlBXBjy6Opg)
 - [Cell 论文精选 | 首款同时杀灭两大类细菌的抗生素诞生，还能避免耐药性产生](https://mp.weixin.qq.com/s/G3YXVlhCUCbeDVeIv2OcOQ)
 - [北京疫情还处于上升期，严格管理不意味着封城｜科研圈日报](https://mp.weixin.qq.com/s/1avGAStN2qtk0KyOrUlENA)
+- [官宣：针对新冠肺炎疫情低风险地区，这份夏季防护指南有何不同？](https://mp.weixin.qq.com/s/0SQN1aQl_6ao_QFwH3BUVg)
+- [疫情最前沿——饮食 检测 防护 这样做最有效！](https://mp.weixin.qq.com/s/MdQ1_M1lnqsk10m5ERNjBg)

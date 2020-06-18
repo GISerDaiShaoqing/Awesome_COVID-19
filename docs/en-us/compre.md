@@ -662,3 +662,6 @@
 - [德国病毒学家：不认为中国现在会暴发第二轮疫情](http://news.sciencenet.cn/htmlnews/2020/6/441602.shtm)
 - [教育部：疫情对出国留学的影响是暂时的](http://news.sciencenet.cn/htmlnews/2020/6/441614.shtm)
 - [Satellite-based estimates of decline and rebound in China's CO2 emissions during COVID-19 pandemic](https://www.researchgate.net/publication/342197883_Satellite-based_estimates_of_decline_and_rebound_in_China's_CO2_emissions_during_COVID-19_pandemic)
+- [丘成桐：疫情带来机遇，引进海外人才3条建议](https://mp.weixin.qq.com/s/bkggIcjXqKu3EL5aAVioXg)
+- [Impacts of social and economic factors on the transmission of coronavirus disease 2019 (COVID-19) in China](https://link.springer.com/article/10.1007%2Fs00148-020-00778-2#Abs1)
+- [Satellite-based estimates of decline and rebound in China's CO2 emissions during COVID-19 pandemic](https://www.researchgate.net/publication/342197883_Satellite-based_estimates_of_decline_and_rebound_in_China's_CO2_emissions_during_COVID-19_pandemic)

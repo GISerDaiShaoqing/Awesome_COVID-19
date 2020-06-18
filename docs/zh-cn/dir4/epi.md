@@ -258,3 +258,5 @@
 - [Age-dependent effects in the transmission and control of COVID-19 epidemics](https://www.nature.com/articles/s41591-020-0962-9)
 - [NEJM重大新发现 | 不同人对于新冠病毒的易感性被揭示： A型血的人更易感新冠肺炎，而O型更不易感](https://mp.weixin.qq.com/s/JSpje_j2FyDQbZ78EMN0eA)
 - [Genomewide Association Study of Severe Covid-19 with Respiratory Failure](https://www.nejm.org/doi/full/10.1056/NEJMoa2020283?query=featured_home)
+- [Data in Brief | 基于患者信息的算法预测COVID-19死亡率](https://mp.weixin.qq.com/s/--gXdHN8iB7iAdZK_gx2tA)
+- [The Data set for Patient Information Based Algorithm to Predict Mortality Cause by COVID-19](https://www.sciencedirect.com/science/article/pii/S2352340920305138)
