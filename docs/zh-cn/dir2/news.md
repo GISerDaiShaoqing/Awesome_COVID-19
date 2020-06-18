@@ -2361,3 +2361,4 @@
 - [北京西城一小学生核酸检测阳性](https://mp.weixin.qq.com/s/23yRxap9LIImvtJ8XGo55w)
 - [国家卫健委：生肉别用水龙头直接冲洗，处理后洗手至少20秒](https://mp.weixin.qq.com/s/jjxXilOFntk1VNzJldSTdA)
 - [哈萨克斯坦首任总统确诊](https://mp.weixin.qq.com/s/mAjGQLw6ICsOmtjzEL0I_Q)
+- [国家卫健委发文：生肉别用水龙头直接冲](https://mp.weixin.qq.com/s/uTKlSXa4wPcTxuC6uHtrzQ)
