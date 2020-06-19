@@ -428,3 +428,4 @@
 - [“新发地”成疫情焦点，改造生鲜供应链一共需要几步？| 新京智库](https://mp.weixin.qq.com/s/exey04LJHYqk6G20Y0rnRw)
 - [尹稚：疫情之下对中国城市空间治理的反思](https://mp.weixin.qq.com/s/E50WJwgYI9cKZnxSLgDfeg)
 - [后疫情社区·融合｜成都东环路社区：自组织能发挥什么作用](https://mp.weixin.qq.com/s/Zk2NqqKoBkeyr4F1wlQviQ)
+- [#后疫情时代的新思考#疫情之下，关于医疗数据开放共享的5点启示丨数据猿公益策划](https://mp.weixin.qq.com/s/yW0SsSpGHb-IGk6CrBideQ)

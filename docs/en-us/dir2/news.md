@@ -2405,3 +2405,4 @@
 - [北京公布病毒基因序列，病毒从欧洲来？三文鱼又双叒出事了，在荷兰也只能含泪说拜拜了？](https://mp.weixin.qq.com/s/J5ulHHdoiea8z5-oSuig6g)
 - [灵魂拷问！生肉怎么洗？专家：砧板不能用开水烫，家里要备2-3块！](https://mp.weixin.qq.com/s/3hUg1VL8o91q1UcyYyqLjw)
 - [【荷兰数据】今日新增确诊116人，昨天检出率仅为0.8！](https://mp.weixin.qq.com/s/cDEc6B-97_G8E9WFx16iVg)
+- [在新发地谋生的人：活着不容易啊](https://mp.weixin.qq.com/s/5cq3WokyKADzOr8-U1IpIA)

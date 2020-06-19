@@ -260,3 +260,4 @@
 - [Genomewide Association Study of Severe Covid-19 with Respiratory Failure](https://www.nejm.org/doi/full/10.1056/NEJMoa2020283?query=featured_home)
 - [Data in Brief | 基于患者信息的算法预测COVID-19死亡率](https://mp.weixin.qq.com/s/--gXdHN8iB7iAdZK_gx2tA)
 - [The Data set for Patient Information Based Algorithm to Predict Mortality Cause by COVID-19](https://www.sciencedirect.com/science/article/pii/S2352340920305138)
+- [State-by-State estimates of R0 at the start of COVID-19 outbreaks in the USA](https://www.medrxiv.org/content/10.1101/2020.05.17.20104653v3)
