@@ -665,3 +665,7 @@
 - [世卫组织宣布停止羟氯喹治疗新冠试验](http://news.sciencenet.cn/htmlnews/2020/6/441604.shtm)
 - [世卫组织：欢迎地塞米松治疗新冠试验结果但应谨慎用药](http://news.sciencenet.cn/htmlnews/2020/6/441608.shtm)
 - [检测！检测！新冠病毒检测怎么做到更快、更准、更稳定？](https://mp.weixin.qq.com/s/fI7_Ts2PDjFoYWdStxsGgA)
+- [新冠肺炎无症状感染者的免疫反应可能较弱 |《自然-医学》论文](https://mp.weixin.qq.com/s/KQ-OYA0JLOKGqeNqPoD7mQ)
+- [Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections](https://www.nature.com/articles/s41591-020-0965-6)
+- [中国团队新冠论文今日登Science封面：发现新型抗新冠病毒候选药物](https://mp.weixin.qq.com/s/0Wm7i46-RJA4rDOD2N16ew)
+- [Structure-based design of antiviral drug candidates targeting the SARS-CoV-2 main protease](https://science.sciencemag.org/content/early/2020/04/21/science.abb4489)

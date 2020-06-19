@@ -404,3 +404,5 @@
 - [钟南山指导团队构建首个新冠肺炎非转基因鼠模型](http://news.sciencenet.cn/htmlnews/2020/6/441416.shtm)
 - [A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies](https://www.cell.com/cell/fulltext/S0092-8674(20)30742-X)
 - [Generation of a Broadly Useful Model for COVID-19 Pathogenesis, Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8?rss=yes)
+- [赵金存团队：针对COVID-19发病机制、疫苗研发及治疗的新小鼠模型 | CellPress对话科学家](https://mp.weixin.qq.com/s/VaeJlxI-R2vD-QEOWObn3w)
+- [Generation of a Broadly Useful Model for COVID-19 Pathogenesis Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8)

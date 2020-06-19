@@ -201,3 +201,6 @@
 - [“新冠大挑战 向科学要答案” | 第四期：保护性免疫与疫苗（今晚直播）](https://mp.weixin.qq.com/s/LX9ojz3ORnBUqsy-Apo14A)
 - [【GeoScience Café 第260期】孙一璠：从创业尝试到北美PHD & 郑星雨：武汉大学疫情安全感知与追踪团队成果介绍](https://mp.weixin.qq.com/s/4Dez3-Y3wTgNgCbeAJ38uQ)
 - [高端论坛|武汉大学陈锐志教授：社交距离精准感知](https://mp.weixin.qq.com/s/YcokJ1qLTZ4Is6Oz3KCX-w)
+- [中欧青年学者网络研讨会视频：新冠患者如何预防静脉血栓栓塞](https://mp.weixin.qq.com/s/JuDsnY2sZeafwpyXH8BCUQ)
+- [后疫情社区｜讨论会直播预告：如何走向融合](https://mp.weixin.qq.com/s/NXFDeljc7svUyo_u3Le0lw)
+- [芝加哥大学嵇元教授：COVID-19数据分析之旅](https://wxdb899618c30a4179.h5.xiaoe-tech.com/v1/course/video/v_5eecbaaa58db6_cN4FeOAS?type=2&available=1&available_product=1&share_user_id=u_5ec23c1d364e7_o9gQkbgCZH&share_type=100&scene=%E5%88%86%E4%BA%AB&entry=2&entry_type=2001&from=singlemessage&isappinstalled=0&pro_id=p_5edb9edaaea7c_oLekNUzf&is_redirect=1)
