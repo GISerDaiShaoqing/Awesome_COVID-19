@@ -189,3 +189,5 @@
 - [数据福利|有关COVID-19的全国新浪微博与全球Twitter数据集](https://mp.weixin.qq.com/s/VHaV8Z2AZy2Dap-g4rIwhQ)
 - [Continuously updated Sina Weibo Public Opinion Datasets / 持续维护的微博舆情数据集](https://github.com/nghuyong/weibo-public-opinion-datasets)
 - [A Multilingual COVID-19 Twitter and Weibo Dataset](https://github.com/sociocom/covid19_dataset)
+- [新数据：中国抗击COVID-19科研进展视频报告（第3期）：病毒抗体](https://mp.weixin.qq.com/s/Uds4wVWHyfOXdWB5FLTCpw)
+- [COVID-19 derived and augmented datasets (based on JHU, NY Times, ECDC) exported as JSON, TSV, SQL, SQLite DB (plus visualizations)](https://github.com/cipriancraciun/covid19-datasets)

@@ -191,3 +191,5 @@
 - [图说每日疫情（6月18日）：北京新增新冠确诊病例已达158例](https://mp.weixin.qq.com/s/3BffZH3Z-e27HMXXeJDcAw)
 - [北京7天新增158例，病例情况汇总一图了解→](https://mp.weixin.qq.com/s/NbeEu4PiN5ZVPuTR1pQmJw)
 - [图说每日疫情（6月19日）：北京6月份新冠确诊病例总数已达183例](https://mp.weixin.qq.com/s/ITy4AwqSnWfoac9ptyLmIQ)
+- [【专家观点】：疫情之下，什么时候生活才能恢复正常？](https://mp.weixin.qq.com/s/E8ApGC54-PSFtm9zYvAw3Q)
+- [When Will Life Return to Normal?](https://www.visualcapitalist.com/life-return-to-normal-covid-19/)

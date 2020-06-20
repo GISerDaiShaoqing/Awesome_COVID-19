@@ -673,3 +673,5 @@
 - [Raising climate ambition in the time of COVID-19](https://www.climate2020.org.uk/raising-climate-ambition-in-the-time-of-covid-19/)
 - [美学者：Covid-19抗体检测问题多多，但仍可用其指导复工](https://mp.weixin.qq.com/s/OMOtLiQ01hzKSpX2UeZWiQ)
 - [Waiting for Certainty on Covid-19 Antibody Tests — At What Cost?](https://www.nejm.org/doi/full/10.1056/nejmp2017739)
+- [研究表明：疫情期间科研人员论文写得少了，是因为在忙着带娃...](https://mp.weixin.qq.com/s/PM3dtPZsS6AkUmJ7WRzZyQ)
+- [Quantifying the Immediate Effects of the COVID-19 Pandemic on Scientists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3608302)

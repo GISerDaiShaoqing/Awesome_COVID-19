@@ -579,3 +579,4 @@
 - [三进北京新发地，中国疾控中心病毒病所发现了什么？](https://mp.weixin.qq.com/s/z11y1fZiCvRSC8DtYmlJHw)
 - [最新高考安排：中高风险地区考生全程戴口罩](https://mp.weixin.qq.com/s/tCG6ffHVjpJqHcDQ9hQcIg)
 - [COVID-19的两阶段动态传染模型 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/0qklUj4tNqWCq8Mm1pqA6A)
+- [“COVID-19”科研动态监测每日快报（6月19日）【中国科讯】](https://mp.weixin.qq.com/s/BQbj93b_22uca8tOI_khKQ)
