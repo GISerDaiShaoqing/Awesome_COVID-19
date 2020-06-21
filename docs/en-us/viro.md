@@ -408,3 +408,5 @@
 - [Generation of a Broadly Useful Model for COVID-19 Pathogenesis Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8)
 - [实锤 | 新冠病毒在人体内被RNA编辑的证据，人类脱氨酶对新冠病毒出手了！](https://mp.weixin.qq.com/s/WIpRQKQXO0O6Lmtxngqnyg)
 - [Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2](https://advances.sciencemag.org/content/6/25/eabb5813)
+- [Bat-borne virus diversity, spillover and emergence](https://www.nature.com/articles/s41579-020-0394-z)
+- [Known SARS‐CoV ‐2 infections: The tip of an important iceberg](https://onlinelibrary.wiley.com/doi/full/10.1002/hpm.3006)

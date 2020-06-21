@@ -675,3 +675,4 @@
 - [Waiting for Certainty on Covid-19 Antibody Tests — At What Cost?](https://www.nejm.org/doi/full/10.1056/nejmp2017739)
 - [研究表明：疫情期间科研人员论文写得少了，是因为在忙着带娃...](https://mp.weixin.qq.com/s/PM3dtPZsS6AkUmJ7WRzZyQ)
 - [Quantifying the Immediate Effects of the COVID-19 Pandemic on Scientists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3608302)
+- [新冠疫情后精神心理康复工作刻不容缓](http://news.sciencenet.cn/htmlnews/2020/6/441729.shtm)
