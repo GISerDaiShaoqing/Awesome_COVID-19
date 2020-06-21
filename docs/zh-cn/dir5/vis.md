@@ -194,3 +194,4 @@
 - [【专家观点】：疫情之下，什么时候生活才能恢复正常？](https://mp.weixin.qq.com/s/E8ApGC54-PSFtm9zYvAw3Q)
 - [When Will Life Return to Normal?](https://www.visualcapitalist.com/life-return-to-normal-covid-19/)
 - [图说每日疫情（6月20日）：北京6月份新冠确诊病例总数已达205例](https://mp.weixin.qq.com/s/w693LyJr9qW2UYcw8EhuGg)
+- [图说每日疫情（6月21日）：北京6月份新冠确诊病例总数已达227例](https://mp.weixin.qq.com/s/N21tNhjiZSOdHNhhrZIkhw)

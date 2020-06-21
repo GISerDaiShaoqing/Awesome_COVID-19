@@ -582,3 +582,6 @@
 - [“COVID-19”科研动态监测每日快报（6月19日）【中国科讯】](https://mp.weixin.qq.com/s/BQbj93b_22uca8tOI_khKQ)
 - [“COVID-19”科研动态监测每日快报（6月20日）【中国科讯】](https://mp.weixin.qq.com/s/DP7Sw7NexkJX1NxC1A1Ccg)
 - [肉联厂染疫，冷冻食材带毒……这次我们能揭开“新冠之谜”吗？](https://mp.weixin.qq.com/s/6QSkV6aHVLFtG3b8UXrKaQ)
+- [“病毒猎人”成了新冠的“猎物”……](https://mp.weixin.qq.com/s/YtRqRoNV0FdBj0cgNdiy6g)
+- [新型冠状病毒肺炎在不同社区传播的 SIR 模型假设 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/9Mj2dXRyOGvW-fuqNrAlxw)
+- [《自然》上来自加州大学的论文将免费；地塞米松或能显著降低新冠重症死亡率；导师造假，学生如何避免被连累？｜ 本周值得读·科研生涯](https://mp.weixin.qq.com/s/8gPFpxeoMwzMC9pFMFe9-A)
