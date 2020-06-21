@@ -406,3 +406,5 @@
 - [Generation of a Broadly Useful Model for COVID-19 Pathogenesis, Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8?rss=yes)
 - [赵金存团队：针对COVID-19发病机制、疫苗研发及治疗的新小鼠模型 | CellPress对话科学家](https://mp.weixin.qq.com/s/VaeJlxI-R2vD-QEOWObn3w)
 - [Generation of a Broadly Useful Model for COVID-19 Pathogenesis Vaccination, and Treatment](https://www.cell.com/cell/fulltext/S0092-8674(20)30741-8)
+- [实锤 | 新冠病毒在人体内被RNA编辑的证据，人类脱氨酶对新冠病毒出手了！](https://mp.weixin.qq.com/s/WIpRQKQXO0O6Lmtxngqnyg)
+- [Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2](https://advances.sciencemag.org/content/6/25/eabb5813)

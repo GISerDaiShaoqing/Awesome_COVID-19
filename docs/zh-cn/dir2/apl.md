@@ -580,3 +580,5 @@
 - [最新高考安排：中高风险地区考生全程戴口罩](https://mp.weixin.qq.com/s/tCG6ffHVjpJqHcDQ9hQcIg)
 - [COVID-19的两阶段动态传染模型 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/0qklUj4tNqWCq8Mm1pqA6A)
 - [“COVID-19”科研动态监测每日快报（6月19日）【中国科讯】](https://mp.weixin.qq.com/s/BQbj93b_22uca8tOI_khKQ)
+- [“COVID-19”科研动态监测每日快报（6月20日）【中国科讯】](https://mp.weixin.qq.com/s/DP7Sw7NexkJX1NxC1A1Ccg)
+- [肉联厂染疫，冷冻食材带毒……这次我们能揭开“新冠之谜”吗？](https://mp.weixin.qq.com/s/6QSkV6aHVLFtG3b8UXrKaQ)
