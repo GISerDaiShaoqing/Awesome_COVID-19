@@ -585,3 +585,6 @@
 - [“病毒猎人”成了新冠的“猎物”……](https://mp.weixin.qq.com/s/YtRqRoNV0FdBj0cgNdiy6g)
 - [新型冠状病毒肺炎在不同社区传播的 SIR 模型假设 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/9Mj2dXRyOGvW-fuqNrAlxw)
 - [《自然》上来自加州大学的论文将免费；地塞米松或能显著降低新冠重症死亡率；导师造假，学生如何避免被连累？｜ 本周值得读·科研生涯](https://mp.weixin.qq.com/s/8gPFpxeoMwzMC9pFMFe9-A)
+- [“COVID-19”科研动态监测每日快报（6月21日）【中国科讯】](https://mp.weixin.qq.com/s/vMQmWUAoowKNaxZv_zOJWA)
+- [@食品从业人员 在新冠肺炎疫情低风险地区，夏季要做好这些防护！](https://mp.weixin.qq.com/s/90FouenQ5Bh0PTaMn2_Q4A)
+- [新冠康复患者抗体保护效力只能维持数月乃至数周｜科研圈日报](https://mp.weixin.qq.com/s/xeAw2lb61s7e4zl1LTJfNg)

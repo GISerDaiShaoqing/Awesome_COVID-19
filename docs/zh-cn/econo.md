@@ -430,3 +430,4 @@
 - [后疫情社区·融合｜成都东环路社区：自组织能发挥什么作用](https://mp.weixin.qq.com/s/Zk2NqqKoBkeyr4F1wlQviQ)
 - [#后疫情时代的新思考#疫情之下，关于医疗数据开放共享的5点启示丨数据猿公益策划](https://mp.weixin.qq.com/s/yW0SsSpGHb-IGk6CrBideQ)
 - [隔离中的出版：一周城市生活](https://mp.weixin.qq.com/s/CnaSXevMFUFwj6UEwOJung)
+- [国际资讯| [法]疫情后的重启——经济篇(2020.6)](https://mp.weixin.qq.com/s/sFCJznBXyFoguFmMZlJ3FQ)
