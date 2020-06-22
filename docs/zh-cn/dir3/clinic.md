@@ -675,3 +675,5 @@
 - [Genomewide Association Study of Severe Covid-19 with Respiratory Failure](https://www.nejm.org/doi/full/10.1056/NEJMoa2020283)
 - [2分钟看懂NEJM：COVID-19与服用肾素-血管紧张素-醛固酮系统抑制剂](https://mp.weixin.qq.com/s/6e_-6v_uX1xoZhizaYWYfQ)
 - [Renin–Angiotensin–Aldosterone System Blockers and the Risk of Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2006923)
+- [感染COVID-19的糖尿病患者需及时进行血糖控制](https://mp.weixin.qq.com/s/AZzigc7Z2oeqDUe25TSWAw)
+- [Timely blood glucose management for the outbreak of 2019 novel coronavirus disease (COVID-19) is urgently needed](https://www.sciencedirect.com/science/article/pii/S0168822720303685?via%3Dihub)

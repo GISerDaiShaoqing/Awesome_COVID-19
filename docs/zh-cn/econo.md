@@ -431,3 +431,4 @@
 - [#后疫情时代的新思考#疫情之下，关于医疗数据开放共享的5点启示丨数据猿公益策划](https://mp.weixin.qq.com/s/yW0SsSpGHb-IGk6CrBideQ)
 - [隔离中的出版：一周城市生活](https://mp.weixin.qq.com/s/CnaSXevMFUFwj6UEwOJung)
 - [国际资讯| [法]疫情后的重启——经济篇(2020.6)](https://mp.weixin.qq.com/s/sFCJznBXyFoguFmMZlJ3FQ)
+- [全球城市观察︱赞助停摆，会员缩减，澳洲社区俱乐部复工艰难](https://mp.weixin.qq.com/s/56zF2rg2DFObc9pZcFPoig)

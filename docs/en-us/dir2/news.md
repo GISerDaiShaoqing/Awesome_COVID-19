@@ -2472,3 +2472,8 @@
 - [韩国疾控中心：已出现第二波新冠肺炎疫情](https://mp.weixin.qq.com/s/3MS7AcLRLy9o6KysoJ93Fw)
 - [迪士尼英语中心宣布关停](https://mp.weixin.qq.com/s/qfDjOynMzBCIUYmWZb2ViQ)
 - [破案了！天津最新本土确诊病例初判系人传人，同事曾多次赴京](https://mp.weixin.qq.com/s/Fkt4ix8zwFUXs82yG-akxQ)
+- [北京通报确诊病例轨迹，涉及多家超市、商场、按摩院](https://mp.weixin.qq.com/s/T0OkukNuFTaTDUkZp0MZRQ)
+- [雄安新增一本土病例为小学生，曾在学校上课](https://mp.weixin.qq.com/s/ieVLeDEYhgDW_XcR6Yr_yg)
+- [武汉危重康复患者回忆昏迷过程，“梦到被压在水下”](https://mp.weixin.qq.com/s/1m5fz0Mfj9XpbeiV9bfylQ)
+- [张文宏改主意了！不再呼吁“闷”死病毒](https://mp.weixin.qq.com/s/Sf4zNkVU8RXrOfEnk1SIxw)
+- [网传福建永辉生鲜物流出现大量无症状感染者？真相是……](https://mp.weixin.qq.com/s/bmh85_Laa-PRdTzNNoFY2Q)

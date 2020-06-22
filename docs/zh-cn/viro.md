@@ -134,7 +134,6 @@
 - [重大进展 | 中国学者发现新冠病毒致病新机制：破坏诱导多能干细胞的多能性并将其转变为成纤维细胞](https://mp.weixin.qq.com/s/vUKuVzY6vQ0AE1ch_k2OCQ)
 - [The Nucleocapsid Protein of SARS-CoV-2 Abolished Pluripotency in Human Induced Pluripotent Stem Cells](https://www.biorxiv.org/content/10.1101/2020.03.26.010694v1)
 - [“早期案例并非都与华南海鲜市场有关，源头可能更复杂”](https://mp.weixin.qq.com/s/bccVDUAEMJ2cmuqpsuxknw)
-- [A Genomic Perspective on the Origin and Emergence of SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S0092867420303287?via%3Dihub)
 - [美科学家：武汉绝不是新冠病毒源头](https://mp.weixin.qq.com/s/onnX9tkjXfykgkwiUadhTA)
 - [The proximal origin of SARS-COV-2](https://www.nature.com/articles/s41591-020-0820-9)
 - [新研究发现排毒期长达49天新冠病例，或为新亚型](https://mp.weixin.qq.com/s/YTcuXODwAhs-rL2R-qAnsQ)
