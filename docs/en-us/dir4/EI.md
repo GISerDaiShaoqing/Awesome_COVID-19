@@ -65,3 +65,4 @@
 - [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://www.nature.com/articles/s41586-020-2404-8)
 - [《英国医学杂志》指责英国新冠疫情举措“太少，太晚，太多漏洞”](https://mp.weixin.qq.com/s/LqXqO9ATyfLfqqBOgbnCGQ)
 - [The UK’s public health response to covid-19](https://www.bmj.com/content/369/bmj.m1932)
+- [Mitigating COVID-19 outbreak via high testing capacity and strong transmission-intervention in the United States](https://www.medrxiv.org/content/10.1101/2020.04.03.20052720v1)

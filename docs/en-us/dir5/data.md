@@ -191,3 +191,4 @@
 - [A Multilingual COVID-19 Twitter and Weibo Dataset](https://github.com/sociocom/covid19_dataset)
 - [新数据：中国抗击COVID-19科研进展视频报告（第3期）：病毒抗体](https://mp.weixin.qq.com/s/Uds4wVWHyfOXdWB5FLTCpw)
 - [COVID-19 derived and augmented datasets (based on JHU, NY Times, ECDC) exported as JSON, TSV, SQL, SQLite DB (plus visualizations)](https://github.com/cipriancraciun/covid19-datasets)
+- [疫情期间的空气污染NO2数据集（Sentinel-5P下载）](https://mp.weixin.qq.com/s/q_ajiRPCJtVqaMuDJ9vMfA)

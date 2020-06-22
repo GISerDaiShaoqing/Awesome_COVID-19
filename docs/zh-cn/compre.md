@@ -683,3 +683,4 @@
 - [柳叶刀-儿童青少年健康 | 保持社交距离对青少年同伴关系及其社会发展的潜在影响](https://mp.weixin.qq.com/s/fVhYspEL24mtc3h79sgmig)
 - [The effects of social deprivation on adolescent development and mental health](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30186-3/fulltext)
 - [工程学抗击新冠病毒方法文章精选](https://mp.weixin.qq.com/s/m6vwRSh7kIAdEhoJtrSTzg)
+- [哈佛大学研究：疫情期间科研人员论文写得少了，原来是...](https://mp.weixin.qq.com/s/D68mrkZtZ1M6CDmG_wiErA)

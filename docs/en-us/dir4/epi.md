@@ -262,3 +262,4 @@
 - [The Data set for Patient Information Based Algorithm to Predict Mortality Cause by COVID-19](https://www.sciencedirect.com/science/article/pii/S2352340920305138)
 - [State-by-State estimates of R0 at the start of COVID-19 outbreaks in the USA](https://www.medrxiv.org/content/10.1101/2020.05.17.20104653v3)
 - [Forecasting COVID-19 onset risk and evaluating spatiotemporal variations of the lockdown effect in China](https://www.researchsquare.com/article/rs-28675/v1)
+- [Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)

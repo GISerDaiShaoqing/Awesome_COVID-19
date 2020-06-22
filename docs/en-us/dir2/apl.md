@@ -588,3 +588,4 @@
 - [“COVID-19”科研动态监测每日快报（6月21日）【中国科讯】](https://mp.weixin.qq.com/s/vMQmWUAoowKNaxZv_zOJWA)
 - [@食品从业人员 在新冠肺炎疫情低风险地区，夏季要做好这些防护！](https://mp.weixin.qq.com/s/90FouenQ5Bh0PTaMn2_Q4A)
 - [新冠康复患者抗体保护效力只能维持数月乃至数周｜科研圈日报](https://mp.weixin.qq.com/s/xeAw2lb61s7e4zl1LTJfNg)
+- [Nature 一周论文导读 | 2020年6月11日](https://mp.weixin.qq.com/s/-3NvCnk2q_QSee6zYdieUQ)
