@@ -432,3 +432,7 @@
 - [隔离中的出版：一周城市生活](https://mp.weixin.qq.com/s/CnaSXevMFUFwj6UEwOJung)
 - [国际资讯| [法]疫情后的重启——经济篇(2020.6)](https://mp.weixin.qq.com/s/sFCJznBXyFoguFmMZlJ3FQ)
 - [全球城市观察︱赞助停摆，会员缩减，澳洲社区俱乐部复工艰难](https://mp.weixin.qq.com/s/56zF2rg2DFObc9pZcFPoig)
+- [最新成果 | 疫情下公共交通系统通勤客流测算及优化建议——以北京市为例](https://mp.weixin.qq.com/s/FNzjgbXDxZHTcP29PQFVig)
+- [#榜样的力量#开域疫情防控测温一体机——为千万人的生活出行安全保驾护航丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/WRrxxbpA59ue5hkxieicIA)
+- [#榜样的力量#Smartbi疫情收集和分析系统——助力教育行业复工复学丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/T8tzM33WkhV5JFk_fAvzYQ)
+- [后疫情社区·影像｜隔离中生长的花园](https://mp.weixin.qq.com/s/-pXKxF6ZzpckRKLXkhsApA)
