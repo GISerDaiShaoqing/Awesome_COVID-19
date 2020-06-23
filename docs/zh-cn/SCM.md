@@ -67,5 +67,6 @@
 - [复苏中的城市 | 新冠病毒将如何改变城市设计？](https://mp.weixin.qq.com/s/QKYiiTdsQqQz0nFLCni46Q)
 - [复苏中的城市︱后疫情时代城市可以拥有更公平、更韧性的道路空间](https://mp.weixin.qq.com/s/O5824wR75vRCu90KPM5p8w)
 - [后疫情时代的绿色复苏︱麦肯锡: 如何打造一款兼顾气候效益的经济刺激计划](https://mp.weixin.qq.com/s/mamZT9HthYwofBS4HrkLXA)
+- [乘风破浪的共享单车︱角色转变: COVID-19时期芝加哥共享单车和网约车的表现](https://mp.weixin.qq.com/s/TLIDALTmc_nJQvFp5hGyDA)
 
 ![](/img/SCM.jpg)

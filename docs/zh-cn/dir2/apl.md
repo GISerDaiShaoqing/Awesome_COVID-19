@@ -589,3 +589,7 @@
 - [@食品从业人员 在新冠肺炎疫情低风险地区，夏季要做好这些防护！](https://mp.weixin.qq.com/s/90FouenQ5Bh0PTaMn2_Q4A)
 - [新冠康复患者抗体保护效力只能维持数月乃至数周｜科研圈日报](https://mp.weixin.qq.com/s/xeAw2lb61s7e4zl1LTJfNg)
 - [Nature 一周论文导读 | 2020年6月11日](https://mp.weixin.qq.com/s/-3NvCnk2q_QSee6zYdieUQ)
+- [“COVID-19”科研动态监测每日快报（6月22日）【中国科讯】](https://mp.weixin.qq.com/s/MpQFOHd8rYABcvf-2Gtylw)
+- [三文鱼“有罪”证据不足，专家呼吁勿盲目相信进口食品](https://mp.weixin.qq.com/s/69Y3TPyaevAxXVBEQOU-NQ)
+- [推特知乎宣传一波，论文就能被审稿人青睐？说不定真可以；新冠免疫力可能在2个月后消失｜领研网24小时热门论文](https://mp.weixin.qq.com/s/Skh-Zs5JoGNW9TldJuPIMQ)
+- [明日起，美国将停发访问学者签证和H1B工作签证 | 科研圈日报](https://mp.weixin.qq.com/s/Tzhwl9f42KJeWswDCpVGBg)

@@ -684,3 +684,6 @@
 - [The effects of social deprivation on adolescent development and mental health](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30186-3/fulltext)
 - [工程学抗击新冠病毒方法文章精选](https://mp.weixin.qq.com/s/m6vwRSh7kIAdEhoJtrSTzg)
 - [哈佛大学研究：疫情期间科研人员论文写得少了，原来是...](https://mp.weixin.qq.com/s/D68mrkZtZ1M6CDmG_wiErA)
+- [陆林院士：疫情后精神心理康复工作刻不容缓](https://mp.weixin.qq.com/s/lKTITKb9IQ3fTyFeNJV2QA)
+- [专家视点 | 通过新冠疫情寻找可持续新型现代社会](https://mp.weixin.qq.com/s/f5USOf-x4U1hFHgPcOUg9g)
+- [Discrimination and Social Exclusion in the Outbreak of COVID-19](https://www.mdpi.com/1660-4601/17/8/2933)
