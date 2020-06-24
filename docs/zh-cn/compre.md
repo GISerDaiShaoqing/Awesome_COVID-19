@@ -687,3 +687,8 @@
 - [陆林院士：疫情后精神心理康复工作刻不容缓](https://mp.weixin.qq.com/s/lKTITKb9IQ3fTyFeNJV2QA)
 - [专家视点 | 通过新冠疫情寻找可持续新型现代社会](https://mp.weixin.qq.com/s/f5USOf-x4U1hFHgPcOUg9g)
 - [Discrimination and Social Exclusion in the Outbreak of COVID-19](https://www.mdpi.com/1660-4601/17/8/2933)
+- [早诊或预测新冠重症，分析血清中蛋白质和代谢产物或可助力](https://mp.weixin.qq.com/s/lBCiCWoVX3mP7etM5LQ-Bg)
+- [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9)
+- [【COVID-19】城市公交系统GPS数据：后疫情时代时空排放分析及潜在变化](https://mp.weixin.qq.com/s/kz5GspfVwLAQC4JP8JtZYg)
+- [GPS data in urban transit buses: spatio-temporal emission analysis and potential changes in post-COVID-19 future](http://www.enerarxiv.org/page/thesis.html?id=1927)
+- [Assessing the recent impact of COVID-19 on carbon emissions from China using domestic economic data](https://www.researchgate.net/publication/342276667_Assessing_the_recent_impact_of_COVID-19_on_carbon_emissions_from_China_using_domestic_economic_data)

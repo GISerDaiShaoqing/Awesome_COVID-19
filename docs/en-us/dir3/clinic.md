@@ -677,3 +677,4 @@
 - [Renin–Angiotensin–Aldosterone System Blockers and the Risk of Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2006923)
 - [感染COVID-19的糖尿病患者需及时进行血糖控制](https://mp.weixin.qq.com/s/AZzigc7Z2oeqDUe25TSWAw)
 - [Timely blood glucose management for the outbreak of 2019 novel coronavirus disease (COVID-19) is urgently needed](https://www.sciencedirect.com/science/article/pii/S0168822720303685?via%3Dihub)
+- [引领全球！中国启动新冠疫苗Ⅲ期临床试验！](https://mp.weixin.qq.com/s/jra_cl_LhA4n75vB72784w)

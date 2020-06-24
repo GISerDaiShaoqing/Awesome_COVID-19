@@ -436,3 +436,4 @@
 - [#榜样的力量#开域疫情防控测温一体机——为千万人的生活出行安全保驾护航丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/WRrxxbpA59ue5hkxieicIA)
 - [#榜样的力量#Smartbi疫情收集和分析系统——助力教育行业复工复学丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/T8tzM33WkhV5JFk_fAvzYQ)
 - [后疫情社区·影像｜隔离中生长的花园](https://mp.weixin.qq.com/s/-pXKxF6ZzpckRKLXkhsApA)
+- [国际资讯 | [英]商业街解封后/剑桥郡新城第三阶段(2020.6)​](https://mp.weixin.qq.com/s/LbRWPgegoqp12n-HMGWWUw)

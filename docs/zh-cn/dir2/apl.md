@@ -594,3 +594,5 @@
 - [推特知乎宣传一波，论文就能被审稿人青睐？说不定真可以；新冠免疫力可能在2个月后消失｜领研网24小时热门论文](https://mp.weixin.qq.com/s/Skh-Zs5JoGNW9TldJuPIMQ)
 - [明日起，美国将停发访问学者签证和H1B工作签证 | 科研圈日报](https://mp.weixin.qq.com/s/Tzhwl9f42KJeWswDCpVGBg)
 - [6月24日生效！特朗普下令停发部分外国学者新签证](https://mp.weixin.qq.com/s/wIknh5dJMhmqdxDoEz8HwA)
+- [“COVID-19”科研动态监测每日快报（6月23日）【中国科讯】](https://mp.weixin.qq.com/s/dDzhcjhxYhbBORuoPxpsug)
+- [全球首个新冠灭活疫苗国际临床 Ⅲ 期试验正式启动 | 科研圈日报](https://mp.weixin.qq.com/s/6LwcFint9XLugpJ2-xhmJg)
