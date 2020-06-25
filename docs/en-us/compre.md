@@ -693,3 +693,4 @@
 - [GPS data in urban transit buses: spatio-temporal emission analysis and potential changes in post-COVID-19 future](http://www.enerarxiv.org/page/thesis.html?id=1927)
 - [Assessing the recent impact of COVID-19 on carbon emissions from China using domestic economic data](https://www.researchgate.net/publication/342276667_Assessing_the_recent_impact_of_COVID-19_on_carbon_emissions_from_China_using_domestic_economic_data)
 - [IGES讨论COVID-19对日本与印度的气候目标的影响](https://mp.weixin.qq.com/s/4mXRV1A_It-tUMdP7u41DQ)
+- [Impact of COVID-19 on Japan and India: Climate, Energy and Economic Stimulus](https://www.iges.or.jp/en/pub/covid-19-impact-japan-and-india-climate-energy-and-economic-stimulus-20200522/en)

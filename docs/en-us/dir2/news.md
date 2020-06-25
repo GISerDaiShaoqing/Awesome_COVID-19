@@ -2518,3 +2518,7 @@
 - [上海对排查到的来自和途径高中风险地区人员核检，结果出来了](https://mp.weixin.qq.com/s/ETGuadwAbaK4Fs4y3V-jsg)
 - [6月23日福建0新增！](https://mp.weixin.qq.com/s/O2aqaoqd9ymCMpBaRSzAMg)
 - [国家卫健委：全国核酸检测累计达到9041万人份](https://mp.weixin.qq.com/s/ZSATJsdquAGKnD7NHTAB8g)
+- [北京端午节前最新通报，很有针对性](https://mp.weixin.qq.com/s/EvnPQFYVSrC-K5umkjaCAQ)
+- [北京又有3名干部被问责](https://mp.weixin.qq.com/s/2bZSsQgJbdi02rSCoOq_TA)
+- [又双叒叕发生暴乱？荷兰这里开始宵禁！今晚将确定继续放松的措施！](https://mp.weixin.qq.com/s/HHEy1ww8YMBJ8U1WEYmhKg)
+- [男子刻意隐瞒北京新发地旅行史，被拘留](https://mp.weixin.qq.com/s/uvyHsOE7fSflhbAKuZnKbA)

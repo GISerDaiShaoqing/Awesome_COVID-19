@@ -263,3 +263,5 @@
 - [State-by-State estimates of R0 at the start of COVID-19 outbreaks in the USA](https://www.medrxiv.org/content/10.1101/2020.05.17.20104653v3)
 - [Forecasting COVID-19 onset risk and evaluating spatiotemporal variations of the lockdown effect in China](https://www.researchsquare.com/article/rs-28675/v1)
 - [Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
+- [模型估计：全球约1/5的人口患有可增加COVID-19重症感染风险的基础疾病](https://mp.weixin.qq.com/s/IBMSYA1WyAHeFxtYSPhFxA)
+- [Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30264-3/fulltext)

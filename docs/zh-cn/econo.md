@@ -437,3 +437,5 @@
 - [#榜样的力量#Smartbi疫情收集和分析系统——助力教育行业复工复学丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/T8tzM33WkhV5JFk_fAvzYQ)
 - [后疫情社区·影像｜隔离中生长的花园](https://mp.weixin.qq.com/s/-pXKxF6ZzpckRKLXkhsApA)
 - [国际资讯 | [英]商业街解封后/剑桥郡新城第三阶段(2020.6)​](https://mp.weixin.qq.com/s/LbRWPgegoqp12n-HMGWWUw)
+- [#后疫情时代的新思考#数据安全隐患仍是医疗行业的“老大难”问题丨数据猿公益策划](https://mp.weixin.qq.com/s/9O903e07AHwCGF2AFPGMgA)
+- [#后疫情时代的新思考#越是疫情当前，企业在营销层面越应该设定底线丨数据猿公益策划](https://mp.weixin.qq.com/s/xFNEhqp2JZ6_p9i3ZUA9JQ)
