@@ -678,3 +678,6 @@
 - [感染COVID-19的糖尿病患者需及时进行血糖控制](https://mp.weixin.qq.com/s/AZzigc7Z2oeqDUe25TSWAw)
 - [Timely blood glucose management for the outbreak of 2019 novel coronavirus disease (COVID-19) is urgently needed](https://www.sciencedirect.com/science/article/pii/S0168822720303685?via%3Dihub)
 - [引领全球！中国启动新冠疫苗Ⅲ期临床试验！](https://mp.weixin.qq.com/s/jra_cl_LhA4n75vB72784w)
+- [嗅觉丧失是新冠“非典型”症状？专家回应](https://mp.weixin.qq.com/s/uvXulmv5G_rZSfbqFnoKGw)
+- [振奋人心 | 迎来了光明！武汉大学李红良等团队全球首次发现他汀类药物可以降低新冠患者40%以上的死亡率](https://mp.weixin.qq.com/s/AWtiAvnJB4pKbRrs0g5xpQ)
+- [In-hospital Use of Statins is Associated with a Reduced Risk of Mortality among Individuals with COVID-19](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30316-8)

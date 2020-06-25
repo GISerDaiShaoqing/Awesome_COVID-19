@@ -596,3 +596,6 @@
 - [6月24日生效！特朗普下令停发部分外国学者新签证](https://mp.weixin.qq.com/s/wIknh5dJMhmqdxDoEz8HwA)
 - [“COVID-19”科研动态监测每日快报（6月23日）【中国科讯】](https://mp.weixin.qq.com/s/dDzhcjhxYhbBORuoPxpsug)
 - [全球首个新冠灭活疫苗国际临床 Ⅲ 期试验正式启动 | 科研圈日报](https://mp.weixin.qq.com/s/6LwcFint9XLugpJ2-xhmJg)
+- [首个灭活疫苗III期临床全球启动，新闻稿丢了哪些关键信息？](https://mp.weixin.qq.com/s/wToWqEYpT3TE8-9TvM_dNA)
+- [“COVID-19”科研动态监测每日快报（6月24日）【中国科讯】](https://mp.weixin.qq.com/s/H9zM2MxK_7VHl1N1WZNLoQ)
+- [​英国新冠肺炎禁闭: 对空气污染有什么影响 | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/Y-GDDtrqYDuV6gvPvjZMvA)

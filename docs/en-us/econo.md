@@ -439,3 +439,4 @@
 - [国际资讯 | [英]商业街解封后/剑桥郡新城第三阶段(2020.6)​](https://mp.weixin.qq.com/s/LbRWPgegoqp12n-HMGWWUw)
 - [#后疫情时代的新思考#数据安全隐患仍是医疗行业的“老大难”问题丨数据猿公益策划](https://mp.weixin.qq.com/s/9O903e07AHwCGF2AFPGMgA)
 - [#后疫情时代的新思考#越是疫情当前，企业在营销层面越应该设定底线丨数据猿公益策划](https://mp.weixin.qq.com/s/xFNEhqp2JZ6_p9i3ZUA9JQ)
+- [后疫情社区·融合｜意大利普拉托的华人，能否“跳出”中国城](https://mp.weixin.qq.com/s/leOJFy-hlkZ74YwybrB8kg)

@@ -694,3 +694,6 @@
 - [Assessing the recent impact of COVID-19 on carbon emissions from China using domestic economic data](https://www.researchgate.net/publication/342276667_Assessing_the_recent_impact_of_COVID-19_on_carbon_emissions_from_China_using_domestic_economic_data)
 - [IGES讨论COVID-19对日本与印度的气候目标的影响](https://mp.weixin.qq.com/s/4mXRV1A_It-tUMdP7u41DQ)
 - [Impact of COVID-19 on Japan and India: Climate, Energy and Economic Stimulus](https://www.iges.or.jp/en/pub/covid-19-impact-japan-and-india-climate-energy-and-economic-stimulus-20200522/en)
+- [疫情让其他非相关研究被“冷落”：论文发表变得更难了](https://mp.weixin.qq.com/s/SnsiQ464R0UEd3WPoByyVA)
+- [学生视角丨防疫形势下的大数据智慧](https://mp.weixin.qq.com/s/hrmxpXiRUdkQbRcE-lKfRQ)
+- [Post-Normal Pandemics: Why CoViD-19 Requires a New Approach to Science](https://www.recentiprogressi.it/articoli.php?archivio=yes&vol_id=3347&id=33181)
