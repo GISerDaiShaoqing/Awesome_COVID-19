@@ -2554,3 +2554,4 @@
 - [欧盟将重启国际旅行，美国不在开放边境对象国名单内](https://mp.weixin.qq.com/s/8NHOUrf5-slBsjZuvc3TJg)
 - [“阴改阳”并发朋友圈，拘留](https://mp.weixin.qq.com/s/uofj3EdgnYu_LVfZU_Q8Lg)
 - [北京又有两地升为中风险](https://mp.weixin.qq.com/s/shYnVdDcH39nYPWH0hORow)
+- [北京新发地农产品批发市场迎来新任总经理](https://mp.weixin.qq.com/s/l5cNKPTGqVECnXC5UOlzEA)

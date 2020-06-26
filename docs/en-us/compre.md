@@ -698,3 +698,5 @@
 - [学生视角丨防疫形势下的大数据智慧](https://mp.weixin.qq.com/s/hrmxpXiRUdkQbRcE-lKfRQ)
 - [Post-Normal Pandemics: Why CoViD-19 Requires a New Approach to Science](https://www.recentiprogressi.it/articoli.php?archivio=yes&vol_id=3347&id=33181)
 - [Enhanced secondary pollution offset reduction of primary emissions during COVID-19 lockdown in China](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa137/5859289)
+- [武汉大学中南医院、麻省总院领衔全球COVID-19科技贡献排名](https://mp.weixin.qq.com/s/ASvJv7Hfw3ou_4FeRWQ1vg)
+- [How COVID-19 is Changing Research Culture](https://digitalscience.figshare.com/articles/How_COVID-19_is_Changing_Research_Culture/12383267)

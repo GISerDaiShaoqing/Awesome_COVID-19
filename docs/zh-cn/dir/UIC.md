@@ -39,3 +39,4 @@
 - [知微数据](http://xgdsj.zhiweidata.net/all/?source=zhiwei_weibo)
 - [增加“传播与干预模型”，COVID Insights网站新功能上线](https://mp.weixin.qq.com/s/d0yif60S7NjwritA-U_6Hw)
 - [COVID-19 Earth Observation Dashboard](https://eodashboard.org/?poi=CN03-E8)
+- [A global collection of Open Source projects during COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)
