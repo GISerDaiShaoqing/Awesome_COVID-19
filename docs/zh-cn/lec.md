@@ -214,3 +214,4 @@
 - [【CRRT学社云讲堂 第四期】6月28日直播：战疫“武器”，CRRT的运用思考](https://mp.weixin.qq.com/s/GpeGfz_E0JEJ-yMW_XF6Hg)
 - [数据导读回顾 | 李国栋、靳贺、王世通：巴西和印度的COVID-19数据解读](https://mp.weixin.qq.com/s/C9_CGsfxNggOipWhKbQeAQ)
 - [讲座预告 |沈体雁、薛进军、苏延芳、戴晓晨：“中美日防疫模式与疫情影响分析”论坛](https://mp.weixin.qq.com/s/anTIeN_vfeE0Ehy8kvveEA)
+- [讨论会：后疫情社区如何更加融合](https://mp.weixin.qq.com/s/7gt6Si18ZxhYEQ3IY6JEGA)

@@ -440,3 +440,7 @@
 - [#后疫情时代的新思考#数据安全隐患仍是医疗行业的“老大难”问题丨数据猿公益策划](https://mp.weixin.qq.com/s/9O903e07AHwCGF2AFPGMgA)
 - [#后疫情时代的新思考#越是疫情当前，企业在营销层面越应该设定底线丨数据猿公益策划](https://mp.weixin.qq.com/s/xFNEhqp2JZ6_p9i3ZUA9JQ)
 - [后疫情社区·融合｜意大利普拉托的华人，能否“跳出”中国城](https://mp.weixin.qq.com/s/leOJFy-hlkZ74YwybrB8kg)
+- [【创意】让“社交距离”成为常态：建筑师们正在重新设计城市](https://mp.weixin.qq.com/s/PMXcjhmfwIXlYE8pqp0lfw)
+- [Architects are redesigning cities to help with social distancing](https://www.weforum.org/agenda/2020/06/architects-covid19-urban-infrastructure-cities-social-distancing)
+- [【经济学人】1米还是2米：为什么各国推出不同的防疫“社交距离”？](https://mp.weixin.qq.com/s/BDeDLOILSPql0NyaSa1TPw)
+- [The science behind social-distancing measures](https://www.economist.com/the-economist-explains/2020/06/20/the-science-behind-social-distancing-measures)
