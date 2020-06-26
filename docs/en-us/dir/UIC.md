@@ -38,3 +38,4 @@
 - [知识疫图](https://covid-19.aminer.cn/)
 - [知微数据](http://xgdsj.zhiweidata.net/all/?source=zhiwei_weibo)
 - [增加“传播与干预模型”，COVID Insights网站新功能上线](https://mp.weixin.qq.com/s/d0yif60S7NjwritA-U_6Hw)
+- [COVID-19 Earth Observation Dashboard](https://eodashboard.org/?poi=CN03-E8)
