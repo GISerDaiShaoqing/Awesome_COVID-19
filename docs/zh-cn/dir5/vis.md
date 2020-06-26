@@ -196,3 +196,4 @@
 - [图说每日疫情（6月20日）：北京6月份新冠确诊病例总数已达205例](https://mp.weixin.qq.com/s/w693LyJr9qW2UYcw8EhuGg)
 - [图说每日疫情（6月21日）：北京6月份新冠确诊病例总数已达227例](https://mp.weixin.qq.com/s/N21tNhjiZSOdHNhhrZIkhw)
 - [图说每日疫情（6月22日）：北京昨日新增确诊病例降至个位数，6月确诊病例总数达236例](https://mp.weixin.qq.com/s/KdmWe8YqcucgL7n9At-vMg)
+- [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)

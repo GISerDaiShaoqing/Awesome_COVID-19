@@ -215,3 +215,4 @@
 - [数据导读回顾 | 李国栋、靳贺、王世通：巴西和印度的COVID-19数据解读](https://mp.weixin.qq.com/s/C9_CGsfxNggOipWhKbQeAQ)
 - [讲座预告 |沈体雁、薛进军、苏延芳、戴晓晨：“中美日防疫模式与疫情影响分析”论坛](https://mp.weixin.qq.com/s/anTIeN_vfeE0Ehy8kvveEA)
 - [讨论会：后疫情社区如何更加融合](https://mp.weixin.qq.com/s/7gt6Si18ZxhYEQ3IY6JEGA)
+- [【Café速递】郑星雨：新冠肺炎之珞珈山战役—武汉大学疫情安全感知团队成果介绍](https://mp.weixin.qq.com/s/2UWtV9PBjT3nOKzFSAjtwg)

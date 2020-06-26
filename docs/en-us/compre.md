@@ -697,3 +697,4 @@
 - [疫情让其他非相关研究被“冷落”：论文发表变得更难了](https://mp.weixin.qq.com/s/SnsiQ464R0UEd3WPoByyVA)
 - [学生视角丨防疫形势下的大数据智慧](https://mp.weixin.qq.com/s/hrmxpXiRUdkQbRcE-lKfRQ)
 - [Post-Normal Pandemics: Why CoViD-19 Requires a New Approach to Science](https://www.recentiprogressi.it/articoli.php?archivio=yes&vol_id=3347&id=33181)
+- [Enhanced secondary pollution offset reduction of primary emissions during COVID-19 lockdown in China](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa137/5859289)
