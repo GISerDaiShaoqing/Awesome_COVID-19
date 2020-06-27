@@ -2566,3 +2566,6 @@
 - [核酸检测为什么限定七日内有效？](https://mp.weixin.qq.com/s/kXMopxeVXwbDaYYzSUzSFg)
 - [北京公布新增17例确诊详情，14例为新发地经营人员](https://mp.weixin.qq.com/s/-uD5OUhMKXsyjTQAKEr3Vw)
 - [蚊蝇是否会传播新冠病毒？收快递外卖会感染吗？专家权威回应](https://mp.weixin.qq.com/s/4xTyfdODux2V-YoC2UkSCw)
+- [【今日数据】新增确71人、2例死亡，荷兰折线持续维稳…](https://mp.weixin.qq.com/s/nFN6drofbkV0Ict-rwSXrA)
+- [德国最大猪肉加工企业657例确诊，约7000人被隔离，中国海关总署暂停一家德企猪肉进口](https://mp.weixin.qq.com/s/6RAUonPu6LlEBARUuKL0Hg)
+- [北京至少7家餐馆现工作人员确诊，为啥很多病例都和食品有关](https://mp.weixin.qq.com/s/UBsFIfbdTxvviHcsxVAe2w)

@@ -703,3 +703,5 @@
 - [How COVID-19 is Changing Research Culture](https://digitalscience.figshare.com/articles/How_COVID-19_is_Changing_Research_Culture/12383267)
 - [震撼 | 新冠肺炎研究领域科技贡献排名出炉，武汉大学名列前茅](https://mp.weixin.qq.com/s/Br1XGz-DROUA3_lsjMR5Jw)
 - [谢晓亮：病毒无国界，抗疫亦如是 | 视频](https://mp.weixin.qq.com/s/DQQcwllcSISPpi5eshMhcQ)
+- [西班牙在去年3月废水样本中检出新冠病毒，这个研究靠谱吗？](https://mp.weixin.qq.com/s/k9JLp7JLzxUx53s8BLcyRw)
+- [Sentinel surveillance of SARS-CoV-2 in wastewater anticipates the occurrence of COVID-19 cases](https://www.medrxiv.org/content/10.1101/2020.06.13.20129627v1.article-info)
