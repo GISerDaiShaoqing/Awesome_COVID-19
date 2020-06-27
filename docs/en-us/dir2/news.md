@@ -2565,3 +2565,4 @@
 - [美联航自7月8日起恢复旧金山至上海航线](https://mp.weixin.qq.com/s/yXlQdDgSq9he6F2ye7_e4g)
 - [核酸检测为什么限定七日内有效？](https://mp.weixin.qq.com/s/kXMopxeVXwbDaYYzSUzSFg)
 - [北京公布新增17例确诊详情，14例为新发地经营人员](https://mp.weixin.qq.com/s/-uD5OUhMKXsyjTQAKEr3Vw)
+- [蚊蝇是否会传播新冠病毒？收快递外卖会感染吗？专家权威回应](https://mp.weixin.qq.com/s/4xTyfdODux2V-YoC2UkSCw)
