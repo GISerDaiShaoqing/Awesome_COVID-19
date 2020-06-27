@@ -2562,3 +2562,6 @@
 - [西班牙去年3月废水样本中检出新冠病毒](https://mp.weixin.qq.com/s/386glCwQV7FsOxxz-pQBuw)
 - [16名NBA球员，新冠阳性](https://mp.weixin.qq.com/s/tTVbI0r9pUQXC-kQ7ZU1bA)
 - [美国错发14亿美元疫情救助金给逝者，钱拿得回来吗](https://mp.weixin.qq.com/s/zTc0OfRUyS47XsAqAqKvSg)
+- [美联航自7月8日起恢复旧金山至上海航线](https://mp.weixin.qq.com/s/yXlQdDgSq9he6F2ye7_e4g)
+- [核酸检测为什么限定七日内有效？](https://mp.weixin.qq.com/s/kXMopxeVXwbDaYYzSUzSFg)
+- [北京公布新增17例确诊详情，14例为新发地经营人员](https://mp.weixin.qq.com/s/-uD5OUhMKXsyjTQAKEr3Vw)
