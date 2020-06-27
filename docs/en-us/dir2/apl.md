@@ -601,3 +601,4 @@
 - [​英国新冠肺炎禁闭: 对空气污染有什么影响 | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/Y-GDDtrqYDuV6gvPvjZMvA)
 - [“COVID-19”科研动态监测每日快报（6月25日）【中国科讯】](https://mp.weixin.qq.com/s/CbQOsF_2mJv5a1HJklmxrA)
 - [近距离感染传播的蒙特卡罗模拟研究 | 网络科学论文速递39篇](https://mp.weixin.qq.com/s/TE0aZNhABsFzlRUDEsSWfw)
+- [“COVID-19”科研动态监测每日快报（6月26日）【中国科讯】](https://mp.weixin.qq.com/s/iRvl3DjGGvMGCPc-_Oj_lA)

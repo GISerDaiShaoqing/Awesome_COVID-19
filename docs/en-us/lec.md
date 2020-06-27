@@ -216,3 +216,4 @@
 - [讲座预告 |沈体雁、薛进军、苏延芳、戴晓晨：“中美日防疫模式与疫情影响分析”论坛](https://mp.weixin.qq.com/s/anTIeN_vfeE0Ehy8kvveEA)
 - [讨论会：后疫情社区如何更加融合](https://mp.weixin.qq.com/s/7gt6Si18ZxhYEQ3IY6JEGA)
 - [【Café速递】郑星雨：新冠肺炎之珞珈山战役—武汉大学疫情安全感知团队成果介绍](https://mp.weixin.qq.com/s/2UWtV9PBjT3nOKzFSAjtwg)
+- [讲座回顾 | 吴玉鸣：基于面板数据的地区疫情经济影响分析](https://mp.weixin.qq.com/s/DQSenHvKB_PLPmg2H78Mjg)

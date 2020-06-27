@@ -681,3 +681,6 @@
 - [嗅觉丧失是新冠“非典型”症状？专家回应](https://mp.weixin.qq.com/s/uvXulmv5G_rZSfbqFnoKGw)
 - [振奋人心 | 迎来了光明！武汉大学李红良等团队全球首次发现他汀类药物可以降低新冠患者40%以上的死亡率](https://mp.weixin.qq.com/s/AWtiAvnJB4pKbRrs0g5xpQ)
 - [In-hospital Use of Statins is Associated with a Reduced Risk of Mortality among Individuals with COVID-19](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30316-8)
+- [Nature关注：越来越多的线索表明，新冠病毒可引发糖尿病](https://mp.weixin.qq.com/s/k9W8nrF_jdouD2Secvpulg)
+- [Mounting clues suggest the coronavirus might trigger diabetes](https://www.nature.com/articles/d41586-020-01891-8#ref-CR8)
+- [感染新冠病毒，还可能引发患糖尿病](https://mp.weixin.qq.com/s/hbdndhTSozCe2YfA5WeZ9A)

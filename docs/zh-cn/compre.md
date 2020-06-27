@@ -700,3 +700,5 @@
 - [Enhanced secondary pollution offset reduction of primary emissions during COVID-19 lockdown in China](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa137/5859289)
 - [武汉大学中南医院、麻省总院领衔全球COVID-19科技贡献排名](https://mp.weixin.qq.com/s/ASvJv7Hfw3ou_4FeRWQ1vg)
 - [How COVID-19 is Changing Research Culture](https://digitalscience.figshare.com/articles/How_COVID-19_is_Changing_Research_Culture/12383267)
+- [震撼 | 新冠肺炎研究领域科技贡献排名出炉，武汉大学名列前茅](https://mp.weixin.qq.com/s/Br1XGz-DROUA3_lsjMR5Jw)
+- [谢晓亮：病毒无国界，抗疫亦如是 | 视频](https://mp.weixin.qq.com/s/DQQcwllcSISPpi5eshMhcQ)
