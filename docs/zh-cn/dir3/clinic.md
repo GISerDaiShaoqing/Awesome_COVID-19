@@ -685,3 +685,5 @@
 - [Mounting clues suggest the coronavirus might trigger diabetes](https://www.nature.com/articles/d41586-020-01891-8#ref-CR8)
 - [感染新冠病毒，还可能引发患糖尿病](https://mp.weixin.qq.com/s/hbdndhTSozCe2YfA5WeZ9A)
 - [Lancet Voice | 新冠疫苗、胰岛素定价、毒蛇咬伤](https://mp.weixin.qq.com/s/LsE6quqhPW-E3MB3ut-qPg)
+- [Can tocilizumab calm the cytokine storm of COVID-19?](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30210-1/fulltext)
+- [Tocilizumab in patients with severe COVID-19: a retrospective cohort study](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30173-9/fulltext#seccestitle10)
