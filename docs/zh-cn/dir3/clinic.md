@@ -684,3 +684,4 @@
 - [Nature关注：越来越多的线索表明，新冠病毒可引发糖尿病](https://mp.weixin.qq.com/s/k9W8nrF_jdouD2Secvpulg)
 - [Mounting clues suggest the coronavirus might trigger diabetes](https://www.nature.com/articles/d41586-020-01891-8#ref-CR8)
 - [感染新冠病毒，还可能引发患糖尿病](https://mp.weixin.qq.com/s/hbdndhTSozCe2YfA5WeZ9A)
+- [Lancet Voice | 新冠疫苗、胰岛素定价、毒蛇咬伤](https://mp.weixin.qq.com/s/LsE6quqhPW-E3MB3ut-qPg)

@@ -604,3 +604,4 @@
 - [“COVID-19”科研动态监测每日快报（6月26日）【中国科讯】](https://mp.weixin.qq.com/s/iRvl3DjGGvMGCPc-_Oj_lA)
 - [新冠病毒毒株感染力或已显著提升 | 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/lM_ZD4ON7l_BbpjU38olQA)
 - [“COVID-19”科研动态监测每日快报（6月27日）【中国科讯】](https://mp.weixin.qq.com/s/C_2PkO3QRnXv6_nD46i5fw)
+- [“人脸识别，预测罪犯”研究遭1700名学者联名反对；北京此次疫情排除由武汉毒株导致 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/a3KKn7B1Sjw6eKH8-gQt9g)

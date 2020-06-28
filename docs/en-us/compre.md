@@ -705,3 +705,5 @@
 - [谢晓亮：病毒无国界，抗疫亦如是 | 视频](https://mp.weixin.qq.com/s/DQQcwllcSISPpi5eshMhcQ)
 - [西班牙在去年3月废水样本中检出新冠病毒，这个研究靠谱吗？](https://mp.weixin.qq.com/s/k9JLp7JLzxUx53s8BLcyRw)
 - [Sentinel surveillance of SARS-CoV-2 in wastewater anticipates the occurrence of COVID-19 cases](https://www.medrxiv.org/content/10.1101/2020.06.13.20129627v1.article-info)
+- [【Applied Energy最新原创论文】供应安全、战略储存和Covid19: 可再生碳基燃料在低碳化交通运输中的作用](https://mp.weixin.qq.com/s/4IbGKcv6OhoeWDlR4es13Q)
+- [Security of supply, strategic storage and Covid19: Which lessons learnt for renewable and recycled carbon fuels, and their future role in decarbonizing transport?](https://www.sciencedirect.com/science/article/pii/S0306261920307285)

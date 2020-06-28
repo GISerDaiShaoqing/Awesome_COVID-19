@@ -2578,3 +2578,5 @@
 - [6月27日福建新增境外输入无症状感染者2例，来自俄罗斯](https://mp.weixin.qq.com/s/5jBminq9xMO2WSLRy-4Wrg)
 - [新增确诊17例，其中本土14例在北京](https://mp.weixin.qq.com/s/eBoXzliQny3W5IuBX9iv4Q)
 - [雄安安新县各村、小区、楼院实行全封闭管理](https://mp.weixin.qq.com/s/3w_TEM5ez9EwYtER_QfnYQ)
+- [核酸“混检”可靠吗？国家卫健委回应](https://mp.weixin.qq.com/s/ORLe8VJLFVMcm0tz1PE5zw)
+- [从诊断为无症状到确诊，12天](https://mp.weixin.qq.com/s/0GRjlYk647nzO9Nir4wKBQ)

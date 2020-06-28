@@ -446,3 +446,5 @@
 - [The science behind social-distancing measures](https://www.economist.com/the-economist-explains/2020/06/20/the-science-behind-social-distancing-measures)
 - [教育综合体：后疫情时代城市规划的剑走偏锋与春风化雨](https://mp.weixin.qq.com/s/pM5orz4VQzXAk_et40Hzgw)
 - [#后疫情时代的新思考#咨询服务的救赎式变革丨数据猿公益策划](https://mp.weixin.qq.com/s/ZHPClIIED1gUxBtoTzmlvQ)
+- [温铁军：大疫止于村野](https://mp.weixin.qq.com/s/nDZoVAWh1HhDOwpJ5pzCbg)
+- [被疫情永久改变的六个小趋势](https://mp.weixin.qq.com/s/nWyRyCITKFb23XUVRmjEPQ)
