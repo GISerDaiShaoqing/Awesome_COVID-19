@@ -444,3 +444,5 @@
 - [Architects are redesigning cities to help with social distancing](https://www.weforum.org/agenda/2020/06/architects-covid19-urban-infrastructure-cities-social-distancing)
 - [【经济学人】1米还是2米：为什么各国推出不同的防疫“社交距离”？](https://mp.weixin.qq.com/s/BDeDLOILSPql0NyaSa1TPw)
 - [The science behind social-distancing measures](https://www.economist.com/the-economist-explains/2020/06/20/the-science-behind-social-distancing-measures)
+- [教育综合体：后疫情时代城市规划的剑走偏锋与春风化雨](https://mp.weixin.qq.com/s/pM5orz4VQzXAk_et40Hzgw)
+- [#后疫情时代的新思考#咨询服务的救赎式变革丨数据猿公益策划](https://mp.weixin.qq.com/s/ZHPClIIED1gUxBtoTzmlvQ)

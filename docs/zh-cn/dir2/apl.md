@@ -603,3 +603,4 @@
 - [近距离感染传播的蒙特卡罗模拟研究 | 网络科学论文速递39篇](https://mp.weixin.qq.com/s/TE0aZNhABsFzlRUDEsSWfw)
 - [“COVID-19”科研动态监测每日快报（6月26日）【中国科讯】](https://mp.weixin.qq.com/s/iRvl3DjGGvMGCPc-_Oj_lA)
 - [新冠病毒毒株感染力或已显著提升 | 本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/lM_ZD4ON7l_BbpjU38olQA)
+- [“COVID-19”科研动态监测每日快报（6月27日）【中国科讯】](https://mp.weixin.qq.com/s/C_2PkO3QRnXv6_nD46i5fw)

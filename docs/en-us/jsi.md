@@ -44,4 +44,5 @@
 - [“全球新型冠状病毒肺炎(COVID-19)疫情动态的时空建模与可视化决策分析”专刊征稿（征稿中）](http://www.dqxxkx.cn/CN/column/item509.shtml)
 - [Special Issue of Urban Forestry and Urban Greening "COVID-19"](https://twitter.com/CLEARINGHOUSE_/status/1271072297118568448?s=09)
 - [Cities特刊征稿: COVID-19疫情与城市政策](https://mp.weixin.qq.com/s/ptKTUMMmdaJ6KYIKx-O3dw)
-- [Special Issue in CITIES on COVID-19 PANDEMIC AND URBAN POLICY]()
+- [特刊征稿 | 对抗COVID-19流行病的计算机辅助方法](https://mp.weixin.qq.com/s/F8LEvBN7rAJSRzm0QYI78w)
+- [Call for Papers:Computer Aided Methods to Combat COVID-19 Pandemic](https://www.springer.com/journal/42979/updates/18105218?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=SRCN_3_LL01_CNIJ_CS_SNCS)
