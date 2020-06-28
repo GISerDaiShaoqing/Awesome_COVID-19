@@ -2583,3 +2583,5 @@
 - [86天，全球确诊从百万到千万](https://mp.weixin.qq.com/s/nIc_Lqzw8YPq-kmO6zDveQ)
 - [【荷兰数据】今日新增确诊74人，无死亡病例报告](https://mp.weixin.qq.com/s/cRFZxJ_fhU4AmMecZ-DhZA)
 - [提醒 | 机舱内唾液、病毒传播的流程图！你还改坐飞机吗？](https://mp.weixin.qq.com/s/osbPlGKDk-dFX8yFq6selw)
+- [北京近百所高校10万余人开展核酸检测，今晚就出结果](https://mp.weixin.qq.com/s/WtrBZMrGYHIBd2HSHtRV3w)
+- [全球确诊破1000万后，新冠疫苗炼成之路还有多远](https://mp.weixin.qq.com/s/uhc67BK0PaMmHDZ40UZfpA)

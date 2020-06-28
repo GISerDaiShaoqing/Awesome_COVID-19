@@ -448,3 +448,4 @@
 - [#后疫情时代的新思考#咨询服务的救赎式变革丨数据猿公益策划](https://mp.weixin.qq.com/s/ZHPClIIED1gUxBtoTzmlvQ)
 - [温铁军：大疫止于村野](https://mp.weixin.qq.com/s/nDZoVAWh1HhDOwpJ5pzCbg)
 - [被疫情永久改变的六个小趋势](https://mp.weixin.qq.com/s/nWyRyCITKFb23XUVRmjEPQ)
+- [后疫情社区·融合｜陪伴孩子成长的社区跳蚤市集](https://mp.weixin.qq.com/s/umTdn_lVWsMkMY3hMEHF5w)

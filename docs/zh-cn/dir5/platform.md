@@ -118,3 +118,4 @@
 - [华人团队构建全球疫情实时追踪系统，已被美国CDC、JHU使用](https://mp.weixin.qq.com/s/eibIJp_T1LZBzLIFfEyVVA)
 - [The Live Status of Novel Coronavirus in Australia](https://github.com/covid-19-au/covid-19-au.github.io)
 - [Rapid Action on COVID-19 and EO](https://race.esa.int/)
+- [Daily Surveillance of COVID-19 using the Prospective Space-Time Scan Statistic in the United States](https://www.sciencedirect.com/science/article/pii/S1877584520300320?via%3Dihub)
