@@ -2581,3 +2581,5 @@
 - [核酸“混检”可靠吗？国家卫健委回应](https://mp.weixin.qq.com/s/ORLe8VJLFVMcm0tz1PE5zw)
 - [从诊断为无症状到确诊，12天](https://mp.weixin.qq.com/s/0GRjlYk647nzO9Nir4wKBQ)
 - [86天，全球确诊从百万到千万](https://mp.weixin.qq.com/s/nIc_Lqzw8YPq-kmO6zDveQ)
+- [【荷兰数据】今日新增确诊74人，无死亡病例报告](https://mp.weixin.qq.com/s/cRFZxJ_fhU4AmMecZ-DhZA)
+- [提醒 | 机舱内唾液、病毒传播的流程图！你还改坐飞机吗？](https://mp.weixin.qq.com/s/osbPlGKDk-dFX8yFq6selw)
