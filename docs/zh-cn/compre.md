@@ -709,3 +709,7 @@
 - [Security of supply, strategic storage and Covid19: Which lessons learnt for renewable and recycled carbon fuels, and their future role in decarbonizing transport?](https://www.sciencedirect.com/science/article/pii/S0306261920307285)
 - [The Global Phosphorylation Landscape of SARS-CoV-2 Infection](https://www.cell.com/cell/fulltext/S0092-8674(20)30811-4)
 - [The impact of school reopening on the spread of COVID-19 in England](https://www.medrxiv.org/content/10.1101/2020.06.04.20121434v1)
+- [贫穷国家如何公平获得新冠疫苗](https://mp.weixin.qq.com/s/nFCjI6I_eQhIKiwhT1nCOQ)
+- [【存照】英国气候指标中只有4项达标，需抓住疫情后“千载难逢”的绿色复苏机会！](https://mp.weixin.qq.com/s/4fkU7D9dx9jLiGFfYdekcg)
+- [Reducing UK emissions: 2020 Progress Report to Parliament](https://www.theccc.org.uk/publication/reducing-uk-emissions-2020-progress-report-to-parliament/)
+- [冰川可能保存着COVID-19大流行的记录](https://mp.weixin.qq.com/s/FQ6tEQhUJKuXK4KUBBIjxw)

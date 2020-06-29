@@ -411,3 +411,7 @@
 - [Known SARS‐CoV ‐2 infections: The tip of an important iceberg](https://onlinelibrary.wiley.com/doi/full/10.1002/hpm.3006)
 - [Science突破 | 西湖大学等多机构合作，陈薇/周强/李建民发现新的新冠中和抗体](https://mp.weixin.qq.com/s/3eN351ucQxb7_vxkZxakwg)
 - [A neutralizing human antibody binds to the N-terminal domain of the Spike protein of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/06/19/science.abc6952)
+- [5篇Cell等连发 | 海南医学院，中科院等多单位合作，高福与秦川等团队开发出通用的冠状病毒疫苗设计方法](https://mp.weixin.qq.com/s/h5PY5HtIum7-AbUybc-GpA)
+- [Development of an Inactivated Vaccine Candidate, BBIBP-CorV, with Potent Protection against SARS-CoV-2](https://www.cell.com/cell/fulltext/S0092-8674(20)30695-4)
+- [A universal design of betacoronavirus vaccines against COVID-19, MERS and SARS](https://www.cell.com/cell/fulltext/S0092-8674(20)30812-6)
+- [Cell：针对所有β冠状病毒，高福院士等开发出通用疫苗策略](https://mp.weixin.qq.com/s/yCqFoT-U_P0qrmaopp_tUw)

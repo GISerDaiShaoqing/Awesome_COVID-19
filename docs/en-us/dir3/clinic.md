@@ -687,3 +687,4 @@
 - [Lancet Voice | 新冠疫苗、胰岛素定价、毒蛇咬伤](https://mp.weixin.qq.com/s/LsE6quqhPW-E3MB3ut-qPg)
 - [Can tocilizumab calm the cytokine storm of COVID-19?](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30210-1/fulltext)
 - [Tocilizumab in patients with severe COVID-19: a retrospective cohort study](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30173-9/fulltext#seccestitle10)
+- [《自然-癌症》| 癌症患者更易感COVID-19？](https://mp.weixin.qq.com/s/wrQ7PEBeiigsAp7YtMSG4Q)
