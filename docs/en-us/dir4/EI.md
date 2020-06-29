@@ -67,3 +67,4 @@
 - [The UK’s public health response to covid-19](https://www.bmj.com/content/369/bmj.m1932)
 - [Mitigating COVID-19 outbreak via high testing capacity and strong transmission-intervention in the United States](https://www.medrxiv.org/content/10.1101/2020.04.03.20052720v1)
 - [Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China](https://science.sciencemag.org/content/368/6498/1481)
+- [Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modeling study](https://www.medrxiv.org/content/10.1101/2020.06.25.20140418v1)
