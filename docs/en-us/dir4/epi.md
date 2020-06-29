@@ -266,3 +266,5 @@
 - [模型估计：全球约1/5的人口患有可增加COVID-19重症感染风险的基础疾病](https://mp.weixin.qq.com/s/IBMSYA1WyAHeFxtYSPhFxA)
 - [Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30264-3/fulltext)
 - [COVID-19 transmission risk factors](https://www.medrxiv.org/content/10.1101/2020.05.08.20095083v1)
+- [柳叶刀-感染病学 | 研究估计，同住者中新冠病毒的二代传播率为17.1%](https://mp.weixin.qq.com/s/CZg-ROJ-puv0fHVIHCL0lg)
+- [Household secondary attack rate of COVID-19 and associated determinants in Guangzhou, China: a retrospective cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30471-0/fulltext)

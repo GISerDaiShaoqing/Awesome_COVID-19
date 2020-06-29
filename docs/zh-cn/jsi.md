@@ -46,3 +46,5 @@
 - [Cities特刊征稿: COVID-19疫情与城市政策](https://mp.weixin.qq.com/s/ptKTUMMmdaJ6KYIKx-O3dw)
 - [特刊征稿 | 对抗COVID-19流行病的计算机辅助方法](https://mp.weixin.qq.com/s/F8LEvBN7rAJSRzm0QYI78w)
 - [Call for Papers:Computer Aided Methods to Combat COVID-19 Pandemic](https://www.springer.com/journal/42979/updates/18105218?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=SRCN_3_LL01_CNIJ_CS_SNCS)
+- [民族药理学如何对新冠病毒的防治做出贡献？](https://mp.weixin.qq.com/s/2AjzQHH5JQF4UHh1tRyYAw)
+- [Ethnopharmacological Responses to the Coronavirus Disease 2019 (COVID-19) Pandemic](https://www.frontiersin.org/research-topics/14125/ethnopharmacological-responses-to-the-coronavirus-disease-2019-covid-19-pandemic?utm_source=chaoRT5&utm_medium=wechat&utm_campaign=chinaad)

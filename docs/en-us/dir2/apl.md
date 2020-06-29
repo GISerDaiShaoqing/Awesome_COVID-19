@@ -609,3 +609,5 @@
 - [应用于传染病新型冠状病毒肺炎流行病的 PECAIQR 模型 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/oLTaAi9RuzPxYSevzp7b0A)
 - [“COVID-19”科研动态监测每日快报（6月28日）【中国科讯】](https://mp.weixin.qq.com/s/Ym3XBNu0tleYVqm3_gkt5w)
 - [严景华：“疫”犹未尽 不下火线](https://mp.weixin.qq.com/s/O7HvwQWBZvMwSrAT_sPXRA)
+- [Science 一周论文导读 | 2020年6月19日](https://mp.weixin.qq.com/s/dNU4W8p3DoxPqjzhQikVbQ)
+- [Nature 一周论文导读 | 2020年6月18日](https://mp.weixin.qq.com/s/okmNFqlfDfoR0OmG5oQSJA)

@@ -713,3 +713,8 @@
 - [【存照】英国气候指标中只有4项达标，需抓住疫情后“千载难逢”的绿色复苏机会！](https://mp.weixin.qq.com/s/4fkU7D9dx9jLiGFfYdekcg)
 - [Reducing UK emissions: 2020 Progress Report to Parliament](https://www.theccc.org.uk/publication/reducing-uk-emissions-2020-progress-report-to-parliament/)
 - [冰川可能保存着COVID-19大流行的记录](https://mp.weixin.qq.com/s/FQ6tEQhUJKuXK4KUBBIjxw)
+- [都灵理工大学发明具有抗新冠肺炎特性的涂层](https://mp.weixin.qq.com/s/ut9_Rx8PSLcRzriE1DFRJA)
+- [支持科研新人——如何能在新冠疫情后重建科学世界？](https://mp.weixin.qq.com/s/cea-bD-3letba_dCOupt9g)
+- [How Support of Early Career Researchers Can Reset Science in the Post-COVID19 World](https://www.cell.com/cell/fulltext/S0092-8674(20)30678-4)
+- [疫情期间，新生妈妈们更容易抑郁了……](https://mp.weixin.qq.com/s/3e70GhoE5OSYUNatXWwrFg)
+- [Moms Are Not OK: COVID-19 and Maternal Mental Health](https://www.frontiersin.org/articles/10.3389/fgwh.2020.00001/full)

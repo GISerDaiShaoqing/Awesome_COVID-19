@@ -415,3 +415,7 @@
 - [Development of an Inactivated Vaccine Candidate, BBIBP-CorV, with Potent Protection against SARS-CoV-2](https://www.cell.com/cell/fulltext/S0092-8674(20)30695-4)
 - [A universal design of betacoronavirus vaccines against COVID-19, MERS and SARS](https://www.cell.com/cell/fulltext/S0092-8674(20)30812-6)
 - [Cell：针对所有β冠状病毒，高福院士等开发出通用疫苗策略](https://mp.weixin.qq.com/s/yCqFoT-U_P0qrmaopp_tUw)
+- [Cell重磅：不止防新冠！高福团队开发出防SARS、MERS等β属冠状病毒通用疫苗设计！](https://mp.weixin.qq.com/s/YU5e6N_EJvfe9pLXlyV5Vw)
+- [最新：陈薇院士团队开发的重组新冠疫苗已获批军队内部使用！](https://mp.weixin.qq.com/s/t2pAPDPiPp30OGT4ofeRqA)
+- [SARS-CoV-2抗体的共同表位和复发特征 | CellPress论文速递](https://mp.weixin.qq.com/s/DrNXInO0vU-luAdwDnh7TA)
+- [Structures of human antibodies bound to SARS-CoV-2 spike reveal common epitopes and recurrent features of antibodies](https://www.cell.com/cell/fulltext/S0092-8674(20)30757-1)
