@@ -719,3 +719,5 @@
 - [疫情期间，新生妈妈们更容易抑郁了……](https://mp.weixin.qq.com/s/3e70GhoE5OSYUNatXWwrFg)
 - [Moms Are Not OK: COVID-19 and Maternal Mental Health](https://www.frontiersin.org/articles/10.3389/fgwh.2020.00001/full)
 - [比尔·盖茨：只有疫苗还不能解决问题](https://mp.weixin.qq.com/s/kdu0KH26fDYtHiPxLslCfg)
+- [中国城市中COVID-19传播与温度或紫外线辐射没有关联](https://mp.weixin.qq.com/s/2aCO34R7fcJE0czjfYGEsQ)
+- [No association of COVID-19 transmission with temperature or UV radiation in Chinese cities](https://erj.ersjournals.com/content/55/5/2000517?ctkey=wechat)

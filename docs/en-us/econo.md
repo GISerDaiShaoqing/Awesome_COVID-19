@@ -452,3 +452,7 @@
 - [#榜样的力量#万博思图新冠全球疫情地图丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/pU2MadfU_Mv8UbFc5SzhUg)
 - [在 COVID-19 疫情期间测评员工健康状况：企业领导者需要注意什么](https://mp.weixin.qq.com/s/1xdfVpe5rqp5miYWCKfvvg)
 - [百度地图解读“战疫”中的北京，端午城内出行强度较五一下降11%](https://mp.weixin.qq.com/s/S-nUdU0hkAeG_kq7OBJ-IQ)
+- [WIFIPIX：后疫情时代，私域流量让家居零售企业重获新生](https://mp.weixin.qq.com/s/SHeo5EQNNtyPE7ZUfdaRAw)
+- [#榜样的力量#思必驰疫情防控机器人丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/5ocUhsB3-EoHSrkjWSKmRA)
+- [交通排放净零之路 | 好方法探索城市交通净零排放](https://mp.weixin.qq.com/s/xNgNvvRBpXlu1er1zye64A)
+- [后疫情社区·融合｜邻里有偿互助能否助力社区经济](https://mp.weixin.qq.com/s/7jd5FChyaAl88DM0yHAVvA)

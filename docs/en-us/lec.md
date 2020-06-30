@@ -221,3 +221,5 @@
 - [数据导读回顾 | 黄怡、赵子辉：俄罗斯和意大利的COVID-19数据时空分析](https://mp.weixin.qq.com/s/KgmqOwsOEdw5oHfXttz0dA)
 - [【抗击疫情，免e同行】7月4日直播：北京COVID-19免疫调节治疗高峰论坛](https://mp.weixin.qq.com/s/wvyb3Dsc_ihyYwPDOI4dKg)
 - [【在线速递】COVID-19流行期间，中国重症医学面临的危机与建议](https://mp.weixin.qq.com/s/qLtw2m5uzBhpEUYskX2Nng)
+- [倒计时3天！颜宁主持，陈剑、牛俊奇、祁海、史隽、张文宏等专家共议疫情常态化下的“理性防疫”和次生灾难防范](https://mp.weixin.qq.com/s/p6_-uO3o0G-e0gftqnQHSQ)
+- [中国青年呼吸学者与欧洲同龄同行对话【CTS-ERS青委：新冠系列视频之二】：新冠病毒SARS-CoV-2感染与过敏性疾病](https://mp.weixin.qq.com/s/S9W5n1K3RevzNkdOT7eIhQ)

@@ -194,3 +194,4 @@
 - [疫情期间的空气污染NO2数据集（Sentinel-5P下载）](https://mp.weixin.qq.com/s/q_ajiRPCJtVqaMuDJ9vMfA)
 - [【数据】中国9041万检测震惊世界！荷兰新增确诊111人，3例死亡](https://mp.weixin.qq.com/s/zzrl_RUMTl7VdaSLce1uyw)
 - [新数据：中国抗击COVID-19科研进展视频报告（第4期）：临床药物](https://mp.weixin.qq.com/s/EHncrQwa5JXORCE-YLFZMg)
+- [COVID19 epidemic french national data](https://github.com/opencovid19-fr/data)

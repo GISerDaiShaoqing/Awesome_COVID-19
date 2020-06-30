@@ -614,3 +614,4 @@
 - [猪流感病毒出现新变体，可能导致人际传播风险增加 | 科研圈日报](https://mp.weixin.qq.com/s/Nv3sq3i_Nbx_HuKJVhKApg)
 - [穿山甲重回南非自然保护区 | 太阳为什么会发光 | 无人机自学空中特技 | 自然每周简报](https://mp.weixin.qq.com/s/pYsIcPEXtbo-RJbXlFzmoA)
 - [“COVID-19”科研动态监测每日快报（6月29日）【中国科讯】](https://mp.weixin.qq.com/s/OTGje62N-guhqhK79RmDaw)
+- [24小时热门｜JAMA子刊：又一款老药新用治新冠？痛风药秋水仙碱改善重症患者病情](https://mp.weixin.qq.com/s/B2AyRAPtnfgJXBAMSwyWuA)
