@@ -451,3 +451,4 @@
 - [后疫情社区·融合｜陪伴孩子成长的社区跳蚤市集](https://mp.weixin.qq.com/s/umTdn_lVWsMkMY3hMEHF5w)
 - [#榜样的力量#万博思图新冠全球疫情地图丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/pU2MadfU_Mv8UbFc5SzhUg)
 - [在 COVID-19 疫情期间测评员工健康状况：企业领导者需要注意什么](https://mp.weixin.qq.com/s/1xdfVpe5rqp5miYWCKfvvg)
+- [百度地图解读“战疫”中的北京，端午城内出行强度较五一下降11%](https://mp.weixin.qq.com/s/S-nUdU0hkAeG_kq7OBJ-IQ)

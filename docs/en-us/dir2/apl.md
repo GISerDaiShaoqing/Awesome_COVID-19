@@ -611,3 +611,6 @@
 - [严景华：“疫”犹未尽 不下火线](https://mp.weixin.qq.com/s/O7HvwQWBZvMwSrAT_sPXRA)
 - [Science 一周论文导读 | 2020年6月19日](https://mp.weixin.qq.com/s/dNU4W8p3DoxPqjzhQikVbQ)
 - [Nature 一周论文导读 | 2020年6月18日](https://mp.weixin.qq.com/s/okmNFqlfDfoR0OmG5oQSJA)
+- [猪流感病毒出现新变体，可能导致人际传播风险增加 | 科研圈日报](https://mp.weixin.qq.com/s/Nv3sq3i_Nbx_HuKJVhKApg)
+- [穿山甲重回南非自然保护区 | 太阳为什么会发光 | 无人机自学空中特技 | 自然每周简报](https://mp.weixin.qq.com/s/pYsIcPEXtbo-RJbXlFzmoA)
+- [“COVID-19”科研动态监测每日快报（6月29日）【中国科讯】](https://mp.weixin.qq.com/s/OTGje62N-guhqhK79RmDaw)

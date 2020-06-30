@@ -219,3 +219,5 @@
 - [讲座回顾 | 吴玉鸣：基于面板数据的地区疫情经济影响分析](https://mp.weixin.qq.com/s/DQSenHvKB_PLPmg2H78Mjg)
 - [the free, open-access learning platform for health emergencies. Learn from public health experts about topics including #covid19, risk communication, #ebola, infection prevention & much more](https://openwho.org/courses?topic=COVID-19)
 - [数据导读回顾 | 黄怡、赵子辉：俄罗斯和意大利的COVID-19数据时空分析](https://mp.weixin.qq.com/s/KgmqOwsOEdw5oHfXttz0dA)
+- [【抗击疫情，免e同行】7月4日直播：北京COVID-19免疫调节治疗高峰论坛](https://mp.weixin.qq.com/s/wvyb3Dsc_ihyYwPDOI4dKg)
+- [【在线速递】COVID-19流行期间，中国重症医学面临的危机与建议](https://mp.weixin.qq.com/s/qLtw2m5uzBhpEUYskX2Nng)

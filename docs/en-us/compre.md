@@ -718,3 +718,4 @@
 - [How Support of Early Career Researchers Can Reset Science in the Post-COVID19 World](https://www.cell.com/cell/fulltext/S0092-8674(20)30678-4)
 - [疫情期间，新生妈妈们更容易抑郁了……](https://mp.weixin.qq.com/s/3e70GhoE5OSYUNatXWwrFg)
 - [Moms Are Not OK: COVID-19 and Maternal Mental Health](https://www.frontiersin.org/articles/10.3389/fgwh.2020.00001/full)
+- [比尔·盖茨：只有疫苗还不能解决问题](https://mp.weixin.qq.com/s/kdu0KH26fDYtHiPxLslCfg)
