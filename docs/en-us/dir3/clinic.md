@@ -691,3 +691,7 @@
 - [危重症新冠肺炎管理感受分享](https://mp.weixin.qq.com/s/KVMWhfQDOrz_C1MH6sLDFw)
 - [吸入皮质类固醇和COVID-19：一项系统性评估与临床观点](https://mp.weixin.qq.com/s/NWNAZCulSSMPHI-lwRTI-g)
 - [Inhaled corticosteroids and COVID-19: a systematic review and clinical perspective](https://erj.ersjournals.com/content/55/5/2001009?ctkey=wechat)
+- [我们能否“吃”走新冠 | BMC关注世界过敏周](https://mp.weixin.qq.com/s/4Cv0AOHVbKJjWVpC7iWNoQ)
+- [Is diet partly responsible for differences in COVID-19 death rates between and within countries?](https://ctajournal.biomedcentral.com/articles/10.1186/s13601-020-00323-0)
+- [NEJM重大新发现 | 不同人对于新冠病毒的易感性被揭示： A型血的人更易感新冠肺炎，而O型更不易感](https://mp.weixin.qq.com/s/cgly4dJwPCUq23Fgwwnz9w)
+- [他汀类药物的使用或能降低COVID-19住院患者的死亡率 | CellPress论文速递](https://mp.weixin.qq.com/s/krGycpVu7GGKzadKo_tqlQ)

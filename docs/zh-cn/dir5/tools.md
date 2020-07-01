@@ -73,3 +73,4 @@
 - [Truck Detection with Sentinel-2 during COVID-19 crisis](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19)
 - [数据科学家看过来！高效收集和挖掘疫情数据必备工具包](https://mp.weixin.qq.com/s/wvEHLtYCUiX5WpD3UQ5E4A)
 - [COVID-19 Projections Using Machine Learning](https://github.com/youyanggu/covid19_projections)
+- [独家 | 基于NLP的COVID-19虚假新闻检测（附代码）](https://mp.weixin.qq.com/s/2owCuV7Cis6LqbD4_BC-4A)

@@ -2610,3 +2610,8 @@
 - [专访赵粤丨我在创造营“战斗”，爸爸在武汉抗疫](https://mp.weixin.qq.com/s/1VCBvjbu4cAYtmcCf7Npfg)
 - [西班牙从去年3月废水中检测出新冠病毒，意味着什么](https://mp.weixin.qq.com/s/I2FF4sykmB8qzHVVwzXSUg)
 - [新增57！有人无症状有人死掉，男性比女性死亡率高，新冠研究依旧正在进行时..](https://mp.weixin.qq.com/s/Bq2TQpAQulqG3nPbSo436w)
+- [空客公司宣布裁减1.5万个岗位，史上最大规模裁员计划](https://mp.weixin.qq.com/s/KM26X4jW1pcxkMI6Ug9fIQ)
+- [昨日新增3例确诊，均为北京本土病例](https://mp.weixin.qq.com/s/UT9FdoPitvCBlHXqvZ1XWg)
+- [张文宏：中国拒绝第二波疫情](https://mp.weixin.qq.com/s/7r3CyyOPUkCBgh4R9eSDmw)
+- [中国足协官宣！中超7月25日正式开赛](https://mp.weixin.qq.com/s/4hoS9IPX5oxpWQwND6HgWw)
+- [张文宏：一定要运动，但不能太折腾](https://mp.weixin.qq.com/s/k-yRRQd9UISyGmX33mfNKA)

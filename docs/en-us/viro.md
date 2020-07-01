@@ -419,3 +419,7 @@
 - [最新：陈薇院士团队开发的重组新冠疫苗已获批军队内部使用！](https://mp.weixin.qq.com/s/t2pAPDPiPp30OGT4ofeRqA)
 - [SARS-CoV-2抗体的共同表位和复发特征 | CellPress论文速递](https://mp.weixin.qq.com/s/DrNXInO0vU-luAdwDnh7TA)
 - [Structures of human antibodies bound to SARS-CoV-2 spike reveal common epitopes and recurrent features of antibodies](https://www.cell.com/cell/fulltext/S0092-8674(20)30757-1)
+- [DNA疫苗在猴体内产生对抗SARS-CoV-2感染的防护作用](https://mp.weixin.qq.com/s/QK88WauFLFbBGLfOAtd8Ew)
+- [DNA Vaccine Protects Against SARS-CoV-2 Infection in Monkeys](https://www.jwatch.org/na51674/2020/06/04/dna-vaccine-protects-against-sars-cov-2-infection-monkeys?query=nejmyxqy)
+- [新冠病毒两大分支揭示重要疫源地和重症化信息](https://mp.weixin.qq.com/s/zIASASOgrsg68CpXvo16lg)
+- [A race to determine what drives COVID-19 severity](https://www.nature.com/articles/d41586-020-01915-3)

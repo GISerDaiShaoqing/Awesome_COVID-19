@@ -615,3 +615,6 @@
 - [穿山甲重回南非自然保护区 | 太阳为什么会发光 | 无人机自学空中特技 | 自然每周简报](https://mp.weixin.qq.com/s/pYsIcPEXtbo-RJbXlFzmoA)
 - [“COVID-19”科研动态监测每日快报（6月29日）【中国科讯】](https://mp.weixin.qq.com/s/OTGje62N-guhqhK79RmDaw)
 - [24小时热门｜JAMA子刊：又一款老药新用治新冠？痛风药秋水仙碱改善重症患者病情](https://mp.weixin.qq.com/s/B2AyRAPtnfgJXBAMSwyWuA)
+- [6 月 30 日我国新增确诊病例 3 例，均在北京 | 科研圈日报](https://mp.weixin.qq.com/s/B99yl6FmRVSrIST00DU0fg)
+- [乔杰：只愿不负国家期望百姓重托](https://mp.weixin.qq.com/s/qOoN6NBrGPbSZ5boY_dm1w)
+- [“COVID-19”科研动态监测每日快报（6月30日）【中国科讯】](https://mp.weixin.qq.com/s/-EcULnVuXnHxGnDV9Iz9zg)

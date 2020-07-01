@@ -722,3 +722,5 @@
 - [中国城市中COVID-19传播与温度或紫外线辐射没有关联](https://mp.weixin.qq.com/s/2aCO34R7fcJE0czjfYGEsQ)
 - [No association of COVID-19 transmission with temperature or UV radiation in Chinese cities](https://erj.ersjournals.com/content/55/5/2000517?ctkey=wechat)
 - [Air Pollution Scenario over China during COVID-19](https://www.mdpi.com/2072-4292/12/13/2100)
+- [【动向】疫情后中国二氧化碳排放强劲反弹，全年走向不明朗](https://mp.weixin.qq.com/s/AwiowXhRUbWWwMkC6b2wLQ)
+- [Analysis: China’s CO2 emissions surged past pre-coronavirus levels in May](https://www.carbonbrief.org/analysis-chinas-co2-emissions-surged-past-pre-coronavirus-levels-in-may)

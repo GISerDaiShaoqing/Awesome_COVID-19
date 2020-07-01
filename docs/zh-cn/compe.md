@@ -14,3 +14,8 @@
 - [风雨砥砺 未来可期 | 第四届“城垣杯·规划决策支持模型设计大赛”正式开启](https://mp.weixin.qq.com/s/VzQK_kcMOBokNvPZsO9v2A)
 - [赛事推荐：深圳开放数据应用创新大赛开启，计算社会科学研究再放异彩](https://mp.weixin.qq.com/s/3L2khPvKmumKHSEkzVVHmw)
 - [活动通知 |中国地理学会研学工作组 “新蚁族杯”第二届“映像·新知”摄影摄像大赛](https://mp.weixin.qq.com/s/0wcYt4Ua-51l-2vhVImyuw)
+- [KDD'20 疫情防控竞赛，赢取现金奖励，发表Paper，针对疫情设计隔离策略](https://mp.weixin.qq.com/s/ex69pl7CKjfvXvmp1JU9KA)
+- [CALL FOR PARTICIPATION:Challenge on Mobility Intervention for Epidemics](https://prescriptive-analytics.github.io/challenge-cfp/)
+- [疫情下，我们对世界的想象不足以预测不确定的未来](https://mp.weixin.qq.com/s/hckeVPLzAWQRQk56UBo5Pg)
+- [IEA分析COVID-19危机对清洁能源转型的影响](https://mp.weixin.qq.com/s/4aRyVFHSQ9pXfN233ky6gw)
+- [The Impact of the Covid-19 Crisis on Clean Energy Progress](https://www.iea.org/articles/the-impact-of-the-covid-19-crisis-on-clean-energy-progress)

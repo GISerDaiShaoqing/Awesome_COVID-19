@@ -456,3 +456,5 @@
 - [#榜样的力量#思必驰疫情防控机器人丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/5ocUhsB3-EoHSrkjWSKmRA)
 - [交通排放净零之路 | 好方法探索城市交通净零排放](https://mp.weixin.qq.com/s/xNgNvvRBpXlu1er1zye64A)
 - [后疫情社区·融合｜邻里有偿互助能否助力社区经济](https://mp.weixin.qq.com/s/7jd5FChyaAl88DM0yHAVvA)
+- [危将过，机已来的下半年怎样重启！](https://mp.weixin.qq.com/s/2ld2S1JkxlOIQWT_Q-1Jjg)
+- [国际资讯 | [荷]市级环境愿景陆续发布/疫情新常态规划设计/甲方奖提名(2020.7)](https://mp.weixin.qq.com/s/658Nr-EzXZH1hwf8WLOX7w)
