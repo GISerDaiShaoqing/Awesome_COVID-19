@@ -2615,3 +2615,6 @@
 - [张文宏：中国拒绝第二波疫情](https://mp.weixin.qq.com/s/7r3CyyOPUkCBgh4R9eSDmw)
 - [中国足协官宣！中超7月25日正式开赛](https://mp.weixin.qq.com/s/4hoS9IPX5oxpWQwND6HgWw)
 - [张文宏：一定要运动，但不能太折腾](https://mp.weixin.qq.com/s/k-yRRQd9UISyGmX33mfNKA)
+- [她自认为隔离满14天，与多名朋友聚餐，确诊了！](https://mp.weixin.qq.com/s/czkYLfIPMEhfqQ9_dRThIg)
+- [北京通报：一女子出现症状后还找朋友聚餐](https://mp.weixin.qq.com/s/4h8Z29HKlhkSmb7Ut-M9RA)
+- [民航局发出第二份“熔断指令”](https://mp.weixin.qq.com/s/xCuDEfKIlUunKah9IN4mTQ)

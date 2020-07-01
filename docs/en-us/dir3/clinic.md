@@ -695,3 +695,5 @@
 - [Is diet partly responsible for differences in COVID-19 death rates between and within countries?](https://ctajournal.biomedcentral.com/articles/10.1186/s13601-020-00323-0)
 - [NEJM重大新发现 | 不同人对于新冠病毒的易感性被揭示： A型血的人更易感新冠肺炎，而O型更不易感](https://mp.weixin.qq.com/s/cgly4dJwPCUq23Fgwwnz9w)
 - [他汀类药物的使用或能降低COVID-19住院患者的死亡率 | CellPress论文速递](https://mp.weixin.qq.com/s/krGycpVu7GGKzadKo_tqlQ)
+- [药理学 | 静脉内注射维生素C可提高Covid-19治疗效果？](https://mp.weixin.qq.com/s/YIIgLJGzy1kGEOHqB2hC7Q)
+- [Intravenous vitamin C for reduction of cytokines storm in acute respiratory distress syndrome](https://www.sciencedirect.com/science/article/pii/S2213434420300153?via%3Dihub)
