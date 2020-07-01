@@ -2618,3 +2618,7 @@
 - [她自认为隔离满14天，与多名朋友聚餐，确诊了！](https://mp.weixin.qq.com/s/czkYLfIPMEhfqQ9_dRThIg)
 - [北京通报：一女子出现症状后还找朋友聚餐](https://mp.weixin.qq.com/s/4h8Z29HKlhkSmb7Ut-M9RA)
 - [民航局发出第二份“熔断指令”](https://mp.weixin.qq.com/s/xCuDEfKIlUunKah9IN4mTQ)
+- [年仅32岁！成都理工大学一青年学者在美染新冠去世](https://mp.weixin.qq.com/s/0bDU0wZnmp4ZE97o9j7EQg)
+- [RIVM放弃日更数据有原因！荷兰大解封第一天，隔壁城市却重新封锁！围观新规～](https://mp.weixin.qq.com/s/vvcCIoBlwPfLg4dlDAml_Q)
+- [中国船员在马达加斯加的监狱里，遇上疫情](https://mp.weixin.qq.com/s/_apLIwtjud3fyb82K-sVAQ)
+- [年仅32岁！成都理工大学一青年学者在美染新冠去世](https://mp.weixin.qq.com/s/S6Fhapuglwk2zIa0ej-pdA)

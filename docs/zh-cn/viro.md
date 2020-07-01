@@ -423,3 +423,5 @@
 - [DNA Vaccine Protects Against SARS-CoV-2 Infection in Monkeys](https://www.jwatch.org/na51674/2020/06/04/dna-vaccine-protects-against-sars-cov-2-infection-monkeys?query=nejmyxqy)
 - [新冠病毒两大分支揭示重要疫源地和重症化信息](https://mp.weixin.qq.com/s/zIASASOgrsg68CpXvo16lg)
 - [A race to determine what drives COVID-19 severity](https://www.nature.com/articles/d41586-020-01915-3)
+- [Cell Res | 连续取得突破，有望加快疫苗研究，袁国勇团队发现了新冠病毒刺突蛋白的免疫作用表位](https://mp.weixin.qq.com/s/GzMP53zzlmcLD1XoxvJyOA)
+- [Mining of epitopes on spike protein of SARS-CoV-2 from COVID-19 patients](https://www.nature.com/articles/s41422-020-0366-x)

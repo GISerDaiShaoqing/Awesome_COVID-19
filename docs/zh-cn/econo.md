@@ -458,3 +458,4 @@
 - [后疫情社区·融合｜邻里有偿互助能否助力社区经济](https://mp.weixin.qq.com/s/7jd5FChyaAl88DM0yHAVvA)
 - [危将过，机已来的下半年怎样重启！](https://mp.weixin.qq.com/s/2ld2S1JkxlOIQWT_Q-1Jjg)
 - [国际资讯 | [荷]市级环境愿景陆续发布/疫情新常态规划设计/甲方奖提名(2020.7)](https://mp.weixin.qq.com/s/658Nr-EzXZH1hwf8WLOX7w)
+- [#后疫情时代的新思考#“数 ”战“数”决将成为各行各业的普遍趋势丨数据猿公益策划](https://mp.weixin.qq.com/s/E3uG3dHAat2UoY4XxiD93w)
