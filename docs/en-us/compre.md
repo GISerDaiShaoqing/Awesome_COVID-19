@@ -724,3 +724,6 @@
 - [Air Pollution Scenario over China during COVID-19](https://www.mdpi.com/2072-4292/12/13/2100)
 - [【动向】疫情后中国二氧化碳排放强劲反弹，全年走向不明朗](https://mp.weixin.qq.com/s/AwiowXhRUbWWwMkC6b2wLQ)
 - [Analysis: China’s CO2 emissions surged past pre-coronavirus levels in May](https://www.carbonbrief.org/analysis-chinas-co2-emissions-surged-past-pre-coronavirus-levels-in-may)
+- [瘟疫为何总让人措手不及](https://mp.weixin.qq.com/s/2v8zeIBjXbP4di-BpES3eA)
+- [加速推进AI+医疗，微软如何助力全球公共健康？](https://mp.weixin.qq.com/s/bSEEhguatuwdrQzLP3B1qw)
+- [7 月 1 日我国新增确诊病例 3 例，其中境外输入病例 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/2ojg93GGS60uGedh4UsuPw)

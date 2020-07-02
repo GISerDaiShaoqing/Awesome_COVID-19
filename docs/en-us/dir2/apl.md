@@ -618,3 +618,4 @@
 - [6 月 30 日我国新增确诊病例 3 例，均在北京 | 科研圈日报](https://mp.weixin.qq.com/s/B99yl6FmRVSrIST00DU0fg)
 - [乔杰：只愿不负国家期望百姓重托](https://mp.weixin.qq.com/s/qOoN6NBrGPbSZ5boY_dm1w)
 - [“COVID-19”科研动态监测每日快报（6月30日）【中国科讯】](https://mp.weixin.qq.com/s/-EcULnVuXnHxGnDV9Iz9zg)
+- [“COVID-19”科研动态监测每日快报（7月1日）【中国科讯】](https://mp.weixin.qq.com/s/1iFGUFR5ldGEiOS4gZ_Jgw)

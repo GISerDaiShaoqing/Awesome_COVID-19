@@ -459,3 +459,5 @@
 - [危将过，机已来的下半年怎样重启！](https://mp.weixin.qq.com/s/2ld2S1JkxlOIQWT_Q-1Jjg)
 - [国际资讯 | [荷]市级环境愿景陆续发布/疫情新常态规划设计/甲方奖提名(2020.7)](https://mp.weixin.qq.com/s/658Nr-EzXZH1hwf8WLOX7w)
 - [#后疫情时代的新思考#“数 ”战“数”决将成为各行各业的普遍趋势丨数据猿公益策划](https://mp.weixin.qq.com/s/E3uG3dHAat2UoY4XxiD93w)
+- [#榜样的力量#中诚信征信新冠肺炎全国疫情感染场所实时查询平台丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/FWBc2eqVAVHniKhcZhuzDw)
+- [#榜样的力量#新再灵云梯智能防疫管理系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/RZa5gNIrFMSno4TJoVYUfw)

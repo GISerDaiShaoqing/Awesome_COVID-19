@@ -43,3 +43,4 @@
 - [AI 诊断 CT 影像准确率达 96%，医疗AI落地还有哪些挑战与解决方案？| AICon](https://mp.weixin.qq.com/s/oRc0wB-dkFRQeAZJpYttag)
 - [COVID-19 lung alterations still evident at 60-day follow-up chest CT in asymptomatic patients despite negative rRT-PCR testing](https://www.researchsquare.com/article/rs-28202/v1)
 - [Deep Learning in Medical Imaging and Medical Image Analysis](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis)
+- [COVID-19影像学精选图书|章节限时免费开放下载](https://mp.weixin.qq.com/s/BEfJWRLR_CJ0EFyZTi9SRw)
