@@ -269,3 +269,4 @@
 - [柳叶刀-感染病学 | 研究估计，同住者中新冠病毒的二代传播率为17.1%](https://mp.weixin.qq.com/s/CZg-ROJ-puv0fHVIHCL0lg)
 - [Household secondary attack rate of COVID-19 and associated determinants in Guangzhou, China: a retrospective cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30471-0/fulltext)
 - [Serial Interval Distribution of SARS-CoV-2 Infection in Brazil](https://www.medrxiv.org/content/10.1101/2020.06.09.20127043v2)
+- [Second waves, social distancing, and the spread of COVID-19 across America](https://wellcomeopenresearch.org/articles/5-103)

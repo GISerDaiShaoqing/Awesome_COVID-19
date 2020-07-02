@@ -119,3 +119,5 @@
 - [The Live Status of Novel Coronavirus in Australia](https://github.com/covid-19-au/covid-19-au.github.io)
 - [Rapid Action on COVID-19 and EO](https://race.esa.int/)
 - [Daily Surveillance of COVID-19 using the Prospective Space-Time Scan Statistic in the United States](https://www.sciencedirect.com/science/article/pii/S1877584520300320?via%3Dihub)
+- [如何通过GIS响应疫情COVID-19](https://mp.weixin.qq.com/s/jXVvFIwCvbwVwsmit_umMA)
+- [老人没有智能手机怎么办？新加坡推出新冠密接者追踪设备](https://mp.weixin.qq.com/s/FIjAzd4aSVqZ736e2RgR7A)

@@ -620,3 +620,4 @@
 - [“COVID-19”科研动态监测每日快报（6月30日）【中国科讯】](https://mp.weixin.qq.com/s/-EcULnVuXnHxGnDV9Iz9zg)
 - [“COVID-19”科研动态监测每日快报（7月1日）【中国科讯】](https://mp.weixin.qq.com/s/1iFGUFR5ldGEiOS4gZ_Jgw)
 - [7 月 1 日我国新增确诊病例 3 例，其中境外输入病例 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/2ojg93GGS60uGedh4UsuPw)
+- [​抗疫归来后，曾两度破格晋升的学者再履新职](https://mp.weixin.qq.com/s/RlrABqTNIQLtOVt4OcpA1w)

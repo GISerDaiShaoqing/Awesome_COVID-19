@@ -198,3 +198,4 @@
 - [图说每日疫情（6月22日）：北京昨日新增确诊病例降至个位数，6月确诊病例总数达236例](https://mp.weixin.qq.com/s/KdmWe8YqcucgL7n9At-vMg)
 - [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)
 - [图说｜2020年高考防疫关键措施10条！](https://mp.weixin.qq.com/s/IN2ddbmcaiobTOZaVA1ogQ)
+- [Wear a mask? Yes, always wear a mask](http://www.healthdata.org/infographic/covid19-mask-usage-meta-analysis)
