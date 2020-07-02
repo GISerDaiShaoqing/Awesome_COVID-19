@@ -726,4 +726,5 @@
 - [Analysis: China’s CO2 emissions surged past pre-coronavirus levels in May](https://www.carbonbrief.org/analysis-chinas-co2-emissions-surged-past-pre-coronavirus-levels-in-may)
 - [瘟疫为何总让人措手不及](https://mp.weixin.qq.com/s/2v8zeIBjXbP4di-BpES3eA)
 - [加速推进AI+医疗，微软如何助力全球公共健康？](https://mp.weixin.qq.com/s/bSEEhguatuwdrQzLP3B1qw)
-- [7 月 1 日我国新增确诊病例 3 例，其中境外输入病例 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/2ojg93GGS60uGedh4UsuPw)
+- [柳叶刀-星球健康 | 特殊时期的粮食安全](https://mp.weixin.qq.com/s/Y4-LAXq-nCeXeG8vJ9gvJA)
+- [Food security in uncertain times](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30126-1/fulltext)
