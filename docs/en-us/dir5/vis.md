@@ -199,3 +199,4 @@
 - [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)
 - [图说｜2020年高考防疫关键措施10条！](https://mp.weixin.qq.com/s/IN2ddbmcaiobTOZaVA1ogQ)
 - [Wear a mask? Yes, always wear a mask](http://www.healthdata.org/infographic/covid19-mask-usage-meta-analysis)
+- [SOME ARE WINNING - SOME ARE NOT](https://www.endcoronavirus.org/states)
