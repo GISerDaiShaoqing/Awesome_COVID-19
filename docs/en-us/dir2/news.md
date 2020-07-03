@@ -2642,3 +2642,6 @@
 - [新增确诊5例，其中本土2例在北京](https://mp.weixin.qq.com/s/xaOCt1lEFOt8TW7m1hfuWA)
 - [大热天防新冠，还要戴口罩吗？](https://mp.weixin.qq.com/s/YJxmFI1VK4Eh9oak6NZjfw)
 - [法国疫情出现反弹，法网却计划卖票允许每天现场两万人](https://mp.weixin.qq.com/s/9T0QLgkUq2Ceh4ocs-AvKw)
+- [国家市场监管总局：推动全国逐步取消活禽市场交易](https://mp.weixin.qq.com/s/8KGgSYfDtrzVQqvV1NSKgw)
+- [印度一场婚礼暴发超级传播事件 | 新郎死亡，上百人检测阳性](https://mp.weixin.qq.com/s/FbJrDeVCGak6wLzsLtKxRA)
+- [北京商场大哭女子系无症状感染者，隔离期多次破坏报警器外出](https://mp.weixin.qq.com/s/b6TeZoTrOsW3vxeGfr3NkQ)

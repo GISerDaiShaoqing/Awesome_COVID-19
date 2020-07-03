@@ -624,3 +624,5 @@
 - [疫情防控期间备战高考，这些事考生家长要知道！](https://mp.weixin.qq.com/s/rT57ULMzf_JE7_ewTCW5Jg)
 - [“COVID-19”科研动态监测每日快报（7月2日）【中国科讯】](https://mp.weixin.qq.com/s/Qf3bKkwv9qyl-oFHo4uHMw)
 - [7 月 2 日全国新增确诊病例 5 例，其中北京 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/jDVexz9W4wfEaBkRHE12IQ)
+- [关闭和重新开放: 学校在欧洲新型冠状病毒肺炎传播中的作用 | 网络科学论文速递33篇](https://mp.weixin.qq.com/s/p9xPDA6EmlBxbSVC-k0U2w)
+- [24小时热门｜Cell：高福院士团队开发出通用疫苗策略，可同时针对新冠肺炎、SARS、MERS](https://mp.weixin.qq.com/s/SEEDpDxCRhTU1VqKgwYHRg)
