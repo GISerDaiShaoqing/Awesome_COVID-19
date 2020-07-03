@@ -3,6 +3,8 @@
 - [Cell oress](https://www.cell.com/2019-nCOV)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [The NEW ENGLAND JOURNAL of MEDICINE](https://www.nejm.org/coronavirus)
+- [NEJM推出Covid-19病例进阶，前任和现任主编共同执笔，快来考/学一下](https://mp.weixin.qq.com/s/bKd8pU7cGqs6wqpa0u0pdg)
+- [Covid-19 Rx: Treatment Simulations](https://covid19rx.nejm.org/landing/index.html)
 - [JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
 - [BMJ](https://www.bmj.com/coronavirus?int_source=wisepops&int_medium=wisepops&int_campaign=DAA_CoronaVirus_Jan24)
 - [BMJ Best Practice：2019 冠状病毒病（COVID-19）](https://bestpractice.bmj.com/topics/zh-cn/3000168)

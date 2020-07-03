@@ -461,3 +461,6 @@
 - [#后疫情时代的新思考#“数 ”战“数”决将成为各行各业的普遍趋势丨数据猿公益策划](https://mp.weixin.qq.com/s/E3uG3dHAat2UoY4XxiD93w)
 - [#榜样的力量#中诚信征信新冠肺炎全国疫情感染场所实时查询平台丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/FWBc2eqVAVHniKhcZhuzDw)
 - [#榜样的力量#新再灵云梯智能防疫管理系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/RZa5gNIrFMSno4TJoVYUfw)
+- [#后疫情时代的新思考#风险之中，我们更应该看到责任与机遇丨数据猿公益策划](https://mp.weixin.qq.com/s/LWetu7zz9zexO2ajI6Qbsg)
+- [疫情之下获中电科基金、元起资本投资，齐治凭什么？](https://mp.weixin.qq.com/s/PLFd_8s5ebs5st4i27m60w)
+- [#榜样的力量#疾控AI分析平台WDCIP——以科技力量贡献“大数据”智慧丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/ZswkcHWvzDfldjZpfVGBvQ)
