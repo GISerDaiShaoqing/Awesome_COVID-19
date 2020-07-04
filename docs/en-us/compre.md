@@ -735,3 +735,5 @@
 - [CDC says U.S. has ‘way too much virus’ to control pandemic as cases surge across country](https://www.cnbc.com/2020/06/29/cdc-says-us-has-way-too-much-virus-to-control-pandemic-as-cases-surge-across-country.html)
 - [There’s not one reason California’s covid-19 cases are soaring—there are many](https://www.technologyreview.com/2020/06/30/1004696/theres-not-one-reason-californias-covid-19-cases-are-soaring-there-are-many/)
 - [U.S. coronavirus cases rise by 47,000, biggest one-day spike of pandemic](https://www.reuters.com/article/us-health-coronavirus-usa/fauci-warns-new-u-s-cases-of-covid-19-could-double-to-100000-per-day-idUSKBN2412TA)
+- [Lancet | 最新！高福等团队系统介绍中国的防疫经验，帮助全球共同抗击新冠肺炎](https://mp.weixin.qq.com/s/4NS0J9uxegsAy3SU0IpjDA)
+- [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
