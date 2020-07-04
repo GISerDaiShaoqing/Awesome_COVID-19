@@ -2655,3 +2655,8 @@
 - [国家卫健委：新增确诊3例，其中本土1例！福建0新增](https://mp.weixin.qq.com/s/OLIERtxYMTHzL8KiuI9UbQ)
 - [特朗普大儿子女友，阳性](https://mp.weixin.qq.com/s/N1scLyNlGv1hBUplzgzOXA)
 - [欧盟正式批准瑞德西韦为新冠治疗药物](http://news.sciencenet.cn/htmlnews/2020/7/442332.shtm)
+- [全球新冠病例突破1000万…如今每18秒就有一人死于新冠...](https://mp.weixin.qq.com/s/NQGfDPV_ysjomBm73ZwWuA)
+- [俄罗斯为快递员竖纪念雕像，感谢他们帮忙度过新冠肺炎封锁期](https://mp.weixin.qq.com/s/FMfRc7F0vyiYuQKyyEBZtA)
+- [援鄂医疗队员带来一份特殊的“毕业礼”](https://mp.weixin.qq.com/s/AR3pM-E9fMKLC9UhoIznsg)
+- [北京大兴3地降级](https://mp.weixin.qq.com/s/XjdZFWTO_27-meimH2eGdQ)
+- [美国连续三天确诊超5万，白宫坚持办独立日庆典](https://mp.weixin.qq.com/s/RdpWyJkHgwnJk7ojp8RUXQ)

@@ -628,3 +628,4 @@
 - [24小时热门｜Cell：高福院士团队开发出通用疫苗策略，可同时针对新冠肺炎、SARS、MERS](https://mp.weixin.qq.com/s/SEEDpDxCRhTU1VqKgwYHRg)
 - [“COVID-19”科研动态监测每日快报（7月3日）【中国科讯】](https://mp.weixin.qq.com/s/qL84usCALhBvYJj6CSqf5A)
 - [如何防范农贸市场疫情再次发生？国家卫生健康委：关注这三个环节](https://mp.weixin.qq.com/s/8qVCwAAAwD-CQN42SSkLog)
+- [生殖数 R_0 能告诉我们什么，不能告诉我们什么关于新型冠状病毒肺炎动力学 | 网络科学论文速递35篇](https://mp.weixin.qq.com/s/_Oc8BB7ell_NRKuS3lySwQ)

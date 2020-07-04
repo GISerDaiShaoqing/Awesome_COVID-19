@@ -697,3 +697,5 @@
 - [他汀类药物的使用或能降低COVID-19住院患者的死亡率 | CellPress论文速递](https://mp.weixin.qq.com/s/krGycpVu7GGKzadKo_tqlQ)
 - [药理学 | 静脉内注射维生素C可提高Covid-19治疗效果？](https://mp.weixin.qq.com/s/YIIgLJGzy1kGEOHqB2hC7Q)
 - [Intravenous vitamin C for reduction of cytokines storm in acute respiratory distress syndrome](https://www.sciencedirect.com/science/article/pii/S2213434420300153?via%3Dihub)
+- [COVID-19的脂质组学和代谢组学研究揭示新冠发病机制中代谢失调 | CellPress论文速递](https://mp.weixin.qq.com/s/uEEyroKhoz7fYyPltAwcdw)
+- [Omics-Driven Systems Interrogation of Metabolic Dysregulation in COVID-19 Pathogenesis](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30317-X)

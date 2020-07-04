@@ -737,3 +737,5 @@
 - [U.S. coronavirus cases rise by 47,000, biggest one-day spike of pandemic](https://www.reuters.com/article/us-health-coronavirus-usa/fauci-warns-new-u-s-cases-of-covid-19-could-double-to-100000-per-day-idUSKBN2412TA)
 - [Lancet | 最新！高福等团队系统介绍中国的防疫经验，帮助全球共同抗击新冠肺炎](https://mp.weixin.qq.com/s/4NS0J9uxegsAy3SU0IpjDA)
 - [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
+- [三大航天局联合打造COVID-19下的全球视野](https://mp.weixin.qq.com/s/r4jXAiTWdL9iu8s2aSp5eg)
+- [Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
