@@ -2660,3 +2660,8 @@
 - [援鄂医疗队员带来一份特殊的“毕业礼”](https://mp.weixin.qq.com/s/AR3pM-E9fMKLC9UhoIznsg)
 - [北京大兴3地降级](https://mp.weixin.qq.com/s/XjdZFWTO_27-meimH2eGdQ)
 - [美国连续三天确诊超5万，白宫坚持办独立日庆典](https://mp.weixin.qq.com/s/RdpWyJkHgwnJk7ojp8RUXQ)
+- [详情公布！福建新增境外输入无症状感染者2例](https://mp.weixin.qq.com/s/M2hULCVzAFslurEETESt0w)
+- [特朗普，“丧事喜办”？](https://mp.weixin.qq.com/s/camg8XDDuieC1cXwYUnjAg)
+- [轨迹公布！7月4日厦门新增境外输入无症状感染者2例，来自新加坡、菲律宾](https://mp.weixin.qq.com/s/qo8VPQuna6ZXd0YcR_f_Kg)
+- [全球新冠病例单日新增超21万例，创新高](https://mp.weixin.qq.com/s/6fDjdlIIBKcSPYklpKaWzw)
+- [新增确诊8例，其中本土2例在北京](https://mp.weixin.qq.com/s/vzmKkAKWC-VrVdii5gJh0A)

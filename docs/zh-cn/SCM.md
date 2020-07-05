@@ -69,5 +69,6 @@
 - [后疫情时代的绿色复苏︱麦肯锡: 如何打造一款兼顾气候效益的经济刺激计划](https://mp.weixin.qq.com/s/mamZT9HthYwofBS4HrkLXA)
 - [乘风破浪的共享单车︱角色转变: COVID-19时期芝加哥共享单车和网约车的表现](https://mp.weixin.qq.com/s/TLIDALTmc_nJQvFp5hGyDA)
 - [周末访谈 | 治愈城市: 新冠病毒如何重塑城市设计](https://mp.weixin.qq.com/s/-HnmWffKE8AT3zIotHnfCA)
+- [后疫情时代︱向“城市高密度导致疫情暴发”的指责说NO!](https://mp.weixin.qq.com/s/r7zSAHo_p62okd38kk-N3w)
 
 ![](/img/SCM.jpg)
