@@ -429,3 +429,6 @@
 - [Primary exposure to SARS-CoV-2 protects against reinfection in rhesus macaques](https://science.sciencemag.org/content/early/2020/07/01/science.abc5343)
 - [Cell重磅 | 全球新冠病毒正发生突变，传染性增加近10倍，疫苗开发将成为挑战](https://mp.weixin.qq.com/s/HewP3kTsG9Gcsn69YEELaw)
 - [Tracking changes in SARS-CoV-2 Spike: evidence that D614G increases infectivity of the COVID-19 virus](https://doi.org/10.1016/j.cell.2020.06.043)
+- [从细胞因子风暴的角度理解COVID-19 | CellPress论文速递](https://mp.weixin.qq.com/s/jGgBmjRzlprtmrH-CWEE7w)
+- [Cytokine Storms: Understanding COVID-19](https://www.cell.com/immunity/fulltext/S1074-7613(20)30272-7)
+- [一种针对所有β冠状病毒的疫苗通用设计，可用于预防COVID-19、MERS 和SARS | CellPress论文速递](https://mp.weixin.qq.com/s/eLIm-Qkot1h1AzvtIUHo5w)

@@ -635,3 +635,8 @@
 - [瑞德西韦在发达国家的定价公开：390美元/剂，5天疗程共2340美元｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/j2DAXbbnbc0HAte084GKsA)
 - [“COVID-19”科研动态监测每日快报（7月5日）【中国科讯】](https://mp.weixin.qq.com/s/WIaDh8eFqXZyUNHfZb05ww)
 - [张文宏：今冬可能面临第二波疫情，美国、巴西第一波高峰还未出现 | 科研圈日报](https://mp.weixin.qq.com/s/_O0zJtZx6746vSj8sy0npg)
+- [张文宏：新冠D614G突变成主流，是否预示病毒传播失控与疫苗失效？](https://mp.weixin.qq.com/s/CRVY92_V5at_EQZsrGsrIg)
+- [COVID-19在地理/GIS上的研究论文（中文核心）](https://mp.weixin.qq.com/s/gkWnTo03dn796HcRhP7GNQ)
+- [颜宁再主持！4大疫情常态化问题，答案看这里](https://mp.weixin.qq.com/s/KE3-yvAMnd6mliftXplU9A)
+- [Science 一周论文导读 | 2020年6月26日](https://mp.weixin.qq.com/s/FnZ16LEwvgg0oht9yFA-gg)
+- [Nature 一周论文导读 | 2020年6月25日](https://mp.weixin.qq.com/s/hUa_7BIZFtNAwDmp0E-N1A)
