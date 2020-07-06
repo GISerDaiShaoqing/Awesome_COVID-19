@@ -630,3 +630,6 @@
 - [如何防范农贸市场疫情再次发生？国家卫生健康委：关注这三个环节](https://mp.weixin.qq.com/s/8qVCwAAAwD-CQN42SSkLog)
 - [生殖数 R_0 能告诉我们什么，不能告诉我们什么关于新型冠状病毒肺炎动力学 | 网络科学论文速递35篇](https://mp.weixin.qq.com/s/_Oc8BB7ell_NRKuS3lySwQ)
 - [“COVID-19”科研动态监测每日快报（7月4日）【中国科讯】](https://mp.weixin.qq.com/s/Ha_DXAJFVRHFJh6JBMJL_Q)
+- [利用流动性数据设计应对英格兰新型冠状病毒肺炎大流行的最佳封锁策略 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/XqtF_xPpKYvDe7YCoIyPWw)
+- [《科学》（20200703出版）一周论文导读](https://mp.weixin.qq.com/s/uJugzsLUqCDqs4IAiTibdg)
+- [瑞德西韦在发达国家的定价公开：390美元/剂，5天疗程共2340美元｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/j2DAXbbnbc0HAte084GKsA)

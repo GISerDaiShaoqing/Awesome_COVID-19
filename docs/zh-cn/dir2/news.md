@@ -2665,3 +2665,8 @@
 - [轨迹公布！7月4日厦门新增境外输入无症状感染者2例，来自新加坡、菲律宾](https://mp.weixin.qq.com/s/qo8VPQuna6ZXd0YcR_f_Kg)
 - [全球新冠病例单日新增超21万例，创新高](https://mp.weixin.qq.com/s/6fDjdlIIBKcSPYklpKaWzw)
 - [新增确诊8例，其中本土2例在北京](https://mp.weixin.qq.com/s/vzmKkAKWC-VrVdii5gJh0A)
+- [王辰院士作出疫情最新判断](https://mp.weixin.qq.com/s/5Ex1c9G2nejymW5z9CLYBQ)
+- [中国夫妇海外生子拿国籍，却因疫情被困国外！坐吃山空！疯狂求救！还有人坐牢被遣返！](https://mp.weixin.qq.com/s/c0aKtmbav-hNwYEb9gR0uQ)
+- [特朗普语出惊人：99%的新冠病例完全无害](https://mp.weixin.qq.com/s/t_43ZR3WNY61MaOKLWam1A)
+- [北京又有6地降级](https://mp.weixin.qq.com/s/1SGRCre-bnTNBpzEeYfkCA)
+- [张文宏：今冬可能面临第二波疫情](https://mp.weixin.qq.com/s/QOEMjdRbse4fg5GjdHFAGQ)

@@ -739,3 +739,4 @@
 - [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
 - [三大航天局联合打造COVID-19下的全球视野](https://mp.weixin.qq.com/s/r4jXAiTWdL9iu8s2aSp5eg)
 - [Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
+- [中国2020-2050经济和能源情景以及疫情对全球碳排放和经济的影响](https://mp.weixin.qq.com/s/Hn0zLxSV7t_fGH7XQCL9eA)
