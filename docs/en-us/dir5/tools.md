@@ -75,3 +75,4 @@
 - [COVID-19 Projections Using Machine Learning](https://github.com/youyanggu/covid19_projections)
 - [独家 | 基于NLP的COVID-19虚假新闻检测（附代码）](https://mp.weixin.qq.com/s/2owCuV7Cis6LqbD4_BC-4A)
 - [California COVID Assessment Tool](https://github.com/StateOfCalifornia/CalCAT)
+- [【居民出行调查Online】疫情环境下，如何实施居民出行调查？｜城市数据派](https://mp.weixin.qq.com/s/K2-Ecqdk51MinqZPfoE0VQ)

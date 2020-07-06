@@ -2670,3 +2670,7 @@
 - [特朗普语出惊人：99%的新冠病例完全无害](https://mp.weixin.qq.com/s/t_43ZR3WNY61MaOKLWam1A)
 - [北京又有6地降级](https://mp.weixin.qq.com/s/1SGRCre-bnTNBpzEeYfkCA)
 - [张文宏：今冬可能面临第二波疫情](https://mp.weixin.qq.com/s/QOEMjdRbse4fg5GjdHFAGQ)
+- [“疫情”后的个人感悟](https://mp.weixin.qq.com/s/860ji5qw1a_NoGwK3325WA)
+- [轨迹公布！7月5日厦门新增境外输入无症状感染者1例，来自美国](https://mp.weixin.qq.com/s/5DsDV8jDZtLx79TDKCC4FA)
+- [轨迹公布！7月5日厦门新增境外输入无症状感染者1例，来自美国](https://mp.weixin.qq.com/s/vD1Wh66eCEh2YlYDjRwHjw)
+- [新增确诊4例，其中本土1例在北京](https://mp.weixin.qq.com/s/ks7qX9RUnrQNJDU0Kfnjhw)

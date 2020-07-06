@@ -228,3 +228,4 @@
 - [讲座回顾|“中美日防疫模式与疫情影响分析”论坛](https://mp.weixin.qq.com/s/4QFhqueRZq7XiOcBrsWMlw)
 - [讲座预告|新冠疫情模型论坛：资源、方法与应用](https://mp.weixin.qq.com/s/IWu-zleo7UscO-222oiLuA)
 - [【直播实录·上】颜宁主持，陈剑、牛俊奇、祁海、史隽、张文宏等专家共议疫情常态化下的“理性防疫”和次生灾难防范](https://mp.weixin.qq.com/s/NfuUcVBomEbR8qCfkIIW5Q)
+- [【抗疫超声在线】7月6日：COVID-2019 ，掌超置营养管](https://mp.weixin.qq.com/s/yqL-W_Dwa8xYkUAisrIrGw)

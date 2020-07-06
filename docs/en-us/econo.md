@@ -465,3 +465,4 @@
 - [疫情之下获中电科基金、元起资本投资，齐治凭什么？](https://mp.weixin.qq.com/s/PLFd_8s5ebs5st4i27m60w)
 - [#榜样的力量#疾控AI分析平台WDCIP——以科技力量贡献“大数据”智慧丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/ZswkcHWvzDfldjZpfVGBvQ)
 - [后疫情社区·融合｜流动人口社区：不是包袱是财富](https://mp.weixin.qq.com/s/ZABkUkVNJIfrIXC2_PTFkA)
+- [#榜样的力量#中原银行一区一码疫情管理系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/fAKTvz2Yn4fCvgQaLSuCLA)

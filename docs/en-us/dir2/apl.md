@@ -633,3 +633,5 @@
 - [利用流动性数据设计应对英格兰新型冠状病毒肺炎大流行的最佳封锁策略 | 网络科学论文速递20篇](https://mp.weixin.qq.com/s/XqtF_xPpKYvDe7YCoIyPWw)
 - [《科学》（20200703出版）一周论文导读](https://mp.weixin.qq.com/s/uJugzsLUqCDqs4IAiTibdg)
 - [瑞德西韦在发达国家的定价公开：390美元/剂，5天疗程共2340美元｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/j2DAXbbnbc0HAte084GKsA)
+- [“COVID-19”科研动态监测每日快报（7月5日）【中国科讯】](https://mp.weixin.qq.com/s/WIaDh8eFqXZyUNHfZb05ww)
+- [张文宏：今冬可能面临第二波疫情，美国、巴西第一波高峰还未出现 | 科研圈日报](https://mp.weixin.qq.com/s/_O0zJtZx6746vSj8sy0npg)
