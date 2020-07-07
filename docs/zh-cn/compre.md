@@ -755,3 +755,6 @@
 - [SEVP modifies temporary exemptions for nonimmigrant students taking online courses during fall 2020 semester](https://www.ice.gov/news/releases/sevp-modifies-temporary-exemptions-nonimmigrant-students-taking-online-courses-during)
 - [【研究】疫情下城市天空变得晴朗，但要防范臭氧突增！](https://mp.weixin.qq.com/s/lTEx5j_jxFb1rBN9IynN7Q)
 - [Pandemic’s Cleaner Air Could Reshape What We Know About the Atmosphere](https://www.nytimes.com/2020/06/25/climate/coronavirus-clean-air.html)
+- [疫情之下的高考有多难：高温、口罩和空调不均](https://mp.weixin.qq.com/s/G_VQS4w01TDg8g7R1MPQ8Q)
+- [经历冠状病毒的世代？ | COVID-19对儿童青少年的影响](https://mp.weixin.qq.com/s/81MXMZmwiu0-V_2jCnEWkg)
+- [Generation coronavirus?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31445-8/fulltext)

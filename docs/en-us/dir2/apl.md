@@ -642,3 +642,4 @@
 - [Nature 一周论文导读 | 2020年6月25日](https://mp.weixin.qq.com/s/hUa_7BIZFtNAwDmp0E-N1A)
 - [“COVID-19”科研动态监测每日快报（7月6日）【中国科讯】](https://mp.weixin.qq.com/s/ten9vqT0M8rSYsSl_oXRRA)
 - [在美留学生又遭打击：若只有网课可上，必须离境​ | 科研圈日报](https://mp.weixin.qq.com/s/Y_f9xnVWcc4lK2qozAZoYg)
+- [24小时热门｜它没有碳水、脂肪和蛋白，为啥还被抢着吃？｜全球239名科学家呼吁世卫组织修改新冠指南｜当大脑变老时，发生了什么？](https://mp.weixin.qq.com/s/9IYIi8YM4q-7k66F9891MQ)

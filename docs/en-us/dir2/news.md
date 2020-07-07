@@ -2684,3 +2684,8 @@
 - [北京2地降为低风险](https://mp.weixin.qq.com/s/aYWiKd0oOQKkFIlr78uz8w)
 - [民航局发出首份外航“熔断指令”](https://mp.weixin.qq.com/s/7wRhl4ZfbI5jCpqrKJKspA)
 - [新增确诊8例，全是境外输入](https://mp.weixin.qq.com/s/d-Q8QPsPojaL_o1j_hCrtw)
+- [疫情反弹，澳大利亚墨尔本再次“封城”](https://mp.weixin.qq.com/s/6zrrQs8f_w8Bhxx5fVXlXw)
+- [权威！荷兰解封后新冠十诫！隐患在哪？哪里安全？一定要知道！](https://mp.weixin.qq.com/s/kmWWrqCvFHhnPixaUg1r5g)
+- [荷兰上周432人确诊，19人死亡！瑞士德国爱尔兰多国疫情反弹，第二波这么快就来了？](https://mp.weixin.qq.com/s/GhtZUy7Sz-AYJsI5YYIvYQ)
+- [美国再陷新冠检测危机，多地有症状才能测](https://mp.weixin.qq.com/s/7UAUEo8fp6EJ92cvnl-fhw)
+- [巴西总统确认新冠阳性](https://mp.weixin.qq.com/s/ZM8UKA7eIFnb_CAIx4RcIw)
