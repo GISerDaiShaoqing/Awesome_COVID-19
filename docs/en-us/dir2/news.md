@@ -2683,3 +2683,4 @@
 - [辽宁男篮外出游玩没戴口罩引质疑，CBA回应](https://mp.weixin.qq.com/s/egxWZ2K3sp3kEFPog8qYWg)
 - [北京2地降为低风险](https://mp.weixin.qq.com/s/aYWiKd0oOQKkFIlr78uz8w)
 - [民航局发出首份外航“熔断指令”](https://mp.weixin.qq.com/s/7wRhl4ZfbI5jCpqrKJKspA)
+- [新增确诊8例，全是境外输入](https://mp.weixin.qq.com/s/d-Q8QPsPojaL_o1j_hCrtw)

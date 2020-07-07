@@ -466,3 +466,5 @@
 - [#榜样的力量#疾控AI分析平台WDCIP——以科技力量贡献“大数据”智慧丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/ZswkcHWvzDfldjZpfVGBvQ)
 - [后疫情社区·融合｜流动人口社区：不是包袱是财富](https://mp.weixin.qq.com/s/ZABkUkVNJIfrIXC2_PTFkA)
 - [#榜样的力量#中原银行一区一码疫情管理系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/fAKTvz2Yn4fCvgQaLSuCLA)
+- [#后疫情时代的新思考#疫情之后，我有5点建议给制造业IT团队丨数据猿公益策划](https://mp.weixin.qq.com/s/1-ryGD-Oc4bRCoiyDJYDWw)
+- [#榜样的力量#工业富联富集云防疫 App丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/AyDdSoX0ZJvwZgeRxJkhlA)

@@ -700,3 +700,5 @@
 - [COVID-19的脂质组学和代谢组学研究揭示新冠发病机制中代谢失调 | CellPress论文速递](https://mp.weixin.qq.com/s/uEEyroKhoz7fYyPltAwcdw)
 - [Omics-Driven Systems Interrogation of Metabolic Dysregulation in COVID-19 Pathogenesis](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30317-X)
 - [Development of an inactivated vaccine candidate for SARS-CoV-2](https://science.sciencemag.org/content/369/6499/77)
+- [Cell Res | 突破 ！汤楠/陈静瑜团队首次发现新冠肺炎患者肺泡可以再生](https://mp.weixin.qq.com/s/uznt8v2FCQss2M2NWILImQ)
+- [Pulmonary alveolar regeneration in adult COVID-19 patients](https://www.nature.com/articles/s41422-020-0369-7)

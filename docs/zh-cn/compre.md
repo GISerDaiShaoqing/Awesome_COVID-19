@@ -749,4 +749,9 @@
 - [2020 is predicted to be the hottest year on record, according to NASA](https://www.weforum.org/agenda/2020/07/earth-climate-change-nasa)
 - [【动向】2020年疫情下“超低排放”，航空业降低标准以2019年为减排基准年](https://mp.weixin.qq.com/s/svo-aBF4oKtXjpQnMIph0w)
 - [Airlines blame covid-19 for rowing back climate commitments](https://www.economist.com/business/2020/07/04/airlines-blame-covid-19-for-rowing-back-climate-commitments)
-- [不发论文的期刊诞生了：专门“吐槽”预印本，想让学术更公平]()https://mp.weixin.qq.com/s/erDxmYd4ADs-KWHu09PdRw
+- [不发论文的期刊诞生了：专门“吐槽”预印本，想让学术更公平](https://mp.weixin.qq.com/s/erDxmYd4ADs-KWHu09PdRw)
+- [突然被隔离，或者正焦急等待隔离结束？这段期间也要关注自己和家人的精神健康](https://mp.weixin.qq.com/s/LDk6g5l2Zbhy5DpaFzUzlw)
+- [美国突发新规，留学生只上网课或被遣返，新生也不能入境！川普：反正秋季必须开学](https://mp.weixin.qq.com/s/UkmtMIdYpDvOn3c2noSiag)
+- [SEVP modifies temporary exemptions for nonimmigrant students taking online courses during fall 2020 semester](https://www.ice.gov/news/releases/sevp-modifies-temporary-exemptions-nonimmigrant-students-taking-online-courses-during)
+- [【研究】疫情下城市天空变得晴朗，但要防范臭氧突增！](https://mp.weixin.qq.com/s/lTEx5j_jxFb1rBN9IynN7Q)
+- [Pandemic’s Cleaner Air Could Reshape What We Know About the Atmosphere](https://www.nytimes.com/2020/06/25/climate/coronavirus-clean-air.html)

@@ -640,3 +640,5 @@
 - [颜宁再主持！4大疫情常态化问题，答案看这里](https://mp.weixin.qq.com/s/KE3-yvAMnd6mliftXplU9A)
 - [Science 一周论文导读 | 2020年6月26日](https://mp.weixin.qq.com/s/FnZ16LEwvgg0oht9yFA-gg)
 - [Nature 一周论文导读 | 2020年6月25日](https://mp.weixin.qq.com/s/hUa_7BIZFtNAwDmp0E-N1A)
+- [“COVID-19”科研动态监测每日快报（7月6日）【中国科讯】](https://mp.weixin.qq.com/s/ten9vqT0M8rSYsSl_oXRRA)
+- [在美留学生又遭打击：若只有网课可上，必须离境​ | 科研圈日报](https://mp.weixin.qq.com/s/Y_f9xnVWcc4lK2qozAZoYg)
