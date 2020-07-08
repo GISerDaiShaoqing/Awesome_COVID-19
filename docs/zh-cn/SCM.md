@@ -71,5 +71,6 @@
 - [周末访谈 | 治愈城市: 新冠病毒如何重塑城市设计](https://mp.weixin.qq.com/s/-HnmWffKE8AT3zIotHnfCA)
 - [后疫情时代︱向“城市高密度导致疫情暴发”的指责说NO!](https://mp.weixin.qq.com/s/r7zSAHo_p62okd38kk-N3w)
 - [后疫情时代︱现在改变电动自行车行业还不算晚 (两则)](https://mp.weixin.qq.com/s/lWSJdH91LFyg27AtYcF9zg)
+- [后疫情时代︱如何拯救你我的初创公司](https://mp.weixin.qq.com/s/If3BnGIhY-mdAbZ4bRKb_Q)
 
 ![](/img/SCM.jpg)

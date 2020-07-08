@@ -702,3 +702,7 @@
 - [Development of an inactivated vaccine candidate for SARS-CoV-2](https://science.sciencemag.org/content/369/6499/77)
 - [Cell Res | 突破 ！汤楠/陈静瑜团队首次发现新冠肺炎患者肺泡可以再生](https://mp.weixin.qq.com/s/uznt8v2FCQss2M2NWILImQ)
 - [Pulmonary alveolar regeneration in adult COVID-19 patients](https://www.nature.com/articles/s41422-020-0369-7)
+- [印度要以“风速”推出新冠疫苗了！科学家：荒谬！](https://mp.weixin.qq.com/s/5d1WNCBf83GvtMLTPef07Q)
+- [Scientists scoff at Indian agency's plan to have COVID-19 vaccine ready for use next month](https://www.sciencemag.org/news/2020/07/scientists-scoff-indian-agencys-plan-have-covid-19-vaccine-ready-use-next-month)
+- [最新 | 首例报道新冠肺炎患者出现阴茎长时间异常勃起](https://mp.weixin.qq.com/s/bhMVJhFpqZJPjw5UCizWNw)
+- [Priapism in a patient with coronavirus disease 2019 (COVID-19): A case report](https://www.sciencedirect.com/science/article/pii/S0735675720305143)

@@ -201,3 +201,5 @@
 - [Wear a mask? Yes, always wear a mask](http://www.healthdata.org/infographic/covid19-mask-usage-meta-analysis)
 - [SOME ARE WINNING - SOME ARE NOT](https://www.endcoronavirus.org/states)
 - [【观点】全球347名风险分析师眼中的31种“疫情后遗症“](https://mp.weixin.qq.com/s/IuPdD8yyr_oQbVvoxn65yw)
+- [University of Twente maps COVID-19 cases](https://www.itc.nl/news/2020/7/692668/university-of-twente-maps-covid-19-cases)
+- [Epidemics and pandemics in maps – the case of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1776646)

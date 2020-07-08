@@ -40,3 +40,4 @@
 - [增加“传播与干预模型”，COVID Insights网站新功能上线](https://mp.weixin.qq.com/s/d0yif60S7NjwritA-U_6Hw)
 - [COVID-19 Earth Observation Dashboard](https://eodashboard.org/?poi=CN03-E8)
 - [A global collection of Open Source projects during COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)
+- [Esri: COVID-19 maps and apps](https://www.esri.com/en-us/covid-19/community-maps/gallery?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_trends&adusf=twitter&adut=a045507d-98b1-4247-8d12-eed9a24c4293#/)
