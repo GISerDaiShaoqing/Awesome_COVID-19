@@ -2697,3 +2697,6 @@
 - [Airborne Coronavirus: What You Should Do Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html?smid=tw-nytimesscience&smtyp=cur)
 - [美国正式退出世卫组织](https://mp.weixin.qq.com/s/pzkERO5ZrNuR3eQ5jqbwEQ)
 - [187319人，全部阴性！福建公布检测结果！](https://mp.weixin.qq.com/s/B8BJw7scYv1BFXh-LwWPQg)
+- [RIVM历时数月终将中国已经证实的事实证实了：气溶胶可传播病毒](https://mp.weixin.qq.com/s/wofWUdgZ3tJ_kZLAZf3hiQ)
+- [疫情中受害的儿童，孩子有病不能及时看医生？](https://mp.weixin.qq.com/s/1cmbwuV0fOs_gQJtfFD2Kw)
+- [乐观面迎疫情，不忘携眷同游，荷兰华人薯店总会今年亲子活动摘樱桃](https://mp.weixin.qq.com/s/g4v196tq1tOKt4xgQRKsCA)

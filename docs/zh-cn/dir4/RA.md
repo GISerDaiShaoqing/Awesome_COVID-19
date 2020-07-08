@@ -31,3 +31,4 @@
 - [最新综述 | 为保持身体距离、使用口罩及眼部防护提供了证据](https://mp.weixin.qq.com/s/ensmhdkU-e2H9qMBFHOy-Q)
 - [Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext)
 - [Lancet Voice 特别版 | 保持身体距离、戴口罩及眼部防护](https://mp.weixin.qq.com/s/WI4Ry-e5MNY8KCaFuxSgyA)
+- [Early forecasting of the potential risk zones of COVID-19 in China's megacities](https://www.sciencedirect.com/science/article/pii/S0048969720325122?via%3Dihub#f0005)
