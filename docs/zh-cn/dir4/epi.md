@@ -272,3 +272,5 @@
 - [Second waves, social distancing, and the spread of COVID-19 across America](https://wellcomeopenresearch.org/articles/5-103)
 - [Racial segregation, testing sites access, and COVID-19 incidence rate in Massachusetts, USA](https://www.researchgate.net/publication/342690213_Racial_segregation_testing_sites_access_and_COVID-19_incidence_rate_in_Massachusetts_USA?channel=doi&linkId=5f009749a6fdcc4ca44b745d&showFulltext=true)
 - [接触追溯和分析：从针对埃博拉和疟疾的数据驱动型抗疫工作中获得见解](https://mp.weixin.qq.com/s/LlJ09paTAqh6QhJ0iurpDw)
+- [量化COVID-19相关死亡的临床因素和人口学风险因素 |《自然》论文](https://mp.weixin.qq.com/s/mYuNU6psr4Mb5kFuvxYhfQ)
+- [OpenSAFELY: factors associated with COVID-19 death in 17 million patients](https://www.nature.com/articles/s41586-020-2521-4)

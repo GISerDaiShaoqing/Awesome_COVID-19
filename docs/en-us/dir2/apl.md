@@ -645,3 +645,6 @@
 - [24小时热门｜它没有碳水、脂肪和蛋白，为啥还被抢着吃？｜全球239名科学家呼吁世卫组织修改新冠指南｜当大脑变老时，发生了什么？](https://mp.weixin.qq.com/s/9IYIi8YM4q-7k66F9891MQ)
 - [239 名科学家发表联名信：新冠病毒空气传播风险被低估 | 科研圈日报](https://mp.weixin.qq.com/s/0O7gSJd3hLQU2yJXBh3G-g)
 - [“COVID-19”科研动态监测每日快报（7月7日）【中国科讯】](https://mp.weixin.qq.com/s/JeiiBNj38cpJdHjan6GFBg)
+- [24小时热门｜ 柳叶刀子刊：全球近3.5亿人属于新冠重症高风险人群，男性风险高于女性](https://mp.weixin.qq.com/s/e7a6kmWPcvs7m2WuT56dfQ)
+- [“COVID-19”科研动态监测每日快报（7月8日）【中国科讯】](https://mp.weixin.qq.com/s/6JIZeOyCKJ4GDyz5phF5Ug)
+- [哈佛、MIT、康奈尔共同起诉美国政府，称驱逐留学生新规违法｜科研圈日报](https://mp.weixin.qq.com/s/9NZmrLJLCKmCZR-jAbp8_A)

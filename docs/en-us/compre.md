@@ -765,3 +765,4 @@
 - [柳叶刀-呼吸病学 | COVID-19预示着慢性病在初级卫生保健领域的新纪元](https://mp.weixin.qq.com/s/5r56Xlc9IxxoSZ8kh0df-A)
 - [COVID-19 heralds a new era for chronic diseases in primary care](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30274-5/fulltext)
 - [Integrating Biomedical, Ecological, and Sustainability Sciences to Manage Emerging Infectious Diseases](https://www.sciencedirect.com/science/article/pii/S2590332220302931?via%3Dihub)
+- [Does Density Aggravate the COVID-19 Pandemic?](https://www.tandfonline.com/doi/full/10.1080/01944363.2020.1777891)

@@ -232,3 +232,4 @@
 - [【直播实录·下】颜宁主持，陈剑、牛俊奇、祁海、史隽、张文宏等专家共议疫情常态化下的“理性防疫”和次生灾难防范](https://mp.weixin.qq.com/s/gSjYUNGYIxcNpVqEzb6T3g)
 - [“新冠疫情数据分析系列讲座”开启全球新冠疫情研究合作新模式](https://mp.weixin.qq.com/s/t5olCFFUqWi_jS9covHe6A)
 - [数据导读回顾 |李振龙：社交媒体（Twitter）大数据、人口流动和COVID-19](https://mp.weixin.qq.com/s/e3m8WcvMDrgxoENtZda_SA)
+- [数据导读回顾 |李振龙：社交媒体（Twitter）大数据、人口流动和COVID-19](https://mp.weixin.qq.com/s/9kKuVK5Tq8iVktWX22Q46Q)
