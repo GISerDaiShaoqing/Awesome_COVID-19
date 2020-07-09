@@ -766,3 +766,4 @@
 - [COVID-19 heralds a new era for chronic diseases in primary care](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30274-5/fulltext)
 - [Integrating Biomedical, Ecological, and Sustainability Sciences to Manage Emerging Infectious Diseases](https://www.sciencedirect.com/science/article/pii/S2590332220302931?via%3Dihub)
 - [Does Density Aggravate the COVID-19 Pandemic?](https://www.tandfonline.com/doi/full/10.1080/01944363.2020.1777891)
+- [我们要像病毒攻击我们一样还击病毒](https://mp.weixin.qq.com/s/dH3Mz-8RQ4i7HiuUiH3z4Q)

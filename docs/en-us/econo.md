@@ -475,3 +475,4 @@
 - [#榜样的力量#实时新型肺炎疫情数据小程序平台丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/SpAOfPyOUEmaQD0iOWUqSw)
 - [#榜样的力量#华佗疫情防控平台丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/aMkXsyY8tDnwy_viV7kuuw)
 - [国际资讯 | [美]密度并非新冠疫情迅猛发展的主因/后新冠时代城市规划重点/旧金山“购买权政策”或缓解绅士化(2020.7)](https://mp.weixin.qq.com/s/vpuG38dQFIwWlChzkGR3Ew)
+- [后疫情社区·融合｜疫情下，非洲难民如何“自救”](https://mp.weixin.qq.com/s/ALEB3EyJbS3K028dVxyyWA)

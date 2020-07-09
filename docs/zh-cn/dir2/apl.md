@@ -648,3 +648,5 @@
 - [24小时热门｜ 柳叶刀子刊：全球近3.5亿人属于新冠重症高风险人群，男性风险高于女性](https://mp.weixin.qq.com/s/e7a6kmWPcvs7m2WuT56dfQ)
 - [“COVID-19”科研动态监测每日快报（7月8日）【中国科讯】](https://mp.weixin.qq.com/s/6JIZeOyCKJ4GDyz5phF5Ug)
 - [哈佛、MIT、康奈尔共同起诉美国政府，称驱逐留学生新规违法｜科研圈日报](https://mp.weixin.qq.com/s/9NZmrLJLCKmCZR-jAbp8_A)
+- [24小时热门｜ 近几十年来，人类的智商正在不断下降；康复后又“阴转阳”的新冠患者，后来都怎样了？](https://mp.weixin.qq.com/s/HrVn79uRgTFE9ahzmc5wUw)
+- [接触追踪+隐私保护避免第二波新冠肺炎疫情 | 网络科学论文速递35篇](https://mp.weixin.qq.com/s/W8FFPzejJcN8NxAxT8M3Iw)
