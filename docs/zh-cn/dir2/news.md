@@ -2719,4 +2719,3 @@
 - [加州政府就国际学生签证新规，起诉特朗普政府](https://mp.weixin.qq.com/s/b3DPVfTXh6nSO_0m8tfP4w)
 - [玻利维亚临时总统，新冠阳性](https://mp.weixin.qq.com/s/wRVfi8DamGGDxvW-COb1og)
 - [新增确诊4例，均为境外输入](https://mp.weixin.qq.com/s/R1O9aVEvyJOGDmZYNGlhpA)
-- [新冠疫情已引起全球经济损失 3.8 万亿美元 | 科研圈日报](https://mp.weixin.qq.com/s/N5zLBwvaj-zmJvGpCPMhbQ)

@@ -653,3 +653,4 @@
 - [AGU 本周精选文章：极光；新冠疫情的影响；北极气候变化；消失的湖泊](https://mp.weixin.qq.com/s/kk9epn8LahnUfaRN-3AAJQ)
 - [疫情防控常态化下，如何更好地做好健康防护？](https://mp.weixin.qq.com/s/R5wRgLle-KJClcK_dRqdzw)
 - [“COVID-19”科研动态监测每日快报（7月9日）【中国科讯】](https://mp.weixin.qq.com/s/U1xPnTV-wgtNPbmaWRrlNg)
+- [新冠疫情已引起全球经济损失 3.8 万亿美元 | 科研圈日报](https://mp.weixin.qq.com/s/N5zLBwvaj-zmJvGpCPMhbQ)
