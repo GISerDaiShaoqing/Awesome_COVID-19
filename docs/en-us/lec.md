@@ -233,3 +233,4 @@
 - [“新冠疫情数据分析系列讲座”开启全球新冠疫情研究合作新模式](https://mp.weixin.qq.com/s/t5olCFFUqWi_jS9covHe6A)
 - [数据导读回顾 |李振龙：社交媒体（Twitter）大数据、人口流动和COVID-19](https://mp.weixin.qq.com/s/e3m8WcvMDrgxoENtZda_SA)
 - [数据导读回顾 |李振龙：社交媒体（Twitter）大数据、人口流动和COVID-19](https://mp.weixin.qq.com/s/9kKuVK5Tq8iVktWX22Q46Q)
+- [直播预告 | 科学与中国“云讲堂”第一讲： 用“心”抗疫：守护儿童青少年心理健康【中国科讯】](https://mp.weixin.qq.com/s/uuSAfwJOvz3bVWE9_u_pvw)

@@ -2715,3 +2715,8 @@
 - [荷兰新冠疫苗支持率不到6成！研发成功我也不打！理由是……](https://mp.weixin.qq.com/s/T0cN33d6bfNMKCwKtJtTKw)
 - [30万中国学生因为上网课将被驱逐出境？留学生太难了！哈佛MIT众名校联手告懂王！](https://mp.weixin.qq.com/s/4cZ6ST_n4IrJHRhMODKIAw)
 - [北京两起聚集性疫情更多细节通报，疾控部门发出五大提醒](https://mp.weixin.qq.com/s/l7BzsjtVVM1Yi239JPxBSg)
+- [反对美国留学签证新规，美国科学促进会发表声明](https://mp.weixin.qq.com/s/K8FDmNUWQ2UqzOChZWm-2w)
+- [加州政府就国际学生签证新规，起诉特朗普政府](https://mp.weixin.qq.com/s/b3DPVfTXh6nSO_0m8tfP4w)
+- [玻利维亚临时总统，新冠阳性](https://mp.weixin.qq.com/s/wRVfi8DamGGDxvW-COb1og)
+- [新增确诊4例，均为境外输入](https://mp.weixin.qq.com/s/R1O9aVEvyJOGDmZYNGlhpA)
+- [新冠疫情已引起全球经济损失 3.8 万亿美元 | 科研圈日报](https://mp.weixin.qq.com/s/N5zLBwvaj-zmJvGpCPMhbQ)

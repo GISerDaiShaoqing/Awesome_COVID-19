@@ -435,3 +435,5 @@
 - [重大突破 | 石正丽/单超/袁志明生成了非人类灵长类动物新冠模型](https://mp.weixin.qq.com/s/zPmYD4vMz-isGojyDk_YpA)
 - [Infection with novel coronavirus (SARS-CoV-2) causes pneumonia in Rhesus macaques](https://www.nature.com/articles/s41422-020-0364-z)
 - [D614G变异增强了COVID-19病毒的传染性丨CellPress论文速递](https://mp.weixin.qq.com/s/MHfUDEhut2WELLlhrT4MOA)
+- [知己知彼才好战胜疫情：如何让病毒课嗨起来 | Virology Journal](https://mp.weixin.qq.com/s/4NNSecZY-tflPSHDvT13ng)
+- [Virus goes viral: an educational kit for virology classes](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-1291-9?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_VJ_Jul)
