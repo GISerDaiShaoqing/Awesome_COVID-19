@@ -33,3 +33,5 @@
 - [Lancet Voice 特别版 | 保持身体距离、戴口罩及眼部防护](https://mp.weixin.qq.com/s/WI4Ry-e5MNY8KCaFuxSgyA)
 - [Early forecasting of the potential risk zones of COVID-19 in China's megacities](https://www.sciencedirect.com/science/article/pii/S0048969720325122?via%3Dihub#f0005)
 - [Impact of Social Distancing Measures on COVID-19 Healthcare Demand in Central Texas](https://www.medrxiv.org/content/10.1101/2020.04.16.20068403v1)
+- [论文推荐 | 夏吉喆, 周颖, 李珍, 李帆, 乐阳, 程涛,李清泉:城市时空大数据驱动的新型冠状病毒传播风险评估](https://mp.weixin.qq.com/s/Pp0h8hustN215mJEnA99Ow)
+- [城市时空大数据驱动的新型冠状病毒传播风险评估——以粤港澳大湾区为例](http://xb.sinomaps.com/article/2020/1001-1595/2020-6-671.htm)

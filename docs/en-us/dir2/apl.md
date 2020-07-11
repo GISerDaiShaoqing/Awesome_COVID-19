@@ -659,3 +659,4 @@
 - [24小时热门｜沉默之证 ：新冠病毒如何“吞噬”患者身体？](https://mp.weixin.qq.com/s/q06BiLd8bZS3OY38JQibAA)
 - [情报研发 | “COVID-19”科研动态监测每日快报（7月10日）【中国科讯】](https://mp.weixin.qq.com/s/J0rSxCI2gsWqGocxVVXYSA)
 - [外卖配送和快递从业人员新冠肺炎疫情健康防护指南来了！](https://mp.weixin.qq.com/s/39fHCwIFLoIOgZ528tbEVw)
+- [《柳叶刀》子刊：那些康复后又“阴转阳”的COVID-19患者，后来都怎样了？｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/VzgTwFZlFng-OOk-9Sjtzw)

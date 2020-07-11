@@ -777,3 +777,5 @@
 - [期刊目录 | 健康/医学地理视角下的新冠肺炎疫情解读](https://mp.weixin.qq.com/s/bVT1Uwz-W_MbdQwHyXJwgA)
 - [Nature 视频 | 用家用抗体试剂盒来追踪Covid-19的传播](https://mp.weixin.qq.com/s/ly6J1rTYJk-wRxeGSnIPbQ)
 - [We test a home antibody kit for tracking Covid-19](https://www.nature.com/articles/d41586-020-01677-y)
+- [疫情过后人工智能是否能迎来春天？](https://mp.weixin.qq.com/s/e3POM5WZbZZMmqN2qlLbjA)
+- [北京通报一聚集性疫情：13人确诊，相互串门不戴口罩](https://mp.weixin.qq.com/s/ePV3p87PMxa1XzGkPv95-g)
