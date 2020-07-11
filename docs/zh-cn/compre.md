@@ -631,7 +631,7 @@
 - [Crises and opportunities in terms of energy and AI technologies during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S2666546820300136)
 - [《柳叶刀》最新综述 | 中国基层医疗卫生服务质量：挑战与建议](https://mp.weixin.qq.com/s/cOg-sTXJD1Yvh6DvftmPYA)
 - [疫情之下，留学之路通向何方](https://mp.weixin.qq.com/s/ld6cO4z7HnmDYYCYwZWLmg)
-- [《柳叶刀》：中国基层医疗卫生体系面临挑战和机遇]https://mp.weixin.qq.com/s/EYENlYekB7r0xdrPVog4IA)
+- [《柳叶刀》：中国基层医疗卫生体系面临挑战和机遇](https://mp.weixin.qq.com/s/EYENlYekB7r0xdrPVog4IA)
 - [Digital Science 发布新冠肺炎科研活动报告](https://mp.weixin.qq.com/s/r5prr2qslKj3nN-yJKt8Tw)
 - [How COVID-19 is Changing Research Culture](https://digitalscience.figshare.com/articles/How_COVID-19_is_Changing_Research_Culture/12383267)
 - [COVID-19防控对全球空气质量的影响](https://mp.weixin.qq.com/s/4wlLF88n8UqPR0PospoXqQ)
@@ -779,3 +779,4 @@
 - [We test a home antibody kit for tracking Covid-19](https://www.nature.com/articles/d41586-020-01677-y)
 - [疫情过后人工智能是否能迎来春天？](https://mp.weixin.qq.com/s/e3POM5WZbZZMmqN2qlLbjA)
 - [北京通报一聚集性疫情：13人确诊，相互串门不戴口罩](https://mp.weixin.qq.com/s/ePV3p87PMxa1XzGkPv95-g)
+- [COVID-19 Regional Safety Assessment (200 Regions)](https://www.dkv.global/covid-safety-assessment-200-regions)

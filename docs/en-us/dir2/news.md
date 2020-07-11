@@ -2737,3 +2737,5 @@
 - [香港入境事务处：深圳湾口岸入境处职员确诊新冠肺炎](https://mp.weixin.qq.com/s/j7rtODaNenD14Y1Xxvk6Bg)
 - [香港17宗本地感染，有8宗找不到源头](https://mp.weixin.qq.com/s/ZyNwM96LhKcdcsmRTm5JJA)
 - [哈尔滨市疾控中心：尽量不去鼠疫疫源地活跃地区](https://mp.weixin.qq.com/s/haT6dOng-yxh0vp0EUQFow)
+- [英国逐步“解封” 那里的中餐厅咋样了？](https://mp.weixin.qq.com/s/skeri2er-m8PBIuFs-zVgw)
+- [新冠肺炎轻症者也可能大脑严重受损](https://mp.weixin.qq.com/s/VwKPKS1mhpgp7VwtzdKxsg)
