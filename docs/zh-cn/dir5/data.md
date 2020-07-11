@@ -196,3 +196,4 @@
 - [新数据：中国抗击COVID-19科研进展视频报告（第4期）：临床药物](https://mp.weixin.qq.com/s/EHncrQwa5JXORCE-YLFZMg)
 - [COVID19 epidemic french national data](https://github.com/opencovid19-fr/data)
 - [Data repository for covid19japan.com](https://github.com/reustle/covid19japan-data)
+- [COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown](https://www.nature.com/articles/s41597-020-00575-2)

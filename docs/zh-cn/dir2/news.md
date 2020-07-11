@@ -2726,3 +2726,8 @@
 - [Paracetamol被检测出致癌物，AH/Etos/K店全中枪！新型不明肺炎又是怎么回事儿？](https://mp.weixin.qq.com/s/-hpztAdNbRA7rpp3A5vTZQ)
 - [海关总署：厄瓜多尔冻南美白虾外包装检出新冠病毒！已暂停23家境外肉类企业进口](https://mp.weixin.qq.com/s/rpkkVokF6mLyYzOVKqJoyg)
 - [疫情造成荷兰人对房屋有新要求：空间大，房间多，有花园或阳台](https://mp.weixin.qq.com/s/HUlYTfTN1NlO1ibtUpdWfw)
+- [吴尊友：哈萨克斯坦疫情是新冠肺炎的可能性更大](https://mp.weixin.qq.com/s/rBDiKS3JMx1KYVbMT-Z0fA)
+- [新增确诊2例，均为境外输入](https://mp.weixin.qq.com/s/4RK0UmGIii15h3NzDcVbsw)
+- [京东盒马回应厄瓜多尔白虾事件，“均已核酸检测100%阴性”](https://mp.weixin.qq.com/s/YuWcHWnqbFCFROKJS_6Ixg)
+- [巴西总统确诊后露面，称状态“很好”](https://mp.weixin.qq.com/s/T4rbswWUQJs2sOfqA9Agdg)
+- [张文宏解读“哈萨克斯坦不明原因肺炎”](https://mp.weixin.qq.com/s/I62w4NEtP36O7XFUerI2nQ)

@@ -72,5 +72,6 @@
 - [后疫情时代︱向“城市高密度导致疫情暴发”的指责说NO!](https://mp.weixin.qq.com/s/r7zSAHo_p62okd38kk-N3w)
 - [后疫情时代︱现在改变电动自行车行业还不算晚 (两则)](https://mp.weixin.qq.com/s/lWSJdH91LFyg27AtYcF9zg)
 - [后疫情时代︱如何拯救你我的初创公司](https://mp.weixin.qq.com/s/If3BnGIhY-mdAbZ4bRKb_Q)
+- [城市后疫情时代︱新冠病毒将改变城市生活并加速智慧城市愿景（两则）](https://mp.weixin.qq.com/s/kF2tXaGZ8BVMEkH39ci6Fg)
 
 ![](/img/SCM.jpg)

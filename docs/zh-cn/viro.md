@@ -437,3 +437,5 @@
 - [D614G变异增强了COVID-19病毒的传染性丨CellPress论文速递](https://mp.weixin.qq.com/s/MHfUDEhut2WELLlhrT4MOA)
 - [知己知彼才好战胜疫情：如何让病毒课嗨起来 | Virology Journal](https://mp.weixin.qq.com/s/4NNSecZY-tflPSHDvT13ng)
 - [Virus goes viral: an educational kit for virology classes](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-1291-9?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_VJ_Jul)
+- [冠状病毒结构提示SARS-CoV-2演化 |《自然-结构和分子生物学》论文](https://mp.weixin.qq.com/s/WFrpVygZqUmMLfRsdYlJFg)
+- [SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects](https://www.nature.com/articles/s41594-020-0468-7)

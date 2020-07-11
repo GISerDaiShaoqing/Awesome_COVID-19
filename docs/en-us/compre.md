@@ -775,3 +775,5 @@
 - [Global socio-economic losses and environmental gains from the Coronavirus pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235654)
 - [A project exploring the effects of EPA's policy to not enforce certain reporting and emissions rules for facilities burdened by the COVID pandemic](https://github.com/edgi-govdata-archiving/ECHO-COVID19)
 - [期刊目录 | 健康/医学地理视角下的新冠肺炎疫情解读](https://mp.weixin.qq.com/s/bVT1Uwz-W_MbdQwHyXJwgA)
+- [Nature 视频 | 用家用抗体试剂盒来追踪Covid-19的传播](https://mp.weixin.qq.com/s/ly6J1rTYJk-wRxeGSnIPbQ)
+- [We test a home antibody kit for tracking Covid-19](https://www.nature.com/articles/d41586-020-01677-y)
