@@ -234,3 +234,4 @@
 - [数据导读回顾 |李振龙：社交媒体（Twitter）大数据、人口流动和COVID-19](https://mp.weixin.qq.com/s/e3m8WcvMDrgxoENtZda_SA)
 - [数据导读回顾 |李振龙：社交媒体（Twitter）大数据、人口流动和COVID-19](https://mp.weixin.qq.com/s/9kKuVK5Tq8iVktWX22Q46Q)
 - [直播预告 | 科学与中国“云讲堂”第一讲： 用“心”抗疫：守护儿童青少年心理健康【中国科讯】](https://mp.weixin.qq.com/s/uuSAfwJOvz3bVWE9_u_pvw)
+- [讲座回顾 | 疫情模型与数据回顾](https://mp.weixin.qq.com/s/pOG7g_Gb6oVJUPK4obgqRQ)

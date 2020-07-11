@@ -654,3 +654,6 @@
 - [疫情防控常态化下，如何更好地做好健康防护？](https://mp.weixin.qq.com/s/R5wRgLle-KJClcK_dRqdzw)
 - [“COVID-19”科研动态监测每日快报（7月9日）【中国科讯】](https://mp.weixin.qq.com/s/U1xPnTV-wgtNPbmaWRrlNg)
 - [新冠疫情已引起全球经济损失 3.8 万亿美元 | 科研圈日报](https://mp.weixin.qq.com/s/N5zLBwvaj-zmJvGpCPMhbQ)
+- [脚踏实地，协作前行丨COVID-19的经济足迹背后的故事](https://mp.weixin.qq.com/s/mZMZ6vuUj-rX2qFnnrRMWw)
+- [在新型冠状病毒肺炎大流行期间监测推特上的抑郁趋势 | 网络科学论文速递35篇](https://mp.weixin.qq.com/s/TTt0yLhHRgGFlqBTveeD_g)
+- [24小时热门｜沉默之证 ：新冠病毒如何“吞噬”患者身体？](https://mp.weixin.qq.com/s/q06BiLd8bZS3OY38JQibAA)

@@ -706,3 +706,6 @@
 - [Scientists scoff at Indian agency's plan to have COVID-19 vaccine ready for use next month](https://www.sciencemag.org/news/2020/07/scientists-scoff-indian-agencys-plan-have-covid-19-vaccine-ready-use-next-month)
 - [最新 | 首例报道新冠肺炎患者出现阴茎长时间异常勃起](https://mp.weixin.qq.com/s/bhMVJhFpqZJPjw5UCizWNw)
 - [Priapism in a patient with coronavirus disease 2019 (COVID-19): A case report](https://www.sciencedirect.com/science/article/pii/S0735675720305143)
+- [专家论坛丨重型新型冠状病毒肺炎的临床决策与思考](https://mp.weixin.qq.com/s/egfnrFNiaoxK1m9EtGMCsQ)
+- [重型新型冠状病毒肺炎的临床决策与思考](http://rs.yiigle.com/yufabiao/1206528.htm)
+- [An evaluation of COVID-19 serological assays informs future diagnostics and exposure assessment](https://www.nature.com/articles/s41467-020-17317-y)
