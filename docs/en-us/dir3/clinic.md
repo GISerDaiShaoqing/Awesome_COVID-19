@@ -709,3 +709,5 @@
 - [专家论坛丨重型新型冠状病毒肺炎的临床决策与思考](https://mp.weixin.qq.com/s/egfnrFNiaoxK1m9EtGMCsQ)
 - [重型新型冠状病毒肺炎的临床决策与思考](http://rs.yiigle.com/yufabiao/1206528.htm)
 - [An evaluation of COVID-19 serological assays informs future diagnostics and exposure assessment](https://www.nature.com/articles/s41467-020-17317-y)
+- [PNAS | 活久见！百年疫苗-卡介苗的接种可降低新冠肺炎死亡率](https://mp.weixin.qq.com/s/ykGr_mP2BeswcY2Wu1gVpA)
+- [BCG vaccine protection from severe coronavirus disease 2019 (COVID-19)](https://doi.org/10.1073/pnas.2008410117)

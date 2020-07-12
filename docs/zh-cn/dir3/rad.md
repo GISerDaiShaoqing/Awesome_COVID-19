@@ -44,3 +44,4 @@
 - [COVID-19 lung alterations still evident at 60-day follow-up chest CT in asymptomatic patients despite negative rRT-PCR testing](https://www.researchsquare.com/article/rs-28202/v1)
 - [Deep Learning in Medical Imaging and Medical Image Analysis](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis)
 - [COVID-19影像学精选图书|章节限时免费开放下载](https://mp.weixin.qq.com/s/BEfJWRLR_CJ0EFyZTi9SRw)
+- [专家视点 | 人工智能在医学图像中的应用：机会与挑战](https://mp.weixin.qq.com/s/aeXnMJkrguAkIx4pmErpSA)
