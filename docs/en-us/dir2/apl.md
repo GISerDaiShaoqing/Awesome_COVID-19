@@ -662,3 +662,6 @@
 - [《柳叶刀》子刊：那些康复后又“阴转阳”的COVID-19患者，后来都怎样了？｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/VzgTwFZlFng-OOk-9Sjtzw)
 - [图说 | 外卖配送和快递从业人员新冠肺炎疫情健康防护指南](https://mp.weixin.qq.com/s/XeAv74tPv_lvsFGhxZ0sdQ)
 - [情报研发 | “COVID-19”科研动态监测每日快报（7月11日）【中国科讯】](https://mp.weixin.qq.com/s/4yeI395yOCbRvOGQElw9Zw)
+- [从恐惧到仇恨: 美国新冠病毒肺炎流行病如何引发种族仇恨 | 网络科学论文速度36篇](https://mp.weixin.qq.com/s/8JceYjtmFcqUbJl5af4Etg)
+- [《科学》（20200710出版）一周论文导读](https://mp.weixin.qq.com/s/tPqS7NQSnSQ_JKYHCZZksQ)
+- [知名华裔学者回国途中被捕；改口！美政府修改留学生新政 | 一周动态](https://mp.weixin.qq.com/s/JCgk33xZYfix6Duuo6-eGw)

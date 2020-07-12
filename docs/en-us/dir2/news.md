@@ -2749,3 +2749,6 @@
 - [特朗普首次公开佩戴口罩](https://mp.weixin.qq.com/s/SNlNeYEnXBZEYZWzaOZ6JA)
 - [三部门：立即停售封存销毁部分厄瓜多尔冻南美白虾](https://mp.weixin.qq.com/s/zRZ7Fhy6BgztLX4tKtkPUg)
 - [日本美军基地发生聚集性感染，61人确诊](https://mp.weixin.qq.com/s/GTTJKeDsPjQ5iJbODcsYkg)
+- [故意参加“新冠聚会”，美国一名30岁男性染病丧命](https://mp.weixin.qq.com/s/l9TG4Z-dlF3kYjlTD-NYEw)
+- [疫波未平，硝烟再起！2020前半程总结，世界你怎么了？](https://mp.weixin.qq.com/s/LsCdcWFdyuoWXxlKbx-BxQ)
+- [北京疾控中心提醒，购买水果生鲜时应佩戴一次性手套](https://mp.weixin.qq.com/s/-Hx_74rV6UcXW9SbCzHo7A)

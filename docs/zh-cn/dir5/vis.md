@@ -203,3 +203,6 @@
 - [【观点】全球347名风险分析师眼中的31种“疫情后遗症“](https://mp.weixin.qq.com/s/IuPdD8yyr_oQbVvoxn65yw)
 - [University of Twente maps COVID-19 cases](https://www.itc.nl/news/2020/7/692668/university-of-twente-maps-covid-19-cases)
 - [Epidemics and pandemics in maps – the case of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1776646)
+- [这些图表看懂了吗？荷兰经济受沉重打击程度如何](https://mp.weixin.qq.com/s/DXXYIzmazKomgvxxWTHa6A)
+- [心大的荷兰人疫情中聚会，警方干预](https://mp.weixin.qq.com/s/IUbT51Os8rvonfQz_UvwKw)
+- [坏消息：免疫只是暂时的，治愈患者血液中的抗体减少](https://mp.weixin.qq.com/s/p8pJAaieF1DWEqE8Ec5OXQ)

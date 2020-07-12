@@ -439,3 +439,5 @@
 - [Virus goes viral: an educational kit for virology classes](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-1291-9?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_VJ_Jul)
 - [冠状病毒结构提示SARS-CoV-2演化 |《自然-结构和分子生物学》论文](https://mp.weixin.qq.com/s/WFrpVygZqUmMLfRsdYlJFg)
 - [SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects](https://www.nature.com/articles/s41594-020-0468-7)
+- [尚无证据表明新冠病毒增进了人际传播：著名病毒学教授如是说](http://blog.sciencenet.cn/blog-347754-1241736.html)
+- [No evidence for increased human transmission of SARS-CoV-2](https://www.virology.ws/2020/07/09/no-evidence-for-increased-human-transmission-of-sars-cov-2/)
