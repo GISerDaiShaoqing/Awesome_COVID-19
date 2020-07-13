@@ -69,3 +69,4 @@
 - [Changes in contact patterns shape the dynamics of the COVID-19 outbreak in China](https://science.sciencemag.org/content/368/6498/1481)
 - [Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modeling study](https://www.medrxiv.org/content/10.1101/2020.06.25.20140418v1)
 - [Sustainable social distancing through facemask use and testing during the Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.01.20049981v3)
+- [Impacts of Early Interventions on the Age-Specific Incidence of COVID-19 in New York, Los Angeles, Daegu and Nairobi](https://www.medrxiv.org/content/10.1101/2020.04.19.20071803v1#disqus_thread)

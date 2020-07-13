@@ -713,3 +713,4 @@
 - [BCG vaccine protection from severe coronavirus disease 2019 (COVID-19)](https://doi.org/10.1073/pnas.2008410117)
 - [JAMA | 一文看懂新冠所有的状况！最为全面系统盘点COVID-19的病理生理学，传播，诊断和管理](https://mp.weixin.qq.com/s/030rc07G9WPlyi8FjcsWSQ)
 - [Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jama/fullarticle/2768391)
+- [Alveolar macrophage dysfunction and cytokine storm in the pathogenesis of two severe COVID-19 patients](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30208-5/fulltext)

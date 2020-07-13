@@ -479,3 +479,5 @@
 - [国际资讯 | [意]疫情下的战术性城市规划实践/9.14开学后的防疫措施(2020.7)](https://mp.weixin.qq.com/s/MVr91RHVS8GjCWPY7fesEA)
 - [#榜样的力量#天玑数据大脑疫情风险感知预警平台“智疫通”丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/4Tkn_MqtKxmmxxhso2FS8w)
 - [#榜样的力量#内蒙古自治区互联网医疗服务系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/GMTR19TdiHEp7Io5iZrWpA)
+- [后疫情时代外卖食品安全新征程|新服务观察](https://mp.weixin.qq.com/s/Y8kkt2xfTP5XSv1rto8ymA)
+- [#榜样的力量#航班管家全球大交通出行疫情追踪服务系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/GB3658pzCPYXR-xL3DxdIA)

@@ -782,3 +782,8 @@
 - [COVID-19 Regional Safety Assessment (200 Regions)](https://www.dkv.global/covid-safety-assessment-200-regions)
 - [The Lancet COVID-19 Commission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31494-X/fulltext?utm_campaign=tlcoronavirus20&utm_source=twitter&utm_medium=social)
 - [《地理研究》“新冠肺炎疫情地理研究” 专栏](https://mp.weixin.qq.com/s/iDtbVkbjeaziFnInN2w_KA)
+- [Lancet Voice | SARS-CoV-2血清学研究](https://mp.weixin.qq.com/s/XzAZcWU3db903z0COwz9ag)
+- [Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31483-5/fulltext)
+- [SARS-CoV-2 seroprevalence in COVID-19 hotspots](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31482-3/fulltext)
+- [“适者生存”的病毒最终为王？](https://mp.weixin.qq.com/s/kELHhbfJRh4kRSmmIk_fTQ)
+- [新冠后遗症：来自武汉新冠患者家庭的一手记录](https://mp.weixin.qq.com/s/aoV-yW73RdgyxdnjXV2Eeg)

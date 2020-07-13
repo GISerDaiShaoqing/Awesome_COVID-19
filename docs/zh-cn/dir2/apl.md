@@ -668,3 +668,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月12日）【中国科讯】](https://mp.weixin.qq.com/s/Gx_HzZEHMQoqLir5XgWeHg)
 - [国家卫健委：昨日新增确诊病例 8 例｜科研圈日报](https://mp.weixin.qq.com/s/RS7GdYx7IsjBBWJC3F3P3A)
 - [新冠非结构蛋白9（Nsp9）的晶体结构丨iScience 一周编辑精选 2020年第18期](https://mp.weixin.qq.com/s/4RkoOnS9--gwOcJLT-85Dg)
+- [新冠肺炎抗疫科研攻关取得系列研究进展丨亮点成果](https://mp.weixin.qq.com/s/3_Yme0vWp35jYG6-FNZq3Q)
+- [Science一周论文导读 | 2020年7月3日](https://mp.weixin.qq.com/s/luU-YJ0QNqfabfCf1XMitg)
