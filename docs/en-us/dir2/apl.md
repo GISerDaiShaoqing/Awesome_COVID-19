@@ -665,3 +665,6 @@
 - [从恐惧到仇恨: 美国新冠病毒肺炎流行病如何引发种族仇恨 | 网络科学论文速度36篇](https://mp.weixin.qq.com/s/8JceYjtmFcqUbJl5af4Etg)
 - [《科学》（20200710出版）一周论文导读](https://mp.weixin.qq.com/s/tPqS7NQSnSQ_JKYHCZZksQ)
 - [知名华裔学者回国途中被捕；改口！美政府修改留学生新政 | 一周动态](https://mp.weixin.qq.com/s/JCgk33xZYfix6Duuo6-eGw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月12日）【中国科讯】](https://mp.weixin.qq.com/s/Gx_HzZEHMQoqLir5XgWeHg)
+- [国家卫健委：昨日新增确诊病例 8 例｜科研圈日报](https://mp.weixin.qq.com/s/RS7GdYx7IsjBBWJC3F3P3A)
+- [新冠非结构蛋白9（Nsp9）的晶体结构丨iScience 一周编辑精选 2020年第18期](https://mp.weixin.qq.com/s/4RkoOnS9--gwOcJLT-85Dg)

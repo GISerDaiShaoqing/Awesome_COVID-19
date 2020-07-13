@@ -711,3 +711,5 @@
 - [An evaluation of COVID-19 serological assays informs future diagnostics and exposure assessment](https://www.nature.com/articles/s41467-020-17317-y)
 - [PNAS | 活久见！百年疫苗-卡介苗的接种可降低新冠肺炎死亡率](https://mp.weixin.qq.com/s/ykGr_mP2BeswcY2Wu1gVpA)
 - [BCG vaccine protection from severe coronavirus disease 2019 (COVID-19)](https://doi.org/10.1073/pnas.2008410117)
+- [JAMA | 一文看懂新冠所有的状况！最为全面系统盘点COVID-19的病理生理学，传播，诊断和管理](https://mp.weixin.qq.com/s/030rc07G9WPlyi8FjcsWSQ)
+- [Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jama/fullarticle/2768391)

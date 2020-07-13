@@ -780,3 +780,5 @@
 - [疫情过后人工智能是否能迎来春天？](https://mp.weixin.qq.com/s/e3POM5WZbZZMmqN2qlLbjA)
 - [北京通报一聚集性疫情：13人确诊，相互串门不戴口罩](https://mp.weixin.qq.com/s/ePV3p87PMxa1XzGkPv95-g)
 - [COVID-19 Regional Safety Assessment (200 Regions)](https://www.dkv.global/covid-safety-assessment-200-regions)
+- [The Lancet COVID-19 Commission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31494-X/fulltext?utm_campaign=tlcoronavirus20&utm_source=twitter&utm_medium=social)
+- [《地理研究》“新冠肺炎疫情地理研究” 专栏](https://mp.weixin.qq.com/s/iDtbVkbjeaziFnInN2w_KA)

@@ -2752,3 +2752,6 @@
 - [故意参加“新冠聚会”，美国一名30岁男性染病丧命](https://mp.weixin.qq.com/s/l9TG4Z-dlF3kYjlTD-NYEw)
 - [疫波未平，硝烟再起！2020前半程总结，世界你怎么了？](https://mp.weixin.qq.com/s/LsCdcWFdyuoWXxlKbx-BxQ)
 - [北京疾控中心提醒，购买水果生鲜时应佩戴一次性手套](https://mp.weixin.qq.com/s/-Hx_74rV6UcXW9SbCzHo7A)
+- [新增确诊8例，均为境外输入](https://mp.weixin.qq.com/s/r17638yIY8HMOsqgNiUMMw)
+- [浙江首个新冠疫苗生产基地动工](https://mp.weixin.qq.com/s/Uvoibpqya7Y0vFexFZnOyA)
+- [关于秋冬疫情，钟南山给出重磅提醒！](https://mp.weixin.qq.com/s/yZQrDV4ClgYXLzPEJv2yqA)

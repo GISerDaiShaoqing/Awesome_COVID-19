@@ -441,3 +441,4 @@
 - [SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects](https://www.nature.com/articles/s41594-020-0468-7)
 - [尚无证据表明新冠病毒增进了人际传播：著名病毒学教授如是说](http://blog.sciencenet.cn/blog-347754-1241736.html)
 - [No evidence for increased human transmission of SARS-CoV-2](https://www.virology.ws/2020/07/09/no-evidence-for-increased-human-transmission-of-sars-cov-2/)
+- [SARS-CoV-2 in fruit bats, ferrets, pigs, and chickens: an experimental transmission study](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30089-6/fulltext)
