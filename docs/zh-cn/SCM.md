@@ -74,5 +74,6 @@
 - [后疫情时代︱如何拯救你我的初创公司](https://mp.weixin.qq.com/s/If3BnGIhY-mdAbZ4bRKb_Q)
 - [城市后疫情时代︱新冠病毒将改变城市生活并加速智慧城市愿景（两则）](https://mp.weixin.qq.com/s/kF2tXaGZ8BVMEkH39ci6Fg)
 - [后疫情时代︱ 经济学人：后疫情时代城市密度的命运](https://mp.weixin.qq.com/s/FgVgKBXZ7jB7yhx15EQPnw)
+- [后疫情时代︱新冠疫情让我们认清高速公路,而乘公共交通在日本和法国却出人意料的安全 (两则)](https://mp.weixin.qq.com/s/TK1hNLwEJhJeDGh8gNjsAQ)
 
 ![](/img/SCM.jpg)

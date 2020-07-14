@@ -670,3 +670,5 @@
 - [新冠非结构蛋白9（Nsp9）的晶体结构丨iScience 一周编辑精选 2020年第18期](https://mp.weixin.qq.com/s/4RkoOnS9--gwOcJLT-85Dg)
 - [新冠肺炎抗疫科研攻关取得系列研究进展丨亮点成果](https://mp.weixin.qq.com/s/3_Yme0vWp35jYG6-FNZq3Q)
 - [Science一周论文导读 | 2020年7月3日](https://mp.weixin.qq.com/s/luU-YJ0QNqfabfCf1XMitg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月13日）【中国科讯】](https://mp.weixin.qq.com/s/yNQLJ0wBQUztT5zSCExH5Q)
+- [7 月 13 日全国新增确诊病例 3 例​ | 科研圈日报](https://mp.weixin.qq.com/s/tajnjOmV-A6EsJ5m6s8d-A)

@@ -787,3 +787,7 @@
 - [SARS-CoV-2 seroprevalence in COVID-19 hotspots](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31482-3/fulltext)
 - [“适者生存”的病毒最终为王？](https://mp.weixin.qq.com/s/kELHhbfJRh4kRSmmIk_fTQ)
 - [新冠后遗症：来自武汉新冠患者家庭的一手记录](https://mp.weixin.qq.com/s/aoV-yW73RdgyxdnjXV2Eeg)
+- [【存照】疫情控制后污染物排放反弹？中国多地空气污染已超去年同期](https://mp.weixin.qq.com/s/SGBMjdxi1aTSOFs37I9eGA)
+- [China’s air pollution has overshot pre-pandemic levels as life begins to return to normal](https://www.weforum.org/agenda/2020/07/pollution-co2-economy-china)
+- [美国非法退出WHO威胁全球及美国民众的健康安全](https://mp.weixin.qq.com/s/GGOSuEBoWNfZJf5NMNyLag)
+- [US withdrawal from WHO is unlawful and threatens global and US health and security](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31527-0/fulltext)

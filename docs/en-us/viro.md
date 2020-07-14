@@ -442,3 +442,7 @@
 - [尚无证据表明新冠病毒增进了人际传播：著名病毒学教授如是说](http://blog.sciencenet.cn/blog-347754-1241736.html)
 - [No evidence for increased human transmission of SARS-CoV-2](https://www.virology.ws/2020/07/09/no-evidence-for-increased-human-transmission-of-sars-cov-2/)
 - [SARS-CoV-2 in fruit bats, ferrets, pigs, and chickens: an experimental transmission study](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30089-6/fulltext)
+- [大羊驼来源抗体能中和SARS-CoV-2 |《自然-结构和分子生物学》论文](https://mp.weixin.qq.com/s/xKd8HPwKfAAgYHu3o5gJoA)
+- [Neutralizing nanobodies bind SARS-CoV-2 spike RBD and block interaction with ACE2](https://www.nature.com/articles/s41594-020-0469-6)
+- [新冠病毒可气溶胶传播？尚无强有力证据但各国政府已开始行动](https://mp.weixin.qq.com/s/IYJemKdXPjPOI3epnn4xVw)
+- [Mounting evidence suggests coronavirus is airborne — but health advice has not caught up](https://www.nature.com/articles/d41586-020-02058-1#ref-CR1)
