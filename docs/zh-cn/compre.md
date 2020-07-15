@@ -791,3 +791,8 @@
 - [China’s air pollution has overshot pre-pandemic levels as life begins to return to normal](https://www.weforum.org/agenda/2020/07/pollution-co2-economy-china)
 - [美国非法退出WHO威胁全球及美国民众的健康安全](https://mp.weixin.qq.com/s/GGOSuEBoWNfZJf5NMNyLag)
 - [US withdrawal from WHO is unlawful and threatens global and US health and security](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31527-0/fulltext)
+- [学术打脸！5华人青年学者回怼哈佛医学院“新冠论文”](https://mp.weixin.qq.com/s/uOtWKnWbaMvziIiECxRBpw)
+- [欧盟四种主要空气污染物的排放已达上限](https://mp.weixin.qq.com/s/zj0Kpv0rFgNNV99jwAISAQ)
+- [EU Met Air Pollution Limits for Four Key Pollutants, Including Ammonia, in 2018](https://www.eea.europa.eu/highlights/eu-met-air-pollution-limits)
+- [学术组织面临疫情引发的财政危机](https://mp.weixin.qq.com/s/RgAL29ZP-Atr1fc4U1_F0w)
+- [在疫情来临之前预警｜专家建议设立全球野生动物监控系统](https://mp.weixin.qq.com/s/oaP8r3ONKoRIXc2_eo-6fQ)

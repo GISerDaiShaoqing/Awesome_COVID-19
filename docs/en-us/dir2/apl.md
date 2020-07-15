@@ -672,3 +672,7 @@
 - [Science一周论文导读 | 2020年7月3日](https://mp.weixin.qq.com/s/luU-YJ0QNqfabfCf1XMitg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月13日）【中国科讯】](https://mp.weixin.qq.com/s/yNQLJ0wBQUztT5zSCExH5Q)
 - [7 月 13 日全国新增确诊病例 3 例​ | 科研圈日报](https://mp.weixin.qq.com/s/tajnjOmV-A6EsJ5m6s8d-A)
+- [24小时热门｜“这种病毒不寻常”：除了肺，新冠病毒对近10种器官系统都产生了攻击](https://mp.weixin.qq.com/s/NSM-9ma51qoBRhGyIKWqvg)
+- [荷兰大学认真研究气溶胶在传播病毒中的作用](https://mp.weixin.qq.com/s/CltI14RHvnWJ-bn_NvFt8w)
+- [中科院合作研发新冠重组蛋白疫苗进入临床试验丨转化亮点](https://mp.weixin.qq.com/s/1pB8OMAfb500PJxcERFK9Q)
+- [7 月 14 日全国新增确诊病例 6 例 | 科研圈日报](https://mp.weixin.qq.com/s/BYKejFjQaQNpD6iS3kOzyg)

@@ -204,5 +204,4 @@
 - [University of Twente maps COVID-19 cases](https://www.itc.nl/news/2020/7/692668/university-of-twente-maps-covid-19-cases)
 - [Epidemics and pandemics in maps – the case of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1776646)
 - [这些图表看懂了吗？荷兰经济受沉重打击程度如何](https://mp.weixin.qq.com/s/DXXYIzmazKomgvxxWTHa6A)
-- [心大的荷兰人疫情中聚会，警方干预](https://mp.weixin.qq.com/s/IUbT51Os8rvonfQz_UvwKw)
-- [坏消息：免疫只是暂时的，治愈患者血液中的抗体减少](https://mp.weixin.qq.com/s/p8pJAaieF1DWEqE8Ec5OXQ)
+- [Coronavirus Riskiest Activities](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/?utm_source=MAIN+Newsletter+-+Exclusive+first+looks+at+our+graphics+%26+interactives&utm_campaign=322ec0e705-EMAIL_CAMPAIGN_2020_07_09&utm_medium=email&utm_term=0_0f32d82422-322ec0e705-68971285&mc_cid=322ec0e705&mc_eid=2cd0c246ac#activities)

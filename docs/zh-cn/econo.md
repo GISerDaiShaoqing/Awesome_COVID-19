@@ -481,3 +481,6 @@
 - [#榜样的力量#内蒙古自治区互联网医疗服务系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/GMTR19TdiHEp7Io5iZrWpA)
 - [后疫情时代外卖食品安全新征程|新服务观察](https://mp.weixin.qq.com/s/Y8kkt2xfTP5XSv1rto8ymA)
 - [#榜样的力量#航班管家全球大交通出行疫情追踪服务系统丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/GB3658pzCPYXR-xL3DxdIA)
+- [新冠疫情对广告投放影响究竟多大？](https://mp.weixin.qq.com/s/z_yawuQpxTtMkPcdKOHhmw)
+- [#后疫情时代的新思考#让数据能力平民化，助力企业数字化战“疫”丨数据猿公益策划](https://mp.weixin.qq.com/s/wFVhlyVnIvhNb0M7hrHAag)
+- [#后疫情时代的新思考#“大数据+行业”渗透融合全面展开，新业态正处酝酿期丨数据猿公益策划](https://mp.weixin.qq.com/s/rSX3yFQsL09GikfJf5Fjzw)
