@@ -806,3 +806,7 @@
 - [Satellite Images Reveal Europe Is Facing Droughts](https://www.gim-international.com/content/news/satellite-images-reveal-europe-facing-droughts)
 - [江苏省是如何降低COVID-19死亡率的 | Annals of Intensive Care](https://mp.weixin.qq.com/s/AaENqXXGEYzs2SG9fKh-VA)
 - [Lower mortality of COVID-19 by early recognition and intervention: experience from Jiangsu Province](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-020-00650-2)
+- [COVID-19疫情过后，世界儿童未来在何处？](https://mp.weixin.qq.com/s/T81eat1xnVuEqog86nM33w)
+- [After COVID-19, a future for the world's children?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31481-1/fulltext)
+- [多元视角｜欧洲因新冠疫情封城，被恶意传播的私密照数量猛增](https://mp.weixin.qq.com/s/b1lTdkT9Zg5-X-vdQ75izQ)
+- [梅琳达·盖茨：大流行病给女性带来了什么？](https://mp.weixin.qq.com/s/36UBPHibCJOqOuMMzUWjHA)

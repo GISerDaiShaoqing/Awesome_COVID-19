@@ -237,3 +237,4 @@
 - [讲座回顾 | 疫情模型与数据回顾](https://mp.weixin.qq.com/s/pOG7g_Gb6oVJUPK4obgqRQ)
 - [研讨会精华 | 后疫情时代供应链绿色与韧性发展](https://mp.weixin.qq.com/s/Pt2FtccRyOk5mFEnZUwMtA)
 - [文献导读（8）|人口流动与疫情防控](https://mp.weixin.qq.com/s/gCEzLXcknM13v9cSmSPIQQ)
+- [【开放注册】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/jz0H4sjM6IP9KdbAtFUuug)

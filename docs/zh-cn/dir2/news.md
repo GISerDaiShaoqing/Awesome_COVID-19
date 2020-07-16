@@ -2795,3 +2795,6 @@
 - [北京10天零新增，吴尊友最新判断](https://mp.weixin.qq.com/s/QJfPpV9o2yvv5tEdfwRJqg)
 - [新疆一营业厅工作人员确诊](https://mp.weixin.qq.com/s/QApWSm4kF7DK-SxJpoPi6A)
 - [全国已有五地通报“冻虾外包装阳性”](https://mp.weixin.qq.com/s/jIwNLVdUUkopRXotAB6kjg)
+- [新闻短平快（西班牙悼念疫情死者等）——7月16日](https://mp.weixin.qq.com/s/kbeUQCmLYCvBAR36rf_4Rw)
+- [牛津疫苗“充满希望”，荷兰已经大量订购](https://mp.weixin.qq.com/s/dscyPqeiKpH4apBvBc9P-w)
+- [荷兰互相甩锅，二院必须中止休假，就有关对疫情智库的投诉辩论](https://mp.weixin.qq.com/s/ehr5GRwr0SwQmjmr-w3iqw)
