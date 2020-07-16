@@ -446,3 +446,5 @@
 - [Neutralizing nanobodies bind SARS-CoV-2 spike RBD and block interaction with ACE2](https://www.nature.com/articles/s41594-020-0469-6)
 - [新冠病毒可气溶胶传播？尚无强有力证据但各国政府已开始行动](https://mp.weixin.qq.com/s/IYJemKdXPjPOI3epnn4xVw)
 - [Mounting evidence suggests coronavirus is airborne — but health advice has not caught up](https://www.nature.com/articles/d41586-020-02058-1#ref-CR1)
+- [【研究】麦肯锡：气溶胶有传播病毒风险，空调系统需要升级改造！](https://mp.weixin.qq.com/s/RNBPyFqY78CTETD9OTH8iA)
+- [Can HVAC systems help prevent transmission of COVID-19?](https://www.mckinsey.com/industries/advanced-electronics/our-insights/can-hvac-systems-help-prevent-transmission-of-covid-19)

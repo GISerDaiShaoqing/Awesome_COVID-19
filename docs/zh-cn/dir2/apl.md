@@ -676,3 +676,8 @@
 - [荷兰大学认真研究气溶胶在传播病毒中的作用](https://mp.weixin.qq.com/s/CltI14RHvnWJ-bn_NvFt8w)
 - [中科院合作研发新冠重组蛋白疫苗进入临床试验丨转化亮点](https://mp.weixin.qq.com/s/1pB8OMAfb500PJxcERFK9Q)
 - [7 月 14 日全国新增确诊病例 6 例 | 科研圈日报](https://mp.weixin.qq.com/s/BYKejFjQaQNpD6iS3kOzyg)
+- [24小时热门｜一个基因，让这种动物具有永久繁殖能力；蝙蝠与人类，到底是谁伤害了谁；植物为什么会是绿色的](https://mp.weixin.qq.com/s/w-271_UHg7bqVwbQQcAAnQ)
+- [COVID-19后世界航空网络设想方案 | 网络科学论文速递26篇](https://mp.weixin.qq.com/s/SE9cuwZWc7mas-i0KA688A)
+- [中科院研发出新冠病毒核酸快速检测系统丨转化亮点](https://mp.weixin.qq.com/s/U3e9zFRMUpElQcrItffHGQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月15日）【中国科讯】](https://mp.weixin.qq.com/s/1CRRQTP2LGb_03tERpYjrA)
+- [Moderna 疫苗一期临床数据正式发表，中和抗体滴度超过康复患者 ｜科研圈日报](https://mp.weixin.qq.com/s/0poQBsrqgtMJUryeH3mnxA)

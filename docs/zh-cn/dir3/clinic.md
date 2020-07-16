@@ -721,3 +721,6 @@
 - [Humoral and circulating follicular helper T cell responses in recovered patients with COVID-19](https://www.nature.com/articles/s41591-020-0995-0)
 - [个案研究展示SARS-CoV-2经胎盘传播的证据 |《自然-通讯》论文](https://mp.weixin.qq.com/s/xrTzcNfzfr6qA815rBDrxg)
 - [Transplacental transmission of SARS-CoV-2 infection](https://www.nature.com/articles/s41467-020-17436-6#citeas)
+- [首例！研究发现新生儿由母体感染新冠病毒的直接证据](https://mp.weixin.qq.com/s/ScAN_1Wd-1NVvWQ5Nnueeg)
+- [BMJ Global Health：居家佩戴口罩或有助于避免COVID-19在家庭成员之间传播](https://mp.weixin.qq.com/s/nl6aZ1uA3jDaf08aryQjIw)
+- [Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China](https://gh.bmj.com/content/5/5/e002794)
