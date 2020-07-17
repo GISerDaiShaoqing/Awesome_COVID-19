@@ -492,3 +492,5 @@
 - [#后疫情时代的新思考#企业应充分利用大数据为尚未到来的风险做准备丨数据猿公益策划](https://mp.weixin.qq.com/s/vfI1Kb_EX7i_a_nR53VBrw)
 - [#榜样的力量#格创东智智能防疫管控平台丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/kg3SnEUmgbjysEgo5lZTfw)
 - [后疫情社区·讨论｜疫情告诉我们，没有互助就会肉体消亡](https://mp.weixin.qq.com/s/2PlBReEJJwyTusw86m3LSQ)
+- [#榜样的力量#航天网信智慧企业管理云平台“航小慧”丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/aPju48LUFy3otstflU6NPQ)
+- [国际资讯 | [澳]公租房成新冠重灾区/西澳放松疫情管控(2020.7)](https://mp.weixin.qq.com/s/AapkxcdqJ8g2FO9kUR1Zrw)

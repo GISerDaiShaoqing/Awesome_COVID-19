@@ -2798,3 +2798,8 @@
 - [新闻短平快（西班牙悼念疫情死者等）——7月16日](https://mp.weixin.qq.com/s/kbeUQCmLYCvBAR36rf_4Rw)
 - [牛津疫苗“充满希望”，荷兰已经大量订购](https://mp.weixin.qq.com/s/dscyPqeiKpH4apBvBc9P-w)
 - [荷兰互相甩锅，二院必须中止休假，就有关对疫情智库的投诉辩论](https://mp.weixin.qq.com/s/ehr5GRwr0SwQmjmr-w3iqw)
+- [快讯！7月16日厦门新增境外输入无症状感染者2例，来自新加坡](https://mp.weixin.qq.com/s/PUepbYwlgK54E6WGC45ZLg)
+- [白宫再促复学，竟称“科学不应成为阻碍”](https://mp.weixin.qq.com/s/b3u_QKUlcTFY88_quJXZIQ)
+- [7月16日厦门新增境外输入无症状感染者2例，来自新加坡](https://mp.weixin.qq.com/s/EOzRAGwKTBF3n9-IzqDLqQ)
+- [新增确诊10例，其中本土1例在新疆](https://mp.weixin.qq.com/s/GAeU_ZG4KVg83GHyTr9CWA)
+- [新疆新增确诊5例，无症状感染者8例](https://mp.weixin.qq.com/s/AAfx6UwddgoySgXm102vUQ)

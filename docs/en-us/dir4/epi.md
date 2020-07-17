@@ -278,3 +278,5 @@
 - [Using the contact network model and Metropolis-Hastings sampling to reconstruct the COVID-19 spread on the “Diamond Princess”](https://www.sciencedirect.com/science/article/pii/S2095927320302814?via%3Dihub)
 - [The projected impact of mitigation and suppression strategies on the COVID-19 epidemic in Senegal: A modelling study](https://www.medrxiv.org/content/10.1101/2020.07.03.20144949v1)
 - [The geography of COVID-19 spread in Italy and implications for the relaxation of confinement measures](https://www.medrxiv.org/content/10.1101/2020.04.30.20083568v2)
+- [隐性感染或推动COVID-19快速传播 |《自然》论文](https://mp.weixin.qq.com/s/kPHxRHa9GXsZzrDRXOLHKg)
+- [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)

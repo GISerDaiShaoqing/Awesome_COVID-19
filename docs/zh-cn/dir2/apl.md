@@ -682,3 +682,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月15日）【中国科讯】](https://mp.weixin.qq.com/s/1CRRQTP2LGb_03tERpYjrA)
 - [Moderna 疫苗一期临床数据正式发表，中和抗体滴度超过康复患者 ｜科研圈日报](https://mp.weixin.qq.com/s/0poQBsrqgtMJUryeH3mnxA)
 - [24小时热门｜什么样的抗体对新冠病毒有强效？《科学》最新研究发现关键因素](https://mp.weixin.qq.com/s/PVoK1sl-cZXDkmntYkl2Kg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月16日）【中国科讯】](https://mp.weixin.qq.com/s/PYIgjrCOqA3vlfyZacPJEw)
+- [中科院研发出新冠病毒核酸快速检测系统丨转化亮点](https://mp.weixin.qq.com/s/D6P8NtSJ18NGIExeeKJnnw)
+- [7 月 16 日全国新增确诊病例 10 例，新疆出现 1 例本土病例 | 科研圈日报](https://mp.weixin.qq.com/s/3NFp-UqJA96IK_A6I2dhAQ)

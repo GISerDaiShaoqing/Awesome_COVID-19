@@ -205,3 +205,4 @@
 - [Epidemics and pandemics in maps – the case of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1776646)
 - [这些图表看懂了吗？荷兰经济受沉重打击程度如何](https://mp.weixin.qq.com/s/DXXYIzmazKomgvxxWTHa6A)
 - [Coronavirus Riskiest Activities](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/?utm_source=MAIN+Newsletter+-+Exclusive+first+looks+at+our+graphics+%26+interactives&utm_campaign=322ec0e705-EMAIL_CAMPAIGN_2020_07_09&utm_medium=email&utm_term=0_0f32d82422-322ec0e705-68971285&mc_cid=322ec0e705&mc_eid=2cd0c246ac#activities)
+- [大国担当，全球战疫中的中国奇迹 | 全球疫情态势可视化](https://mp.weixin.qq.com/s/S7RmObQCD_oxpL3Iw4fsOg)

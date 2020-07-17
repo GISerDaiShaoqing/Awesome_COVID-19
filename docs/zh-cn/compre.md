@@ -810,3 +810,6 @@
 - [After COVID-19, a future for the world's children?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31481-1/fulltext)
 - [多元视角｜欧洲因新冠疫情封城，被恶意传播的私密照数量猛增](https://mp.weixin.qq.com/s/b1lTdkT9Zg5-X-vdQ75izQ)
 - [梅琳达·盖茨：大流行病给女性带来了什么？](https://mp.weixin.qq.com/s/36UBPHibCJOqOuMMzUWjHA)
+- [城市“助力”新冠传播？是时候重新思考我们的城市规划了](https://mp.weixin.qq.com/s/Qo7v05YCdbYlbc0zg2whmg)
+- [Cities — try to predict superspreading hotspots for COVID-19](https://www.nature.com/articles/d41586-020-02072-3)
+- [防护传染病，人工智能在路上](https://mp.weixin.qq.com/s/JXCiLUwK5zMFcsHzs6x9iA)

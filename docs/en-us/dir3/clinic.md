@@ -724,3 +724,5 @@
 - [首例！研究发现新生儿由母体感染新冠病毒的直接证据](https://mp.weixin.qq.com/s/ScAN_1Wd-1NVvWQ5Nnueeg)
 - [BMJ Global Health：居家佩戴口罩或有助于避免COVID-19在家庭成员之间传播](https://mp.weixin.qq.com/s/nl6aZ1uA3jDaf08aryQjIw)
 - [Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China](https://gh.bmj.com/content/5/5/e002794)
+- [从COVID-19患者体内纵向分离强效近生殖细胞系SARS-CoV-2中和抗体 | CellPress论文速递](https://mp.weixin.qq.com/s/SjQJFQ4P7O9Au4-S2mnkVQ)
+- [Longitudinal Isolation of Potent Near-Germline SARS-CoV-2-Neutralizing Antibodies from COVID-19 Patients](https://www.cell.com/cell/fulltext/S0092-8674(20)30821-7)
