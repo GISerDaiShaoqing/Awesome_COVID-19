@@ -815,3 +815,4 @@
 - [防护传染病，人工智能在路上](https://mp.weixin.qq.com/s/JXCiLUwK5zMFcsHzs6x9iA)
 - [COVID-19敲响强化全球粮食系统的警钟](https://mp.weixin.qq.com/s/hHIcKheYk6tuFo8taEPb9Q)
 - [Extreme Events in a Globalized Food System](https://www.sciencedirect.com/science/article/pii/S259033222030261X)
+- [实力见证 | 全球第一！华中科技大学新冠肺炎研究论文399篇](https://mp.weixin.qq.com/s/v3Q3uKbqPqnVtHX2GVeLlA)

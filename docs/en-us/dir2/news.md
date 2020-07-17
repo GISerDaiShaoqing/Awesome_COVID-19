@@ -2809,3 +2809,6 @@
 - [北京市中风险地区降至2个](https://mp.weixin.qq.com/s/GJZ2u_B520BdsacAMTtmAQ)
 - [美国昔日"抗疫队长"福奇博士，今遭白宫这般嘲弄](https://mp.weixin.qq.com/s/zgAKBeHqfi69dir-LEdb8Q)
 - [蒂尔堡博览会今日开幕，会是第二个狂欢节么？新冠APP即将上线！美国确诊破纪录…](https://mp.weixin.qq.com/s/aIl3GYcHyW02DXfWM5HoDg)
+- [疫情危机经济下滑，荷兰银行对抵押贷款要求越来越严格](https://mp.weixin.qq.com/s/XZ4XTBL_NbB5WYwkd2iPwA)
+- [阿姆斯特丹的拥挤恢复，红灯区设立单行道](https://mp.weixin.qq.com/s/rEEd1FCdb-vPLzJ-M8fRVA)
+- [签订临时租约的荷兰租户可因疫情危机延长合同](https://mp.weixin.qq.com/s/Nq-t1dvrmnruvYLBvWqeJQ)
