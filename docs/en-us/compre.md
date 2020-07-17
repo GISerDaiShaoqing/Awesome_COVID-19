@@ -813,3 +813,5 @@
 - [城市“助力”新冠传播？是时候重新思考我们的城市规划了](https://mp.weixin.qq.com/s/Qo7v05YCdbYlbc0zg2whmg)
 - [Cities — try to predict superspreading hotspots for COVID-19](https://www.nature.com/articles/d41586-020-02072-3)
 - [防护传染病，人工智能在路上](https://mp.weixin.qq.com/s/JXCiLUwK5zMFcsHzs6x9iA)
+- [COVID-19敲响强化全球粮食系统的警钟](https://mp.weixin.qq.com/s/hHIcKheYk6tuFo8taEPb9Q)
+- [Extreme Events in a Globalized Food System](https://www.sciencedirect.com/science/article/pii/S259033222030261X)

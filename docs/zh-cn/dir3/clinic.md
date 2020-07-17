@@ -726,3 +726,5 @@
 - [Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China](https://gh.bmj.com/content/5/5/e002794)
 - [从COVID-19患者体内纵向分离强效近生殖细胞系SARS-CoV-2中和抗体 | CellPress论文速递](https://mp.weixin.qq.com/s/SjQJFQ4P7O9Au4-S2mnkVQ)
 - [Longitudinal Isolation of Potent Near-Germline SARS-CoV-2-Neutralizing Antibodies from COVID-19 Patients](https://www.cell.com/cell/fulltext/S0092-8674(20)30821-7)
+- [与衰老相关的炎症可能会加剧老年人群的COVID-19感染｜文章精选](https://mp.weixin.qq.com/s/YNDXOahTHh6AMzByqC3gew)
+- [Aging immunity may exacerbate COVID-19](https://science.sciencemag.org/content/369/6501/256)
