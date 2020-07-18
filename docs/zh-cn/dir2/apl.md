@@ -687,3 +687,5 @@
 - [7 月 16 日全国新增确诊病例 10 例，新疆出现 1 例本土病例 | 科研圈日报](https://mp.weixin.qq.com/s/3NFp-UqJA96IK_A6I2dhAQ)
 - [使用时空图神经网络检验对新冠病毒肺炎的预测 | 网络科学论文速递35篇](https://mp.weixin.qq.com/s/XnIiuHYFapmIqbjLrkaqKg)
 - [24小时热门｜《自然》子刊：胎盘中检出新冠病毒，母婴垂直传播新证据？](https://mp.weixin.qq.com/s/UtplCh6sBbpekq0aFiviOw)
+- [中科院合作开发新冠病毒中和抗体进入临床试验丨转化亮点](https://mp.weixin.qq.com/s/mdUePvaShlOlFAU2aFs6Iw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月17日）【中国科讯】](https://mp.weixin.qq.com/s/xePrqrHPwNb-2MD5UqMYBw)

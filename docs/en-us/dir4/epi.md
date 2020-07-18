@@ -280,3 +280,4 @@
 - [The geography of COVID-19 spread in Italy and implications for the relaxation of confinement measures](https://www.medrxiv.org/content/10.1101/2020.04.30.20083568v2)
 - [隐性感染或推动COVID-19快速传播 |《自然》论文](https://mp.weixin.qq.com/s/kPHxRHa9GXsZzrDRXOLHKg)
 - [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)
+- [Current State of the Coronavirus (Covid-19) in Algeria](https://www.researchgate.net/publication/341680002_Current_State_of_the_Coronavirus_Covid-19_in_Algeria)
