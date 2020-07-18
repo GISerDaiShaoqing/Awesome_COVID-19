@@ -281,3 +281,5 @@
 - [隐性感染或推动COVID-19快速传播 |《自然》论文](https://mp.weixin.qq.com/s/kPHxRHa9GXsZzrDRXOLHKg)
 - [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)
 - [Current State of the Coronavirus (Covid-19) in Algeria](https://www.researchgate.net/publication/341680002_Current_State_of_the_Coronavirus_Covid-19_in_Algeria)
+- [Nature | 再传捷报！华中科技大学邬堂春/王超龙等首次系统重构了武汉全市的新冠传播动力学](https://mp.weixin.qq.com/s/mWvnhBPljBlz5nqOQDBDpA)
+- [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)

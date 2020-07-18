@@ -75,5 +75,6 @@
 - [城市后疫情时代︱新冠病毒将改变城市生活并加速智慧城市愿景（两则）](https://mp.weixin.qq.com/s/kF2tXaGZ8BVMEkH39ci6Fg)
 - [后疫情时代︱ 经济学人：后疫情时代城市密度的命运](https://mp.weixin.qq.com/s/FgVgKBXZ7jB7yhx15EQPnw)
 - [后疫情时代︱新冠疫情让我们认清高速公路,而乘公共交通在日本和法国却出人意料的安全 (两则)](https://mp.weixin.qq.com/s/TK1hNLwEJhJeDGh8gNjsAQ)
+- [后疫情时代｜对智慧城市的质疑与展望 (两则)](https://mp.weixin.qq.com/s/a-0ywk9rGQQ3f-pMgE8nlQ)
 
 ![](/img/SCM.jpg)
