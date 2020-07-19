@@ -450,3 +450,5 @@
 - [Can HVAC systems help prevent transmission of COVID-19?](https://www.mckinsey.com/industries/advanced-electronics/our-insights/can-hvac-systems-help-prevent-transmission-of-covid-19)
 - [Cell突破 | 王佑春/黄维金团队首次发现刺突蛋白突变会对中和抗体产生抗性](https://mp.weixin.qq.com/s/6TBAzuElsq03KiZmQ_mgoQ)
 - [The impact of mutations in SARS-CoV-2 spike on viral infectivity and antigenicity](https://doi.org/10.1016/j.cell.2020.07.012)
+- [Nature意外发现！非感染者体内竟存在SARS-CoV-2抗体！](https://mp.weixin.qq.com/s/a5Ksb5uAIcuwVVSTW2_doA)
+- [SARS-CoV-2-specific T cell immunity in cases of COVID-19 and SARS， and uninfected controls](https://www.nature.com/articles/s41586-020-2550-z)

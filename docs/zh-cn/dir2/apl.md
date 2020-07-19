@@ -690,3 +690,4 @@
 - [中科院合作开发新冠病毒中和抗体进入临床试验丨转化亮点](https://mp.weixin.qq.com/s/mdUePvaShlOlFAU2aFs6Iw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月17日）【中国科讯】](https://mp.weixin.qq.com/s/xePrqrHPwNb-2MD5UqMYBw)
 - [新冠肺炎流行对基础物理学研究的影响 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/5ferrtL9Jdjc1XNVUTydAQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月18日）【中国科讯】](https://mp.weixin.qq.com/s/yVu8xAivUT7nALJjX4uq7Q)

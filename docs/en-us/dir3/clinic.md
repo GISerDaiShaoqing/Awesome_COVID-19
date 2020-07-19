@@ -728,3 +728,4 @@
 - [Longitudinal Isolation of Potent Near-Germline SARS-CoV-2-Neutralizing Antibodies from COVID-19 Patients](https://www.cell.com/cell/fulltext/S0092-8674(20)30821-7)
 - [与衰老相关的炎症可能会加剧老年人群的COVID-19感染｜文章精选](https://mp.weixin.qq.com/s/YNDXOahTHh6AMzByqC3gew)
 - [Aging immunity may exacerbate COVID-19](https://science.sciencemag.org/content/369/6501/256)
+- [这四种倾向性评分方法，可有效控制混杂因素](https://mp.weixin.qq.com/s/Zqougiv2RmYCSDp9VAnA_Q)
