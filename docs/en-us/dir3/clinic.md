@@ -729,3 +729,5 @@
 - [与衰老相关的炎症可能会加剧老年人群的COVID-19感染｜文章精选](https://mp.weixin.qq.com/s/YNDXOahTHh6AMzByqC3gew)
 - [Aging immunity may exacerbate COVID-19](https://science.sciencemag.org/content/369/6501/256)
 - [这四种倾向性评分方法，可有效控制混杂因素](https://mp.weixin.qq.com/s/Zqougiv2RmYCSDp9VAnA_Q)
+- [NEJM | 正式发表！大规模随机对照试验，廉价药地塞米松可以降低新冠患者（有创通气）30%以上的死亡率](https://mp.weixin.qq.com/s/6pwTinxoEYgwNdQjIyxSFg)
+- [Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2021436?query=featured_home)

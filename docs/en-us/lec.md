@@ -239,3 +239,4 @@
 - [文献导读（8）|人口流动与疫情防控](https://mp.weixin.qq.com/s/gCEzLXcknM13v9cSmSPIQQ)
 - [【开放注册】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/jz0H4sjM6IP9KdbAtFUuug)
 - [ACS Science Live | 全球COVID-19疫情下的环境与健康论坛](https://mp.weixin.qq.com/s/YzNE6BS1x_uZbib9o-kBgw)
+- [讲座回顾 | 模型方法](https://mp.weixin.qq.com/s/qYSeAGQ0LIaZLCQ7I4LRvA)

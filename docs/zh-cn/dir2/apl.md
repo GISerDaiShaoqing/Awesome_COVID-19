@@ -691,3 +691,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月17日）【中国科讯】](https://mp.weixin.qq.com/s/xePrqrHPwNb-2MD5UqMYBw)
 - [新冠肺炎流行对基础物理学研究的影响 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/5ferrtL9Jdjc1XNVUTydAQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月18日）【中国科讯】](https://mp.weixin.qq.com/s/yVu8xAivUT7nALJjX4uq7Q)
+- [冠状病毒时代的安全工作空间: 抗体检测的新用途 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/mOpeI-JYW34KybEsaYoN0A)
+- [《科学》（20200717出版）一周论文导读](https://mp.weixin.qq.com/s/aecJALlYXDKaHhFwvo4y9A)
+- [学术会议在线上开几个月了，疫情后还回得去吗？｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/S1XPKVYLE5mlQJgLaYduRw)

@@ -452,3 +452,5 @@
 - [The impact of mutations in SARS-CoV-2 spike on viral infectivity and antigenicity](https://doi.org/10.1016/j.cell.2020.07.012)
 - [Nature意外发现！非感染者体内竟存在SARS-CoV-2抗体！](https://mp.weixin.qq.com/s/a5Ksb5uAIcuwVVSTW2_doA)
 - [SARS-CoV-2-specific T cell immunity in cases of COVID-19 and SARS， and uninfected controls](https://www.nature.com/articles/s41586-020-2550-z)
+- [最新研究首次证实：新冠病毒不会通过蚊子传播，特别是对人类的传播](https://mp.weixin.qq.com/s/ylHWZOPU1XIDo6lvhGUWNg)
+- [Explained: How we know mosquitoes cannot spread coronavirus](https://indianexpress.com/article/explained/how-we-know-mosquitoes-cannot-spread-coronavirus-6512944/)

@@ -817,3 +817,7 @@
 - [Extreme Events in a Globalized Food System](https://www.sciencedirect.com/science/article/pii/S259033222030261X)
 - [实力见证 | 全球第一！华中科技大学新冠肺炎研究论文399篇](https://mp.weixin.qq.com/s/v3Q3uKbqPqnVtHX2GVeLlA)
 - [全球第一：华中科技大学新冠肺炎研究论文399篇](https://mp.weixin.qq.com/s/P8f1EhRSUPAQRImq5jhYDw)
+- [Susceptible supply limits the role of climate in the early SARS-CoV-2 pandemic](https://science.sciencemag.org/content/369/6501/315)
+- [二氧化碳排放量快速计算方法及COVID-19对碳排放量的影响](https://mp.weixin.qq.com/s/v7i0xbKCDgo4Jujw-YmE7w)
+- [NSR社论：COVID-19疫苗研发应摒弃民族主义](https://mp.weixin.qq.com/s/h0BgSI74TGzfXkSvafbfOA)
+- [International collaboration for global accessibility of COVID-19 vaccines](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa147/5868787)
