@@ -494,3 +494,4 @@
 - [后疫情社区·讨论｜疫情告诉我们，没有互助就会肉体消亡](https://mp.weixin.qq.com/s/2PlBReEJJwyTusw86m3LSQ)
 - [#榜样的力量#航天网信智慧企业管理云平台“航小慧”丨数据猿新冠战“疫”公益策划](https://mp.weixin.qq.com/s/aPju48LUFy3otstflU6NPQ)
 - [国际资讯 | [澳]公租房成新冠重灾区/西澳放松疫情管控(2020.7)](https://mp.weixin.qq.com/s/AapkxcdqJ8g2FO9kUR1Zrw)
+- [#后疫情时代的新思考#于企业而言，抗“疫”是一场传统与数字化的大融合丨数据猿公益策划](https://mp.weixin.qq.com/s/Ig24f_LzwDxl4nrhA575Dw)

@@ -456,3 +456,4 @@
 - [Explained: How we know mosquitoes cannot spread coronavirus](https://indianexpress.com/article/explained/how-we-know-mosquitoes-cannot-spread-coronavirus-6512944/)
 - [【观点】世卫组织表态： “不能排除” 新冠病毒空气传播途径！](https://mp.weixin.qq.com/s/DupPE4Iqy2gPLC2K_a5G4g)
 - [The debate over “airborne” coronavirus spread, explained](https://www.vox.com/science-and-health/2020/7/13/21315879/covid-19-airborne-who-aerosol-droplet-transmission)
+- [Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody](https://www.nature.com/articles/s41586-020-2349-y)

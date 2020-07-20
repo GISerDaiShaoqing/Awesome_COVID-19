@@ -73,3 +73,5 @@
 - [Epidemic and Challenges of Coronavirus Disease-2019 (COVID-19): India Response](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3569665)
 - [Nature/Science连发 | 赖圣杰等在新冠疫情的非药物干预措施效果和协同解禁策略研究取得重要进展](https://mp.weixin.qq.com/s/3N11ZpFRS0QwVszBK6Tdig)
 - [Assessing the impact ofcoordinated COVID-19 exit strategies across Europe](https://science.sciencemag.org/content/early/2020/07/16/science.abc5096)
+- [Science论文｜为防止新冠疫情快速反弹，各国应紧密协作开展防控和解禁](https://mp.weixin.qq.com/s/SuY13Z8nth2FtmL8MQXO8Q)
+- [Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions](https://science.sciencemag.org/content/369/6500/eabb9789)

@@ -285,3 +285,4 @@
 - [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)
 - [Introductions and early spread of SARS-CoV-2 in the New York City area](https://science.sciencemag.org/content/369/6501/297)
 - [Epidemiological and clinical characteristics of the early phase of the COVID-19 epidemic in Brazil](https://www.medrxiv.org/content/10.1101/2020.04.25.20077396v1)
+- [Estimating the burden of SARS-CoV-2 in France](https://science.sciencemag.org/content/369/6500/208)

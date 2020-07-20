@@ -825,3 +825,5 @@
 - [Implications of COVID-19 for the Environment and Sustainability](https://www.iges.or.jp/en/news/20200514)
 - [是时候修订联合国可持续发展目标了 |《自然》社论](https://mp.weixin.qq.com/s/V4ADq1IxocYgLr5dVETr9g)
 - [Time to revise the Sustainable Development Goals](https://www.nature.com/articles/d41586-020-02002-3)
+- [Impact of weather on COVID-19 pandemic in Turkey](https://www.sciencedirect.com/science/article/pii/S0048969720323275?via%3Dihub)
+- [剑桥大学流行病专家：我们是如何忘记瘟疫的](https://mp.weixin.qq.com/s/tc0liT0C4Amxo8XnA9gYZQ)

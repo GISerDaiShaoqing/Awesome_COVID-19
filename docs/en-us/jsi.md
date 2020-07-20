@@ -50,3 +50,5 @@
 - [Ethnopharmacological Responses to the Coronavirus Disease 2019 (COVID-19) Pandemic](https://www.frontiersin.org/research-topics/14125/ethnopharmacological-responses-to-the-coronavirus-disease-2019-covid-19-pandemic?utm_source=chaoRT5&utm_medium=wechat&utm_campaign=chinaad)
 - [征稿启事|后疫情时代的中医药文化传播(https://mp.weixin.qq.com/s/BguTEMv6bE8cnJu38dL9ew)
 - [2020柳叶刀“威克利-伍连德奖”征稿 | 中国医疗卫生工作者在COVID-19中的经历](https://mp.weixin.qq.com/s/VavyP1WgGkLeNDB0WMTuaQ)
+- [特刊征稿启事 | Journal of Urban Management](https://mp.weixin.qq.com/s/2LRzc5ft1ZSB1N1wPgWLtQ)
+- [Special Issue on COVID-19 and Change Dynamics in the Transformational Cities](https://www.journals.elsevier.com/journal-of-urban-management/call-for-papers/special-issue-on-covid-19-and-change-dynamics)

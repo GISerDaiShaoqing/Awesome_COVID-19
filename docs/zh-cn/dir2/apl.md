@@ -696,3 +696,8 @@
 - [学术会议在线上开几个月了，疫情后还回得去吗？｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/S1XPKVYLE5mlQJgLaYduRw)
 - [CDDpress：六月精选 | 附CDD 特辑期刊最新影响因子](https://mp.weixin.qq.com/s/UWa-SE2Uj0lPiFipk9uEwQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月19日）【中国科讯】](https://mp.weixin.qq.com/s/GFMuc9XKRKwlgKWaVdrMBQ)
+- [CORDITE：SARS-CoV-2冠状病毒药物相互作用数据库丨iScience一周编辑精选 2020年第19期](https://mp.weixin.qq.com/s/ui6N2LTrTPQQ3Hc8qtDF5w)
+- [24小时热门｜武汉、深圳和石家庄的血清学调查结果出炉：新冠病毒抗体阳性率很低](https://mp.weixin.qq.com/s/lEF3GpfBN6y3-3iNojKBJg)
+- [先前的低毒力菌株大流行诱导对新型冠状病毒肺炎的免疫力 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/oiLRPJpOBaY1JLV3P7gVwA)
+- [Science 一周论文导读 | 2020年7月10日](https://mp.weixin.qq.com/s/jxyiR9kq3Xr-4ZLKZXvZkQ)
+- [Nature 一周论文导读 | 2020年7月9日](https://mp.weixin.qq.com/s/mBkUk9Tj0fO-qvGfqC8Hlw)
