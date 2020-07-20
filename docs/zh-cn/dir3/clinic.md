@@ -731,3 +731,7 @@
 - [这四种倾向性评分方法，可有效控制混杂因素](https://mp.weixin.qq.com/s/Zqougiv2RmYCSDp9VAnA_Q)
 - [NEJM | 正式发表！大规模随机对照试验，廉价药地塞米松可以降低新冠患者（有创通气）30%以上的死亡率](https://mp.weixin.qq.com/s/6pwTinxoEYgwNdQjIyxSFg)
 - [Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2021436?query=featured_home)
+- [COVID-19 下的重症监护和急诊医学 | Springer Nature研究集锦](https://mp.weixin.qq.com/s/umc1Xod0-8J21CLZGb7lJg)
+- [Clinical course and outcome of 107 patients infected with the novel coronavirus, SARS-CoV-2, discharged from two hospitals in Wuhan, China](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-02895-6)
+- [引领新冠在心肝领域的突破 | 武汉大学李红良等团队首次揭示心脏生物标志物与新冠肺炎的预后关系](https://mp.weixin.qq.com/s/2kBNHqEix4jmANWdMKuVSQ)
+- [Redefining cardiac biomarkers in predicting mortality of inpatients with COVID-19](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15528)

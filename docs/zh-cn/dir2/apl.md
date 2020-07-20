@@ -694,3 +694,5 @@
 - [冠状病毒时代的安全工作空间: 抗体检测的新用途 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/mOpeI-JYW34KybEsaYoN0A)
 - [《科学》（20200717出版）一周论文导读](https://mp.weixin.qq.com/s/aecJALlYXDKaHhFwvo4y9A)
 - [学术会议在线上开几个月了，疫情后还回得去吗？｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/S1XPKVYLE5mlQJgLaYduRw)
+- [CDDpress：六月精选 | 附CDD 特辑期刊最新影响因子](https://mp.weixin.qq.com/s/UWa-SE2Uj0lPiFipk9uEwQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月19日）【中国科讯】](https://mp.weixin.qq.com/s/GFMuc9XKRKwlgKWaVdrMBQ)

@@ -821,3 +821,7 @@
 - [二氧化碳排放量快速计算方法及COVID-19对碳排放量的影响](https://mp.weixin.qq.com/s/v7i0xbKCDgo4Jujw-YmE7w)
 - [NSR社论：COVID-19疫苗研发应摒弃民族主义](https://mp.weixin.qq.com/s/h0BgSI74TGzfXkSvafbfOA)
 - [International collaboration for global accessibility of COVID-19 vaccines](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwaa147/5868787)
+- [国际智库为COVID-19对环境和可持续发展影响建言献策](https://mp.weixin.qq.com/s/2InYyrpfvuHQScdHtuFUpg)
+- [Implications of COVID-19 for the Environment and Sustainability](https://www.iges.or.jp/en/news/20200514)
+- [是时候修订联合国可持续发展目标了 |《自然》社论](https://mp.weixin.qq.com/s/V4ADq1IxocYgLr5dVETr9g)
+- [Time to revise the Sustainable Development Goals](https://www.nature.com/articles/d41586-020-02002-3)

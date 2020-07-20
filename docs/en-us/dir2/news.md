@@ -2843,3 +2843,6 @@
 - [北京应急响应，降级！](https://mp.weixin.qq.com/s/DQkZ9WDYCxUDzeCkjQKLsg)
 - [北京降级后，这些活动要安排](https://mp.weixin.qq.com/s/nLJRk15Rs-Wt8hNZ4Wg88Q)
 - [乌鲁木齐5地风险等级升级！](https://mp.weixin.qq.com/s/lPBNSh0JLm1ilfowyGKbqQ)
+- [新增确诊22例，其中本土17例在新疆](https://mp.weixin.qq.com/s/vvxIUxsTNUIWGASKMW4xPA)
+- [日本偶像女团AKB48一名成员确诊](https://mp.weixin.qq.com/s/Y9aglxMkR8Pwq4T4o9BkoA)
+- [国家卫健委：新增确诊22例，其中本土17例！福建0新增](https://mp.weixin.qq.com/s/ioT2_MFVNr7diTSJlTOGQQ)
