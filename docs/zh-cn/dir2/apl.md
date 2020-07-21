@@ -701,3 +701,8 @@
 - [先前的低毒力菌株大流行诱导对新型冠状病毒肺炎的免疫力 | 网络科学论文速递30篇](https://mp.weixin.qq.com/s/oiLRPJpOBaY1JLV3P7gVwA)
 - [Science 一周论文导读 | 2020年7月10日](https://mp.weixin.qq.com/s/jxyiR9kq3Xr-4ZLKZXvZkQ)
 - [Nature 一周论文导读 | 2020年7月9日](https://mp.weixin.qq.com/s/mBkUk9Tj0fO-qvGfqC8Hlw)
+- [太阳“近”照 | “恒星工厂”被拍 | 西班牙发放疫情津贴 | 自然每周简报](https://mp.weixin.qq.com/s/eCyGxy49aVa2VnCMA_upvw)
+- [美国面临新冠肺炎地方性感染和死亡 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/mG4CYAdwwTi82o_Fx10nVA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月20日）【中国科讯】](https://mp.weixin.qq.com/s/DW-u2oBGo9WDnMsGFwnlEg)
+- [陈薇团队新冠疫苗二期临床试验完成 | 科研圈日报](https://mp.weixin.qq.com/s/1FLrQk_xuwO2Z6qV85GxIw)
+- [24小时热门｜体外培养精原干细胞，有望治疗男性不育；中英两款新冠疫苗临床试验结果出炉，可诱发免疫反应；深度学习正在逼近计算极限](https://mp.weixin.qq.com/s/YU5T_JvoDze7BUSIczVgOg)

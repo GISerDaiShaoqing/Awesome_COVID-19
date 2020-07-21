@@ -457,3 +457,5 @@
 - [【观点】世卫组织表态： “不能排除” 新冠病毒空气传播途径！](https://mp.weixin.qq.com/s/DupPE4Iqy2gPLC2K_a5G4g)
 - [The debate over “airborne” coronavirus spread, explained](https://www.vox.com/science-and-health/2020/7/13/21315879/covid-19-airborne-who-aerosol-droplet-transmission)
 - [Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody](https://www.nature.com/articles/s41586-020-2349-y)
+- [NC：解析SARS-CoV spike（S）糖蛋白的融膜后结构，阐释冠状病毒的融膜机制](https://mp.weixin.qq.com/s/t2r7SPm5r-QXmP_p0x-OVg)
+- [Cryo-EM analysis of the post-fusion structure of the SARS-CoV spike glycoprotein](https://www.nature.com/articles/s41467-020-17371-6)

@@ -199,3 +199,4 @@
 - [COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown](https://www.nature.com/articles/s41597-020-00575-2)
 - [Coronavirus COVID-19 (2019-nCoV) Data Repository and Dashboard for South Africa](https://github.com/dsfsi/covid19za)
 - [Epidemiological Data from the COVID-19 Outbreak in Canada](https://github.com/ishaberry/Covid19Canada)
+- [Datos-COVID19](https://github.com/MinCiencia/Datos-COVID19)

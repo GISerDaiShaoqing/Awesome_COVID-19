@@ -240,3 +240,6 @@
 - [【开放注册】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/jz0H4sjM6IP9KdbAtFUuug)
 - [ACS Science Live | 全球COVID-19疫情下的环境与健康论坛](https://mp.weixin.qq.com/s/YzNE6BS1x_uZbib9o-kBgw)
 - [讲座回顾 | 模型方法](https://mp.weixin.qq.com/s/qYSeAGQ0LIaZLCQ7I4LRvA)
+- [【本周末开讲】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/da-7cW9bZJtZ3j-UIZoSOQ)
+- [中国青年呼吸学者与欧洲同龄同行对话【CTS-ERS青委：新冠系列视频之三】：康复者血浆疗法治疗新冠肺炎患者](https://mp.weixin.qq.com/s/57c9bBECIUtTUzJvce7FZQ)
+- [抗击疫情，一线归来 | “我是科学家”第23期演讲即将开始](https://mp.weixin.qq.com/s/I1k8Dy1g610kSYGuzD0sow)

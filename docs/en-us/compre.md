@@ -827,3 +827,6 @@
 - [Time to revise the Sustainable Development Goals](https://www.nature.com/articles/d41586-020-02002-3)
 - [Impact of weather on COVID-19 pandemic in Turkey](https://www.sciencedirect.com/science/article/pii/S0048969720323275?via%3Dihub)
 - [剑桥大学流行病专家：我们是如何忘记瘟疫的](https://mp.weixin.qq.com/s/tc0liT0C4Amxo8XnA9gYZQ)
+- [COVID-19 特刊：商业航班减少影响天气预报准确率](https://mp.weixin.qq.com/s/GKm1ojyi5Xjgx0K2_QMIXA)
+- [COVID‐19 Pandemic Imperils Weather Forecast](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088613)
+- [谣言比疫情跑得更快？社交媒体恐慌的传播速度快于COVID-19大爆发](https://mp.weixin.qq.com/s/LZXDS_qgjhcy4_g2rW9nlQ)
