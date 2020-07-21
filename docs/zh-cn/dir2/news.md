@@ -2862,3 +2862,8 @@
 - [荷兰本周确诊人数翻倍，R值高达1.29！南荷兰省最为严重，第二波还有多远？](https://mp.weixin.qq.com/s/vg6uGQV_RAznuv6oKj73_w)
 - [喜讯！进入第三阶段！中英疫苗都取得重大突破！荷兰投资押对宝，新冠疫苗快来吧！](https://mp.weixin.qq.com/s/mtE9eQZYPRBkHFKaCiBtIw)
 - [寄了3个月的口罩未送达却已签收？顺丰回应](https://mp.weixin.qq.com/s/iMdS8XEZXevbRIno06ecKA)
+- [荷兰疫情：感染数量复增，传染率上升，出现多个群聚性爆发点](https://mp.weixin.qq.com/s/II1Q27ctNxi_ZTTCx3ckyw)
+- [荷兰疫情死灰复燃，情况如何？下月至关重要](https://mp.weixin.qq.com/s/ookwjTqJ5X8PGx947zzLpA)
+- [欧盟达成经济协议，荷兰首相也很高兴，怎样评价吕特？](https://mp.weixin.qq.com/s/DY98lvAC-49zav0y2WiCqA)
+- [牛津疫苗希望很大，但是，有关专家低调回应](https://mp.weixin.qq.com/s/DGO3WE3fxudEW7ctqIcF0A)
+- [鼓吹口罩无用的比利时卫生部长火了！](https://mp.weixin.qq.com/s/XiUNVY2MNiLl42LGP_dSTw)
