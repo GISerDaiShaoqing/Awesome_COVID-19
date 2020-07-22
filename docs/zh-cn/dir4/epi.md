@@ -286,3 +286,7 @@
 - [Introductions and early spread of SARS-CoV-2 in the New York City area](https://science.sciencemag.org/content/369/6501/297)
 - [Epidemiological and clinical characteristics of the early phase of the COVID-19 epidemic in Brazil](https://www.medrxiv.org/content/10.1101/2020.04.25.20077396v1)
 - [Estimating the burden of SARS-CoV-2 in France](https://science.sciencemag.org/content/369/6500/208)
+- [钟南山团队携手腾讯研发新冠重症AI预测，成果登上Nature子刊](https://mp.weixin.qq.com/s/b04BDH6LVR2X_L1vuTBaDQ)
+- [Early triage of critically ill COVID-19 patients using deep learning](https://www.nature.com/articles/s41467-020-17280-8)
+- [Calculation Toolfor Early Triage of Critically-ill COVID-19 Patients using Deep Learning](https://aihealthcare.tencent.com/COVID19-Triage_en.html)
+- [Nature子刊：钟南山团队携手腾讯研发出新冠重症AI预测模型！](https://mp.weixin.qq.com/s/Ntk7J5NpC3fRqu5T-3xgWg)

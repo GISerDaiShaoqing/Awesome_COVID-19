@@ -52,3 +52,5 @@
 - [2020柳叶刀“威克利-伍连德奖”征稿 | 中国医疗卫生工作者在COVID-19中的经历](https://mp.weixin.qq.com/s/VavyP1WgGkLeNDB0WMTuaQ)
 - [特刊征稿启事 | Journal of Urban Management](https://mp.weixin.qq.com/s/2LRzc5ft1ZSB1N1wPgWLtQ)
 - [Special Issue on COVID-19 and Change Dynamics in the Transformational Cities](https://www.journals.elsevier.com/journal-of-urban-management/call-for-papers/special-issue-on-covid-19-and-change-dynamics)
+- [特刊征稿 | Financial Market in COVID-19 Pandemic](https://mp.weixin.qq.com/s/k6HrXMLWMfa3xixH95qgxA)
+- [Call for Papers: Special Issue on Financial Market in COVID-19 Pandemic From the Perspective of Data Science](https://www.springer.com/journal/40745/updates/18175858?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=SRCN_3_NX01_CN_CNIJ_HSS_AODS_CFP)

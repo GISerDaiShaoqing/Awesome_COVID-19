@@ -706,3 +706,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月20日）【中国科讯】](https://mp.weixin.qq.com/s/DW-u2oBGo9WDnMsGFwnlEg)
 - [陈薇团队新冠疫苗二期临床试验完成 | 科研圈日报](https://mp.weixin.qq.com/s/1FLrQk_xuwO2Z6qV85GxIw)
 - [24小时热门｜体外培养精原干细胞，有望治疗男性不育；中英两款新冠疫苗临床试验结果出炉，可诱发免疫反应；深度学习正在逼近计算极限](https://mp.weixin.qq.com/s/YU5T_JvoDze7BUSIczVgOg)
+- [今年诺贝尔奖颁奖晚宴因新冠肺炎疫情被取消 | 科研圈日报](https://mp.weixin.qq.com/s/xvEi_V2hkyk5EFwr3gz4_A)
+- [24小时热门｜英国新冠疫情宗教死亡率的说明：哪些群体最危险？](https://mp.weixin.qq.com/s/kKZ6JtyYf3A75CINwBazjw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月21日）【中国科讯】](https://mp.weixin.qq.com/s/D2aROMjNVnj5hpzAwilXog)

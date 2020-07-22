@@ -459,3 +459,8 @@
 - [Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody](https://www.nature.com/articles/s41586-020-2349-y)
 - [NC：解析SARS-CoV spike（S）糖蛋白的融膜后结构，阐释冠状病毒的融膜机制](https://mp.weixin.qq.com/s/t2r7SPm5r-QXmP_p0x-OVg)
 - [Cryo-EM analysis of the post-fusion structure of the SARS-CoV spike glycoprotein](https://www.nature.com/articles/s41467-020-17371-6)
+- [人IgG中和单克隆抗体可阻断SARS-CoV-2感染 | CellPress对话科学家](https://mp.weixin.qq.com/s/QavqA4UkzGb2vAIunR80Fw)
+- [Human IgG neutralizing monoclonal antibodies block SARS-CoV-2 infection](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30899-8)
+- [蚊子能够传播新冠病毒吗？首个研究证实并不会！](https://mp.weixin.qq.com/s/wX0Sbkw74cz3btO3_JCM0A)
+- [SARS-CoV-2 failure to infect or replicate in mosquitoes: an extreme challenge](https://www.nature.com/articles/s41598-020-68882-7)
+- [袁志明/石正丽/郑永唐强强联手：可完全模拟新冠肺炎模型建立成功](https://mp.weixin.qq.com/s/Qk_pzA60aKhrDW2PRdylDw)

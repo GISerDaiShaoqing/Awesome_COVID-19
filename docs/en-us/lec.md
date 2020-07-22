@@ -243,3 +243,5 @@
 - [【本周末开讲】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/da-7cW9bZJtZ3j-UIZoSOQ)
 - [中国青年呼吸学者与欧洲同龄同行对话【CTS-ERS青委：新冠系列视频之三】：康复者血浆疗法治疗新冠肺炎患者](https://mp.weixin.qq.com/s/57c9bBECIUtTUzJvce7FZQ)
 - [抗击疫情，一线归来 | “我是科学家”第23期演讲即将开始](https://mp.weixin.qq.com/s/I1k8Dy1g610kSYGuzD0sow)
+- [“韧性与交通”线上研讨会 | 中国与孟加拉国应对新冠肺炎疫情的经验与启示](https://mp.weixin.qq.com/s/DUoUTw4v0l5AgFrxd7iWFQ)
+- [文献导读（4）|牛津疫情政策指数研究](https://mp.weixin.qq.com/s/lXrCl9eLJ220HhVreHej_Q)

@@ -497,3 +497,7 @@
 - [#后疫情时代的新思考#于企业而言，抗“疫”是一场传统与数字化的大融合丨数据猿公益策划](https://mp.weixin.qq.com/s/Ig24f_LzwDxl4nrhA575Dw)
 - [投资者如何看待疫情影响？ | 大鹏学社每日知识卡](https://mp.weixin.qq.com/s/eP5VLdISbI2qTh43sJ22cA)
 - [纽约疫情缓和，户外就餐区能否拯救餐饮业](https://mp.weixin.qq.com/s/hPcsISuSu03wVNKeQRmMRQ)
+- [国际资讯| [法]新冠疫情后的出行结构变化/自行车成为优势选择(2020.7)](https://mp.weixin.qq.com/s/N3bvRwI1H3GAqkoZOONsqw)
+- [【动向】疫情后恢复“正常”不是目标，全球市长呼吁建立“15分钟城市”模式！](https://mp.weixin.qq.com/s/pRCOCrZMxxT4Aywi4UEvIw)
+- [The world’s mayors want a pandemic recovery that takes cars off the streets](https://grist.org/climate/the-worlds-mayors-want-a-pandemic-recovery-that-takes-cars-off-the-streets-covid/)
+- [“疫”起战斗吧！——一位青年规划师的工作日记](https://mp.weixin.qq.com/s/14LiuS-WuNtIHyFEekWGqQ)
