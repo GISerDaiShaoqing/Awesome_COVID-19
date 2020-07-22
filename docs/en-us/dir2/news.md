@@ -2878,3 +2878,4 @@
 - [大连一海产品加工企业员工确诊，当地紧急应对](https://mp.weixin.qq.com/s/nWgi8Nr38s_prdyuW44QEA)
 - [重要通知 | 驻荷兰使馆关于赴华航班乘客核酸检测事的说明](https://mp.weixin.qq.com/s/QIJKjC0MmVKkfIj8h0anIQ)
 - [驻荷兰使馆关于赴华航班乘客核酸检测事的说明](https://mp.weixin.qq.com/s/xJBb_qoEokQABrBPdJb5gA)
+- [第二波疫情要来了吗？荷兰重症监护室做好准备了吗？](https://mp.weixin.qq.com/s/8e8SSFuXOFECgKvrWxFfKA)
