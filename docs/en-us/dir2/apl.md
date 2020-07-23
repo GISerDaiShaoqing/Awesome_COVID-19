@@ -709,3 +709,6 @@
 - [今年诺贝尔奖颁奖晚宴因新冠肺炎疫情被取消 | 科研圈日报](https://mp.weixin.qq.com/s/xvEi_V2hkyk5EFwr3gz4_A)
 - [24小时热门｜英国新冠疫情宗教死亡率的说明：哪些群体最危险？](https://mp.weixin.qq.com/s/kKZ6JtyYf3A75CINwBazjw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月21日）【中国科讯】](https://mp.weixin.qq.com/s/D2aROMjNVnj5hpzAwilXog)
+- [7 月 22 日我国新增确诊病例 22 例，辽宁出现 1 例本土病例｜科研圈日报](https://mp.weixin.qq.com/s/lUYAUl5jt3KG8qwT9xyOvw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月22日）【中国科讯】](https://mp.weixin.qq.com/s/iDQgeo6hTLaCwoilVwvTnw)
+- [新冠肺炎流行期间的反社会行为分析 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/biSbRftJkcY3TlGVhQ9csQ)

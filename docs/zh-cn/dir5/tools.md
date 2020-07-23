@@ -78,3 +78,4 @@
 - [【居民出行调查Online】疫情环境下，如何实施居民出行调查？｜城市数据派](https://mp.weixin.qq.com/s/K2-Ecqdk51MinqZPfoE0VQ)
 - [Dr Haiel for COVID-19 | 霍普金斯俱乐部团队发布新冠新工具](https://mp.weixin.qq.com/s/PNH2SzaruA8dq0ePfI0TEA)
 - [Software to fit multivariate spatio-temporal areal unit models with data visualisations of the results](https://github.com/duncanplee/Covid-19-model)
+- [Projections of COVID-19, in standardized format](https://github.com/reichlab/covid19-forecast-hub)

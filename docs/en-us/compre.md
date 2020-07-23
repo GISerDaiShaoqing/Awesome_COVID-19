@@ -836,3 +836,8 @@
 - [More viruses will jump from animals to people, researchers say. Can we catch them?](https://medicalxpress.com/news/2020-07-viruses-animals-people.html)
 - [​比尔·盖茨公开信：新冠病毒是一次“伟大的纠错”](https://mp.weixin.qq.com/s/NlBz2wDTsRoG4XEyAhX9YQ)
 - [Bill Gates on COVID-19](https://www.auburnvw.com/bill-gates-on-covid-19/)
+- [英国卫生领袖敦促政府为第二波Covid-19疫情作好准备](https://mp.weixin.qq.com/s/6zvfuD0HMcaFrGOTHtlDOQ)
+- [Public inquiry into UK’s response to covid-19](https://www.bmj.com/content/369/bmj.m2052/rr-2)
+- [六种基因组揭示蝙蝠的超常适应力 |《自然》论文](https://mp.weixin.qq.com/s/4RHDFGX9m4vkm9iraD2bjQ)
+- [Six reference-quality genomes reveal evolution of bat adaptations](https://www.nature.com/articles/s41586-020-2486-3)
+- [An overview of COVID-19](https://link.springer.com/article/10.1631%2Fjzus.B2000083)

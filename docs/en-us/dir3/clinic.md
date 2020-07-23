@@ -758,3 +758,7 @@
 - [Nature背靠背 | 羟氯喹从神药到一地鸡毛，在体外都不起作用](https://mp.weixin.qq.com/s/3-5kf2wQeJuLnxr4roadJg)
 - [Chloroquine does not inhibit infection of human lung cells with SARS-CoV-2](https://www.nature.com/articles/s41586-020-2575-3)
 - [Hydroxychloroquine use against SARS-CoV-2 infection in non-human primates](https://www.nature.com/articles/s41586-020-2558-4)
+- [最新研究 | 英国疫苗试验初步结果显示，安全且可诱导免疫应答](https://mp.weixin.qq.com/s/K4kegWlr1NskpfgawjfYKQ)
+- [评估氯喹和羟氯喹的抗病毒活性 |《自然》论文](https://mp.weixin.qq.com/s/3S0GZB26PCap7HMQz26-Yw)
+- [《关于印发新型冠状病毒肺炎重症患者呼吸支持治疗和体外膜肺氧合临床应用指导方案（试行）的通知》解读](https://mp.weixin.qq.com/s/6igTdQY1BKKTzp_1HDtKgA)
+- [国家卫健委发布《新型冠状病毒肺炎重症患者呼吸支持治疗和体外膜肺氧合临床应用指导方案（试行）》](https://mp.weixin.qq.com/s/RAwEtw3f8-KCJ44EXJWuSw)

@@ -464,3 +464,5 @@
 - [蚊子能够传播新冠病毒吗？首个研究证实并不会！](https://mp.weixin.qq.com/s/wX0Sbkw74cz3btO3_JCM0A)
 - [SARS-CoV-2 failure to infect or replicate in mosquitoes: an extreme challenge](https://www.nature.com/articles/s41598-020-68882-7)
 - [袁志明/石正丽/郑永唐强强联手：可完全模拟新冠肺炎模型建立成功](https://mp.weixin.qq.com/s/Qk_pzA60aKhrDW2PRdylDw)
+- [【研究】香港大学研究证实：病毒可在室内环境通过空气长距离传播！](https://mp.weixin.qq.com/s/HYLlJ_61RlkU4TPTJWYZ2A)
+- [HKU mechanical engineering study reveals airborne transmission of COVID-19 opportunistic in nature and poor indoor ventilation plays a role in transmission](https://www.hku.hk/press/news_detail_21290.html)

@@ -501,3 +501,5 @@
 - [【动向】疫情后恢复“正常”不是目标，全球市长呼吁建立“15分钟城市”模式！](https://mp.weixin.qq.com/s/pRCOCrZMxxT4Aywi4UEvIw)
 - [The world’s mayors want a pandemic recovery that takes cars off the streets](https://grist.org/climate/the-worlds-mayors-want-a-pandemic-recovery-that-takes-cars-off-the-streets-covid/)
 - [“疫”起战斗吧！——一位青年规划师的工作日记](https://mp.weixin.qq.com/s/14LiuS-WuNtIHyFEekWGqQ)
+- [大数据或能帮助日本央行引导经济度过疫情阵痛](https://mp.weixin.qq.com/s/bsdnr5m-ZybUJ1_I3rOcIg)
+- [范恒山：疫情冲击视角下的新型城镇化的推进方向与特大城市的建设格局](https://mp.weixin.qq.com/s/bAECa9KJmZ0SNFSV9JQ9RQ)
