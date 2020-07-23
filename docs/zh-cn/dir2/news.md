@@ -1765,7 +1765,7 @@
 - [特朗普威胁永久“断供”世卫组织](https://mp.weixin.qq.com/s/AB4tP1bwUqE8vX_9Fizu5A)
 - [“勇”字当先 “爱”在心间](https://mp.weixin.qq.com/s/u-Gdl76ym0VgECn2m6szIg)
 - [医病医身医心，救人救国救世](https://mp.weixin.qq.com/s/vAFACPhyg_c4xbBPj20EsQ)
-- [“我想成为像他们那样的共产党员”]https://mp.weixin.qq.com/s/AzeOaSLwQJ1StJr_cMm9mg)
+- [“我想成为像他们那样的共产党员”](https://mp.weixin.qq.com/s/AzeOaSLwQJ1StJr_cMm9mg)
 - [武汉9天7人感染，都在一个小区](https://mp.weixin.qq.com/s/kagNlTvz9nYYomfopokQgQ)
 - [疫情之中，国科大海外学子的“流浪地球”](https://mp.weixin.qq.com/s/_KbHEKHRncc9wiER22uePg)
 - [慕了！陕西一村给村民发了四十多万元的疫情补贴](https://mp.weixin.qq.com/s/MlJ_98TRzqEE7TuCWoG_AA)
