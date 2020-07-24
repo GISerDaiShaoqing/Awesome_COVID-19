@@ -75,3 +75,4 @@
 - [Assessing the impact ofcoordinated COVID-19 exit strategies across Europe](https://science.sciencemag.org/content/early/2020/07/16/science.abc5096)
 - [Science论文｜为防止新冠疫情快速反弹，各国应紧密协作开展防控和解禁](https://mp.weixin.qq.com/s/SuY13Z8nth2FtmL8MQXO8Q)
 - [Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions](https://science.sciencemag.org/content/369/6500/eabb9789)
+- [Serial interval of SARS-CoV-2 was shortened over time by nonpharmaceutical interventions](https://science.sciencemag.org/content/early/2020/07/20/science.abc9004)

@@ -466,3 +466,8 @@
 - [袁志明/石正丽/郑永唐强强联手：可完全模拟新冠肺炎模型建立成功](https://mp.weixin.qq.com/s/Qk_pzA60aKhrDW2PRdylDw)
 - [【研究】香港大学研究证实：病毒可在室内环境通过空气长距离传播！](https://mp.weixin.qq.com/s/HYLlJ_61RlkU4TPTJWYZ2A)
 - [HKU mechanical engineering study reveals airborne transmission of COVID-19 opportunistic in nature and poor indoor ventilation plays a role in transmission](https://www.hku.hk/press/news_detail_21290.html)
+- [一种检测SARS-CoV-2中和抗体的安全快速试验 |《自然-生物技术》论文](https://mp.weixin.qq.com/s/WBS-gWuW437nFP8PxJma3Q)
+- [A SARS-CoV-2 surrogate virus neutralization test based on antibody-mediated blockage of ACE2–spike protein–protein interaction](https://www.nature.com/articles/s41587-020-0631-z)
+- [连发5篇Science/Nature | 饶子和，张岩及刘锦川等团队在生命科学，材料学等领域取得突破](https://mp.weixin.qq.com/s/jhHozbgvnWi59Z4vbQBGhQ)
+- [Structural basis for neutralization of SARS-CoV-2 and SARS-CoV by a potent therapeutic antibody](https://science.sciencemag.org/content/early/2020/07/22/science.abc5881)
+- [科学家们是如何知道新冠病毒不是在实验室制造出来的？](https://mp.weixin.qq.com/s/1xvIb-vn0z1H6SZjsPuywg)

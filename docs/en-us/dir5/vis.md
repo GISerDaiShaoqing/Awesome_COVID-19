@@ -207,3 +207,4 @@
 - [Coronavirus Riskiest Activities](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/?utm_source=MAIN+Newsletter+-+Exclusive+first+looks+at+our+graphics+%26+interactives&utm_campaign=322ec0e705-EMAIL_CAMPAIGN_2020_07_09&utm_medium=email&utm_term=0_0f32d82422-322ec0e705-68971285&mc_cid=322ec0e705&mc_eid=2cd0c246ac#activities)
 - [大国担当，全球战疫中的中国奇迹 | 全球疫情态势可视化](https://mp.weixin.qq.com/s/S7RmObQCD_oxpL3Iw4fsOg)
 - [【干货】使用FineBI制作全球疫情地图](https://mp.weixin.qq.com/s/lJP0l75YS1ywfZ0y6Xp4uQ)
+- [Tracking the impact of COVID-19 in India](https://github.com/covid19india/covid19india-react)

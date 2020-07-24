@@ -762,3 +762,5 @@
 - [评估氯喹和羟氯喹的抗病毒活性 |《自然》论文](https://mp.weixin.qq.com/s/3S0GZB26PCap7HMQz26-Yw)
 - [《关于印发新型冠状病毒肺炎重症患者呼吸支持治疗和体外膜肺氧合临床应用指导方案（试行）的通知》解读](https://mp.weixin.qq.com/s/6igTdQY1BKKTzp_1HDtKgA)
 - [国家卫健委发布《新型冠状病毒肺炎重症患者呼吸支持治疗和体外膜肺氧合临床应用指导方案（试行）》](https://mp.weixin.qq.com/s/RAwEtw3f8-KCJ44EXJWuSw)
+- [《关于印发新型冠状病毒肺炎重症患者呼吸支持治疗和体外膜肺氧合临床应用指导方案（试行）的通知》解读](https://mp.weixin.qq.com/s/5dzuRLdYzlKMPBlTj_W18w)
+- [国家卫健委发布《新型冠状病毒肺炎重症患者呼吸支持治疗和体外膜肺氧合临床应用指导方案（试行）》](https://mp.weixin.qq.com/s/0T-5U6Gf5g1ocpRyaMSmlQ)

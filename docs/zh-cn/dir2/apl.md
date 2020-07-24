@@ -712,3 +712,6 @@
 - [7 月 22 日我国新增确诊病例 22 例，辽宁出现 1 例本土病例｜科研圈日报](https://mp.weixin.qq.com/s/lUYAUl5jt3KG8qwT9xyOvw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月22日）【中国科讯】](https://mp.weixin.qq.com/s/iDQgeo6hTLaCwoilVwvTnw)
 - [新冠肺炎流行期间的反社会行为分析 | 网络科学论文速递16篇](https://mp.weixin.qq.com/s/biSbRftJkcY3TlGVhQ9csQ)
+- [全球空运连通性与新冠肺炎案例之间的同步程度 | 网络科学论文速递15篇](https://mp.weixin.qq.com/s/m269yB8mBP3z3u6AfOMEuA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月23日）【中国科讯】](https://mp.weixin.qq.com/s/HbzqTnlnPsdLhwYhNAdAlg)
+- [7 月 23 日我国内地新增确诊病例 21 例：新疆 13 例，辽宁 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/LnspFIqrHkOUx9By9HEwHg)
