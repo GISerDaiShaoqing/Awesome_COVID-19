@@ -250,3 +250,4 @@
 - [吴尊友：流行病学工作者，如何从数据中分析疫情的源头、拐点、传染链？](https://mp.weixin.qq.com/s/Tsd_Tf7yPzU4aDMdRg5JhQ)
 - [数据导读回顾 | 张云浩、王文波：数据分析工具讲座](https://mp.weixin.qq.com/s/uQmiWb18Nl2c6YNpZ3xDXA)
 - [【最新日程】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/yUWb6Qmn5nt_O3XdY-riDQ)
+- [童朝晖：面对新冠疫情，为什么中国能打赢这场战争？](https://mp.weixin.qq.com/s/8b2fZP6De_IalUqGI87-bw)

@@ -471,3 +471,4 @@
 - [连发5篇Science/Nature | 饶子和，张岩及刘锦川等团队在生命科学，材料学等领域取得突破](https://mp.weixin.qq.com/s/jhHozbgvnWi59Z4vbQBGhQ)
 - [Structural basis for neutralization of SARS-CoV-2 and SARS-CoV by a potent therapeutic antibody](https://science.sciencemag.org/content/early/2020/07/22/science.abc5881)
 - [科学家们是如何知道新冠病毒不是在实验室制造出来的？](https://mp.weixin.qq.com/s/1xvIb-vn0z1H6SZjsPuywg)
+- [Science | 饶子和院士领衔，多团队联合解密新冠病毒广谱中和保护机制](https://mp.weixin.qq.com/s/37HNV_qc5H8RCP2i-s50JQ)

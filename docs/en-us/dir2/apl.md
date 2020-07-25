@@ -715,3 +715,7 @@
 - [全球空运连通性与新冠肺炎案例之间的同步程度 | 网络科学论文速递15篇](https://mp.weixin.qq.com/s/m269yB8mBP3z3u6AfOMEuA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月23日）【中国科讯】](https://mp.weixin.qq.com/s/HbzqTnlnPsdLhwYhNAdAlg)
 - [7 月 23 日我国内地新增确诊病例 21 例：新疆 13 例，辽宁 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/LnspFIqrHkOUx9By9HEwHg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月24日）【中国科讯】](https://mp.weixin.qq.com/s/pugRnkoPQ9-QEpaILmFWEA)
+- [《自然-食品》| 粮食系统的战场](https://mp.weixin.qq.com/s/bcVAIsQNmTtIlzO7N-YhTw)
+- [美国最大规模血清学调查结果出炉：实际感染人数应高出6-24倍​｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/9wsK3UOOr9R1oCZne08t9g)
+- [健康、社会心理和社会问题源于新冠肺炎流行病，基于使用自然语言处理的社会媒体评论 | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/TEvNwOkEzu5P4_uiLTWkkg)
