@@ -866,3 +866,4 @@
 - [Science“20问”专访石正丽：“特朗普欠我们一个道歉”](https://mp.weixin.qq.com/s/TtGsJc4WSMiv2zUTTZ5q0g)
 - [《柳叶刀》盛赞中国抗击新冠疫情的巨大贡献](https://mp.weixin.qq.com/s/yZtjBHJWhMQm0oSWJVRSQA)
 - [石正丽《Science》访谈：“特朗普欠我们一个道歉”！](https://mp.weixin.qq.com/s/i_tfYoYrQp7dR4mUd2CbyA)
+- [在远古时期的病毒大流行中，尼安德特人救了我们一命](https://mp.weixin.qq.com/s/KdDA8YvrmG2GVwOqG7lY_g)

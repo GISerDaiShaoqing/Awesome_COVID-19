@@ -472,3 +472,6 @@
 - [Structural basis for neutralization of SARS-CoV-2 and SARS-CoV by a potent therapeutic antibody](https://science.sciencemag.org/content/early/2020/07/22/science.abc5881)
 - [科学家们是如何知道新冠病毒不是在实验室制造出来的？](https://mp.weixin.qq.com/s/1xvIb-vn0z1H6SZjsPuywg)
 - [Science | 饶子和院士领衔，多团队联合解密新冠病毒广谱中和保护机制](https://mp.weixin.qq.com/s/37HNV_qc5H8RCP2i-s50JQ)
+- [Immunity | 重大进展！高福/王福生等首次发现新冠患者的外周血单核细胞的动态变化特征](https://mp.weixin.qq.com/s/vklavucabBieu8L8OqbD2w)
+- [Single-cell sequencing of peripheral blood mononuclear cells reveals distinct immune response landscapes of COVID-19 and influenza patients](https://doi.org/10.1016/j.immuni.2020.07.009)
+- [详细剖析SARS-CoV-2刺突蛋白突变对病毒感染性和抗原性的影响](https://mp.weixin.qq.com/s/iV6qIbmbYo0-lVMY8RT7Vg)

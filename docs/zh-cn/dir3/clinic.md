@@ -774,3 +774,5 @@
 - [The impact of mutations in SARS-CoV-2 spike on viral infectivity and antigenicity](https://www.sciencedirect.com/science/article/pii/S0092867420308771)
 - [降胆固醇药物能把COVID-19肺炎风险降到普通感冒?](https://mp.weixin.qq.com/s/G-6Ru1qvyFkoaGwAKyFFCw)
 - [The SARS-CoV-2 Transcriptional Metabolic Signature in Lung Epithelium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3650499)
+- [应对日益严重的COVID-19危机低收入国家迫切需要呼吸机 ：推荐开源简易呼吸机](https://mp.weixin.qq.com/s/5PtXxPdlFSCBOHEaT84caw)
+- [Easier access to mechanical ventilation worldwide: an urgent need for low income countries, especially in face of the growing COVID-19 crisis](https://erj.ersjournals.com/content/55/6/2001271?ctkey=wechat)

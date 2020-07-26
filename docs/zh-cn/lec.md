@@ -251,3 +251,5 @@
 - [数据导读回顾 | 张云浩、王文波：数据分析工具讲座](https://mp.weixin.qq.com/s/uQmiWb18Nl2c6YNpZ3xDXA)
 - [【最新日程】阿里健康 X CellPress生命科学周聚焦新冠科研](https://mp.weixin.qq.com/s/yUWb6Qmn5nt_O3XdY-riDQ)
 - [童朝晖：面对新冠疫情，为什么中国能打赢这场战争？](https://mp.weixin.qq.com/s/8b2fZP6De_IalUqGI87-bw)
+- [【直播】抗击疫情，“我是科学家”演讲活动即将开始！](https://mp.weixin.qq.com/s/WvKgOkF4JwtktaVwLEkNww)
+- [疫情模型讲座回顾 | 模型应用](https://mp.weixin.qq.com/s/Bdb8Z7dLpLzyh__erKqO8w)

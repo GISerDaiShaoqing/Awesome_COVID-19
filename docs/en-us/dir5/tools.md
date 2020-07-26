@@ -80,3 +80,5 @@
 - [Software to fit multivariate spatio-temporal areal unit models with data visualisations of the results](https://github.com/duncanplee/Covid-19-model)
 - [Projections of COVID-19, in standardized format](https://github.com/reichlab/covid19-forecast-hub)
 - [Generates an animation of COVID-19 data](https://github.com/juancri/covid19-animation-generator)
+- [Data extraction tools for the Covid-19 outbreak](https://github.com/epiforecasts/covidregionaldata)
+- [COVID-19 Coronavirus data scraped from government and curated data sources](https://github.com/covidatlas/coronadatascraper)

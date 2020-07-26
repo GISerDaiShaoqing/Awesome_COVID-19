@@ -719,3 +719,6 @@
 - [《自然-食品》| 粮食系统的战场](https://mp.weixin.qq.com/s/bcVAIsQNmTtIlzO7N-YhTw)
 - [美国最大规模血清学调查结果出炉：实际感染人数应高出6-24倍​｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/9wsK3UOOr9R1oCZne08t9g)
 - [健康、社会心理和社会问题源于新冠肺炎流行病，基于使用自然语言处理的社会媒体评论 | 网络科学论文速递21篇](https://mp.weixin.qq.com/s/TEvNwOkEzu5P4_uiLTWkkg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月25日）【中国科讯】](https://mp.weixin.qq.com/s/du925rqXzON6pbe2vqqBWw)
+- [超一半痊愈患者出现多种后遗症 | 一周学术热点汇总](https://mp.weixin.qq.com/s/QW_5-FHuj4SSiXV1RS2vVw)
+- [“特朗普欠我们一个道歉”：武汉病毒所石正丽正式发声 | 《科学》专访全文｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/C7ONMWd0OcGMScEEEKSKDQ)
