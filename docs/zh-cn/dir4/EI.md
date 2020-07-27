@@ -76,3 +76,6 @@
 - [Science论文｜为防止新冠疫情快速反弹，各国应紧密协作开展防控和解禁](https://mp.weixin.qq.com/s/SuY13Z8nth2FtmL8MQXO8Q)
 - [Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions](https://science.sciencemag.org/content/369/6500/eabb9789)
 - [Serial interval of SARS-CoV-2 was shortened over time by nonpharmaceutical interventions](https://science.sciencemag.org/content/early/2020/07/20/science.abc9004)
+- [通过接触者追踪减缓COVID-19传播，检测速度最关键！](https://mp.weixin.qq.com/s/d-NXK58oEJsxZcQlzPeQcw)
+- [Impact of delays on effectiveness of contact tracing strategies for COVID-19: a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30157-2/fulltext)
+- [Can digital contact tracing make up for lost time?](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30160-2/fulltext#%20)

@@ -867,3 +867,6 @@
 - [《柳叶刀》盛赞中国抗击新冠疫情的巨大贡献](https://mp.weixin.qq.com/s/yZtjBHJWhMQm0oSWJVRSQA)
 - [石正丽《Science》访谈：“特朗普欠我们一个道歉”！](https://mp.weixin.qq.com/s/i_tfYoYrQp7dR4mUd2CbyA)
 - [在远古时期的病毒大流行中，尼安德特人救了我们一命](https://mp.weixin.qq.com/s/KdDA8YvrmG2GVwOqG7lY_g)
+- [【研究】空气污染与新冠感染正相关：PM2.5每增加1微克/立方米，病例增加16%！](https://mp.weixin.qq.com/s/vZuDe_Jm7POyHmZdpPnUmg)
+- [Air pollution exposure linked to higher COVID-19 cases and deaths – new study](https://www.weforum.org/agenda/2020/07/air-pollution-exposure-covid19-cases-deaths-study)
+- [学习全球健康领域的好榜样](https://mp.weixin.qq.com/s/YKdArL-qEAeM19kMwcdtsw)

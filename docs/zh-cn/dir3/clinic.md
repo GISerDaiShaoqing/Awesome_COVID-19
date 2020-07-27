@@ -776,3 +776,6 @@
 - [The SARS-CoV-2 Transcriptional Metabolic Signature in Lung Epithelium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3650499)
 - [应对日益严重的COVID-19危机低收入国家迫切需要呼吸机 ：推荐开源简易呼吸机](https://mp.weixin.qq.com/s/5PtXxPdlFSCBOHEaT84caw)
 - [Easier access to mechanical ventilation worldwide: an urgent need for low income countries, especially in face of the growing COVID-19 crisis](https://erj.ersjournals.com/content/55/6/2001271?ctkey=wechat)
+- [新冠肺炎病毒受体ACE2的前世今生](https://mp.weixin.qq.com/s/e4elh4AEsYfqrgXFpWbfEg)
+- [Physiological and pathological regulation of ACE2, the SARS-CoV-2 receptor](https://www.sciencedirect.com/science/article/pii/S1043661820311415)
+- [Diagnosing SARS-CoV-2 Related Multisystem Inflammatory Syndrome in Children (MIS-C): Focus on the Gastrointestinal Tract and the Myocardium](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1080/5876871?searchresult=1)

@@ -475,3 +475,4 @@
 - [Immunity | 重大进展！高福/王福生等首次发现新冠患者的外周血单核细胞的动态变化特征](https://mp.weixin.qq.com/s/vklavucabBieu8L8OqbD2w)
 - [Single-cell sequencing of peripheral blood mononuclear cells reveals distinct immune response landscapes of COVID-19 and influenza patients](https://doi.org/10.1016/j.immuni.2020.07.009)
 - [详细剖析SARS-CoV-2刺突蛋白突变对病毒感染性和抗原性的影响](https://mp.weixin.qq.com/s/iV6qIbmbYo0-lVMY8RT7Vg)
+- [It is Time to Address Airborne Transmission of COVID-19](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798)

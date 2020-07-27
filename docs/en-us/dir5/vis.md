@@ -208,3 +208,4 @@
 - [大国担当，全球战疫中的中国奇迹 | 全球疫情态势可视化](https://mp.weixin.qq.com/s/S7RmObQCD_oxpL3Iw4fsOg)
 - [【干货】使用FineBI制作全球疫情地图](https://mp.weixin.qq.com/s/lJP0l75YS1ywfZ0y6Xp4uQ)
 - [Tracking the impact of COVID-19 in India](https://github.com/covid19india/covid19india-react)
+- [File:Weekly deaths w9-w22 2020.gif](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Weekly_deaths_w9-w22_2020.gif)

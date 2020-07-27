@@ -82,3 +82,4 @@
 - [Generates an animation of COVID-19 data](https://github.com/juancri/covid19-animation-generator)
 - [Data extraction tools for the Covid-19 outbreak](https://github.com/epiforecasts/covidregionaldata)
 - [COVID-19 Coronavirus data scraped from government and curated data sources](https://github.com/covidatlas/coronadatascraper)
+- [隔离宅在家，我自己做了个社交距离检测器](https://mp.weixin.qq.com/s/jU2mjes0a2eFNc86M1gS1g)

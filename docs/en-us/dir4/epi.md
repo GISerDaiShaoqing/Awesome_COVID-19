@@ -293,3 +293,4 @@
 - [Accounting for Underreporting in Mathematical Modeling of Transmission and Control of COVID-19 in Iran](https://www.frontiersin.org/articles/10.3389/fphy.2020.00289/full)
 - [Epidemiological, socio-demographic and clinical features of the early phase of the COVID-19 epidemic in Ecuador](https://www.researchgate.net/publication/342109349_Epidemiological_socio-demographic_and_clinical_features_of_the_early_phase_of_the_COVID-19_epidemic_in_Ecuador)
 - [Nature 子刊重磅：腾讯与钟南山团队发布新冠危重症 AI 预测模型 Cox](https://mp.weixin.qq.com/s/UnFvzvAQIlPpDNnhaAJkKA)
+- [Factors Influencing Global Variations in COVID-19 Cases and Fatalities; A Review](https://www.mdpi.com/2227-9032/8/3/216)

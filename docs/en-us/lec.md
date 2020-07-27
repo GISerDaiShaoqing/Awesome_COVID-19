@@ -253,3 +253,4 @@
 - [童朝晖：面对新冠疫情，为什么中国能打赢这场战争？](https://mp.weixin.qq.com/s/8b2fZP6De_IalUqGI87-bw)
 - [【直播】抗击疫情，“我是科学家”演讲活动即将开始！](https://mp.weixin.qq.com/s/WvKgOkF4JwtktaVwLEkNww)
 - [疫情模型讲座回顾 | 模型应用](https://mp.weixin.qq.com/s/Bdb8Z7dLpLzyh__erKqO8w)
+- [【在线速递】胸腺肽α-1保护严重COVID-19患者 T 细胞免受过度活化](https://mp.weixin.qq.com/s/Y7cqBuf4y7HMOfOrY4qMgw)
