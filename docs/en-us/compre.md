@@ -870,3 +870,6 @@
 - [【研究】空气污染与新冠感染正相关：PM2.5每增加1微克/立方米，病例增加16%！](https://mp.weixin.qq.com/s/vZuDe_Jm7POyHmZdpPnUmg)
 - [Air pollution exposure linked to higher COVID-19 cases and deaths – new study](https://www.weforum.org/agenda/2020/07/air-pollution-exposure-covid19-cases-deaths-study)
 - [学习全球健康领域的好榜样](https://mp.weixin.qq.com/s/YKdArL-qEAeM19kMwcdtsw)
+- [浙江大学杨赓团队：遥操作机器人技术在新冠隔离病房诊疗中的应用](https://mp.weixin.qq.com/s/p2Ai2U2xujGa-Cm8nv5MBg)
+- [Keep Healthcare Workers Safe: Application of Teleoperated Robot in Isolation Ward for COVID-19 Prevention and Control](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0)
+- [后疫情时代复苏 | 四大投资领域推动海洋可持续发展](https://mp.weixin.qq.com/s/0SqsPDwGIqjOCe8nqfrxew)

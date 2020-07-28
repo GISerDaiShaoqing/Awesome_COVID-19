@@ -728,3 +728,6 @@
 - [24小时热门｜研究首次证实：新冠病毒不会通过蚊媒传播](https://mp.weixin.qq.com/s/yignOWNWMJ2oVMhrF2GRnA)
 - [Science 一周论文导读 | 2020年7月17日](https://mp.weixin.qq.com/s/xNtPD_6Iz_lbyUvh7wQq9w)
 - [Nature 一周论文导读 | 2020年7月16日](https://mp.weixin.qq.com/s/Lx0F3aPlFFFBSoxL-mVboQ)
+- [新冠疫情期间部分国家早产率明显降低| 自然每周简报](https://mp.weixin.qq.com/s/OgWOdNolWyieiKxk2ECoOg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月27日）【中国科讯】](https://mp.weixin.qq.com/s/ur2dgHyk4ufJk2bWdoeiPA)
+- [哈佛研究揭秘新冠感染者为何会丧失嗅觉​ | 科研圈日报](https://mp.weixin.qq.com/s/O5Yutdvyqf0X6voakCb0gw)

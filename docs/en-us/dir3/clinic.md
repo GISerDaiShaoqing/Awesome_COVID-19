@@ -779,3 +779,5 @@
 - [新冠肺炎病毒受体ACE2的前世今生](https://mp.weixin.qq.com/s/e4elh4AEsYfqrgXFpWbfEg)
 - [Physiological and pathological regulation of ACE2, the SARS-CoV-2 receptor](https://www.sciencedirect.com/science/article/pii/S1043661820311415)
 - [Diagnosing SARS-CoV-2 Related Multisystem Inflammatory Syndrome in Children (MIS-C): Focus on the Gastrointestinal Tract and the Myocardium](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1080/5876871?searchresult=1)
+- [新冠疫苗研发进程：安全性已获证实，有效性尚待确认](https://mp.weixin.qq.com/s/cz2En6MlNBS4Je0_Udk1Lg)
+- [Coronavirus vaccines leap through safety trials — but which will work is anybody’s guess](https://www.nature.com/articles/d41586-020-02174-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02174-y)

@@ -476,3 +476,6 @@
 - [Single-cell sequencing of peripheral blood mononuclear cells reveals distinct immune response landscapes of COVID-19 and influenza patients](https://doi.org/10.1016/j.immuni.2020.07.009)
 - [详细剖析SARS-CoV-2刺突蛋白突变对病毒感染性和抗原性的影响](https://mp.weixin.qq.com/s/iV6qIbmbYo0-lVMY8RT7Vg)
 - [It is Time to Address Airborne Transmission of COVID-19](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798)
+- [比较了24种冠状病毒后，研究发现SARS病毒和新冠病毒有一种相同的蛋白质](https://mp.weixin.qq.com/s/RkcuyHmMgfr-H0Tgz3qqgA)
+- [Genetic Comparison of 24 Coronaviruses – Including SARS-CoV-2 Viruses From the U.S. and China – Yields Clues to COVID-19 Treatments](https://scitechdaily.com/genetic-comparison-of-24-coronaviruses-including-sars-cov-2-viruses-from-the-u-s-and-china-yields-clues-to-covid-19-treatments/)
+- [Functional Pangenome Analysis Shows Key Features of E Protein Are Preserved in SARS and SARS-CoV-2](https://www.frontiersin.org/articles/10.3389/fcimb.2020.00405/full)
