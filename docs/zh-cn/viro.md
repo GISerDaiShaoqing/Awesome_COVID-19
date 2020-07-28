@@ -479,3 +479,5 @@
 - [比较了24种冠状病毒后，研究发现SARS病毒和新冠病毒有一种相同的蛋白质](https://mp.weixin.qq.com/s/RkcuyHmMgfr-H0Tgz3qqgA)
 - [Genetic Comparison of 24 Coronaviruses – Including SARS-CoV-2 Viruses From the U.S. and China – Yields Clues to COVID-19 Treatments](https://scitechdaily.com/genetic-comparison-of-24-coronaviruses-including-sars-cov-2-viruses-from-the-u-s-and-china-yields-clues-to-covid-19-treatments/)
 - [Functional Pangenome Analysis Shows Key Features of E Protein Are Preserved in SARS and SARS-CoV-2](https://www.frontiersin.org/articles/10.3389/fcimb.2020.00405/full)
+- [Nature Microbiology | 测定SARS-CoV-2从蝙蝠病毒中分化的时间](https://mp.weixin.qq.com/s/HxvixFjrW9t0yXcJz2oO_g)
+- [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.nature.com/articles/s41564-020-0771-4)

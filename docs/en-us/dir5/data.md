@@ -202,3 +202,4 @@
 - [Datos-COVID19](https://github.com/MinCiencia/Datos-COVID19)
 - [又来找茬！美司法部起诉两名“中国黑客”，妄称其“企图窃取新冠疫苗机密”数据](https://mp.weixin.qq.com/s/g_S0dgYDZ6gf1w3gdtm29g)
 - [Escovid19data: Capturando datos de COVID-19 por provincias en España](https://github.com/montera34/escovid19data)
+- [API for Current cases and more stuff about COVID-19 and Influenza](https://github.com/disease-sh/API)

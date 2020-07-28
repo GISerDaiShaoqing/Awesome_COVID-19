@@ -731,3 +731,4 @@
 - [新冠疫情期间部分国家早产率明显降低| 自然每周简报](https://mp.weixin.qq.com/s/OgWOdNolWyieiKxk2ECoOg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月27日）【中国科讯】](https://mp.weixin.qq.com/s/ur2dgHyk4ufJk2bWdoeiPA)
 - [哈佛研究揭秘新冠感染者为何会丧失嗅觉​ | 科研圈日报](https://mp.weixin.qq.com/s/O5Yutdvyqf0X6voakCb0gw)
+- [流行病心理学如何在社交媒体上发挥作用: 应对新型冠状病毒肺炎流行病的进化 | 网络科学论文速递22篇](https://mp.weixin.qq.com/s/auNsVEEkHvMqxDzN36EWUg)

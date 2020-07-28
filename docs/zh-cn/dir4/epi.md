@@ -294,3 +294,7 @@
 - [Epidemiological, socio-demographic and clinical features of the early phase of the COVID-19 epidemic in Ecuador](https://www.researchgate.net/publication/342109349_Epidemiological_socio-demographic_and_clinical_features_of_the_early_phase_of_the_COVID-19_epidemic_in_Ecuador)
 - [Nature 子刊重磅：腾讯与钟南山团队发布新冠危重症 AI 预测模型 Cox](https://mp.weixin.qq.com/s/UnFvzvAQIlPpDNnhaAJkKA)
 - [Factors Influencing Global Variations in COVID-19 Cases and Fatalities; A Review](https://www.mdpi.com/2227-9032/8/3/216)
+- [Science：追踪在巴西流行的新冠病毒毒株的传播率和起源](https://mp.weixin.qq.com/s/mGDvRYoVuV8At2Ncsv42ag)
+- [Evolution and epidemic spread of SARS-CoV-2 in Brazil](https://science.sciencemag.org/content/early/2020/07/22/science.abd2161)
+- [牛津大学建立群体感染模型，预测新冠病毒灭绝时间](https://mp.weixin.qq.com/s/1_y-R_j7qB_2Q_5Aip7EgQ)
+- [Dynamics of SARS-CoV-2 with Waning Immunity in the UK Population](https://www.medrxiv.org/content/10.1101/2020.07.24.20157982v1)
