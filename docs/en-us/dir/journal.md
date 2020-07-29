@@ -1,6 +1,6 @@
 # Journal
 - [Lancet](https://www.thelancet.com/coronavirus?dgcid=kr_pop-up_tlcoronavirus20)
-- [Cell oress](https://www.cell.com/2019-nCOV)
+- [Cell press](https://www.cell.com/2019-nCOV)
 - [Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
 - [The NEW ENGLAND JOURNAL of MEDICINE](https://www.nejm.org/coronavirus)
 - [NEJM推出Covid-19病例进阶，前任和现任主编共同执笔，快来考/学一下](https://mp.weixin.qq.com/s/bKd8pU7cGqs6wqpa0u0pdg)
