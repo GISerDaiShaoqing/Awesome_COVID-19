@@ -481,3 +481,4 @@
 - [Functional Pangenome Analysis Shows Key Features of E Protein Are Preserved in SARS and SARS-CoV-2](https://www.frontiersin.org/articles/10.3389/fcimb.2020.00405/full)
 - [Nature Microbiology | 测定SARS-CoV-2从蝙蝠病毒中分化的时间](https://mp.weixin.qq.com/s/HxvixFjrW9t0yXcJz2oO_g)
 - [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.nature.com/articles/s41564-020-0771-4)
+- [测定SARS-CoV-2从蝙蝠病毒中分化的时间 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/K2BISpcjtUpKeulVhbuNkw)

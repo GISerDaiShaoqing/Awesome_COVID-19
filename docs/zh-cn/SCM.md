@@ -77,5 +77,6 @@
 - [后疫情时代︱新冠疫情让我们认清高速公路,而乘公共交通在日本和法国却出人意料的安全 (两则)](https://mp.weixin.qq.com/s/TK1hNLwEJhJeDGh8gNjsAQ)
 - [后疫情时代｜对智慧城市的质疑与展望 (两则)](https://mp.weixin.qq.com/s/a-0ywk9rGQQ3f-pMgE8nlQ)
 - [周末故事｜疫情让我们看到了无车化的未来，完美！美国城市空间为何还要浪费在汽车上(两则)](https://mp.weixin.qq.com/s/VwIP2Ql3qSvxLqqmv_yGOw)
+- [后疫情时代︱波士顿咨询集团BCG观察: COVID如何重塑未来出行](https://mp.weixin.qq.com/s/G66wKzOoyznOUDHZ6B8-Og)
 
 ![](/img/SCM.jpg)

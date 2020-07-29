@@ -873,3 +873,7 @@
 - [浙江大学杨赓团队：遥操作机器人技术在新冠隔离病房诊疗中的应用](https://mp.weixin.qq.com/s/p2Ai2U2xujGa-Cm8nv5MBg)
 - [Keep Healthcare Workers Safe: Application of Teleoperated Robot in Isolation Ward for COVID-19 Prevention and Control](https://cjme.springeropen.com/articles/10.1186/s10033-020-00464-0)
 - [后疫情时代复苏 | 四大投资领域推动海洋可持续发展](https://mp.weixin.qq.com/s/0SqsPDwGIqjOCe8nqfrxew)
+- [因为新冠疫情，我们能更好地预测地震了｜科学 60 秒](https://mp.weixin.qq.com/s/Td9tMfGjAv2eZLth-QCP8g)
+- [Seismologists Find the World Quieted Down during Pandemic Lockdowns](https://www.scientificamerican.com/podcast/episode/seismologists-find-the-world-quieted-down-during-pandemic-lockdowns/)
+- [《柳叶刀》社论 | 疫情之后，再无“常态”](https://mp.weixin.qq.com/s/r6WAz5nMhBGiVB00BoMWyA)
+- [No more normal](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31591-9/fulltext)

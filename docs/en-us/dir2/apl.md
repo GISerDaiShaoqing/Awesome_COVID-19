@@ -732,3 +732,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月27日）【中国科讯】](https://mp.weixin.qq.com/s/ur2dgHyk4ufJk2bWdoeiPA)
 - [哈佛研究揭秘新冠感染者为何会丧失嗅觉​ | 科研圈日报](https://mp.weixin.qq.com/s/O5Yutdvyqf0X6voakCb0gw)
 - [流行病心理学如何在社交媒体上发挥作用: 应对新型冠状病毒肺炎流行病的进化 | 网络科学论文速递22篇](https://mp.weixin.qq.com/s/auNsVEEkHvMqxDzN36EWUg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月28日）【中国科讯】](https://mp.weixin.qq.com/s/Hla6CvEMug1lKG1ENRd0Vw)
+- [高福：我已接种新冠候选疫苗，希望增强公众对疫苗的信心 | 科研圈日报](https://mp.weixin.qq.com/s/RoQuJoFI0rS6bEo3WEQMYQ)
+- [在危机中迭代升级——中国疾控中心研究生院高福院长2020届研究生毕业典礼致辞](https://mp.weixin.qq.com/s/CpxCQERKrkkyDqJqBB-e7Q)
+- [考虑社会成本的新冠肺炎感染率的最优控制 |网络科学论文速递21篇](https://mp.weixin.qq.com/s/_hwBbpOa4hMqGoJ12V4wOg)
+- [高福演讲：“发泄情绪是本能，保持沉默才是修行”](https://mp.weixin.qq.com/s/y_jhmA5mZIVSX7ocON1gkg)

@@ -298,3 +298,4 @@
 - [Evolution and epidemic spread of SARS-CoV-2 in Brazil](https://science.sciencemag.org/content/early/2020/07/22/science.abd2161)
 - [牛津大学建立群体感染模型，预测新冠病毒灭绝时间](https://mp.weixin.qq.com/s/1_y-R_j7qB_2Q_5Aip7EgQ)
 - [Dynamics of SARS-CoV-2 with Waning Immunity in the UK Population](https://www.medrxiv.org/content/10.1101/2020.07.24.20157982v1)
+- [钟南山团队携手腾讯研发新冠重症AI预测模型，成果登上Nature子刊](https://mp.weixin.qq.com/s/wcG7SggHO6Cja8kAvPKvtQ)
