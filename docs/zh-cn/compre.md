@@ -877,3 +877,6 @@
 - [Seismologists Find the World Quieted Down during Pandemic Lockdowns](https://www.scientificamerican.com/podcast/episode/seismologists-find-the-world-quieted-down-during-pandemic-lockdowns/)
 - [《柳叶刀》社论 | 疫情之后，再无“常态”](https://mp.weixin.qq.com/s/r6WAz5nMhBGiVB00BoMWyA)
 - [No more normal](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31591-9/fulltext)
+- [【研究】新冠疫情对美国汽油需求的影响：暂缓经济重启，有利于需求反弹](https://mp.weixin.qq.com/s/HihLafJEUztdCtBpabnhKA)
+- [Machine learning model to project the impact of COVID-19 on US motor gasoline demand](https://www.nature.com/articles/s41560-020-0662-1)
+- [COVID-19 lockdowns cause global air pollution declines](https://www.pnas.org/content/early/2020/07/23/2006853117)

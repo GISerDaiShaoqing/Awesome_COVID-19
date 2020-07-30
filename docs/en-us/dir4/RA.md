@@ -36,3 +36,4 @@
 - [论文推荐 | 夏吉喆, 周颖, 李珍, 李帆, 乐阳, 程涛,李清泉:城市时空大数据驱动的新型冠状病毒传播风险评估](https://mp.weixin.qq.com/s/Pp0h8hustN215mJEnA99Ow)
 - [城市时空大数据驱动的新型冠状病毒传播风险评估——以粤港澳大湾区为例](http://xb.sinomaps.com/article/2020/1001-1595/2020-6-671.htm)
 - [The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study](https://www.researchgate.net/publication/343205201_The_risk_of_COVID-19_transmission_in_train_passengers_an_epidemiological_and_modelling_study)
+- [Compliance and containment in social distancing: mathematical modeling of COVID-19 across townships](https://www.medrxiv.org/content/10.1101/2020.06.01.20119073v1)

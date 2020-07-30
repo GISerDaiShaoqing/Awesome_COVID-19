@@ -737,3 +737,6 @@
 - [在危机中迭代升级——中国疾控中心研究生院高福院长2020届研究生毕业典礼致辞](https://mp.weixin.qq.com/s/CpxCQERKrkkyDqJqBB-e7Q)
 - [考虑社会成本的新冠肺炎感染率的最优控制 |网络科学论文速递21篇](https://mp.weixin.qq.com/s/_hwBbpOa4hMqGoJ12V4wOg)
 - [高福演讲：“发泄情绪是本能，保持沉默才是修行”](https://mp.weixin.qq.com/s/y_jhmA5mZIVSX7ocON1gkg)
+- [全世界都对新冠疫苗翘首以盼，你知道疫苗在中国是怎么普及的吗？](https://mp.weixin.qq.com/s/OykrRcejQvw49ONj7nEAVA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月29日）【中国科讯】](https://mp.weixin.qq.com/s/PANp5PIm8-y-MLJX5pbYnQ)
+- [Moderna 疫苗启动 III 期临床试验，计划招募 3 万人 | 科研圈日报](https://mp.weixin.qq.com/s/xcb8NA2PfPayRHOlE6zkEA)

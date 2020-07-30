@@ -482,3 +482,5 @@
 - [Nature Microbiology | 测定SARS-CoV-2从蝙蝠病毒中分化的时间](https://mp.weixin.qq.com/s/HxvixFjrW9t0yXcJz2oO_g)
 - [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.nature.com/articles/s41564-020-0771-4)
 - [测定SARS-CoV-2从蝙蝠病毒中分化的时间 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/K2BISpcjtUpKeulVhbuNkw)
+- [Nature | 连续取得突破！张康/魏霞蔚/逯光文开发出新冠疫苗：在动物试验中有效，有望进一步临床试验](https://mp.weixin.qq.com/s/tQ0mtkMTdANZ8ojfZvlHOQ)
+- [A vaccine targeting the RBD of the S protein of SARS-CoV-2 induces protective immunity](https://www.nature.com/articles/s41586-020-2599-8)
