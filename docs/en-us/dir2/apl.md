@@ -740,3 +740,4 @@
 - [全世界都对新冠疫苗翘首以盼，你知道疫苗在中国是怎么普及的吗？](https://mp.weixin.qq.com/s/OykrRcejQvw49ONj7nEAVA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月29日）【中国科讯】](https://mp.weixin.qq.com/s/PANp5PIm8-y-MLJX5pbYnQ)
 - [Moderna 疫苗启动 III 期临床试验，计划招募 3 万人 | 科研圈日报](https://mp.weixin.qq.com/s/xcb8NA2PfPayRHOlE6zkEA)
+- [24小时热门｜NEJM | 新冠轻症患者抗体快速减少，免疫力会随之消失吗？](https://mp.weixin.qq.com/s/EYR7vzcoeg9LbAJbBQZngQ)

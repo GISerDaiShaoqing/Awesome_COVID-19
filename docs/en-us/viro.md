@@ -484,3 +484,5 @@
 - [测定SARS-CoV-2从蝙蝠病毒中分化的时间 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/K2BISpcjtUpKeulVhbuNkw)
 - [Nature | 连续取得突破！张康/魏霞蔚/逯光文开发出新冠疫苗：在动物试验中有效，有望进一步临床试验](https://mp.weixin.qq.com/s/tQ0mtkMTdANZ8ojfZvlHOQ)
 - [A vaccine targeting the RBD of the S protein of SARS-CoV-2 induces protective immunity](https://www.nature.com/articles/s41586-020-2599-8)
+- [Cell Host & Microbe：又一批潜在人兽共患流感病毒被发现！](https://mp.weixin.qq.com/s/ZNJyXc0lab70EkKxMBVqsg)
+- [Surveillance of EuropeanDomestic Pig Populations Identifies an Emerging Reservoir of PotentiallyZoonotic Swine Influenza A Viruses](https://doi.org/10.1016/j.chom.2020.07.006)

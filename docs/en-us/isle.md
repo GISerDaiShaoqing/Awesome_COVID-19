@@ -13,5 +13,7 @@
 - [Towards precision management of cardiovascular patients with COVID-19 to reduce mortality](https://www.sciencedirect.com/science/article/pii/S0033062020300840?via%3Dihub)
 - [新闻快讯 |我们需要一个全国智能综合症状监测系统](https://mp.weixin.qq.com/s/-3Vsbl4LGQMxOlbq8SOVhQ)
 - [China needs a national intelligent syndromic surveillance system](https://www.nature.com/articles/s41591-020-0921-5?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_deeplink_PID2190813&utm_content=deeplink)
+- [Time to spatialise epidemiology in China](https://www.sciencedirect.com/science/article/pii/S2214109X20301200?via%3Dihub)
+- [Preferential Tax Policies: An Invisible Hand behind Preparedness for Public Health Emergencies](https://www.ijhpm.com/article_3872.html)
 
 ![](/img/ISLEwechat.jpg)

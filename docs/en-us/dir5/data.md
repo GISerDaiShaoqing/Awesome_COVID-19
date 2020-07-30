@@ -205,3 +205,4 @@
 - [API for Current cases and more stuff about COVID-19 and Influenza](https://github.com/disease-sh/API)
 - [清华大学 AMiner 团队发布 “新冠相关论文合作者网络”，强大数据集免费下载](https://mp.weixin.qq.com/s/7-xrkZmVRkF95V087SU40w)
 - [A volunteer-driven, crowd-sourced database for COVID-19 stats & patient tracing in India.](https://github.com/covid19india/api)
+- [在 COVID-19 业务连续性计划中使用数据的四个步骤](https://mp.weixin.qq.com/s/18BDjoOLJsWiXYo1319FCg)

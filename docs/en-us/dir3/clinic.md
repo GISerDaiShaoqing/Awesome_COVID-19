@@ -781,3 +781,8 @@
 - [Diagnosing SARS-CoV-2 Related Multisystem Inflammatory Syndrome in Children (MIS-C): Focus on the Gastrointestinal Tract and the Myocardium](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1080/5876871?searchresult=1)
 - [新冠疫苗研发进程：安全性已获证实，有效性尚待确认](https://mp.weixin.qq.com/s/cz2En6MlNBS4Je0_Udk1Lg)
 - [Coronavirus vaccines leap through safety trials — but which will work is anybody’s guess](https://www.nature.com/articles/d41586-020-02174-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02174-y)
+- [新冠病毒入肺更“伤心”！75%以上康复者出现与心脏病发作相当的长期异常损害](https://mp.weixin.qq.com/s/u8UbME3qDfg-fKHIR4-2rA)
+- [Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916?resultClick=1)
+- [Is COVID-19 Creating a Generation of Heart Failure Patients?](https://www.thedailybeast.com/is-covid-19-creating-a-generation-of-heart-failure-patients)
+- [真牛！Nature：华西医院226个氨基酸研发出新冠疫苗！](https://mp.weixin.qq.com/s/OYXgUbTZ7alq1HCbbP4t-A)
+- [A vaccine targeting the RBD of the S protein of SARS-CoV-2 induces protective immunity](https://www.nature.com/articles/s41586-020-2599-8)

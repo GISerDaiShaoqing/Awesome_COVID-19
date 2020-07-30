@@ -505,3 +505,4 @@
 - [范恒山：疫情冲击视角下的新型城镇化的推进方向与特大城市的建设格局](https://mp.weixin.qq.com/s/bAECa9KJmZ0SNFSV9JQ9RQ)
 - [全球汇 | 2020全球文化部长在线会议——新冠肺炎对文化部门的影响与公共政策应对（三）【连载终】](https://mp.weixin.qq.com/s/yobdjrzT6Gmkx4e8bcsaIw)
 - [全球汇 | 加拿大规划界的最新疫情应对——“路标报告”和“重回主街”](https://mp.weixin.qq.com/s/_FFGBjpKLXgerP7ViaT1zg)
+- [爱马仕、空客、壳牌，看看这些大牌企业，哪家赚钱，哪家亏本？](https://mp.weixin.qq.com/s/jWhl7fDQYE4sqxjN54KeNw)
