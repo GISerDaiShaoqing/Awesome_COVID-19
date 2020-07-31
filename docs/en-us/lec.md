@@ -255,3 +255,5 @@
 - [疫情模型讲座回顾 | 模型应用](https://mp.weixin.qq.com/s/Bdb8Z7dLpLzyh__erKqO8w)
 - [【在线速递】胸腺肽α-1保护严重COVID-19患者 T 细胞免受过度活化](https://mp.weixin.qq.com/s/Y7cqBuf4y7HMOfOrY4qMgw)
 - [中国科学院王启华研究员：传染病最佳隔离期的确定与估计及基于新冠肺炎的数据分析](https://wxdb899618c30a4179.h5.xiaoe-tech.com/v1/course/video/v_5ee06f6305b3d_saXfOtOO?available=1&available_product=1&entry=2&entry_type=2001&from=groupmessage&is_redirect=1&pro_id=p_5edb9edaaea7c_oLekNUzf&scene=%E5%88%86%E4%BA%AB&share_type=100&share_user_id=u_5ec23c1d364e7_o9gQkbgCZH&type=2)
+- [【活动邀请】“后疫情时代国际合作—中新广州知识城&霍普金斯创新创业俱乐部医药健康科技项目云端投融资交流会”](https://mp.weixin.qq.com/s/AsPjnSxA7UPqmilqgTf8gw)
+- [啜英咀华｜阿里健康X Cell Press生命科学周新冠科研问答](https://mp.weixin.qq.com/s/-hZP3LwtSeHwkYHdyKaUpA)

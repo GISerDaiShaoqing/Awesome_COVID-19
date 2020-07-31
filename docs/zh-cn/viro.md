@@ -486,3 +486,7 @@
 - [A vaccine targeting the RBD of the S protein of SARS-CoV-2 induces protective immunity](https://www.nature.com/articles/s41586-020-2599-8)
 - [Cell Host & Microbe：又一批潜在人兽共患流感病毒被发现！](https://mp.weixin.qq.com/s/ZNJyXc0lab70EkKxMBVqsg)
 - [Surveillance of EuropeanDomestic Pig Populations Identifies an Emerging Reservoir of PotentiallyZoonotic Swine Influenza A Viruses](https://doi.org/10.1016/j.chom.2020.07.006)
+- [Science | 极度缅怀！生命最后一刻仍奋战在科研一线！周育森等人开发出新冠小鼠模型](https://mp.weixin.qq.com/s/N7068Dhp_4T4LnchfcfDiA)
+- [Adaptation of SARS-CoV-2 in BALB/c mice for testing vaccine efficac](https://science.sciencemag.org/content/early/2020/07/29/science.abc4730)
+- [新冠病毒的源头找到了？研究人员：早在1969年就已经逐渐出现](https://mp.weixin.qq.com/s/crqnF8iw8-CvWDk8MXTHLQ)
+- [Researchers identify evolutionary origins of SARS-CoV-2](https://phys.org/news/2020-07-evolutionary-sars-cov-.html)

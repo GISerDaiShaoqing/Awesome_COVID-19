@@ -880,3 +880,7 @@
 - [【研究】新冠疫情对美国汽油需求的影响：暂缓经济重启，有利于需求反弹](https://mp.weixin.qq.com/s/HihLafJEUztdCtBpabnhKA)
 - [Machine learning model to project the impact of COVID-19 on US motor gasoline demand](https://www.nature.com/articles/s41560-020-0662-1)
 - [COVID-19 lockdowns cause global air pollution declines](https://www.pnas.org/content/early/2020/07/23/2006853117)
+- [“疫苗民族主义”威胁新冠疫苗公平分配](https://mp.weixin.qq.com/s/Y4z8wtiv-clwYNBhSSyiFA)
+- [院士专家解读大数据AI如何抗“疫”](https://mp.weixin.qq.com/s/a3y9lv5BA-K7eOMnIh4X9g)
+- [COVID-19如何威胁全球粮食安全｜文章精选](https://mp.weixin.qq.com/s/WZAB_8suf5yiOiwGI1AxfQ)
+- [COVID-19 risks to global food security](https://science.sciencemag.org/content/369/6503/500)

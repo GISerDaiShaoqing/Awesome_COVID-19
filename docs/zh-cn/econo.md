@@ -506,3 +506,5 @@
 - [全球汇 | 2020全球文化部长在线会议——新冠肺炎对文化部门的影响与公共政策应对（三）【连载终】](https://mp.weixin.qq.com/s/yobdjrzT6Gmkx4e8bcsaIw)
 - [全球汇 | 加拿大规划界的最新疫情应对——“路标报告”和“重回主街”](https://mp.weixin.qq.com/s/_FFGBjpKLXgerP7ViaT1zg)
 - [爱马仕、空客、壳牌，看看这些大牌企业，哪家赚钱，哪家亏本？](https://mp.weixin.qq.com/s/jWhl7fDQYE4sqxjN54KeNw)
+- [全球汇 | 加拿大规划界的最新疫情应对——“路标报告”和“重回主街”](https://mp.weixin.qq.com/s/FBNXsGuXdvv0-YdknAV1KQ)
+- [周振华：全球化的“终结”？后疫情全球城市的新命题](https://mp.weixin.qq.com/s/KGrI0_qO4tPOM8DlGijbdg)
