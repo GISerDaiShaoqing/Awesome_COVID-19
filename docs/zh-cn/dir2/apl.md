@@ -747,3 +747,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月30日）【中国科讯】](https://mp.weixin.qq.com/s/jJ3kagumwgXp7nPxs3VY-Q)
 - [院所成果 | 中科院2020年第2季度两类亮点工作筛选结果发布【中国科讯】](https://mp.weixin.qq.com/s/fEkVaJabopwuhXjoPsNv5w)
 - [24小时热门｜这款3D手环，让VR游戏可以告别手柄；新冠病毒或能产生突变，逃避抗体识别](https://mp.weixin.qq.com/s/nq8UK50NOEkvSsSfHj5f8Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月31日）【中国科讯】](https://mp.weixin.qq.com/s/QEM5sSVWuJ_uP9ped3r0kg)
+- [新冠肺炎期间，旅行人员乘坐交通工具如何做好防护？](https://mp.weixin.qq.com/s/FoH9fCege0lGUlwwCkpeVQ)

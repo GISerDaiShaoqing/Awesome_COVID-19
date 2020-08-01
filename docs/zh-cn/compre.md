@@ -884,3 +884,4 @@
 - [院士专家解读大数据AI如何抗“疫”](https://mp.weixin.qq.com/s/a3y9lv5BA-K7eOMnIh4X9g)
 - [COVID-19如何威胁全球粮食安全｜文章精选](https://mp.weixin.qq.com/s/WZAB_8suf5yiOiwGI1AxfQ)
 - [COVID-19 risks to global food security](https://science.sciencemag.org/content/369/6503/500)
+- [Nature 视频 | 新冠病毒6个月以来的未解难题](https://mp.weixin.qq.com/s/4xZ9ZxDgNgSygQOHcTG6tA)

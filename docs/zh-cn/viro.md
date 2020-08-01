@@ -490,3 +490,6 @@
 - [Adaptation of SARS-CoV-2 in BALB/c mice for testing vaccine efficac](https://science.sciencemag.org/content/early/2020/07/29/science.abc4730)
 - [新冠病毒的源头找到了？研究人员：早在1969年就已经逐渐出现](https://mp.weixin.qq.com/s/crqnF8iw8-CvWDk8MXTHLQ)
 - [Researchers identify evolutionary origins of SARS-CoV-2](https://phys.org/news/2020-07-evolutionary-sars-cov-.html)
+- [Science：从结构上揭示新冠病毒蛋白Nsp1关闭宿主蛋白合成机制](https://mp.weixin.qq.com/s/lB-t9eExB7jMcDFkXlo6iw)
+- [Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/07/16/science.abc8665)
+- [COVID-19: Viral shutdown of protein synthesis method found](https://phys.org/news/2020-07-covid-viral-shutdown-protein-synthesis.html)
