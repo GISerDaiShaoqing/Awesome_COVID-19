@@ -749,3 +749,7 @@
 - [24小时热门｜这款3D手环，让VR游戏可以告别手柄；新冠病毒或能产生突变，逃避抗体识别](https://mp.weixin.qq.com/s/nq8UK50NOEkvSsSfHj5f8Q)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月31日）【中国科讯】](https://mp.weixin.qq.com/s/QEM5sSVWuJ_uP9ped3r0kg)
 - [新冠肺炎期间，旅行人员乘坐交通工具如何做好防护？](https://mp.weixin.qq.com/s/FoH9fCege0lGUlwwCkpeVQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月1日）【中国科讯】](https://mp.weixin.qq.com/s/lRe3Uup5w66iqLd71J9FQQ)
+- [城市结构对新冠肺炎蔓延的影响 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/t9B5xQyiaPk5JvtnPPlY4w)
+- [欧美大学“至暗时刻”到来，多所百年高校永久关闭 | 一周动态](https://mp.weixin.qq.com/s/9I7hBovqWLa9SBpESMlA6A)
+- [高福称已接种新冠候选疫苗；字节跳动副总裁马维英宣布辞职，将入职清华；世界最大“人造太阳”启动组装 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/lIoFkZVaA4AfHlTV-GGt1A)

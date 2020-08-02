@@ -793,3 +793,5 @@
 - [Science：新冠病毒是如何导致新冠肺炎的](https://mp.weixin.qq.com/s/r3ynVmaUZboQqC5zkVTjRQ)
 - [How does SARS-CoV-2 cause COVID-19?](https://science.sciencemag.org/content/369/6503/510)
 - [Nature：牛津疫苗结果正式发表](https://mp.weixin.qq.com/s/htzBGJmtJqf1eVZuwdr26w)
+- [无1期，无2期，无3期的三无新冠疫苗，20几位科学家自己先接种了起来](https://mp.weixin.qq.com/s/KwzYwhjxaBr7DoJvlJvDhA)
+- [Covid-19 vaccine trials are showing promising results. A lot can still go wrong. Covid-19](https://www.vox.com/21311768/covid-19-coronavirus-vaccine-available-moderna-fauci?__c=1)

@@ -885,3 +885,7 @@
 - [COVID-19如何威胁全球粮食安全｜文章精选](https://mp.weixin.qq.com/s/WZAB_8suf5yiOiwGI1AxfQ)
 - [COVID-19 risks to global food security](https://science.sciencemag.org/content/369/6503/500)
 - [Nature 视频 | 新冠病毒6个月以来的未解难题](https://mp.weixin.qq.com/s/4xZ9ZxDgNgSygQOHcTG6tA)
+- [炒了这么久的人工智能帮助诊断新型冠状病毒肺炎，真的管用吗？](https://mp.weixin.qq.com/s/Xhnrufhoy5HZUMuZSS4ZgQ)
+- [多所百年高校永久关闭！欧美大学的“至暗时刻”来了？](https://mp.weixin.qq.com/s/DewlmV7QdKzyXcL0ByjL9g)
+- [太突然了！欧美多所百年高校永久关闭！](https://mp.weixin.qq.com/s/luuQXj7WfXpxJ4kfLB7DHg)
+- [【历史】1918年流感疫情期间美国老照片：戴口罩是爱国义务！](https://mp.weixin.qq.com/s/vpjbXG_OoZMyg2evj9pCSQ)

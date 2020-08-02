@@ -207,3 +207,4 @@
 - [A volunteer-driven, crowd-sourced database for COVID-19 stats & patient tracing in India.](https://github.com/covid19india/api)
 - [在 COVID-19 业务连续性计划中使用数据的四个步骤](https://mp.weixin.qq.com/s/18BDjoOLJsWiXYo1319FCg)
 - [Confirmed cases and deaths of COVID-19 in Brazil, at municipal (city) level.](https://github.com/wcota/covid19br)
+- [COVID-19 Coronavirus data scraped from government and curated data sources.](https://github.com/covidatlas/coronadatascraper)

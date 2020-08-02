@@ -493,3 +493,6 @@
 - [Science：从结构上揭示新冠病毒蛋白Nsp1关闭宿主蛋白合成机制](https://mp.weixin.qq.com/s/lB-t9eExB7jMcDFkXlo6iw)
 - [Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/07/16/science.abc8665)
 - [COVID-19: Viral shutdown of protein synthesis method found](https://phys.org/news/2020-07-covid-viral-shutdown-protein-synthesis.html)
+- [新冠病毒进化论：早在蝙蝠体内已完成自然选择](https://mp.weixin.qq.com/s/01aqKqqUsfWs8l8ZhfN3-g)
+- [Natural selection in the evolution ofSARS-CoV-2 in bats, not humans, created a highly capable human pathogen](https://doi.org/10.1101/2020.05.28.122366)
+- [Nature子刊：新冠病毒或40至70年前分化自蝙蝠病毒](https://mp.weixin.qq.com/s/yfe-kFekLkzWBFd06B_cPg)
