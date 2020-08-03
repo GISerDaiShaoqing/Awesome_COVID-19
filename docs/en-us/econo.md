@@ -509,3 +509,6 @@
 - [全球汇 | 加拿大规划界的最新疫情应对——“路标报告”和“重回主街”](https://mp.weixin.qq.com/s/FBNXsGuXdvv0-YdknAV1KQ)
 - [周振华：全球化的“终结”？后疫情全球城市的新命题](https://mp.weixin.qq.com/s/KGrI0_qO4tPOM8DlGijbdg)
 - [疾疫与记忆：一周城市生活](https://mp.weixin.qq.com/s/Sok7R4U4MePB8CQIoMedEQ)
+- [#榜样的力量#《新冠战“疫”——中国数据智能产业最具社会责任感企业》榜单正式发布](https://mp.weixin.qq.com/s/o4RJAteAzGjp4tUKqRnGew)
+- [全球城市观察︱英国将投入20亿英镑，推动“自行车革命”](https://mp.weixin.qq.com/s/x5441nS5dO8TB41qChivgQ)
+- [疫情下的破局者：清华阿里与50位企业家的新商业道场](https://mp.weixin.qq.com/s/f_paWZeY4KSMiGP5Sm8lHQ)

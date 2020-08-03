@@ -795,3 +795,5 @@
 - [Nature：牛津疫苗结果正式发表](https://mp.weixin.qq.com/s/htzBGJmtJqf1eVZuwdr26w)
 - [无1期，无2期，无3期的三无新冠疫苗，20几位科学家自己先接种了起来](https://mp.weixin.qq.com/s/KwzYwhjxaBr7DoJvlJvDhA)
 - [Covid-19 vaccine trials are showing promising results. A lot can still go wrong. Covid-19](https://www.vox.com/21311768/covid-19-coronavirus-vaccine-available-moderna-fauci?__c=1)
+- [COVID-19导致心源性猝死的人群差异性研究](https://mp.weixin.qq.com/s/Vy76H0GCZXAicjvfwhMvmQ)
+- [Genetic susceptibility for COVID-19–associated sudden cardiac death in African Americans](https://www.sciencedirect.com/science/article/pii/S1547527120304197?via%3Dihub)

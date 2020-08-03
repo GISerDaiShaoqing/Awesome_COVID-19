@@ -753,3 +753,7 @@
 - [城市结构对新冠肺炎蔓延的影响 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/t9B5xQyiaPk5JvtnPPlY4w)
 - [欧美大学“至暗时刻”到来，多所百年高校永久关闭 | 一周动态](https://mp.weixin.qq.com/s/9I7hBovqWLa9SBpESMlA6A)
 - [高福称已接种新冠候选疫苗；字节跳动副总裁马维英宣布辞职，将入职清华；世界最大“人造太阳”启动组装 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/lIoFkZVaA4AfHlTV-GGt1A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月2日）【中国科讯】](https://mp.weixin.qq.com/s/gfssn0Qpjh8DLEp0KIVJXg)
+- [大连疫情初步排除国内本地病例传播，或由境外输入引起｜科研圈日报](https://mp.weixin.qq.com/s/jQQIgHQXedcd_dU98uaMMA)
+- [Science 一周论文导读 | 2020年7月24日](https://mp.weixin.qq.com/s/lcXthlwOTRsHB7a0H7Z0Cw)
+- [24小时热门｜室温下能存放至少一周！秦成峰/英博/王佑春团队开发新型mRNA新冠疫苗](https://mp.weixin.qq.com/s/-rxqQgtioig8ddOPk83l0Q)
