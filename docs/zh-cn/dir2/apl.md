@@ -757,3 +757,8 @@
 - [大连疫情初步排除国内本地病例传播，或由境外输入引起｜科研圈日报](https://mp.weixin.qq.com/s/jQQIgHQXedcd_dU98uaMMA)
 - [Science 一周论文导读 | 2020年7月24日](https://mp.weixin.qq.com/s/lcXthlwOTRsHB7a0H7Z0Cw)
 - [24小时热门｜室温下能存放至少一周！秦成峰/英博/王佑春团队开发新型mRNA新冠疫苗](https://mp.weixin.qq.com/s/-rxqQgtioig8ddOPk83l0Q)
+- [解决冠状病毒大流行期间飞机乘客登机问题的分析方法 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/39eC4JUfhNdDZ8jmdx8uSA)
+- [地球大气“声”如钟 | 观鸟AI成认鸟高手 | 特朗普政府将CDC打入冷宫 | 自然每周简报](https://mp.weixin.qq.com/s/got-i7rdV4JEcvVcChAxew)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月3日）【中国科讯】](https://mp.weixin.qq.com/s/tVbAU4cukpqGWjRKIeJCdw)
+- [钟南山成为共和国勋章建议人选，张伯礼、张定宇、陈薇为国家荣誉称号建议人选 | 科研圈日报](https://mp.weixin.qq.com/s/4ZgbyqtDXxGQYg07YVQlUA)
+- [24小时热门｜如何筛查无症状新冠感染者？MIT团队新思路：听一听你的声音](https://mp.weixin.qq.com/s/ILFpzbfx98E5gvfwAObIfw)

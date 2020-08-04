@@ -898,3 +898,6 @@
 - [太突然！多所百年高校永久关闭！](https://mp.weixin.qq.com/s/FPrz4zYrezAKfcB-6HD6eg)
 - [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://science.sciencemag.org/content/369/6502/413)
 - [Taking the pulse of COVID-19: A spatiotemporal perspective](https://arxiv.org/abs/2005.04224)
+- [新冠后遗症：隐秘之痛丨来自武汉新冠患者家庭的一手记录](https://mp.weixin.qq.com/s/kUCTDG75Vygp8ERx0qhgCA)
+- [原创 | 一文了解大数据在国内外疾病监测与预防中的应用现状](https://mp.weixin.qq.com/s/jWYsMx0-vuDDph-YsM7cDw)
+- [“新冠疫情预计将持续很长时间”，疫苗之外，科学家还在开发什么应对手段？](https://mp.weixin.qq.com/s/p1lAgAwZaEJUUQanbFL-UA)

@@ -797,3 +797,6 @@
 - [Covid-19 vaccine trials are showing promising results. A lot can still go wrong. Covid-19](https://www.vox.com/21311768/covid-19-coronavirus-vaccine-available-moderna-fauci?__c=1)
 - [COVID-19导致心源性猝死的人群差异性研究](https://mp.weixin.qq.com/s/Vy76H0GCZXAicjvfwhMvmQ)
 - [Genetic susceptibility for COVID-19–associated sudden cardiac death in African Americans](https://www.sciencedirect.com/science/article/pii/S1547527120304197?via%3Dihub)
+- [国产新冠疫苗发热率高？陈薇院士解读疫苗副作用问题](https://mp.weixin.qq.com/s/xM6bUx8gQ-dS06XrW_8sbg)
+- [抗新冠病毒的热稳定mRNA疫苗 | CellPress论文速递](https://mp.weixin.qq.com/s/r5H7yAzdzuioAuOhsk6-Xg)
+- [A thermostable mRNA vaccine against COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)30932-6)
