@@ -901,3 +901,8 @@
 - [新冠后遗症：隐秘之痛丨来自武汉新冠患者家庭的一手记录](https://mp.weixin.qq.com/s/kUCTDG75Vygp8ERx0qhgCA)
 - [原创 | 一文了解大数据在国内外疾病监测与预防中的应用现状](https://mp.weixin.qq.com/s/jWYsMx0-vuDDph-YsM7cDw)
 - [“新冠疫情预计将持续很长时间”，疫苗之外，科学家还在开发什么应对手段？](https://mp.weixin.qq.com/s/p1lAgAwZaEJUUQanbFL-UA)
+- [【实证】疫情下城市空气清新，太阳能光伏发电产出增加！](https://mp.weixin.qq.com/s/LRF0uYm27v8S9UCa4eMBLg)
+- [Solar-power output in Delhi has surged during the lockdown](https://www.economist.com/graphic-detail/2020/07/31/solar-power-output-in-delhi-has-surged-during-the-lockdown)
+- [虚拟特刊：病毒的扩散、消毒与人类防护](https://mp.weixin.qq.com/s/IG2Ey-_J31NVRLjqf5_T2w)
+- [COVID-19 and climate: global evidence from 117 countries](https://www.medrxiv.org/content/10.1101/2020.06.04.20121863v1)
+- [How and when to end the COVID-19 lockdown: an optimisation approach](https://www.medrxiv.org/content/10.1101/2020.04.29.20084517v1)

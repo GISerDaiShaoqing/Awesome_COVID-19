@@ -56,3 +56,4 @@
 - [Call for Papers: Special Issue on Financial Market in COVID-19 Pandemic From the Perspective of Data Science](https://www.springer.com/journal/40745/updates/18175858?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=SRCN_3_NX01_CN_CNIJ_HSS_AODS_CFP)
 - [屡次造成重大疫情的RNA病毒，是如何逃避人类免疫系统的？](https://mp.weixin.qq.com/s/msysbWn1ig4CkZxzZCnkAw)
 - [Immune Evasion Mechanisms by RNA Viruses](https://www.frontiersin.org/research-topics/15302/immune-evasion-mechanisms-by-rna-viruses?utm_source=yanyuRT7&utm_medium=wechat&utm_campaign=chinaad)
+- [【征稿期延长】新型冠状病毒（COVID-19）对心理健康影响的研究 | Globalization and Health](https://mp.weixin.qq.com/s/f_YZZ9d639xlhOKWBNylFg)

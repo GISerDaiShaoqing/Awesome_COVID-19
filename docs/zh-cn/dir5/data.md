@@ -209,3 +209,4 @@
 - [Confirmed cases and deaths of COVID-19 in Brazil, at municipal (city) level.](https://github.com/wcota/covid19br)
 - [COVID-19 Coronavirus data scraped from government and curated data sources.](https://github.com/covidatlas/coronadatascraper)
 - [中国抗击COVID-19科研进展视频报告（第5期）：中医药学](https://mp.weixin.qq.com/s/OP7sYs8NzqMHxjqECqlYrQ)
+- [The coronavirus package provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository](https://github.com/RamiKrispin/coronavirus)

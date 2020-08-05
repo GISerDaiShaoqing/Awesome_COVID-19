@@ -762,3 +762,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月3日）【中国科讯】](https://mp.weixin.qq.com/s/tVbAU4cukpqGWjRKIeJCdw)
 - [钟南山成为共和国勋章建议人选，张伯礼、张定宇、陈薇为国家荣誉称号建议人选 | 科研圈日报](https://mp.weixin.qq.com/s/4ZgbyqtDXxGQYg07YVQlUA)
 - [24小时热门｜如何筛查无症状新冠感染者？MIT团队新思路：听一听你的声音](https://mp.weixin.qq.com/s/ILFpzbfx98E5gvfwAObIfw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月4日）【中国科讯】](https://mp.weixin.qq.com/s/e63iAnGvr9j_4GXY5D4JRg)
+- [新冠肺炎流行病的分数模型: 对意大利数据的应用 | 网络科学论文速递28篇](https://mp.weixin.qq.com/s/yFLciBA7h_bsF7au2Kk49g)
+- [8 月 4 日我国内地新增确诊病例 27 例，其中本土病例 22 例｜科研圈日报](https://mp.weixin.qq.com/s/QmNON-nD2wgz0l4CbcwVig)

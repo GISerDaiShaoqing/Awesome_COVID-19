@@ -81,3 +81,4 @@
 - [Can digital contact tracing make up for lost time?](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30160-2/fulltext#%20)
 - [Effects of human mobility restrictions on the spread of COVID-19 in Shenzhen, China: a modelling study using mobile phone data](https://www.sciencedirect.com/science/article/pii/S2589750020301655?via%3Dihub#fig3)
 - [The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control](https://www.medrxiv.org/content/10.1101/2020.05.03.20089078v1)
+- [The characteristics of multi-source mobility datasets and how they reveal the luxury nature of social distancing in the U.S. during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.07.31.20143016v1)

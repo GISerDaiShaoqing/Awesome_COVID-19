@@ -800,3 +800,5 @@
 - [国产新冠疫苗发热率高？陈薇院士解读疫苗副作用问题](https://mp.weixin.qq.com/s/xM6bUx8gQ-dS06XrW_8sbg)
 - [抗新冠病毒的热稳定mRNA疫苗 | CellPress论文速递](https://mp.weixin.qq.com/s/r5H7yAzdzuioAuOhsk6-Xg)
 - [A thermostable mRNA vaccine against COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)30932-6)
+- [Nature/Lancet | 连续取得突破！袁国勇等团队首次证明新冠病毒可以直接感染神经系统](https://mp.weixin.qq.com/s/Jknz7lhmtvrDQDRi9L6Mng)
+- [SARS-CoV-2 infects human neural progenitor cells and brain organoids](https://www.nature.com/articles/s41422-020-0390-x)
