@@ -765,3 +765,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月4日）【中国科讯】](https://mp.weixin.qq.com/s/e63iAnGvr9j_4GXY5D4JRg)
 - [新冠肺炎流行病的分数模型: 对意大利数据的应用 | 网络科学论文速递28篇](https://mp.weixin.qq.com/s/yFLciBA7h_bsF7au2Kk49g)
 - [8 月 4 日我国内地新增确诊病例 27 例，其中本土病例 22 例｜科研圈日报](https://mp.weixin.qq.com/s/QmNON-nD2wgz0l4CbcwVig)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月5日）【中国科讯】](https://mp.weixin.qq.com/s/TDCXmhWGvzmBGBhuYtcgvA)
+- [英国大学或将迎来“学费退款潮”，学生团体呼吁政府提供财政支持｜科研圈日报](https://mp.weixin.qq.com/s/V0IWj1DF2_J3fqcfJGppYw)
+- [24小时热门｜感冒是“福”，能帮你抵御新冠病毒；缺觉是如何让我们一点点变胖的？](https://mp.weixin.qq.com/s/aKNeStTjBjPaPnig_aSgtA)

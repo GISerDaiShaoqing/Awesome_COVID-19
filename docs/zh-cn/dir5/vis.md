@@ -209,3 +209,6 @@
 - [【干货】使用FineBI制作全球疫情地图](https://mp.weixin.qq.com/s/lJP0l75YS1ywfZ0y6Xp4uQ)
 - [Tracking the impact of COVID-19 in India](https://github.com/covid19india/covid19india-react)
 - [File:Weekly deaths w9-w22 2020.gif](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Weekly_deaths_w9-w22_2020.gif)
+- [R-新冠病毒世界格局(1): 散点图](https://mp.weixin.qq.com/s/x9I72fu2Q_FQKJz5UMr62w)
+- [R-新冠病毒世界格局(2): 热力图](https://mp.weixin.qq.com/s/gD4YprmIoyJYzhJejPVWrA)
+- [R-新冠病毒世界格局(3): 动态热力图](https://mp.weixin.qq.com/s/tpaL5uPV1OlIfApcABAb8w)

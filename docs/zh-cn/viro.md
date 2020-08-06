@@ -496,3 +496,7 @@
 - [新冠病毒进化论：早在蝙蝠体内已完成自然选择](https://mp.weixin.qq.com/s/01aqKqqUsfWs8l8ZhfN3-g)
 - [Natural selection in the evolution ofSARS-CoV-2 in bats, not humans, created a highly capable human pathogen](https://doi.org/10.1101/2020.05.28.122366)
 - [Nature子刊：新冠病毒或40至70年前分化自蝙蝠病毒](https://mp.weixin.qq.com/s/yfe-kFekLkzWBFd06B_cPg)
+- [Molecular Biomedicine论文首发 | 关注新冠肺炎病毒核衣壳蛋白C端结构域的三维结构解析](https://mp.weixin.qq.com/s/p-0n0MbOvpWSPDmoJ1K1eQ)
+- [Structural characterization of the C-terminal domain of SARS-CoV-2 nucleocapsid protein](https://mp.weixin.qq.com/s/p-0n0MbOvpWSPDmoJ1K1eQ)
+- [SARS-CoV-2复制转录复合物中解旋酶-聚合酶偶联的结构基础 | CellPress论文速递](https://mp.weixin.qq.com/s/Ig7H97LcVAWtwgeroN62XQ)
+- [Structural basis for helicase-polymerase coupling in the SARS-CoV-2 replication-transcription complex](https://www.cell.com/cell/fulltext/S0092-8674(20)30941-7)

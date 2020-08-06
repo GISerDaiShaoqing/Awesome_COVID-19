@@ -802,3 +802,5 @@
 - [A thermostable mRNA vaccine against COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)30932-6)
 - [Nature/Lancet | 连续取得突破！袁国勇等团队首次证明新冠病毒可以直接感染神经系统](https://mp.weixin.qq.com/s/Jknz7lhmtvrDQDRi9L6Mng)
 - [SARS-CoV-2 infects human neural progenitor cells and brain organoids](https://www.nature.com/articles/s41422-020-0390-x)
+- [Science/Nature | 再取新进展！姜世勃等人新冠病毒mRNA疫苗：动物试验有效，有望进一步临床试验](https://mp.weixin.qq.com/s/TPatGU18xsoiwSMfBPW95A)
+- [A novel receptor-binding domain (RBD)-based mRNA vaccine against SARS-CoV-2](https://www.nature.com/articles/s41422-020-0387-5)
