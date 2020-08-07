@@ -768,3 +768,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月5日）【中国科讯】](https://mp.weixin.qq.com/s/TDCXmhWGvzmBGBhuYtcgvA)
 - [英国大学或将迎来“学费退款潮”，学生团体呼吁政府提供财政支持｜科研圈日报](https://mp.weixin.qq.com/s/V0IWj1DF2_J3fqcfJGppYw)
 - [24小时热门｜感冒是“福”，能帮你抵御新冠病毒；缺觉是如何让我们一点点变胖的？](https://mp.weixin.qq.com/s/aKNeStTjBjPaPnig_aSgtA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月6日）【中国科讯】](https://mp.weixin.qq.com/s/Kr0BrP3jC29E9oichMStaQ)
+- [新冠肺炎在线影子经济 | 网络科学论文速递27篇](https://mp.weixin.qq.com/s/HmQ2r7OfA_MBfVFXyrXSaA)
+- [9. 冠状及流感病毒跨种传播机制研究和新冠疫苗、抗体研发丨“率先行动”第一阶段成果进展](https://mp.weixin.qq.com/s/sqC2PLd6lRRH1JSlb0hX4w)
+- [8 月 6 日我国内地新增确诊病例 37 例，其中本土病例 27 例 | 科研圈日报](https://mp.weixin.qq.com/s/TaZLpl7fTOwAqjbUmqayWQ)
+- [24小时热门｜Nature：被人类活动损害的生态系统中，人畜共患病宿主动物更丰富](https://mp.weixin.qq.com/s/W3S1LqnASrQWECH6yZkklA)

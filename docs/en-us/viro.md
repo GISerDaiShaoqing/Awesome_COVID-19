@@ -500,3 +500,7 @@
 - [Structural characterization of the C-terminal domain of SARS-CoV-2 nucleocapsid protein](https://mp.weixin.qq.com/s/p-0n0MbOvpWSPDmoJ1K1eQ)
 - [SARS-CoV-2复制转录复合物中解旋酶-聚合酶偶联的结构基础 | CellPress论文速递](https://mp.weixin.qq.com/s/Ig7H97LcVAWtwgeroN62XQ)
 - [Structural basis for helicase-polymerase coupling in the SARS-CoV-2 replication-transcription complex](https://www.cell.com/cell/fulltext/S0092-8674(20)30941-7)
+- [COVID-19检测技术哪家强？约翰·霍普金斯专家详解](https://mp.weixin.qq.com/s/lbmYaX273l2unFB5gXVwcQ)
+- [Nature：让新冠病毒刺突蛋白保持在融合前构象设计出新型疫苗](https://mp.weixin.qq.com/s/0-QjYpfInJW3I1SN8X6kHQ)
+- [SARS-CoV-2 mRNA vaccine design enabled by prototype pathogen preparedness](https://www.nature.com/articles/s41586-020-2622-0)
+- [Locking Down Shape-Shifting Spike Protein Aids Development of COVID-19 Vaccine](https://news.utexas.edu/2020/08/05/locking-down-shape-shifting-spike-protein-aids-development-of-covid-19-vaccine/)

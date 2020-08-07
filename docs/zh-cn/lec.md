@@ -258,3 +258,4 @@
 - [【活动邀请】“后疫情时代国际合作—中新广州知识城&霍普金斯创新创业俱乐部医药健康科技项目云端投融资交流会”](https://mp.weixin.qq.com/s/AsPjnSxA7UPqmilqgTf8gw)
 - [啜英咀华｜阿里健康X Cell Press生命科学周新冠科研问答](https://mp.weixin.qq.com/s/-hZP3LwtSeHwkYHdyKaUpA)
 - [疫情模型讲座回顾 | 模型预测与模型数据](https://mp.weixin.qq.com/s/cO3TSqUnX9FlAFuvfaG--Q) 
+- [前300人免费报名！2020年广东省感染与免疫研究生暑期课程](https://mp.weixin.qq.com/s/mptfD6jJHfJjKD6Q4M6vDA)
