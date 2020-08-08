@@ -813,3 +813,4 @@
 - [Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871)
 - [Exposure to common cold coronaviruses can teach the immune system to recognize SARS-CoV-2](https://medicalxpress.com/news/2020-08-exposure-common-cold-coronaviruses-immune.html)
 - [姜世勃团队研发出新型mRNA新冠疫苗](https://mp.weixin.qq.com/s/kpcUKUflHOWZzERAxvuomQ)
+- [2分钟看懂NEJM：COVID-19暴露后应用羟氯喹进行预防](https://mp.weixin.qq.com/s/t-dUmnDbZhDhkmtVKrbCSg)

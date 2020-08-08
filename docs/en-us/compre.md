@@ -920,3 +920,6 @@
 - [Seeking an ‘exit plan’ for leaving academia amid coronavirus worries](https://www.nature.com/articles/d41586-020-02029-6?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02029-6)
 - [韩国研究: 无症状新冠患者病毒载量高得惊人 无症状传播在生物学上合理](https://mp.weixin.qq.com/s/m4CkmDHzA6PluWdsv-2VCg)
 - [Clinical Course and Molecular Viral Shedding Among Asymptomatic and Symptomatic Patients With SARS-CoV-2 Infection in a Community Treatment Center in the Republic of Korea](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2769235)
+- [COVID-19：绿色复苏可使全球温升减少0.3度](https://mp.weixin.qq.com/s/DDaoj92OHSkU-YPQikVtlA)
+- [Current and future global climate impacts resulting from COVID-19](https://www.nature.com/articles/s41558-020-0883-0)
+- [COVID-19限制措施对气候的长期影响“微不足道” |《自然-气候变化》论文](https://mp.weixin.qq.com/s/8Lp-6O5y-ORqMwnIf-aYaA)

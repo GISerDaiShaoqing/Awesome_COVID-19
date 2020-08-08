@@ -773,3 +773,6 @@
 - [9. 冠状及流感病毒跨种传播机制研究和新冠疫苗、抗体研发丨“率先行动”第一阶段成果进展](https://mp.weixin.qq.com/s/sqC2PLd6lRRH1JSlb0hX4w)
 - [8 月 6 日我国内地新增确诊病例 37 例，其中本土病例 27 例 | 科研圈日报](https://mp.weixin.qq.com/s/TaZLpl7fTOwAqjbUmqayWQ)
 - [24小时热门｜Nature：被人类活动损害的生态系统中，人畜共患病宿主动物更丰富](https://mp.weixin.qq.com/s/W3S1LqnASrQWECH6yZkklA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月7日）【中国科讯】](https://mp.weixin.qq.com/s/uFmZHtXNOiXnbcer3bYlIw)
+- [整容零风险？Nature揭示“拉皮”背后的真正秘密｜无限长的微纳金属玻璃问世｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/16rIOjaRpQvvGmymckg0iw)
+- [病毒学国家重点实验室连发新作！](https://mp.weixin.qq.com/s/NcDOxJZups0JE35znxlCKw)

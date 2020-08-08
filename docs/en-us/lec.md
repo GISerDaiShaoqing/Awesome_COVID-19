@@ -259,3 +259,4 @@
 - [啜英咀华｜阿里健康X Cell Press生命科学周新冠科研问答](https://mp.weixin.qq.com/s/-hZP3LwtSeHwkYHdyKaUpA)
 - [疫情模型讲座回顾 | 模型预测与模型数据](https://mp.weixin.qq.com/s/cO3TSqUnX9FlAFuvfaG--Q) 
 - [前300人免费报名！2020年广东省感染与免疫研究生暑期课程](https://mp.weixin.qq.com/s/mptfD6jJHfJjKD6Q4M6vDA)
+- [文献导读（10）石云峰：一种基于气象化学碰撞的新冠疫情传染病控制模型](https://mp.weixin.qq.com/s/6e_TLo-KdkLX3k43U_NHsw)
