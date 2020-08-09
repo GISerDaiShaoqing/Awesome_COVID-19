@@ -776,3 +776,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月7日）【中国科讯】](https://mp.weixin.qq.com/s/uFmZHtXNOiXnbcer3bYlIw)
 - [整容零风险？Nature揭示“拉皮”背后的真正秘密｜无限长的微纳金属玻璃问世｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/16rIOjaRpQvvGmymckg0iw)
 - [病毒学国家重点实验室连发新作！](https://mp.weixin.qq.com/s/NcDOxJZups0JE35znxlCKw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月8日）【中国科讯】](https://mp.weixin.qq.com/s/wAl5K2gJnlPr4uvKRVMiiw)
+- [共同抗疫 | 老年人和有基础疾病的人风险更高，我们可以怎么支持他们？](https://mp.weixin.qq.com/s/kDvuTAICqbIzsiH8R78c8A)
+- [《科学》（20200807出版）一周论文导读](https://mp.weixin.qq.com/s/Nw-gMOKYsD2FyGRyp5IcsQ)
+- [今秋美国留学新生入学至多下降98%；10000000000剂新冠疫苗谁来生产？等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/LFEV7zJRdaX3Zn2PxebmrA)
