@@ -513,3 +513,4 @@
 - [全球城市观察︱英国将投入20亿英镑，推动“自行车革命”](https://mp.weixin.qq.com/s/x5441nS5dO8TB41qChivgQ)
 - [疫情下的破局者：清华阿里与50位企业家的新商业道场](https://mp.weixin.qq.com/s/f_paWZeY4KSMiGP5Sm8lHQ)
 - [国际资讯 | [美]纽约滨水愿景2030/后新冠时代城市设计新构想(2020.8)](https://mp.weixin.qq.com/s/IgaPdLoPfhxMG1WKOMdT9g)
+- [大数据报告|疫情前后上海商业中心活力变化研究](https://mp.weixin.qq.com/s/RUfavVqVL4qjY9q6tx4U9A)

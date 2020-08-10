@@ -923,3 +923,8 @@
 - [COVID-19：绿色复苏可使全球温升减少0.3度](https://mp.weixin.qq.com/s/DDaoj92OHSkU-YPQikVtlA)
 - [Current and future global climate impacts resulting from COVID-19](https://www.nature.com/articles/s41558-020-0883-0)
 - [COVID-19限制措施对气候的长期影响“微不足道” |《自然-气候变化》论文](https://mp.weixin.qq.com/s/8Lp-6O5y-ORqMwnIf-aYaA)
+- [生物多样性下降增加暴发传染病风险](https://mp.weixin.qq.com/s/nnEPVWmLMDgXhVvjy95rFQ)
+- [Zoonotic host diversity increases in human-dominated ecosystems](https://doi.org/10.1038/s41586-020-2562-8)
+- [新冠疫情，让天气预报更不准了｜科学60秒](https://mp.weixin.qq.com/s/yLGxFefO6ZPM7AzcvL_60Q)
+- [克服你的完美主义！](https://mp.weixin.qq.com/s/wwHO_3DDPgEsi03BHNplpQ)
+- [Overcoming perfectionism during the pandemic](https://www.nature.com/articles/d41586-020-02133-7?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02133-7)

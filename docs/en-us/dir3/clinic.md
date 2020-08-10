@@ -815,3 +815,4 @@
 - [姜世勃团队研发出新型mRNA新冠疫苗](https://mp.weixin.qq.com/s/kpcUKUflHOWZzERAxvuomQ)
 - [2分钟看懂NEJM：COVID-19暴露后应用羟氯喹进行预防](https://mp.weixin.qq.com/s/t-dUmnDbZhDhkmtVKrbCSg)
 - [谢晓亮：中和抗体有望成为新冠肺炎特效药，可治疗和短期预防​](https://mp.weixin.qq.com/s/QTV5JDSE8ubDpFa7OIyRGw)
+- [谢晓亮：中和抗体有望成为新冠肺炎特效药，可治疗和短期预防](https://mp.weixin.qq.com/s/pRcltVgrwDaCgcBRkV2xCg)
