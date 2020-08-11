@@ -928,3 +928,5 @@
 - [新冠疫情，让天气预报更不准了｜科学60秒](https://mp.weixin.qq.com/s/yLGxFefO6ZPM7AzcvL_60Q)
 - [克服你的完美主义！](https://mp.weixin.qq.com/s/wwHO_3DDPgEsi03BHNplpQ)
 - [Overcoming perfectionism during the pandemic](https://www.nature.com/articles/d41586-020-02133-7?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02133-7)
+- [疫情背景下，大学生就业困局破解之策](https://mp.weixin.qq.com/s/g3MRJwtIF6xWKEjdl2aWNw)
+- [【DNV-GL预测】疫情影响：交通能耗再也回不到从前水平，2019年全球碳排放已达峰](https://mp.weixin.qq.com/s/qdi2YYxwmtxsLbf3bwhn-A)

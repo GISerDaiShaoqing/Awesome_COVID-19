@@ -786,3 +786,7 @@
 - [北京高校8月15日起可组织返校，中低风险地区师生需持7日内核酸检测阴性证明｜科研圈日报](https://mp.weixin.qq.com/s/Cu7RqG1BjxvpUcKFpsQqxg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月9日）【中国科讯】](https://mp.weixin.qq.com/s/arPl9aMGfip8A8w5hWEG9A)
 - [Nature 一周论文导读 | 2020年7月30日](https://mp.weixin.qq.com/s/EYi854yoldueDeO_cIWz5w)
+- [8 月 10 日我国内地新增确诊病例 44 例，其中本土病例 13 例 | 科研圈日报](https://mp.weixin.qq.com/s/KrkKTiiQ7oqpLxZj6seGYw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月10日）【中国科讯】](https://mp.weixin.qq.com/s/xTArCKXkNCDd1w9s-Dj2Dg)
+- [专家视角 | 石正丽答Science问： “特朗普欠我们一个道歉”【中国科讯】](https://mp.weixin.qq.com/s/q5_oKaJWOUcrlTxdpC1_MA)
+- [24小时热门｜COVID-19限制措施对气候的长期影响“微不足道” ](https://mp.weixin.qq.com/s/j_Mi7UddDnh5yocO1GAIsQ)

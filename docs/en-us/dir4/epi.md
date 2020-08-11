@@ -300,3 +300,4 @@
 - [Dynamics of SARS-CoV-2 with Waning Immunity in the UK Population](https://www.medrxiv.org/content/10.1101/2020.07.24.20157982v1)
 - [钟南山团队携手腾讯研发新冠重症AI预测模型，成果登上Nature子刊](https://mp.weixin.qq.com/s/wcG7SggHO6Cja8kAvPKvtQ)
 - [Predictable county-level estimates of R0 for COVID-19 needed for public health planning in the USA](https://www.medrxiv.org/content/10.1101/2020.06.18.20134700v2)
+- [Modeling the Prevalence of Asymptomatic COVID-19 Infections in the Chinese Mainland](https://www.sciencedirect.com/science/article/pii/S2666675820300266?via%3Dihub)
