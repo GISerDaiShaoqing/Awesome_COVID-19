@@ -514,3 +514,5 @@
 - [疫情下的破局者：清华阿里与50位企业家的新商业道场](https://mp.weixin.qq.com/s/f_paWZeY4KSMiGP5Sm8lHQ)
 - [国际资讯 | [美]纽约滨水愿景2030/后新冠时代城市设计新构想(2020.8)](https://mp.weixin.qq.com/s/IgaPdLoPfhxMG1WKOMdT9g)
 - [大数据报告|疫情前后上海商业中心活力变化研究](https://mp.weixin.qq.com/s/RUfavVqVL4qjY9q6tx4U9A)
+- [国际资讯 | [德]2020年“国家城市发展项目”/“新冠经济刺激计划”提案(2020.8)](https://mp.weixin.qq.com/s/_1IBdMjT2OUXer170J_4ZA)
+- [疫情之后，文旅复兴：第二届乡村遗产酒店示范项目现场考察进行时](https://mp.weixin.qq.com/s/unGaqzH9D621W5l3Go_7yg)

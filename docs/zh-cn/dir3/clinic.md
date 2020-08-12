@@ -816,3 +816,8 @@
 - [2分钟看懂NEJM：COVID-19暴露后应用羟氯喹进行预防](https://mp.weixin.qq.com/s/t-dUmnDbZhDhkmtVKrbCSg)
 - [谢晓亮：中和抗体有望成为新冠肺炎特效药，可治疗和短期预防​](https://mp.weixin.qq.com/s/QTV5JDSE8ubDpFa7OIyRGw)
 - [谢晓亮：中和抗体有望成为新冠肺炎特效药，可治疗和短期预防](https://mp.weixin.qq.com/s/pRcltVgrwDaCgcBRkV2xCg)
+- [Science：面对新冠病毒，孕妇的特殊风险和未知影响](https://mp.weixin.qq.com/s/LT9hx_slj3Rh2IYKJ9Zbvg)
+- [Why pregnant women face special risks from COVID-19](https://www.sciencemag.org/news/2020/08/why-pregnant-women-face-special-risks-covid-19?)
+- [单克隆抗体有望早于疫苗治疗新冠肺炎](https://mp.weixin.qq.com/s/-V8yxMQJblhwdlsL28NqCA)
+- [Nature：全球首支新冠疫苗安全性遭质疑](https://mp.weixin.qq.com/s/geDv33F2oPG4lj2YRI6psg)
+- [Russia’s fast-track coronavirus vaccine draws outrage over safety](https://www.nature.com/articles/d41586-020-02386-2)

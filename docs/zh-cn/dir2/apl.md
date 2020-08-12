@@ -790,3 +790,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月10日）【中国科讯】](https://mp.weixin.qq.com/s/xTArCKXkNCDd1w9s-Dj2Dg)
 - [专家视角 | 石正丽答Science问： “特朗普欠我们一个道歉”【中国科讯】](https://mp.weixin.qq.com/s/q5_oKaJWOUcrlTxdpC1_MA)
 - [24小时热门｜COVID-19限制措施对气候的长期影响“微不足道” ](https://mp.weixin.qq.com/s/j_Mi7UddDnh5yocO1GAIsQ)
+- [俄罗斯完成新冠疫苗注册，这种疫苗安全有效吗？](https://mp.weixin.qq.com/s/bjMXN_0njnT38SNKkIMmUg)
+- [​俄罗斯率先批准新冠疫苗，尚未公开任何临床数据 | 科研圈日报](https://mp.weixin.qq.com/s/TkVnZ78gkgK4khdYRyVw4A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月11日）【中国科讯】](https://mp.weixin.qq.com/s/gkLwNEsvB3fiQixV5vPlZg)

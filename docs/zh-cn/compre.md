@@ -930,3 +930,7 @@
 - [Overcoming perfectionism during the pandemic](https://www.nature.com/articles/d41586-020-02133-7?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02133-7)
 - [疫情背景下，大学生就业困局破解之策](https://mp.weixin.qq.com/s/g3MRJwtIF6xWKEjdl2aWNw)
 - [【DNV-GL预测】疫情影响：交通能耗再也回不到从前水平，2019年全球碳排放已达峰](https://mp.weixin.qq.com/s/qdi2YYxwmtxsLbf3bwhn-A)
+- [透过疫情看城市发展转型丨新型智慧城市建设](https://mp.weixin.qq.com/s/CbBtZuAIn7YbTiFvx25sxg)
+- [基于机器学习的新冠疫情住院优先级评估模型 | CellPress 论文速递](https://mp.weixin.qq.com/s/mKhC0C3gI60fsFw9LX_KKg)
+- [A Learning-based Model to Evaluate Hospitalization Priority in COVID-19 Pandemics](https://www.cell.com/patterns/fulltext/S2666-3899(20)30120-3)
+- [Predicting wildlife hosts of betacoronavirus for SARS-CoV-2 sampling prioritisation](https://github.com/viralemergence/Fresnel)

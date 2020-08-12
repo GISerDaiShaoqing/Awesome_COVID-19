@@ -210,3 +210,6 @@
 - [COVID-19 Coronavirus data scraped from government and curated data sources.](https://github.com/covidatlas/coronadatascraper)
 - [中国抗击COVID-19科研进展视频报告（第5期）：中医药学](https://mp.weixin.qq.com/s/OP7sYs8NzqMHxjqECqlYrQ)
 - [The coronavirus package provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository](https://github.com/RamiKrispin/coronavirus)
+- [疫情数据分享：迁徙、建筑、地理、交通、列车飞机等丨城市数据派](https://mp.weixin.qq.com/s/4GPs6cxPksJCJOFfL7O9Hw)
+- [【数据】疫情之下，各国客运航班和能耗下降了多少？](https://mp.weixin.qq.com/s/UXCYenSkxHRb5IA1Gi2Zxg)
+- [COVID-19’s impact on commercial jet fuel demand has been significant and uneven](https://www.eia.gov/todayinenergy/detail.php?id=44676)
