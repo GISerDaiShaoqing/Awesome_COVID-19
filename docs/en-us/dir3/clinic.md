@@ -823,3 +823,5 @@
 - [Russia’s fast-track coronavirus vaccine draws outrage over safety](https://www.nature.com/articles/d41586-020-02386-2)
 - [SARS-CoV-2候选RNA疫苗在1/2期临床试验诱导免疫应答 | 《自然》论文](https://mp.weixin.qq.com/s/uGJ0R-Bjmbl0f3tma3DrKg)
 - [Phase 1/2 study of COVID-19 RNA vaccine BNT162b1 in adults](https://www.nature.com/articles/s41586-020-2639-4)
+- [清华免疫所董晨团队等发现COVID-19重症患者细胞免疫缺陷](https://mp.weixin.qq.com/s/IGPmqz4eJRKggA1aqbG6TA)
+- [Impaired cellular immunity to SARS-CoV-2 in severe COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.08.10.20171371v1)

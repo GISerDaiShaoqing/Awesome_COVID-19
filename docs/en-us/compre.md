@@ -939,3 +939,4 @@
 - [Determining the optimal strategy for reopening schools, the impact of test and trace interventions, and the risk of occurrence of a second COVID-19 epidemic wave in the UK: a modelling study](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30250-9/fulltext)
 - [Transmission of SARS-CoV-2 in Australian educational settings: a prospective cohort study](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30251-0/fulltext)
 - [Finding a path to reopen schools during the COVID-19 pandemic](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30249-2/fulltext)
+- [太突然！超107所大学永久关闭，波及学生超1.6万名](https://mp.weixin.qq.com/s/oRVCvYswGkruS7o6q1Y0kA)
