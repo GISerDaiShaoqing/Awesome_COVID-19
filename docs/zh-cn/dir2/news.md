@@ -3207,3 +3207,4 @@
 - [福建新增境外输入无症状感染者5例](https://mp.weixin.qq.com/s/NSMxHrZ-ygeZo2DW63zALA)
 - [昨日新增本土8例，均在乌鲁木齐](https://mp.weixin.qq.com/s/9YLENRfufSIshUW0yyTSDQ)
 - [“朋友圈卖新冠疫苗”，当事公司澄清](https://mp.weixin.qq.com/s/uuQv4yma4PMmg-S3CQhyaQ)
+- [新发地市场取消零售功能，不再向个人消费者开放](https://mp.weixin.qq.com/s/SJ5SS5Cku6bDmsvpJ2OHGQ)

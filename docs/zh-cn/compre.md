@@ -935,3 +935,7 @@
 - [A Learning-based Model to Evaluate Hospitalization Priority in COVID-19 Pandemics](https://www.cell.com/patterns/fulltext/S2666-3899(20)30120-3)
 - [Predicting wildlife hosts of betacoronavirus for SARS-CoV-2 sampling prioritisation](https://github.com/viralemergence/Fresnel)
 - [重读疫苗竞赛史： 谴责很容易，理解更有益](https://mp.weixin.qq.com/s/L6fQpwgwZpHUXpb0sveedg)
+- [COVID-19期间安全开放学校：有效的检测和接触者追踪至关重要](https://mp.weixin.qq.com/s/EUhYY6te6323CB40PrVVmA)
+- [Determining the optimal strategy for reopening schools, the impact of test and trace interventions, and the risk of occurrence of a second COVID-19 epidemic wave in the UK: a modelling study](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30250-9/fulltext)
+- [Transmission of SARS-CoV-2 in Australian educational settings: a prospective cohort study](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30251-0/fulltext)
+- [Finding a path to reopen schools during the COVID-19 pandemic](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30249-2/fulltext)
