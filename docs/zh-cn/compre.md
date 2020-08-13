@@ -934,3 +934,4 @@
 - [基于机器学习的新冠疫情住院优先级评估模型 | CellPress 论文速递](https://mp.weixin.qq.com/s/mKhC0C3gI60fsFw9LX_KKg)
 - [A Learning-based Model to Evaluate Hospitalization Priority in COVID-19 Pandemics](https://www.cell.com/patterns/fulltext/S2666-3899(20)30120-3)
 - [Predicting wildlife hosts of betacoronavirus for SARS-CoV-2 sampling prioritisation](https://github.com/viralemergence/Fresnel)
+- [重读疫苗竞赛史： 谴责很容易，理解更有益](https://mp.weixin.qq.com/s/L6fQpwgwZpHUXpb0sveedg)

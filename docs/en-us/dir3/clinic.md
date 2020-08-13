@@ -821,3 +821,5 @@
 - [单克隆抗体有望早于疫苗治疗新冠肺炎](https://mp.weixin.qq.com/s/-V8yxMQJblhwdlsL28NqCA)
 - [Nature：全球首支新冠疫苗安全性遭质疑](https://mp.weixin.qq.com/s/geDv33F2oPG4lj2YRI6psg)
 - [Russia’s fast-track coronavirus vaccine draws outrage over safety](https://www.nature.com/articles/d41586-020-02386-2)
+- [SARS-CoV-2候选RNA疫苗在1/2期临床试验诱导免疫应答 | 《自然》论文](https://mp.weixin.qq.com/s/uGJ0R-Bjmbl0f3tma3DrKg)
+- [Phase 1/2 study of COVID-19 RNA vaccine BNT162b1 in adults](https://www.nature.com/articles/s41586-020-2639-4)

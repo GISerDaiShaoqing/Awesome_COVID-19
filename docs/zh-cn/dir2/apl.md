@@ -793,3 +793,6 @@
 - [俄罗斯完成新冠疫苗注册，这种疫苗安全有效吗？](https://mp.weixin.qq.com/s/bjMXN_0njnT38SNKkIMmUg)
 - [​俄罗斯率先批准新冠疫苗，尚未公开任何临床数据 | 科研圈日报](https://mp.weixin.qq.com/s/TkVnZ78gkgK4khdYRyVw4A)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月11日）【中国科讯】](https://mp.weixin.qq.com/s/gkLwNEsvB3fiQixV5vPlZg)
+- [新冠肺炎: 如果免疫力衰退怎么办？ | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/6a20UKbKvNoVi_3bPj4SRw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月12日）【中国科讯】](https://mp.weixin.qq.com/s/5dsVrRdDhPmPQhnQr8qVeA)
+- [如普遍采取防护措施，撒哈拉以南非洲到年底可防止超 6 万例死亡｜科研圈日报](https://mp.weixin.qq.com/s/4KyY0sOxzgvtvGjUroFQDg)
