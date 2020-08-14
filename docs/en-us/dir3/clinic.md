@@ -825,3 +825,5 @@
 - [Phase 1/2 study of COVID-19 RNA vaccine BNT162b1 in adults](https://www.nature.com/articles/s41586-020-2639-4)
 - [清华免疫所董晨团队等发现COVID-19重症患者细胞免疫缺陷](https://mp.weixin.qq.com/s/IGPmqz4eJRKggA1aqbG6TA)
 - [Impaired cellular immunity to SARS-CoV-2 in severe COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.08.10.20171371v1)
+- [国产新冠灭活疫苗Ⅰ/Ⅱ期临床试验中期结果公布](https://mp.weixin.qq.com/s/K0PV7bMJwqpe2oyGs4aSdg)
+- [Effect of an Inactivated Vaccine Against SARS-CoV-2 on Safety and Immunogenicity Outcomes Interim Analysis of 2 Randomized Clinical Trials](https://jamanetwork.com/journals/jama/fullarticle/2769612)

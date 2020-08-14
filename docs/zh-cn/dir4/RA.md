@@ -38,3 +38,5 @@
 - [The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study](https://www.researchgate.net/publication/343205201_The_risk_of_COVID-19_transmission_in_train_passengers_an_epidemiological_and_modelling_study)
 - [Compliance and containment in social distancing: mathematical modeling of COVID-19 across townships](https://www.medrxiv.org/content/10.1101/2020.06.01.20119073v1)
 - [The end of social confinement and COVID-19 re-emergence risk](https://www.nature.com/articles/s41562-020-0908-8)
+- [建模研究口罩的有效性 |《自然-通讯》论文](https://mp.weixin.qq.com/s/Zeygbb5ajwqTcMwOYWV5fw)
+- [Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic](https://www.nature.com/articles/s41467-020-17922-x)
