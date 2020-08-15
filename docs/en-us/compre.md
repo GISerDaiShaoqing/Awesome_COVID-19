@@ -949,3 +949,8 @@
 - [大规模生产新冠疫苗前的“知识转让”｜Science精选](https://mp.weixin.qq.com/s/dRzfzHzjPMPDmeq135j10g)
 - [Knowledge transfer for large-scale vaccine manufacturing](https://science.sciencemag.org/content/early/2020/08/12/science.abc9588)
 - [Lancet Voice | 失养儿童以及日本COVID-19现况](https://mp.weixin.qq.com/s/bNUpwhieHvFHc9j7wX8mVg)
+- [两个月在Science连发2文！湖南女教授呼吁：抗击新冠不要陷入"疫苗依赖陷阱"，政府不应该“全能化”](https://mp.weixin.qq.com/s/7VwIZlFxaZ_n2uqiPYNaPw)
+- [Time to Form a Balanced Risk Prevention and Control Community between the Government and Individuals](https://science.sciencemag.org/content/369/6503/483/tab-e-letters)
+- [COVID-19 Research Rush: Think Twice](https://science.sciencemag.org/content/368/6495/1041/tab-e-letters)
+- [新冠疫情在2021年及以后将走向何方？](https://mp.weixin.qq.com/s/l39Tc8FmmHToxH1jgv1t4g)
+- [How the pandemic might play out in 2021 and beyond](https://www.nature.com/articles/d41586-020-02278-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02278-5)

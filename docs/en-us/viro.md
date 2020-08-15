@@ -507,3 +507,5 @@
 - [冬天情况会好转么？被动免疫有作用么？我们问了问冠状病毒学专家 | Pneumonia](https://mp.weixin.qq.com/s/sVReFhlPC8QE8eLN0Ah_5Q)
 - [是否应该在大流行期间改变病毒命名规则？病毒学家们产生了分歧](https://mp.weixin.qq.com/s/7Ls77dGRVPQTiLND966xxw)
 - [Should virus-naming rules change during a pandemic? The question divides virologists](https://www.nature.com/articles/d41586-020-02243-2?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02243-2)
+- [《自然》：发现最有效的新冠病毒中和性抗体！](https://mp.weixin.qq.com/s/9iCUwE04-LeLMWoEpZutIQ)
+- [Potent neutralizing antibodies directed to multiple epitopes on SARS-CoV-2 spike](https://www.nature.com/articles/s41586-020-2571-7)

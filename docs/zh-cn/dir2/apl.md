@@ -800,3 +800,5 @@
 - [@高等学校、中小学校和托幼机构 最新版秋冬季新冠肺炎疫情防控技术方案印发](https://mp.weixin.qq.com/s/Q5_7kvKSDp2xouZPJIN2xg)
 - [8 月 13 日我国内地新增确诊病例 30 例，其中本土病例 8 例 | 科研圈日报](https://mp.weixin.qq.com/s/kkBl6yrEz9R0pMMTt8uQAQ)
 - [王辰院士：现在不是“后疫情时代”，还没到懈怠的时候](https://mp.weixin.qq.com/s/6pHi9wbkgJ7bLNWAv906Iw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月14日）【中国科讯】](https://mp.weixin.qq.com/s/kSSZB4ma1piZlQKeZ2B0sw)
+- [新冠疫情期间新浪微博上的注意力动力学 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/YbIaDzSJl6pH1odfexUm4w)
