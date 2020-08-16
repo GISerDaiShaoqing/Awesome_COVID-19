@@ -954,3 +954,5 @@
 - [COVID-19 Research Rush: Think Twice](https://science.sciencemag.org/content/368/6495/1041/tab-e-letters)
 - [新冠疫情在2021年及以后将走向何方？](https://mp.weixin.qq.com/s/l39Tc8FmmHToxH1jgv1t4g)
 - [How the pandemic might play out in 2021 and beyond](https://www.nature.com/articles/d41586-020-02278-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02278-5)
+- [Cell | 传染病专家福奇首次撰文：对于新冠肺炎，我们该何去何从？](https://mp.weixin.qq.com/s/6n2NZuDEOrSvsy41IYwRjw)
+- [Emerging Pandemic Diseases: How We Got To COVID-19](https://doi.org/10.1016/j.cell.2020.08.021)

@@ -802,3 +802,4 @@
 - [王辰院士：现在不是“后疫情时代”，还没到懈怠的时候](https://mp.weixin.qq.com/s/6pHi9wbkgJ7bLNWAv906Iw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月14日）【中国科讯】](https://mp.weixin.qq.com/s/kSSZB4ma1piZlQKeZ2B0sw)
 - [新冠疫情期间新浪微博上的注意力动力学 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/YbIaDzSJl6pH1odfexUm4w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月15日）【中国科讯】](https://mp.weixin.qq.com/s/L6OTgh6Ix8gGGaufNeH1ag)
