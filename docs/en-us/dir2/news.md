@@ -3264,3 +3264,7 @@
 - [​印度研究人员发现73个新冠病毒毒株的新型变种](https://mp.weixin.qq.com/s/MT1WGe2Cukd_ZFy5lap3Eg)
 - [陈薇团队获得国内首个新冠疫苗专利](https://mp.weixin.qq.com/s/7v7jNthJaqxfigTd85qKlg)
 - [这些食物都被查出新冠病毒！虾、鸡翅、海鲜统统沦陷！多地冷冻食物被紧急下架销毁！](https://mp.weixin.qq.com/s/6kMrqGCWgbnL5316dVPbAQ)
+- [连续通报三例新冠“复阳”病例，“复阳”概率有多大？](https://mp.weixin.qq.com/s/8NUgWbh9mEDBFkl1mEvrlA)
+- [疫情让人们暴躁？荷兰暴力事件激增，民众悼念被射杀年轻人](https://mp.weixin.qq.com/s/VKN78M8P5AxAiQkgyBIXqw)
+- [荷兰北部海岛出现首例感染，感染者是游客](https://mp.weixin.qq.com/s/lfDhSbDFbqwiQHYoLb3pqg)
+- [新闻短平快（荷兰感染人数增加减缓等）——8月16日](https://mp.weixin.qq.com/s/detnKNimwEAQWRDp3jpp-w)

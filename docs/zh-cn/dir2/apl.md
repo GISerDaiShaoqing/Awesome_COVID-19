@@ -803,3 +803,4 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月14日）【中国科讯】](https://mp.weixin.qq.com/s/kSSZB4ma1piZlQKeZ2B0sw)
 - [新冠疫情期间新浪微博上的注意力动力学 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/YbIaDzSJl6pH1odfexUm4w)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月15日）【中国科讯】](https://mp.weixin.qq.com/s/L6OTgh6Ix8gGGaufNeH1ag)
+- [新冠疫情无法减缓全球变暖，带来的降温幅度不超过0.01℃｜本周值得读·科研生涯 科研圈 ](https://mp.weixin.qq.com/s/QN6OE_IIAu_kGCbNdZqwlw)
