@@ -808,3 +808,5 @@
 - [动物也讲“社交距离”](https://mp.weixin.qq.com/s/IJd2zPFuQUXxmXODaWJR8w)
 - [2019冠状病毒病 | 日常生活出行注意事项](https://mp.weixin.qq.com/s/pxgVGThTDwR1GTv0o8ShbQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月16日）【中国科讯】](https://mp.weixin.qq.com/s/ybdpdwOf2XoQ_P5va9Hq2Q)
+- [Nature 一周论文导读 | 2020年8月6日](https://mp.weixin.qq.com/s/9Hybe4S3CX3gF-mRVtLkrg)
+- [Science 一周论文导读 | 2020年8月7日](https://mp.weixin.qq.com/s/XTdZwUMpfo6VQ_Fosmdi-A)

@@ -511,3 +511,5 @@
 - [Potent neutralizing antibodies directed to multiple epitopes on SARS-CoV-2 spike](https://www.nature.com/articles/s41586-020-2571-7)
 - [mBio: 病毒或会利用一种特殊的“诱饵策略”来躲避宿主免疫系统的攻击](https://mp.weixin.qq.com/s/UmHH30MWoe_eajAZ0V7XBw)
 - [Visualizing Nudivirus Assembly and Egress](https://mbio.asm.org/content/11/4/e01333-20)
+- [王国庆/周丰丰团队共同研究新型冠状病毒全基因组的进化特征](https://mp.weixin.qq.com/s/ZZHNVsc9ynNk1OB8ewMDdw)
+- [Application of Bayesian phylogenetic inference modelling for evolutionary genetic analysis and dynamic changes in 2019-nCoV](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa154/5879226)
