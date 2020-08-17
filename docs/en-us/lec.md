@@ -262,3 +262,4 @@
 - [文献导读（10）石云峰：一种基于气象化学碰撞的新冠疫情传染病控制模型](https://mp.weixin.qq.com/s/6e_TLo-KdkLX3k43U_NHsw)
 - [网络研讨会 | 洞见人工智能及机器学习对COVID-19的影响](https://mp.weixin.qq.com/s/6BlWpbKQITZqW7HAZ5jlvA)
 - [在线研讨会 | 如何在传染病学期刊上成功发表您的文章](https://mp.weixin.qq.com/s/kbnyW8K_kgHG8SQZZgGoDQ)
+- [今日直播 | 生物安全与生物多样性科学研究主题沙龙【中国科讯】](https://mp.weixin.qq.com/s/abvZ14QqQltEB1tkRQ80kQ)

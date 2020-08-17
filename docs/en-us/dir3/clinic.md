@@ -827,3 +827,7 @@
 - [Impaired cellular immunity to SARS-CoV-2 in severe COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.08.10.20171371v1)
 - [国产新冠灭活疫苗Ⅰ/Ⅱ期临床试验中期结果公布](https://mp.weixin.qq.com/s/K0PV7bMJwqpe2oyGs4aSdg)
 - [Effect of an Inactivated Vaccine Against SARS-CoV-2 on Safety and Immunogenicity Outcomes Interim Analysis of 2 Randomized Clinical Trials](https://jamanetwork.com/journals/jama/fullarticle/2769612)
+- [钙卫蛋白水平升高和异常的髓细胞亚群可用于区分COVID-19轻症与重症患者 | CellPress论文速递](https://mp.weixin.qq.com/s/LOG30T47ueuZZ_7nSrcrDg)
+- [Elevated calprotectin and abnormal myeloid cell subsets discriminate severe from mild COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)30993-4)
+- [维生素D可以预防或治疗COVID-19吗？](https://mp.weixin.qq.com/s/zt5NTzljirQbklSxK6P9kw)
+- [Vitamin D for COVID-19 : a case to answer ?](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30268-0/fulltext)

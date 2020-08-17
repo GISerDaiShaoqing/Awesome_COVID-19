@@ -509,3 +509,5 @@
 - [Should virus-naming rules change during a pandemic? The question divides virologists](https://www.nature.com/articles/d41586-020-02243-2?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02243-2)
 - [《自然》：发现最有效的新冠病毒中和性抗体！](https://mp.weixin.qq.com/s/9iCUwE04-LeLMWoEpZutIQ)
 - [Potent neutralizing antibodies directed to multiple epitopes on SARS-CoV-2 spike](https://www.nature.com/articles/s41586-020-2571-7)
+- [mBio: 病毒或会利用一种特殊的“诱饵策略”来躲避宿主免疫系统的攻击](https://mp.weixin.qq.com/s/UmHH30MWoe_eajAZ0V7XBw)
+- [Visualizing Nudivirus Assembly and Egress](https://mbio.asm.org/content/11/4/e01333-20)
