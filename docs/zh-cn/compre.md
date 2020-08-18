@@ -962,3 +962,7 @@
 - [From lobsters to honey bees, social distancing is common in the animal kingdom](https://www.sciencemag.org/news/2020/08/lobsters-honey-bees-social-distancing-common-animal-kingdom)
 - [这种疫情下常用的消毒剂，可能影响生育和胎儿发育？](https://mp.weixin.qq.com/s/3kwHJbhuZEWRygX44U6_AQ)
 - [Do we know enough about the safety of quat disinfectants?](https://cen.acs.org/safety/consumer-safety/know-enough-safety-quat-disinfectants/98/i30)
+- [Science报道：非洲似乎经受住了新冠大流行的冲击，why？](https://mp.weixin.qq.com/s/ZuLgx1tuQpolUrmODkGFJg)
+- [The pandemic appears to have spared Africa so far. Scientists are struggling to explain why](https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why)
+- [Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Kenyan blood donors](https://www.medrxiv.org/content/10.1101/2020.07.27.20162693v1)
+- [Mental distress and its associations with behavioral outcomes during the COVID-19 pandemic: A national survey of Chinese adults](https://www.researchsquare.com/article/rs-56290/v1)

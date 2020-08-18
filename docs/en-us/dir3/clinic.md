@@ -831,3 +831,7 @@
 - [Elevated calprotectin and abnormal myeloid cell subsets discriminate severe from mild COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)30993-4)
 - [维生素D可以预防或治疗COVID-19吗？](https://mp.weixin.qq.com/s/zt5NTzljirQbklSxK6P9kw)
 - [Vitamin D for COVID-19 : a case to answer ?](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30268-0/fulltext)
+- [新冠疫苗上场之前，抗体疗法能否担起重任？](https://mp.weixin.qq.com/s/TyspH990K7gdItbH516aqw)
+- [Antibody therapies could be a bridge to a coronavirus vaccine — but will the world benefit?](https://www.nature.com/articles/d41586-020-02360-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02360-y)
+- [JAMA | 突破！华中科技大学潘安等团队首次系统公布新冠疫苗不良反应情况](https://mp.weixin.qq.com/s/MP1Hsaj7N4gGSeOQcXwqWA)
+- [Effect of an Inactivated Vaccine Against SARS-CoV-2 on Safety and Immunogenicity Outcomes，Interim Analysis of 2 Randomized Clinical Trials](https://jamanetwork.com/journals/jama/fullarticle/2769612)

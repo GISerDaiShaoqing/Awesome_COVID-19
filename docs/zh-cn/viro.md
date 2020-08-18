@@ -513,3 +513,5 @@
 - [Visualizing Nudivirus Assembly and Egress](https://mbio.asm.org/content/11/4/e01333-20)
 - [王国庆/周丰丰团队共同研究新型冠状病毒全基因组的进化特征](https://mp.weixin.qq.com/s/ZZHNVsc9ynNk1OB8ewMDdw)
 - [Application of Bayesian phylogenetic inference modelling for evolutionary genetic analysis and dynamic changes in 2019-nCoV](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa154/5879226)
+- [Nature | 突破！柯尊龙等人首次获得新冠完整病毒体上刺突蛋白的结构和分布](https://mp.weixin.qq.com/s/lPOa4ewrTmSWrVrOREfdmg)
+- [Structures and distributions of SARS-CoV-2 spike proteins on intact virions](https://doi.org/10.1038/s41586-020-2665-2)
