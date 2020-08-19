@@ -816,3 +816,6 @@
 - [现代编程奠基人去世 | 恐龙也生癌 | 羊驼献身新冠研究 | 自然每周简报](https://mp.weixin.qq.com/s/GTHkg61YlVpIsdAQK0TgKw)
 - [8 月 17 日我国内地新增确诊病例 22 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/kbAdlYS_HYk6GySc1jv3kg)
 - [24小时热门｜研究揭示：无症状感染者多达30%以上，嗅觉测试可助其“现行”](https://mp.weixin.qq.com/s/u9X8hrFcE-lO6RviOaq7Bg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月18日）【中国科讯】](https://mp.weixin.qq.com/s/7_ltoK8mAAh250uucW13BQ)
+- [新冠肺炎诊疗方案试行第八版发布，增加“可通过被污染的物品传播”等内容​ | 科研圈日报](https://mp.weixin.qq.com/s/VAGPvU9R4ifV49eaUP_MeQ)
+- [Exo-SIR: 分析印度新冠肺炎外源感染影响的流行病学模型 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/S2o8Hb3OMxLbaOGk-OGRNQ)

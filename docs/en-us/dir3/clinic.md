@@ -835,3 +835,5 @@
 - [Antibody therapies could be a bridge to a coronavirus vaccine — but will the world benefit?](https://www.nature.com/articles/d41586-020-02360-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02360-y)
 - [JAMA | 突破！华中科技大学潘安等团队首次系统公布新冠疫苗不良反应情况](https://mp.weixin.qq.com/s/MP1Hsaj7N4gGSeOQcXwqWA)
 - [Effect of an Inactivated Vaccine Against SARS-CoV-2 on Safety and Immunogenicity Outcomes，Interim Analysis of 2 Randomized Clinical Trials](https://jamanetwork.com/journals/jama/fullarticle/2769612)
+- [与SARS-CoV-2感染相关的重度儿童多系统炎症综合征 |《自然-医学》论文](https://mp.weixin.qq.com/s/XqVzJjRD_vTE3tQK1_DhxQ)
+- [Peripheral immunophenotypes in children with multisystem inflammatory syndrome associated with SARS-CoV-2 infection](https://www.nature.com/articles/s41591-020-1054-6)
