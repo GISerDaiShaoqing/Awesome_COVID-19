@@ -819,3 +819,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月18日）【中国科讯】](https://mp.weixin.qq.com/s/7_ltoK8mAAh250uucW13BQ)
 - [新冠肺炎诊疗方案试行第八版发布，增加“可通过被污染的物品传播”等内容​ | 科研圈日报](https://mp.weixin.qq.com/s/VAGPvU9R4ifV49eaUP_MeQ)
 - [Exo-SIR: 分析印度新冠肺炎外源感染影响的流行病学模型 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/S2o8Hb3OMxLbaOGk-OGRNQ)
+- [​NIH阻挠与武汉病毒所合作的项目重获经费，提出“无法容忍”的资助条件 | 科研圈日报](https://mp.weixin.qq.com/s/9tPT35vuZ0qnUtv-XxM-lg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月19日）【中国科讯】](https://mp.weixin.qq.com/s/XoukO_ZEOnKFK7srvTXvwQ)
+- [超级传播者和高变异传染病 | 网络科学论文速递19篇](https://mp.weixin.qq.com/s/bIJv1NZGiVd5mggOeBOIfw)
+- [国家卫健委发布 关于印发新型冠状病毒肺炎诊疗方案（试行第八版）的通知](https://mp.weixin.qq.com/s/h-ushfKoFPcArnFvF4Jknw)
