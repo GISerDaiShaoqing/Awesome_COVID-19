@@ -972,3 +972,8 @@
 - [COVID-19 waste management: Effective and successful measures in Wuhan, China](https://www.sciencedirect.com/science/article/pii/S0921344920303888)
 - [该不该给儿童戴口罩来预防COVID-19 | Springer Nature儿科图书馆](https://mp.weixin.qq.com/s/LBstv6yktGHXLCgB7NeqaA)
 - [新冠疫情暗藏复杂性危机——圣塔菲研究所两任所长发出警告！](https://mp.weixin.qq.com/s/nNlOycRQU1edFnW2gRNqmg)
+- [李德仁对话李兰娟：基于北斗、物联网、人工智能的“网络空间精准管理”替代封城](https://mp.weixin.qq.com/s/4ynh_29nqljqVOUmpNPNbA)
+- [李德仁院士：建数字孪生智慧城市 北斗精准定位可助力抗疫](https://mp.weixin.qq.com/s/ntRspPDSM6NK6-IcTmgDIA)
+- [在经济危机中保护母婴的健康：大萧条带给我们的启示 | BMC Pregnancy and Childbirth](https://mp.weixin.qq.com/s/cpP3FHJKtrl-csJ0I5zsDA)
+- [The effect of women, infant, and children (WIC) services on birth weight before and during the 2007–2009 great recession in Washington state and Florida: a pooled cross-sectional time series analysis](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-020-02937-5?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_BMCPC_Aug)
+- [北大教授：疫苗“走出去”水很深](https://mp.weixin.qq.com/s/vLilydxxgTHiMhQ2HZjisg)

@@ -823,3 +823,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月19日）【中国科讯】](https://mp.weixin.qq.com/s/XoukO_ZEOnKFK7srvTXvwQ)
 - [超级传播者和高变异传染病 | 网络科学论文速递19篇](https://mp.weixin.qq.com/s/bIJv1NZGiVd5mggOeBOIfw)
 - [国家卫健委发布 关于印发新型冠状病毒肺炎诊疗方案（试行第八版）的通知](https://mp.weixin.qq.com/s/h-ushfKoFPcArnFvF4Jknw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月20日）【中国科讯】](https://mp.weixin.qq.com/s/T3Je0RjonAKNv1nmtEPE6Q)
+- [《新型冠状病毒肺炎诊疗方案（试行第八版）》印发，修订要点看这里！](https://mp.weixin.qq.com/s/3k3xkWI_wHOwtdLuveGmBA)
+- [88国证据：新冠肺炎大流行的严重程度、封锁制度和人口流动 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/oLO1mUlMZfxkouu5_W7S-w)
+- [教育部：全面恢复秋季学期教育教学秩序、做好疫情防控| 科研圈日报](https://mp.weixin.qq.com/s/6n5a2sE96-FmlJT0v5z2dg)

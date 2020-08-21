@@ -15,5 +15,6 @@
 - [China needs a national intelligent syndromic surveillance system](https://www.nature.com/articles/s41591-020-0921-5?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=3_nsn6445_deeplink_PID2190813&utm_content=deeplink)
 - [Time to spatialise epidemiology in China](https://www.sciencedirect.com/science/article/pii/S2214109X20301200?via%3Dihub)
 - [Preferential Tax Policies: An Invisible Hand behind Preparedness for Public Health Emergencies](https://www.ijhpm.com/article_3872.html)
+- [新闻快讯 | 税收优惠政策：突发公共卫生事件应对中的无形之手](https://mp.weixin.qq.com/s/zevrNytbwLy1Q_BuOThhxg)
 
 ![](/img/ISLEwechat.jpg)
