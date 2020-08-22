@@ -827,3 +827,4 @@
 - [《新型冠状病毒肺炎诊疗方案（试行第八版）》印发，修订要点看这里！](https://mp.weixin.qq.com/s/3k3xkWI_wHOwtdLuveGmBA)
 - [88国证据：新冠肺炎大流行的严重程度、封锁制度和人口流动 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/oLO1mUlMZfxkouu5_W7S-w)
 - [教育部：全面恢复秋季学期教育教学秩序、做好疫情防控| 科研圈日报](https://mp.weixin.qq.com/s/6n5a2sE96-FmlJT0v5z2dg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月21日）【中国科讯】](https://mp.weixin.qq.com/s/vzfI57H3TRNJj1hxk5K_aA)

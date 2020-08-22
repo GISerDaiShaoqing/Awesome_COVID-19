@@ -977,3 +977,7 @@
 - [在经济危机中保护母婴的健康：大萧条带给我们的启示 | BMC Pregnancy and Childbirth](https://mp.weixin.qq.com/s/cpP3FHJKtrl-csJ0I5zsDA)
 - [The effect of women, infant, and children (WIC) services on birth weight before and during the 2007–2009 great recession in Washington state and Florida: a pooled cross-sectional time series analysis](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-020-02937-5?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_4_CZ01_CN_org_WC_BMCPC_Aug)
 - [北大教授：疫苗“走出去”水很深](https://mp.weixin.qq.com/s/vLilydxxgTHiMhQ2HZjisg)
+- [韩国一周新增千例确诊，想用 AI 定位出咳嗽的人](https://mp.weixin.qq.com/s/cKpc5avuim51HgnA9jKMFw)
+- [王辰院士大声疾呼：今年一定要打流感疫苗！9月底以前，不要晚于10月份，大人群接种！](https://mp.weixin.qq.com/s/f2vSfJSR22gDG0khYUmN_Q)
+- [《自然》杂志：特朗普成了美国应对大流行的绊脚石](https://mp.weixin.qq.com/s/LnhEaikIcTLYbngdUriAhA)
+- [Two Decades of Pandemic War Games Failed to Account for Donald Trump](https://www.scientificamerican.com/article/two-decades-of-pandemic-war-games-failed-to-account-for-donald-trump1/)
