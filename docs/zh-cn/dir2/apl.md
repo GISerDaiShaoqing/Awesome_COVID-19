@@ -828,3 +828,7 @@
 - [88国证据：新冠肺炎大流行的严重程度、封锁制度和人口流动 | 网络科学论文速递18篇](https://mp.weixin.qq.com/s/oLO1mUlMZfxkouu5_W7S-w)
 - [教育部：全面恢复秋季学期教育教学秩序、做好疫情防控| 科研圈日报](https://mp.weixin.qq.com/s/6n5a2sE96-FmlJT0v5z2dg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月21日）【中国科讯】](https://mp.weixin.qq.com/s/vzfI57H3TRNJj1hxk5K_aA)
+- [疫情期间，乘飞机出行应做好哪些准备？](https://mp.weixin.qq.com/s/iO2HEy7ePMDocprZZFhQiQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月22日）【中国科讯】](https://mp.weixin.qq.com/s/XXYJsn9cbC8WDJjrKut-gQ)
+- [新冠病毒变异影响传染性？世卫组织：疫苗或不能终结疫情](https://mp.weixin.qq.com/s/f_8zjSu5bbMokY0kbhxSlw)
+- [我国7月已启动新冠疫苗紧急使用；被审稿人拒掉的论文的4种特点；新冠肺炎已成美国第三大致死原因 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/Rp2fcQYJg45iF_mgy6416A)

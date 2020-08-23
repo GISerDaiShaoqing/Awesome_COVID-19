@@ -520,3 +520,5 @@
 - [A Literature Review of the Economics of COVID-19](https://www.researchgate.net/publication/342479884_A_Literature_Review_of_the_Economics_of_COVID-19)
 - [全球汇 | 应对全球危机：来自英国教授市长的呼吁](https://mp.weixin.qq.com/s/AE_lqWRMdwlwavPXE0aDuA)
 - [侯志仁：疫情让公共空间更排斥还是更包容](https://mp.weixin.qq.com/s/3LbBwISpgmqfvFrQWa8WAg)
+- [第一本关于COVID-19经济学的书来了](https://mp.weixin.qq.com/s/_RZ4Kwv29TCK8jyIAJrZyg)
+- [COVID-19 economics — first book hits shelves](https://www.nature.com/articles/d41586-020-01487-2?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01487-2)

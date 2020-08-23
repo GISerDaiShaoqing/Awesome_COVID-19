@@ -981,3 +981,5 @@
 - [王辰院士大声疾呼：今年一定要打流感疫苗！9月底以前，不要晚于10月份，大人群接种！](https://mp.weixin.qq.com/s/f2vSfJSR22gDG0khYUmN_Q)
 - [《自然》杂志：特朗普成了美国应对大流行的绊脚石](https://mp.weixin.qq.com/s/LnhEaikIcTLYbngdUriAhA)
 - [Two Decades of Pandemic War Games Failed to Account for Donald Trump](https://www.scientificamerican.com/article/two-decades-of-pandemic-war-games-failed-to-account-for-donald-trump1/)
+- [【存照】疫情减少人类生态足迹：今年的“地球过载日”推迟了24天！](https://mp.weixin.qq.com/s/TS2_NbAALwmQk8zTgQMjhA)
+- [How the Date of Earth Overshoot Day 2020 Was Calculated](https://www.overshootday.org/2020-calculation/)
