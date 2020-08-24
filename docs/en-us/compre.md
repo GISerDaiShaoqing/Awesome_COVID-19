@@ -983,3 +983,8 @@
 - [Two Decades of Pandemic War Games Failed to Account for Donald Trump](https://www.scientificamerican.com/article/two-decades-of-pandemic-war-games-failed-to-account-for-donald-trump1/)
 - [【存照】疫情减少人类生态足迹：今年的“地球过载日”推迟了24天！](https://mp.weixin.qq.com/s/TS2_NbAALwmQk8zTgQMjhA)
 - [How the Date of Earth Overshoot Day 2020 Was Calculated](https://www.overshootday.org/2020-calculation/)
+- [健康扶贫从疫苗公平入手](https://mp.weixin.qq.com/s/OBSYyUxwLSIEvHeps5I6Kw)
+- [【争鸣】疫情中废旧的口罩和防护用品应该填埋、焚烧还是转化为燃料？](https://mp.weixin.qq.com/s/n2V8huJ22l-duSy-PfR-9Q)
+- [The world is drowning in used face masks. Should we turn them into fuel?](https://grist.org/climate/the-world-is-drowning-in-used-face-masks-should-we-turn-them-into-fuel/)
+- [福奇：肆虐的大流行病——COVID-19是怎么降临的？](https://mp.weixin.qq.com/s/WXnNMNoKVOfvn1-v4Eo_Kg)
+- [Emerging Pandemic Diseases: How We Got To COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31012-6)

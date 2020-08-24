@@ -282,7 +282,6 @@
 - [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)
 - [Current State of the Coronavirus (Covid-19) in Algeria](https://www.researchgate.net/publication/341680002_Current_State_of_the_Coronavirus_Covid-19_in_Algeria)
 - [Nature | 再传捷报！华中科技大学邬堂春/王超龙等首次系统重构了武汉全市的新冠传播动力学](https://mp.weixin.qq.com/s/mWvnhBPljBlz5nqOQDBDpA)
-- [Reconstruction of the full transmission dynamics of COVID-19 in Wuhan](https://www.nature.com/articles/s41586-020-2554-8)
 - [Introductions and early spread of SARS-CoV-2 in the New York City area](https://science.sciencemag.org/content/369/6501/297)
 - [Epidemiological and clinical characteristics of the early phase of the COVID-19 epidemic in Brazil](https://www.medrxiv.org/content/10.1101/2020.04.25.20077396v1)
 - [Estimating the burden of SARS-CoV-2 in France](https://science.sciencemag.org/content/369/6500/208)
@@ -302,3 +301,4 @@
 - [Predictable county-level estimates of R0 for COVID-19 needed for public health planning in the USA](https://www.medrxiv.org/content/10.1101/2020.06.18.20134700v2)
 - [Modeling the Prevalence of Asymptomatic COVID-19 Infections in the Chinese Mainland](https://www.sciencedirect.com/science/article/pii/S2666675820300266?via%3Dihub)
 - [基于跨国人口流动数据的新冠病毒传播途径分析](https://mp.weixin.qq.com/s/k5YY8Xd1Bx3hahmalLGXqQ)
+- [《自然》刊发！华中大研究成果揭示新冠病毒传播特征](https://mp.weixin.qq.com/s/xvCydOF3jEY0rDlpnL2lig)

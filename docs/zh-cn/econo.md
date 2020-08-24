@@ -522,3 +522,6 @@
 - [侯志仁：疫情让公共空间更排斥还是更包容](https://mp.weixin.qq.com/s/3LbBwISpgmqfvFrQWa8WAg)
 - [第一本关于COVID-19经济学的书来了](https://mp.weixin.qq.com/s/_RZ4Kwv29TCK8jyIAJrZyg)
 - [COVID-19 economics — first book hits shelves](https://www.nature.com/articles/d41586-020-01487-2?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01487-2)
+- [国际资讯 | [法]疫情下的城乡“较量”/空气污染，“国家”受罚(2020.8)](https://mp.weixin.qq.com/s/rTEAL7n89QwIdwHE3OrSeg)
+- [全球城市观察︱疫情后，波哥大将进一步改善骑行基础设施](https://mp.weixin.qq.com/s/ae2diQ8i3UXv5lW1U8eEEw)
+- [后疫情时代，数字化转型路在何方?](https://mp.weixin.qq.com/s/tDWRFBUFxJi7Qo79Gtan_g)

@@ -843,3 +843,7 @@
 - [Elevated ACE2 expression in theolfactory neuroepithelium: implications for anosmia and upperrespiratory SARS-CoV-2 entry and replication](https://erj.ersjournals.com/content/early/2020/07/23/13993003.01948-2020)
 - [连发众多研究成果 | 起神效！武汉大学李红良等团队首次发现神药二甲双胍可以减少新冠肺炎患者的心力衰竭等副作用](https://mp.weixin.qq.com/s/v1aP3dxenyCFlnf734opsA)
 - [Metformin Use Is Associated with Increased Incidence of Acidosis but not Mortality in Individuals with COVID-19 and Pre-existing Type 2 Diabetes](https://doi.org/10.1016/j.cmet.2020.08.013)
+- [为什么受伤的总是肾？《柳叶刀》最新研究证实新冠病毒“嗜肾”！](https://mp.weixin.qq.com/s/qAp22Z-FtJYd9zCQpVVQMw)
+- [Caution on Kidney Dysfunctions of 2019-nCoV Patients](https://www.medrxiv.org/content/10.1101/2020.02.08.20021212v2)
+- [SARS-COV-2 renal tropism associates with acute kidney injury](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31759-1/fulltext)
+- [全球首例！港大袁国勇团队证实有康复者二次感染新冠病毒](https://mp.weixin.qq.com/s/HPEAYPXXJLeJm1hJU90L7w)
