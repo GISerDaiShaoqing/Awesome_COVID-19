@@ -988,3 +988,4 @@
 - [The world is drowning in used face masks. Should we turn them into fuel?](https://grist.org/climate/the-world-is-drowning-in-used-face-masks-should-we-turn-them-into-fuel/)
 - [福奇：肆虐的大流行病——COVID-19是怎么降临的？](https://mp.weixin.qq.com/s/WXnNMNoKVOfvn1-v4Eo_Kg)
 - [Emerging Pandemic Diseases: How We Got To COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31012-6)
+- [Epidemiological and Clinical Characteristics of COVID-19 Patients with Cancers: A Systematic Review and Meta-Analysis of Global Data](https://www.medrxiv.org/content/10.1101/2020.08.20.20177311v1)
