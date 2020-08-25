@@ -839,3 +839,7 @@
 - [24小时热门｜对肥胖患者，切胃手术能“救命”；抗生素或使避孕药失效；冷冻食品中新冠病毒能存活21天](https://mp.weixin.qq.com/s/gX61zq9jATvYpi2X8Ac_bw)
 - [Science 一周论文导读 | 2020年8月14日](https://mp.weixin.qq.com/s/rrBTUDxwLXMNzw7A3jhWNg)
 - [Nature 一周论文导读 | 2020年8月13日](https://mp.weixin.qq.com/s/hwn1aXeZ8q_7-Qb0-KT0BA)
+- [首次确认！康复者可再次感染新冠病毒，免疫力还能提供保护吗？](https://mp.weixin.qq.com/s/HEo5nGc0ROgr54-DgfmlgQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月24日）【中国科讯】](https://mp.weixin.qq.com/s/ffu-cCh-X6hR8l9baikLKQ)
+- [全球首例：香港一新冠康复患者被证实再次感染 | 科研圈日报](https://mp.weixin.qq.com/s/fqJWbPEWNTTA6sFw8nLegA)
+- [24小时热门｜科学家找到了新冠病毒的“弱点”，这种变异是毒性减弱的关键](https://mp.weixin.qq.com/s/upUzBbVqfj3tffWnGEVgQw)

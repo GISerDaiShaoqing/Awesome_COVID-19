@@ -847,3 +847,6 @@
 - [Caution on Kidney Dysfunctions of 2019-nCoV Patients](https://www.medrxiv.org/content/10.1101/2020.02.08.20021212v2)
 - [SARS-COV-2 renal tropism associates with acute kidney injury](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31759-1/fulltext)
 - [全球首例！港大袁国勇团队证实有康复者二次感染新冠病毒](https://mp.weixin.qq.com/s/HPEAYPXXJLeJm1hJU90L7w)
+- [Science头条 | 香港大学研究人员首次发现新冠康复患者可再次被感染](https://mp.weixin.qq.com/s/zbrwlxu4oJLheqKD-k4KuA)
+- [Some people can get the pandemic virus twice, a study suggests. That is no reason to panic](https://www.sciencemag.org/news/2020/08/some-people-can-get-pandemic-virus-twice-study-suggests-no-reason-panic)
+- [全球首例！袁国勇院士团队证实有新冠康复者二次感染，系康复后在欧洲感染](https://mp.weixin.qq.com/s/VdCFmMBzScJjy71vUOQchg)

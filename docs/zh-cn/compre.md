@@ -989,3 +989,6 @@
 - [福奇：肆虐的大流行病——COVID-19是怎么降临的？](https://mp.weixin.qq.com/s/WXnNMNoKVOfvn1-v4Eo_Kg)
 - [Emerging Pandemic Diseases: How We Got To COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31012-6)
 - [Epidemiological and Clinical Characteristics of COVID-19 Patients with Cancers: A Systematic Review and Meta-Analysis of Global Data](https://www.medrxiv.org/content/10.1101/2020.08.20.20177311v1)
+- [【研究】疫情封锁措施不仅降低了空气污染，还大大降低了高频地震噪声！](https://mp.weixin.qq.com/s/xkecJl3EqcSqqetz8eHEOw)
+- [疫情造成博士项目进展不顺，要如何缓解焦虑？](https://mp.weixin.qq.com/s/3J68GOkTlU7kxi90j1aMQw)
+- [Five ways to tackle PhD research anxieties triggered by COVID-19 lockdowns](https://www.nature.com/articles/d41586-020-01898-1?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01898-1)
