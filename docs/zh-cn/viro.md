@@ -515,3 +515,5 @@
 - [Application of Bayesian phylogenetic inference modelling for evolutionary genetic analysis and dynamic changes in 2019-nCoV](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa154/5879226)
 - [Nature | 突破！柯尊龙等人首次获得新冠完整病毒体上刺突蛋白的结构和分布](https://mp.weixin.qq.com/s/lPOa4ewrTmSWrVrOREfdmg)
 - [Structures and distributions of SARS-CoV-2 spike proteins on intact virions](https://doi.org/10.1038/s41586-020-2665-2)
+- [康复者二次感染新冠，疫苗还管用吗？高福：有许多问题待解](https://mp.weixin.qq.com/s/mMYyIS02avYU2ZvMHqqOaA)
+- [Viruses | 快速测试抗病毒效果的呼吸道模型诞生](https://mp.weixin.qq.com/s/razUqvnOUTMJoccTOVjkyw)

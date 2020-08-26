@@ -843,3 +843,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月24日）【中国科讯】](https://mp.weixin.qq.com/s/ffu-cCh-X6hR8l9baikLKQ)
 - [全球首例：香港一新冠康复患者被证实再次感染 | 科研圈日报](https://mp.weixin.qq.com/s/fqJWbPEWNTTA6sFw8nLegA)
 - [24小时热门｜科学家找到了新冠病毒的“弱点”，这种变异是毒性减弱的关键](https://mp.weixin.qq.com/s/upUzBbVqfj3tffWnGEVgQw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月25日）【中国科讯】](https://mp.weixin.qq.com/s/RokFKBQIFYN-5e4-K1jC0Q)
+- [不用刮鼻腔，唾液也能测新冠](https://mp.weixin.qq.com/s/bSVFpprfTdUQNKTVsLETcA)
+- [24小时热门｜该不该给儿童戴口罩来预防COVID-19 | Springer Nature儿科图书馆](https://mp.weixin.qq.com/s/RnpNGVJfys7ftWCjpKVRIg)
+- [人与SARS-CoV-2 相互作用的多尺度统计物理 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/pEj8w5O4GqEV1ejwaPvB8A)
+- [为了防止疫苗被发达国家垄断，172 个国家和地区加入全球新冠疫苗计划 | 科研圈日报](https://mp.weixin.qq.com/s/JIYkfy-ufOY2Qk8PHH5lNA)

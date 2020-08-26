@@ -525,3 +525,4 @@
 - [国际资讯 | [法]疫情下的城乡“较量”/空气污染，“国家”受罚(2020.8)](https://mp.weixin.qq.com/s/rTEAL7n89QwIdwHE3OrSeg)
 - [全球城市观察︱疫情后，波哥大将进一步改善骑行基础设施](https://mp.weixin.qq.com/s/ae2diQ8i3UXv5lW1U8eEEw)
 - [后疫情时代，数字化转型路在何方?](https://mp.weixin.qq.com/s/tDWRFBUFxJi7Qo79Gtan_g)
+- [国际资讯 | [荷]全国交通信号公开/上半年经济衰退(2020.8)](https://mp.weixin.qq.com/s/WKLZtr74Az9vyNyO1yi1KA)

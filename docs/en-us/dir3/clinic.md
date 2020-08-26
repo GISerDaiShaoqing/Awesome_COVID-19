@@ -850,3 +850,5 @@
 - [Science头条 | 香港大学研究人员首次发现新冠康复患者可再次被感染](https://mp.weixin.qq.com/s/zbrwlxu4oJLheqKD-k4KuA)
 - [Some people can get the pandemic virus twice, a study suggests. That is no reason to panic](https://www.sciencemag.org/news/2020/08/some-people-can-get-pandemic-virus-twice-study-suggests-no-reason-panic)
 - [全球首例！袁国勇院士团队证实有新冠康复者二次感染，系康复后在欧洲感染](https://mp.weixin.qq.com/s/VdCFmMBzScJjy71vUOQchg)
+- [高福团队疫苗制备新方法动物实验成功, 正申请临床试验](https://mp.weixin.qq.com/s/z9-QfanxcaWavOMDyhuO3A)
+- [Recombinant SARS-CoV-2 RBD molecule with a T helper epitope as a built in adjuvant induces strong neutralization antibody response](https://www.biorxiv.org/content/10.1101/2020.08.21.262188v1)
