@@ -302,3 +302,4 @@
 - [Modeling the Prevalence of Asymptomatic COVID-19 Infections in the Chinese Mainland](https://www.sciencedirect.com/science/article/pii/S2666675820300266?via%3Dihub)
 - [基于跨国人口流动数据的新冠病毒传播途径分析](https://mp.weixin.qq.com/s/k5YY8Xd1Bx3hahmalLGXqQ)
 - [《自然》刊发！华中大研究成果揭示新冠病毒传播特征](https://mp.weixin.qq.com/s/xvCydOF3jEY0rDlpnL2lig)
+- [Reply to: Is presymptomatic spread a major contributor to COVID-19 transmission?](https://www.nature.com/articles/s41591-020-1049-3)

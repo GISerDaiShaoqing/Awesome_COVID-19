@@ -848,3 +848,7 @@
 - [24小时热门｜该不该给儿童戴口罩来预防COVID-19 | Springer Nature儿科图书馆](https://mp.weixin.qq.com/s/RnpNGVJfys7ftWCjpKVRIg)
 - [人与SARS-CoV-2 相互作用的多尺度统计物理 | 网络科学论文速递25篇](https://mp.weixin.qq.com/s/pEj8w5O4GqEV1ejwaPvB8A)
 - [为了防止疫苗被发达国家垄断，172 个国家和地区加入全球新冠疫苗计划 | 科研圈日报](https://mp.weixin.qq.com/s/JIYkfy-ufOY2Qk8PHH5lNA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月26日）【中国科讯】](https://mp.weixin.qq.com/s/mQ5SqgvQl_XYGaWRHq4p9w)
+- [中国大气臭氧对新型冠状病毒肺炎封锁的不同反应 | 网络科学论文速递12篇](https://mp.weixin.qq.com/s/zgsejd--mcO5Gcwyd4XxFA)
+- [快开学了，学校应准备哪些预防和控制措施？](https://mp.weixin.qq.com/s/5PYqw6zUR_MypQwtu2tZpQ)
+- [8 月 26 日我国内地新增确诊病例 8 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/tckwyxE1hE9qMN0QSQtFWQ)

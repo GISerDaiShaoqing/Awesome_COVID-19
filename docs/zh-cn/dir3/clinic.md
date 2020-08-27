@@ -852,3 +852,5 @@
 - [全球首例！袁国勇院士团队证实有新冠康复者二次感染，系康复后在欧洲感染](https://mp.weixin.qq.com/s/VdCFmMBzScJjy71vUOQchg)
 - [高福团队疫苗制备新方法动物实验成功, 正申请临床试验](https://mp.weixin.qq.com/s/z9-QfanxcaWavOMDyhuO3A)
 - [Recombinant SARS-CoV-2 RBD molecule with a T helper epitope as a built in adjuvant induces strong neutralization antibody response](https://www.biorxiv.org/content/10.1101/2020.08.21.262188v1)
+- [不同性别患者对SARS-CoV-2免疫反应的差异 |《自然》论文](https://mp.weixin.qq.com/s/mUtHUWpxMcdh9hJcy6RdXg)
+- [Sex differences in immune responses that underlie COVID-19 disease outcomes](https://www.nature.com/articles/s41586-020-2700-3)
