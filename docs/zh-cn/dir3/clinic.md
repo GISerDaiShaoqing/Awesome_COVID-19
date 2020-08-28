@@ -854,3 +854,5 @@
 - [Recombinant SARS-CoV-2 RBD molecule with a T helper epitope as a built in adjuvant induces strong neutralization antibody response](https://www.biorxiv.org/content/10.1101/2020.08.21.262188v1)
 - [不同性别患者对SARS-CoV-2免疫反应的差异 |《自然》论文](https://mp.weixin.qq.com/s/mUtHUWpxMcdh9hJcy6RdXg)
 - [Sex differences in immune responses that underlie COVID-19 disease outcomes](https://www.nature.com/articles/s41586-020-2700-3)
+- [中国团队开辟mRNA新冠疫苗全新领域](https://mp.weixin.qq.com/s/OrjxDm2-PGr2qQdoq44CMA)
+- [A COVID-19 mRNA vaccine encoding SARS-CoV-2 virus-like particles induces a strong antiviral-like immune response in mice](https://www.nature.com/articles/s41422-020-00392-7)
