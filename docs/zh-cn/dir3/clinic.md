@@ -856,3 +856,5 @@
 - [Sex differences in immune responses that underlie COVID-19 disease outcomes](https://www.nature.com/articles/s41586-020-2700-3)
 - [中国团队开辟mRNA新冠疫苗全新领域](https://mp.weixin.qq.com/s/OrjxDm2-PGr2qQdoq44CMA)
 - [A COVID-19 mRNA vaccine encoding SARS-CoV-2 virus-like particles induces a strong antiviral-like immune response in mice](https://www.nature.com/articles/s41422-020-00392-7)
+- [研发到哪一步？接种一次管多久？新冠疫苗热点问题，权威解答来了](https://mp.weixin.qq.com/s/HdlrWuU-mtMqb7VwgLiU1g)
+- [好消息! Moderna新冠疫苗可刺激年长者免疫系统, 产生与年轻人相当抗体水平](https://mp.weixin.qq.com/s/1vAzH_51C5LDLyObK0JWSg)

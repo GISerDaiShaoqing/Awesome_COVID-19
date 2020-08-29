@@ -517,3 +517,5 @@
 - [Structures and distributions of SARS-CoV-2 spike proteins on intact virions](https://doi.org/10.1038/s41586-020-2665-2)
 - [康复者二次感染新冠，疫苗还管用吗？高福：有许多问题待解](https://mp.weixin.qq.com/s/mMYyIS02avYU2ZvMHqqOaA)
 - [Viruses | 快速测试抗病毒效果的呼吸道模型诞生](https://mp.weixin.qq.com/s/razUqvnOUTMJoccTOVjkyw)
+- [纽约血液中心病毒免疫学实验室杜兰英教授在CMI发文：揭示新型冠状病毒受体结合区分子特征及应用前景](https://mp.weixin.qq.com/s/NSqhBZQsVSyXSdbbZtZiVA)
+- [Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine](https://www.nature.com/articles/s41423-020-0400-4)
