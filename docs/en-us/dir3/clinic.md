@@ -858,3 +858,5 @@
 - [A COVID-19 mRNA vaccine encoding SARS-CoV-2 virus-like particles induces a strong antiviral-like immune response in mice](https://www.nature.com/articles/s41422-020-00392-7)
 - [研发到哪一步？接种一次管多久？新冠疫苗热点问题，权威解答来了](https://mp.weixin.qq.com/s/HdlrWuU-mtMqb7VwgLiU1g)
 - [好消息! Moderna新冠疫苗可刺激年长者免疫系统, 产生与年轻人相当抗体水平](https://mp.weixin.qq.com/s/1vAzH_51C5LDLyObK0JWSg)
+- [《Science》子刊详解！开发和评估四种检测新冠病毒抗体的血清学测试方法](https://mp.weixin.qq.com/s/GVXxS2pPFIm5HzyvwIVkZA)
+- [A comparison of four serological assays for detecting anti-SARS-CoV-2 antibodies in human serum samples from different populations](https://stm.sciencemag.org/content/early/2020/08/17/scitranslmed.abc3103)

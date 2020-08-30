@@ -860,3 +860,6 @@
 - [24小时热门｜未经药物治疗，这个艾滋病患者“自愈”了；男性新冠死亡风险可达女性近两倍；这种膳食补充剂，可以让健康的胖子更苗条](https://mp.weixin.qq.com/s/w82VreRwlrltW7kMhCnprQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月28日）【中国科讯】](https://mp.weixin.qq.com/s/bGvPoxLwluP9XxirrHv3Ag)
 - [「防疫」外媒：研究发现，新冠病毒在冷冻肉类和鱼类中，可以存活三周](https://mp.weixin.qq.com/s/NVDCN4MZcJ7_LcBwoNzdwQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月29日）【中国科讯】](https://mp.weixin.qq.com/s/uCn9zcVJaqy2TLaimL5tqA)
+- [新冠肺炎流行期间欧洲 Twitter 信息的跨语言情绪分析 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/wSBD_yZEf7cEas9eb4eTOg)
+- [《科学》（20200828出版）一周论文导读](https://mp.weixin.qq.com/s/wPbqReiR0_UppmBLWVV5PA)
