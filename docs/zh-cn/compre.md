@@ -1000,3 +1000,5 @@
 - [Perspectives from CO+RE: How COVID-19 changed our food systems and food security paradigms](https://www.sciencedirect.com/science/article/pii/S2665927120300241?via%3Dihub)
 - [《柳叶刀》社论 | 全球大流行中的人道主义危机](https://mp.weixin.qq.com/s/E7LomPHmz7JuPXbuokcwcg)
 - [Humanitarian crises in a global pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31749-9/fulltext)
+- [《柳叶刀》评论 | COVID-19 疫苗试验应寻求有价值的效力](https://mp.weixin.qq.com/s/NaM3R7M8OTbPy7xm4ZFpSA)
+- [COVID-19 vaccine trials should seek worthwhile efficacy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31821-3/fulltext)

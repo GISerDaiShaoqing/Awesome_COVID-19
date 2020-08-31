@@ -529,3 +529,5 @@
 - [《后疫情时代的智慧商圈发展》报告：2020步行街及商业地产企业的数字化转型路径【附下载】](https://mp.weixin.qq.com/s/tMAzD9WmL-k1Bq4J_DycfQ)
 - [新加坡如何实施新冠疫情的社区防控](https://mp.weixin.qq.com/s/4Ud6nt_s0y_L-6GScGr_jA)
 - [玛格丽特·克劳福德：社交距离背后存在阶层分异](https://mp.weixin.qq.com/s/rLMLfravvD91iYP2oh-vGw)
+- [首都功能核心区丨加强公共卫生体系建设，保障人民安全](https://mp.weixin.qq.com/s/DEDh2S-ywWv6W44Efz4mWg)
+- [全球城市观察︱120亿美元能否挽救危机中的纽约公共交通](https://mp.weixin.qq.com/s/Stg-ai8wzfY6rA8_JPmmWw)

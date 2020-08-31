@@ -860,3 +860,5 @@
 - [好消息! Moderna新冠疫苗可刺激年长者免疫系统, 产生与年轻人相当抗体水平](https://mp.weixin.qq.com/s/1vAzH_51C5LDLyObK0JWSg)
 - [《Science》子刊详解！开发和评估四种检测新冠病毒抗体的血清学测试方法](https://mp.weixin.qq.com/s/GVXxS2pPFIm5HzyvwIVkZA)
 - [A comparison of four serological assays for detecting anti-SARS-CoV-2 antibodies in human serum samples from different populations](https://stm.sciencemag.org/content/early/2020/08/17/scitranslmed.abc3103)
+- [COVID-19对神经系统的影响 | CellPress 新冠中心新文](https://mp.weixin.qq.com/s/JkoeBxAmQ4QAit7Sm52RQg)
+- [Effects of COVID-19 on the nervous system](https://www.cell.com/cell/fulltext/S0092-8674(20)31070-9)

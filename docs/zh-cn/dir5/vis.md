@@ -212,3 +212,4 @@
 - [R-新冠病毒世界格局(1): 散点图](https://mp.weixin.qq.com/s/x9I72fu2Q_FQKJz5UMr62w)
 - [R-新冠病毒世界格局(2): 热力图](https://mp.weixin.qq.com/s/gD4YprmIoyJYzhJejPVWrA)
 - [R-新冠病毒世界格局(3): 动态热力图](https://mp.weixin.qq.com/s/tpaL5uPV1OlIfApcABAb8w)
+- [助力抗疫！同衡技术创新中心研究团队获阿里云“疫情可视化公益行动”银奖](https://mp.weixin.qq.com/s/YZqJYgypuFAWEpX2gT5Y7A)
