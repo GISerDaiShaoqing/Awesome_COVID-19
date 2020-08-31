@@ -3478,3 +3478,6 @@
 - [实验室国际学生获“武汉大学抗疫学生先进个人”称号](https://mp.weixin.qq.com/s/UAWL7zhXHTCiU9Zr_Guang)
 - [新增确诊17例，均为境外输入](https://mp.weixin.qq.com/s/kN-Xtb1IlIqsSUP_Mo1RGA)
 - [新冠疫苗“竞争赛”打响，谁最早起步](https://mp.weixin.qq.com/s/wLvvPrbooR8ge6UKKDt76w)
+- [荷兰餐饮业的业绩大跌，行业从户外营业想办法](https://mp.weixin.qq.com/s/SVGVfgIU92xqYX5fAR5qNg)
+- [荷兰第二季度领取社会救济的人数略增](https://mp.weixin.qq.com/s/J9zpRVV5phbz3AKp2S3abQ)
+- [新闻短平快（荷兰枪击事件男子丧生等）——8月31日](https://mp.weixin.qq.com/s/ofDtun68wEI3MMzFG0SmGA)
