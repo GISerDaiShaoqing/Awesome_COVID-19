@@ -869,3 +869,4 @@
 - [24小时热门｜新冠肺炎患者缺乏长期免疫力的原因](https://mp.weixin.qq.com/s/lLgsjf1LROVfdXIKGxcmZg)
 - [Science 一周论文导读 | 2020年8月21日](https://mp.weixin.qq.com/s/y7pCSV3kANKoGQc2705H4A)
 - [Nature 一周论文导读 | 2020年8月20日](https://mp.weixin.qq.com/s/mtLG6QrGHR1D7qOMs1W2sA)
+- [人类如何引病上身？ | CRISPR疗法首次直接用于人体 | 蓝眼睛 | 自然每周简报](https://mp.weixin.qq.com/s/XT-XbNxtBTE79ULbRpnRVQ)
