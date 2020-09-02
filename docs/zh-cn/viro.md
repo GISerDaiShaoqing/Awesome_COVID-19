@@ -519,3 +519,5 @@
 - [Viruses | 快速测试抗病毒效果的呼吸道模型诞生](https://mp.weixin.qq.com/s/razUqvnOUTMJoccTOVjkyw)
 - [纽约血液中心病毒免疫学实验室杜兰英教授在CMI发文：揭示新型冠状病毒受体结合区分子特征及应用前景](https://mp.weixin.qq.com/s/NSqhBZQsVSyXSdbbZtZiVA)
 - [Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine](https://www.nature.com/articles/s41423-020-0400-4)
+- [北大要茂盛教授团队阐述新冠病毒空气传播新机制](https://mp.weixin.qq.com/s/lB6i27kDcCVxrPziiJl3ag)
+- [COVID-19 patients in earlier stages exhaled millions of SARS-CoV-2 per hour](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1283/5898624)

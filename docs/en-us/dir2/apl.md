@@ -870,3 +870,7 @@
 - [Science 一周论文导读 | 2020年8月21日](https://mp.weixin.qq.com/s/y7pCSV3kANKoGQc2705H4A)
 - [Nature 一周论文导读 | 2020年8月20日](https://mp.weixin.qq.com/s/mtLG6QrGHR1D7qOMs1W2sA)
 - [人类如何引病上身？ | CRISPR疗法首次直接用于人体 | 蓝眼睛 | 自然每周简报](https://mp.weixin.qq.com/s/XT-XbNxtBTE79ULbRpnRVQ)
+- [COVID-19检测犬•用社交网络招募外科试验者•精神病患者的友情方案 | BMC-系列期刊，月度热文](https://mp.weixin.qq.com/s/5RyvtQERDuI8XxFObgn3SQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月31日）【中国科讯】](https://mp.weixin.qq.com/s/b90JumNZ4Gvs63uAnw81KA)
+- [利用防火墙控制新冠肺炎暴发 | 网络科学论文速递11篇](https://mp.weixin.qq.com/s/0caMbfM-b38pFmWYMg_Zbg)
+- [美国一高校驱逐15名中国公派访学人员 | 科研圈日报](https://mp.weixin.qq.com/s/jaWMd89Nm36X1kZUPQnr5Q)

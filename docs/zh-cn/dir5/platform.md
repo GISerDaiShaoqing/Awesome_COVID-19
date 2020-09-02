@@ -122,3 +122,4 @@
 - [如何通过GIS响应疫情COVID-19](https://mp.weixin.qq.com/s/jXVvFIwCvbwVwsmit_umMA)
 - [老人没有智能手机怎么办？新加坡推出新冠密接者追踪设备](https://mp.weixin.qq.com/s/FIjAzd4aSVqZ736e2RgR7A)
 - [如何通过手机信令数据“识别”疫情中的感染者？](https://mp.weixin.qq.com/s/iek_ys8Ox5Y7UatoLVVW7w)
+- [基于GIS技术的虚拟仿真实验，帮助在校生快速掌握危机事件处置和应对之道](https://mp.weixin.qq.com/s/ZQqso6MXZNXQ2yKv1wjHaw)

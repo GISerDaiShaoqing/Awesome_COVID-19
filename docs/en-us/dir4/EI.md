@@ -83,3 +83,5 @@
 - [The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control](https://www.medrxiv.org/content/10.1101/2020.05.03.20089078v1)
 - [The characteristics of multi-source mobility datasets and how they reveal the luxury nature of social distancing in the U.S. during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.07.31.20143016v1)
 - [限制人员流动对中国深圳COVID-19传播的影响](https://mp.weixin.qq.com/s/J6BivEVQDQgNYluSUsSygg)
+- [Forecasting COVID-19 onset risk and evaluating spatiotemporal variations of the lockdown effect in China](https://www.researchsquare.com/article/rs-28675/v1)
+- [The Impact of COVID-19 Lockdowns and Stimulus Payments on Spending of U.S. Lower-income Consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681629)
