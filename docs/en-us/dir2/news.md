@@ -3506,3 +3506,7 @@
 - [这名新冠肺炎患者，被判两年！](https://mp.weixin.qq.com/s/iF3EHqtERT8i1NfqyH1DXQ)
 - [巴西球星内马尔等感染新冠病毒](https://mp.weixin.qq.com/s/MrRI8KIsi6CfqhuiA6DyLQ)
 - [最新发布会！不再‘荷氏’倔强，上百页专家的新冠建议逐个接纳！各党派称鲁特没远见？](https://mp.weixin.qq.com/s/546QzNlt4kKctilRobh4Sg)
+- [荷兰首相和部长新闻发布会说了什么？你看懂了重点吗？](https://mp.weixin.qq.com/s/l7FtsB3jcEep5qvFwItckQ)
+- [武汉的影像再次在荷兰引起震动（附视频）](https://mp.weixin.qq.com/s/NUSNckdA5Y7iwGsVvEpjIQ)
+- [荷兰行业组织：夜总会继续关闭不可接受](https://mp.weixin.qq.com/s/_I7J2SZ-_fBSJywkWj0pMw)
+- [新闻短平快（荷兰小城男子被刺死等）——9月2日](https://mp.weixin.qq.com/s/jJc98HDH2cskpu-zEF2wGA)
