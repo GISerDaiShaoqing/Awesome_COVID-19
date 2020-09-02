@@ -869,3 +869,6 @@
 - [ACTIVATE: RANDOMIZED CLINICAL TRIAL OF BCG VACCINATION AGAINST INFECTION IN THE ELDERLY](https://doi.org/10.1016/j.cell.2020.08.051)
 - [PLoS Pathog：我国科学家开发出一种快速、准确、低成本的COVID-19测试方法](https://mp.weixin.qq.com/s/uL4gkRResvIoO57bySui6w)
 - [Development and evaluation of a rapid CRISPR-based diagnostic for COVID-19](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008705)
+- [3万人研究：新冠病毒致死风险0.3%，抗体水平4个月内持平](https://mp.weixin.qq.com/s/EnD1XHJ8T_PgBFBB4mcJGg)
+- [Humoral Immune Response to SARS-CoV-2 in Iceland](https://www.nejm.org/doi/full/10.1056/NEJMoa2026116)
+- [The Power of Antibody-Based Surveillance](https://www.nejm.org/doi/10.1056/NEJMe2028079)

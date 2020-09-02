@@ -874,3 +874,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月31日）【中国科讯】](https://mp.weixin.qq.com/s/b90JumNZ4Gvs63uAnw81KA)
 - [利用防火墙控制新冠肺炎暴发 | 网络科学论文速递11篇](https://mp.weixin.qq.com/s/0caMbfM-b38pFmWYMg_Zbg)
 - [美国一高校驱逐15名中国公派访学人员 | 科研圈日报](https://mp.weixin.qq.com/s/jaWMd89Nm36X1kZUPQnr5Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月1日）【中国科讯】](https://mp.weixin.qq.com/s/PjYp2ecHjqXyHTNH_Sde_Q)
+- [北得克萨斯大学将中国访问学者项目结束时间推后 5 天｜科研圈日报](https://mp.weixin.qq.com/s/_Q3-nhRQ0q_mPedevQn_fA)
+- [新冠肺炎传播的分析、建模和表现: 以印度为例 | 网络科学论文速递34篇](https://mp.weixin.qq.com/s/4Ef_nLAdp3mkJfvo_06JdA)

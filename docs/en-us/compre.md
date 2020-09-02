@@ -1002,3 +1002,7 @@
 - [Humanitarian crises in a global pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31749-9/fulltext)
 - [《柳叶刀》评论 | COVID-19 疫苗试验应寻求有价值的效力](https://mp.weixin.qq.com/s/NaM3R7M8OTbPy7xm4ZFpSA)
 - [COVID-19 vaccine trials should seek worthwhile efficacy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31821-3/fulltext)
+- [美国面临新冠疫情数据危机](https://mp.weixin.qq.com/s/Aq_6F3xb03aGFyTyLk7acA)
+- [被疫情笼罩的美国本科生和研究生更焦虑了](https://mp.weixin.qq.com/s/YGlFa0PaSJSfZjY89s1DdQ)
+- [Signs of depression and anxiety soar among US graduate students during pandemic](https://www.nature.com/articles/d41586-020-02439-6?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02439-6)
+- [牛津大学警告：动物传染疾病给人类的风险正在增加](https://mp.weixin.qq.com/s/wCkTSdjNJ0l-n1k3L4Lbvg)
