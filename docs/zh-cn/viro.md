@@ -521,3 +521,5 @@
 - [Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine](https://www.nature.com/articles/s41423-020-0400-4)
 - [北大要茂盛教授团队阐述新冠病毒空气传播新机制](https://mp.weixin.qq.com/s/lB6i27kDcCVxrPziiJl3ag)
 - [COVID-19 patients in earlier stages exhaled millions of SARS-CoV-2 per hour](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1283/5898624)
+- [武汉病毒所/生物安全大科学中心张波团队在新冠病毒小鼠感染模型方面取得新进展](https://mp.weixin.qq.com/s/9BustApbMkq6gM0EVmzM8g)
+- [A mouse model for SARS-CoV-2 infection by exogenous delivery of hACE2 using alphavirus replicon particles](https://www.nature.com/articles/s41422-020-00405-5)

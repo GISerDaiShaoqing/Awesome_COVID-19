@@ -877,3 +877,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月1日）【中国科讯】](https://mp.weixin.qq.com/s/PjYp2ecHjqXyHTNH_Sde_Q)
 - [北得克萨斯大学将中国访问学者项目结束时间推后 5 天｜科研圈日报](https://mp.weixin.qq.com/s/_Q3-nhRQ0q_mPedevQn_fA)
 - [新冠肺炎传播的分析、建模和表现: 以印度为例 | 网络科学论文速递34篇](https://mp.weixin.qq.com/s/4Ef_nLAdp3mkJfvo_06JdA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月2日）【中国科讯】](https://mp.weixin.qq.com/s/pv60MSRQIJLntXKsQGM7WQ)
+- [全球新冠疫苗研发速度空前，中科院专家：盼多点开花](https://mp.weixin.qq.com/s/8IxNN0WhAEdR7g-EzSb7OA)
+- [9 月 2 日我国内地新增确诊病例 11 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/v8r05t8-3n19tAQHQI7bVQ)
+- [24小时热门｜最大规模新冠病毒抗体免疫结果发布：抗体水平在感染4个月内持平](https://mp.weixin.qq.com/s/5z8qg97H9foVgRMPQarHbQ)

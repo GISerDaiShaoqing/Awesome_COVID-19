@@ -872,3 +872,7 @@
 - [3万人研究：新冠病毒致死风险0.3%，抗体水平4个月内持平](https://mp.weixin.qq.com/s/EnD1XHJ8T_PgBFBB4mcJGg)
 - [Humoral Immune Response to SARS-CoV-2 in Iceland](https://www.nejm.org/doi/full/10.1056/NEJMoa2026116)
 - [The Power of Antibody-Based Surveillance](https://www.nejm.org/doi/10.1056/NEJMe2028079)
+- [经历细胞因子风暴的COVID-19患者可能不产生记忆B细胞 | CellPress 新冠中心新文](https://mp.weixin.qq.com/s/zLqx_Add7CYAOJPWtdPuxg)
+- [Loss of Bcl-6-Expressing T Follicular Helper Cells and Germinal Centers in COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31067-9)
+- [SARS-CoV-2患者康复后被诊断患有糖尿病 |《自然-代谢》论文](https://mp.weixin.qq.com/s/bT5s1s_oTzjYA5RBnIkmNg)
+- [Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report](https://www.nature.com/articles/s42255-020-00281-8)
