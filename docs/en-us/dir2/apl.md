@@ -881,3 +881,6 @@
 - [全球新冠疫苗研发速度空前，中科院专家：盼多点开花](https://mp.weixin.qq.com/s/8IxNN0WhAEdR7g-EzSb7OA)
 - [9 月 2 日我国内地新增确诊病例 11 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/v8r05t8-3n19tAQHQI7bVQ)
 - [24小时热门｜最大规模新冠病毒抗体免疫结果发布：抗体水平在感染4个月内持平](https://mp.weixin.qq.com/s/5z8qg97H9foVgRMPQarHbQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月3日）【中国科讯】](https://mp.weixin.qq.com/s/MK9-dSTRZCIedgjPN7_KnQ)
+- [9 月 3 日我国内地新增确诊病例 25 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/-EUUrPeFx7OYc4pC9fgUpA)
+- [24小时热门｜COVID-19治疗新希望：猫类冠状病毒的治疗药物，竟能有效抑制新冠病毒复制！](https://mp.weixin.qq.com/s/YpK6aydbGcYQp9kGrpOsLg)

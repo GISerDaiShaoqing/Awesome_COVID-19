@@ -876,3 +876,4 @@
 - [Loss of Bcl-6-Expressing T Follicular Helper Cells and Germinal Centers in COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31067-9)
 - [SARS-CoV-2患者康复后被诊断患有糖尿病 |《自然-代谢》论文](https://mp.weixin.qq.com/s/bT5s1s_oTzjYA5RBnIkmNg)
 - [Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report](https://www.nature.com/articles/s42255-020-00281-8)
+- [Moderna和辉瑞基因新冠疫苗需超低温保存, 或影响推广计划](https://mp.weixin.qq.com/s/cWwfBhc1HAxaAgRfqT7WHA)
