@@ -877,3 +877,4 @@
 - [SARS-CoV-2患者康复后被诊断患有糖尿病 |《自然-代谢》论文](https://mp.weixin.qq.com/s/bT5s1s_oTzjYA5RBnIkmNg)
 - [Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report](https://www.nature.com/articles/s42255-020-00281-8)
 - [Moderna和辉瑞基因新冠疫苗需超低温保存, 或影响推广计划](https://mp.weixin.qq.com/s/cWwfBhc1HAxaAgRfqT7WHA)
+- [Characteristics and outcomes of 627 044 COVID-19 patients with and without obesity in the United States, Spain, and the United Kingdom](https://www.medrxiv.org/content/10.1101/2020.09.02.20185173v1)

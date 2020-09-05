@@ -1018,3 +1018,7 @@
 - [新冠疫苗全球分配，怎样才公平？｜Science精选](https://mp.weixin.qq.com/s/q3SQnqXWZf9_mD1v4bzu0A)
 - [【分析】疫情下口罩、手套、一次性塑料激增，“塑料海啸”加剧海洋污染！](https://mp.weixin.qq.com/s/4cK7a0AkwETrpqBj5UtAzw)
 - [COVID-19 Has Worsened the Ocean Plastic Pollution Problem](https://www.scientificamerican.com/article/covid-19-has-worsened-the-ocean-plastic-pollution-problem/)
+- [论文推荐|Building an Open Resources Repository for COVID-19 Research](https://mp.weixin.qq.com/s/BzpWMYRiIND6_avZqeg3_Q)
+- [Building an Open Resources Repository for COVID-19 Research](https://content.sciendo.com/configurable/contentpage/journals$002fdim$002f4$002f3$002farticle-p130.xml?tab_body=fullHtml-78567)
+- [因为那一次疫情，重症监护出现了](https://mp.weixin.qq.com/s/nAyO9pv03JMt26FnQh47Pg)
+- [The outbreak that invented intensive car](https://www.nature.com/articles/d41586-020-01019-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01019-y)

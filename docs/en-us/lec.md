@@ -265,3 +265,4 @@
 - [今日直播 | 生物安全与生物多样性科学研究主题沙龙【中国科讯】](https://mp.weixin.qq.com/s/abvZ14QqQltEB1tkRQ80kQ)
 - [文献导读（11）|张晓奇 防疫管制与经济维稳：基于改进SEIR模型的反 事实分析与跨区域交通管制的必要性探究](https://mp.weixin.qq.com/s/gYfk0xsI1c6WHKXKXYpkpA)
 - [新冠疫情之下【松哥讲座PPT】](https://mp.weixin.qq.com/s/tuJhlYUZcIGfrIDzs95qpQ)
+- [【ANSO智库】“一带一路”创新智库：“新冠疫情大数据分析与预测”国际学术研讨会在京召开](https://mp.weixin.qq.com/s/sn7M8OXJN0iFlJrxAdniMA)

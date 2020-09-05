@@ -884,3 +884,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月3日）【中国科讯】](https://mp.weixin.qq.com/s/MK9-dSTRZCIedgjPN7_KnQ)
 - [9 月 3 日我国内地新增确诊病例 25 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/-EUUrPeFx7OYc4pC9fgUpA)
 - [24小时热门｜COVID-19治疗新希望：猫类冠状病毒的治疗药物，竟能有效抑制新冠病毒复制！](https://mp.weixin.qq.com/s/YpK6aydbGcYQp9kGrpOsLg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月4日）【中国科讯】](https://mp.weixin.qq.com/s/SXOfxzeEfI3IObQAu5YPfw)
+- [《科学》（20200904出版）一周论文导读](https://mp.weixin.qq.com/s/YcH9mMACKArcYLAyViI-3g)
+- [国产新冠疫苗亮相！](https://mp.weixin.qq.com/s/ROBbbllM95BbZjaY3nPYuA)
