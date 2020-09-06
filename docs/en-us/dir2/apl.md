@@ -887,3 +887,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月4日）【中国科讯】](https://mp.weixin.qq.com/s/SXOfxzeEfI3IObQAu5YPfw)
 - [《科学》（20200904出版）一周论文导读](https://mp.weixin.qq.com/s/YcH9mMACKArcYLAyViI-3g)
 - [国产新冠疫苗亮相！](https://mp.weixin.qq.com/s/ROBbbllM95BbZjaY3nPYuA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月5日）【中国科讯】](https://mp.weixin.qq.com/s/ERk7bvx7akGba3TzqpbbWw)
+- [美国官方表示：不会参与WHO相关的任何新冠疫苗研发和生产工作｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/Kim7jsNJkK_nQkuN8mkEWw)
