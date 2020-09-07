@@ -85,3 +85,5 @@
 - [限制人员流动对中国深圳COVID-19传播的影响](https://mp.weixin.qq.com/s/J6BivEVQDQgNYluSUsSygg)
 - [Forecasting COVID-19 onset risk and evaluating spatiotemporal variations of the lockdown effect in China](https://www.researchsquare.com/article/rs-28675/v1)
 - [The Impact of COVID-19 Lockdowns and Stimulus Payments on Spending of U.S. Lower-income Consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681629)
+- [隔离有效性对当前中国COVID-19大流行最后阶段发展趋势的影响](https://mp.weixin.qq.com/s/qBcyaFHvP18RGJuf5SrLiA)
+- [The effectiveness of quarantine and isolation determine the trend of the COVID-19 epidemics in the final phase of the current outbreak in China](https://www.sciencedirect.com/science/article/pii/S1201971220301375)

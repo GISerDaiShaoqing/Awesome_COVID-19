@@ -1022,3 +1022,4 @@
 - [Building an Open Resources Repository for COVID-19 Research](https://content.sciendo.com/configurable/contentpage/journals$002fdim$002f4$002f3$002farticle-p130.xml?tab_body=fullHtml-78567)
 - [因为那一次疫情，重症监护出现了](https://mp.weixin.qq.com/s/nAyO9pv03JMt26FnQh47Pg)
 - [The outbreak that invented intensive car](https://www.nature.com/articles/d41586-020-01019-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01019-y)
+- [【气候变化】新冠疫情对全球气候变化的影响](https://mp.weixin.qq.com/s/OF8iCHtZ8rm4mG-lUVVGkQ)

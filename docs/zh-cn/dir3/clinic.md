@@ -878,3 +878,5 @@
 - [Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report](https://www.nature.com/articles/s42255-020-00281-8)
 - [Moderna和辉瑞基因新冠疫苗需超低温保存, 或影响推广计划](https://mp.weixin.qq.com/s/cWwfBhc1HAxaAgRfqT7WHA)
 - [Characteristics and outcomes of 627 044 COVID-19 patients with and without obesity in the United States, Spain, and the United Kingdom](https://www.medrxiv.org/content/10.1101/2020.09.02.20185173v1)
+- [Lancet | 重大进展！俄罗斯开发的2款新冠疫苗临床试验证明安全及有效激活免疫系统](https://mp.weixin.qq.com/s/FCmKbScPEyWKAzSrvEbpvQ)
+- [Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31866-3/fulltext)

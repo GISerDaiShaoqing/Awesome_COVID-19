@@ -533,3 +533,4 @@
 - [全球城市观察︱120亿美元能否挽救危机中的纽约公共交通](https://mp.weixin.qq.com/s/Stg-ai8wzfY6rA8_JPmmWw)
 - [案例实践 | 后疫情时期的法国交通规划](https://mp.weixin.qq.com/s/8W0WamQBNR_Z0e75XLMNvg)
 - [周士新：疫情后，东盟城市的旧问题与新挑战](https://mp.weixin.qq.com/s/qk7iV3yAJubknBD43adH9Q)
+- [全球城市观察︱搬回父母家，疫情期间“回巢”的美国年轻人](https://mp.weixin.qq.com/s/3w3wEuZsESGstGyGjQHJgA)

@@ -523,3 +523,8 @@
 - [COVID-19 patients in earlier stages exhaled millions of SARS-CoV-2 per hour](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1283/5898624)
 - [武汉病毒所/生物安全大科学中心张波团队在新冠病毒小鼠感染模型方面取得新进展](https://mp.weixin.qq.com/s/9BustApbMkq6gM0EVmzM8g)
 - [A mouse model for SARS-CoV-2 infection by exogenous delivery of hACE2 using alphavirus replicon particles](https://www.nature.com/articles/s41422-020-00405-5)
+- [邻居家的厕所管道能传播新冠病毒吗？｜Science新冠专题](https://mp.weixin.qq.com/s/1nDp8iQXfUa32FsR_M106g)
+- [Can you catch COVID-19 from your neighbor’s toilet?](https://www.sciencemag.org/news/2020/09/can-you-catch-covid-19-your-neighbor-s-toilet)
+- [EMBO J：化合物rac5c、rac3j和rac3k可抑制新冠病毒增殖](https://mp.weixin.qq.com/s/sYRhK6JIeam4nUjGXAvX0g)
+- [Mechanism and inhibition of the papain-like protease, PLpro, of SARS-CoV-2](https://www.embopress.org/doi/10.15252/embj.2020106275)
+- [Search for COVID-19 drugs boosted by SARS discovery](https://medicalxpress.com/news/2020-08-covid-drugs-boosted-sars-discovery.html)
