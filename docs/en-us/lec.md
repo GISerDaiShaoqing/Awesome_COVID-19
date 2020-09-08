@@ -267,3 +267,4 @@
 - [新冠疫情之下【松哥讲座PPT】](https://mp.weixin.qq.com/s/tuJhlYUZcIGfrIDzs95qpQ)
 - [【ANSO智库】“一带一路”创新智库：“新冠疫情大数据分析与预测”国际学术研讨会在京召开](https://mp.weixin.qq.com/s/sn7M8OXJN0iFlJrxAdniMA)
 - [明日直播 | 中国工程院钟南山、张伯礼、陈薇院士谈科学精神【中国科讯】](https://mp.weixin.qq.com/s/ouWJRJth4m7z-w_5-2OHxw)
+- [今日直播 | 中国工程院钟南山、张伯礼、陈薇院士谈科学精神【中国科讯】](https://mp.weixin.qq.com/s/n-aPAoszQn2L4YSvUe4SQw)

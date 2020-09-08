@@ -528,3 +528,7 @@
 - [EMBO J：化合物rac5c、rac3j和rac3k可抑制新冠病毒增殖](https://mp.weixin.qq.com/s/sYRhK6JIeam4nUjGXAvX0g)
 - [Mechanism and inhibition of the papain-like protease, PLpro, of SARS-CoV-2](https://www.embopress.org/doi/10.15252/embj.2020106275)
 - [Search for COVID-19 drugs boosted by SARS discovery](https://medicalxpress.com/news/2020-08-covid-drugs-boosted-sars-discovery.html)
+- [居家防新冠，你家的地漏检查了吗？｜Science新冠专题](https://mp.weixin.qq.com/s/Mm8gh2zuKZ8lcg1hGXTDmQ)
+- [Can you catch COVID-19 from your neighbor’s toilet?](https://www.sciencemag.org/news/2020/09/can-you-catch-covid-19-your-neighbor-s-toilet)
+- [姜世勃、廖明、潘春根科学论证：携带病毒的三文鱼是疫情潜在传播源](https://mp.weixin.qq.com/s/QosKYUAIQyZ7pa_nyATixg)
+- [Long-term survival of salmon-attached SARS-CoV-2 at 4°C as a potential source of transmission in seafood markets](https://www.biorxiv.org/content/10.1101/2020.09.06.284695v1#disqus_thread)

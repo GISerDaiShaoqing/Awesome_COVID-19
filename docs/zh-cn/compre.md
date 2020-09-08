@@ -1023,3 +1023,7 @@
 - [因为那一次疫情，重症监护出现了](https://mp.weixin.qq.com/s/nAyO9pv03JMt26FnQh47Pg)
 - [The outbreak that invented intensive car](https://www.nature.com/articles/d41586-020-01019-y?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01019-y)
 - [【气候变化】新冠疫情对全球气候变化的影响](https://mp.weixin.qq.com/s/OF8iCHtZ8rm4mG-lUVVGkQ)
+- [“智库战‘疫’”：《中国科学院院刊》智库期刊媒体融合传播实践](https://mp.weixin.qq.com/s/HLAjPuIaV3gtHZ0MXZMGaQ)
+- [网络化增强城市防疫韧性](https://mp.weixin.qq.com/s/fVjbg4fmKipe3yJOWsHkKw)
+- [新冠疫情之下，社区医疗机构困境不应被忽视](https://mp.weixin.qq.com/s/FEYY_SzEFC71KVaqPSgyqg)
+- [【空气污染】疫情封锁对中国空气污染的短期影响](https://mp.weixin.qq.com/s/xegr7fcT_QP2UjTivMQp0g)

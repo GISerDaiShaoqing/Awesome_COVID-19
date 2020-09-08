@@ -880,3 +880,5 @@
 - [Characteristics and outcomes of 627 044 COVID-19 patients with and without obesity in the United States, Spain, and the United Kingdom](https://www.medrxiv.org/content/10.1101/2020.09.02.20185173v1)
 - [Lancet | 重大进展！俄罗斯开发的2款新冠疫苗临床试验证明安全及有效激活免疫系统](https://mp.weixin.qq.com/s/FCmKbScPEyWKAzSrvEbpvQ)
 - [Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31866-3/fulltext)
+- [何种情况下考虑为COVID-19患者施行肺移植治疗？](https://mp.weixin.qq.com/s/q2xkL6KRqxuIcQp9-fCkAw)
+- [When to consider lung transplantation for COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30393-3/fulltext)

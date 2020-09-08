@@ -893,3 +893,7 @@
 - [开学啦！校园疫情防控怎么做？](https://mp.weixin.qq.com/s/_UFYLJ4nZ1XWS759qr4zww)
 - [​美国一大学复课后被员工起诉，已有超过1100名学生与职工检出新冠阳性｜科研圈日报](https://mp.weixin.qq.com/s/6SHPHTF5ZqZtL6AGf66obw)
 - [Science 一周论文导读 | 2020年8月28日](https://mp.weixin.qq.com/s/V6PqITYRRGVtstj0Eg6l5w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月7日）【中国科讯】](https://mp.weixin.qq.com/s/GbSk9LakK-akdRbk5TJ63Q)
+- [美诺奖得主挽留华人学者：没有他们，美国可能会跌至二流 | 科研圈日报](https://mp.weixin.qq.com/s/rTrJaA1SNTbFa5LHenrqPQ)
+- [24小时热门｜新冠疫情将导致美国人均寿命减少1~3年；反向漂浮的小船，颠覆了我们对浮力的理解](https://mp.weixin.qq.com/s/BZeYm_uIxklBHnVT2VU_3A)
+- [群体免疫异质性及其超级传播效应 | 网络科学论文速递10篇](https://mp.weixin.qq.com/s/bAPn5GZ9Wy8xXWhG-ZKZHA)
