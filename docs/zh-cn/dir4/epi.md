@@ -305,3 +305,4 @@
 - [Reply to: Is presymptomatic spread a major contributor to COVID-19 transmission?](https://www.nature.com/articles/s41591-020-1049-3)
 - [柳叶刀新文 | 利用统计模型与大数据探寻人口流动与新冠传播的潜在联系](https://mp.weixin.qq.com/s/-hcBazJn469TjFGeE6kspA)
 - [Association between mobility patterns and COVID-19 transmission in the USA: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30553-3/fulltext)
+- [Association of Mobile Phone Location Data Indications of Travel and Stay-at-Home Mandates With COVID-19 Infection Rates in the US](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2770249)

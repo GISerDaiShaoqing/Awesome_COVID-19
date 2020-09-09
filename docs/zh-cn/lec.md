@@ -268,3 +268,5 @@
 - [【ANSO智库】“一带一路”创新智库：“新冠疫情大数据分析与预测”国际学术研讨会在京召开](https://mp.weixin.qq.com/s/sn7M8OXJN0iFlJrxAdniMA)
 - [明日直播 | 中国工程院钟南山、张伯礼、陈薇院士谈科学精神【中国科讯】](https://mp.weixin.qq.com/s/ouWJRJth4m7z-w_5-2OHxw)
 - [今日直播 | 中国工程院钟南山、张伯礼、陈薇院士谈科学精神【中国科讯】](https://mp.weixin.qq.com/s/n-aPAoszQn2L4YSvUe4SQw)
+- [直播回放 | 英雄归来，他们仍牵挂同一件事【中国科讯】](https://mp.weixin.qq.com/s/WjCAmaYthqrDlFbrAUx3ug)
+- [【课程预告】后疫情时代，药物研发该何去何从？](https://mp.weixin.qq.com/s/lTDQyjNDFtkhoCnGk6xDWQ)

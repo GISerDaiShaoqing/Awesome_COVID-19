@@ -1027,3 +1027,5 @@
 - [网络化增强城市防疫韧性](https://mp.weixin.qq.com/s/fVjbg4fmKipe3yJOWsHkKw)
 - [新冠疫情之下，社区医疗机构困境不应被忽视](https://mp.weixin.qq.com/s/FEYY_SzEFC71KVaqPSgyqg)
 - [【空气污染】疫情封锁对中国空气污染的短期影响](https://mp.weixin.qq.com/s/xegr7fcT_QP2UjTivMQp0g)
+- [【空气污染】疫情爆发后PM2.5的来源构成发生了显著变化](https://mp.weixin.qq.com/s/kEBsQ5xambkRzb_ICVpt9w)
+- [Dispersion Normalized PMF Provides Insights into the Significant Changes in Source Contributions to PM2.5 after the COVID-19 Outbreak](https://pubs.acs.org/doi/10.1021/acs.est.0c02776)

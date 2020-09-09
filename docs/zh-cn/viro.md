@@ -532,3 +532,5 @@
 - [Can you catch COVID-19 from your neighbor’s toilet?](https://www.sciencemag.org/news/2020/09/can-you-catch-covid-19-your-neighbor-s-toilet)
 - [姜世勃、廖明、潘春根科学论证：携带病毒的三文鱼是疫情潜在传播源](https://mp.weixin.qq.com/s/QosKYUAIQyZ7pa_nyATixg)
 - [Long-term survival of salmon-attached SARS-CoV-2 at 4°C as a potential source of transmission in seafood markets](https://www.biorxiv.org/content/10.1101/2020.09.06.284695v1#disqus_thread)
+- [SARS-CoV-2 infection in farmed minks, the Netherlands, April and May 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.23.2001005)
+- [Coronavirus rips through Dutch mink farms, triggering culls to prevent human infections](https://www.sciencemag.org/news/2020/06/coronavirus-rips-through-dutch-mink-farms-triggering-culls-prevent-human-infections)

@@ -534,3 +534,5 @@
 - [案例实践 | 后疫情时期的法国交通规划](https://mp.weixin.qq.com/s/8W0WamQBNR_Z0e75XLMNvg)
 - [周士新：疫情后，东盟城市的旧问题与新挑战](https://mp.weixin.qq.com/s/qk7iV3yAJubknBD43adH9Q)
 - [全球城市观察︱搬回父母家，疫情期间“回巢”的美国年轻人](https://mp.weixin.qq.com/s/3w3wEuZsESGstGyGjQHJgA)
+- [尹稚：在“韧性城市”中加入疫情应对，对全球而言是全新课题](https://mp.weixin.qq.com/s/7zTDCyg4rcJcp_iACOUy0w)
+- [服贸会快讯 | 疫情后世界大城市交通变革与创新](https://mp.weixin.qq.com/s/7GPF6Uhhom2yUKDdTKxOww)
