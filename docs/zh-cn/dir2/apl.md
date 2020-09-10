@@ -904,3 +904,7 @@
 - [中科院5人1集体获抗疫全国先进](https://mp.weixin.qq.com/s/4OqlWhBQus40jyciiZQwWw)
 - [英国新冠疫苗受试者出现“疑似严重不良反应”，阿斯利康暂停三期临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/f_2BPUXYldT5etzJX6TnmQ)
 - [24小时热门｜普通感冒病毒会影响新冠流行吗？耶鲁大学《柳叶刀》子刊提示病毒相互作用](https://mp.weixin.qq.com/s/BH8e33Pqqi5jRzpHfB-7jQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月9日）【中国科讯】](https://mp.weixin.qq.com/s/fs555reJedIUxQt8R91Fng)
+- [美国突然取消多名中国留学生签证，官方称被取消签证的“有安全风险”者已上千人｜科研圈日报](https://mp.weixin.qq.com/s/EElErzl3H-9vrqzMKAL29g)
+- [LynyrdSkynyrd，WNUT-2020任务2: 半监督学习识别2019冠状病毒疾病推文 | 网络科学论文速递9篇](https://mp.weixin.qq.com/s/p_u9MQhmzCSjkyg9YuHCPw)
+- [24小时热门｜NEJM高清图像：呼吸道细胞被新冠病毒感染的“惨烈”景象](https://mp.weixin.qq.com/s/miQhAoJ8NUmwkJksT752Gg)

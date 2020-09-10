@@ -306,3 +306,7 @@
 - [柳叶刀新文 | 利用统计模型与大数据探寻人口流动与新冠传播的潜在联系](https://mp.weixin.qq.com/s/-hcBazJn469TjFGeE6kspA)
 - [Association between mobility patterns and COVID-19 transmission in the USA: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30553-3/fulltext)
 - [Association of Mobile Phone Location Data Indications of Travel and Stay-at-Home Mandates With COVID-19 Infection Rates in the US](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2770249)
+- [美国的COVID-19病例数可能被大大低估了 | 《自然-通讯》论文](https://mp.weixin.qq.com/s/RUH3FHcmoTEKtMVNYwlm4g)
+- [Substantial underestimation of SARS-CoV-2 infection in the United States](https://www.nature.com/articles/s41467-020-18272-4)
+- [前车可鉴-通过交互体验式的现实模拟来防止疫情暴发 | CellPress新冠中心述评](https://mp.weixin.qq.com/s/QHWI7dFmm1hnLqJofzf0mg)
+- [Preventing Outbreaks through Interactive, Experiential Real-Life Simulations](https://www.cell.com/cell/fulltext/S0092-8674(20)31084-9)

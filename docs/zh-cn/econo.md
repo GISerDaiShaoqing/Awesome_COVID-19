@@ -536,3 +536,4 @@
 - [全球城市观察︱搬回父母家，疫情期间“回巢”的美国年轻人](https://mp.weixin.qq.com/s/3w3wEuZsESGstGyGjQHJgA)
 - [尹稚：在“韧性城市”中加入疫情应对，对全球而言是全新课题](https://mp.weixin.qq.com/s/7zTDCyg4rcJcp_iACOUy0w)
 - [服贸会快讯 | 疫情后世界大城市交通变革与创新](https://mp.weixin.qq.com/s/7GPF6Uhhom2yUKDdTKxOww)
+- [后疫情社区·治理｜社区孵化器：如何发现社区的真实需求](https://mp.weixin.qq.com/s/wZfh3FyuZJzQqkMOoGoTYQ)

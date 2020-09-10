@@ -87,3 +87,4 @@
 - [The Impact of COVID-19 Lockdowns and Stimulus Payments on Spending of U.S. Lower-income Consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681629)
 - [隔离有效性对当前中国COVID-19大流行最后阶段发展趋势的影响](https://mp.weixin.qq.com/s/qBcyaFHvP18RGJuf5SrLiA)
 - [The effectiveness of quarantine and isolation determine the trend of the COVID-19 epidemics in the final phase of the current outbreak in China](https://www.sciencedirect.com/science/article/pii/S1201971220301375)
+- [Evaluating the effect of city lock-down on controlling COVID-19 propagation through deep learning and network science models](https://www.sciencedirect.com/science/article/pii/S0264275120312178#f0010)

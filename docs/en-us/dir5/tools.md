@@ -85,3 +85,4 @@
 - [隔离宅在家，我自己做了个社交距离检测器](https://mp.weixin.qq.com/s/jU2mjes0a2eFNc86M1gS1g)
 - [Teaching Statistics in the Coronavirus Era](https://github.com/LucyMcGowan/teaching-in-coronavirus-era)
 - [Covid19 Data Analysis](https://github.com/ThinamXx/Covid19..DataAnalysis)
+- [Next-generation serverless crawler for COVID-19 data](https://github.com/covidatlas/li)
