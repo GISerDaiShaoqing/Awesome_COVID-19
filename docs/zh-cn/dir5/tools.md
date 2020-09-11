@@ -86,3 +86,4 @@
 - [Teaching Statistics in the Coronavirus Era](https://github.com/LucyMcGowan/teaching-in-coronavirus-era)
 - [Covid19 Data Analysis](https://github.com/ThinamXx/Covid19..DataAnalysis)
 - [Next-generation serverless crawler for COVID-19 data](https://github.com/covidatlas/li)
+- [COVID-19 App](https://github.com/WorldHealthOrganization/app)

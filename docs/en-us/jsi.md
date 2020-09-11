@@ -57,3 +57,4 @@
 - [屡次造成重大疫情的RNA病毒，是如何逃避人类免疫系统的？](https://mp.weixin.qq.com/s/msysbWn1ig4CkZxzZCnkAw)
 - [Immune Evasion Mechanisms by RNA Viruses](https://www.frontiersin.org/research-topics/15302/immune-evasion-mechanisms-by-rna-viruses?utm_source=yanyuRT7&utm_medium=wechat&utm_campaign=chinaad)
 - [【征稿期延长】新型冠状病毒（COVID-19）对心理健康影响的研究 | Globalization and Health](https://mp.weixin.qq.com/s/f_YZZ9d639xlhOKWBNylFg)
+- [Call for Papers on Special Issue: Outdoor Air Pollution, Indoor Air Quality and COVID-19](https://www.journals.elsevier.com/environmental-research/call-for-papers/outdoor-air-pollution-indoor-air-quality-and-covid-19)

@@ -886,3 +886,5 @@
 - [Robust T cell response towards spike, membrane, and nucleocapsid SARS-CoV-2 proteins is not associated with recovery in critical COVID-19 patients](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(20)30118-X)
 - [Nat. Commun. 齐建勋/李学兵/谭文杰/高福研究团队在抗新型冠状病毒药物发现中取得进展](https://mp.weixin.qq.com/s/KlF17drVoDjghlVVQhGj7Q)
 - [Both Boceprevir and GC376 efficaciously inhibit SARS-CoV-2 by targeting its main protease](https://www.nature.com/articles/s41467-020-18233-x)
+- [珍藏版 | Nature子刊综述：新冠疫苗研发的免疫学原理及进展与挑战](https://mp.weixin.qq.com/s/Jvm4yjKiClAU0HewmnY4bg)
+- [Immunological considerations for COVID-19 vaccine strategies](https://www.nature.com/articles/s41577-020-00434-6)

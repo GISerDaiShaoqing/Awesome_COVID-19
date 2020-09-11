@@ -908,3 +908,6 @@
 - [美国突然取消多名中国留学生签证，官方称被取消签证的“有安全风险”者已上千人｜科研圈日报](https://mp.weixin.qq.com/s/EElErzl3H-9vrqzMKAL29g)
 - [LynyrdSkynyrd，WNUT-2020任务2: 半监督学习识别2019冠状病毒疾病推文 | 网络科学论文速递9篇](https://mp.weixin.qq.com/s/p_u9MQhmzCSjkyg9YuHCPw)
 - [24小时热门｜NEJM高清图像：呼吸道细胞被新冠病毒感染的“惨烈”景象](https://mp.weixin.qq.com/s/miQhAoJ8NUmwkJksT752Gg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月10日）【中国科讯】](https://mp.weixin.qq.com/s/h0mnHIt3jej5uiMbiSD9Nw)
+- [量化2019冠状病毒疾病对心理健康支持论坛的影响 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/rAHV1L0XSTd_IC6OgqK4-w)
+- [《自然》调查：因疫情影响，半数博士后考虑退出原领域 | 科研圈日报](https://mp.weixin.qq.com/s/780IZPx_CbrBpG7U1aEdTA)
