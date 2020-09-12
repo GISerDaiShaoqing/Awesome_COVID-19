@@ -888,3 +888,5 @@
 - [Both Boceprevir and GC376 efficaciously inhibit SARS-CoV-2 by targeting its main protease](https://www.nature.com/articles/s41467-020-18233-x)
 - [珍藏版 | Nature子刊综述：新冠疫苗研发的免疫学原理及进展与挑战](https://mp.weixin.qq.com/s/Jvm4yjKiClAU0HewmnY4bg)
 - [Immunological considerations for COVID-19 vaccine strategies](https://www.nature.com/articles/s41577-020-00434-6)
+- [【在线速递】胸腺肽 α1 治疗COVID-19重症患者：一项多中心回顾性队列研究](https://mp.weixin.qq.com/s/Ho9Q7siyQ_ds3eH_O0_dlA)
+- [Thymosin α1 therapy in critically ill patients with COVID-19: A multicenter retrospective cohort study](https://www.sciencedirect.com/science/article/pii/S1567576920319469?via%3Dihub)

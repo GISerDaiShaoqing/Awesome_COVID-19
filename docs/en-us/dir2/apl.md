@@ -911,3 +911,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月10日）【中国科讯】](https://mp.weixin.qq.com/s/h0mnHIt3jej5uiMbiSD9Nw)
 - [量化2019冠状病毒疾病对心理健康支持论坛的影响 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/rAHV1L0XSTd_IC6OgqK4-w)
 - [《自然》调查：因疫情影响，半数博士后考虑退出原领域 | 科研圈日报](https://mp.weixin.qq.com/s/780IZPx_CbrBpG7U1aEdTA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月11日）【中国科讯】](https://mp.weixin.qq.com/s/Ja2Jg8auMYVA1qHK9DYuzg)
+- [开学啦！打卡返校后的正确操作，一起开启健康新学期！](https://mp.weixin.qq.com/s/ANbn3qYnEhb3BGgINJK5dA)
+- [新冠疫情对美国影响有多大？将导致美国人均寿命减少1~3年｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/4_0mtx7hSE6iH1aPp9h1Dw)
+- [高福：新冠疫苗面临的最大挑战是ADE和成本](https://mp.weixin.qq.com/s/y4VW-0erNrIPelRgDntATg)

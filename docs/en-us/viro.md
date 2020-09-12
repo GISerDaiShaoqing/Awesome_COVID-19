@@ -541,3 +541,7 @@
 - [陶生策团队初步绘制新冠病毒S蛋白线性表位谱](https://mp.weixin.qq.com/s/KJy946GwqCAVK1tRt-3phw)
 - [Linear epitopes of SARS-CoV-2 spike protein elicit neutralizingantibodies in COVID-19 patients](https://www.nature.com/articles/s41423-020-00523-5)
 - [四川大学苏丹教授 | 新型冠状病毒非结构蛋白nsp9的多聚体结构解析 | Molecular Biomedicine](https://mp.weixin.qq.com/s/97rhTztfvXScIOf1W4s94Q)
+- [CELL: 方向错误？新冠病毒更应注重T细胞反应？](https://mp.weixin.qq.com/s/tsLTTJXqRmMpddywd2Yr7A)
+- [COVID-19 makes B cells forget, but T cells remember](https://www.sciencedirect.com/science/article/pii/S0092867420311545?via%3Dihub)
+- [Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19](https://www.sciencedirect.com/science/article/pii/S0092867420310084?via%3Dihub)
+- [Loss of Bcl-6-Expressing T Follicular Helper Cells and Germinal Centers in COVID-19](https://www.sciencedirect.com/science/article/pii/S0092867420310679?via%3Dihub)
