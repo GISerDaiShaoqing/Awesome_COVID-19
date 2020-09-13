@@ -1054,3 +1054,4 @@
 - [过半博士后考虑退出原领域，Nature呼吁不能因疫情失去科学的下一代](https://mp.weixin.qq.com/s/aOsnb0uNNJf6BfttTY_0LA)
 - [罕见！Science主编头版头条发文怒斥美国总统：特朗普，你扯谎！](https://mp.weixin.qq.com/s/mNJuw0KOnWfkeCfSQU_tFQ)
 - [Trump lied about science](https://science.sciencemag.org/content/early/2020/09/11/science.abe7391.full)
+- [科技热点 | 疫情下的博士后有多惨？Nature调查给出7大结果 【中国科讯】](https://mp.weixin.qq.com/s/chYFxM86kgiKISxJz0J7mA)

@@ -545,3 +545,5 @@
 - [COVID-19 makes B cells forget, but T cells remember](https://www.sciencedirect.com/science/article/pii/S0092867420311545?via%3Dihub)
 - [Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19](https://www.sciencedirect.com/science/article/pii/S0092867420310084?via%3Dihub)
 - [Loss of Bcl-6-Expressing T Follicular Helper Cells and Germinal Centers in COVID-19](https://www.sciencedirect.com/science/article/pii/S0092867420310679?via%3Dihub)
+- [新冠病毒包装机制新发现！浙江大学陈伟与中科院生物物理所娄继忠团队强强联合取得重要成果](https://mp.weixin.qq.com/s/Pc7sqz-IcWA2svPDNLfv5w)
+- [Liquid–liquid phase separation by SARS-CoV-2 nucleocapsid protein and RNA](https://www.nature.com/articles/s41422-020-00408-2)
