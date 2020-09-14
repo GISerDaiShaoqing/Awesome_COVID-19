@@ -1055,3 +1055,8 @@
 - [罕见！Science主编头版头条发文怒斥美国总统：特朗普，你扯谎！](https://mp.weixin.qq.com/s/mNJuw0KOnWfkeCfSQU_tFQ)
 - [Trump lied about science](https://science.sciencemag.org/content/early/2020/09/11/science.abe7391.full)
 - [科技热点 | 疫情下的博士后有多惨？Nature调查给出7大结果 【中国科讯】](https://mp.weixin.qq.com/s/chYFxM86kgiKISxJz0J7mA)
+- [观点｜后疫情绿色韧性复苏的五大支柱](https://mp.weixin.qq.com/s/K99TTpGrojMxn7-VQNPstA)
+- [【存照】最新科研：口罩可以起到新冠病毒免疫作用！](https://mp.weixin.qq.com/s/6REHZlW8cpSKMIU4xMmIEA)
+- [Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
+- [数据惊人，疫情期间究竟产生了多少口罩等医疗垃圾？｜Science新冠专题](https://mp.weixin.qq.com/s/JG2vLE8iWC2TY6RiZGUagw)
+- [Accumulation of plastic waste during COVID-19](https://science.sciencemag.org/content/369/6509/1314)

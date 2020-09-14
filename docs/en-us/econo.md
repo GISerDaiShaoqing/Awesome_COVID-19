@@ -538,3 +538,4 @@
 - [服贸会快讯 | 疫情后世界大城市交通变革与创新](https://mp.weixin.qq.com/s/7GPF6Uhhom2yUKDdTKxOww)
 - [后疫情社区·治理｜社区孵化器：如何发现社区的真实需求](https://mp.weixin.qq.com/s/wZfh3FyuZJzQqkMOoGoTYQ)
 - [国际资讯| [德]公共管理的“数字主权”/疫情下的自行车繁荣(2020.9)](https://mp.weixin.qq.com/s/fTq3s-v9-hpN989eSjunhw)
+- [全球城市观察︱新冠疫情会终结美国大学城的“黄金时代”吗](https://mp.weixin.qq.com/s/QaUKQGPC-XdnDeE9zVU1Yw)

@@ -922,3 +922,7 @@
 - [美国已以“安全风险”为由取消上千中国留学生及学者签证；新冠“致命12月”很可能到来 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/JJv62ICz5RcT5TlsjFpqsg)
 - [警惕！中国疾控中心：预防新冠肺炎和流感叠加风险](https://mp.weixin.qq.com/s/sX7H4llMYn6H1rpBx_cSnA)
 - [高福：国内暂时没必要大规模接种新冠疫苗](https://mp.weixin.qq.com/s/A8XfVKp-jyStjyOTxZ8-7Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月13日）【中国科讯】](https://mp.weixin.qq.com/s/rwJkj686r4PMTz3ciwzT3Q)
+- [习近平主持召开科学家座谈会并发表重要讲话【一周科学看点2020-09-14丨中国科学院院刊】](https://mp.weixin.qq.com/s/sG7ApCOQuCewdz5SkZtUWA)
+- [阿斯利康在英国重启被暂停的新冠疫苗临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/LDUf6pceMhM2EQqVKuVqwg)
+- [Science 一周论文导读 | 2020年9月4日](https://mp.weixin.qq.com/s/lDw4wgq2w1dkUx8j2nOISw)

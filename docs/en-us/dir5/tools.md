@@ -87,3 +87,6 @@
 - [Covid19 Data Analysis](https://github.com/ThinamXx/Covid19..DataAnalysis)
 - [Next-generation serverless crawler for COVID-19 data](https://github.com/covidatlas/li)
 - [COVID-19 App](https://github.com/WorldHealthOrganization/app)
+- [独家 | 可预测COVID-19病例峰值的新算法](https://mp.weixin.qq.com/s/FovkdTv8Ibc5j_Oi-kIujw)
+- [A new predictive algorithm aims to forecast COVID-19 case spikes](https://www.techrepublic.com/article/a-new-predictive-algorithm-aims-to-forecast-covid-19-case-spikes/)
+- [Models of COVID-19 outbreak trajectories and hospital demand](https://github.com/neherlab/covid19_scenarios)
