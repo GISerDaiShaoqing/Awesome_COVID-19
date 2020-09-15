@@ -926,3 +926,4 @@
 - [习近平主持召开科学家座谈会并发表重要讲话【一周科学看点2020-09-14丨中国科学院院刊】](https://mp.weixin.qq.com/s/sG7ApCOQuCewdz5SkZtUWA)
 - [阿斯利康在英国重启被暂停的新冠疫苗临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/LDUf6pceMhM2EQqVKuVqwg)
 - [Science 一周论文导读 | 2020年9月4日](https://mp.weixin.qq.com/s/lDw4wgq2w1dkUx8j2nOISw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月14日）【中国科讯】](https://mp.weixin.qq.com/s/bAnRVtucPPADTIhcDBQbKQ)
