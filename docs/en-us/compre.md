@@ -1060,3 +1060,8 @@
 - [Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
 - [数据惊人，疫情期间究竟产生了多少口罩等医疗垃圾？｜Science新冠专题](https://mp.weixin.qq.com/s/JG2vLE8iWC2TY6RiZGUagw)
 - [Accumulation of plastic waste during COVID-19](https://science.sciencemag.org/content/369/6509/1314)
+- [【Applied Energy最新原创论文】空气污染与COVID-19相关死亡之间的关系：基于法国的研究](https://mp.weixin.qq.com/s/b8pP7oAbqrG86O3EgsCpgg)
+- [The relationship between air pollution and COVID-19-related deaths: An application to three French cities](https://www.sciencedirect.com/science/article/pii/S030626192031312X)
+- [不确定的时间：从复杂系统视角看新冠大流行带来的“美好未来”](https://mp.weixin.qq.com/s/psrBV7kjAcSQuQY77cT_ww)
+- [Uncertain times](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward)
+- [快速诊断技术、智能预警系统……丨科研创新开拓传染病防控新范式](https://mp.weixin.qq.com/s/IiEcjtRtveQ9PoE5MRKrHQ)

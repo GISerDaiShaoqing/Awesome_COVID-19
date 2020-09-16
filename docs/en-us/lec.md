@@ -270,3 +270,4 @@
 - [今日直播 | 中国工程院钟南山、张伯礼、陈薇院士谈科学精神【中国科讯】](https://mp.weixin.qq.com/s/n-aPAoszQn2L4YSvUe4SQw)
 - [直播回放 | 英雄归来，他们仍牵挂同一件事【中国科讯】](https://mp.weixin.qq.com/s/WjCAmaYthqrDlFbrAUx3ug)
 - [【课程预告】后疫情时代，药物研发该何去何从？](https://mp.weixin.qq.com/s/lTDQyjNDFtkhoCnGk6xDWQ)
+- [思维论坛 | CDC吴尊友教授与您在线分享COVID-19相关课题设计](https://mp.weixin.qq.com/s/NtQN7lgvmyY3RuEdm8oHaA)

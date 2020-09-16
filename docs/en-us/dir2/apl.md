@@ -927,3 +927,5 @@
 - [阿斯利康在英国重启被暂停的新冠疫苗临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/LDUf6pceMhM2EQqVKuVqwg)
 - [Science 一周论文导读 | 2020年9月4日](https://mp.weixin.qq.com/s/lDw4wgq2w1dkUx8j2nOISw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月14日）【中国科讯】](https://mp.weixin.qq.com/s/bAnRVtucPPADTIhcDBQbKQ)
+- [中疾控专家：​普通人最早11月可打新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/A0FzDNPN0cNrIBc3qZJYuQ)
+- [一起健康生活，打败慢性病，远离2019冠状病毒病！](https://mp.weixin.qq.com/s/T0sQnJJMLTvTZyOjkTCzWg)

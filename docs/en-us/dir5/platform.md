@@ -125,3 +125,4 @@
 - [基于GIS技术的虚拟仿真实验，帮助在校生快速掌握危机事件处置和应对之道](https://mp.weixin.qq.com/s/ZQqso6MXZNXQ2yKv1wjHaw)
 - [我们开发了一个新冠疫苗追踪器，将运行到世界恢复正常](https://mp.weixin.qq.com/s/5UOCCY9ayTGjEoms0151rQ)
 - [Tracking the impact of COVID-19 in India](https://github.com/covid19india/covid19india-react)
+- [一个访问量高达1300万的shiny应用的诞生故事](https://mp.weixin.qq.com/s/RL3IsTDEHJyEsI99n6U5lQ)
