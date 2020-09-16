@@ -890,3 +890,7 @@
 - [Immunological considerations for COVID-19 vaccine strategies](https://www.nature.com/articles/s41577-020-00434-6)
 - [【在线速递】胸腺肽 α1 治疗COVID-19重症患者：一项多中心回顾性队列研究](https://mp.weixin.qq.com/s/Ho9Q7siyQ_ds3eH_O0_dlA)
 - [Thymosin α1 therapy in critically ill patients with COVID-19: A multicenter retrospective cohort study](https://www.sciencedirect.com/science/article/pii/S1567576920319469?via%3Dihub)
+- [SARS-CoV-2感染非危重住院患者中病毒排毒时间延长的相关因素以及洛匹那韦/利托那韦治疗的影响](https://mp.weixin.qq.com/s/FVphJylVAtQsSGcxQ1Q3HQ)
+- [Factors associated with prolonged viral shedding and impact of lopinavir/ritonavir treatment in hospitalised non-critically ill patients with SARS-CoV-2 infection](https://erj.ersjournals.com/content/56/1/2000799?ctkey=wechat)
+- [康复者血浆或可降低COVID-19的严重性 |《自然-医学》论文](https://mp.weixin.qq.com/s/5w3HI5AsaTFb9GV8TIrRHg)
+- [Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study](https://www.nature.com/articles/s41591-020-1088-9)

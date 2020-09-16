@@ -310,3 +310,4 @@
 - [Substantial underestimation of SARS-CoV-2 infection in the United States](https://www.nature.com/articles/s41467-020-18272-4)
 - [前车可鉴-通过交互体验式的现实模拟来防止疫情暴发 | CellPress新冠中心述评](https://mp.weixin.qq.com/s/QHWI7dFmm1hnLqJofzf0mg)
 - [Preventing Outbreaks through Interactive, Experiential Real-Life Simulations](https://www.cell.com/cell/fulltext/S0092-8674(20)31084-9)
+- [Cell：利用交互式的、体验式的现实生活模拟程序来预防疫情爆发](https://mp.weixin.qq.com/s/ArzntWN9XT57kaRJkMswEg)

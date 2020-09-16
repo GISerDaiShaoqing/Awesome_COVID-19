@@ -540,3 +540,5 @@
 - [国际资讯| [德]公共管理的“数字主权”/疫情下的自行车繁荣(2020.9)](https://mp.weixin.qq.com/s/fTq3s-v9-hpN989eSjunhw)
 - [全球城市观察︱新冠疫情会终结美国大学城的“黄金时代”吗](https://mp.weixin.qq.com/s/QaUKQGPC-XdnDeE9zVU1Yw)
 - [后疫情社区·治理｜如何成为可爱的邻居](https://mp.weixin.qq.com/s/9ohrMkwd6CijthG4fmT0vg)
+- [国际资讯 | [英]新冠恐成贫困地区的地方性流行病/英国房价再创新高(2020.9)](https://mp.weixin.qq.com/s/uHQPzVEhKG9WxRsNTTx4-A)
+- [后疫情社区·治理｜新加坡医疗分诊制度：精准抗疫的底气](https://mp.weixin.qq.com/s/5kGul9OlMqa6aRYLx1dpfA)

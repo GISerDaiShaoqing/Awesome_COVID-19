@@ -929,3 +929,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月14日）【中国科讯】](https://mp.weixin.qq.com/s/bAnRVtucPPADTIhcDBQbKQ)
 - [中疾控专家：​普通人最早11月可打新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/A0FzDNPN0cNrIBc3qZJYuQ)
 - [一起健康生活，打败慢性病，远离2019冠状病毒病！](https://mp.weixin.qq.com/s/T0sQnJJMLTvTZyOjkTCzWg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月15日）【中国科讯】](https://mp.weixin.qq.com/s/vM4dlo1lTTjQVCC-qu0CiQ)
+- [新冠病毒大流行中的Twitter国家形象：以中国为例 | 网络科学论文速递11篇](https://mp.weixin.qq.com/s/d5tZm8l0X1hlkK0jhEwgrw)
+- [疫情期间全球死胎率显著上升｜科研圈日报](https://mp.weixin.qq.com/s/2GLMsyYDBlo4Dd-8HqWaRA)
