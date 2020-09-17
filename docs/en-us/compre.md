@@ -1074,3 +1074,4 @@
 - [Decentralisation of healthcare system due to COVID-19 and its impact on hospital based laboratories - Pandemic panic patients’ reflection?](https://www.sciencedirect.com/science/article/pii/S2666659620300032?via%3Dihub)
 - [柳叶刀-感染病学 | COVID-19期间，航空旅行者的未来会怎样？](https://mp.weixin.qq.com/s/7WwOA85c_3vjNnZbNtg0rw)
 - [Air travel in the time of COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30647-2/fulltext)
+- [疫情常态化防控背景下需进一步提升大数据应用实效](https://mp.weixin.qq.com/s/u6ZmqpMCh0t39iqqx5GgjQ)

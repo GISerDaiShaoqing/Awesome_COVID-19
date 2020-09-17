@@ -553,3 +553,5 @@
 - [Structurally resolved SARS-CoV-2 antibody shows high efficacy in severely infected hamsters and provides a potent cocktail pairing strategy](https://doi.org/10.1016/j.cell.2020.09.035)
 - [Cell：揭开庐山真面目，李兰娟/李赛首次解析新冠病毒完整分子结构](https://mp.weixin.qq.com/s/WVXUNtqnXzt21s4qcCZq8A)
 - [Cell：揭开庐山真面目，李兰娟/李赛首次解析新冠病毒完整分子结构](https://mp.weixin.qq.com/s/9mkI8R9ZF50S45dnB9Uv_Q)
+- [COVID-19攻击下“健忘”的B细胞和“记仇”的T细胞 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/BP99r26PSM7HVxZbnZxjxQ)
+- [COVID-19 makes B cells forget, but T cells remember](https://mp.weixin.qq.com/s/BP99r26PSM7HVxZbnZxjxQ)
