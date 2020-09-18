@@ -3723,3 +3723,4 @@
 - [德国疫情升级，荷兰国王敢去访问吗？ 国内出访仍不戴口罩](https://mp.weixin.qq.com/s/rgLo587gcR1Zv2ud2772fA)
 - [往餐饮业甩锅？荷兰餐饮行业组织担心政府采取新疫情措施](https://mp.weixin.qq.com/s/GVJUkdM0UWidrBddsTBr4w)
 - [德比称荷两省为“红区”苦了当地旅游业；荷兰新增感染创纪录](https://mp.weixin.qq.com/s/a_8Yt_vwoRfMm8vXghTtLQ)
+- [9月18日内阁新闻发布会：区域性防疫新措施](https://mp.weixin.qq.com/s/5JYAbmOnwExOVZaufRwi3A)
