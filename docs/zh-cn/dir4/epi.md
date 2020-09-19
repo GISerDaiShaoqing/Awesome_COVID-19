@@ -311,3 +311,7 @@
 - [前车可鉴-通过交互体验式的现实模拟来防止疫情暴发 | CellPress新冠中心述评](https://mp.weixin.qq.com/s/QHWI7dFmm1hnLqJofzf0mg)
 - [Preventing Outbreaks through Interactive, Experiential Real-Life Simulations](https://www.cell.com/cell/fulltext/S0092-8674(20)31084-9)
 - [Cell：利用交互式的、体验式的现实生活模拟程序来预防疫情爆发](https://mp.weixin.qq.com/s/ArzntWN9XT57kaRJkMswEg)
+- [短文 | COVID-19确诊病例数中的幂律分布现象](https://mp.weixin.qq.com/s/id8E7EOmZPXUxLJbqiUT7Q)
+- [Power-law distribution in the number of confirmed COVID-19 cases](https://aip.scitation.org/doi/10.1063/5.0013031)
+- [medRxiv：流感或会增加COVID-19的传播和扩散](https://mp.weixin.qq.com/s/6927sn_IVFUBxCWSodRiMQ)
+- [Influenza may facilitate the spread of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.09.07.20189779v1)

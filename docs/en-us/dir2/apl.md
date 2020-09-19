@@ -934,3 +934,7 @@
 - [疫情期间全球死胎率显著上升｜科研圈日报](https://mp.weixin.qq.com/s/2GLMsyYDBlo4Dd-8HqWaRA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月16日）【中国科讯】](https://mp.weixin.qq.com/s/UYnhq4oTPEPnbCKwoHne5w)
 - [为解决出国留学难题，教育部扩大合作办学招生 | 科研圈日报](https://mp.weixin.qq.com/s/xon2i5Y3wlmNBzgo-RxnYQ)
+- [中科院党组传达学习习近平在全国抗击新冠肺炎疫情表彰大会上的重要讲话精神](https://mp.weixin.qq.com/s/VNMXKbN1THLj1qtYK1Ll-w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月17日）【中国科讯】](https://mp.weixin.qq.com/s/2hup8sgygT3wrabuGPP-AA)
+- [9 月 17 日我国内地新增确诊病例 32 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/5Ei_NgwK096-4XoyTHBgPg)
+- [武汉病毒所研究员石正丽:新冠病毒非常狡猾 源头和宿主可能永远找不到](https://mp.weixin.qq.com/s/3IO31AVU-VzFL6BJIUEeng)

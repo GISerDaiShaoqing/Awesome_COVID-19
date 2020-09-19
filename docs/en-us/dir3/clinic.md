@@ -894,3 +894,5 @@
 - [Factors associated with prolonged viral shedding and impact of lopinavir/ritonavir treatment in hospitalised non-critically ill patients with SARS-CoV-2 infection](https://erj.ersjournals.com/content/56/1/2000799?ctkey=wechat)
 - [康复者血浆或可降低COVID-19的严重性 |《自然-医学》论文](https://mp.weixin.qq.com/s/5w3HI5AsaTFb9GV8TIrRHg)
 - [Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study](https://www.nature.com/articles/s41591-020-1088-9)
+- [Nat Med：单克隆抗体疗法或有望帮助治疗新冠肺炎](https://mp.weixin.qq.com/s/rBrFz4rRh7-QWE0zu8tvgg)
+- [Rapid isolation and profiling of a diverse panel of human monoclonal antibodies targeting the SARS-CoV-2 spike protein](https://www.nature.com/articles/s41591-020-0998-x)

@@ -1075,3 +1075,6 @@
 - [柳叶刀-感染病学 | COVID-19期间，航空旅行者的未来会怎样？](https://mp.weixin.qq.com/s/7WwOA85c_3vjNnZbNtg0rw)
 - [Air travel in the time of COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30647-2/fulltext)
 - [疫情常态化防控背景下需进一步提升大数据应用实效](https://mp.weixin.qq.com/s/u6ZmqpMCh0t39iqqx5GgjQ)
+- [陈国强院士访谈：推动“四医”联动，有效提升医学教育的战略地位](https://mp.weixin.qq.com/s/xmwjGlN7XsVRfAgL4XCpBg)
+- [新冠病毒正在发生突变——影响有多大？](https://mp.weixin.qq.com/s/0795y9pjQUvD_H-Tfhg6pw)
+- [The coronavirus is mutating-does it matter?](https://www.nature.com/articles/d41586-020-02544-6?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02544-6)

@@ -555,3 +555,5 @@
 - [Cell：揭开庐山真面目，李兰娟/李赛首次解析新冠病毒完整分子结构](https://mp.weixin.qq.com/s/9mkI8R9ZF50S45dnB9Uv_Q)
 - [COVID-19攻击下“健忘”的B细胞和“记仇”的T细胞 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/BP99r26PSM7HVxZbnZxjxQ)
 - [COVID-19 makes B cells forget, but T cells remember](https://mp.weixin.qq.com/s/BP99r26PSM7HVxZbnZxjxQ)
+- [微生物所高福院士团队在新冠病毒重要靶点N蛋白研究中取得进展](https://mp.weixin.qq.com/s/Tu2shOQK8wH4g5S0TE9W0A)
+- [Structuresof the SARS-CoV-2 nucleocapsid and their perspectives for drug design](https://www.embopress.org/doi/10.15252/embj.2020105938)
