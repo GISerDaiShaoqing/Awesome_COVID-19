@@ -896,3 +896,5 @@
 - [Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study](https://www.nature.com/articles/s41591-020-1088-9)
 - [Nat Med：单克隆抗体疗法或有望帮助治疗新冠肺炎](https://mp.weixin.qq.com/s/rBrFz4rRh7-QWE0zu8tvgg)
 - [Rapid isolation and profiling of a diverse panel of human monoclonal antibodies targeting the SARS-CoV-2 spike protein](https://www.nature.com/articles/s41591-020-0998-x)
+- [【在线速递】重症COVID-19患者血浆中的细胞因子谱与ARDS和脓毒症患者无差异](https://mp.weixin.qq.com/s/cCxfB-zVfHBYg7jLtJUCug)
+- [Cytokine profile in plasma of severe COVID-19 does not differ from ARDS and sepsis](https://insight.jci.org/articles/view/140289)

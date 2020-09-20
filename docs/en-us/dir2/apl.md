@@ -938,3 +938,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月17日）【中国科讯】](https://mp.weixin.qq.com/s/2hup8sgygT3wrabuGPP-AA)
 - [9 月 17 日我国内地新增确诊病例 32 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/5Ei_NgwK096-4XoyTHBgPg)
 - [武汉病毒所研究员石正丽:新冠病毒非常狡猾 源头和宿主可能永远找不到](https://mp.weixin.qq.com/s/3IO31AVU-VzFL6BJIUEeng)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月18日）【中国科讯】](https://mp.weixin.qq.com/s/NHhFHhvhz0I4LJIKCqbkmA)
+- [钟南山：今冬明春新冠疫情可能继续存在或发展](https://mp.weixin.qq.com/s/LVyc0nWOnROmBn-vUX03vA)

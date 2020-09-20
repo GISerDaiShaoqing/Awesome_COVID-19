@@ -542,3 +542,6 @@
 - [后疫情社区·治理｜如何成为可爱的邻居](https://mp.weixin.qq.com/s/9ohrMkwd6CijthG4fmT0vg)
 - [国际资讯 | [英]新冠恐成贫困地区的地方性流行病/英国房价再创新高(2020.9)](https://mp.weixin.qq.com/s/uHQPzVEhKG9WxRsNTTx4-A)
 - [后疫情社区·治理｜新加坡医疗分诊制度：精准抗疫的底气](https://mp.weixin.qq.com/s/5kGul9OlMqa6aRYLx1dpfA)
+- [后疫情时代下， CTO 的探索与前路｜GTLC 成都站开启](https://mp.weixin.qq.com/s/-UnpTNGp0eelJD9WpKHh_g)
+- [布拉提斯拉发：疫情下，被椅子轻抚的公共空间](https://mp.weixin.qq.com/s/tzfYm4mk8qClWMMQXpw7tw)
+- [迈克尔·费奇曼：全球夜经济需要一份“复工指南”](https://mp.weixin.qq.com/s/PFOLhVycp378KUYmeOzUTg)
