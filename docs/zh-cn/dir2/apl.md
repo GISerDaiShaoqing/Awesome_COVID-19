@@ -943,3 +943,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月19日）【中国科讯】](https://mp.weixin.qq.com/s/02YFfP1X-MzQDzNYajoLfA)
 - [处理新冠肺炎疫苗的犹豫不决| 网络科学论文速递11篇](https://mp.weixin.qq.com/s/KawoquPdZackU0Bgr1am6A)
 - [高福：我国已成立国家新冠病毒中心，仿国家流感中心设置](https://mp.weixin.qq.com/s/inZLRTGwphJsTCQk-P1y1w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月20日）【中国科讯】](https://mp.weixin.qq.com/s/CY6H2TCor-TzEg3jfIuPpA)
+- [经济与疾病传播: COVID 19的重启机制 | 网络科学论文速递11篇](https://mp.weixin.qq.com/s/sH5c9Xrh5Slc-SHmRsnvvQ)
+- [教育部：高校应切忌“一刀切”封闭式管理| 科研圈日报](https://mp.weixin.qq.com/s/bZTcFxLvZnR-mntDPiR0bg)
+- [董明珠：计划投入10亿 成立病毒研究机构](https://mp.weixin.qq.com/s/jMCCWsox3e2KS9UR9WruAQ)

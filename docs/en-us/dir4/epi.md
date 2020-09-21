@@ -315,3 +315,4 @@
 - [Power-law distribution in the number of confirmed COVID-19 cases](https://aip.scitation.org/doi/10.1063/5.0013031)
 - [medRxiv：流感或会增加COVID-19的传播和扩散](https://mp.weixin.qq.com/s/6927sn_IVFUBxCWSodRiMQ)
 - [Influenza may facilitate the spread of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.09.07.20189779v1)
+- [JUST技术：如何通过轨迹相似性度量方法，发现新冠易感人群 | 技术前沿](https://mp.weixin.qq.com/s/txkJV0FO9kgIObfR6SRewg)

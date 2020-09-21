@@ -545,3 +545,6 @@
 - [后疫情时代下， CTO 的探索与前路｜GTLC 成都站开启](https://mp.weixin.qq.com/s/-UnpTNGp0eelJD9WpKHh_g)
 - [布拉提斯拉发：疫情下，被椅子轻抚的公共空间](https://mp.weixin.qq.com/s/tzfYm4mk8qClWMMQXpw7tw)
 - [迈克尔·费奇曼：全球夜经济需要一份“复工指南”](https://mp.weixin.qq.com/s/PFOLhVycp378KUYmeOzUTg)
+- [【文章导读】针对传染性疾病防控的城市空间干预策略](https://mp.weixin.qq.com/s/2dU5ltufexW0e0H_dQaITQ)
+- [全球城市观察︱16万美国商户在疫情间关店，六成将永久关停](https://mp.weixin.qq.com/s/WwP-ETVaTgY7hCDyl_HSbw)
+- [沪上一日｜防疫下半场，超大城市中的社区医生](https://mp.weixin.qq.com/s/AWfqhQgoGC9eVGI8OiOPUw)

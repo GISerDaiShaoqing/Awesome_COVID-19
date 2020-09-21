@@ -560,3 +560,8 @@
 - [Cell：动物研究发现小型抗体可有效治疗和预防新冠病毒感染](https://mp.weixin.qq.com/s/zFIiLuQ8JZUnI6TKDAZAoQ)
 - [High Potency of a Bivalent Human VH Domain in SARS-CoV-2 Animal Models](https://www.sciencedirect.com/science/article/pii/S009286742031148X)
 - [Tiny antibody component highly effective against SARS-COV-2 in animal studies](https://medicalxpress.com/news/2020-09-tiny-antibody-component-highly-effective.html)
+- [新型冠状病毒的气溶胶传播？证据、预防和控制](https://mp.weixin.qq.com/s/AGRxwYOgoBfKeQUjoZmgmA)
+- [Aerosol transmission of SARS-CoV-2? Evidence, prevention and control](https://www.sciencedirect.com/science/article/pii/S0160412020319942?via%3Dihub)
+- [昆明动物研究所在新冠肺炎动物模型研究取得新进展](https://mp.weixin.qq.com/s/eLKaVIYWnagSTeNYAMWOTw)
+- [COVID-19-like symptoms observed in Chinese tree shrews infected with SARS-CoV-2](http://zoores.ac.cn/article/doi/10.24272/j.issn.2095-8137.2020.053)
+- [重大突破！ 清华大学李赛团队与浙江大学李兰娟团队 合作解析出新冠病毒全病毒三维结构](https://mp.weixin.qq.com/s/SDLOqsJcSoiCYfzfOZaybw)
