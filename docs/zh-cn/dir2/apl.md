@@ -942,3 +942,4 @@
 - [钟南山：今冬明春新冠疫情可能继续存在或发展](https://mp.weixin.qq.com/s/LVyc0nWOnROmBn-vUX03vA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月19日）【中国科讯】](https://mp.weixin.qq.com/s/02YFfP1X-MzQDzNYajoLfA)
 - [处理新冠肺炎疫苗的犹豫不决| 网络科学论文速递11篇](https://mp.weixin.qq.com/s/KawoquPdZackU0Bgr1am6A)
+- [高福：我国已成立国家新冠病毒中心，仿国家流感中心设置](https://mp.weixin.qq.com/s/inZLRTGwphJsTCQk-P1y1w)

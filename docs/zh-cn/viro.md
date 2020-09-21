@@ -557,3 +557,6 @@
 - [COVID-19 makes B cells forget, but T cells remember](https://mp.weixin.qq.com/s/BP99r26PSM7HVxZbnZxjxQ)
 - [微生物所高福院士团队在新冠病毒重要靶点N蛋白研究中取得进展](https://mp.weixin.qq.com/s/Tu2shOQK8wH4g5S0TE9W0A)
 - [Structuresof the SARS-CoV-2 nucleocapsid and their perspectives for drug design](https://www.embopress.org/doi/10.15252/embj.2020105938)
+- [Cell：动物研究发现小型抗体可有效治疗和预防新冠病毒感染](https://mp.weixin.qq.com/s/zFIiLuQ8JZUnI6TKDAZAoQ)
+- [High Potency of a Bivalent Human VH Domain in SARS-CoV-2 Animal Models](https://www.sciencedirect.com/science/article/pii/S009286742031148X)
+- [Tiny antibody component highly effective against SARS-COV-2 in animal studies](https://medicalxpress.com/news/2020-09-tiny-antibody-component-highly-effective.html)
