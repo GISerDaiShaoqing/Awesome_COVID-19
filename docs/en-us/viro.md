@@ -565,3 +565,5 @@
 - [昆明动物研究所在新冠肺炎动物模型研究取得新进展](https://mp.weixin.qq.com/s/eLKaVIYWnagSTeNYAMWOTw)
 - [COVID-19-like symptoms observed in Chinese tree shrews infected with SARS-CoV-2](http://zoores.ac.cn/article/doi/10.24272/j.issn.2095-8137.2020.053)
 - [重大突破！ 清华大学李赛团队与浙江大学李兰娟团队 合作解析出新冠病毒全病毒三维结构](https://mp.weixin.qq.com/s/SDLOqsJcSoiCYfzfOZaybw)
+- [上海交大陈赛娟院士团队最新成果：新冠病毒感染后中和抗体能维持半年以上](https://mp.weixin.qq.com/s/WTZa4gZSPWMAlL6o1MD7vQ)
+- [Durability of neutralizing antibodies and T-cell response post SARS-CoV-2 infection](http://journal.hep.com.cn/fmd/EN/article/downloadArticleFile.do?attachType=PDF&id=28182)

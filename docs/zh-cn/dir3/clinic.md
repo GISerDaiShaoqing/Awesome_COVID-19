@@ -898,3 +898,5 @@
 - [Rapid isolation and profiling of a diverse panel of human monoclonal antibodies targeting the SARS-CoV-2 spike protein](https://www.nature.com/articles/s41591-020-0998-x)
 - [【在线速递】重症COVID-19患者血浆中的细胞因子谱与ARDS和脓毒症患者无差异](https://mp.weixin.qq.com/s/cCxfB-zVfHBYg7jLtJUCug)
 - [Cytokine profile in plasma of severe COVID-19 does not differ from ARDS and sepsis](https://insight.jci.org/articles/view/140289)
+- [支气管镜检查有助于诊断COVID-19吗?](https://mp.weixin.qq.com/s/d7VMuorLlF319y_iG3475w)
+- [Does bronchoscopy help the diagnosis in COVID-19 infection?](https://erj.ersjournals.com/content/56/2/2001619?ctkey=wechat)
