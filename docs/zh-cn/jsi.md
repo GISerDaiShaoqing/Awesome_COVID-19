@@ -59,3 +59,5 @@
 - [【征稿期延长】新型冠状病毒（COVID-19）对心理健康影响的研究 | Globalization and Health](https://mp.weixin.qq.com/s/f_YZZ9d639xlhOKWBNylFg)
 - [Call for Papers on Special Issue: Outdoor Air Pollution, Indoor Air Quality and COVID-19](https://www.journals.elsevier.com/environmental-research/call-for-papers/outdoor-air-pollution-indoor-air-quality-and-covid-19)
 - [【征稿】新型冠状病毒的基础与临床研究 | Molecular Biomedicine](https://mp.weixin.qq.com/s/QDtDU5A6XXlUQy6DjDONWw)
+- [秦川/郭海涛/钟波/周晓辉领导专刊 | 新发和重要传染病中动物模型建立与免疫研究](https://mp.weixin.qq.com/s/FA_R6IwtmT9rbz9I30yR9Q)
+- [Emerging and Important Infectious Diseases: the Cutting-Edged Studies on Animal Models and Immunology](https://www.frontiersin.org/research-topics/16094/emerging-and-important-infectious-diseases-the-cutting-edged-studies-on-animal-models-and-immunology?utm_source=yanyuRT10&utm_medium=wechat&utm_campaign=chinaad)

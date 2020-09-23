@@ -567,3 +567,5 @@
 - [重大突破！ 清华大学李赛团队与浙江大学李兰娟团队 合作解析出新冠病毒全病毒三维结构](https://mp.weixin.qq.com/s/SDLOqsJcSoiCYfzfOZaybw)
 - [上海交大陈赛娟院士团队最新成果：新冠病毒感染后中和抗体能维持半年以上](https://mp.weixin.qq.com/s/WTZa4gZSPWMAlL6o1MD7vQ)
 - [Durability of neutralizing antibodies and T-cell response post SARS-CoV-2 infection](http://journal.hep.com.cn/fmd/EN/article/downloadArticleFile.do?attachType=PDF&id=28182)
+- [【动向】新冠病毒到底能否空气传播？美国CDC发布相关指南之后又予以撤销](https://mp.weixin.qq.com/s/2a2w9W2rAgtRUto0D1H94g)
+- [Advice on Airborne Virus Transmission Vanishes From C.D.C. Website](https://www.nytimes.com/2020/09/21/health/coronavirus-cdc-aerosols.html)

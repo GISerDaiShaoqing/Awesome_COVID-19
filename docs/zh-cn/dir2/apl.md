@@ -953,3 +953,6 @@
 - [牛津-阿斯利康疫苗重启临床试验 | 北极野火有点严重 | 金星新发现暗示生命迹象| 自然每周简报](https://mp.weixin.qq.com/s/KVQrCuLz-QMfcF_vBTB2hQ)
 - [Science 一周论文导读 | 2020年9月11日](https://mp.weixin.qq.com/s/Oro-90y8toxlzEqNxlbVuw)
 - [Nature 一周论文导读 | 2020年9月10日](https://mp.weixin.qq.com/s/bXk2K36anaLVPy8MpcWEVg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月22日）【中国科讯】](https://mp.weixin.qq.com/s/a4gJCMLFEi2HRksZvztx4g)
+- [9 月 22 日我国内地新增确诊病例 10 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/i7X9XJy1eeNkoAMhKJT4UQ)
+- [24小时热门｜光照可以调控脂肪燃烧？新冠疫情带来的二氧化碳浓度改变，并非如预期那样](https://mp.weixin.qq.com/s/Ny30hSOxf_dFd-HwaQp7Cg)
