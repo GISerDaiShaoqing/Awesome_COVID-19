@@ -549,3 +549,4 @@
 - [全球城市观察︱16万美国商户在疫情间关店，六成将永久关停](https://mp.weixin.qq.com/s/WwP-ETVaTgY7hCDyl_HSbw)
 - [沪上一日｜防疫下半场，超大城市中的社区医生](https://mp.weixin.qq.com/s/AWfqhQgoGC9eVGI8OiOPUw)
 - [后疫情社区·治理｜社区基金会：串起每一颗善良的珠子](https://mp.weixin.qq.com/s/3Z6yEAfMfhymLtwFGNDgJw)
+- [后疫情社区·治理｜社区卫生服务中心，家门口的“守门人”](https://mp.weixin.qq.com/s/lD1kqWzBpTmzLjKM__9FmA)

@@ -956,3 +956,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月22日）【中国科讯】](https://mp.weixin.qq.com/s/a4gJCMLFEi2HRksZvztx4g)
 - [9 月 22 日我国内地新增确诊病例 10 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/i7X9XJy1eeNkoAMhKJT4UQ)
 - [24小时热门｜光照可以调控脂肪燃烧？新冠疫情带来的二氧化碳浓度改变，并非如预期那样](https://mp.weixin.qq.com/s/Ny30hSOxf_dFd-HwaQp7Cg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月23日）【中国科讯】](https://mp.weixin.qq.com/s/4OBMgI7KRSkSbnkVNf25Sw)
+- [英国医学院校面临财务危机，将严重影响教学质量 | 科研圈日报](https://mp.weixin.qq.com/s/aT6DLEaoJkVV9RJ3zCYTGA)

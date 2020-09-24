@@ -569,3 +569,4 @@
 - [Durability of neutralizing antibodies and T-cell response post SARS-CoV-2 infection](http://journal.hep.com.cn/fmd/EN/article/downloadArticleFile.do?attachType=PDF&id=28182)
 - [【动向】新冠病毒到底能否空气传播？美国CDC发布相关指南之后又予以撤销](https://mp.weixin.qq.com/s/2a2w9W2rAgtRUto0D1H94g)
 - [Advice on Airborne Virus Transmission Vanishes From C.D.C. Website](https://www.nytimes.com/2020/09/21/health/coronavirus-cdc-aerosols.html)
+- [李赛、李兰娟团队解密SARS-CoV-2病毒完整分子结构 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/hhAr-WEAWWIm8hrU3kIBgQ)

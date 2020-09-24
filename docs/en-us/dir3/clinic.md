@@ -900,3 +900,5 @@
 - [Cytokine profile in plasma of severe COVID-19 does not differ from ARDS and sepsis](https://insight.jci.org/articles/view/140289)
 - [支气管镜检查有助于诊断COVID-19吗?](https://mp.weixin.qq.com/s/d7VMuorLlF319y_iG3475w)
 - [Does bronchoscopy help the diagnosis in COVID-19 infection?](https://erj.ersjournals.com/content/56/2/2001619?ctkey=wechat)
+- [高效的鸡尾酒治疗策略 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/tq21kD6biy98DmHbPqBdoQ)
+- [Structurally resolved SARS-CoV-2 antibody shows high efficacy in severely infected hamsters and provides a potent cocktail pairing strategy](https://www.cell.com/cell/fulltext/S0092-8674(20)31232-0)

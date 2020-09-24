@@ -738,7 +738,6 @@
 - [Lancet | 最新！高福等团队系统介绍中国的防疫经验，帮助全球共同抗击新冠肺炎](https://mp.weixin.qq.com/s/4NS0J9uxegsAy3SU0IpjDA)
 - [Active case finding with case management: the key to tackling the COVID-19 pandemic](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31278-2/fulltext)
 - [三大航天局联合打造COVID-19下的全球视野](https://mp.weixin.qq.com/s/r4jXAiTWdL9iu8s2aSp5eg)
-- [Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
 - [中国2020-2050经济和能源情景以及疫情对全球碳排放和经济的影响](https://mp.weixin.qq.com/s/Hn0zLxSV7t_fGH7XQCL9eA)
 - [COVID-19 特刊：2020春节期间中国雾霾现象探究](https://mp.weixin.qq.com/s/r2POMyXhYdJpLYxPI8GY0g)
 - [Puzzling Haze Events in China During the Coronavirus (COVID‐19) Shutdown](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL088533)
@@ -1105,3 +1104,5 @@
 - [粮食安全与COVID-19](https://mp.weixin.qq.com/s/MgXD3GQWn_0v032lNz1gAQ)
 - [Food Security and COVID-19](https://www.worldbank.org/en/topic/agriculture/brief/food-security-and-covid-19)
 - [The impact of COVID-19 control measures on air quality in China](https://iopscience.iop.org/article/10.1088/1748-9326/aba3a2)
+- [疾控：曾被边缘弱化的定位丨我国公共卫生与疾控体系的突出问题和完善建议](https://mp.weixin.qq.com/s/oPIoJU3SVugeN3_2hbfCPg)
+- [Eye Protection and the Risk of Coronavirus Disease 2019 Does Wearing Eye Protection Mitigate Risk in Public, Non–Health Care Settings?](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2770873)
