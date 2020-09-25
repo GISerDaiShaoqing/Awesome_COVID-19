@@ -550,3 +550,5 @@
 - [沪上一日｜防疫下半场，超大城市中的社区医生](https://mp.weixin.qq.com/s/AWfqhQgoGC9eVGI8OiOPUw)
 - [后疫情社区·治理｜社区基金会：串起每一颗善良的珠子](https://mp.weixin.qq.com/s/3Z6yEAfMfhymLtwFGNDgJw)
 - [后疫情社区·治理｜社区卫生服务中心，家门口的“守门人”](https://mp.weixin.qq.com/s/lD1kqWzBpTmzLjKM__9FmA)
+- [【人居杂谈】社区为伴 健康为邻的场所营造](https://mp.weixin.qq.com/s/CzVMJJ_HaCkLeOULi8Fw2g)
+- [【文章导读】面向大气防疫的城市公共空间呼吸暴露风险评价](https://mp.weixin.qq.com/s/bbCGmgU6i_jxwVq2RCn8Ew)

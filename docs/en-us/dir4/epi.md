@@ -322,3 +322,5 @@
 - [Association of Daily Wear of Eyeglasses With Susceptibility to Coronavirus Disease 2019 Infection](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2770872)
 - [Urban Air Pollution May Enhance COVID-19 Case-Fatality and Mortality Rates in the United States](https://www.medrxiv.org/content/10.1101/2020.05.04.20090746v1)
 - [Disease burden and clinical severity of the first pandemic wave of COVID-19 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.08.27.20183228v1)
+- [Coronavirus disease-2019 (COVID-19) infection in a 3-month-old infant: Clinical features, treatment and probable route of transmission](https://www.sciencedirect.com/science/article/pii/S2214250920302456?via%3Dihub#fig0015)
+- [False negative rate of COVID-19 is eliminated by using nasal swab test](https://www.sciencedirect.com/science/article/pii/S1477893920301368?via%3Dihub)

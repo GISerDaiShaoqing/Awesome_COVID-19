@@ -570,3 +570,8 @@
 - [【动向】新冠病毒到底能否空气传播？美国CDC发布相关指南之后又予以撤销](https://mp.weixin.qq.com/s/2a2w9W2rAgtRUto0D1H94g)
 - [Advice on Airborne Virus Transmission Vanishes From C.D.C. Website](https://www.nytimes.com/2020/09/21/health/coronavirus-cdc-aerosols.html)
 - [李赛、李兰娟团队解密SARS-CoV-2病毒完整分子结构 | Cell Press 对话科学家](https://mp.weixin.qq.com/s/hhAr-WEAWWIm8hrU3kIBgQ)
+- [Lancet：新发现！382个核苷酸的缺失或会让SARS-CoV-2的感染变得更加温和！](https://mp.weixin.qq.com/s/8I1MNi59EE1up5YpJAiO2Q)
+- [Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response：an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31757-8/fulltext)
+- [Cell：揭示T细胞在控制SARS-CoV-2和降低COVID-19严重程度方面发挥着主导作用](https://mp.weixin.qq.com/s/ga10-Dp0Es7qa7xfVXKCyw)
+- [Antigen-specific adaptive immunity to SARS-CoV-2 in acute COVID-19 and associations with age and disease severity](https://www.sciencedirect.com/science/article/pii/S0092867420312356)
+- [T cells take the lead in controlling SARS-CoV-2 and reducing COVID-19 disease severity](https://medicalxpress.com/news/2020-09-cells-sars-cov-covid-disease-severity.html)

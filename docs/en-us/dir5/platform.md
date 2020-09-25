@@ -127,3 +127,5 @@
 - [Tracking the impact of COVID-19 in India](https://github.com/covid19india/covid19india-react)
 - [一个访问量高达1300万的shiny应用的诞生故事](https://mp.weixin.qq.com/s/RL3IsTDEHJyEsI99n6U5lQ)
 - [Esri CovidPulse  --  United States novel coronavirus trend lines](https://livingatlas.arcgis.com/covidpulse/#@=-94.64,39.544,4&trendType=2)
+- [UT防疫 | 校园人流实时地图 / 恩斯赫德新冠病例日增数据](https://mp.weixin.qq.com/s/AAMkM6SZcz3Oup2K02c0aA)
+- [People per building](https://apps.utwente.nl/campuscrowdmap/building)

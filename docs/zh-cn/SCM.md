@@ -83,5 +83,6 @@
 - [后疫情时代的交通复苏︱伦敦计划借助疫后复苏，更新城市交通系统 (中)](https://mp.weixin.qq.com/s/kHBhtZUkua9jyEHrq5cPiQ)
 - [后疫情时代的交通复苏︱伦敦计划借助疫后复苏，更新城市交通系统(下)](https://mp.weixin.qq.com/s/44muVPDkEb3odNzeVfih6A)
 - [后疫情时代︱新冠疫情对日本工作生活方式、经济投资的影响](https://mp.weixin.qq.com/s/vtdN61b46gwkRF8Z1WrkYQ)
+- [Build Back Better︱德勤认为新冠疫情将重启全球汽车产业](https://mp.weixin.qq.com/s/U34F7UUT5uhNt5Z8_gk5Ew)
 
 ![](/img/SCM.jpg)
