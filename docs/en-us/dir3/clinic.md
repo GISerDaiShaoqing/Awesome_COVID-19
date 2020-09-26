@@ -902,3 +902,5 @@
 - [Does bronchoscopy help the diagnosis in COVID-19 infection?](https://erj.ersjournals.com/content/56/2/2001619?ctkey=wechat)
 - [高效的鸡尾酒治疗策略 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/tq21kD6biy98DmHbPqBdoQ)
 - [Structurally resolved SARS-CoV-2 antibody shows high efficacy in severely infected hamsters and provides a potent cocktail pairing strategy](https://www.cell.com/cell/fulltext/S0092-8674(20)31232-0)
+- [【Nature】加速发表迄今最好的新冠疫苗综述。直接对比中和抗体，差别一目了然](https://mp.weixin.qq.com/s/Nf96sIZ0hnFIqrNH1IAMhg)
+- [SARS-CoV-2 vaccines in development](https://www.nature.com/articles/s41586-020-2798-3)

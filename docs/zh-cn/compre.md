@@ -1113,3 +1113,7 @@
 - [Hunting for antibodies to combat COVID‑19](https://www.nature.com/biopharmdeal/volumes/14/issues/3)
 - [国际研究探讨COVID-19大流行对全球碳排放预测的影响](https://mp.weixin.qq.com/s/uH7qMSzgcmFWiiZ7PReduQ)
 - [Exploring the Impact of the COVID-19 Pandemic on Global Emission Projections: Assessment of Green Versus Non-green Recovery](https://www.pbl.nl/en/publications/exploring-the-impact-of-covid-19-pandemic-on-global-emission-projections)
+- [疫苗研发的历史疑云？都是滚石惹的祸！](https://mp.weixin.qq.com/s/ltMU8pSPKnfVK7FLp7bmBQ)
+- [部分感染者出现精神症状，新冠病毒如何损伤大脑？](https://mp.weixin.qq.com/s/v_3TxpOOAl-sfmetHd_BUw)
+- [How COVID-19 can damage the brain](https://www.nature.com/articles/d41586-020-02599-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02599-5)
+- [疫情下的科学交流丨Cell Mentor](https://mp.weixin.qq.com/s/Y7PuPo2VIwpMg9cxFgYbdg)

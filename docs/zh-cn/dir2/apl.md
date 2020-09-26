@@ -961,3 +961,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月24日）【中国科讯】](https://mp.weixin.qq.com/s/QUUjqewydY5QAhH4lPy_aw)
 - [9 月 24 日我国内地新增确诊病例 8 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/NAh-LWf4pIZ82h9QNpIqAw)
 - [十一黄金周 | 酒店住宿业如何为客人提供安全的居住环境？](https://mp.weixin.qq.com/s/JaMFOX1lVu7nNlWISCSvbQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月25日）【中国科讯】](https://mp.weixin.qq.com/s/cWU5_0S07uh_pHkkMOZf3A)
+- [新冠疫情将如何改变二氧化碳浓度？｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/DDn3YwiD5OoBqQ0teR8y4g)
