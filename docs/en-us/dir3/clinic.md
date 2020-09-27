@@ -904,3 +904,5 @@
 - [Structurally resolved SARS-CoV-2 antibody shows high efficacy in severely infected hamsters and provides a potent cocktail pairing strategy](https://www.cell.com/cell/fulltext/S0092-8674(20)31232-0)
 - [【Nature】加速发表迄今最好的新冠疫苗综述。直接对比中和抗体，差别一目了然](https://mp.weixin.qq.com/s/Nf96sIZ0hnFIqrNH1IAMhg)
 - [SARS-CoV-2 vaccines in development](https://www.nature.com/articles/s41586-020-2798-3)
+- [高福一直担心的ADE是什么？Nature子刊重磅综述：ADE效应与新冠疫苗治疗](https://mp.weixin.qq.com/s/Mm23n8S5V-1CeF4oKXBTuw)
+- [Antibody-dependent enhancement andSARS-CoV-2 vaccines and therapies](https://www.nature.com/articles/s41564-020-00789-5)

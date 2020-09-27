@@ -1117,3 +1117,5 @@
 - [部分感染者出现精神症状，新冠病毒如何损伤大脑？](https://mp.weixin.qq.com/s/v_3TxpOOAl-sfmetHd_BUw)
 - [How COVID-19 can damage the brain](https://www.nature.com/articles/d41586-020-02599-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02599-5)
 - [疫情下的科学交流丨Cell Mentor](https://mp.weixin.qq.com/s/Y7PuPo2VIwpMg9cxFgYbdg)
+- [疫情之后，我们应该如何科学地吃？](https://mp.weixin.qq.com/s/mYhQ7qzRXhokGhmtPc2-Kg)
+- [Lancet Voice | Dr Richard Horton：疫情时期的同行评议](https://mp.weixin.qq.com/s/_s35RGyJMKijl5z2e6-QEw)

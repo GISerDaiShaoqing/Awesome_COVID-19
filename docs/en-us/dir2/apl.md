@@ -963,3 +963,5 @@
 - [十一黄金周 | 酒店住宿业如何为客人提供安全的居住环境？](https://mp.weixin.qq.com/s/JaMFOX1lVu7nNlWISCSvbQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月25日）【中国科讯】](https://mp.weixin.qq.com/s/cWU5_0S07uh_pHkkMOZf3A)
 - [新冠疫情将如何改变二氧化碳浓度？｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/DDn3YwiD5OoBqQ0teR8y4g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月26日）【中国科讯】](https://mp.weixin.qq.com/s/BdspwYee8IGmZkjeRGuTng)
+- [世卫组织发布“全球疫苗公平分发计划”，希望2021年底终结疫情严重期｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/VMgom-1Fny5VKg34a_oriw)
