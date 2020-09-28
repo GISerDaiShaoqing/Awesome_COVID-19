@@ -46,3 +46,5 @@
 - [COVID-19影像学精选图书|章节限时免费开放下载](https://mp.weixin.qq.com/s/BEfJWRLR_CJ0EFyZTi9SRw)
 - [专家视点 | 人工智能在医学图像中的应用：机会与挑战](https://mp.weixin.qq.com/s/aeXnMJkrguAkIx4pmErpSA)
 - [3S战“疫”|用AI诊断新冠肺炎CT影像](https://mp.weixin.qq.com/s/XeDjLYktLKcFWK73D1Ojxw)
+- [作者采访 | 深度学习算法应用于COVID-19影像学诊断](https://mp.weixin.qq.com/s/5Og-hhy8_uqPDkDC4L-9NQ)
+- [Deep learning-based triage and analysis of lesion burden for COVID-19: a retrospective study with external validation](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30199-0/fulltext)

@@ -1119,3 +1119,6 @@
 - [疫情下的科学交流丨Cell Mentor](https://mp.weixin.qq.com/s/Y7PuPo2VIwpMg9cxFgYbdg)
 - [疫情之后，我们应该如何科学地吃？](https://mp.weixin.qq.com/s/mYhQ7qzRXhokGhmtPc2-Kg)
 - [Lancet Voice | Dr Richard Horton：疫情时期的同行评议](https://mp.weixin.qq.com/s/_s35RGyJMKijl5z2e6-QEw)
+- [​建立我国传染病智慧化预警多点触发机制和多渠道监测预警机制](https://mp.weixin.qq.com/s/xsWHMXQQgipX3xOS2CF8nQ)
+- [谁该优先接种新冠疫苗？](https://mp.weixin.qq.com/s/b_fKe0znCFQ3BGkS5wy1Qg)
+- [Who gets a COVID vaccine first? Access plans are taking shape](https://www.nature.com/articles/d41586-020-02684-9?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02684-9)

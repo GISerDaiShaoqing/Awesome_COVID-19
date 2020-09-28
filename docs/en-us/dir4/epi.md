@@ -324,3 +324,4 @@
 - [Disease burden and clinical severity of the first pandemic wave of COVID-19 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.08.27.20183228v1)
 - [Coronavirus disease-2019 (COVID-19) infection in a 3-month-old infant: Clinical features, treatment and probable route of transmission](https://www.sciencedirect.com/science/article/pii/S2214250920302456?via%3Dihub#fig0015)
 - [False negative rate of COVID-19 is eliminated by using nasal swab test](https://www.sciencedirect.com/science/article/pii/S1477893920301368?via%3Dihub)
+- [微软Premonition：像预报天气一样预测流行病](https://mp.weixin.qq.com/s/5VW9exW3sZEHa82H84pOGA)

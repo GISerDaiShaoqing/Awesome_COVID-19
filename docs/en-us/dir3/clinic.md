@@ -906,3 +906,4 @@
 - [SARS-CoV-2 vaccines in development](https://www.nature.com/articles/s41586-020-2798-3)
 - [高福一直担心的ADE是什么？Nature子刊重磅综述：ADE效应与新冠疫苗治疗](https://mp.weixin.qq.com/s/Mm23n8S5V-1CeF4oKXBTuw)
 - [Antibody-dependent enhancement andSARS-CoV-2 vaccines and therapies](https://www.nature.com/articles/s41564-020-00789-5)
+- [英国“人体挑战试验”明年1月开启，志愿者接种疫苗后将刻意感染新冠病毒](https://mp.weixin.qq.com/s/KkX7M_ZL2trKqhK2hGvxRA)

@@ -575,3 +575,6 @@
 - [Cell：揭示T细胞在控制SARS-CoV-2和降低COVID-19严重程度方面发挥着主导作用](https://mp.weixin.qq.com/s/ga10-Dp0Es7qa7xfVXKCyw)
 - [Antigen-specific adaptive immunity to SARS-CoV-2 in acute COVID-19 and associations with age and disease severity](https://www.sciencedirect.com/science/article/pii/S0092867420312356)
 - [T cells take the lead in controlling SARS-CoV-2 and reducing COVID-19 disease severity](https://medicalxpress.com/news/2020-09-cells-sars-cov-covid-disease-severity.html)
+- [《科学》：发现新冠病毒S蛋白的一个亚油酸结合口袋，为开发阻止这种病毒感染的药物奠定基础](https://mp.weixin.qq.com/s/6TXjwXHUPx_a4cCY5F93Vg)
+- [Free fatty acid binding pocket in the locked structure of SARS-CoV-2 spike protein](https://science.sciencemag.org/content/early/2020/09/18/science.abd3255)
+- [Discovery of a druggable pocket in the SARS-CoV-2 Spike protein could stop virus in its tracks](https://medicalxpress.com/news/2020-09-discovery-druggable-pocket-sars-cov-spike.html)
