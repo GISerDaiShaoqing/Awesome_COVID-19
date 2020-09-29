@@ -3865,3 +3865,4 @@
 - [关于疫情不要散播恐慌！荷专家运用社交媒体传播知识](https://mp.weixin.qq.com/s/7Jn60YN5jvI-40SsdfmohA)
 - [内阁：餐馆提早关门，建议戴口罩，明下午实行，历时三星期](https://mp.weixin.qq.com/s/bhGRp8gRQJyhoNf_OBZ8Uw)
 - [外交部：国庆中秋假期尽量避免非必要跨境旅行！](https://mp.weixin.qq.com/s/h1pmKujQwiB4YjNjV2hiWA)
+- [9.28荷兰政府发布疫情新措施](https://mp.weixin.qq.com/s/0ic8UU-y552NBx5YQBTVgw)
