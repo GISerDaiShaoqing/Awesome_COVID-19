@@ -325,3 +325,4 @@
 - [Coronavirus disease-2019 (COVID-19) infection in a 3-month-old infant: Clinical features, treatment and probable route of transmission](https://www.sciencedirect.com/science/article/pii/S2214250920302456?via%3Dihub#fig0015)
 - [False negative rate of COVID-19 is eliminated by using nasal swab test](https://www.sciencedirect.com/science/article/pii/S1477893920301368?via%3Dihub)
 - [微软Premonition：像预报天气一样预测流行病](https://mp.weixin.qq.com/s/5VW9exW3sZEHa82H84pOGA)
+- [The interplay of spatial spread of COVID-19 and human mobility in the urban system of China during the Chinese New Year](https://doi.org/10.1177/2399808320954211)

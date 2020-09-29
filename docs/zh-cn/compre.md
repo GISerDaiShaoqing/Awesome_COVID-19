@@ -1122,3 +1122,8 @@
 - [​建立我国传染病智慧化预警多点触发机制和多渠道监测预警机制](https://mp.weixin.qq.com/s/xsWHMXQQgipX3xOS2CF8nQ)
 - [谁该优先接种新冠疫苗？](https://mp.weixin.qq.com/s/b_fKe0znCFQ3BGkS5wy1Qg)
 - [Who gets a COVID vaccine first? Access plans are taking shape](https://www.nature.com/articles/d41586-020-02684-9?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02684-9)
+- [清华大学地学系徐冰教授研究组提出新冠疫情全球分批次联合防控策略](https://mp.weixin.qq.com/s/_729dNbxfH0OJxjovAMrug)
+- [Global COVID-19 pandemic demands joint interventions to the suppression of future waves](https://www.pnas.org/content/early/2020/09/25/2012002117)
+- [带传染病房的综合医疗机构废水排放如何适用标准？](https://mp.weixin.qq.com/s/UdilxP8pzp1Vy_KlLZ0MsA)
+- [【S&P分析】新冠疫情导致经济、行为、政策变化，在长期内可以减排多少？](https://mp.weixin.qq.com/s/eFxwW9S4fVXTj7AZxUxHWA)
+- [Emissions: Does COVID-19 Bend the Curve to 2 Degrees?](https://www.spglobal.com/en/research-insights/featured/emissions-emissions-does-covid-19-bend-the-curve-to-2-degrees)

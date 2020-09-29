@@ -553,3 +553,4 @@
 - [【人居杂谈】社区为伴 健康为邻的场所营造](https://mp.weixin.qq.com/s/CzVMJJ_HaCkLeOULi8Fw2g)
 - [【文章导读】面向大气防疫的城市公共空间呼吸暴露风险评价](https://mp.weixin.qq.com/s/bbCGmgU6i_jxwVq2RCn8Ew)
 - [后疫情社区·治理｜从地球意识反思社区营造](https://mp.weixin.qq.com/s/kqRH5oeGarb0DDx3SySEMQ)
+- [后疫情社区·治理｜社区工作人员解压指南](https://mp.weixin.qq.com/s/wV3Qi0GvDkMBVj3dD4x4-g)

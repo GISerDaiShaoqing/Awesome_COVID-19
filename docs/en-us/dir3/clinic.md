@@ -907,3 +907,6 @@
 - [高福一直担心的ADE是什么？Nature子刊重磅综述：ADE效应与新冠疫苗治疗](https://mp.weixin.qq.com/s/Mm23n8S5V-1CeF4oKXBTuw)
 - [Antibody-dependent enhancement andSARS-CoV-2 vaccines and therapies](https://www.nature.com/articles/s41564-020-00789-5)
 - [英国“人体挑战试验”明年1月开启，志愿者接种疫苗后将刻意感染新冠病毒](https://mp.weixin.qq.com/s/KkX7M_ZL2trKqhK2hGvxRA)
+- [为何COVID-19患者经常发生嗅觉丧失](https://mp.weixin.qq.com/s/PaDbiUmiIcSHB31ttz03Ow)
+- [Why COVID-19 Patients Often Develop Anosmia？](https://www.jwatch.org/na52305/2020/09/01/why-covid-19-patients-often-develop-anosmia?query=nejmyxqy)
+- [用心来抵抗COVID-19 | Springer Nature关注世界心脏日](https://mp.weixin.qq.com/s/PZkqXdaPlN55PVfEcNPWaw)

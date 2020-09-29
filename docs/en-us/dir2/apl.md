@@ -971,3 +971,6 @@
 - [9 月 27 日我国内地新增确诊病例 21 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/ulQu8XZg3ZTS87iR7mRRNg)
 - [Science 一周论文导读 | 2020年9月18日](https://mp.weixin.qq.com/s/q9NF1VQI6pjpL0lktD00xQ)
 - [Nature一周论文导读 | 2020年9月17日](https://mp.weixin.qq.com/s/RAMIxOKow1XXmvQ-FL6a3w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月28日）【中国科讯】](https://mp.weixin.qq.com/s/VTI0Zq-dr7FuBoFxSuAZVA)
+- [超100万，世卫称新冠真实死亡人数被低估！张文宏：第二波确实在展开…](https://mp.weixin.qq.com/s/WAQzZ-2Tw4CK6mo_AOtAxw)
+- [9 月 28 日我国内地新增确诊病例 12 例，全球新冠死亡人数超 100 万 | 科研圈日报](https://mp.weixin.qq.com/s/NHhQMggcFQWJsPVyT-Z-3w)
