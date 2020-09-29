@@ -1127,3 +1127,5 @@
 - [带传染病房的综合医疗机构废水排放如何适用标准？](https://mp.weixin.qq.com/s/UdilxP8pzp1Vy_KlLZ0MsA)
 - [【S&P分析】新冠疫情导致经济、行为、政策变化，在长期内可以减排多少？](https://mp.weixin.qq.com/s/eFxwW9S4fVXTj7AZxUxHWA)
 - [Emissions: Does COVID-19 Bend the Curve to 2 Degrees?](https://www.spglobal.com/en/research-insights/featured/emissions-emissions-does-covid-19-bend-the-curve-to-2-degrees)
+- [应对下一次危机 这是我们乐观的理由](https://mp.weixin.qq.com/s/ZDaA-rQ-PHpRy8NsQp4OUA)
+- [探讨健康创新合作 助力疫情常态防控](https://mp.weixin.qq.com/s/uzVnalPf4r-tswlg23V6Ow)
