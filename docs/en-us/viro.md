@@ -578,3 +578,8 @@
 - [《科学》：发现新冠病毒S蛋白的一个亚油酸结合口袋，为开发阻止这种病毒感染的药物奠定基础](https://mp.weixin.qq.com/s/6TXjwXHUPx_a4cCY5F93Vg)
 - [Free fatty acid binding pocket in the locked structure of SARS-CoV-2 spike protein](https://science.sciencemag.org/content/early/2020/09/18/science.abd3255)
 - [Discovery of a druggable pocket in the SARS-CoV-2 Spike protein could stop virus in its tracks](https://medicalxpress.com/news/2020-09-discovery-druggable-pocket-sars-cov-spike.html)
+- [重大进展 | 钟南山团队最新研究：马桶会散播邻居家的新冠病毒](https://mp.weixin.qq.com/s/5ef8uxHxTgKezA7WyvoDtw)
+- [Probable Evidence of Fecal Aerosol Transmission of SARS-CoV-2 in a High-Rise Building](https://doi.org/10.7326/M20-0928)
+- [Nature再发神文 | 神奇的研究！灭亡了数万年的尼安德特人，决定了新冠肺炎患者的临床严重程度](https://mp.weixin.qq.com/s/6sGLMyIJ251OBdJ5XaaKKg)
+- [The major genetic risk factor for severe COVID-19 is inherited from Neanderthals](https://www.nature.com/articles/s41586-020-2818-3)
+- [钟南山院士团队：第二波疫情来临前，卫生间下水道应这样做](https://mp.weixin.qq.com/s/CATJo-sVULGeF95HC6a4ug)

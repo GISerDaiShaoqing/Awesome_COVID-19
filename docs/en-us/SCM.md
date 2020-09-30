@@ -85,5 +85,6 @@
 - [后疫情时代︱新冠疫情对日本工作生活方式、经济投资的影响](https://mp.weixin.qq.com/s/vtdN61b46gwkRF8Z1WrkYQ)
 - [Build Back Better︱德勤认为新冠疫情将重启全球汽车产业](https://mp.weixin.qq.com/s/U34F7UUT5uhNt5Z8_gk5Ew)
 - [后疫情时代 | 最新研究揭示新冠疫情与人类出行是如何相互影响的](https://mp.weixin.qq.com/s/CCNYajBEuxI3BcuGtSC2bA)
+- [后疫情时代︱《自然》确保模型为社会服务五原则](https://mp.weixin.qq.com/s/vDgEPeSzj1jMTwW-1E6Cfg)
 
 ![](/img/SCM.jpg)

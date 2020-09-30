@@ -974,3 +974,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月28日）【中国科讯】](https://mp.weixin.qq.com/s/VTI0Zq-dr7FuBoFxSuAZVA)
 - [超100万，世卫称新冠真实死亡人数被低估！张文宏：第二波确实在展开…](https://mp.weixin.qq.com/s/WAQzZ-2Tw4CK6mo_AOtAxw)
 - [9 月 28 日我国内地新增确诊病例 12 例，全球新冠死亡人数超 100 万 | 科研圈日报](https://mp.weixin.qq.com/s/NHhQMggcFQWJsPVyT-Z-3w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月29日）【中国科讯】](https://mp.weixin.qq.com/s/TbBHSTKi_Q6BS9P3OS5JtA)
+- [联合国官员呼吁各方再捐款 350 亿美元应对新冠疫情｜科研圈日报](https://mp.weixin.qq.com/s/uTI6rUVTPq6mbCp-nxpofQ)

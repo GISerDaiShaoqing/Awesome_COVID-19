@@ -554,3 +554,5 @@
 - [【文章导读】面向大气防疫的城市公共空间呼吸暴露风险评价](https://mp.weixin.qq.com/s/bbCGmgU6i_jxwVq2RCn8Ew)
 - [后疫情社区·治理｜从地球意识反思社区营造](https://mp.weixin.qq.com/s/kqRH5oeGarb0DDx3SySEMQ)
 - [后疫情社区·治理｜社区工作人员解压指南](https://mp.weixin.qq.com/s/wV3Qi0GvDkMBVj3dD4x4-g)
+- [疫情放大空间信息产业痛点，自然资源部发文帮中小企业催债](https://mp.weixin.qq.com/s/_QEpibTPhvQgVn60ugL2Mw)
+- [后疫情社区·治理｜泉州社造：用自上而下推动自下而上](https://mp.weixin.qq.com/s/E2ivmpSJGXo66Aax_0CWBA)

@@ -1129,3 +1129,4 @@
 - [Emissions: Does COVID-19 Bend the Curve to 2 Degrees?](https://www.spglobal.com/en/research-insights/featured/emissions-emissions-does-covid-19-bend-the-curve-to-2-degrees)
 - [应对下一次危机 这是我们乐观的理由](https://mp.weixin.qq.com/s/ZDaA-rQ-PHpRy8NsQp4OUA)
 - [探讨健康创新合作 助力疫情常态防控](https://mp.weixin.qq.com/s/uzVnalPf4r-tswlg23V6Ow)
+- [Spatiotemporal Patterns of COVID-19 Impact on Human Activities and Environment in Mainland China Using Nighttime Light and Air Quality Data](https://www.mdpi.com/2072-4292/12/10/1576)

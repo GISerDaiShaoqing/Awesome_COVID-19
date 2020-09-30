@@ -910,3 +910,5 @@
 - [为何COVID-19患者经常发生嗅觉丧失](https://mp.weixin.qq.com/s/PaDbiUmiIcSHB31ttz03Ow)
 - [Why COVID-19 Patients Often Develop Anosmia？](https://www.jwatch.org/na52305/2020/09/01/why-covid-19-patients-often-develop-anosmia?query=nejmyxqy)
 - [用心来抵抗COVID-19 | Springer Nature关注世界心脏日](https://mp.weixin.qq.com/s/PZkqXdaPlN55PVfEcNPWaw)
+- [Cell Res | 彭小忠/邓宏魁提出了新的治疗新冠肺炎的策略：靶向巨噬细胞](https://mp.weixin.qq.com/s/UGfOH9OZaez-tKIqvHj1Yg)
+- [Effective treatment of SARS-CoV-2-infected rhesus macaques by attenuating inflammation](https://www.nature.com/articles/s41422-020-00414-4)
