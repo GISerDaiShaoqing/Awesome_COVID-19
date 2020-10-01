@@ -1130,3 +1130,7 @@
 - [应对下一次危机 这是我们乐观的理由](https://mp.weixin.qq.com/s/ZDaA-rQ-PHpRy8NsQp4OUA)
 - [探讨健康创新合作 助力疫情常态防控](https://mp.weixin.qq.com/s/uzVnalPf4r-tswlg23V6Ow)
 - [Spatiotemporal Patterns of COVID-19 Impact on Human Activities and Environment in Mainland China Using Nighttime Light and Air Quality Data](https://www.mdpi.com/2072-4292/12/10/1576)
+- [Springer两本新型冠状病毒专著推荐 | 中国经验](https://mp.weixin.qq.com/s/6SKU30Qdkht_HlXuY496hw)
+- [学术界新的不平等：兼顾家庭，让女性学者与男性同行的差距进一步扩大](https://mp.weixin.qq.com/s/Rbj_g1z3MS6rANVFwvYNDg)
+- [Matter of Opinion：疫情下的科研人](https://mp.weixin.qq.com/s/q7F_Mg8HJa7p_fYPOFWWCg)
+- [给野生动物打疫苗，可以预防人类流行病么？](https://mp.weixin.qq.com/s/M4x2S-mvrjJNRGi54cSzEQ)

@@ -976,3 +976,4 @@
 - [9 月 28 日我国内地新增确诊病例 12 例，全球新冠死亡人数超 100 万 | 科研圈日报](https://mp.weixin.qq.com/s/NHhQMggcFQWJsPVyT-Z-3w)
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月29日）【中国科讯】](https://mp.weixin.qq.com/s/TbBHSTKi_Q6BS9P3OS5JtA)
 - [联合国官员呼吁各方再捐款 350 亿美元应对新冠疫情｜科研圈日报](https://mp.weixin.qq.com/s/uTI6rUVTPq6mbCp-nxpofQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（9月30日）【中国科讯】](https://mp.weixin.qq.com/s/-eFzLIYSfvdfsuBSp6aPoA)
