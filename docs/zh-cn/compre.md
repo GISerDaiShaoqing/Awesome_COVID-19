@@ -1134,3 +1134,4 @@
 - [学术界新的不平等：兼顾家庭，让女性学者与男性同行的差距进一步扩大](https://mp.weixin.qq.com/s/Rbj_g1z3MS6rANVFwvYNDg)
 - [Matter of Opinion：疫情下的科研人](https://mp.weixin.qq.com/s/q7F_Mg8HJa7p_fYPOFWWCg)
 - [给野生动物打疫苗，可以预防人类流行病么？](https://mp.weixin.qq.com/s/M4x2S-mvrjJNRGi54cSzEQ)
+- [Go slow to go fast: a plea for sustained scientific rigour in air pollution research during the COVID-19 pandemic](https://erj.ersjournals.com/content/56/1/2001361)
