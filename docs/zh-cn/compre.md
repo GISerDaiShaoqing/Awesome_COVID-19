@@ -1139,3 +1139,5 @@
 - [做好准备！科学家预测，新冠肺炎将像季节性流感一样反复出现](https://mp.weixin.qq.com/s/Tnuogof-qyD0Hg5r-n4Qvw)
 - [Seasonality of Respiratory Viral Infections: Will COVID-19 Follow Suit?](https://www.frontiersin.org/articles/10.3389/fpubh.2020.567184/full)
 - [Scientists predict that COVID-19 will become a seasonal virus - but not yet](https://www.eurekalert.org/pub_releases/2020-09/f-spt090320.php)
+- [GRL | COVID-19期间我国氮氧化物排放变化格局](https://mp.weixin.qq.com/s/iWmTCNt3utdmJiWjanq0zg)
+- [NOx Emission Changes over Chinaduring the COVID‐19 Epidemic Inferred from Surface NO2 Observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090080)

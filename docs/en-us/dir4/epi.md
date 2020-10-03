@@ -328,3 +328,4 @@
 - [The interplay of spatial spread of COVID-19 and human mobility in the urban system of China during the Chinese New Year](https://doi.org/10.1177/2399808320954211)
 - [非重症COVID-19患者疾病进展的预测模型](https://mp.weixin.qq.com/s/N3UEkYBC26Or29yBRPu9HA)
 - [A predictive model for disease progression in non-severely ill patients with coronavirus disease 2019](https://erj.ersjournals.com/content/56/1/2001234?ctkey=wechat)
+- [Jupyter notebooks that analyze COVID-19 time series data](https://github.com/CODAIT/covid-notebooks)

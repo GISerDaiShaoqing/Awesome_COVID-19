@@ -978,3 +978,7 @@
 - [联合国官员呼吁各方再捐款 350 亿美元应对新冠疫情｜科研圈日报](https://mp.weixin.qq.com/s/uTI6rUVTPq6mbCp-nxpofQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（9月30日）【中国科讯】](https://mp.weixin.qq.com/s/-eFzLIYSfvdfsuBSp6aPoA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月1日）【中国科讯】](https://mp.weixin.qq.com/s/91HUzT7jAmJBx1wb3gB9Pg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月2日）【中国科讯】](https://mp.weixin.qq.com/s/S_Xe9QESyi4lcn7mNDyuwQ)
+- [疾控专家：常态化防控下口罩是普通老百姓的标配](https://mp.weixin.qq.com/s/gukeURe0OAe9y1hToE6SQg)
+- [疾控专家：常态化防控下口罩是普通老百姓的标配](https://mp.weixin.qq.com/s/iiHbd1Es5uNV0tEBbi7K7g)
+- [2020华人科学家Nature热门研究｜不是人造，不是华南海鲜市场，不是穿山甲，新冠病毒究竟源自何处？](https://mp.weixin.qq.com/s/QvTzjoYae5GgzTSTBzMY-A)

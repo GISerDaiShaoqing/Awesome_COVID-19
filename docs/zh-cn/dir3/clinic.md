@@ -914,3 +914,5 @@
 - [Effective treatment of SARS-CoV-2-infected rhesus macaques by attenuating inflammation](https://www.nature.com/articles/s41422-020-00414-4)
 - [【动向】新冠疫苗上市还要多久：100多种疫苗正在开发中，5种获准早期试用！](https://mp.weixin.qq.com/s/UfyBw1QHAtkl9sd2PS6kdw)
 - [Brussels shoots down Dutch plan to subsidize hydrogen to replace fossil fuels](https://nltimes.nl/2020/09/20/brussels-shoots-dutch-plan-subsidize-hydrogen-replace-fossil-fuels)
+- [辟谣! 加拿大已成功研发出2天治愈新冠肺炎的特效药?](https://mp.weixin.qq.com/s/yUz3HWJVb5z6pebVyFeQ-g)
+- [Human recombinant soluble ACE2 in severe COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30418-5/fulltext)
