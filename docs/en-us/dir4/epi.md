@@ -326,3 +326,5 @@
 - [False negative rate of COVID-19 is eliminated by using nasal swab test](https://www.sciencedirect.com/science/article/pii/S1477893920301368?via%3Dihub)
 - [微软Premonition：像预报天气一样预测流行病](https://mp.weixin.qq.com/s/5VW9exW3sZEHa82H84pOGA)
 - [The interplay of spatial spread of COVID-19 and human mobility in the urban system of China during the Chinese New Year](https://doi.org/10.1177/2399808320954211)
+- [非重症COVID-19患者疾病进展的预测模型](https://mp.weixin.qq.com/s/N3UEkYBC26Or29yBRPu9HA)
+- [A predictive model for disease progression in non-severely ill patients with coronavirus disease 2019](https://erj.ersjournals.com/content/56/1/2001234?ctkey=wechat)

@@ -1135,3 +1135,7 @@
 - [Matter of Opinion：疫情下的科研人](https://mp.weixin.qq.com/s/q7F_Mg8HJa7p_fYPOFWWCg)
 - [给野生动物打疫苗，可以预防人类流行病么？](https://mp.weixin.qq.com/s/M4x2S-mvrjJNRGi54cSzEQ)
 - [Go slow to go fast: a plea for sustained scientific rigour in air pollution research during the COVID-19 pandemic](https://erj.ersjournals.com/content/56/1/2001361)
+- [专家视点 | 新型冠状病毒肺炎与可持续能源](https://mp.weixin.qq.com/s/duHqevp8QuqodDXfz6joGQ)
+- [做好准备！科学家预测，新冠肺炎将像季节性流感一样反复出现](https://mp.weixin.qq.com/s/Tnuogof-qyD0Hg5r-n4Qvw)
+- [Seasonality of Respiratory Viral Infections: Will COVID-19 Follow Suit?](https://www.frontiersin.org/articles/10.3389/fpubh.2020.567184/full)
+- [Scientists predict that COVID-19 will become a seasonal virus - but not yet](https://www.eurekalert.org/pub_releases/2020-09/f-spt090320.php)

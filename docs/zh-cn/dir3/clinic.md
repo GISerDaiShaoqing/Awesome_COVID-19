@@ -912,3 +912,5 @@
 - [用心来抵抗COVID-19 | Springer Nature关注世界心脏日](https://mp.weixin.qq.com/s/PZkqXdaPlN55PVfEcNPWaw)
 - [Cell Res | 彭小忠/邓宏魁提出了新的治疗新冠肺炎的策略：靶向巨噬细胞](https://mp.weixin.qq.com/s/UGfOH9OZaez-tKIqvHj1Yg)
 - [Effective treatment of SARS-CoV-2-infected rhesus macaques by attenuating inflammation](https://www.nature.com/articles/s41422-020-00414-4)
+- [【动向】新冠疫苗上市还要多久：100多种疫苗正在开发中，5种获准早期试用！](https://mp.weixin.qq.com/s/UfyBw1QHAtkl9sd2PS6kdw)
+- [Brussels shoots down Dutch plan to subsidize hydrogen to replace fossil fuels](https://nltimes.nl/2020/09/20/brussels-shoots-dutch-plan-subsidize-hydrogen-replace-fossil-fuels)

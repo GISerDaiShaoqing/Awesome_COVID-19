@@ -583,3 +583,4 @@
 - [Nature再发神文 | 神奇的研究！灭亡了数万年的尼安德特人，决定了新冠肺炎患者的临床严重程度](https://mp.weixin.qq.com/s/6sGLMyIJ251OBdJ5XaaKKg)
 - [The major genetic risk factor for severe COVID-19 is inherited from Neanderthals](https://www.nature.com/articles/s41586-020-2818-3)
 - [钟南山院士团队：第二波疫情来临前，卫生间下水道应这样做](https://mp.weixin.qq.com/s/CATJo-sVULGeF95HC6a4ug)
+- [Nature重磅：中国人很安全，新冠重症风险遗传自灭绝的尼安德特人，印度和欧洲人风险高](https://mp.weixin.qq.com/s/LFKKLtv9C4HTm3RkAxze5A)
