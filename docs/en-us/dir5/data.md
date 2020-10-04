@@ -215,3 +215,4 @@
 - [COVID-19’s impact on commercial jet fuel demand has been significant and uneven](https://www.eia.gov/todayinenergy/detail.php?id=44676)
 - [中国抗击COVID-19科研进展视频报告（第6期）：人工智能应用](https://mp.weixin.qq.com/s/QlKO3eiMx7SzM1xt1n_B3Q)
 - [Multiscale Dynamic Human Mobility Flow Dataset in the U.S. during the COVID-19 Epidemic](https://arxiv.org/abs/2008.12238)
+- [Multiscale Dynamic Human Mobility Flow Data in the U.S. during the COVID-19 epidemic](https://github.com/GeoDS/COVID19USFlows)

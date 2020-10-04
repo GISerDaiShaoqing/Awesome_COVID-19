@@ -329,3 +329,8 @@
 - [非重症COVID-19患者疾病进展的预测模型](https://mp.weixin.qq.com/s/N3UEkYBC26Or29yBRPu9HA)
 - [A predictive model for disease progression in non-severely ill patients with coronavirus disease 2019](https://erj.ersjournals.com/content/56/1/2001234?ctkey=wechat)
 - [Jupyter notebooks that analyze COVID-19 time series data](https://github.com/CODAIT/covid-notebooks)
+- [专著 | 复杂网络传播理论——流行的隐秩序](https://mp.weixin.qq.com/s/mE4YC4O8cwqxL5naF9rd2Q)
+- [Science：史上最大规模接触者追踪研究发现儿童和年轻人是传播新冠病毒的关键​](https://mp.weixin.qq.com/s/eu-MoQkm8-Tt23GHmdkelQ)
+- [Epidemiology and transmission dynamics of COVID-19 in two Indian states](https://science.sciencemag.org/content/early/2020/09/29/science.abd7672)
+- [Largest COVID-19 contact-tracing finds children key to spread, evidence of superspreaders](https://medicalxpress.com/news/2020-09-largest-covid-contact-tracing-children-key.html)
+- [A Spatiotemporal Epidemiological Prediction Model to Inform County-Level COVID-19 Risk in the United States](https://hdsr.mitpress.mit.edu/pub/qqg19a0r/release/2)

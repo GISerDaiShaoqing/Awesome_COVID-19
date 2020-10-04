@@ -916,3 +916,5 @@
 - [Brussels shoots down Dutch plan to subsidize hydrogen to replace fossil fuels](https://nltimes.nl/2020/09/20/brussels-shoots-dutch-plan-subsidize-hydrogen-replace-fossil-fuels)
 - [辟谣! 加拿大已成功研发出2天治愈新冠肺炎的特效药?](https://mp.weixin.qq.com/s/yUz3HWJVb5z6pebVyFeQ-g)
 - [Human recombinant soluble ACE2 in severe COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30418-5/fulltext)
+- [重大进展 | 卞修武/张定宇等发现新冠肺炎患者的新型病理特征](https://mp.weixin.qq.com/s/kxdQtQnDPDZCQmbmYzpAWA)
+- [Pathological changes in the lungs and lymphatic organs of twelve COVID-19 autopsy cases](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa247/5912847?searchresult=1)

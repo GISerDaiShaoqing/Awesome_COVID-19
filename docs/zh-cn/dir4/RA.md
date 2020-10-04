@@ -42,3 +42,4 @@
 - [Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic](https://www.nature.com/articles/s41467-020-17922-x)
 - [模拟模型研究 | 73个中低收入国家COVID-19相关医疗成本高达520亿美元](https://mp.weixin.qq.com/s/kDg-SshqqJm_46iITeeTDQ)
 - [Projected health-care resource needs for an effective response to COVID-19 in 73 low-income and middle-income countries: a modelling study](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30383-1/fulltext)
+- [Spatial-temporal potential exposure risk analytics and urban sustainability impacts related to COVID-19 mitigation: A perspective from car mobility behaviour](https://www.sciencedirect.com/science/article/pii/S0959652620337185?via%3Dihub#undfig1)
