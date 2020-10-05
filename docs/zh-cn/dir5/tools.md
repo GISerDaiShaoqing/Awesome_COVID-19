@@ -90,3 +90,4 @@
 - [独家 | 可预测COVID-19病例峰值的新算法](https://mp.weixin.qq.com/s/FovkdTv8Ibc5j_Oi-kIujw)
 - [A new predictive algorithm aims to forecast COVID-19 case spikes](https://www.techrepublic.com/article/a-new-predictive-algorithm-aims-to-forecast-covid-19-case-spikes/)
 - [Models of COVID-19 outbreak trajectories and hospital demand](https://github.com/neherlab/covid19_scenarios)
+- [新冠疫情相似句对判定，快速匹配准确答案](https://mp.weixin.qq.com/s/bqMAcxlNp9NkiQz8o2Tx_A)

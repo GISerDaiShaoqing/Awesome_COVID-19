@@ -214,3 +214,5 @@
 - [R-新冠病毒世界格局(3): 动态热力图](https://mp.weixin.qq.com/s/tpaL5uPV1OlIfApcABAb8w)
 - [助力抗疫！同衡技术创新中心研究团队获阿里云“疫情可视化公益行动”银奖](https://mp.weixin.qq.com/s/YZqJYgypuFAWEpX2gT5Y7A)
 - [助力抗疫 清华同衡技术创新中心研究团队获阿里云“疫情可视化公益行动”银奖](https://mp.weixin.qq.com/s/XRnH91LurUM6EPw-qVPWIA)
+- [【存照】特朗普确诊后，《纽约时报》画了这7张简图科普新冠感染、发病与恢复的过程](https://mp.weixin.qq.com/s/rlFbXQGc21sUl_5S7EGyWw)
+- [Charting a Coronavirus Infection](https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html)

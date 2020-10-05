@@ -1149,3 +1149,5 @@
 - [Understanding the Epidemic Course in Order to Improve Epidemic Forecasting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000303)
 - [The challenges of modeling and forecasting the spread of COVID-19](https://www.pnas.org/content/117/29/16732)
 - [Time to address the spatiotemporal uncertainties in COVID-19 research: Concerns and challenges](https://www.researchgate.net/publication/344465945_Time_to_address_the_spatiotemporal_uncertainties_in_COVID-19_research_Concerns_and_challenges)
+- [那些能让我们生病的动物，在人类生活区活得更好](https://mp.weixin.qq.com/s/FUIcAKjL-oOkmk8coEDvUg)
+- [Species that can make us ill thrive in human habitats](https://www.nature.com/articles/d41586-020-02189-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02189-5)

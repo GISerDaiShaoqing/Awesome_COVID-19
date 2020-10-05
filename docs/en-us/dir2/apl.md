@@ -984,3 +984,4 @@
 - [2020华人科学家Nature热门研究｜不是人造，不是华南海鲜市场，不是穿山甲，新冠病毒究竟源自何处？](https://mp.weixin.qq.com/s/QvTzjoYae5GgzTSTBzMY-A)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月3日）【中国科讯】](https://mp.weixin.qq.com/s/31wLO5TILAxA0a8BWkr3Rg)
 - [特朗普正接受未经批准的新冠疗法；美国拟严格限制留学生签证年限 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/VZKIFEnDLlamLf4em4yd3g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月4日）【中国科讯】](https://mp.weixin.qq.com/s/nawhfo5jeRbMvYDw2Xq6iw)
