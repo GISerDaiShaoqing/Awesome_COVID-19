@@ -9,14 +9,11 @@ import matplotlib as mpl
 import datetime as dt
 import time
 
-def plot_covid():
-    url = "https://coronavirus-tracker-api.herokuapp.com/v2/latest?source=jhu"
+def plot_covid(url, urlts):
     apipage = urllib.request.urlopen(url)
     result = apipage.read()
     covidjson = json.loads(result)
-    
-    urlts = "https://covid19.mathdro.id/api/daily"
-    
+      
     apipagets = urllib.request.urlopen(urlts)
     resultts = apipagets.read()
     covidjsonts = json.loads(resultts)
@@ -60,7 +57,51 @@ def plot_covid():
     plt.ylabel('Persons', fontsize=20)
     plt.savefig('website/img/architecture.png', dpi = 300)
 
-sched_time= dt.datetime(2020, 4, 22, 5, 0, 0)
+def plot_jhuraw():
+    #covidc = pd.read_csv("https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
+    #covidd = pd.read_csv("https://github.com/CSSEGISandData/COVID-19/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv")
+    covidc = pd.read_csv("website/coviddatacon.csv")
+    covidd = pd.read_csv("website/coviddatadea.csv")
+    
+    covidc['World'] = "Worldwide"
+    covidd['World'] = "Worldwide"
+    
+    covidcts = covidc.groupby('World').sum()
+    covidcpdf = pd.DataFrame(covidcts.ix[0][2:])
+    
+    coviddts = covidd.groupby('World').sum()
+    coviddpdf = pd.DataFrame(coviddts.ix[0][2:])
+    
+    covidcpdf = covidcpdf.reset_index()
+    coviddpdf = coviddpdf.reset_index()
+    
+    today = dt.datetime.now() 
+    today
+    
+    time = today.strftime("%Y-%m-%d %H:%M:%S")
+    today = today.strftime("%Y-%m-%d")
+    
+    confirmedtext = 'Total Confirmed Cases: ' + str(list(covidcpdf.Worldwide)[-1])
+    deathtext = 'Total Death Cases: ' + str(list(coviddpdf.Worldwide)[-1])
+    cfrtext = 'Mortality rate/%: ' + str(round(list(coviddpdf.Worldwide)[-1]/list(covidcpdf.Worldwide)[-1]*100, 3))
+    updatext = 'Last Updated at: ' + str(time) + '(Beijing Time)'
+    
+    plt.figure(figsize=(20, 12))
+    plt.title('The curve of COVID-19', fontsize=30) 
+    plt.plot(covidcpdf['index'], covidcpdf['Worldwide'], color ='yellow', label = 'Confirmed Cases')
+    plt.plot(coviddpdf['index'], coviddpdf['Worldwide'], color = 'blue',  label = 'Death Cases')
+    plt.xticks(rotation=-90)
+    plt.legend()
+    plt.text(covidcpdf['index'][2], 0.75*covidcpdf['Worldwide'].max(), confirmedtext, fontsize=20)
+    plt.text(covidcpdf['index'][2], 0.6*covidcpdf['Worldwide'].max(), deathtext, fontsize=20)
+    plt.text(covidcpdf['index'][2], 0.45*covidcpdf['Worldwide'].max(), cfrtext, fontsize=20)
+    plt.text(covidcpdf['index'][2], 0.3*covidcpdf['Worldwide'].max(), updatext, fontsize=20)
+    plt.xlabel('Date', fontsize=20)
+    plt.ylabel('Persons', fontsize=20)
+    plt.savefig('website/img/architecture.png', dpi = 300)
+
+
+sched_time= dt.datetime(2020, 10, 5, 3, 0, 0)
 timedelta=dt.timedelta(hours=1)
 
 while True:
@@ -69,18 +110,34 @@ while True:
     if nown==str(sched_time):
         print(nown)
         try:
-            plot_covid()
+            #url = "https://coronavirus-tracker-api.herokuapp.com/v2/latest?source=jhu"
+            #urlts = "https://covid19.mathdro.id/api/daily"
+            #plot_covid(url, urlts)
+            plot_jhuraw()
         except:
             time.sleep(120)
-            plot_covid()
+            plot_jhuraw()
+            #plot_covid(url, urlts)
+            #try:
+            #    plot_jhuraw()
+            #except:
+            #    time.sleep(120)
+            #    plot_covid(url, urlts)
     else:
         if nown==str(sched_time+timedelta):
             sched_time=sched_time+timedelta
             print(nown)
             try:
-                plot_covid()
+                #plot_covid(url, urlts)
+                plot_jhuraw()
             except:
                 time.sleep(120)
-                plot_covid()
+                plot_jhuraw()
+                #plot_covid(url, urlts)
+                #try:
+                #    plot_jhuraw()
+                #except:
+                #    time.sleep(120)
+                #    plot_covid(url, urlts)
         else:
             pass
