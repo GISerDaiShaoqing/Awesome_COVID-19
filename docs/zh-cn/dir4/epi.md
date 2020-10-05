@@ -334,3 +334,4 @@
 - [Epidemiology and transmission dynamics of COVID-19 in two Indian states](https://science.sciencemag.org/content/early/2020/09/29/science.abd7672)
 - [Largest COVID-19 contact-tracing finds children key to spread, evidence of superspreaders](https://medicalxpress.com/news/2020-09-largest-covid-contact-tracing-children-key.html)
 - [A Spatiotemporal Epidemiological Prediction Model to Inform County-Level COVID-19 Risk in the United States](https://hdsr.mitpress.mit.edu/pub/qqg19a0r/release/2)
+- [Open geospatial work to support health systems' capacity (providers, supplies, ventilators, beds, meds) to effectively care for rapidly growing COVID19 patient needs](https://github.com/covidcaremap/covid19-healthsystemcapacity)
