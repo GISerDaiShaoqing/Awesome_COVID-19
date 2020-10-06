@@ -78,7 +78,7 @@ export default {
       desc: <span></span>,
       list: [
         //'/img/users_alibaba.png',
-        '/img/card.jpg',
+        '/img/card_new.jpg',
       ],
     },
   },
@@ -159,7 +159,7 @@ export default {
       desc: <span></span>,
       list: [
         //'/img/users_alibaba.png',
-        '/img/card.jpg',
+        '/img/card_new.jpg',
       ],
     },
   },
