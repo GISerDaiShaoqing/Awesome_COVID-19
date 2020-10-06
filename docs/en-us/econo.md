@@ -557,3 +557,4 @@
 - [疫情放大空间信息产业痛点，自然资源部发文帮中小企业催债](https://mp.weixin.qq.com/s/_QEpibTPhvQgVn60ugL2Mw)
 - [后疫情社区·治理｜泉州社造：用自上而下推动自下而上](https://mp.weixin.qq.com/s/E2ivmpSJGXo66Aax_0CWBA)
 - [资讯 | 疫情放大空间信息产业痛点，自然资源部发文帮中小企业催债](https://mp.weixin.qq.com/s/XmXvgQ6JINvt0NY_lkicHw)
+- [“一带一路”企业受疫情影响状况与对策问卷调查](https://mp.weixin.qq.com/s/kfmftQEJ6U6BQVXnq_ovhg)

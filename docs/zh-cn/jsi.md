@@ -61,3 +61,4 @@
 - [【征稿】新型冠状病毒的基础与临床研究 | Molecular Biomedicine](https://mp.weixin.qq.com/s/QDtDU5A6XXlUQy6DjDONWw)
 - [秦川/郭海涛/钟波/周晓辉领导专刊 | 新发和重要传染病中动物模型建立与免疫研究](https://mp.weixin.qq.com/s/FA_R6IwtmT9rbz9I30yR9Q)
 - [Emerging and Important Infectious Diseases: the Cutting-Edged Studies on Animal Models and Immunology](https://www.frontiersin.org/research-topics/16094/emerging-and-important-infectious-diseases-the-cutting-edged-studies-on-animal-models-and-immunology?utm_source=yanyuRT10&utm_medium=wechat&utm_campaign=chinaad)
+- [博论征稿 | 清华大学第610期博士生论坛暨2020年第七届中国全球变化研究生论坛-清华大学专场](https://mp.weixin.qq.com/s/5EmxWCvUKSQNukv1GDCMYA)

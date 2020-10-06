@@ -1151,3 +1151,5 @@
 - [Time to address the spatiotemporal uncertainties in COVID-19 research: Concerns and challenges](https://www.researchgate.net/publication/344465945_Time_to_address_the_spatiotemporal_uncertainties_in_COVID-19_research_Concerns_and_challenges)
 - [那些能让我们生病的动物，在人类生活区活得更好](https://mp.weixin.qq.com/s/FUIcAKjL-oOkmk8coEDvUg)
 - [Species that can make us ill thrive in human habitats](https://www.nature.com/articles/d41586-020-02189-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02189-5)
+- [CEADs合作：应付未来新冠疫情，需全球强力联协作](https://mp.weixin.qq.com/s/rHqk-c1pm4NaecIsAC0veA)
+- [Obesity and activity patterns before and during COVID‐19 lockdown among youths in China](https://onlinelibrary.wiley.com/doi/full/10.1111/cob.12416)

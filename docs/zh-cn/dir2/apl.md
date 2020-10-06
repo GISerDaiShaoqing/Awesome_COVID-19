@@ -985,3 +985,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月3日）【中国科讯】](https://mp.weixin.qq.com/s/31wLO5TILAxA0a8BWkr3Rg)
 - [特朗普正接受未经批准的新冠疗法；美国拟严格限制留学生签证年限 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/VZKIFEnDLlamLf4em4yd3g)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月4日）【中国科讯】](https://mp.weixin.qq.com/s/nawhfo5jeRbMvYDw2Xq6iw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月5日）【中国科讯】](https://mp.weixin.qq.com/s/j8h66-mpoktUogc56ZcZuw)
+- [习近平在联合国生物多样性峰会上发表讲话｜诺贝尔生理学或医学奖、物理学奖揭晓 【一周科学看点2020-10-06丨中国科学院院刊】](https://mp.weixin.qq.com/s/iId2kkCfbo3Bwt49FLmuSQ)
+- [至少100万逝者 | 火星发现地下湖泊 | 鸟类远比想象中聪明 | 自然每周简报](https://mp.weixin.qq.com/s/Lv3aVsou5bevQOj9x0qLiQ)
+- [Science 一周论文导读 | 2020年9月25日](https://mp.weixin.qq.com/s/kF_Ke68H_sYI2lA5K8Y0gQ)
+- [Nature 一周论文导读 | 2020年9月24日](https://mp.weixin.qq.com/s/AqmtMpttd3dtRn6fYOW6Ow)
