@@ -586,3 +586,5 @@
 - [Nature重磅：中国人很安全，新冠重症风险遗传自灭绝的尼安德特人，印度和欧洲人风险高](https://mp.weixin.qq.com/s/LFKKLtv9C4HTm3RkAxze5A)
 - [重大进展 | 迟来的研究！ 关武祥/曹军骥​发现新冠病毒可通过气溶胶传播！口罩可减少健康人被感染新冠肺炎的机会](https://mp.weixin.qq.com/s/PINZNPeXqSHhcjELf-1kqg)
 - [Distribution of Airborne SARS-CoV-2 and possible aerosol transmission in Wuhan hospitals, China](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa250/5912468?searchresult=1)
+- [Science Signaling | 高分辨率SARS-CoV-2甲基转移酶结构揭示转录后加工分子机制](https://mp.weixin.qq.com/s/78qD7dn9ZNMSbSAQpo3BEQ)
+- [High-resolution structures of the SARS-CoV-2 2′-Omethyltransferase reveal strategies for structure-based inhibitor design](https://stke.sciencemag.org/content/13/651/eabe1202)

@@ -216,3 +216,4 @@
 - [助力抗疫 清华同衡技术创新中心研究团队获阿里云“疫情可视化公益行动”银奖](https://mp.weixin.qq.com/s/XRnH91LurUM6EPw-qVPWIA)
 - [【存照】特朗普确诊后，《纽约时报》画了这7张简图科普新冠感染、发病与恢复的过程](https://mp.weixin.qq.com/s/rlFbXQGc21sUl_5S7EGyWw)
 - [Charting a Coronavirus Infection](https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html)
+- [Geographical tracking and mapping of coronavirus disease COVID-19/severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) epidemic and associated events around the world: how 21st century GIS technologies are supporting the global fight against outbreaks and epidemics](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00202-8)

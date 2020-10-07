@@ -918,3 +918,5 @@
 - [Human recombinant soluble ACE2 in severe COVID-19](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30418-5/fulltext)
 - [重大进展 | 卞修武/张定宇等发现新冠肺炎患者的新型病理特征](https://mp.weixin.qq.com/s/kxdQtQnDPDZCQmbmYzpAWA)
 - [Pathological changes in the lungs and lymphatic organs of twelve COVID-19 autopsy cases](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa247/5912847?searchresult=1)
+- [JAMA | 再添实证！随机临床试验发现皮质类固醇的使用可以显著降低28天时期危重新冠肺炎患者的死亡率](https://mp.weixin.qq.com/s/4n5RVJkZEnmY7p5THaS5fg)
+- [Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19,A Meta-analysis](https://jamanetwork.com/journals/jama/fullarticle/2770279)
