@@ -992,3 +992,5 @@
 - [Nature 一周论文导读 | 2020年9月24日](https://mp.weixin.qq.com/s/AqmtMpttd3dtRn6fYOW6Ow)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月6日）【中国科讯】](https://mp.weixin.qq.com/s/g725E4n5JrG7UEBYX1DdYw)
 - [遏制大流行病: 非药物干预和”第二波” | 网络科学论文速递9篇](https://mp.weixin.qq.com/s/cTSTYZW_ZCpd1XAuAff4Fw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月7日）【中国科讯】](https://mp.weixin.qq.com/s/j1azZ6-gJzDaGwNg_PFOxA)
+- [新冠肺炎: 短期访问高风险地区后的检疫期限 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/tY4vn45_HTRbu4YrZFYDUw)

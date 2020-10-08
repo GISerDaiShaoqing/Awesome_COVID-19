@@ -920,3 +920,5 @@
 - [Pathological changes in the lungs and lymphatic organs of twelve COVID-19 autopsy cases](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa247/5912847?searchresult=1)
 - [JAMA | 再添实证！随机临床试验发现皮质类固醇的使用可以显著降低28天时期危重新冠肺炎患者的死亡率](https://mp.weixin.qq.com/s/4n5RVJkZEnmY7p5THaS5fg)
 - [Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19,A Meta-analysis](https://jamanetwork.com/journals/jama/fullarticle/2770279)
+- [NEJM | 再取新进展！张锋使用CRISPR技术加速新冠检测](https://mp.weixin.qq.com/s/ad6LZKm3n6NoPgV8pg1Nsw)
+- [Detection of SARS-CoV-2 with SHERLOCK One-Pot Testing](https://www.nejm.org/doi/full/10.1056/NEJMc2026172?query=featured_home)

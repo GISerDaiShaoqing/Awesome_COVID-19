@@ -1153,3 +1153,5 @@
 - [Species that can make us ill thrive in human habitats](https://www.nature.com/articles/d41586-020-02189-5?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02189-5)
 - [CEADs合作：应付未来新冠疫情，需全球强力联协作](https://mp.weixin.qq.com/s/rHqk-c1pm4NaecIsAC0veA)
 - [Obesity and activity patterns before and during COVID‐19 lockdown among youths in China](https://onlinelibrary.wiley.com/doi/full/10.1111/cob.12416)
+- [COVID-69：50年后的新冠病毒大流行 | 科幻](https://mp.weixin.qq.com/s/Fl5eF-P5lkQmqDNuJi8tiQ)
+- [COVID-69 | Science Ficti](https://socialsciences.nature.com/posts/covid-69-science-fiction)

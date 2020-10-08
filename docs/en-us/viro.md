@@ -588,3 +588,7 @@
 - [Distribution of Airborne SARS-CoV-2 and possible aerosol transmission in Wuhan hospitals, China](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa250/5912468?searchresult=1)
 - [Science Signaling | 高分辨率SARS-CoV-2甲基转移酶结构揭示转录后加工分子机制](https://mp.weixin.qq.com/s/78qD7dn9ZNMSbSAQpo3BEQ)
 - [High-resolution structures of the SARS-CoV-2 2′-Omethyltransferase reveal strategies for structure-based inhibitor design](https://stke.sciencemag.org/content/13/651/eabe1202)
+- [AJIC：重磅！首次发现波长222nm的紫外线或能有效杀灭SARS-CoV-2！](https://mp.weixin.qq.com/s/yfsU8ul-djobtJqqTxkBSQ)
+- [Effectiveness of 222-nm ultraviolet light on disinfecting SARS-CoV-2 surface contamination](https://www.sciencedirect.com/science/article/pii/S0196655320308099)
+- [石正丽重磅综述 | 从溯源到治疗，全面综述新冠病毒特征](https://mp.weixin.qq.com/s/V5SYS88dYvzYgyl7gY7Ntg)
+- [Characteristics of SARS-CoV-2 and COVID-19](Characteristics of SARS-CoV-2 and COVID-19)
