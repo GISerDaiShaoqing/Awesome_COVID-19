@@ -4017,3 +4017,8 @@
 - [白宫医生透露特朗普最新病情](https://mp.weixin.qq.com/s/9oCpuEKpBCKWuh5butX5tw)
 - [荷兰司机督促口罩被打掉4颗牙？同学确诊依旧需上学，学生被放弃了？](https://mp.weixin.qq.com/s/SyY-n7Zse2iNXXO7-aBEKw)
 - [日增5822｜疫情破纪录，更需关心自己！冬日居家你需要做什么？免费送€199大牌净化器啦！](https://mp.weixin.qq.com/s/JyjcO0yxrMU2y2KzXm0qvg)
+- [荷兰病毒感染数字奔六，医疗机构保持警惕但认为无需紧张](https://mp.weixin.qq.com/s/bzdcIS1Ds-vwr2RHVZFsGQ)
+- [荷兰正成为欧洲的感染源](https://mp.weixin.qq.com/s/le8jfJkAoF69vo9t4JDYuQ)
+- [现在荷兰医院中新冠病人的治疗情况如何](https://mp.weixin.qq.com/s/mCKqgaDLH1xfc9I0yPx6cQ)
+- [疫情下求学路在何方？留学生们还好吗？](https://mp.weixin.qq.com/s/8_ZeYUtE9u51nv2E2zv99Q)
+- [新闻短平快（邻国视荷兰为风险和旅游行业大裁员等）——10月8日](https://mp.weixin.qq.com/s/BojkqxVMOCGPIBnpMjGDzw)
