@@ -4022,3 +4022,4 @@
 - [现在荷兰医院中新冠病人的治疗情况如何](https://mp.weixin.qq.com/s/mCKqgaDLH1xfc9I0yPx6cQ)
 - [疫情下求学路在何方？留学生们还好吗？](https://mp.weixin.qq.com/s/8_ZeYUtE9u51nv2E2zv99Q)
 - [新闻短平快（邻国视荷兰为风险和旅游行业大裁员等）——10月8日](https://mp.weixin.qq.com/s/BojkqxVMOCGPIBnpMjGDzw)
+- [新增5971，确诊破16万，新冠法还没通过？王牌脱口秀吐槽荷兰抗疫，极度舒适！](https://mp.weixin.qq.com/s/rNwR_WwXPy5P3Io1wOFFCQ)
