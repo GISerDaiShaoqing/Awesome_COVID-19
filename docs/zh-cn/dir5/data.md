@@ -217,3 +217,5 @@
 - [Multiscale Dynamic Human Mobility Flow Dataset in the U.S. during the COVID-19 Epidemic](https://arxiv.org/abs/2008.12238)
 - [Multiscale Dynamic Human Mobility Flow Data in the U.S. during the COVID-19 epidemic](https://github.com/GeoDS/COVID19USFlows)
 - [The COVID19 Mobility Task Force will use data from Mobile Network Operators (MNOs) to support data-poor countries with analytics on mobility to inform mitigation policies for preventing the spread of COVID-19](https://github.com/worldbank/covid-mobile-data)
+- [Data in Brief | COVID-19 特辑](https://mp.weixin.qq.com/s/PNq6YDF1zbKjluKEwbSzBQ)
+- [Data in Brief | COVID-19 Data](https://www.sciencedirect.com/journal/data-in-brief/special-issue/10DJDLS1LGN)

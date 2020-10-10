@@ -1155,3 +1155,5 @@
 - [Obesity and activity patterns before and during COVID‐19 lockdown among youths in China](https://onlinelibrary.wiley.com/doi/full/10.1111/cob.12416)
 - [COVID-69：50年后的新冠病毒大流行 | 科幻](https://mp.weixin.qq.com/s/Fl5eF-P5lkQmqDNuJi8tiQ)
 - [COVID-69 | Science Ficti](https://socialsciences.nature.com/posts/covid-69-science-fiction)
+- [柳叶刀COVID-19委员会 | 应对大流行所带来的全球性挑战](https://mp.weixin.qq.com/s/PKiLiouwqkgXG_UfBxhFlQ)
+- [Lancet COVID-19 Commission Statement on the occasion of the 75th session of the UN General Assembly](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31927-9/fulltext)
