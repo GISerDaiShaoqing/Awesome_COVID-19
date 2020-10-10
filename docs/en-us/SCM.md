@@ -86,6 +86,6 @@
 - [Build Back Better︱德勤认为新冠疫情将重启全球汽车产业](https://mp.weixin.qq.com/s/U34F7UUT5uhNt5Z8_gk5Ew)
 - [后疫情时代 | 最新研究揭示新冠疫情与人类出行是如何相互影响的](https://mp.weixin.qq.com/s/CCNYajBEuxI3BcuGtSC2bA)
 - [后疫情时代︱《自然》确保模型为社会服务五原则](https://mp.weixin.qq.com/s/vDgEPeSzj1jMTwW-1E6Cfg)
-
+- [后疫情时代 | GEHL事务所：新冠疫情期间的公共空间与公共生活](https://mp.weixin.qq.com/s/QzfrIYShMv3QN3i3fbxbeA)
 
 ![](/img/SCM.jpg)

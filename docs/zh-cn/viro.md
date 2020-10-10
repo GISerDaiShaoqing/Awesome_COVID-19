@@ -591,4 +591,6 @@
 - [AJIC：重磅！首次发现波长222nm的紫外线或能有效杀灭SARS-CoV-2！](https://mp.weixin.qq.com/s/yfsU8ul-djobtJqqTxkBSQ)
 - [Effectiveness of 222-nm ultraviolet light on disinfecting SARS-CoV-2 surface contamination](https://www.sciencedirect.com/science/article/pii/S0196655320308099)
 - [石正丽重磅综述 | 从溯源到治疗，全面综述新冠病毒特征](https://mp.weixin.qq.com/s/V5SYS88dYvzYgyl7gY7Ntg)
-- [Characteristics of SARS-CoV-2 and COVID-19](Characteristics of SARS-CoV-2 and COVID-19)
+- [Characteristics of SARS-CoV-2 and COVID-19](https://www.nature.com/articles/s41579-020-00459-7)
+- [李华教授等发现抗新冠病毒新靶点－人类弗林蛋白酶，并进行抑制剂筛选](https://mp.weixin.qq.com/s/QVC7Yabx7qaer3u1DTCLDA)
+- [Furin, a potential therapeutic target for COVID-19](https://doi.org/10.1016/j.isci.2020.101642)

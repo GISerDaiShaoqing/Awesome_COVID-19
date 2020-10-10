@@ -922,3 +922,7 @@
 - [Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19,A Meta-analysis](https://jamanetwork.com/journals/jama/fullarticle/2770279)
 - [NEJM | 再取新进展！张锋使用CRISPR技术加速新冠检测](https://mp.weixin.qq.com/s/ad6LZKm3n6NoPgV8pg1Nsw)
 - [Detection of SARS-CoV-2 with SHERLOCK One-Pot Testing](https://www.nejm.org/doi/full/10.1056/NEJMc2026172?query=featured_home)
+- [NEJM | 随机双盲对照研究！发现特朗普服用的瑞德昔韦对于缩短新冠肺炎患者恢复时间有效](https://mp.weixin.qq.com/s/DzTmpf42198iHADqd9ysjw)
+- [Remdesivir for the Treatment of Covid-19 — Final Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764?query=featured_home)
+- [新冠病毒鸡尾酒治疗策略深度解读 | CellPress对话科学家](https://mp.weixin.qq.com/s/UXNotgMHLVNdjzEhmRgC-Q)
+- [Structurally Resolved SARS-CoV-2 Antibody Shows High Efficacy in Severely Infected Hamsters and Provides a Potent Cocktail Pairing Strategy](https://www.cell.com/cell/fulltext/S0092-8674(20)31232-0#%20)

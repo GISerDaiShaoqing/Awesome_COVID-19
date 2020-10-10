@@ -1000,3 +1000,6 @@
 - [【中国疾控提醒您】新冠肺炎防控常态化个人防护——自驾出行篇](https://mp.weixin.qq.com/s/qM2FXMTNnDdU7O1JrA4Tog)
 - [期刊目录 | 《环境经济研究》2020年第3期](https://mp.weixin.qq.com/s/-RMkK97bd4Nz-7kpKlUkCg)
 - [中国学者Science论文撤稿，理由为“疫情隔离导致的数据混乱” | 科研圈日报](https://mp.weixin.qq.com/s/bDYhBrr38e9G-5Ck354ABw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月9日）【中国科讯】](https://mp.weixin.qq.com/s/He4xkZ7PK2Ozwk6lrEEvLA)
+- [新冠肺炎防控常态化个人防护——自驾出行篇](https://mp.weixin.qq.com/s/EY11ndnij4ALmux46hv_LQ)
+- [一组（无聊的）大数据：心理疾病和新冠肺炎之间的关系｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/gJPj6bt3rwSr_jaWDO_41w)
