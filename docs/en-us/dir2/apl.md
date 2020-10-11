@@ -1003,3 +1003,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月9日）【中国科讯】](https://mp.weixin.qq.com/s/He4xkZ7PK2Ozwk6lrEEvLA)
 - [新冠肺炎防控常态化个人防护——自驾出行篇](https://mp.weixin.qq.com/s/EY11ndnij4ALmux46hv_LQ)
 - [一组（无聊的）大数据：心理疾病和新冠肺炎之间的关系｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/gJPj6bt3rwSr_jaWDO_41w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月10日）【中国科讯】](https://mp.weixin.qq.com/s/RC8epo02rKEtz-lu7RMi2A)
+- [秋冬季如何防范疫情？专家回应](https://mp.weixin.qq.com/s/uTcfD8uP0DG9zj17FbpoCw)
+- [新冠肺炎对人类流动性影响的时空分析: 以美国为例 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/GInUmWxt93zDTxtn5B_azw)
+- [美国科研就业形势惨淡，STEM教职招聘数下降70%；厦门大学成立AI研究院 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/1UrFpdSbZdzv2ePtlo_elw)
