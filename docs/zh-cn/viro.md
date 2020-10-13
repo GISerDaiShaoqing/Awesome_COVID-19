@@ -594,3 +594,5 @@
 - [Characteristics of SARS-CoV-2 and COVID-19](https://www.nature.com/articles/s41579-020-00459-7)
 - [李华教授等发现抗新冠病毒新靶点－人类弗林蛋白酶，并进行抑制剂筛选](https://mp.weixin.qq.com/s/QVC7Yabx7qaer3u1DTCLDA)
 - [Furin, a potential therapeutic target for COVID-19](https://doi.org/10.1016/j.isci.2020.101642)
+- [中科院微生物所在新冠病毒跨种传播研究中取得进展](https://mp.weixin.qq.com/s/iloiNIye8MoRd9-_DLoNsA)
+- [Broad host range of SARS-CoV-2 and the molecular basisfor SARS-CoV-2 binding to cat ACE2](https://www.nature.com/articles/s41421-020-00210-9)

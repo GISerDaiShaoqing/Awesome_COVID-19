@@ -1163,3 +1163,7 @@
 - [新冠肺炎如何威胁艾滋病及结核病的长期治疗｜Science新冠专题：深度视点](https://mp.weixin.qq.com/s/Sz9ZkDht2NZgYrVoIZCHvQ)
 - [COVID-19 affects HIV and tuberculosis care](https://science.sciencemag.org/content/369/6502/366)
 - [新冠疫情对中国2020年碳排放的影响](https://engine.scichina.com/publisher/scp/journal/CSB/doi/10.1360/TB-2020-0729?slug=abstract)
+- [新冠肺炎疫情与人类生育率｜Science深度视点](https://mp.weixin.qq.com/s/mhoToy7CbimbtZtzMzaMDA)
+- [The COVID-19 pandemic and human fertility](https://science.sciencemag.org/content/369/6502/370)
+- [Science重磅 | 为什么蝙蝠容易传播致命病毒？预防人类感染致命病毒的策略有哪些？](https://mp.weixin.qq.com/s/tIjV3Wzg2in-nnuP4CcYbg)
+- [比尔·盖茨：终结新冠，世界要做好三件事](https://mp.weixin.qq.com/s/_0Qc55gcrW64k4XPmBcBxA)
