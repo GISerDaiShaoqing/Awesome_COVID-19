@@ -559,3 +559,8 @@
 - [资讯 | 疫情放大空间信息产业痛点，自然资源部发文帮中小企业催债](https://mp.weixin.qq.com/s/XmXvgQ6JINvt0NY_lkicHw)
 - [“一带一路”企业受疫情影响状况与对策问卷调查](https://mp.weixin.qq.com/s/kfmftQEJ6U6BQVXnq_ovhg)
 - [【Open Access】重大疫情下城市脆弱性及规划应对研究框架](https://mp.weixin.qq.com/s/iiQrcmBi3HgAzsdYZ2nfBw)
+- [【联合国人居署信息】联合国人居署启动新冠肺炎疫情应急响应计划和城市运动](https://mp.weixin.qq.com/s/CB9UKn3QvtWNslyPYpOzYg)
+- [【绿色复苏】后疫情时代G20国家的绿色复苏](https://mp.weixin.qq.com/s/hw1K-V3JAhrkC4nRGpyoCg)
+- [Greening the Post-pandemic Recovery in the G20](https://link.springer.com/article/10.1007/s10640-020-00437-w)
+- [推进武汉疫后重振，实现城市健康发展](https://mp.weixin.qq.com/s/9JqQtca5QpTPQu3aEL67UQ)
+- [（一）医疗和公共卫生提升规划：建设国家公共卫生安全标杆城市](https://mp.weixin.qq.com/s/GiBV6H6JjXTgbtahlyOYCQ)

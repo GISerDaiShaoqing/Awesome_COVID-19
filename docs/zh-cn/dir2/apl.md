@@ -1014,3 +1014,6 @@
 - [Nature 一周论文导读 | 2020年10月1日](https://mp.weixin.qq.com/s/ex66zaQgLGSa_zOvxc1M4w)
 - [青岛市新增新冠肺炎确诊病例 6 例｜科研圈日报](https://mp.weixin.qq.com/s/p-GbBrH9JpDc5bMbAn5ZiQ)
 - [24小时热门| 新冠病毒感染后免疫力能持续多久？](https://mp.weixin.qq.com/s/oMwpGDlutQXn7wwFsgFN_g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月12日）【中国科讯】](https://mp.weixin.qq.com/s/NZAk3NwtZHjAQYof2ViKTQ)
+- [基因增加新冠重症风险 | 金星上的生命 | 格陵兰岛至暗时刻 | 自然每周简报](https://mp.weixin.qq.com/s/R72EDdB_PccDLeLC-3ac5g)
+- [强生新冠疫苗临床试验暂停：受试者出现“无法解释的疾病” | 科研圈日报](https://mp.weixin.qq.com/s/K-ziRaiwN-tcGjwM6rbPMw

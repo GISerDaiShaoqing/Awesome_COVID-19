@@ -929,3 +929,4 @@
 - [Direct detection of SARS-CoV-2 using CRISPR-Cas13a and a mobile phone](https://doi.org/10.1101/2020.09.28.20201947)
 - [柳叶刀：临床试验表明洛匹那韦-利托那韦不能有效治疗新冠患者](https://mp.weixin.qq.com/s/FGXFVsDg_5mQ0ld9T1jSvA)
 - [Lopinavir–ritonavir in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32013-4/fulltext)
+- [洛匹那韦-利托那韦对COVID-19住院患者不是有效治疗方法](https://mp.weixin.qq.com/s/Wz5dgB_oae6yFT049us53A)

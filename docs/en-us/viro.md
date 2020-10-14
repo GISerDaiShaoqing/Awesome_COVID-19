@@ -596,3 +596,8 @@
 - [Furin, a potential therapeutic target for COVID-19](https://doi.org/10.1016/j.isci.2020.101642)
 - [中科院微生物所在新冠病毒跨种传播研究中取得进展](https://mp.weixin.qq.com/s/iloiNIye8MoRd9-_DLoNsA)
 - [Broad host range of SARS-CoV-2 and the molecular basisfor SARS-CoV-2 binding to cat ACE2](https://www.nature.com/articles/s41421-020-00210-9)
+- [石正丽发表重磅综述：从溯源到治疗，全面综述新冠病毒特征](https://mp.weixin.qq.com/s/XrRI5T1uswKiBv_Ig6X_Ww)
+- [新冠病毒可在手机屏幕及纸币上存活28天 | Virology Journal](https://mp.weixin.qq.com/s/FPY0oZCxQyNhfe4slFvhnA)
+- [The effect of temperature on persistence of SARS-CoV-2 on common surfaces](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01418-7?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_CZ01_CN_org_WC_VJ_Oct)
+- [Science重磅 | 病毒感染通用机制：这一蛋白分子有望同时抑制埃博拉和新冠病毒](https://mp.weixin.qq.com/s/O0rFItD1Vu6PoIwWqJuD6g)
+- [InhibitingEbola virus and SARS-CoV-2 entry](https://science.sciencemag.org/content/370/6513/167)
