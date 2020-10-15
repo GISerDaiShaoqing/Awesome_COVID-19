@@ -63,3 +63,5 @@
 - [Emerging and Important Infectious Diseases: the Cutting-Edged Studies on Animal Models and Immunology](https://www.frontiersin.org/research-topics/16094/emerging-and-important-infectious-diseases-the-cutting-edged-studies-on-animal-models-and-immunology?utm_source=yanyuRT10&utm_medium=wechat&utm_campaign=chinaad)
 - [博论征稿 | 清华大学第610期博士生论坛暨2020年第七届中国全球变化研究生论坛-清华大学专场](https://mp.weixin.qq.com/s/5EmxWCvUKSQNukv1GDCMYA)
 - [中国医疗卫生工作者在COVID-19中的经历 | 2020柳叶刀“威克利-伍连德奖”即将截稿](https://mp.weixin.qq.com/s/zhjqSf4OvobD9kBZApftUw)
+- [SCI专刊征稿：气候变化与心理健康](https://mp.weixin.qq.com/s/K8Z9qQKc2HYS9JkXcjnfaw)
+- [Call for Papers: Special Issue on Global Mental Health in Climate Change & Global Mental Health](https://www.cambridge.org/core/journals/global-mental-health/call-for-papers-climate-change-and-global-mental-health)

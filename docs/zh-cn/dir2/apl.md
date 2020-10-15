@@ -1016,4 +1016,11 @@
 - [24小时热门| 新冠病毒感染后免疫力能持续多久？](https://mp.weixin.qq.com/s/oMwpGDlutQXn7wwFsgFN_g)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月12日）【中国科讯】](https://mp.weixin.qq.com/s/NZAk3NwtZHjAQYof2ViKTQ)
 - [基因增加新冠重症风险 | 金星上的生命 | 格陵兰岛至暗时刻 | 自然每周简报](https://mp.weixin.qq.com/s/R72EDdB_PccDLeLC-3ac5g)
-- [强生新冠疫苗临床试验暂停：受试者出现“无法解释的疾病” | 科研圈日报](https://mp.weixin.qq.com/s/K-ziRaiwN-tcGjwM6rbPMw
+- [强生新冠疫苗临床试验暂停：受试者出现“无法解释的疾病” | 科研圈日报](https://mp.weixin.qq.com/s/K-ziRaiwN-tcGjwM6rbPMw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月13日）【中国科讯】](https://mp.weixin.qq.com/s/bNcpIjGTMKMgwZJdYU4C1g)
+- [礼来抗体药物试验因安全因素暂停 | 科研圈日报](https://mp.weixin.qq.com/s/hPQ-tzHbeDDw1kUMcuDCwA)
+- [第二波浪潮的前兆: 对目前德国新冠肺炎死亡人数的分析| 网络科学论文速递14篇](https://mp.weixin.qq.com/s/mos0VSkcsrP6O_euozjXpA)
+- [【世界标准日】实施卫生健康标准，助力新冠疫情防控](https://mp.weixin.qq.com/s/XhaZ9pyI7Wbh0ItSjxqtqQ)
+- [新冠肺炎疫苗抗体和检测试剂研发等方面取得突破丨亮点成果](https://mp.weixin.qq.com/s/3l00cGLaajbQ71_ru5H9HQ)
+- [【世界标准日】实施卫生健康标准，助力新冠疫情防控](https://mp.weixin.qq.com/s/hZPANX6vcMY4epknsN7gUA)
+- [24小时热门｜Science：新冠疫情禁锢了人类，却让鸟类重拾昔日的辉煌](https://mp.weixin.qq.com/s/SIepCNa0lcoh_M3sVDIRUg)

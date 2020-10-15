@@ -1168,3 +1168,7 @@
 - [Science重磅 | 为什么蝙蝠容易传播致命病毒？预防人类感染致命病毒的策略有哪些？](https://mp.weixin.qq.com/s/tIjV3Wzg2in-nnuP4CcYbg)
 - [比尔·盖茨：终结新冠，世界要做好三件事](https://mp.weixin.qq.com/s/_0Qc55gcrW64k4XPmBcBxA)
 - [COVID-19 Outbreak: Impacts on Environment and Food Security](https://www.researchgate.net/publication/344443343_COVID-19_Outbreak_Impacts_on_Environment_and_Food_Security)
+- [疫情后中国清洁能源发展展望](https://mp.weixin.qq.com/s/yGetIWnAawwUUPfO3FrxOA)
+- [Powering China with Clean Energy After COVID-19](https://www.wri.org/blog/2020/09/powering-china-clean-energy-after-covid-19)
+- [【IEA数据】疫情使全球碳排放回到10年前，未来走向如何？](https://mp.weixin.qq.com/s/B8_JDLNG_MOEoBgdr7kCLA)
+- [World Energy Outlook 2020](https://www.iea.org/reports/world-energy-outlook-2020)

@@ -337,3 +337,4 @@
 - [Open geospatial work to support health systems' capacity (providers, supplies, ventilators, beds, meds) to effectively care for rapidly growing COVID19 patient needs](https://github.com/covidcaremap/covid19-healthsystemcapacity)
 - [A spatial time series forecasting for mapping the risk of COVID-19 pandemic over Bandung Metropolitan Area, West Java, Indonesia](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11534/115340P/A-spatial-time-series-forecasting-for-mapping-the-risk-of/10.1117/12.2572536.full?SSO=1)
 - [Covid Model SEIIR Pipeline](https://github.com/ihmeuw/covid-model-seiir-pipeline)
+- [Deep phenotyping of 34,128 adult patients hospitalised with COVID-19 in an international network study](https://www.nature.com/articles/s41467-020-18849-z)
