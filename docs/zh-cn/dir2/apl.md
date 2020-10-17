@@ -1028,3 +1028,7 @@
 - [COVID-19复阳性患者影响因素 | EClinicalMedicine 编辑10月精选](https://mp.weixin.qq.com/s/s_3wyE-TasC2iu6p8Yj1Zw)
 - [​22名江苏师大学生感染肺结核，还有43人胸片异常｜科研圈日报](https://mp.weixin.qq.com/s/uJCIltf7SbAeueslImurcw)
 - [《公民防疫行为准则》（科普版）](https://mp.weixin.qq.com/s/mvdMRyQrMAkL0R6bPB8xwA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月15日）【中国科讯】](https://mp.weixin.qq.com/s/x7P3eBvzWvyXwAPd5ihwtg)
+- [大流行期间的食物语言: 关于新冠肺炎的饮食影响的提示 | 网络科学论文速递12篇](https://mp.weixin.qq.com/s/goGgDRHxLAew9Evch2xh3w)
+- [10 月 15 日我国内地新增确诊病例 24 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/s9QoYVMINUJPzgvSliYv1A)
+- [24小时热门｜憋尿的感觉：我们如何感知膀胱的充盈？新冠病毒或能在手机屏幕上存活28天](https://mp.weixin.qq.com/s/wbF79qsrP2RAIBHkKWdQXQ)

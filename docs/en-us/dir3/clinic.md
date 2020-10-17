@@ -932,3 +932,5 @@
 - [洛匹那韦-利托那韦对COVID-19住院患者不是有效治疗方法](https://mp.weixin.qq.com/s/Wz5dgB_oae6yFT049us53A)
 - [Science：揭示抗体混合物REGN-COV2有望预防和治疗新冠肺炎](https://mp.weixin.qq.com/s/3Fjyaa5-UFoKEigLHKDb-g)
 - [REGN-COV2 antibodies prevent and treat SARS-CoV-2 infection in rhesus macaques and hamsters](https://science.sciencemag.org/content/early/2020/10/08/science.abe2402)
+- [婴儿感染新冠病毒的途径 | 《自然-通讯》论文](https://mp.weixin.qq.com/s/NDkZR8PProu5yCOQUtVS6w)
+- [Synthesis and systematic review of reported neonatal SARS-CoV-2 infections](https://www.nature.com/articles/s41467-020-18982-9)

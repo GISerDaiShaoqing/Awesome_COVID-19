@@ -1176,3 +1176,8 @@
 - [Mining urban sustainable performance: Spatio-temporal emission potential changes of urban transit buses in post-COVID-19 future](https://www.sciencedirect.com/science/article/pii/S0306261920314185)
 - [CEADs研究：揭示新冠疫情对全球碳排放的短期抑制超过二战及2008年金融危机](https://mp.weixin.qq.com/s/WhrbIIbVpk-oD6VrZ3W5TA)
 - [Near-real-time monitoring of global CO2 emissions reveals the effects of the COVID-19 pandemic](https://www.nature.com/articles/s41467-020-18922-7)
+- [全球COVID-19部分刺激资金可用于应对气候变化的措施｜Science精选](https://mp.weixin.qq.com/s/hSRtqeiXB1fOtJ5ac2QiXw)
+- [COVID-19 recovery funds dwarf clean energy investment needs](https://science.sciencemag.org/content/370/6514/298)
+- [GBD 2019 | 不断增加的慢性病与公共卫生的失败刺激了COVID-19发展](https://mp.weixin.qq.com/s/mJGzmrO5N-1DZBM4Wnhe8Q)
+- [Spatiotemporal Patterns of COVID-19 Impact on Human Activities and Environment in China Using Nighttime Light and Air Quality Data](https://www.mdpi.com/2072-4292/12/10/1576)
+- [Impacts of COVID-19 response actions on air quality in China](https://iopscience.iop.org/article/10.1088/2515-7620/aba425)
