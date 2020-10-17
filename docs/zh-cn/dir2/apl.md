@@ -1024,3 +1024,7 @@
 - [新冠肺炎疫苗抗体和检测试剂研发等方面取得突破丨亮点成果](https://mp.weixin.qq.com/s/3l00cGLaajbQ71_ru5H9HQ)
 - [【世界标准日】实施卫生健康标准，助力新冠疫情防控](https://mp.weixin.qq.com/s/hZPANX6vcMY4epknsN7gUA)
 - [24小时热门｜Science：新冠疫情禁锢了人类，却让鸟类重拾昔日的辉煌](https://mp.weixin.qq.com/s/SIepCNa0lcoh_M3sVDIRUg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月14日）【中国科讯】](https://mp.weixin.qq.com/s/J0v-MosVoFkt34M9EXa1Fg)
+- [COVID-19复阳性患者影响因素 | EClinicalMedicine 编辑10月精选](https://mp.weixin.qq.com/s/s_3wyE-TasC2iu6p8Yj1Zw)
+- [​22名江苏师大学生感染肺结核，还有43人胸片异常｜科研圈日报](https://mp.weixin.qq.com/s/uJCIltf7SbAeueslImurcw)
+- [《公民防疫行为准则》（科普版）](https://mp.weixin.qq.com/s/mvdMRyQrMAkL0R6bPB8xwA)

@@ -1172,3 +1172,7 @@
 - [Powering China with Clean Energy After COVID-19](https://www.wri.org/blog/2020/09/powering-china-clean-energy-after-covid-19)
 - [【IEA数据】疫情使全球碳排放回到10年前，未来走向如何？](https://mp.weixin.qq.com/s/B8_JDLNG_MOEoBgdr7kCLA)
 - [World Energy Outlook 2020](https://www.iea.org/reports/world-energy-outlook-2020)
+- [【Applied Energy最新原创论文】疫情后公共交通还会持续“绿色”么？](https://mp.weixin.qq.com/s/QgCjm2iS23yy6QdoOmwtEw)
+- [Mining urban sustainable performance: Spatio-temporal emission potential changes of urban transit buses in post-COVID-19 future](https://www.sciencedirect.com/science/article/pii/S0306261920314185)
+- [CEADs研究：揭示新冠疫情对全球碳排放的短期抑制超过二战及2008年金融危机](https://mp.weixin.qq.com/s/WhrbIIbVpk-oD6VrZ3W5TA)
+- [Near-real-time monitoring of global CO2 emissions reveals the effects of the COVID-19 pandemic](https://www.nature.com/articles/s41467-020-18922-7)
