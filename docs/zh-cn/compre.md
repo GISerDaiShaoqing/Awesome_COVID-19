@@ -1181,3 +1181,8 @@
 - [GBD 2019 | 不断增加的慢性病与公共卫生的失败刺激了COVID-19发展](https://mp.weixin.qq.com/s/mJGzmrO5N-1DZBM4Wnhe8Q)
 - [Spatiotemporal Patterns of COVID-19 Impact on Human Activities and Environment in China Using Nighttime Light and Air Quality Data](https://www.mdpi.com/2072-4292/12/10/1576)
 - [Impacts of COVID-19 response actions on air quality in China](https://iopscience.iop.org/article/10.1088/2515-7620/aba425)
+- [疫苗能安全阻止疾病，为什么还有这么多怀疑？](https://mp.weixin.qq.com/s/7oXIT4IK6Lb-mu03RjwAcQ)
+- [Vaccines stop diseases safely — why all the suspicion?](https://www.nature.com/articles/d41586-020-02192-w?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02192-w)
+- [SCIENCE专题报道: 滞留武汉的“蝙蝠侠”王林发，面对质疑，石正丽曾是唯一相信他的人](https://mp.weixin.qq.com/s/dTrk7bf4V9WmiuO7ZqV3uA)
+- [The ‘bat man’ tackles COVID-19](https://science.sciencemag.org/content/370/6512/20)
+- [Climate affects global patterns of COVID-19 early outbreak dynamics](https://www.medrxiv.org/content/10.1101/2020.03.23.20040501v3)

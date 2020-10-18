@@ -220,3 +220,4 @@
 - [Data in Brief | COVID-19 特辑](https://mp.weixin.qq.com/s/PNq6YDF1zbKjluKEwbSzBQ)
 - [Data in Brief | COVID-19 Data](https://www.sciencedirect.com/journal/data-in-brief/special-issue/10DJDLS1LGN)
 - [Excel可以有多坑？害英国漏报近1.6万新冠病例，专家表示高中生都知道更好的工具](https://mp.weixin.qq.com/s/cEDgCyHuO2RJE1eK_UwhXw)
+- [中国抗击COVID-19科研进展视频报告（第6期）：人工智能应用](https://mp.weixin.qq.com/s/a2BSARwl9XK-uWqPt-7IEw)

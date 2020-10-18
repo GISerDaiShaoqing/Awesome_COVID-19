@@ -220,3 +220,4 @@
 - [Covid-19-Map](https://github.com/DenisDesimon/Covid-19-Map)
 - [独家航拍！青岛核酸检测现场：市民有序排队](https://mp.weixin.qq.com/s/lfzZgJI7OrghG7HhDS00Xw)
 - [日本研究人员做的新冠病毒颗粒传播动图](https://mp.weixin.qq.com/s/wCkqcoW3COzwiAX3iVGxjw)
+- [Spatial density latitudinal lines for COVID-19](https://github.com/marcosci/covidlines)

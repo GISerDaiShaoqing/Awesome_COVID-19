@@ -1035,3 +1035,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月16日）【中国科讯】](https://mp.weixin.qq.com/s/x-GYPMKceFZRK1VYC4blmA)
 - [新冠疫苗上市前夜的“抢跑”罗生门](https://mp.weixin.qq.com/s/51Tp5uYFXBl-uVo5wIOQwA)
 - [《公民防疫行为准则》（科普版）](https://mp.weixin.qq.com/s/mApkUrnQgj3yS0gSq_MJVw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月17日）【中国科讯】](https://mp.weixin.qq.com/s/uoFvKd-BfOdWAccPZo377A)
+- [中疾控在冷链食品外包装分离到新冠活病毒](https://mp.weixin.qq.com/s/mYWRnEqG4icE4uwQOE4cEw)
+- [中国正式加入“新冠肺炎疫苗实施计划”，将促进疫苗公平分配｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/gJGteDBc3jDyirdJwzbmYQ)
