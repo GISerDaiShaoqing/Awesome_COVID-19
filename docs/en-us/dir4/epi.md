@@ -338,3 +338,6 @@
 - [A spatial time series forecasting for mapping the risk of COVID-19 pandemic over Bandung Metropolitan Area, West Java, Indonesia](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11534/115340P/A-spatial-time-series-forecasting-for-mapping-the-risk-of/10.1117/12.2572536.full?SSO=1)
 - [Covid Model SEIIR Pipeline](https://github.com/ihmeuw/covid-model-seiir-pipeline)
 - [Deep phenotyping of 34,128 adult patients hospitalised with COVID-19 in an international network study](https://www.nature.com/articles/s41467-020-18849-z)
+- [计算因为新冠肺炎大流行而导致的过量死亡人数 | 《自然-医学》论文](https://mp.weixin.qq.com/s/7qwQ4xuSg7T9nIVKr988lA)
+- [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0)
+- [The association between ambient temperature and mortality of the coronavirus disease 2019 (COVID-19) in Wuhan, China: A time-series analysis](https://www.researchsquare.com/article/rs-45042/v1)

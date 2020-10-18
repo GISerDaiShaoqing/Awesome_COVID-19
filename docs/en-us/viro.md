@@ -601,3 +601,5 @@
 - [The effect of temperature on persistence of SARS-CoV-2 on common surfaces](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01418-7?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_CZ01_CN_org_WC_VJ_Oct)
 - [Science重磅 | 病毒感染通用机制：这一蛋白分子有望同时抑制埃博拉和新冠病毒](https://mp.weixin.qq.com/s/O0rFItD1Vu6PoIwWqJuD6g)
 - [InhibitingEbola virus and SARS-CoV-2 entry](https://science.sciencemag.org/content/370/6513/167)
+- [武汉病毒所/生物安全大科学中心等在新冠病毒空气传播研究方面取得新进展](https://mp.weixin.qq.com/s/KqtYltHH3q1ZWfv_ON5ZXQ)
+- [Distribution of Airborne SARS-CoV-2 and possible aerosol transmission in Wuhan hospitals, China](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa250/5912468?guestAccessKey=43211aaa-39bd-4c09-b29e-d8c7171d4983)

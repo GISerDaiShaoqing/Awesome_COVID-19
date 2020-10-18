@@ -1032,3 +1032,6 @@
 - [大流行期间的食物语言: 关于新冠肺炎的饮食影响的提示 | 网络科学论文速递12篇](https://mp.weixin.qq.com/s/goGgDRHxLAew9Evch2xh3w)
 - [10 月 15 日我国内地新增确诊病例 24 例，均为境外输入病例 | 科研圈日报](https://mp.weixin.qq.com/s/s9QoYVMINUJPzgvSliYv1A)
 - [24小时热门｜憋尿的感觉：我们如何感知膀胱的充盈？新冠病毒或能在手机屏幕上存活28天](https://mp.weixin.qq.com/s/wbF79qsrP2RAIBHkKWdQXQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月16日）【中国科讯】](https://mp.weixin.qq.com/s/x-GYPMKceFZRK1VYC4blmA)
+- [新冠疫苗上市前夜的“抢跑”罗生门](https://mp.weixin.qq.com/s/51Tp5uYFXBl-uVo5wIOQwA)
+- [《公民防疫行为准则》（科普版）](https://mp.weixin.qq.com/s/mApkUrnQgj3yS0gSq_MJVw)

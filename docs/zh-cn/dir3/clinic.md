@@ -934,3 +934,8 @@
 - [REGN-COV2 antibodies prevent and treat SARS-CoV-2 infection in rhesus macaques and hamsters](https://science.sciencemag.org/content/early/2020/10/08/science.abe2402)
 - [婴儿感染新冠病毒的途径 | 《自然-通讯》论文](https://mp.weixin.qq.com/s/NDkZR8PProu5yCOQUtVS6w)
 - [Synthesis and systematic review of reported neonatal SARS-CoV-2 infections](https://www.nature.com/articles/s41467-020-18982-9)
+- [Science头条 | 全球最大规模的新冠药物临床试验，发现特朗普服用的瑞德昔韦不能降低死亡率](https://mp.weixin.qq.com/s/pmC12Jkfx7HW-Ftt5zUCRQ)
+- [Repurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results](https://www.medrxiv.org/content/10.1101/2020.10.15.20209817v1)
+- [Remdesivir and interferon fall flat in WHO’s megastudy of COVID-19 treatments](https://www.sciencemag.org/news/2020/10/remdesivir-and-interferon-fall-flat-who-s-megastudy-covid-19-treatments)
+- [Nat Microbiol：中国科学家新发现！抗微生物药物或有望治疗SARS-CoV-2的感染！](https://mp.weixin.qq.com/s/Am35UMPa5rIgxcWg4kvxzw)
+- [Metallodrug ranitidine bismuth citrate suppresses SARS-CoV-2 replication and relieves virus-associated pneumonia in Syrian hamsters](https://www.nature.com/articles/s41564-020-00802-x)
