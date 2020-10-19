@@ -1186,3 +1186,8 @@
 - [SCIENCE专题报道: 滞留武汉的“蝙蝠侠”王林发，面对质疑，石正丽曾是唯一相信他的人](https://mp.weixin.qq.com/s/dTrk7bf4V9WmiuO7ZqV3uA)
 - [The ‘bat man’ tackles COVID-19](https://science.sciencemag.org/content/370/6512/20)
 - [Climate affects global patterns of COVID-19 early outbreak dynamics](https://www.medrxiv.org/content/10.1101/2020.03.23.20040501v3)
+- [COVID-19 特刊：新冠疫情期间减排对中国西北典型城市空气质量的影响](https://mp.weixin.qq.com/s/1YgBUVsaPQqQ_ZLuhjuOmw)
+- [COVID‐19 Impact on the Concentration and Composition of Submicron Particulate Matter in a Typical City of Northwest China](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089035)
+- [心理学 | 你的梦境被COVID-19“感染”了吗？](https://mp.weixin.qq.com/s/WlfaCLvVIAxQHrPdAqo7NA)
+- [Pandemic Dreams: Network Analysis of Dream Content During the COVID-19 Lockdown](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.573961/full)
+- [清华大学地学系刘竹研究组揭示新冠疫情下全球二氧化碳排放创纪录下降](https://mp.weixin.qq.com/s/PVsLy5SPIPyaw2o7Xa3REA)

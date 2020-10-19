@@ -939,3 +939,7 @@
 - [Remdesivir and interferon fall flat in WHO’s megastudy of COVID-19 treatments](https://www.sciencemag.org/news/2020/10/remdesivir-and-interferon-fall-flat-who-s-megastudy-covid-19-treatments)
 - [Nat Microbiol：中国科学家新发现！抗微生物药物或有望治疗SARS-CoV-2的感染！](https://mp.weixin.qq.com/s/Am35UMPa5rIgxcWg4kvxzw)
 - [Metallodrug ranitidine bismuth citrate suppresses SARS-CoV-2 replication and relieves virus-associated pneumonia in Syrian hamsters](https://www.nature.com/articles/s41564-020-00802-x)
+- [最新研究 | 基于灭活病毒的新冠候选疫苗安全性良好且能诱导免疫反应](https://mp.weixin.qq.com/s/l1pqaYDXjaEnF2xuSc4fMg)
+- [Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBIBP-CorV: a randomised, double-blind, placebo-controlled, phase 1/2 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30831-8/fulltext)
+- [WHO发表全球最大COVID-19临床试验！瑞德西韦、羟氯喹、洛匹那韦效果甚微。吉利德公司紧急声明！](https://mp.weixin.qq.com/s/XKz7cLUi6LX6In-atUG5Rw)
+- [Repurposedantiviral drugs for COVID-19; interim WHO SOLIDARITY trial results](https://doi.org/10.1101/2020.10.15.20209817)

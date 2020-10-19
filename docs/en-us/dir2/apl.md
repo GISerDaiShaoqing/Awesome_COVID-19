@@ -1038,3 +1038,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月17日）【中国科讯】](https://mp.weixin.qq.com/s/uoFvKd-BfOdWAccPZo377A)
 - [中疾控在冷链食品外包装分离到新冠活病毒](https://mp.weixin.qq.com/s/mYWRnEqG4icE4uwQOE4cEw)
 - [中国正式加入“新冠肺炎疫苗实施计划”，将促进疫苗公平分配｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/gJGteDBc3jDyirdJwzbmYQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月18日）【中国科讯】](https://mp.weixin.qq.com/s/BDWodHMBLY-xIb09f6Xvgw)
+- [世卫：瑞德西韦、干扰素治疗新冠效果平平](https://mp.weixin.qq.com/s/sAjwGG34PpnFsc3J7n5n-w)
+- [24小时热门｜感染新冠后，抗体可以维持多久？新研究结果提示长期免疫力](https://mp.weixin.qq.com/s/UznT9IwynbTeo05rI2fPYg)
+- [WHO 研究显示，瑞德西韦和羟氯喹在治疗新冠疾病方面疗效甚微｜科研圈日报](https://mp.weixin.qq.com/s/FYN_mE6nSO7Jc4uP5JPfRQ)
