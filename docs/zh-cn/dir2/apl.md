@@ -1042,3 +1042,6 @@
 - [世卫：瑞德西韦、干扰素治疗新冠效果平平](https://mp.weixin.qq.com/s/sAjwGG34PpnFsc3J7n5n-w)
 - [24小时热门｜感染新冠后，抗体可以维持多久？新研究结果提示长期免疫力](https://mp.weixin.qq.com/s/UznT9IwynbTeo05rI2fPYg)
 - [WHO 研究显示，瑞德西韦和羟氯喹在治疗新冠疾病方面疗效甚微｜科研圈日报](https://mp.weixin.qq.com/s/FYN_mE6nSO7Jc4uP5JPfRQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月19日）【中国科讯】](https://mp.weixin.qq.com/s/kv51ADS_TWa4SCTZsFsR4g)
+- [新冠肺炎的自组织波状感染曲线 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/02iirU1tKBfJ4xcNCcXWag)
+- [10 月 19 日我国内地新增确诊病例 19 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/vWFKGxFhDgGmsBefXGkktQ)

@@ -1191,3 +1191,8 @@
 - [心理学 | 你的梦境被COVID-19“感染”了吗？](https://mp.weixin.qq.com/s/WlfaCLvVIAxQHrPdAqo7NA)
 - [Pandemic Dreams: Network Analysis of Dream Content During the COVID-19 Lockdown](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.573961/full)
 - [清华大学地学系刘竹研究组揭示新冠疫情下全球二氧化碳排放创纪录下降](https://mp.weixin.qq.com/s/PVsLy5SPIPyaw2o7Xa3REA)
+- [一图看懂中国加入的COVAX计划如何推动新冠疫苗公平分配](https://mp.weixin.qq.com/s/keEXM_Fli0I5tLZOhX9f9Q)
+- [如何公平分配20亿剂新冠疫苗？](https://mp.weixin.qq.com/s/ZJk-z1KH-iSIsaqWiUa9Zw)
+- [大数据技术，成认识新冠肺炎规律和防治的重要手段！](https://mp.weixin.qq.com/s/H8sHzG3Rse5s8Gvb_Icskg)
+- [过早批准新冠疫苗，可能会阻碍寻找更好的疫苗｜Science News](https://mp.weixin.qq.com/s/twVnf2WgAvkAk_x_LEMCTQ)
+- [Early approval of a COVID-19 vaccine could stymie the hunt for better ones](https://www.sciencemag.org/news/2020/10/early-approval-covid-19-vaccine-could-stymie-hunt-better-ones)

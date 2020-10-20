@@ -567,3 +567,4 @@
 - [【Open Access】新冠疫情考验下的武汉社区治理新思考](https://mp.weixin.qq.com/s/Fbwd78L0xDPjzaK3N-UZYQ)
 - [疫情得到控制后，城市的早餐点恢复了吗](https://mp.weixin.qq.com/s/bWpeoL2JWpTSMJotq-wzSw)
 - [【Open Access】城市活力恢复及其影响因子——突发性公共卫生事件情景下的探索](https://mp.weixin.qq.com/s/Of7fNnLfkQwDiY6MEkcynA)
+- [全球城市观察︱远程办公让美西度假小镇成为“Zoom小镇”](https://mp.weixin.qq.com/s/J0ifLuEIgIvRvChvCrj_7w)

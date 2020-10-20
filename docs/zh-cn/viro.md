@@ -604,3 +604,5 @@
 - [武汉病毒所/生物安全大科学中心等在新冠病毒空气传播研究方面取得新进展](https://mp.weixin.qq.com/s/KqtYltHH3q1ZWfv_ON5ZXQ)
 - [Distribution of Airborne SARS-CoV-2 and possible aerosol transmission in Wuhan hospitals, China](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa250/5912468?guestAccessKey=43211aaa-39bd-4c09-b29e-d8c7171d4983)
 - [新冠病毒的空气传播：来自武汉医院的分析结果 | NSR](https://mp.weixin.qq.com/s/dbxputIQAZdtU8C8sTFTTQ)
+- [加州理工团队揭示新冠病毒抑制宿主防御的机制 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/erI-3jKMVanZxkdCsXEYjQ)
+- [SARS-CoV-2 disrupts splicing, translation, and protein trafficking to suppress host defenses](https://www.cell.com/cell/fulltext/S0092-8674(20)31310-6)

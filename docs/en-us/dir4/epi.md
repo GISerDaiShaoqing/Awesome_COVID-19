@@ -341,3 +341,4 @@
 - [计算因为新冠肺炎大流行而导致的过量死亡人数 | 《自然-医学》论文](https://mp.weixin.qq.com/s/7qwQ4xuSg7T9nIVKr988lA)
 - [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0)
 - [The association between ambient temperature and mortality of the coronavirus disease 2019 (COVID-19) in Wuhan, China: A time-series analysis](https://www.researchsquare.com/article/rs-45042/v1)
+- [Association of COVID-19 global distribution and environmental and demographic factors: An updated three-month study](https://www.sciencedirect.com/science/article/pii/S0013935120306411?via%3Dihub)
