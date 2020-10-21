@@ -1045,3 +1045,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月19日）【中国科讯】](https://mp.weixin.qq.com/s/kv51ADS_TWa4SCTZsFsR4g)
 - [新冠肺炎的自组织波状感染曲线 | 网络科学论文速递13篇](https://mp.weixin.qq.com/s/02iirU1tKBfJ4xcNCcXWag)
 - [10 月 19 日我国内地新增确诊病例 19 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/vWFKGxFhDgGmsBefXGkktQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月20日）【中国科讯】](https://mp.weixin.qq.com/s/rUJSP9R7O-bysRJ7otsctQ)
+- [独家推荐 | Cell主编推荐的COVID-19高关注文章](https://mp.weixin.qq.com/s/TJVp20phGmQhxOIPgeVtJw)
+- [浙江公布新冠疫苗定价：一针200元，已开放紧急接种登记｜科研圈日报](https://mp.weixin.qq.com/s/psEe7pg9uszqMKirGcWYQQ)

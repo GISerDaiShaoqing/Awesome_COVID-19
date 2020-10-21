@@ -606,3 +606,5 @@
 - [新冠病毒的空气传播：来自武汉医院的分析结果 | NSR](https://mp.weixin.qq.com/s/dbxputIQAZdtU8C8sTFTTQ)
 - [加州理工团队揭示新冠病毒抑制宿主防御的机制 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/erI-3jKMVanZxkdCsXEYjQ)
 - [SARS-CoV-2 disrupts splicing, translation, and protein trafficking to suppress host defenses](https://www.cell.com/cell/fulltext/S0092-8674(20)31310-6)
+- [Immunity | 周溪/张定宇/尚游/薛宇/邱洋合作揭示新冠病毒肺炎疾病标志物与致病机制](https://mp.weixin.qq.com/s/Q7tWRvwU8cczZ8XvpwKipA)
+- [Plasma Proteomics Identify Biomarkers and Pathogenesis of COVID-19](https://www.cell.com/immunity/fulltext/S1074-7613(20)30449-0)

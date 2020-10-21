@@ -949,3 +949,6 @@
 - [How Do COVID-19 Symptoms Compare with Seasonal Influenza Symptoms in Children?](https://www.jwatch.org/na52434/2020/09/22/how-do-covid-19-symptoms-compare-with-seasonal-influenza?query=nejmyxqy)
 - [难以实现完全免疫 | 美国第一例COVID-19再感染病例](https://mp.weixin.qq.com/s/aieL-ElmnDxGnnjgmAJBSw)
 - [Genomic evidence for reinfection with SARS-CoV-2: a case study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30764-7/fulltext)
+- [华科范雄林教授：新冠肺炎无症状感染者抗体变化规律揭秘！](https://mp.weixin.qq.com/s/1-IXYx1acS-od2_btUXQ2w)
+- [Antibody dynamics to SARS‐CoV‐2 in asymptomatic COVID‐19 infections](https://onlinelibrary.wiley.com/doi/10.1111/all.14622)
+- [Cardiovascular manifestations and mechanisms in patients with COVID-19](https://www.sciencedirect.com/science/article/pii/S104327602030196X)

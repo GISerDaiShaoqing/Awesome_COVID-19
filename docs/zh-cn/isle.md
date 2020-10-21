@@ -16,5 +16,9 @@
 - [Time to spatialise epidemiology in China](https://www.sciencedirect.com/science/article/pii/S2214109X20301200?via%3Dihub)
 - [Preferential Tax Policies: An Invisible Hand behind Preparedness for Public Health Emergencies](https://www.ijhpm.com/article_3872.html)
 - [新闻快讯 | 税收优惠政策：突发公共卫生事件应对中的无形之手](https://mp.weixin.qq.com/s/zevrNytbwLy1Q_BuOThhxg)
+- [Biosafety threats of the rapidly established labs for SARS-CoV-2 tests in China](https://www.sciencedirect.com/science/article/pii/S016041202031919X)
+- [Understanding the Epidemic Course in Order to Improve Epidemic Forecasting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000303)
+- [Obesity and activity patterns before and during COVID‐19 lockdown among youths in China](https://onlinelibrary.wiley.com/doi/full/10.1111/cob.12416)
+- [Cardiovascular manifestations and mechanisms in patients with COVID-19](https://www.sciencedirect.com/science/article/pii/S104327602030196X)
 
 ![](/img/ISLEwechat.jpg)

@@ -90,3 +90,5 @@
 - [Evaluating the effect of city lock-down on controlling COVID-19 propagation through deep learning and network science models](https://www.sciencedirect.com/science/article/pii/S0264275120312178#f0010)
 - [Heterogeneity and temporal variation in the management of COVID-19: a multinational drug utilization study including 71,921 hospitalized patients from China, South Korea, Spain, and the United States of America](https://www.medrxiv.org/content/10.1101/2020.09.15.20195545v2)
 - [The role of institutional trust in preventive and treatment-seeking behaviors during the 2019 novel coronavirus (2019-nCoV) outbreak among residents in Hubei, China](https://www.medrxiv.org/content/10.1101/2020.02.15.20023333v1)
+- [戴口罩到底有没有用？诺奖得主发文解析美国COVID-19大流行传播机制和干预措施](https://mp.weixin.qq.com/s/xHv1nBdYcU3jQEMXVEdVSA)
+- [Understanding transmission and intervention for the COVID-19 pandemic in the United States](https://www.sciencedirect.com/science/article/pii/S0048969720350890)

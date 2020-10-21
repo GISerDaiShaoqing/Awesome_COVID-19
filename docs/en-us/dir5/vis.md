@@ -221,3 +221,4 @@
 - [独家航拍！青岛核酸检测现场：市民有序排队](https://mp.weixin.qq.com/s/lfzZgJI7OrghG7HhDS00Xw)
 - [日本研究人员做的新冠病毒颗粒传播动图](https://mp.weixin.qq.com/s/wCkqcoW3COzwiAX3iVGxjw)
 - [Spatial density latitudinal lines for COVID-19](https://github.com/marcosci/covidlines)
+- [新冠嗅探犬、洞熊、风暴聚集 | 9月科技图片来了，你最喜欢哪张？](https://mp.weixin.qq.com/s/VW6t8McsTErZ8xQZVUsIbA)

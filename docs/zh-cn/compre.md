@@ -1196,3 +1196,7 @@
 - [大数据技术，成认识新冠肺炎规律和防治的重要手段！](https://mp.weixin.qq.com/s/H8sHzG3Rse5s8Gvb_Icskg)
 - [过早批准新冠疫苗，可能会阻碍寻找更好的疫苗｜Science News](https://mp.weixin.qq.com/s/twVnf2WgAvkAk_x_LEMCTQ)
 - [Early approval of a COVID-19 vaccine could stymie the hunt for better ones](https://www.sciencemag.org/news/2020/10/early-approval-covid-19-vaccine-could-stymie-hunt-better-ones)
+- [COVID-19 特刊：新冠疫情期间气溶胶排放减少对全球气候的影响](https://mp.weixin.qq.com/s/473cQOaDhwJ8f_9PcfXiyQ)
+- [Fast Climate Responses to Aerosol Emission Reductions During the COVID‐19 Pandemic](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089788)
+- [全球调查发现，疫苗的接受度与民众对政府的信任度有关 | 《自然-医学》论文](https://mp.weixin.qq.com/s/NqW5NMvYhOAv7He7dvsHVg)
+- [A global survey of potential acceptance of a COVID-19 vaccine](https://www.nature.com/articles/s41591-020-1124-9)
