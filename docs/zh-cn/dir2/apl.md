@@ -1048,3 +1048,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月20日）【中国科讯】](https://mp.weixin.qq.com/s/rUJSP9R7O-bysRJ7otsctQ)
 - [独家推荐 | Cell主编推荐的COVID-19高关注文章](https://mp.weixin.qq.com/s/TJVp20phGmQhxOIPgeVtJw)
 - [浙江公布新冠疫苗定价：一针200元，已开放紧急接种登记｜科研圈日报](https://mp.weixin.qq.com/s/psEe7pg9uszqMKirGcWYQQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月21日）【中国科讯】](https://mp.weixin.qq.com/s/5g0IZMJr7-vRCnlT-oPPgw)
+- [基于主体的模拟模型和深度学习技术评估和预测新冠肺炎周边交通趋势 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/-59jelshWLwrY7js_6hx6g)
+- [牛津疫苗试验一自愿者死亡，死因为新冠肺炎及并发症｜科研圈日报](https://mp.weixin.qq.com/s/-GoogvPPrCfBSbfoV7SFGg)

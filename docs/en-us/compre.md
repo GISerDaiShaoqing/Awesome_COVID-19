@@ -1200,3 +1200,7 @@
 - [Fast Climate Responses to Aerosol Emission Reductions During the COVID‐19 Pandemic](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089788)
 - [全球调查发现，疫苗的接受度与民众对政府的信任度有关 | 《自然-医学》论文](https://mp.weixin.qq.com/s/NqW5NMvYhOAv7He7dvsHVg)
 - [A global survey of potential acceptance of a COVID-19 vaccine](https://www.nature.com/articles/s41591-020-1124-9)
+- [【观点】新冠是破坏能源利用效率的病毒！](https://mp.weixin.qq.com/s/Yh04Z2ocNFa3HKpbc56pgA)
+- [The pandemic is destroying energy efficiency](https://www.axios.com/pandemic-energy-efficiency-004eaa80-0fc6-4ca7-a212-3c248125f148.html)
+- [减少新冠肺炎大规模检测的费用 | 《自然》论文](https://mp.weixin.qq.com/s/nT8RYQuBpAd6nx8dbQ7uIA)
+- [A pooled testing strategy for identifying SARS-CoV-2 at low prevalence](https://www.nature.com/articles/s41586-020-2885-5)

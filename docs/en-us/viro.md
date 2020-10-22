@@ -608,3 +608,5 @@
 - [SARS-CoV-2 disrupts splicing, translation, and protein trafficking to suppress host defenses](https://www.cell.com/cell/fulltext/S0092-8674(20)31310-6)
 - [Immunity | 周溪/张定宇/尚游/薛宇/邱洋合作揭示新冠病毒肺炎疾病标志物与致病机制](https://mp.weixin.qq.com/s/Q7tWRvwU8cczZ8XvpwKipA)
 - [Plasma Proteomics Identify Biomarkers and Pathogenesis of COVID-19](https://www.cell.com/immunity/fulltext/S1074-7613(20)30449-0)
+- [人类疾病动物模型创制和研究 | 推广](https://mp.weixin.qq.com/s/T_YSMmmXqv1rFF_1dD7Qgw)
+- [Rapid and accurate models for human disease studies](https://www.nature.com/articles/d42473-020-00447-8?utm_source=wechat&utm_medium=social&utm_campaign=bcon-ILAS-tier-2)
