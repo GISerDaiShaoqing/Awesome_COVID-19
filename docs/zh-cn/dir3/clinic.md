@@ -952,3 +952,5 @@
 - [华科范雄林教授：新冠肺炎无症状感染者抗体变化规律揭秘！](https://mp.weixin.qq.com/s/1-IXYx1acS-od2_btUXQ2w)
 - [Antibody dynamics to SARS‐CoV‐2 in asymptomatic COVID‐19 infections](https://onlinelibrary.wiley.com/doi/10.1111/all.14622)
 - [Cardiovascular manifestations and mechanisms in patients with COVID-19](https://www.sciencedirect.com/science/article/pii/S104327602030196X)
+- [NEJM | 托珠单抗未能减少住院Covid-19患者插管或死亡](https://mp.weixin.qq.com/s/F5hy1NoFxZVdCu4mXiq7Yw)
+- [Efficacy of Tocilizumab in Patients Hospitalized with Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2028836)

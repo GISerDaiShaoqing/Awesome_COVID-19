@@ -1051,3 +1051,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月21日）【中国科讯】](https://mp.weixin.qq.com/s/5g0IZMJr7-vRCnlT-oPPgw)
 - [基于主体的模拟模型和深度学习技术评估和预测新冠肺炎周边交通趋势 | 网络科学论文速递17篇](https://mp.weixin.qq.com/s/-59jelshWLwrY7js_6hx6g)
 - [牛津疫苗试验一自愿者死亡，死因为新冠肺炎及并发症｜科研圈日报](https://mp.weixin.qq.com/s/-GoogvPPrCfBSbfoV7SFGg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月22日）【中国科讯】](https://mp.weixin.qq.com/s/DJO2I0BXOiYDcGsQFFD3KA)
+- [评估社会网络结构对冠状病毒传播的影响: 一个广义的空间 SEIRD 模型新冠肺炎 | 网络科学论文速递11篇](https://mp.weixin.qq.com/s/ZuzlY5wWrNa7u4m843_Klg)
+- [瑞德西韦在美国正式获批上市 | 科研圈日报](https://mp.weixin.qq.com/s/mmMhCZxpO7T4bAmP9IY4Ng)
+- [24小时热门｜六万年前的一次浪漫邂逅，让我们的新冠重症风险高了3倍！](https://mp.weixin.qq.com/s/OQ3HvhnblSOhpgfigQeHDw)

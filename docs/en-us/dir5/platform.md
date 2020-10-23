@@ -129,3 +129,4 @@
 - [Esri CovidPulse  --  United States novel coronavirus trend lines](https://livingatlas.arcgis.com/covidpulse/#@=-94.64,39.544,4&trendType=2)
 - [UT防疫 | 校园人流实时地图 / 恩斯赫德新冠病例日增数据](https://mp.weixin.qq.com/s/AAMkM6SZcz3Oup2K02c0aA)
 - [People per building](https://apps.utwente.nl/campuscrowdmap/building)
+- [Palantir与美政府再度合作推出新冠病毒疫苗追踪系统，数据隐私担忧再被提及](https://mp.weixin.qq.com/s/a-P_4Fw8C1AGdaGvohTkww)

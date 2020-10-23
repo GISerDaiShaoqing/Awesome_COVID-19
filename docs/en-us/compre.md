@@ -1204,3 +1204,8 @@
 - [The pandemic is destroying energy efficiency](https://www.axios.com/pandemic-energy-efficiency-004eaa80-0fc6-4ca7-a212-3c248125f148.html)
 - [减少新冠肺炎大规模检测的费用 | 《自然》论文](https://mp.weixin.qq.com/s/nT8RYQuBpAd6nx8dbQ7uIA)
 - [A pooled testing strategy for identifying SARS-CoV-2 at low prevalence](https://www.nature.com/articles/s41586-020-2885-5)
+- [COVID-19大流行后各国绿色复苏方案进展不大](https://mp.weixin.qq.com/s/tkI6mJOM3CduDwExeKgC4Q)
+- [Global Update: Pandemic Recovery with Just a Hint of Green](https://climateactiontracker.org/publications/global-update-pandemic-recovery-with-just-a-hint-of-green/)
+- [人们对新冠病毒传播的理解在一直变化吗？｜Science精选](https://mp.weixin.qq.com/s/zzTxNWDiMPmW-h_VYSry5w)
+- [The engines of SARS-CoV-2 spread](https://science.sciencemag.org/content/370/6515/406)
+- [新冠疫情下的结核阴影](https://mp.weixin.qq.com/s/seSt1layCl6UnAYKGOZHEQ)
