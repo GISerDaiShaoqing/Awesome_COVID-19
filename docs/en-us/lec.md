@@ -277,3 +277,4 @@
 - [【GeoScience Café 第271期】随心灵去漂流——“疫情”期间旅拍札记](https://mp.weixin.qq.com/s/g1O6TbR2g0x8mLA8qrtBXw)
 - [今晚上线！中国关于COVID-19的转化医学研究](https://mp.weixin.qq.com/s/AOUEUOyMtn5mbrmPVypoSw)
 - [在线论坛 | 2020亚太电子图书论坛——新冠疫情与图书馆数字信息的未来](https://mp.weixin.qq.com/s/WQ1j29I7TQKXnkM7MG24nw)
+- [首期Science café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/QEhe6DaL5TOb901zMQP-aA)

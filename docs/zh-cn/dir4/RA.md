@@ -44,3 +44,5 @@
 - [Projected health-care resource needs for an effective response to COVID-19 in 73 low-income and middle-income countries: a modelling study](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30383-1/fulltext)
 - [Spatial-temporal potential exposure risk analytics and urban sustainability impacts related to COVID-19 mitigation: A perspective from car mobility behaviour](https://www.sciencedirect.com/science/article/pii/S0959652620337185?via%3Dihub#undfig1)
 - [新型冠状病毒肺炎疫情初期湖北省输出风险评估](http://rs.yiigle.com/yufabiao/1182599.htm)
+- [美国全民戴口罩或在2021年2月底前拯救近13万条生命 |《自然-医学》论文](https://mp.weixin.qq.com/s/44oiwpUjsR8aGujCFO2IoQ)
+- [Modeling COVID-19 scenarios for the United States](https://www.nature.com/articles/s41591-020-1132-9)
