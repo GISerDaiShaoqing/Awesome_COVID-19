@@ -1209,3 +1209,4 @@
 - [人们对新冠病毒传播的理解在一直变化吗？｜Science精选](https://mp.weixin.qq.com/s/zzTxNWDiMPmW-h_VYSry5w)
 - [The engines of SARS-CoV-2 spread](https://science.sciencemag.org/content/370/6515/406)
 - [新冠疫情下的结核阴影](https://mp.weixin.qq.com/s/seSt1layCl6UnAYKGOZHEQ)
+- [Targeted Population, Strategy, Issues and Progress to Combat COVID-19](https://www.preprints.org/manuscript/202009.0002/v1)
