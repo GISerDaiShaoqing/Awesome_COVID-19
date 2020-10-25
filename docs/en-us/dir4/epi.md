@@ -342,3 +342,5 @@
 - [Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries](https://www.nature.com/articles/s41591-020-1112-0)
 - [The association between ambient temperature and mortality of the coronavirus disease 2019 (COVID-19) in Wuhan, China: A time-series analysis](https://www.researchsquare.com/article/rs-45042/v1)
 - [Association of COVID-19 global distribution and environmental and demographic factors: An updated three-month study](https://www.sciencedirect.com/science/article/pii/S0013935120306411?via%3Dihub)
+- [Science重磅 | 影响新冠病毒后疫情时代传播的四大因素！需深入研究](https://mp.weixin.qq.com/s/cC4eQ-sBPND930NftXD5Fw)
+- [Will SARS-CoV-2 become endemic](https://science.sciencemag.org/content/early/2020/10/13/science.abe5960?rss=1)

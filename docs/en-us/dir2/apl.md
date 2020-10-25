@@ -1058,3 +1058,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月23日）【中国科讯】](https://mp.weixin.qq.com/s/iTuRhvh-zavivfo7NETbIw)
 - [中亚和俄罗斯资讯 | 乌兹别克斯坦总统组织召开“环境安全与公共卫生保护”会议【中国科讯】](https://mp.weixin.qq.com/s/K19O4LZCEXy-EJqQ6GaAig)
 - [《科学》：六国近200名科学家联合发文，找到多种冠状病毒共同弱点！｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/9zP2sv7Wlzcadcv23jkfow)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月24日）【中国科讯】](https://mp.weixin.qq.com/s/Lwz0TuSg4Es6oCZVjzz8Zw)
+- [2020，这些前沿技术成全球关注热点](https://mp.weixin.qq.com/s/GyLxmAqkI814_AhJE1DMjA)
+- [李飞飞、庄小威入选美国国家医学院院士，王辰当选外籍院士；4款新冠候选疗法均告失败 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/pYnkyCJ6WB138cCfHqrMsA)

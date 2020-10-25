@@ -960,3 +960,5 @@
 - [姜世勃 Nature子刊：借鉴过去，关注新冠疫苗的未来](https://mp.weixin.qq.com/s/TKLS10IYgXR9-raqbyuyCw)
 - [Learning from the past: development of safe and effective COVID-19 vaccines](https://www.nature.com/articles/s41579-020-00462-y)
 - [Prospects for a safe COVID-19 vaccine](https://stm.sciencemag.org/content/early/2020/10/16/scitranslmed.abe0948)
+- [最新研究发现：神药阿司匹林可降低新冠患者死亡率](https://mp.weixin.qq.com/s/wrMu8n0Yoyy8cXt5Tkn1Og)
+- [Aspirin Use is Associated with Decreased Mechanical Ventilation, ICU Admission, and In-Hospital Mortality in Hospitalized Patients with COVID-19](https://journals.lww.com/anesthesia-analgesia/Abstract/9000/Aspirin_Use_is_Associated_with_Decreased.95423.aspx)

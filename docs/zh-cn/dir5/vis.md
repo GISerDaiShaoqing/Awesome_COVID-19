@@ -222,3 +222,4 @@
 - [日本研究人员做的新冠病毒颗粒传播动图](https://mp.weixin.qq.com/s/wCkqcoW3COzwiAX3iVGxjw)
 - [Spatial density latitudinal lines for COVID-19](https://github.com/marcosci/covidlines)
 - [新冠嗅探犬、洞熊、风暴聚集 | 9月科技图片来了，你最喜欢哪张？](https://mp.weixin.qq.com/s/VW6t8McsTErZ8xQZVUsIbA)
+- [【Café速递】李天伦：随心灵去漂流——“疫情”期间旅拍札记](https://mp.weixin.qq.com/s/hAgWn1fmUMFLF237qfQxFg)

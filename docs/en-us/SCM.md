@@ -88,5 +88,6 @@
 - [后疫情时代︱《自然》确保模型为社会服务五原则](https://mp.weixin.qq.com/s/vDgEPeSzj1jMTwW-1E6Cfg)
 - [后疫情时代 | GEHL事务所：新冠疫情期间的公共空间与公共生活](https://mp.weixin.qq.com/s/QzfrIYShMv3QN3i3fbxbeA)
 - [后疫情时代︱全球专家建议: 疫情后请为所有人建设城市 - 疫情期间的平等与无障碍](https://mp.weixin.qq.com/s/-fpoE3jJSQ3ROPKRKMNJ_w)
+- [周末故事 | World Vs Virus：封锁全球的病毒](https://mp.weixin.qq.com/s/-n9aTEO4v386gGur84GcCQ)
 
 ![](/img/SCM.jpg)
