@@ -962,3 +962,5 @@
 - [Prospects for a safe COVID-19 vaccine](https://stm.sciencemag.org/content/early/2020/10/16/scitranslmed.abe0948)
 - [最新研究发现：神药阿司匹林可降低新冠患者死亡率](https://mp.weixin.qq.com/s/wrMu8n0Yoyy8cXt5Tkn1Og)
 - [Aspirin Use is Associated with Decreased Mechanical Ventilation, ICU Admission, and In-Hospital Mortality in Hospitalized Patients with COVID-19](https://journals.lww.com/anesthesia-analgesia/Abstract/9000/Aspirin_Use_is_Associated_with_Decreased.95423.aspx)
+- [COVID-19可影响心脏，病毒对心脏有明显趋向性｜Science新冠专题](https://mp.weixin.qq.com/s/axSnD8QieXwTPCi3oim3wg)
+- [COVID-19 can affect the heart](https://science.sciencemag.org/content/370/6515/408)

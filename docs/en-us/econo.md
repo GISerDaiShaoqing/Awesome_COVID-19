@@ -569,3 +569,5 @@
 - [【Open Access】城市活力恢复及其影响因子——突发性公共卫生事件情景下的探索](https://mp.weixin.qq.com/s/Of7fNnLfkQwDiY6MEkcynA)
 - [全球城市观察︱远程办公让美西度假小镇成为“Zoom小镇”](https://mp.weixin.qq.com/s/J0ifLuEIgIvRvChvCrj_7w)
 - [【Open Access】促进公共健康为导向的街道空间品质提升策略——来自空间失序的视角](https://mp.weixin.qq.com/s/dIfi1ngJ4JW481cFVgtvUA)
+- [【南人一周微评】疫情后的地信产业大会又有啥不同？](https://mp.weixin.qq.com/s/itw2BDEHOvHzi80lK32mnw)
+- [【文章导读】重大疫情下城市脆弱性及规划应对研究框架](https://mp.weixin.qq.com/s/WRXF01unu3IKuMcgWHA8ew)

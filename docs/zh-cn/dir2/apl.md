@@ -1061,3 +1061,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月24日）【中国科讯】](https://mp.weixin.qq.com/s/Lwz0TuSg4Es6oCZVjzz8Zw)
 - [2020，这些前沿技术成全球关注热点](https://mp.weixin.qq.com/s/GyLxmAqkI814_AhJE1DMjA)
 - [李飞飞、庄小威入选美国国家医学院院士，王辰当选外籍院士；4款新冠候选疗法均告失败 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/pYnkyCJ6WB138cCfHqrMsA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月25日）【中国科讯】](https://mp.weixin.qq.com/s/8HLRonbtYMcMkO5WsZbD_A)
+- [阿斯利康、强生宣布将重新启动新冠疫苗临床试验｜科研圈日报](https://mp.weixin.qq.com/s/U5BV37ccFepOBmL5oWLjuA)

@@ -1210,3 +1210,8 @@
 - [The engines of SARS-CoV-2 spread](https://science.sciencemag.org/content/370/6515/406)
 - [新冠疫情下的结核阴影](https://mp.weixin.qq.com/s/seSt1layCl6UnAYKGOZHEQ)
 - [Targeted Population, Strategy, Issues and Progress to Combat COVID-19](https://www.preprints.org/manuscript/202009.0002/v1)
+- [2020“探索大挑战” —— 应战新冠等全球健康挑战](https://mp.weixin.qq.com/s/6W0GesZ93TdCQkc4ec3-ew)
+- [比尔·盖茨：应战新冠和未来疫情的三个关键研发领域](https://mp.weixin.qq.com/s/i5BIn7fzGQ2aivBhO0NbIg)
+- [医药健康大数据：打通“孤岛”，共享“宝藏”](https://mp.weixin.qq.com/s/Fi8dLBEd50ucpOGx-ni3Qw)
+- [艺术家笔下的西班牙流感和当前COVID-19 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/Bdr9QTeQJ6wr2wpZxHtYnw)
+- [The Spanish 1918 Flu and the COVID-19 Disease: The Art of Remembering and Foreshadowing Pandemics](https://www.cell.com/cell/fulltext/S0092-8674(20)31227-7)
