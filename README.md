@@ -18,9 +18,13 @@ The website was powered by [docsite](https://github.com/txd-team/docsite).
 
 ## Indexed
 
-On May 12th, 2020 this site was indexed in the [Aminer COVID-19 Open Datasets](https://aminer.cn/data-covid19/?lang=en).
+- On May 12th, 2020 this site was indexed in the [Aminer COVID-19 Open Datasets](https://aminer.cn/data-covid19/?lang=en).
 
 ![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/indexedaminer.png)
+
+- On October 14th, 2020 this project was receiving an invitation to participate in a volunteer study on [open source software](https://blogs.ethz.ch/open-source-research/), which proposed by Swiss Federal Institute of Technology (ETH Zurich).
+
+![](https://github.com/GISerDaiShaoqing/Awesome_COVID-19/blob/master/img/ETH.png)
 
 ## License
 
