@@ -1215,3 +1215,6 @@
 - [医药健康大数据：打通“孤岛”，共享“宝藏”](https://mp.weixin.qq.com/s/Fi8dLBEd50ucpOGx-ni3Qw)
 - [艺术家笔下的西班牙流感和当前COVID-19 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/Bdr9QTeQJ6wr2wpZxHtYnw)
 - [The Spanish 1918 Flu and the COVID-19 Disease: The Art of Remembering and Foreshadowing Pandemics](https://www.cell.com/cell/fulltext/S0092-8674(20)31227-7)
+- [为什么今年冬天新冠肺炎疫情可能会恶化？](https://mp.weixin.qq.com/s/HKQprC72US79keJbpilyZw)
+- [Why COVID outbreaks look set to worsen this winter](https://www.nature.com/articles/d41586-020-02972-4?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02972-4)
+- [Nature发文，哪个国家新冠疫苗接受度最高？](https://mp.weixin.qq.com/s/eGFsZ6UsK5u9LQlRqkzKvQ)

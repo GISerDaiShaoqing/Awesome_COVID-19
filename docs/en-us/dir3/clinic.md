@@ -964,3 +964,8 @@
 - [Aspirin Use is Associated with Decreased Mechanical Ventilation, ICU Admission, and In-Hospital Mortality in Hospitalized Patients with COVID-19](https://journals.lww.com/anesthesia-analgesia/Abstract/9000/Aspirin_Use_is_Associated_with_Decreased.95423.aspx)
 - [COVID-19可影响心脏，病毒对心脏有明显趋向性｜Science新冠专题](https://mp.weixin.qq.com/s/axSnD8QieXwTPCi3oim3wg)
 - [COVID-19 can affect the heart](https://science.sciencemag.org/content/370/6515/408)
+- [重大进展 | 同济大学左为团队研究揭示新冠重症患者肺部干细胞可参与肺损伤修复](https://mp.weixin.qq.com/s/yXN-VinJNbxPvz6K-MIDwA)
+- [Single-cell analysisidentified lung progenitor cells in COVID-19 patients](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.12931)
+- [与重症相关的SARS-CoV-2免疫应答 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/tlM89x2MpY7mKqKLa52ehA)
+- [Longitudinal observation and decline of neutralizing antibody responses in the three months following SARS-CoV-2 infection in humans](https://www.nature.com/articles/s41564-020-00813-8)
+- [发现人体新器官 |吉娃娃大小的暴龙仔 | 嘉兴开放新冠疫苗紧急接种 | 自然每周简报](https://mp.weixin.qq.com/s/CBBDC1EXNMvKVnqvGijXnw)

@@ -92,3 +92,4 @@
 - [The role of institutional trust in preventive and treatment-seeking behaviors during the 2019 novel coronavirus (2019-nCoV) outbreak among residents in Hubei, China](https://www.medrxiv.org/content/10.1101/2020.02.15.20023333v1)
 - [戴口罩到底有没有用？诺奖得主发文解析美国COVID-19大流行传播机制和干预措施](https://mp.weixin.qq.com/s/xHv1nBdYcU3jQEMXVEdVSA)
 - [Understanding transmission and intervention for the COVID-19 pandemic in the United States](https://www.sciencedirect.com/science/article/pii/S0048969720350890)
+- [Using a real-world network to model localised COVID-19 control strategies](https://github.com/biouea/covidhm)
