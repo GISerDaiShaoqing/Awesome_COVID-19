@@ -344,3 +344,5 @@
 - [Association of COVID-19 global distribution and environmental and demographic factors: An updated three-month study](https://www.sciencedirect.com/science/article/pii/S0013935120306411?via%3Dihub)
 - [Science重磅 | 影响新冠病毒后疫情时代传播的四大因素！需深入研究](https://mp.weixin.qq.com/s/cC4eQ-sBPND930NftXD5Fw)
 - [Will SARS-CoV-2 become endemic](https://science.sciencemag.org/content/early/2020/10/13/science.abe5960?rss=1)
+- [北京新发地市场聚集性疫情病毒来自何方？最新结论来了](https://mp.weixin.qq.com/s/q4ax6Wb5Aj1Q4bvrPx4aFw)
+- [Cold-chain food contamination as the possible origin of Covid-19 resurgence in Beijing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa264/5936602?searchresult=1)

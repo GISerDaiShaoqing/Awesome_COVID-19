@@ -66,3 +66,4 @@
 - [SCI专刊征稿：气候变化与心理健康](https://mp.weixin.qq.com/s/K8Z9qQKc2HYS9JkXcjnfaw)
 - [Call for Papers: Special Issue on Global Mental Health in Climate Change & Global Mental Health](https://www.cambridge.org/core/journals/global-mental-health/call-for-papers-climate-change-and-global-mental-health)
 - [Environmental Research: CALL FOR PAPERS for the Virtual Special Issue “SARS-CoV-2 and other pathogenic microorganisms in the environment](https://www.journals.elsevier.com/environmental-research/call-for-papers/call-for-papers-for-the-virtual-special-issue-sars-cov-2)
+- [2020柳叶刀“威克利-伍连德奖”10月31日即将截稿](https://mp.weixin.qq.com/s/Vq44bGo3YvJKlenRPvHTTw)

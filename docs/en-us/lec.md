@@ -279,3 +279,5 @@
 - [在线论坛 | 2020亚太电子图书论坛——新冠疫情与图书馆数字信息的未来](https://mp.weixin.qq.com/s/WQ1j29I7TQKXnkM7MG24nw)
 - [首期Science café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/QEhe6DaL5TOb901zMQP-aA)
 - [首期Science café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/ZHj1wziY_O9XXZepICDInw)
+- [中华预防医学会环境卫生分会举办2020年学术年会暨新冠肺炎疫情防控专题培训会的通知](https://mp.weixin.qq.com/s/9XBg2ucgS1FzZaPC7KVRvQ)
+- [【会前问题征集】Science Café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/zWk5kmNloIxafWpLON1kWg)

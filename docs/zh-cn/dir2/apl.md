@@ -1067,3 +1067,6 @@
 - [气候适应丨One Earth 10月刊论文精选](https://mp.weixin.qq.com/s/YnR9Ka4wjZJEupxY0zHxjw)
 - [关于印发冷链食品生产经营新冠病毒防控技术指南和冷链食品生产经营过程新冠病毒防控消毒技术指南的通知](https://mp.weixin.qq.com/s/XKVUIu9-X9JWyrsKOA27WA)
 - [美国开始严查留学生实习签证，限制外国学生工作实习 | 科研圈日报](https://mp.weixin.qq.com/s/tUF8XiPGAhfeearoY88vOQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月27日）【中国科讯】](https://mp.weixin.qq.com/s/I7r4UNwj3l3gparXTavOZg)
+- [利用 Web 搜索查询中高风险用户的移动性对新冠肺炎热点进行早期预警](https://mp.weixin.qq.com/s/_mO-UigFftFYN1tZrN1htQ)
+- [礼来宣布其抗体药物对新冠重症患者无效 | 科研圈日报](https://mp.weixin.qq.com/s/SQ4RSmoyknq2JOJV7spPCA)

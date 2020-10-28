@@ -571,3 +571,4 @@
 - [【Open Access】促进公共健康为导向的街道空间品质提升策略——来自空间失序的视角](https://mp.weixin.qq.com/s/dIfi1ngJ4JW481cFVgtvUA)
 - [【南人一周微评】疫情后的地信产业大会又有啥不同？](https://mp.weixin.qq.com/s/itw2BDEHOvHzi80lK32mnw)
 - [【文章导读】重大疫情下城市脆弱性及规划应对研究框架](https://mp.weixin.qq.com/s/WRXF01unu3IKuMcgWHA8ew)
+- [后疫情社区·讨论｜用搭桥游戏体验社区沟通的奥妙](https://mp.weixin.qq.com/s/_adUPAREDUPI20QqbM1o6g)

@@ -1218,3 +1218,4 @@
 - [为什么今年冬天新冠肺炎疫情可能会恶化？](https://mp.weixin.qq.com/s/HKQprC72US79keJbpilyZw)
 - [Why COVID outbreaks look set to worsen this winter](https://www.nature.com/articles/d41586-020-02972-4?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02972-4)
 - [Nature发文，哪个国家新冠疫苗接受度最高？](https://mp.weixin.qq.com/s/eGFsZ6UsK5u9LQlRqkzKvQ)
+- [荷兰代尔夫特理工大学Gertjan Medema教授：COVID-19时期的水与公共卫生安全](https://mp.weixin.qq.com/s/TexVF5A_nDppLays2JgkXQ)
