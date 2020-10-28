@@ -346,3 +346,4 @@
 - [Will SARS-CoV-2 become endemic](https://science.sciencemag.org/content/early/2020/10/13/science.abe5960?rss=1)
 - [北京新发地市场聚集性疫情病毒来自何方？最新结论来了](https://mp.weixin.qq.com/s/q4ax6Wb5Aj1Q4bvrPx4aFw)
 - [Cold-chain food contamination as the possible origin of Covid-19 resurgence in Beijing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa264/5936602?searchresult=1)
+- [Residential context and COVID-19 mortality among adults aged 70 years and older in Stockholm: a population-based, observational study using individual-level data](https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(20)30016-7/fulltext)
