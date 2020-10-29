@@ -1220,3 +1220,8 @@
 - [Nature发文，哪个国家新冠疫苗接受度最高？](https://mp.weixin.qq.com/s/eGFsZ6UsK5u9LQlRqkzKvQ)
 - [荷兰代尔夫特理工大学Gertjan Medema教授：COVID-19时期的水与公共卫生安全](https://mp.weixin.qq.com/s/TexVF5A_nDppLays2JgkXQ)
 - [Does the COVID-19 pandemic provide an opportunity to eliminate the tobacco industry?](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30466-6/fulltext)
+- [大鼠和蝙蝠肉供应链中的冠状病毒 | 《自然-食品》九月刊](https://mp.weixin.qq.com/s/49Hic9t6k3ZOiDEoSzPW8Q)
+- [为什么说群体免疫不可行？](https://mp.weixin.qq.com/s/aKfl_duGNW2pzCA06Ptwtw)
+- [The false promise of herd immunity for COVID-19](https://www.nature.com/articles/d41586-020-02948-4?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02948-4)
+- [Global to local impacts on atmospheric CO2 caused by COVID-19 lockdown](https://arxiv.org/abs/2010.13025)
+- [An Extensive Meta-Metagenomic Search Identifies SARS-CoV-2-Homologous Sequences in Pangolin Lung Viromes](https://msphere.asm.org/content/5/3/e00160-20)

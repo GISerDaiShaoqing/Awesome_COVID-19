@@ -968,4 +968,5 @@
 - [Single-cell analysisidentified lung progenitor cells in COVID-19 patients](https://onlinelibrary.wiley.com/doi/full/10.1111/cpr.12931)
 - [与重症相关的SARS-CoV-2免疫应答 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/tlM89x2MpY7mKqKLa52ehA)
 - [Longitudinal observation and decline of neutralizing antibody responses in the three months following SARS-CoV-2 infection in humans](https://www.nature.com/articles/s41564-020-00813-8)
-- [发现人体新器官 |吉娃娃大小的暴龙仔 | 嘉兴开放新冠疫苗紧急接种 | 自然每周简报](https://mp.weixin.qq.com/s/CBBDC1EXNMvKVnqvGijXnw)
+- [利用肺和结肠类器官筛选抗新冠病毒的药物 | 《自然》论文](https://mp.weixin.qq.com/s/iF962GWLczYrTvmsHJW4Mw)
+- [Identification of SARS-CoV-2 Inhibitors using Lung and Colonic Organoids](https://www.nature.com/articles/s41586-020-2901-9)

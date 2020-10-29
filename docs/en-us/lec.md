@@ -281,3 +281,5 @@
 - [首期Science café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/ZHj1wziY_O9XXZepICDInw)
 - [中华预防医学会环境卫生分会举办2020年学术年会暨新冠肺炎疫情防控专题培训会的通知](https://mp.weixin.qq.com/s/9XBg2ucgS1FzZaPC7KVRvQ)
 - [【会前问题征集】Science Café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/zWk5kmNloIxafWpLON1kWg)
+- [新冠疫情研究讲座系列链接汇总](https://mp.weixin.qq.com/s/oDh4AcNmuQWUDExqMa3xWw)
+- [聚焦COVID-19 | 2020“柳叶刀-中国医学科学院医学与健康大会”开放注册](https://mp.weixin.qq.com/s/EVcO1jKgifefFx8yEmTYDQ)

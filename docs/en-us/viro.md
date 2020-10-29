@@ -614,3 +614,4 @@
 - [Japan researchers show masks do block coronavirus, but not perfectly](https://www.reuters.com/article/uk-health-coronavirus-japan-masks-idUKKBN2770DF?taid=5f915ab74f52280001065336)
 - [Sci Adv：新发现！科学家识别出SARS-CoV-2的新型病毒“分子剪刀酶” 或有望作为开发新型靶向性疗法的特殊靶点！](https://mp.weixin.qq.com/s/rIm31lVmgV1_38ZhR8NJzw)
 - [Activity profiling and structures of inhibitor-bound SARS-CoV-2-PLpro protease provides a framework for anti-COVID-19 drug design](https://advances.sciencemag.org/content/6/42/eabd4596)
+- [Serological survey of SARS‐CoV‐2 for experimental, domestic, companion and wild animals excludes intermediate hosts of 35 different species of animals](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.13577)

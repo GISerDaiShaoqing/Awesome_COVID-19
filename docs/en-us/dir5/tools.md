@@ -93,3 +93,4 @@
 - [新冠疫情相似句对判定，快速匹配准确答案](https://mp.weixin.qq.com/s/bqMAcxlNp9NkiQz8o2Tx_A)
 - [epitweetr: Early Detection of Public Health Threats from Twitter Data](https://github.com/EU-ECDC/epitweetr)
 - [14岁印度裔女孩因新冠潜在疗法赢得16万奖金，通过信息学筛出病毒先导分子](https://mp.weixin.qq.com/s/NzYAcogz5xw3N00vJxe3Iw)
+- [OCHA-Bucky Model: Modeling COVID-19 to inform humanitarian operations](https://github.com/OCHA-DAP/pa-ocha-bucky)
