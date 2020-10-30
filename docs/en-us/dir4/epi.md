@@ -349,3 +349,5 @@
 - [Residential context and COVID-19 mortality among adults aged 70 years and older in Stockholm: a population-based, observational study using individual-level data](https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(20)30016-7/fulltext)
 - [专家：武汉华南海鲜市场疫情源自进口海产品是存在可能性的](https://mp.weixin.qq.com/s/ZRH3CMMENcvrNyg0ocbXLg)
 - [余宏杰课题组在新冠肺炎疾病负担和临床严重性 研究领域取得重要进展](https://mp.weixin.qq.com/s/fVOSA5p1-46BNsagusIpGQ)
+- [COVID-19封城对阻塞性睡眠呼吸暂停患者使用持续气道正压治疗依从性的影响](https://mp.weixin.qq.com/s/DhUfweUWQw5Bb4WXVFlHyg)
+- [Impact of COVID-19 lockdown on adherence to continuous positive airway pressure by obstructive sleep apnoea patients](https://erj.ersjournals.com/content/56/1/2001607?ctkey=wechat)

@@ -131,3 +131,5 @@
 - [People per building](https://apps.utwente.nl/campuscrowdmap/building)
 - [Palantir与美政府再度合作推出新冠病毒疫苗追踪系统，数据隐私担忧再被提及](https://mp.weixin.qq.com/s/a-P_4Fw8C1AGdaGvohTkww)
 - [大数据公司Palantir开发新软件，帮助美国政府追踪新冠疫苗情况](https://mp.weixin.qq.com/s/jaFBqkiJOgFyrgYd-Doktw)
+- [入院COVID-19患者严重性的风险预测和临床分类的决策支持系统开发：一项国际多中心研究](https://mp.weixin.qq.com/s/xamXiTs6DC5pqUBhmVp_SQ)
+- [Development of a clinical decision support system for severity risk prediction and triage of COVID-19 patients at hospital admission: an international multicentre study](https://erj.ersjournals.com/content/56/2/2001104?ctkey=wechat)

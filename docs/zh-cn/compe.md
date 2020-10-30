@@ -19,3 +19,6 @@
 - [疫情下，我们对世界的想象不足以预测不确定的未来](https://mp.weixin.qq.com/s/hckeVPLzAWQRQk56UBo5Pg)
 - [IEA分析COVID-19危机对清洁能源转型的影响](https://mp.weixin.qq.com/s/4aRyVFHSQ9pXfN233ky6gw)
 - [The Impact of the Covid-19 Crisis on Clean Energy Progress](https://www.iea.org/articles/the-impact-of-the-covid-19-crisis-on-clean-energy-progress)
+- [展示（一）—— 第四届“城垣杯·规划决策支持模型设计大赛”获奖作品](https://mp.weixin.qq.com/s/iEQ5RaBNXQ6_8FAZRd3V7g)
+- [展示（八）—— 第四届“城垣杯·规划决策支持模型设计大赛”获奖作品](https://mp.weixin.qq.com/s/Lebg2dFCLhARz5YeH7C0Og)
+- [展示（十六）—— 第四届“城垣杯·规划决策支持模型设计大赛”获奖作品](https://mp.weixin.qq.com/s/1O7Ksa9y-ckzMDbpr0YKdw)

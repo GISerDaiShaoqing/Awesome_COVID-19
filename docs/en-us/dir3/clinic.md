@@ -970,3 +970,6 @@
 - [Longitudinal observation and decline of neutralizing antibody responses in the three months following SARS-CoV-2 infection in humans](https://www.nature.com/articles/s41564-020-00813-8)
 - [利用肺和结肠类器官筛选抗新冠病毒的药物 | 《自然》论文](https://mp.weixin.qq.com/s/iF962GWLczYrTvmsHJW4Mw)
 - [Identification of SARS-CoV-2 Inhibitors using Lung and Colonic Organoids](https://www.nature.com/articles/s41586-020-2901-9)
+- [新冠患者呼吸衰竭与高血压之间的联系：来自COVID-19患者的证据](https://mp.weixin.qq.com/s/qrmc9Rnq2DUdFZ0y-rt1hA)
+- [The liaison between respiratory failure and high blood pressure: evidence from COVID-19 patients](https://erj.ersjournals.com/content/56/1/2001157?ctkey=wechat)
+- [Cell Research:新冠肺炎治疗的新策略](https://mp.weixin.qq.com/s/san18GvHl2jSFmJfe4u0-A)

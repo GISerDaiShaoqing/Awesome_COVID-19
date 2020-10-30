@@ -1073,3 +1073,6 @@
 - [礼来宣布其抗体药物对新冠重症患者无效 | 科研圈日报](https://mp.weixin.qq.com/s/SQ4RSmoyknq2JOJV7spPCA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月28日）【中国科讯】](https://mp.weixin.qq.com/s/BAebrG9P9C3e7e5UpjUjDg)
 - [德国、法国同日宣布全境封城，美国两周9.4万儿童感染新冠｜科研圈日报](https://mp.weixin.qq.com/s/zXTtGiUoqTbrJbcc7L_ocw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月29日）【中国科讯】](https://mp.weixin.qq.com/s/irpK1BXUPtzB6lMA-zfuzg)
+- [新冠论坛嘉宾访谈 | 哈佛大学关蔚禾](https://mp.weixin.qq.com/s/Ym-umfTc5HDeIQyhHydY0w)
+- [10 月 29 日我国内地新增确诊病例 25 例，含 1 例山东青岛本土病例 | 科研圈日报](https://mp.weixin.qq.com/s/qNn8UnsdA4TwtBcu4C6WjQ)
