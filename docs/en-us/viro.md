@@ -617,3 +617,4 @@
 - [Serological survey of SARS‐CoV‐2 for experimental, domestic, companion and wild animals excludes intermediate hosts of 35 different species of animals](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.13577)
 - [新冠病毒进化全面分析：到底哪国人最容易受伤害？](https://mp.weixin.qq.com/s/2-LsUVkntcDMzU-oKOnpcQ)
 - [Host Immune Response Driving SARS-CoV-2 Evolution](https://www.mdpi.com/1999-4915/12/10/1095)
+- [石正丽 | 谈COVID-19病原鉴定，正持续复原病毒演进, 分析病毒可能来源](https://mp.weixin.qq.com/s/QIsx0HtDO7Du9jUEZPvq1A)

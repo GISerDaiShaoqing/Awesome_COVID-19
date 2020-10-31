@@ -283,3 +283,4 @@
 - [【会前问题征集】Science Café in China 科学·咖啡沙龙中国系列｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/zWk5kmNloIxafWpLON1kWg)
 - [新冠疫情研究讲座系列链接汇总](https://mp.weixin.qq.com/s/oDh4AcNmuQWUDExqMa3xWw)
 - [聚焦COVID-19 | 2020“柳叶刀-中国医学科学院医学与健康大会”开放注册](https://mp.weixin.qq.com/s/EVcO1jKgifefFx8yEmTYDQ)
+- [石正丽 | 谈COVID-19病原鉴定，正持续复原病毒演进, 分析病毒可能来源](https://mp.weixin.qq.com/s/QIsx0HtDO7Du9jUEZPvq1A)

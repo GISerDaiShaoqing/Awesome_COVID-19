@@ -1076,3 +1076,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月29日）【中国科讯】](https://mp.weixin.qq.com/s/irpK1BXUPtzB6lMA-zfuzg)
 - [新冠论坛嘉宾访谈 | 哈佛大学关蔚禾](https://mp.weixin.qq.com/s/Ym-umfTc5HDeIQyhHydY0w)
 - [10 月 29 日我国内地新增确诊病例 25 例，含 1 例山东青岛本土病例 | 科研圈日报](https://mp.weixin.qq.com/s/qNn8UnsdA4TwtBcu4C6WjQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月30日）【中国科讯】](https://mp.weixin.qq.com/s/MWuPqesZsG4onVDeuua4Kg)
+- [对新冠疫情冲击中国电子商务的分析 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/RRRYVUedg8yZ3aoBvBoDVA)
+- [高福：下一个冠状病毒就藏在某个地方休眠，而休眠随时可能被打破](https://mp.weixin.qq.com/s/vJHm4WJbFpdzNpVNxBqYng)

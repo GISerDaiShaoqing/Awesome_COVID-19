@@ -1232,3 +1232,7 @@
 - [Rapid decline of seasonal influenza during the outbreak of COVID-19](https://openres.ersjournals.com/content/6/3/00296-2020?ctkey=wechat)
 - [Impacts of COVID-19 lockdown on diet patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.sciencedirect.com/science/article/pii/S0195666320316378?via%3Dihub)
 - [不破不立：新冠成为世界卫生系统变革的契机](https://mp.weixin.qq.com/s/GXXgxwJkw616aI0ZCyrQnw)
+- [Springer与您一同庆祝2020世界城市日 ！](https://mp.weixin.qq.com/s/jM9b9WHpgXhrI7WcZ7YzQA)
+- [疫情中的学术界都经历了什么？学术头条带你回顾学术疫情大事件|附报告下载](https://mp.weixin.qq.com/s/gulB_tkOwPW3s4us_E5q8w)
+- [Science科普视频｜新冠与疾病污名化](https://mp.weixin.qq.com/s/aB9rei3mA6_37UWhTW2Beg)
+- [Early warning of epidemics: towards a national intelligent syndromic surveillance system (NISSS) in China](https://gh.bmj.com/content/5/10/e002925.full)

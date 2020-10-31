@@ -21,5 +21,6 @@
 - [Obesity and activity patterns before and during COVID‐19 lockdown among youths in China](https://onlinelibrary.wiley.com/doi/full/10.1111/cob.12416)
 - [Cardiovascular manifestations and mechanisms in patients with COVID-19](https://www.sciencedirect.com/science/article/pii/S104327602030196X)
 - [Impacts of COVID-19 lockdown on diet patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.sciencedirect.com/science/article/pii/S0195666320316378?via%3Dihub)
+- [Early warning of epidemics: towards a national intelligent syndromic surveillance system (NISSS) in China](https://gh.bmj.com/content/5/10/e002925.full)
 
 ![](/img/ISLEwechat.jpg)
