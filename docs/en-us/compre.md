@@ -1231,3 +1231,4 @@
 - [COVID-19爆发期间季节性流感迅速减少](https://mp.weixin.qq.com/s/OiD504mEHgrR1yFiS1QkYQ)
 - [Rapid decline of seasonal influenza during the outbreak of COVID-19](https://openres.ersjournals.com/content/6/3/00296-2020?ctkey=wechat)
 - [Impacts of COVID-19 lockdown on diet patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.sciencedirect.com/science/article/pii/S0195666320316378?via%3Dihub)
+- [不破不立：新冠成为世界卫生系统变革的契机](https://mp.weixin.qq.com/s/GXXgxwJkw616aI0ZCyrQnw)
