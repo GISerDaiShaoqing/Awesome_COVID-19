@@ -93,3 +93,4 @@
 - [戴口罩到底有没有用？诺奖得主发文解析美国COVID-19大流行传播机制和干预措施](https://mp.weixin.qq.com/s/xHv1nBdYcU3jQEMXVEdVSA)
 - [Understanding transmission and intervention for the COVID-19 pandemic in the United States](https://www.sciencedirect.com/science/article/pii/S0048969720350890)
 - [Using a real-world network to model localised COVID-19 control strategies](https://github.com/biouea/covidhm)
+- [Distinct regimes of particle and virus abundance explain face mask efficacy for COVID-19](https://www.medrxiv.org/content/10.1101/2020.09.10.20190348v1)

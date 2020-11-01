@@ -1079,3 +1079,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月30日）【中国科讯】](https://mp.weixin.qq.com/s/MWuPqesZsG4onVDeuua4Kg)
 - [对新冠疫情冲击中国电子商务的分析 | 网络科学论文速递14篇](https://mp.weixin.qq.com/s/RRRYVUedg8yZ3aoBvBoDVA)
 - [高福：下一个冠状病毒就藏在某个地方休眠，而休眠随时可能被打破](https://mp.weixin.qq.com/s/vJHm4WJbFpdzNpVNxBqYng)
+- [情报监测 | “COVID-19”科研动态监测每日快报（10月31日）【中国科讯】](https://mp.weixin.qq.com/s/72pZoB4yVfcYR9fLiNNqSA)
+- [受新冠疫情影响，美国高校损失超千亿美元 ｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/JWqpaqF9WYDIb7fCebvhXg)

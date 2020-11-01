@@ -1236,3 +1236,4 @@
 - [疫情中的学术界都经历了什么？学术头条带你回顾学术疫情大事件|附报告下载](https://mp.weixin.qq.com/s/gulB_tkOwPW3s4us_E5q8w)
 - [Science科普视频｜新冠与疾病污名化](https://mp.weixin.qq.com/s/aB9rei3mA6_37UWhTW2Beg)
 - [Early warning of epidemics: towards a national intelligent syndromic surveillance system (NISSS) in China](https://gh.bmj.com/content/5/10/e002925.full)
+- [狗熊会人才计划第5期作品 | 新冠疫情时代洗手液选购偏好分析](https://mp.weixin.qq.com/s/gIUKYyOemSKNgD07gXDSCQ)
