@@ -223,3 +223,5 @@
 - [Spatial density latitudinal lines for COVID-19](https://github.com/marcosci/covidlines)
 - [新冠嗅探犬、洞熊、风暴聚集 | 9月科技图片来了，你最喜欢哪张？](https://mp.weixin.qq.com/s/VW6t8McsTErZ8xQZVUsIbA)
 - [【Café速递】李天伦：随心灵去漂流——“疫情”期间旅拍札记](https://mp.weixin.qq.com/s/hAgWn1fmUMFLF237qfQxFg)
+- [【图说】比一比，新冠病毒有多小？](https://mp.weixin.qq.com/s/xHpIVs7bWqirdDun_h7S0g)
+- [This is how coronavirus compares to the world's smallest particles](https://www.weforum.org/agenda/2020/10/covid-19-coronavirus-disease-size-compairson-zika-health-air-pollution)

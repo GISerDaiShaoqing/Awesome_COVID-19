@@ -1081,3 +1081,5 @@
 - [高福：下一个冠状病毒就藏在某个地方休眠，而休眠随时可能被打破](https://mp.weixin.qq.com/s/vJHm4WJbFpdzNpVNxBqYng)
 - [情报监测 | “COVID-19”科研动态监测每日快报（10月31日）【中国科讯】](https://mp.weixin.qq.com/s/72pZoB4yVfcYR9fLiNNqSA)
 - [受新冠疫情影响，美国高校损失超千亿美元 ｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/JWqpaqF9WYDIb7fCebvhXg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月1日）【中国科讯】](https://mp.weixin.qq.com/s/FafVhrReH58i2nOR34F_vQ)
+- [11 月 1 日我国内地新增确诊病例 24 例，其中本土病例 3 例（均在新疆）｜科研圈日报](https://mp.weixin.qq.com/s/MVVfbEOKLVg7fsrp0ZFnRQ)

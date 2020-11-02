@@ -618,3 +618,6 @@
 - [新冠病毒进化全面分析：到底哪国人最容易受伤害？](https://mp.weixin.qq.com/s/2-LsUVkntcDMzU-oKOnpcQ)
 - [Host Immune Response Driving SARS-CoV-2 Evolution](https://www.mdpi.com/1999-4915/12/10/1095)
 - [石正丽 | 谈COVID-19病原鉴定，正持续复原病毒演进, 分析病毒可能来源](https://mp.weixin.qq.com/s/QIsx0HtDO7Du9jUEZPvq1A)
+- [Seeding of outbreaks of COVID-19 by contaminated fresh and frozen food](https://www.biorxiv.org/content/10.1101/2020.08.17.255166v1)
+- [Cell：重大进展！包括新冠病毒在内的β冠状病毒利用溶酶体劫持和离开受感染细胞](https://mp.weixin.qq.com/s/EIch4Or4ttSwEz9z7XXhlw)
+- [β-Coronaviruses use lysosomes for egress instead of the biosynthetic secretory pathway](https://www.sciencedirect.com/science/article/pii/S009286742031446X)

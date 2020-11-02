@@ -573,3 +573,4 @@
 - [【文章导读】重大疫情下城市脆弱性及规划应对研究框架](https://mp.weixin.qq.com/s/WRXF01unu3IKuMcgWHA8ew)
 - [后疫情社区·讨论｜用搭桥游戏体验社区沟通的奥妙](https://mp.weixin.qq.com/s/_adUPAREDUPI20QqbM1o6g)
 - [【佳文推荐】新冠肺炎疫情精准防控的时空间行为地理学研究框架](https://mp.weixin.qq.com/s/mujLsAMQU2aRyg__AzR2rw)
+- [【Open Access】疫情下医疗卫生设施规划标准研究探索与反思](https://mp.weixin.qq.com/s/pS8OJFawfHcT-Yin36bDcw)
