@@ -352,3 +352,5 @@
 - [COVID-19封城对阻塞性睡眠呼吸暂停患者使用持续气道正压治疗依从性的影响](https://mp.weixin.qq.com/s/DhUfweUWQw5Bb4WXVFlHyg)
 - [Impact of COVID-19 lockdown on adherence to continuous positive airway pressure by obstructive sleep apnoea patients](https://erj.ersjournals.com/content/56/1/2001607?ctkey=wechat)
 - [The relationship between fatigue and depression and anxiety symptoms among front-line clinical workers during the COVID-19 pandemic](https://preprints.jmir.org/preprint/24390)
+- [确定各年龄段新冠肺炎死亡率的差异 |《自然》论文](https://mp.weixin.qq.com/s/Er66OehM2gEEP6myfN4BOQ)
+- [Age-specific mortality and immunity patterns of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2918-0)

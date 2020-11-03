@@ -1246,3 +1246,7 @@
 - [柳叶刀-感染病学 | 评估COVID-19疫苗临床疗效的主要挑战](https://mp.weixin.qq.com/s/FnP9n6XOfTcwN5EGcEb84w)
 - [What defines an efficacious COVID-19 vaccine? A review of the challenges assessing the clinical efficacy of vaccines against SARS-CoV-2](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30773-8/fulltext)
 - [牛津大学糖生物所创始人: 一种“新武器”或用于抗病毒持久战](https://mp.weixin.qq.com/s/Jp08qFPORyXk-K8UAP4hsg)
+- [【存照】《科学美国人》社论：为了应对气候变化和新冠病毒，请为尊重科学的候选人投票！](https://mp.weixin.qq.com/s/ipU0J19VQGVpxW4NV1nbvw)
+- [Choosing Donald Trump for president is choosing fiction over fact—a fatal mistake](https://www.scientificamerican.com/article/on-november-3-vote-to-end-attacks-on-science/)
+- [Science新冠肺炎论文合集-第一期](https://mp.weixin.qq.com/s/xvDtjeu08C_ldMqjc5q1Sg)
+- [Does the COVID-19 Pandemic Affect People’s Social and Economic Preferences? Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690072)

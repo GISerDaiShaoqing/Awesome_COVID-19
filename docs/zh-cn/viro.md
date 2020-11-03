@@ -621,3 +621,5 @@
 - [Seeding of outbreaks of COVID-19 by contaminated fresh and frozen food](https://www.biorxiv.org/content/10.1101/2020.08.17.255166v1)
 - [Cell：重大进展！包括新冠病毒在内的β冠状病毒利用溶酶体劫持和离开受感染细胞](https://mp.weixin.qq.com/s/EIch4Or4ttSwEz9z7XXhlw)
 - [β-Coronaviruses use lysosomes for egress instead of the biosynthetic secretory pathway](https://www.sciencedirect.com/science/article/pii/S009286742031446X)
+- [全基因组筛选揭示新冠病毒感染重要宿主因子 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/PrrV-ZtS9r9L5KnoKWZpUA)
+- [Genome-wide CRISPR screens reveal host factors critical for SARS-CoV-2 infection](https://www.cell.com/cell/fulltext/S0092-8674(20)31392-1#%20)

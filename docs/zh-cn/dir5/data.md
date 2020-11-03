@@ -224,3 +224,4 @@
 - [Welcome to disease.sh - An open API for disease-related statistics](https://github.com/disease-sh/API)
 - [COVID-19 Open Data](https://github.com/GoogleCloudPlatform/covid-19-open-data)
 - [百度地图迁徙大数据：喀什地区近九成人口流动来自新疆维吾尔自治区内](https://mp.weixin.qq.com/s/YTSAOGt5lVI8Pk7c1vK-RA)
+- [Scraping and parsing the daily BAG-Excelsheet](https://github.com/rsalzer/COVID_19_BAG)

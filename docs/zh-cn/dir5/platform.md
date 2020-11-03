@@ -133,3 +133,5 @@
 - [大数据公司Palantir开发新软件，帮助美国政府追踪新冠疫苗情况](https://mp.weixin.qq.com/s/jaFBqkiJOgFyrgYd-Doktw)
 - [入院COVID-19患者严重性的风险预测和临床分类的决策支持系统开发：一项国际多中心研究](https://mp.weixin.qq.com/s/xamXiTs6DC5pqUBhmVp_SQ)
 - [Development of a clinical decision support system for severity risk prediction and triage of COVID-19 patients at hospital admission: an international multicentre study](https://erj.ersjournals.com/content/56/2/2001104?ctkey=wechat)
+- [JUST技术：基于轨迹的新冠易感人群查询方案](https://mp.weixin.qq.com/s/tjeHoz-TH2_bWQBrwdZ6WQ)
+- [EfficientSuspected Infected Crowds Detection Based on Spatio-Temporal Trajectories](https://arxiv.org/abs/2004.06653)
