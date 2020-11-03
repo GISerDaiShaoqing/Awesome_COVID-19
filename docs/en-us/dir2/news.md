@@ -4460,3 +4460,5 @@
 - [新闻短平快（荷航飞行员工会同意减薪至2025年等）——11月3日](https://mp.weixin.qq.com/s/uvzWmfh2iCU-Vx1BfjGwdg)
 - [富者越富，贫者越贫，疫情危机中富人财富普遍增值，王子遗孀排名上升](https://mp.weixin.qq.com/s/kk6oI_pJK6o7PLii944NyA)
 - [荷兰感染数字下跌原因？欧洲多国疫情数字纷纷创纪录](https://mp.weixin.qq.com/s/NX1qHRGIrTieUaxZikrzlQ)
+- [11.03 荷兰疫情措施升级，为期两周](https://mp.weixin.qq.com/s/YGzkgWRJ-fWqVspHkUXWlA)
+- [明日之后，美国经济会向什么方向发展？对中欧关系又有着如何的影响?](https://mp.weixin.qq.com/s/3GTFTUWcGp9qMBLRAPJuQw)
