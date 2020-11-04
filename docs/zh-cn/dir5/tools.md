@@ -95,3 +95,4 @@
 - [14岁印度裔女孩因新冠潜在疗法赢得16万奖金，通过信息学筛出病毒先导分子](https://mp.weixin.qq.com/s/NzYAcogz5xw3N00vJxe3Iw)
 - [OCHA-Bucky Model: Modeling COVID-19 to inform humanitarian operations](https://github.com/OCHA-DAP/pa-ocha-bucky)
 - [空间数据分析之疫情分析](https://mp.weixin.qq.com/s/1sXCYkEUMCVnx14HD3kzzw)
+- [R code to find clusters of COVID cases & contacts](https://github.com/JessButler/covid_networks)

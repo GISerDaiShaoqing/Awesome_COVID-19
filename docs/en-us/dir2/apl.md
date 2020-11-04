@@ -1089,3 +1089,5 @@
 - [11 月 2 日我国内地新增确诊病例 49 例，含新疆本土 5 例 | 科研圈日报](https://mp.weixin.qq.com/s/dXB68iHogRwPHfDPrOqdjw)
 - [Science 一周论文导读 | 2020年10月23日](https://mp.weixin.qq.com/s/xLInVHLuday4o3pDQWRCEA)
 - [Nature一周论文导读 | 2020年10月22日](https://mp.weixin.qq.com/s/kFkhTiGSGDJLj8ZfEFdaaQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月3日）【中国科讯】](https://mp.weixin.qq.com/s/mS0E_5cRzhtEGKyTTQLdyw)
+- [11 月 3 日我国内地新增确诊病例 17 例，含本土病例 2 例（均在新疆）｜科研圈日报](https://mp.weixin.qq.com/s/Vlcweme4G61-xom3abtgDQ)
