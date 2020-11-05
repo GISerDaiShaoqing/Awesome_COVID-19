@@ -286,3 +286,4 @@
 - [石正丽 | 谈COVID-19病原鉴定，正持续复原病毒演进, 分析病毒可能来源](https://mp.weixin.qq.com/s/QIsx0HtDO7Du9jUEZPvq1A)
 - [【正在直播】首期Science Café in China｜Science作者主讲：新冠病毒专题](https://mp.weixin.qq.com/s/xX450DXSj4xREuGpmOvsdA)
 - [免费注册 | Cell Press邀您与世界顶尖新冠科学家线上面对面](https://mp.weixin.qq.com/s/hiKEIVefv3U1mWzIx_k_ig)
+- [新冠下的市域治理新趋势——智慧城市与城市计算论坛](https://mp.weixin.qq.com/s/4_JZ2FA7HVeJUQwCoNwXUQ)

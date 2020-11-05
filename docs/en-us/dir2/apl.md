@@ -1091,3 +1091,6 @@
 - [Nature一周论文导读 | 2020年10月22日](https://mp.weixin.qq.com/s/kFkhTiGSGDJLj8ZfEFdaaQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月3日）【中国科讯】](https://mp.weixin.qq.com/s/mS0E_5cRzhtEGKyTTQLdyw)
 - [11 月 3 日我国内地新增确诊病例 17 例，含本土病例 2 例（均在新疆）｜科研圈日报](https://mp.weixin.qq.com/s/Vlcweme4G61-xom3abtgDQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月4日）【中国科讯】](https://mp.weixin.qq.com/s/mbCq9x_3Mc4Zt2kXhwOw_Q)
+- [Frontiers 全球调查报告揭示学术界如何应对新冠疫情｜科研圈日报](https://mp.weixin.qq.com/s/PEnwgn3OqCP1wxznTv8NDg)
+- [EBioMedicine10月精选 | 基于不同白介素比例的评分预测COVID-19病人预后](https://mp.weixin.qq.com/s/aDUhR4WeCUIbj6YS9a8Jkg)

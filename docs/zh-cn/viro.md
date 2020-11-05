@@ -623,3 +623,7 @@
 - [β-Coronaviruses use lysosomes for egress instead of the biosynthetic secretory pathway](https://www.sciencedirect.com/science/article/pii/S009286742031446X)
 - [全基因组筛选揭示新冠病毒感染重要宿主因子 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/PrrV-ZtS9r9L5KnoKWZpUA)
 - [Genome-wide CRISPR screens reveal host factors critical for SARS-CoV-2 infection](https://www.cell.com/cell/fulltext/S0092-8674(20)31392-1#%20)
+- [李兰娟团队最新研究：新冠病毒在时刻突变，复制和感染能力显著变化，并导致患者病情差异](https://mp.weixin.qq.com/s/ZfFkum1PzYgSN-WsdpgVww)
+- [Patient-derived SARS-CoV-2 mutations impact viral replication dynamics and infectivity in vitro and with clinical implications in vivo](https://www.nature.com/articles/s41421-020-00226-1)
+- [群马大学教授人工合成新冠病毒成功 迈出对抗病毒重要一步](https://mp.weixin.qq.com/s/rZ76ilA85CNM9Ho2-E0dcQ)
+- [李兰娟团队最新研究：新冠病毒在时刻突变，复制和感染能力显著变化，并导致患者病情差异](https://mp.weixin.qq.com/s/tZxuxjub7FrM8OmVdSVVJQ)

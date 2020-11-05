@@ -973,3 +973,8 @@
 - [新冠患者呼吸衰竭与高血压之间的联系：来自COVID-19患者的证据](https://mp.weixin.qq.com/s/qrmc9Rnq2DUdFZ0y-rt1hA)
 - [The liaison between respiratory failure and high blood pressure: evidence from COVID-19 patients](https://erj.ersjournals.com/content/56/1/2001157?ctkey=wechat)
 - [Cell Research:新冠肺炎治疗的新策略](https://mp.weixin.qq.com/s/san18GvHl2jSFmJfe4u0-A)
+- [COVID-19流行期间眼科急诊手术的实践经验| Graefe's Archive](https://mp.weixin.qq.com/s/q0DhGCzYsPP-UiL5Rtxmng)
+- [Practical experience on emergency ophthalmic surgery during the prevalence of COVID-19](https://link.springer.com/article/10.1007/s00417-020-04692-x)
+- [COVID-19流行期间眼科急诊手术的实践经验| Springer Journal](https://mp.weixin.qq.com/s/2sTUl6rxIzUrqCsqUybJWw)
+- [医务工作者如何降低感染新冠肺炎的风险？](https://mp.weixin.qq.com/s/I1_ud5XR8rSUUGKBnAbwfw)
+- [Knowledge, attitude, and practice regarding COVID-19 among healthcare workers in Henan, China](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30187-0/fulltext)

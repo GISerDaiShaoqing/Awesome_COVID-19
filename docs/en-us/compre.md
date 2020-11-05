@@ -1258,3 +1258,7 @@
 - [Before Virus, After Virus: A Reckoning](https://www.sciencedirect.com/science/article/pii/S0092867420312393)
 - [国际机构回顾近期的减缓政策及COVID-19应对举措](https://mp.weixin.qq.com/s/rH5b9JZJYRVPK4taDd8sQw)
 - [Overview of Recently Adopted Mitigation Policies and Climate-relevant Policy Responses to COVID-19 –2020 Update](https://www.pbl.nl/sites/default/files/downloads/pbl-new-climate-2020-recently-adopted-mitigation-policies-climate-relevant-policy-response-to-covid-19_4287.pdf)
+- [【佳文推荐】地理学在新冠肺炎疫情早期防控中的学术响应及展望](https://mp.weixin.qq.com/s/Zr52aUdbMQHOp5mySRdxWg)
+- [RCR新文：2019新冠疫情对家庭垃圾分流和再利用的影响](https://mp.weixin.qq.com/s/9mhf8yWQLOCJJA_GjlJhXA)
+- [Impact of COVID-19 on household waste flows, diversion and reuse: The case of multi-residential buildings in Toronto, Canada](https://www.sciencedirect.com/science/article/pii/S0921344920304286)
+- [A linear prognostic score based on the ratio of interleukin-6 to interleukin-10 predicts outcomes in COVID-19](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30402-3/fulltext)
