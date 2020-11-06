@@ -978,3 +978,5 @@
 - [COVID-19流行期间眼科急诊手术的实践经验| Springer Journal](https://mp.weixin.qq.com/s/2sTUl6rxIzUrqCsqUybJWw)
 - [医务工作者如何降低感染新冠肺炎的风险？](https://mp.weixin.qq.com/s/I1_ud5XR8rSUUGKBnAbwfw)
 - [Knowledge, attitude, and practice regarding COVID-19 among healthcare workers in Henan, China](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30187-0/fulltext)
+- [The BMJ:COVID-19：长期佩戴FFP3口罩与皮肤损伤【国内外读者来信】【2020年第8期】](https://mp.weixin.qq.com/s/0K6xRV03tpDkUdnz-uQVGw)
+- [Covid-19: skin damage with prolonged wear of FFP3 masks](https://www.bmj.com/content/369/bmj.m1743)

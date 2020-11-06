@@ -91,5 +91,6 @@
 - [周末故事 | World Vs Virus：封锁全球的病毒](https://mp.weixin.qq.com/s/-n9aTEO4v386gGur84GcCQ)
 - [周末故事 | 市中心之殇：疫情之后，城市如何利用“战术城市化”重建](https://mp.weixin.qq.com/s/QWYpuRNRUDwfjvf6V_H_hg)
 - [后疫情时代 | 15分钟生活圈成为后疫情时代城市复苏的主旋律 (两则)](https://mp.weixin.qq.com/s/knpLSjogUfmD7Y39kHZC6w)
+- [后疫情时代 | 新冠+严冬，公共空间如何应对双重压力](https://mp.weixin.qq.com/s/UnGU7Vs_lBlmIb9ZErGBTw)
 
 ![](/img/SCM.jpg)

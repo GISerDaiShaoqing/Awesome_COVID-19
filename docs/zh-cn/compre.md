@@ -1262,3 +1262,8 @@
 - [RCR新文：2019新冠疫情对家庭垃圾分流和再利用的影响](https://mp.weixin.qq.com/s/9mhf8yWQLOCJJA_GjlJhXA)
 - [Impact of COVID-19 on household waste flows, diversion and reuse: The case of multi-residential buildings in Toronto, Canada](https://www.sciencedirect.com/science/article/pii/S0921344920304286)
 - [A linear prognostic score based on the ratio of interleukin-6 to interleukin-10 predicts outcomes in COVID-19](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30402-3/fulltext)
+- [Minimal Climate Impacts From Short‐Lived Climate Forcers Following Emission Reductions Related to the COVID‐19 Pandemic](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL090326)
+- [西安交大韩杰团队ECL：大流行中人对动物的反向输入可能引发新冠病毒在野生物种中无控传播、变异与新型毒株溢出](https://mp.weixin.qq.com/s/nwHfNLHKMDKzpXwXsJlvpg)
+- [Bidirectional human-animal transmission of COVID-19 may seed futurereinfections and vaccine failure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3721791)
+- [柳叶刀-呼吸病学 | 抗疫疲劳期应该如何应对？](https://mp.weixin.qq.com/s/PsHn0D5fE_qNCBVf2rrusg)
+- [COVID-19 transmission—up in the air](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30514-2/fulltext)
