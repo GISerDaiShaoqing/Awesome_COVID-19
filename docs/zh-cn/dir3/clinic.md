@@ -980,3 +980,7 @@
 - [Knowledge, attitude, and practice regarding COVID-19 among healthcare workers in Henan, China](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30187-0/fulltext)
 - [The BMJ:COVID-19：长期佩戴FFP3口罩与皮肤损伤【国内外读者来信】【2020年第8期】](https://mp.weixin.qq.com/s/0K6xRV03tpDkUdnz-uQVGw)
 - [Covid-19: skin damage with prolonged wear of FFP3 masks](https://www.bmj.com/content/369/bmj.m1743)
+- [Cell：令人关注！大约20%的新冠肺炎患者在三到四个月内维持抗病毒抗体产生](https://mp.weixin.qq.com/s/8y_H-kmyvD54fKEDyfgYgw)
+- [Quick COVID-19 Healers Sustain Anti-SARS-CoV-2 Antibody Production](https://www.sciencedirect.com/science/article/pii/S0092867420314586)
+- [Study uncovers subset of COVID-19 patients who recover quickly and sustain antibodies](https://medicalxpress.com/news/2020-11-uncovers-subset-covid-patients-recover.html)
+- [2分钟看懂NEJM：瑞德西韦治疗COVID-19——ACTT-1试验最终结果](https://mp.weixin.qq.com/s/5xbHh-N7moRT1wZvzoVUOw)

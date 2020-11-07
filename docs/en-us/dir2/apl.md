@@ -1100,3 +1100,5 @@
 - [接触者追踪: 最新进展和挑战 | 网络科学论文速递8篇](https://mp.weixin.qq.com/s/OkCwm3HJ3gDJBh92abgCrg)
 - [丹麦将扑杀全国超 1500 万只水貂，称新冠病毒变异或将影响疫苗效力 | 科研圈日报](https://mp.weixin.qq.com/s/IIKvL_POSVcMy-5rD1sW6A)
 - [24小时热门｜新冠阳性持续超100天，《细胞》无症状感染病例刷新认知](https://mp.weixin.qq.com/s/SlrRNCTFiBHllxhskMKBJw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月6日）【中国科讯】](https://mp.weixin.qq.com/s/yeKp9BIIXpl--Ivn4u9plw)
+- [中亚和俄罗斯资讯 | 丘马科夫中心已在新西伯利亚启动新冠疫苗临床试验 【中国科讯】](https://mp.weixin.qq.com/s/8knouw8wgGcn7SfZmx21tg)

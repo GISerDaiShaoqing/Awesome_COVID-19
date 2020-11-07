@@ -1267,3 +1267,7 @@
 - [Bidirectional human-animal transmission of COVID-19 may seed futurereinfections and vaccine failure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3721791)
 - [柳叶刀-呼吸病学 | 抗疫疲劳期应该如何应对？](https://mp.weixin.qq.com/s/PsHn0D5fE_qNCBVf2rrusg)
 - [COVID-19 transmission—up in the air](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30514-2/fulltext)
+- [相声演员金霏问科学家：突发公共事件带来的情绪，会传染吗？](https://mp.weixin.qq.com/s/uY7CzJCtXs5sZ_eZ9Maw5g)
+- [Nature人类行为：评估新冠病毒带来的“信息流行病”](https://mp.weixin.qq.com/s/jO1VLMIQfeI9_KGos5PaXg)
+- [Assessing the risks of ‘infodemics’ in response to COVID-19 epidemics](https://www.nature.com/articles/s41562-020-00994-6)
+- [与传染病的征战中，人类为了“赢”有些不择手段 | 书稿](https://mp.weixin.qq.com/s/BB8J3GBf8sPeSxWn_66okQ)
