@@ -627,3 +627,5 @@
 - [Patient-derived SARS-CoV-2 mutations impact viral replication dynamics and infectivity in vitro and with clinical implications in vivo](https://www.nature.com/articles/s41421-020-00226-1)
 - [群马大学教授人工合成新冠病毒成功 迈出对抗病毒重要一步](https://mp.weixin.qq.com/s/rZ76ilA85CNM9Ho2-E0dcQ)
 - [李兰娟团队最新研究：新冠病毒在时刻突变，复制和感染能力显著变化，并导致患者病情差异](https://mp.weixin.qq.com/s/tZxuxjub7FrM8OmVdSVVJQ)
+- [Nature：通过构建肺部类器官和结肠类器官鉴定出新冠病毒抑制剂](https://mp.weixin.qq.com/s/rncnO6i94qNvFpnn5Hx_fQ)
+- [Identification of SARS-CoV-2 Inhibitors using Lung and Colonic Organoids](https://www.nature.com/articles/s41586-020-2901-9)

@@ -1102,3 +1102,5 @@
 - [24小时热门｜新冠阳性持续超100天，《细胞》无症状感染病例刷新认知](https://mp.weixin.qq.com/s/SlrRNCTFiBHllxhskMKBJw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月6日）【中国科讯】](https://mp.weixin.qq.com/s/yeKp9BIIXpl--Ivn4u9plw)
 - [中亚和俄罗斯资讯 | 丘马科夫中心已在新西伯利亚启动新冠疫苗临床试验 【中国科讯】](https://mp.weixin.qq.com/s/8knouw8wgGcn7SfZmx21tg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月7日）【中国科讯】](https://mp.weixin.qq.com/s/4_MCUOgWe0PBc1YLuzByRw)
+- [阿联酋总理接种中国新冠疫苗，该国数十位高官已接种｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/kVsL-UwR867_SU6NMJJzcg)
