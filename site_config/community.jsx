@@ -194,8 +194,8 @@ export default {
       list: [
         {
           img: '/img/ETH.png',
-          title: 'Project participant',
-          content: 'This project was receiving an invitation to participate in a volunteer study on open source software, which proposed by Swiss Federal Institute of Technology (ETH Zurich).',
+          title: '参与研究项目',
+          content: '本项目收到了来自瑞士联邦理工学院（ETH）研究小组的邀请，参与一项关于开源学术软件的志愿研究。',
           dateStr: 'October 14th，2020',
           link: 'https://blogs.ethz.ch/open-source-research/',
         },
@@ -208,8 +208,8 @@ export default {
         },
         {
           img: '/img/indexedaminer.png',
-          title: 'Project index',
-          content: 'This site is indexed in the Aminer COVID-19 Open Datasets.',
+          title: '项目检索',
+          content: '本网站被收录在清华大学Aminer COVID-19开放数据集中。',
           dateStr: 'May 12th，2020',
           link: 'https://www.aminer.cn/data-covid19/?lang=en',
         },
