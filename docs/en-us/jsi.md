@@ -67,3 +67,5 @@
 - [Call for Papers: Special Issue on Global Mental Health in Climate Change & Global Mental Health](https://www.cambridge.org/core/journals/global-mental-health/call-for-papers-climate-change-and-global-mental-health)
 - [Environmental Research: CALL FOR PAPERS for the Virtual Special Issue “SARS-CoV-2 and other pathogenic microorganisms in the environment](https://www.journals.elsevier.com/environmental-research/call-for-papers/call-for-papers-for-the-virtual-special-issue-sars-cov-2)
 - [2020柳叶刀“威克利-伍连德奖”10月31日即将截稿](https://mp.weixin.qq.com/s/Vq44bGo3YvJKlenRPvHTTw)
+- [呼吸系统疾病的诊断和治疗有哪些最新进展?](https://mp.weixin.qq.com/s/FutvdjW_NILGv5yUzMDBtw)
+- [Advances in Pulmonary Diseases: Cellular Pathology, Molecular Targets, Novel Diagnosis and Therapy](https://www.frontiersin.org/research-topics/17020/advances-in-pulmonary-diseases-cellular-pathology-molecular-targets-novel-diagnosis-and-therapy?utm_source=yanyuRT15&utm_medium=wechat&utm_campaign=chinaad)

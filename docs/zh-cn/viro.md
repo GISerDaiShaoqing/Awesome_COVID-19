@@ -629,3 +629,5 @@
 - [李兰娟团队最新研究：新冠病毒在时刻突变，复制和感染能力显著变化，并导致患者病情差异](https://mp.weixin.qq.com/s/tZxuxjub7FrM8OmVdSVVJQ)
 - [Nature：通过构建肺部类器官和结肠类器官鉴定出新冠病毒抑制剂](https://mp.weixin.qq.com/s/rncnO6i94qNvFpnn5Hx_fQ)
 - [Identification of SARS-CoV-2 Inhibitors using Lung and Colonic Organoids](https://www.nature.com/articles/s41586-020-2901-9)
+- [狡猾的β-冠状病毒“劫持”溶酶体进行自身传播 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/uKyReLGoopYZHCEfOjKynQ)
+- [β-Coronaviruses use lysosomes for egress instead of the biosynthetic secretory pathway](https://www.cell.com/cell/fulltext/S0092-8674(20)31446-X#%20)

@@ -575,3 +575,4 @@
 - [【佳文推荐】新冠肺炎疫情精准防控的时空间行为地理学研究框架](https://mp.weixin.qq.com/s/mujLsAMQU2aRyg__AzR2rw)
 - [【Open Access】疫情下医疗卫生设施规划标准研究探索与反思](https://mp.weixin.qq.com/s/pS8OJFawfHcT-Yin36bDcw)
 - [全球抗疫观｜英国：第二轮封锁能否激发更多社区韧性](https://mp.weixin.qq.com/s/CKtEfnsgVdRxICQwo8HKmA)
+- [国际资讯 | [澳]新冠疫情对城市中心业态的影响/投资慢行交通设施有助于经济复苏(2020.11)](https://mp.weixin.qq.com/s/aV8WE9kQUM3T9v1L2imJhQ)

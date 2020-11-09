@@ -984,3 +984,8 @@
 - [Quick COVID-19 Healers Sustain Anti-SARS-CoV-2 Antibody Production](https://www.sciencedirect.com/science/article/pii/S0092867420314586)
 - [Study uncovers subset of COVID-19 patients who recover quickly and sustain antibodies](https://medicalxpress.com/news/2020-11-uncovers-subset-covid-patients-recover.html)
 - [2分钟看懂NEJM：瑞德西韦治疗COVID-19——ACTT-1试验最终结果](https://mp.weixin.qq.com/s/5xbHh-N7moRT1wZvzoVUOw)
+- [针对新冠肺炎的预存免疫力：T细胞的故事](https://mp.weixin.qq.com/s/orzDBzZTtsvmJnpFaVvblQ)
+- [Covid-19: Do many people have pre-existing immunity?](https://www.bmj.com/content/370/bmj.m3563)
+- [首次公布 | 市值增加2000亿！辉瑞等公司3期临床中期有效性分析显示新冠疫苗90%有效，特朗普表示这是个好消息](https://mp.weixin.qq.com/s/5BWUhpcEJeG0r_n_7xgMDQ)
+- [Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates](https://www.nejm.org/doi/10.1056/NEJMoa2027906)
+- [A prefusion SARS-CoV-2 spike RNA vaccine is highly immunogenic and prevents lung infection in non-human primates](https://www.biorxiv.org/content/10.1101/2020.09.08.280818v1)

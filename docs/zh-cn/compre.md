@@ -1272,3 +1272,6 @@
 - [Assessing the risks of ‘infodemics’ in response to COVID-19 epidemics](https://www.nature.com/articles/s41562-020-00994-6)
 - [与传染病的征战中，人类为了“赢”有些不择手段 | 书稿](https://mp.weixin.qq.com/s/BB8J3GBf8sPeSxWn_66okQ)
 - [拜登上任了，科学界松一口气......他该如何处理疫情的“烂摊子”？](https://mp.weixin.qq.com/s/sf0OPoi6AMF5XMt5naC6fg)
+- [欧洲于本月初再次实施封锁，防疫的长期计划该是什么？｜Science新闻](https://mp.weixin.qq.com/s/j3rbEkDnztvgSZif4floNw)
+- [Europe is locking down a second time. But what is its long-term plan?](https://www.sciencemag.org/news/2020/11/europe-locking-down-second-time-what-its-long-term-plan?utm_campaign=news_daily_2020-11-02&et_rid=76975177&et_cid=3542179)
+- [2020年度人类社会发展十大科学问题发布](https://mp.weixin.qq.com/s/pUYRIIlTf2SZm_z5ULQ-yg)

@@ -1104,3 +1104,8 @@
 - [中亚和俄罗斯资讯 | 丘马科夫中心已在新西伯利亚启动新冠疫苗临床试验 【中国科讯】](https://mp.weixin.qq.com/s/8knouw8wgGcn7SfZmx21tg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月7日）【中国科讯】](https://mp.weixin.qq.com/s/4_MCUOgWe0PBc1YLuzByRw)
 - [阿联酋总理接种中国新冠疫苗，该国数十位高官已接种｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/kVsL-UwR867_SU6NMJJzcg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月8日）【中国科讯】](https://mp.weixin.qq.com/s/uz9Dpg4Aq1vwVHGI2pS4Pg)
+- [新型冠状病毒疫苗接种意愿第二轮调查问卷（公众）](https://mp.weixin.qq.com/s/vPOnxhupjNC79TpAxLe_SA)
+- [要把爱国卫生运动与冬季疫情防控结合起来](https://mp.weixin.qq.com/s/zh46j4sX4Fan6YMLij0mDw)
+- [2020年度何梁何利奖揭晓 中科院10人获奖【一周科学看点2020-11-09丨中国科学院院刊】](https://mp.weixin.qq.com/s/UXzZvTDybTNPUSe_mTFJeg)
+- [六分之一的留英学生在英国之外学习 | 科研圈日报](https://mp.weixin.qq.com/s/5s8moBvL6lruyCZVgw9UcA)
