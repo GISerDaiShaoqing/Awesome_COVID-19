@@ -135,3 +135,4 @@
 - [Development of a clinical decision support system for severity risk prediction and triage of COVID-19 patients at hospital admission: an international multicentre study](https://erj.ersjournals.com/content/56/2/2001104?ctkey=wechat)
 - [JUST技术：基于轨迹的新冠易感人群查询方案](https://mp.weixin.qq.com/s/tjeHoz-TH2_bWQBrwdZ6WQ)
 - [EfficientSuspected Infected Crowds Detection Based on Spatio-Temporal Trajectories](https://arxiv.org/abs/2004.06653)
+- [Getting Started with Create React App](https://github.com/nofurtherinformation/covid-country)

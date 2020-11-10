@@ -354,3 +354,4 @@
 - [The relationship between fatigue and depression and anxiety symptoms among front-line clinical workers during the COVID-19 pandemic](https://preprints.jmir.org/preprint/24390)
 - [确定各年龄段新冠肺炎死亡率的差异 |《自然》论文](https://mp.weixin.qq.com/s/Er66OehM2gEEP6myfN4BOQ)
 - [Age-specific mortality and immunity patterns of SARS-CoV-2](https://www.nature.com/articles/s41586-020-2918-0)
+- [JUST技术：利用基于轨迹数据的人口流向分析技术，精准病毒传播追踪](https://mp.weixin.qq.com/s/sdwAyyqCfzkBXtzQJs0j0w)

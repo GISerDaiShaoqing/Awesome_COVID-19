@@ -989,3 +989,5 @@
 - [首次公布 | 市值增加2000亿！辉瑞等公司3期临床中期有效性分析显示新冠疫苗90%有效，特朗普表示这是个好消息](https://mp.weixin.qq.com/s/5BWUhpcEJeG0r_n_7xgMDQ)
 - [Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates](https://www.nejm.org/doi/10.1056/NEJMoa2027906)
 - [A prefusion SARS-CoV-2 spike RNA vaccine is highly immunogenic and prevents lung infection in non-human primates](https://www.biorxiv.org/content/10.1101/2020.09.08.280818v1)
+- [危重COVID-19患者的消化道并发症](https://mp.weixin.qq.com/s/BqLwRS-NDtGryMySXTEBxA)
+- [Gastrointestinal Complications in Critically Ill Patients with COVID-19](https://www.jwatch.org/na52546/2020/10/15/gastrointestinal-complications-critically-ill-patients?query=nejmyxqy)

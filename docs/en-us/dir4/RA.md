@@ -46,3 +46,4 @@
 - [新型冠状病毒肺炎疫情初期湖北省输出风险评估](http://rs.yiigle.com/yufabiao/1182599.htm)
 - [美国全民戴口罩或在2021年2月底前拯救近13万条生命 |《自然-医学》论文](https://mp.weixin.qq.com/s/44oiwpUjsR8aGujCFO2IoQ)
 - [Modeling COVID-19 scenarios for the United States](https://www.nature.com/articles/s41591-020-1132-9)
+- [Risk Assessment and Prediction of Severe or Critical COVID-19 Illness in Older Adults](https://www.dovepress.com/risk-assessment-and-prediction-of-severe-or-critical-covid-19-illness--peer-reviewed-article-CIA)

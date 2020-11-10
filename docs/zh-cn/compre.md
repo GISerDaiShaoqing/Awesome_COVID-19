@@ -1275,3 +1275,6 @@
 - [欧洲于本月初再次实施封锁，防疫的长期计划该是什么？｜Science新闻](https://mp.weixin.qq.com/s/j3rbEkDnztvgSZif4floNw)
 - [Europe is locking down a second time. But what is its long-term plan?](https://www.sciencemag.org/news/2020/11/europe-locking-down-second-time-what-its-long-term-plan?utm_campaign=news_daily_2020-11-02&et_rid=76975177&et_cid=3542179)
 - [2020年度人类社会发展十大科学问题发布](https://mp.weixin.qq.com/s/pUYRIIlTf2SZm_z5ULQ-yg)
+- [疫情期间应对急性冠脉综合征：最好的方法是什么？](https://mp.weixin.qq.com/s/60ksMEGE6frVN_0HmrtBhQ)\
+- [Optimal management of acute coronary syndromes in the era of COVID-19](https://heart.bmj.com/content/106/20/1609)
+- [疫情三连问：医护人员有什么放松方法？跳广场舞是治疗新冠的标配吗？心理危机会传染吗？](https://mp.weixin.qq.com/s/1SHzr_REcXLF5Jv8HNAXfw)
