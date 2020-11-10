@@ -4566,3 +4566,4 @@
 - [疫苗有效率达90%！辉瑞和BionTech公布新冠疫苗临床第三期分析结果​](https://mp.weixin.qq.com/s/WdO5eq3lTUx0W5AXYXyzLw)
 - [周确诊4万3，上周有17万检测结果未统计，荷兰下周重新开放？](https://mp.weixin.qq.com/s/N33JWpF4bqmNQ2x9RCy-PA)
 - [日增4695！疫情大裁员，失业人士如何自救？今年双11不吃土，在家躺着把钱赚！](https://mp.weixin.qq.com/s/nmcWTQb3ldSLQsRL7hxDNw)
+- [荷兰乳业巨头菲仕兰陷入“完美风暴”，将削减约一千岗位](https://mp.weixin.qq.com/s/GdsKhXjW8BahqQqccjynqA)
