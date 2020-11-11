@@ -991,3 +991,5 @@
 - [A prefusion SARS-CoV-2 spike RNA vaccine is highly immunogenic and prevents lung infection in non-human primates](https://www.biorxiv.org/content/10.1101/2020.09.08.280818v1)
 - [危重COVID-19患者的消化道并发症](https://mp.weixin.qq.com/s/BqLwRS-NDtGryMySXTEBxA)
 - [Gastrointestinal Complications in Critically Ill Patients with COVID-19](https://www.jwatch.org/na52546/2020/10/15/gastrointestinal-complications-critically-ill-patients?query=nejmyxqy)
+- [有效性超90%？关于辉瑞新冠疫苗，科学家怎么看？](https://mp.weixin.qq.com/s/MRBdZxq3Z-RmgqIq3Bft9g)
+- [What Pfizer's landmark COVID vaccine results mean for the pandemic](https://www.nature.com/articles/d41586-020-03166-8?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03166-8)

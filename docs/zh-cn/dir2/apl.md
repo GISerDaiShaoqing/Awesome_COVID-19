@@ -1115,3 +1115,6 @@
 - [Science新冠肺炎论文合集——第二期](https://mp.weixin.qq.com/s/G1S-ZBD2zw6qAvKpp19kHg)
 - [Science一周论文导读 | 2020年10月30日](https://mp.weixin.qq.com/s/90jao2dA1YnZSSGE9xiVnA)
 - [Nature一周论文导读 | 2020年10月29日](https://mp.weixin.qq.com/s/Y0HqG9EA1ffNcMt7pT-Hlg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月10日）【中国科讯】](https://mp.weixin.qq.com/s/zXKB3e-2vHkuSda4s1xDGQ)
+- [有效性超90%？ 科学界谨慎看待辉瑞新冠疫苗](https://mp.weixin.qq.com/s/eB7t4qmPQER4ys2VYXEuYQ)
+- [巴西叫停中国新冠疫苗临床试验，中方厂家表示“对疫苗的安全有信心”](https://mp.weixin.qq.com/s/2dmM45xeNPQzApRkQnnG1g)

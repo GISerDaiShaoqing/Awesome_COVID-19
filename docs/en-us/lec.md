@@ -289,3 +289,4 @@
 - [新冠下的市域治理新趋势——智慧城市与城市计算论坛](https://mp.weixin.qq.com/s/4_JZ2FA7HVeJUQwCoNwXUQ)
 - [数据讲座 （16） | COVID19美国多时空尺度手机估算人口流动矩阵数据](https://mp.weixin.qq.com/s/glPOethC8kLV00p-VtMERQ)
 - [详细议程 | Cell Press邀您与世界顶尖新冠科学家线上面对面](https://mp.weixin.qq.com/s/icUh5AYiDyeDL_wvI3e0fg)
+- [日程与嘉宾介绍 | 2020柳叶刀-中国医学科学院医学与健康大会开放注册](https://mp.weixin.qq.com/s/3cYBAbgue_a2GrwDSdeNiQ)

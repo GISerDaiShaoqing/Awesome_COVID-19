@@ -1278,3 +1278,6 @@
 - [疫情期间应对急性冠脉综合征：最好的方法是什么？](https://mp.weixin.qq.com/s/60ksMEGE6frVN_0HmrtBhQ)\
 - [Optimal management of acute coronary syndromes in the era of COVID-19](https://heart.bmj.com/content/106/20/1609)
 - [疫情三连问：医护人员有什么放松方法？跳广场舞是治疗新冠的标配吗？心理危机会传染吗？](https://mp.weixin.qq.com/s/1SHzr_REcXLF5Jv8HNAXfw)
+- [Science重磅 | 极大关注，首次发现动物可将新冠病毒传播给人类](https://mp.weixin.qq.com/s/dtdVbDgoc00s4aFRWpgqzg)
+- [Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans](https://science.sciencemag.org/content/early/2020/11/09/science.abe5901)
+- [钟南山、王辰院士视频祝贺！爱思唯尔出版《新冠肺炎防治精要》英文版，传递中国抗疫经验](https://mp.weixin.qq.com/s/vqhoyTBInQr2NLPg4Ht6Ig)
