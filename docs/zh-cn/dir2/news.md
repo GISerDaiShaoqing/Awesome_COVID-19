@@ -4584,3 +4584,5 @@
 - [今年年底荷兰可能可以注射辉瑞疫苗](https://mp.weixin.qq.com/s/vjHSYXmzoyAm1LSCTWundQ)
 - [荷兰餐饮业组织要跟首相吕特对话](https://mp.weixin.qq.com/s/3PftRA3PZAbwDg8S-KQTkw)
 - [感染数字略有上升，但荷兰部长宣布“第二波疫情高峰已过，坚持下去”](https://mp.weixin.qq.com/s/zQVkODqVPnBgtRpodrOE_A)
+- [关于外籍乘客凭健康状况声明书二维码登机赴华的通知](https://mp.weixin.qq.com/s/N_0pZ1nGlVz3O2pHElxeqg)
+- [关于从荷兰搭乘航班赴华人员须凭双阴性证明乘机的常见问题解答](https://mp.weixin.qq.com/s/5fwcpDLOcAIPH7FQaFh03Q)
