@@ -69,3 +69,4 @@
 - [2020柳叶刀“威克利-伍连德奖”10月31日即将截稿](https://mp.weixin.qq.com/s/Vq44bGo3YvJKlenRPvHTTw)
 - [呼吸系统疾病的诊断和治疗有哪些最新进展?](https://mp.weixin.qq.com/s/FutvdjW_NILGv5yUzMDBtw)
 - [Advances in Pulmonary Diseases: Cellular Pathology, Molecular Targets, Novel Diagnosis and Therapy](https://www.frontiersin.org/research-topics/17020/advances-in-pulmonary-diseases-cellular-pathology-molecular-targets-novel-diagnosis-and-therapy?utm_source=yanyuRT15&utm_medium=wechat&utm_campaign=chinaad)
+- [沈华浩/赖克方/张旻/黄克武/蒋典华 共同领导专刊 | 呼吸系统疾病诊断和治疗的最新进展](https://mp.weixin.qq.com/s/i4dYR-GIk-R7koz3avjcGA)

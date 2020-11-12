@@ -1118,3 +1118,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月10日）【中国科讯】](https://mp.weixin.qq.com/s/zXKB3e-2vHkuSda4s1xDGQ)
 - [有效性超90%？ 科学界谨慎看待辉瑞新冠疫苗](https://mp.weixin.qq.com/s/eB7t4qmPQER4ys2VYXEuYQ)
 - [巴西叫停中国新冠疫苗临床试验，中方厂家表示“对疫苗的安全有信心”](https://mp.weixin.qq.com/s/2dmM45xeNPQzApRkQnnG1g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月11日）【中国科讯】](https://mp.weixin.qq.com/s/opKm9x4zfZbM4B3Jhm08Kg)
+- [巴西恢复中国新冠疫苗临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/b-aOxQsB2OrezrWcw6RvwQ)

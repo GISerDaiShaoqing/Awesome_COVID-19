@@ -290,3 +290,5 @@
 - [数据讲座 （16） | COVID19美国多时空尺度手机估算人口流动矩阵数据](https://mp.weixin.qq.com/s/glPOethC8kLV00p-VtMERQ)
 - [详细议程 | Cell Press邀您与世界顶尖新冠科学家线上面对面](https://mp.weixin.qq.com/s/icUh5AYiDyeDL_wvI3e0fg)
 - [日程与嘉宾介绍 | 2020柳叶刀-中国医学科学院医学与健康大会开放注册](https://mp.weixin.qq.com/s/3cYBAbgue_a2GrwDSdeNiQ)
+- [新冠疫苗怎样从实验室理论走向临床实验？ | 青年科学家沙龙基础场](https://mp.weixin.qq.com/s/9IL9FU73dHgK9HDB167IGg)
+- [会议通知 | 中华预防医学会环境卫生分会2020年学术年会暨新冠肺炎疫情防控专题培训会（浙江杭州）](https://mp.weixin.qq.com/s/J2mICdg_fcP88MqRcKzUZA)

@@ -225,3 +225,4 @@
 - [百度地图迁徙大数据：喀什地区近九成人口流动来自新疆维吾尔自治区内](https://mp.weixin.qq.com/s/YTSAOGt5lVI8Pk7c1vK-RA)
 - [Scraping and parsing the daily BAG-Excelsheet](https://github.com/rsalzer/COVID_19_BAG)
 - [covid-mobility](https://github.com/snap-stanford/covid-mobility)
+- [Multiscale dynamic human mobility flow dataset in the U.S. during the COVID-19 epidemic](https://www.nature.com/articles/s41597-020-00734-5#Sec1)

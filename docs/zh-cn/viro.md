@@ -631,3 +631,5 @@
 - [Identification of SARS-CoV-2 Inhibitors using Lung and Colonic Organoids](https://www.nature.com/articles/s41586-020-2901-9)
 - [狡猾的β-冠状病毒“劫持”溶酶体进行自身传播 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/uKyReLGoopYZHCEfOjKynQ)
 - [β-Coronaviruses use lysosomes for egress instead of the biosynthetic secretory pathway](https://www.cell.com/cell/fulltext/S0092-8674(20)31446-X#%20)
+- [利用非洲绿猴抗击COVID-19 | Virology Journal](https://mp.weixin.qq.com/s/Tgk7WqOmlEnZDvcVG0rUPg)
+- [Intranasal exposure of African green monkeys to SARS-CoV-2 results in acute phase pneumonia with shedding and lung injury still present in the early convalescence phase](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01396-w?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_CZ01_CN_org_WC_VJ_Nov)

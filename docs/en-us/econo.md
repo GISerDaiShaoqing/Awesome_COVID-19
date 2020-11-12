@@ -578,3 +578,4 @@
 - [国际资讯 | [澳]新冠疫情对城市中心业态的影响/投资慢行交通设施有助于经济复苏(2020.11)](https://mp.weixin.qq.com/s/aV8WE9kQUM3T9v1L2imJhQ)
 - [国际资讯 | [英]二线城市因远程办公而崛起/不受控的默许开发权或将损害高街复苏(2020.11)](https://mp.weixin.qq.com/s/WSSUOAkv1efdt0s8a8_6ZQ)
 - [【文章导读】“大考”来袭，城市医疗卫生设施规划标准该如何制定？](https://mp.weixin.qq.com/s/XsLpmaqasb9nHd1sfqMvug)
+- [学术季丨王兰：健康融入社区生活圈规划](https://mp.weixin.qq.com/s/q9Pjk0hEh10UeyxvxvDI-Q)
