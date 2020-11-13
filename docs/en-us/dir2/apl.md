@@ -1120,3 +1120,6 @@
 - [巴西叫停中国新冠疫苗临床试验，中方厂家表示“对疫苗的安全有信心”](https://mp.weixin.qq.com/s/2dmM45xeNPQzApRkQnnG1g)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月11日）【中国科讯】](https://mp.weixin.qq.com/s/opKm9x4zfZbM4B3Jhm08Kg)
 - [巴西恢复中国新冠疫苗临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/b-aOxQsB2OrezrWcw6RvwQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月12日）【中国科讯】](https://mp.weixin.qq.com/s/NKURU0cO-EMcMTPmHe_LCg)
+- [11 月 12 日我国内地新增确诊病例 8 例，均为境外输入病例 ｜科研圈日报](https://mp.weixin.qq.com/s/307oQdLHdsPB6ntikJdivQ)
+- [全国爱卫办发文：开展冬春季爱国卫生运动 助力常态化疫情防控](https://mp.weixin.qq.com/s/U-guBNxEYsvZUdUHZvO-Cg)

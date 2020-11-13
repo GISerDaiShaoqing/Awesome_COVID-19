@@ -1281,3 +1281,6 @@
 - [Science重磅 | 极大关注，首次发现动物可将新冠病毒传播给人类](https://mp.weixin.qq.com/s/dtdVbDgoc00s4aFRWpgqzg)
 - [Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans](https://science.sciencemag.org/content/early/2020/11/09/science.abe5901)
 - [钟南山、王辰院士视频祝贺！爱思唯尔出版《新冠肺炎防治精要》英文版，传递中国抗疫经验](https://mp.weixin.qq.com/s/vqhoyTBInQr2NLPg4Ht6Ig)
+- [深度分析：医疗防疫物资如何科学储备](https://mp.weixin.qq.com/s/iKo7kGAQgTu47MoM_ktYLg)
+- [口罩的有效性：数据怎么说](https://mp.weixin.qq.com/s/r5RLwkFV9yoac5zm0iwoNw)
+- [Face masks: what the data say](https://www.nature.com/articles/d41586-020-02801-8?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02801-8)

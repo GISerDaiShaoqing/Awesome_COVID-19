@@ -579,3 +579,5 @@
 - [国际资讯 | [英]二线城市因远程办公而崛起/不受控的默许开发权或将损害高街复苏(2020.11)](https://mp.weixin.qq.com/s/WSSUOAkv1efdt0s8a8_6ZQ)
 - [【文章导读】“大考”来袭，城市医疗卫生设施规划标准该如何制定？](https://mp.weixin.qq.com/s/XsLpmaqasb9nHd1sfqMvug)
 - [学术季丨王兰：健康融入社区生活圈规划](https://mp.weixin.qq.com/s/q9Pjk0hEh10UeyxvxvDI-Q)
+- [全球抗疫观｜陆生返台：难以走出的隔离](https://mp.weixin.qq.com/s/CT6YEV6fIMYTRCv1fMniag)
+- [BMW卓越城市｜茅明睿：面对疫情，如何创造包容社区](https://mp.weixin.qq.com/s/DXopZPuWaPcVLyMD-cz3Yg)

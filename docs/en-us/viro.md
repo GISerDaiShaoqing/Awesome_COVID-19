@@ -633,3 +633,6 @@
 - [β-Coronaviruses use lysosomes for egress instead of the biosynthetic secretory pathway](https://www.cell.com/cell/fulltext/S0092-8674(20)31446-X#%20)
 - [利用非洲绿猴抗击COVID-19 | Virology Journal](https://mp.weixin.qq.com/s/Tgk7WqOmlEnZDvcVG0rUPg)
 - [Intranasal exposure of African green monkeys to SARS-CoV-2 results in acute phase pneumonia with shedding and lung injury still present in the early convalescence phase](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01396-w?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_1_CZ01_CN_org_WC_VJ_Nov)
+- [Science：美洲驼纳米抗体有望成为对抗新冠病毒的强大武器](https://mp.weixin.qq.com/s/-jNP08cgHUfLxf9xfxXGVg)
+- [Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2](https://science.sciencemag.org/content/early/2020/11/04/science.abe4747)
+- [Llama nanobodies could be a powerful weapon against COVID-19](https://medicalxpress.com/news/2020-11-llama-nanobodies-powerful-weapon-covid-.html)
