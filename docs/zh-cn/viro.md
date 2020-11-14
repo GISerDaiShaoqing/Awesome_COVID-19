@@ -636,3 +636,5 @@
 - [Science：美洲驼纳米抗体有望成为对抗新冠病毒的强大武器](https://mp.weixin.qq.com/s/-jNP08cgHUfLxf9xfxXGVg)
 - [Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2](https://science.sciencemag.org/content/early/2020/11/04/science.abe4747)
 - [Llama nanobodies could be a powerful weapon against COVID-19](https://medicalxpress.com/news/2020-11-llama-nanobodies-powerful-weapon-covid-.html)
+- [复旦大学开发出新冠病毒45分钟内快速检测方法](https://mp.weixin.qq.com/s/mUMuGHzsIszYajQqIOUtPA)
+- [opvCRISPR: One-pot visual RT-LAMP-CRISPR platform for SARS-cov-2 detection](https://www.sciencedirect.com/science/article/pii/S0956566320307533)

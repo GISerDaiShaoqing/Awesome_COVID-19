@@ -1284,3 +1284,5 @@
 - [深度分析：医疗防疫物资如何科学储备](https://mp.weixin.qq.com/s/iKo7kGAQgTu47MoM_ktYLg)
 - [口罩的有效性：数据怎么说](https://mp.weixin.qq.com/s/r5RLwkFV9yoac5zm0iwoNw)
 - [Face masks: what the data say](https://www.nature.com/articles/d41586-020-02801-8?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02801-8)
+- [【研究】疫情在北半球再起、南半球放缓：新冠病毒到底与气温变化有什么关系？](https://mp.weixin.qq.com/s/DDP5iWsxxgZ2TtURm0bBnA)
+- [As the northern hemisphere gets colder, covid-19 deaths are rising rapidly](https://www.economist.com/graphic-detail/2020/11/09/as-the-northern-hemisphere-gets-colder-covid-19-deaths-are-rising-rapidly)

@@ -293,3 +293,4 @@
 - [新冠疫苗怎样从实验室理论走向临床实验？ | 青年科学家沙龙基础场](https://mp.weixin.qq.com/s/9IL9FU73dHgK9HDB167IGg)
 - [会议通知 | 中华预防医学会环境卫生分会2020年学术年会暨新冠肺炎疫情防控专题培训会（浙江杭州）](https://mp.weixin.qq.com/s/J2mICdg_fcP88MqRcKzUZA)
 - [学术周预告 | “‘后疫情时代：国土空间规划与城乡高质量发展’暨2020北京卓越青年科学家项目年度会议”专场](https://mp.weixin.qq.com/s/MLBmD_9ytkDeCKDQwAnZCg)
+- [新冠药物研发可以更快吗？ | 青年科学家沙龙基础场](https://mp.weixin.qq.com/s/_rqxFmIr2dQ79W8aK57v-A)
