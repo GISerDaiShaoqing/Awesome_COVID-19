@@ -1124,3 +1124,5 @@
 - [11 月 12 日我国内地新增确诊病例 8 例，均为境外输入病例 ｜科研圈日报](https://mp.weixin.qq.com/s/307oQdLHdsPB6ntikJdivQ)
 - [全国爱卫办发文：开展冬春季爱国卫生运动 助力常态化疫情防控](https://mp.weixin.qq.com/s/U-guBNxEYsvZUdUHZvO-Cg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月13日）【中国科讯】](https://mp.weixin.qq.com/s/vVCHFRLQ004aKOv0N9yKJQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月14日）【中国科讯】](https://mp.weixin.qq.com/s/OFfVzjRR-AoOC3uzLlUzqQ)
+- [全国爱卫办发文：开展冬春季爱国卫生运动 助力常态化疫情防控](https://mp.weixin.qq.com/s/LJHETXqnqjL0xEbq37756g)

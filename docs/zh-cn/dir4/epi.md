@@ -357,3 +357,4 @@
 - [JUST技术：利用基于轨迹数据的人口流向分析技术，精准病毒传播追踪](https://mp.weixin.qq.com/s/sdwAyyqCfzkBXtzQJs0j0w)
 - [COVID-19在中国的传播：基于CEMM模型的分析](https://mp.weixin.qq.com/s/hDGPEtSuh8aN0HvoDoZIzQ)
 - [Spread of COVID-19 in China: analysis from a city-based epidemic and mobility model](https://doi.org/10.1016/j.cities.2020.103010)
+- [Investigating the Relationship between the Built Environment and Relative Risk of COVID-19 in Hong Kong](https://www.mdpi.com/2220-9964/9/11/624)
