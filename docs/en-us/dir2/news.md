@@ -4665,3 +4665,4 @@
 - [欧洲疫情：丹麦议会支持扑杀所有水貂；英揆检测呈阴性](https://mp.weixin.qq.com/s/hyBrlOyIY9Xkri_X2iD8Cg)
 - [欧洲疫情二次爆发！百万人被困在家，华人家长如何有效进行儿童教育？](https://mp.weixin.qq.com/s/dFr2kK6PK-1uS4GPGeFjeA)
 - [荷兰疫情平缓，专家预计可能圣诞新年会放松数天](https://mp.weixin.qq.com/s/gTleCRolXXVyhRQ5HiibYw)
+- [继续10月13日宣布的部分封城措施，公共设施恢复开放](https://mp.weixin.qq.com/s/W9hn4kteyjUDLVMAwTJK-A)
