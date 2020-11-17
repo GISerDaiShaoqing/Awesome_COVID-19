@@ -581,3 +581,4 @@
 - [学术季丨王兰：健康融入社区生活圈规划](https://mp.weixin.qq.com/s/q9Pjk0hEh10UeyxvxvDI-Q)
 - [全球抗疫观｜陆生返台：难以走出的隔离](https://mp.weixin.qq.com/s/CT6YEV6fIMYTRCv1fMniag)
 - [BMW卓越城市｜茅明睿：面对疫情，如何创造包容社区](https://mp.weixin.qq.com/s/DXopZPuWaPcVLyMD-cz3Yg)
+- [国际资讯 | [欧]疫情对欧洲铁路客运的影响/“意大利城市品牌2020”政府项目招标(2020.11)](https://mp.weixin.qq.com/s/bWifhWl-3hsa4MdXn4BdNw)

@@ -1286,3 +1286,5 @@
 - [Face masks: what the data say](https://www.nature.com/articles/d41586-020-02801-8?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-02801-8)
 - [【研究】疫情在北半球再起、南半球放缓：新冠病毒到底与气温变化有什么关系？](https://mp.weixin.qq.com/s/DDP5iWsxxgZ2TtURm0bBnA)
 - [As the northern hemisphere gets colder, covid-19 deaths are rising rapidly](https://www.economist.com/graphic-detail/2020/11/09/as-the-northern-hemisphere-gets-colder-covid-19-deaths-are-rising-rapidly)
+- [该不该杀？ 水貂新冠病毒变异尚不影响疫苗有效性](https://mp.weixin.qq.com/s/dKtaaLLOVL5TfpcjBi9jaw)
+- [意大利研究所: 新冠病毒去年9月就在意传播, 可能会重塑疫情大流行历史](https://mp.weixin.qq.com/s/75z4DjwAkJoZnU8kDFNXag)

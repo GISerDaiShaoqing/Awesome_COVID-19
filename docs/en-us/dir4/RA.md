@@ -49,3 +49,4 @@
 - [Risk Assessment and Prediction of Severe or Critical COVID-19 Illness in Older Adults](https://www.dovepress.com/risk-assessment-and-prediction-of-severe-or-critical-covid-19-illness--peer-reviewed-article-CIA)
 - [人类移动模式预测SARS-CoV-2传播风险最高的场所 |《自然》论文](https://mp.weixin.qq.com/s/yjYqljw_UyT7ukPkju41fg)
 - [Mobility network models of COVID-19 explain inequities and inform reopening](https://www.nature.com/articles/s41586-020-2923-3)
+- [Nature：构建疫情中的人类移动网络，哪里最需要严防死守？](https://mp.weixin.qq.com/s/AH8hhQUnP0c-3YLIWMNuig)

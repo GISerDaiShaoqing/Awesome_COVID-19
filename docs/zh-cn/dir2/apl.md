@@ -1126,3 +1126,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月13日）【中国科讯】](https://mp.weixin.qq.com/s/vVCHFRLQ004aKOv0N9yKJQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月14日）【中国科讯】](https://mp.weixin.qq.com/s/OFfVzjRR-AoOC3uzLlUzqQ)
 - [全国爱卫办发文：开展冬春季爱国卫生运动 助力常态化疫情防控](https://mp.weixin.qq.com/s/LJHETXqnqjL0xEbq37756g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月15日）【中国科讯】](https://mp.weixin.qq.com/s/B6UasfeYa73zP_W-1zTHxw)
+- [Science新冠肺炎论文合集——第三期](https://mp.weixin.qq.com/s/1PdBETJdAX-DzRKUYQC9tA)
+- [丹麦水貂的新冠变异毒株不太可能影响疫苗效力 | 科研圈日报](https://mp.weixin.qq.com/s/vqKehBT-0aYjKDYnoAkQaA)

@@ -638,3 +638,4 @@
 - [Llama nanobodies could be a powerful weapon against COVID-19](https://medicalxpress.com/news/2020-11-llama-nanobodies-powerful-weapon-covid-.html)
 - [复旦大学开发出新冠病毒45分钟内快速检测方法](https://mp.weixin.qq.com/s/mUMuGHzsIszYajQqIOUtPA)
 - [opvCRISPR: One-pot visual RT-LAMP-CRISPR platform for SARS-cov-2 detection](https://www.sciencedirect.com/science/article/pii/S0956566320307533)
+- [Targets of T cell responses to SARS-CoV-2 coronavirus in humans with COVID-19 disease and unexposed individuals](https://www.cell.com/cell/fulltext/S0092-8674(20)30610-3)
