@@ -1288,3 +1288,4 @@
 - [As the northern hemisphere gets colder, covid-19 deaths are rising rapidly](https://www.economist.com/graphic-detail/2020/11/09/as-the-northern-hemisphere-gets-colder-covid-19-deaths-are-rising-rapidly)
 - [该不该杀？ 水貂新冠病毒变异尚不影响疫苗有效性](https://mp.weixin.qq.com/s/dKtaaLLOVL5TfpcjBi9jaw)
 - [意大利研究所: 新冠病毒去年9月就在意传播, 可能会重塑疫情大流行历史](https://mp.weixin.qq.com/s/75z4DjwAkJoZnU8kDFNXag)
+- [Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis](https://advances.sciencemag.org/content/6/45/eabd4049)

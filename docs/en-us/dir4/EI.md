@@ -94,3 +94,5 @@
 - [Understanding transmission and intervention for the COVID-19 pandemic in the United States](https://www.sciencedirect.com/science/article/pii/S0048969720350890)
 - [Using a real-world network to model localised COVID-19 control strategies](https://github.com/biouea/covidhm)
 - [Distinct regimes of particle and virus abundance explain face mask efficacy for COVID-19](https://www.medrxiv.org/content/10.1101/2020.09.10.20190348v1)
+- [评估非药物干预对于降低新冠肺炎传播的效果 |《自然-人类行为》论文](https://mp.weixin.qq.com/s/WZXXbc3DOrFSO6cUOzKUkg)
+- [Ranking the effectiveness of worldwide COVID-19 government interventions](https://www.nature.com/articles/s41562-020-01009-0)

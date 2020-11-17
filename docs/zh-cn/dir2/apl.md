@@ -1129,3 +1129,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月15日）【中国科讯】](https://mp.weixin.qq.com/s/B6UasfeYa73zP_W-1zTHxw)
 - [Science新冠肺炎论文合集——第三期](https://mp.weixin.qq.com/s/1PdBETJdAX-DzRKUYQC9tA)
 - [丹麦水貂的新冠变异毒株不太可能影响疫苗效力 | 科研圈日报](https://mp.weixin.qq.com/s/vqKehBT-0aYjKDYnoAkQaA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月17日）【中国科讯】](https://mp.weixin.qq.com/s/xEn-5foKKoe9G6NXG57Jvw)
+- [92%有效？俄新冠疫苗遭质疑](https://mp.weixin.qq.com/s/pHqqfiokH1xA-qED6R3Elw)
+- [长期接触细颗粒物空气污染物可能会增加新冠肺炎的死亡率｜Science Advances（开放获取）](https://mp.weixin.qq.com/s/p4OOglnaVHVBhMfSy8K2sg)
+- [Science 一周论文导读 | 2020年11月6日](https://mp.weixin.qq.com/s/WkRsDsSbA3olkeEN7rp6ZA)
