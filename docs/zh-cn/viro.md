@@ -646,3 +646,4 @@
 - [bioRxiv：新冠病毒突变N439K竟能削弱中和抗体的活性](https://mp.weixin.qq.com/s/Qref8izGvr_CPhd0zj0akQ)
 - [The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity](https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1)
 - [COVID research updates: A coronavirus mutation could weaken antibodies’ power](https://www.nature.com/articles/d41586-020-00502-w)
+- [5种看见病毒的方法](https://mp.weixin.qq.com/s/xfrnonpJdh3-VshQKQrHQg)

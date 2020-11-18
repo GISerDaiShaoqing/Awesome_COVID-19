@@ -1007,3 +1007,5 @@
 - [Spike-specific circulating T follicular helper cell and cross-neutralizing antibody responses in COVID-19-convalescent individuals](https://www.nature.com/articles/s41564-020-00824-5)
 - [NC | 黄超兰团队与高福团队等合作发现早期新冠病毒感染主要为免疫抑制或存在“两阶段”机制](https://mp.weixin.qq.com/s/6pg6EctX6aDIWT4bAmZduQ)
 - [Immune suppression in the early stage of COVID-19 disease](https://www.nature.com/articles/s41467-020-19706-9)
+- [有效性超94%！Moderna疫苗三期试验刷新“抗疫”新纪录](https://mp.weixin.qq.com/s/aUBdrvPdbQsVR1s5mINCnQ)
+- [COVID vaccine excitement builds as Moderna reports third positive result](https://www.nature.com/articles/d41586-020-03248-7?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03248-7)

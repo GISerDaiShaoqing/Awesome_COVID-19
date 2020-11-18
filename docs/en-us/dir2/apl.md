@@ -1133,3 +1133,5 @@
 - [92%有效？俄新冠疫苗遭质疑](https://mp.weixin.qq.com/s/pHqqfiokH1xA-qED6R3Elw)
 - [长期接触细颗粒物空气污染物可能会增加新冠肺炎的死亡率｜Science Advances（开放获取）](https://mp.weixin.qq.com/s/p4OOglnaVHVBhMfSy8K2sg)
 - [Science 一周论文导读 | 2020年11月6日](https://mp.weixin.qq.com/s/WkRsDsSbA3olkeEN7rp6ZA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月17日）【中国科讯】](https://mp.weixin.qq.com/s/k37B_T65t4XuO4esoPw2ig)
+- [辉瑞新冠疫苗或将在数日内提交紧急使用申请｜科研圈日报](https://mp.weixin.qq.com/s/DHLiptBqrAcDuCM0E4IDGQ)

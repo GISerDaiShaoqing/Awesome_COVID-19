@@ -294,3 +294,6 @@
 - [会议通知 | 中华预防医学会环境卫生分会2020年学术年会暨新冠肺炎疫情防控专题培训会（浙江杭州）](https://mp.weixin.qq.com/s/J2mICdg_fcP88MqRcKzUZA)
 - [学术周预告 | “‘后疫情时代：国土空间规划与城乡高质量发展’暨2020北京卓越青年科学家项目年度会议”专场](https://mp.weixin.qq.com/s/MLBmD_9ytkDeCKDQwAnZCg)
 - [新冠药物研发可以更快吗？ | 青年科学家沙龙基础场](https://mp.weixin.qq.com/s/_rqxFmIr2dQ79W8aK57v-A)
+- [明早直播 | Cell Press邀您与世界顶尖新冠科学家线上面对面](https://mp.weixin.qq.com/s/mVnPb6HfEHg0qs4Dwcrowg)
+- [活动报名 | 第四届全荷青年学者峰会暨人才论坛报名开始啦！](https://mp.weixin.qq.com/s/m3elu--KB2bzgH4ApeZ0jg)
+- [《柳叶刀》总编Dr Richard Horton邀请您参加这场国际对话！](https://mp.weixin.qq.com/s/6G-xmHuZjNMe3yNEpo29pQ)
