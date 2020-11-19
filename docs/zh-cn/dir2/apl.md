@@ -1135,3 +1135,7 @@
 - [Science 一周论文导读 | 2020年11月6日](https://mp.weixin.qq.com/s/WkRsDsSbA3olkeEN7rp6ZA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月17日）【中国科讯】](https://mp.weixin.qq.com/s/k37B_T65t4XuO4esoPw2ig)
 - [辉瑞新冠疫苗或将在数日内提交紧急使用申请｜科研圈日报](https://mp.weixin.qq.com/s/DHLiptBqrAcDuCM0E4IDGQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月18日）【中国科讯】](https://mp.weixin.qq.com/s/YNmnPPoGSjhpmEwdMRV-SA)
+- [辉瑞新冠疫苗最快下月出厂，最终试验有效性达95%，对老年高危人群保护显著｜科研圈日报](https://mp.weixin.qq.com/s/HvnsDYy9qolhQRShZIA2Dw)
+- [嗅觉丧失检测有助于识别无症状感染者 | EClinicalMedicine11月精选](https://mp.weixin.qq.com/s/rP7_bnWF-NGSqZ0GKCZOiw)
+- [24小时热门｜科兴公司《柳叶刀》子刊发文：CoronaVac疫苗可触发快速免疫反应](https://mp.weixin.qq.com/s/dDThjHFBkSsq8H9gRALfQA

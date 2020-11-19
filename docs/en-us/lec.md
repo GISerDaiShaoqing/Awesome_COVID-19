@@ -297,3 +297,4 @@
 - [明早直播 | Cell Press邀您与世界顶尖新冠科学家线上面对面](https://mp.weixin.qq.com/s/mVnPb6HfEHg0qs4Dwcrowg)
 - [活动报名 | 第四届全荷青年学者峰会暨人才论坛报名开始啦！](https://mp.weixin.qq.com/s/m3elu--KB2bzgH4ApeZ0jg)
 - [《柳叶刀》总编Dr Richard Horton邀请您参加这场国际对话！](https://mp.weixin.qq.com/s/6G-xmHuZjNMe3yNEpo29pQ)
+- [《柳叶刀》总编Dr Richard Horton邀请您参加这场国际对话！](https://mp.weixin.qq.com/s/xc9E8KP7xspzK_YKkF4jPw)
