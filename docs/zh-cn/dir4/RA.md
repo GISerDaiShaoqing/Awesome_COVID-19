@@ -50,3 +50,5 @@
 - [人类移动模式预测SARS-CoV-2传播风险最高的场所 |《自然》论文](https://mp.weixin.qq.com/s/yjYqljw_UyT7ukPkju41fg)
 - [Mobility network models of COVID-19 explain inequities and inform reopening](https://www.nature.com/articles/s41586-020-2923-3)
 - [Nature：构建疫情中的人类移动网络，哪里最需要严防死守？](https://mp.weixin.qq.com/s/AH8hhQUnP0c-3YLIWMNuig)
+- [基于主体的COVID-19模型：大量小规模集会，好过少量大规模集会](https://mp.weixin.qq.com/s/fP7L5eD1yAhXYdbJp9k8xg)
+- [An Agent-Based Model of COVID-19](https://www.complex-systems.com/abstracts/v29_i01_a05/)

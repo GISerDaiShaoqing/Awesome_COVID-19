@@ -1138,4 +1138,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月18日）【中国科讯】](https://mp.weixin.qq.com/s/YNmnPPoGSjhpmEwdMRV-SA)
 - [辉瑞新冠疫苗最快下月出厂，最终试验有效性达95%，对老年高危人群保护显著｜科研圈日报](https://mp.weixin.qq.com/s/HvnsDYy9qolhQRShZIA2Dw)
 - [嗅觉丧失检测有助于识别无症状感染者 | EClinicalMedicine11月精选](https://mp.weixin.qq.com/s/rP7_bnWF-NGSqZ0GKCZOiw)
-- [24小时热门｜科兴公司《柳叶刀》子刊发文：CoronaVac疫苗可触发快速免疫反应](https://mp.weixin.qq.com/s/dDThjHFBkSsq8H9gRALfQA
+- [24小时热门｜科兴公司《柳叶刀》子刊发文：CoronaVac疫苗可触发快速免疫反应](https://mp.weixin.qq.com/s/dDThjHFBkSsq8H9gRALfQA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月19日）【中国科讯】](https://mp.weixin.qq.com/s/M_ilF4REVgGZyLzFbfC__A)
+- [钟南山：武汉地区新冠危重症患者死亡率近40%](https://mp.weixin.qq.com/s/7yghqdtLmp4v5Fu6wlHj1g)
+- [新冠论坛嘉宾访谈 | 北京大学刘国恩](https://mp.weixin.qq.com/s/FSOmImxewnrXQsq_PthviQ)
+- [11 月 20 日天津新增 4 例本土确诊病例｜科研圈日报](https://mp.weixin.qq.com/s/4zo7j3DyssHhtni4SuYKvQ)
