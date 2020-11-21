@@ -1305,3 +1305,5 @@
 - [Limited Regional Aerosol and Cloud Microphysical Changes Despite Unprecedented Decline in Nitrogen Oxide Pollution During the February 2020 COVID‐19 Shutdown in China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL088913)
 - [Human mobility trends during the early stage of the COVID-19 pandemic in the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241468)
 - [Geographic pattern of human mobility and COVID-19 before and after Hubei lockdown](https://www.tandfonline.com/doi/10.1080/19475683.2020.1841828)
+- [同COVID-19 战斗的癌症患者 | 《自然-癌症》](https://mp.weixin.qq.com/s/QnmLNGwFgIXX4fF2nVG2Cw)
+- [A global effort to understand the riddles of COVID-19 and cancer](https://www.nature.com/articles/s43018-020-00129-w)

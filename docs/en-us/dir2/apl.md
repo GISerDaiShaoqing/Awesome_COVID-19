@@ -1143,3 +1143,4 @@
 - [钟南山：武汉地区新冠危重症患者死亡率近40%](https://mp.weixin.qq.com/s/7yghqdtLmp4v5Fu6wlHj1g)
 - [新冠论坛嘉宾访谈 | 北京大学刘国恩](https://mp.weixin.qq.com/s/FSOmImxewnrXQsq_PthviQ)
 - [11 月 20 日天津新增 4 例本土确诊病例｜科研圈日报](https://mp.weixin.qq.com/s/4zo7j3DyssHhtni4SuYKvQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月20日）【中国科讯】](https://mp.weixin.qq.com/s/ydg8lbxV2ReVYG_70WHb2g)

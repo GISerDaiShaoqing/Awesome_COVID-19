@@ -1009,3 +1009,7 @@
 - [Immune suppression in the early stage of COVID-19 disease](https://www.nature.com/articles/s41467-020-19706-9)
 - [有效性超94%！Moderna疫苗三期试验刷新“抗疫”新纪录](https://mp.weixin.qq.com/s/aUBdrvPdbQsVR1s5mINCnQ)
 - [COVID vaccine excitement builds as Moderna reports third positive result](https://www.nature.com/articles/d41586-020-03248-7?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03248-7)
+- [【观点】想降低感染新冠的风险吗？除了疫苗，更简单的方式是多睡一会儿](https://mp.weixin.qq.com/s/sMGNFiHoVdJNKsaZ1aonMg)
+- [Want to reduce your COVID-19 risk? You need to sleep more.](https://www.nationalgeographic.com/science/2020/10/sleep-more-reduce-coronavirus-risk/)
+- [The immuno-oncological challenge of COVID-19](https://www.nature.com/articles/s43018-020-00122-3)
+- [疫苗捷报连连 高福：相信我，中国疫苗也非常有效](https://mp.weixin.qq.com/s/_CLndAPJu7T8T3srVOwS2Q)

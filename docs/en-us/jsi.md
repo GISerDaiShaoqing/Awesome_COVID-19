@@ -73,3 +73,4 @@
 - [开放征稿：社区管理对COVID-19 的控制](https://mp.weixin.qq.com/s/Xs4AQ2LFpHfkci4DvSQ3Wg)
 - [Call for papers: Community management and recovery from COVID-19 pandemic](https://idpjournal.biomedcentral.com/call-for-papers--community-management-and-recovery-from-covid-19?utm_source=wechat&utm_medium=social&utm_content=organic&utm_campaign=BSCN_3_YD01_CN_MLSCNJournal_IDP_CFP_WECHAT)
 - [​Call for Papers for a Special Issue in Annals of GIS](https://mp.weixin.qq.com/s/MEgvOepbXwc2zqsVoPXZEg)
+- [期刊目录｜《地理学报》2020年11期](https://mp.weixin.qq.com/s/vbAHM4ays7xnONm6Bd9mcg)
