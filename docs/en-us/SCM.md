@@ -93,5 +93,6 @@
 - [后疫情时代 | 15分钟生活圈成为后疫情时代城市复苏的主旋律 (两则)](https://mp.weixin.qq.com/s/knpLSjogUfmD7Y39kHZC6w)
 - [后疫情时代 | 新冠+严冬，公共空间如何应对双重压力](https://mp.weixin.qq.com/s/UnGU7Vs_lBlmIb9ZErGBTw)
 - [周末大电影︱新冠疫情过后，我们需要更多的开放街道](https://mp.weixin.qq.com/s/d2cGAUGeKCMRxm_AUusLUA)
+- [周末故事 | 新冠疫情下全球经济的赢家与输家 (两则)](https://mp.weixin.qq.com/s/1WIZStp8zoNHzmO6q-PSug)
 
 ![](/img/SCM.jpg)

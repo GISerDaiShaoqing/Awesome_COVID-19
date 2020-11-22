@@ -1307,3 +1307,6 @@
 - [Geographic pattern of human mobility and COVID-19 before and after Hubei lockdown](https://www.tandfonline.com/doi/10.1080/19475683.2020.1841828)
 - [同COVID-19 战斗的癌症患者 | 《自然-癌症》](https://mp.weixin.qq.com/s/QnmLNGwFgIXX4fF2nVG2Cw)
 - [A global effort to understand the riddles of COVID-19 and cancer](https://www.nature.com/articles/s43018-020-00129-w)
+- [十学者热议！疫情大考后，中国医学教育怎么改？](https://mp.weixin.qq.com/s/FrV-7dHkmvQtUPVZJgzqBQ)
+- [忍无可忍，全美100家顶级医院集体发声：戴好口罩！Freedom is not free](https://mp.weixin.qq.com/s/Cb1JwT6fNFYBlHrUeVejAw)
+- [Thousands of Top U.S. Hospitals Encourage Everyone to #MaskUp](https://newsroom.clevelandclinic.org/2020/11/19/thousands-of-top-u-s-hospitals-encourage-everyone-to-maskup/)

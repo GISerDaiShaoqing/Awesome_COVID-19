@@ -5,3 +5,4 @@
 - [重大疫情的环境安全与次生风险防控重大项目2020年度项目指南](http://www.nsfc.gov.cn/publish/portal0/tab568/info77534.htm)
 - [通知 | ​面向因抗击疫情延误申请国家自然科学基金 国际(地区)合作与交流项目的科研人员 定向开放项目申请](https://mp.weixin.qq.com/s/cJb6VKcbjQFWCGnc1m8UQg)
 - [国家自然科学基金委员会关于征集“新型冠状病毒”相关科学研究创新思路的通知](https://mp.weixin.qq.com/s/vIr2vgnqYG7xjI6DIzC77A)
+- [2020年，国家自然科学基金委已公布批准资助项目名单](https://mp.weixin.qq.com/s/PCPwYyhOB6Ae9d_jnc1y_g)
