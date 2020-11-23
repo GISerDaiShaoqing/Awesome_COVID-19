@@ -1013,3 +1013,5 @@
 - [Want to reduce your COVID-19 risk? You need to sleep more.](https://www.nationalgeographic.com/science/2020/10/sleep-more-reduce-coronavirus-risk/)
 - [The immuno-oncological challenge of COVID-19](https://www.nature.com/articles/s43018-020-00122-3)
 - [疫苗捷报连连 高福：相信我，中国疫苗也非常有效](https://mp.weixin.qq.com/s/_CLndAPJu7T8T3srVOwS2Q)
+- [重大研究发现！mRNA疫苗 vs 重组蛋白疫苗，哪种疫苗更胜一筹？​](https://mp.weixin.qq.com/s/457_ZbhCkwmc1YAKHz9hcQ)
+- [SARS-CoV-2 mRNA vaccines foster potent antigen-specific germinal center responses associated with neutralizing antibody generatio](https://www.cell.com/immunity/pdf/S1074-7613(20)30496-9.pdf)

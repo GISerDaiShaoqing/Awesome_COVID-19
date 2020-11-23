@@ -653,3 +653,8 @@
 - [Cryo-EM structure of an extended SARS-CoV-2 replication and transcription complex reveals an intermediate state in cap synthesis](https://www-sciencedirect-com.ezproxy2.utwente.nl/science/article/pii/S0092867420315336)
 - [病毒源头更新 | 石正丽向nature正式提交新冠病毒源头补充材料](https://mp.weixin.qq.com/s/9cJQTOpJR5fHkRocgvTl2g)
 - [Addendum: A pneumonia outbreak associated with a new coronavirus of probable bat origin](https://www.nature.com/articles/s41586-020-2951-z)
+- [【观点】纽约时报：消毒、洗手不能遏制新冠疫情蔓延，因为室内气溶胶传播才是主因](https://mp.weixin.qq.com/s/Xxxr7LbJrtEbBNTH0jLPug)
+- [The Coronavirus Is Airborne Indoors. Why Are We Still Scrubbing Surfaces?](https://www.nytimes.com/2020/11/18/world/asia/covid-cleaning.html)
+- [Nat Med：新冠病毒感染康复阶段的免疫记忆如何形成的？](https://mp.weixin.qq.com/s/uxLGkitcLXRkmpqwNbiJww)
+- [Isabel Schulien et al, Characterization of pre-existing and induced SARS-CoV-2-specific CD8+ T cells](https://www.nature.com/articles/s41591-020-01143-2)
+- [全国首例新型冠状病毒假病毒核酸标准物质研制成功](https://mp.weixin.qq.com/s/Xgl5dB8xUV0Z9B1uRCnj1Q)

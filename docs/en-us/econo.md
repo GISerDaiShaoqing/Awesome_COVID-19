@@ -584,3 +584,4 @@
 - [国际资讯 | [欧]疫情对欧洲铁路客运的影响/“意大利城市品牌2020”政府项目招标(2020.11)](https://mp.weixin.qq.com/s/bWifhWl-3hsa4MdXn4BdNw)
 - [柴彦威：面向疫情精准防控的时空间行为地理学研究丨城市数据派](https://mp.weixin.qq.com/s/_aLWIMEi8mCRpNDDl-u7QQ)
 - [BMW卓越城市｜武汉父子：疫情下的自救、相知与创业](https://mp.weixin.qq.com/s/SUJZDfzSrunKhf1jwIdBVg)
+- [国际资讯 | [法]社会住房存量分析/数据显示疫情改变法国人的出行习惯(2020.11-2)](https://mp.weixin.qq.com/s/q86rYVsQEP73QCm7LkjtFQ)

@@ -298,3 +298,7 @@
 - [活动报名 | 第四届全荷青年学者峰会暨人才论坛报名开始啦！](https://mp.weixin.qq.com/s/m3elu--KB2bzgH4ApeZ0jg)
 - [《柳叶刀》总编Dr Richard Horton邀请您参加这场国际对话！](https://mp.weixin.qq.com/s/6G-xmHuZjNMe3yNEpo29pQ)
 - [《柳叶刀》总编Dr Richard Horton邀请您参加这场国际对话！](https://mp.weixin.qq.com/s/xc9E8KP7xspzK_YKkF4jPw)
+- [倒计时最后一天！医院管理者国际研讨会-中国专场二:新常态下医院医疗质量与患者安全的保障（由新冠疫情带来的思考）](https://mp.weixin.qq.com/s/buHOyo5_kgBS3zyc1o9LiA)
+- [第二届细胞科学北京学术会议成功闭幕 | 全球顶尖科学家共话新冠科研最新进展](https://mp.weixin.qq.com/s/5tmwXByEBRmtEdgHuZphXQ)
+- [嘉宾发表文章重点回顾 | 2020柳叶刀-中国医学科学院医学与健康大会](https://mp.weixin.qq.com/s/n8X0qWG_V4a4wXaiCrXVbQ)
+- [活动预告 | 此间沙龙002期：疫情间的艺术](https://mp.weixin.qq.com/s/WIbzC-98-fH8eauMumaghQ)
