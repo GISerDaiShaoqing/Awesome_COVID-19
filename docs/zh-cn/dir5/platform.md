@@ -136,3 +136,4 @@
 - [JUST技术：基于轨迹的新冠易感人群查询方案](https://mp.weixin.qq.com/s/tjeHoz-TH2_bWQBrwdZ6WQ)
 - [EfficientSuspected Infected Crowds Detection Based on Spatio-Temporal Trajectories](https://arxiv.org/abs/2004.06653)
 - [Getting Started with Create React App](https://github.com/nofurtherinformation/covid-country)
+- [covid-green-app](https://github.com/covidgreen/covid-green-app)
