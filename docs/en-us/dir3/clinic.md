@@ -1015,3 +1015,5 @@
 - [疫苗捷报连连 高福：相信我，中国疫苗也非常有效](https://mp.weixin.qq.com/s/_CLndAPJu7T8T3srVOwS2Q)
 - [重大研究发现！mRNA疫苗 vs 重组蛋白疫苗，哪种疫苗更胜一筹？​](https://mp.weixin.qq.com/s/457_ZbhCkwmc1YAKHz9hcQ)
 - [SARS-CoV-2 mRNA vaccines foster potent antigen-specific germinal center responses associated with neutralizing antibody generatio](https://www.cell.com/immunity/pdf/S1074-7613(20)30496-9.pdf)
+- [嗅觉失灵意味着什么？马上了解！](https://mp.weixin.qq.com/s/XD0kyAbQ57xvyMQc0ffCuA)
+- [Sixty seconds on . . . parosmia](https://www.bmj.com/content/371/bmj.m4332 )

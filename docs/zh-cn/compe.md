@@ -22,3 +22,4 @@
 - [展示（一）—— 第四届“城垣杯·规划决策支持模型设计大赛”获奖作品](https://mp.weixin.qq.com/s/iEQ5RaBNXQ6_8FAZRd3V7g)
 - [展示（八）—— 第四届“城垣杯·规划决策支持模型设计大赛”获奖作品](https://mp.weixin.qq.com/s/Lebg2dFCLhARz5YeH7C0Og)
 - [展示（十六）—— 第四届“城垣杯·规划决策支持模型设计大赛”获奖作品](https://mp.weixin.qq.com/s/1O7Ksa9y-ckzMDbpr0YKdw)
+- [开发竞赛特等奖作品：突发急性传染病多尺度智能监测预警系统](https://mp.weixin.qq.com/s/gwVD4FB7ZXjpM4V851TtAg)

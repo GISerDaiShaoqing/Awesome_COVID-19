@@ -658,3 +658,8 @@
 - [Nat Med：新冠病毒感染康复阶段的免疫记忆如何形成的？](https://mp.weixin.qq.com/s/uxLGkitcLXRkmpqwNbiJww)
 - [Isabel Schulien et al, Characterization of pre-existing and induced SARS-CoV-2-specific CD8+ T cells](https://www.nature.com/articles/s41591-020-01143-2)
 - [全国首例新型冠状病毒假病毒核酸标准物质研制成功](https://mp.weixin.qq.com/s/Xgl5dB8xUV0Z9B1uRCnj1Q)
+- [谁是新冠病毒真正的“祖先”？| 首次在中国以外发现新冠病毒近亲](https://mp.weixin.qq.com/s/eEH9KMyetYvEufzsU0_1UQ)
+- [Coronaviruses closely related to the pandemic virus discovered in Japan and Cambodia](https://www.nature.com/articles/d41586-020-03217-0?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03217-0)
+- [CRPS：SARS-CoV-2超高灵敏度检测新技术 | Cell Press论文速递](https://mp.weixin.qq.com/s/8NWuBke-9GrMeMgyObBFnA)
+- [Ultrasensitive and Selective Detection of SARS-CoV-2 using Thermotropic Liquid Crystals and Image-based Machine Learning](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(20)30298-8)
+- [Nature：在日本和柬埔寨发现与新冠病毒密切相关的冠状病毒](https://mp.weixin.qq.com/s/yPmCZHFK5bfzJLtNBORrJQ)

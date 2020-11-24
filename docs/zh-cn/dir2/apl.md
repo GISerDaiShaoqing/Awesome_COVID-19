@@ -1151,3 +1151,6 @@
 - [11 月 22 日我国内地新增确诊病例 11 例，其中本土病例 2 例（均在上海）｜科研圈日报](https://mp.weixin.qq.com/s/OjVa6b8wPG0fFaPpUo4hyA)
 - [Nature 一周论文导读 | 2020年11月12日](https://mp.weixin.qq.com/s/5s85SNESdPMpuX-BYkdXKA)
 - [Science 一周论文导读 | 2020年11月13日](https://mp.weixin.qq.com/s/RUwHzraWtlZssJg4M3PDzg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月23日）【中国科讯】](https://mp.weixin.qq.com/s/NwLTE7OISmagQWzwqh_HSg)
+- [牛津新冠疫苗临床中期结果出炉，平均有效性 70% | 科研圈日报](https://mp.weixin.qq.com/s/avi_H9XgXcVL6Eg5upKHmg)
+- [青山不改绿水长流 | One Earth 11月刊论文精选](https://mp.weixin.qq.com/s/A6akblBXHrpMVD0B9tR7kQ)
