@@ -364,3 +364,4 @@
 - [Lancet子刊：黑人和亚裔感染新冠病毒的可能性是白人的两倍](https://mp.weixin.qq.com/s/3GRe4JYroA4UXGI6Vayh3Q)
 - [Ethnicity and clinical outcomes in COVID-19: A systematic review and meta-analysis](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30374-6/fulltext)
 - [People of Black and Asian ethnicity up to twice as likely to be infected with COVID-19 as those of White ethnicity](https://www.eurekalert.org/pub_releases/2020-11/nifh-pob110920.php)
+- [Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race](https://www.medrxiv.org/content/10.1101/2020.10.04.20206763v1)

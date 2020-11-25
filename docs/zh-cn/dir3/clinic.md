@@ -1017,3 +1017,7 @@
 - [SARS-CoV-2 mRNA vaccines foster potent antigen-specific germinal center responses associated with neutralizing antibody generatio](https://www.cell.com/immunity/pdf/S1074-7613(20)30496-9.pdf)
 - [嗅觉失灵意味着什么？马上了解！](https://mp.weixin.qq.com/s/XD0kyAbQ57xvyMQc0ffCuA)
 - [Sixty seconds on . . . parosmia](https://www.bmj.com/content/371/bmj.m4332 )
+- [SARS-CoV-2感染和症状发作后的血清学特征](https://mp.weixin.qq.com/s/Mfjb1dioq5Z_l1nbjQOynQ)
+- [Serology characteristics of SARS-CoV-2 infection after exposure and post-symptom onset](https://erj.ersjournals.com/content/56/2/2000763?ctkey=wechat)
+- [The BMJ：新研究表明恢复期血浆在减少新冠肺炎死亡率或进展为重症方面未反映出有效性](https://mp.weixin.qq.com/s/fZeWwXZvyQLNAtKQy6h7vw)
+- [Convalescent plasma in the management of moderate covid-19 in adults in India: open label phase II multicentre randomised controlled trial (PLACID Trial)](https://www.bmj.com/content/371/bmj.m3939)

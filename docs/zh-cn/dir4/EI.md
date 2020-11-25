@@ -98,3 +98,5 @@
 - [Ranking the effectiveness of worldwide COVID-19 government interventions](https://www.nature.com/articles/s41562-020-01009-0)
 - [Partisan differences in physical distancing are linked to health outcomes during the COVID-19 pandemic](https://www.nature.com/articles/s41562-020-00977-7)
 - [Differential impact of non-pharmaceutical public health interventions on COVID-19 epidemics in the United States](https://assets.researchsquare.com/files/rs-60056/v2_stamped.pdf)
+- [Science | 复旦大学余宏杰课题组在新冠肺炎的传播动力学与非药物性干预措施效果领域取得重要进展](https://mp.weixin.qq.com/s/fx-omnRkaXkHD0iumO5-LA)
+- [Transmission heterogeneities, kinetics, and controllability of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/11/23/science.abe2424)

@@ -1154,3 +1154,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月23日）【中国科讯】](https://mp.weixin.qq.com/s/NwLTE7OISmagQWzwqh_HSg)
 - [牛津新冠疫苗临床中期结果出炉，平均有效性 70% | 科研圈日报](https://mp.weixin.qq.com/s/avi_H9XgXcVL6Eg5upKHmg)
 - [青山不改绿水长流 | One Earth 11月刊论文精选](https://mp.weixin.qq.com/s/A6akblBXHrpMVD0B9tR7kQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月24日）【中国科讯】](https://mp.weixin.qq.com/s/HRFlNB-2XAY-YDAh7E4zPw)
+- [如何科学传播新冠疫情防护与消毒知识？答案在这里](https://mp.weixin.qq.com/s/ZK9RWyfDfs2rhE7YRj3W-A)
+- [俄罗斯公布其新冠疫苗 Sputnik V 第二次中期数据，有效性达 91.4% | 科研圈日报](https://mp.weixin.qq.com/s/WE4U3jPZn28PvbZmAqY1_Q)
+- [24小时热门｜“社交隔离”带来的难受，和饿肚子一样](https://mp.weixin.qq.com/s/L3VESqJITnH3S7gsJOl18A)
