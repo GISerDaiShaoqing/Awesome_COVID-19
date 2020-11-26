@@ -1158,3 +1158,6 @@
 - [如何科学传播新冠疫情防护与消毒知识？答案在这里](https://mp.weixin.qq.com/s/ZK9RWyfDfs2rhE7YRj3W-A)
 - [俄罗斯公布其新冠疫苗 Sputnik V 第二次中期数据，有效性达 91.4% | 科研圈日报](https://mp.weixin.qq.com/s/WE4U3jPZn28PvbZmAqY1_Q)
 - [24小时热门｜“社交隔离”带来的难受，和饿肚子一样](https://mp.weixin.qq.com/s/L3VESqJITnH3S7gsJOl18A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月25日）【中国科讯】](https://mp.weixin.qq.com/s/Q4OMIg3TI4Fzxf8a25IX7A)
+- [老百姓如何做好冬季新冠肺炎疫情防护？](https://mp.weixin.qq.com/s/4ygqXFbBgi2FwTBkIu5PNQ)
+- [11 月 25 日我国内地新增确诊病例 21 例，其中本土病例 9 例（均在内蒙古）｜科研圈日报](https://mp.weixin.qq.com/s/JtCFlyhxl1gWMHVmIOD4iA)

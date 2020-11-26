@@ -664,3 +664,4 @@
 - [Ultrasensitive and Selective Detection of SARS-CoV-2 using Thermotropic Liquid Crystals and Image-based Machine Learning](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(20)30298-8)
 - [Nature：在日本和柬埔寨发现与新冠病毒密切相关的冠状病毒](https://mp.weixin.qq.com/s/yPmCZHFK5bfzJLtNBORrJQ)
 - [清华饶子和/娄智勇团队阐明新冠病毒mRNA的形成机制 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/pyBTh3A5_E_w6e2hSNV_fw)
+- [Distinct regimes of particle and virus abundance explain face mask efficacy for COVID-19](https://www.medrxiv.org/content/10.1101/2020.09.10.20190348v1)

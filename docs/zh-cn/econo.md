@@ -588,3 +588,4 @@
 - [后疫情时代，新兴的消费级互联网公司如何抓住机会？——引入一个注意力框架](https://mp.weixin.qq.com/s/HmkXJHsXY5qe5PmBXG-m3w)
 - [非洲小国如何说服公民积极防疫？ | 政见CNPolitics](https://mp.weixin.qq.com/s/1WGTOgcRO-YzWNKC--Aisw)
 - [BMW卓越城市｜叶青：疫情后重生的武汉，留下哪些经验](https://mp.weixin.qq.com/s/Dp-k5BWnGUqnDmjMIF4UKw)
+- [6000万！新冠元年的普通人，该如何生活下去](https://mp.weixin.qq.com/s/Yme_IWybMvoz6BaretLhKQ)

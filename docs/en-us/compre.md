@@ -1332,3 +1332,8 @@
 - [Artificial intelligence in COVID-19 drug repurposing](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30192-8/fulltext)
 - [因疫情丢掉近100亿经费，欧洲学者可能要到中国搞科研了](https://mp.weixin.qq.com/s/hGL4ieOyOnk-51GV9-udbA)
 - [疫情下的家庭——COVID下荷兰性别（不）平等调查（COGIS-NL）的一些研究结果](https://mp.weixin.qq.com/s/H-kALLTsANPUOhxwW3H1yg)
+- [利用培养系统模拟新冠病毒肺部感染 |《自然》论文](https://mp.weixin.qq.com/s/AjgLCr_rd7MJ_eWgjG6IFw)
+- [Progenitor identification and SARS-CoV-2 infection in human distal lung organoids](https://www.nature.com/articles/s41586-020-3014-1)
+- [华大基因尹烨：新冠疫情其实是生命科学的“文艺复兴”](https://mp.weixin.qq.com/s/1HgIHoZJHuV7diJ4aHwNKw)
+- [Early Warning for a Potential Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3679991)
+- [Air Quality Response in China Linked to the 2019 Novel Coronavirus (COVID‐19) Lockdown](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089252)
