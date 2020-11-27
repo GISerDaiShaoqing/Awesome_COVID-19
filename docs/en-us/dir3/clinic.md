@@ -1027,3 +1027,6 @@
 - [Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30843-4/fulltext)
 - [新英格兰医学杂志重磅：康复者血浆治疗对改善新冠患者预后没有帮助](https://mp.weixin.qq.com/s/1XW9nJ4q56wub6vMuDOc-w)
 - [A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2031304)
+- [新冠病毒感染和胆固醇之间的关联提示新冠肺炎疗法的新可能 |《自然-代谢》论文](https://mp.weixin.qq.com/s/nQn5-kwsxLJsJLzihDR4KQ)
+- [HDL-scavenger receptor B type 1 facilitates SARS-CoV-2 entry](https://www.nature.com/articles/s42255-020-00324-0)
+- [北大首次发现母乳可有效阻断新冠病毒感染](https://mp.weixin.qq.com/s/lqElnffYepMCrpvJhB0_eA)

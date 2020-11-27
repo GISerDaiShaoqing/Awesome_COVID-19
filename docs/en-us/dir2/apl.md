@@ -1161,3 +1161,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月25日）【中国科讯】](https://mp.weixin.qq.com/s/Q4OMIg3TI4Fzxf8a25IX7A)
 - [老百姓如何做好冬季新冠肺炎疫情防护？](https://mp.weixin.qq.com/s/4ygqXFbBgi2FwTBkIu5PNQ)
 - [11 月 25 日我国内地新增确诊病例 21 例，其中本土病例 9 例（均在内蒙古）｜科研圈日报](https://mp.weixin.qq.com/s/JtCFlyhxl1gWMHVmIOD4iA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月26日）【中国科讯】](https://mp.weixin.qq.com/s/Y9KBXd0_VA9BvgxZ6GTklw)
+- [阿斯利康疫苗数据遭质疑，制造商称仍需“进一步研究” | 科研圈日报](https://mp.weixin.qq.com/s/1ECLox3Te2FPcCr296qrZg)
