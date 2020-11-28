@@ -1163,3 +1163,6 @@
 - [11 月 25 日我国内地新增确诊病例 21 例，其中本土病例 9 例（均在内蒙古）｜科研圈日报](https://mp.weixin.qq.com/s/JtCFlyhxl1gWMHVmIOD4iA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月26日）【中国科讯】](https://mp.weixin.qq.com/s/Y9KBXd0_VA9BvgxZ6GTklw)
 - [阿斯利康疫苗数据遭质疑，制造商称仍需“进一步研究” | 科研圈日报](https://mp.weixin.qq.com/s/1ECLox3Te2FPcCr296qrZg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月27日）【中国科讯】](https://mp.weixin.qq.com/s/nDQpYB60svf7eL0v8xaCXw)
+- [高福最新判断：欧美疫情是海啸，中国是波](https://mp.weixin.qq.com/s/Q4ecD2Xal8p2raXH6kWKjQ)
+- [世卫公布新冠病毒溯源专家组名单！无华人科学家进入](https://mp.weixin.qq.com/s/XB5wzeL5YxuY1VFfEckBlA)

@@ -593,3 +593,4 @@
 - [新冠元年的普通人①｜马哥：不“方便”但可持续的时令便当](https://mp.weixin.qq.com/s/d2rtaIizIrS_sQDeocOcUA)
 - [新冠元年的普通人②｜堆肥达人：通过微生物获得慰藉和快乐](https://mp.weixin.qq.com/s/ldzf63VJPsczJGNvDuFkiA)
 - [新冠元年的普通人③｜楠妈：失业妈妈重启社区连结](https://mp.weixin.qq.com/s/cExm6u20eXGKhfhNToN__g)
+- [从退市到疫情下逆势增长，一代「鞋王」如何用数字化实现大象转身？](https://mp.weixin.qq.com/s/dAcswK5O3V0S4YieYzRQrA)

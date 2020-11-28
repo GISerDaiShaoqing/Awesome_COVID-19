@@ -367,3 +367,5 @@
 - [Intra-county modeling of COVID-19 infection with human mobility: assessing spatial heterogeneity with business traffic, age and race](https://www.medrxiv.org/content/10.1101/2020.10.04.20206763v1)
 - [美疾控中心模型显示：全美实际感染新冠人数或接近1亿](https://mp.weixin.qq.com/s/9s58vHWEDVpojHc1y_Prmw)
 - [Government Model Suggests U.S. COVID-19 Cases Could Be Approaching 100 Million](https://www.npr.org/sections/coronavirus-live-updates/2020/11/26/939365087/government-model-suggests-u-s-covid-19-cases-could-be-approaching-100-million?t=1606512607837)
+- [Nature：新冠流行难预测，超级计算机和气象学家来帮忙](https://mp.weixin.qq.com/s/9iYKwXbxS7jkSVuGq5003w)
+- [Model uncertainty and decision making: Predicting the Impact of COVID-19 Using the CovidSim Epidemiological Code](https://www.researchsquare.com/article/rs-82122/v3)

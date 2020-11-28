@@ -665,3 +665,7 @@
 - [Nature：在日本和柬埔寨发现与新冠病毒密切相关的冠状病毒](https://mp.weixin.qq.com/s/yPmCZHFK5bfzJLtNBORrJQ)
 - [清华饶子和/娄智勇团队阐明新冠病毒mRNA的形成机制 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/pyBTh3A5_E_w6e2hSNV_fw)
 - [Distinct regimes of particle and virus abundance explain face mask efficacy for COVID-19](https://www.medrxiv.org/content/10.1101/2020.09.10.20190348v1)
+- [狗狗真的可以嗅出新冠病毒吗？看看科学研究怎么说](https://mp.weixin.qq.com/s/GHaPBBTGyGmB-0UQ2P06cQ)
+- [Can dogs smell COVID? Here’s what the science says](https://www.nature.com/articles/d41586-020-03149-9?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03149-9)
+- [Nat Metab | 钟辉/曹源/陈薇/秦成峰等合作发现新冠病毒“劫持”HDL并通过SR-B1受体促进其感染](https://mp.weixin.qq.com/s/YoPls90RgdmEbvtTIIgOxg)
+- [HDL-scavenger receptor B type 1 facilitates SARS-CoV-2 entry](https://www.nature.com/articles/s42255-020-00324-0)

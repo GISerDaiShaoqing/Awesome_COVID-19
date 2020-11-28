@@ -1337,3 +1337,7 @@
 - [华大基因尹烨：新冠疫情其实是生命科学的“文艺复兴”](https://mp.weixin.qq.com/s/1HgIHoZJHuV7diJ4aHwNKw)
 - [Early Warning for a Potential Pandemic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3679991)
 - [Air Quality Response in China Linked to the 2019 Novel Coronavirus (COVID‐19) Lockdown](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089252)
+- [【观点】纽约时报：制药公司宣称的“疫苗95%有效”到底是什么意思？](https://mp.weixin.qq.com/s/znNBz2DJHcJUtrIYpeUTOg)
+- [2 Companies Say Their Vaccines Are 95% Effective. What Does That Mean?](https://www.nytimes.com/2020/11/20/health/covid-vaccine-95-effective.html)
+- [对抗病毒，人类不光要解决“卡脖子”问题，还要解决“卡脑子”问题](https://mp.weixin.qq.com/s/2zDgwH6vbn-wGdnyUfm1cA)
+- [Changes in China's anthropogenic emissions during the COVID-19 pandemic](https://essd.copernicus.org/preprints/essd-2020-355/)
