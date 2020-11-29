@@ -1341,3 +1341,5 @@
 - [2 Companies Say Their Vaccines Are 95% Effective. What Does That Mean?](https://www.nytimes.com/2020/11/20/health/covid-vaccine-95-effective.html)
 - [对抗病毒，人类不光要解决“卡脖子”问题，还要解决“卡脑子”问题](https://mp.weixin.qq.com/s/2zDgwH6vbn-wGdnyUfm1cA)
 - [Changes in China's anthropogenic emissions during the COVID-19 pandemic](https://essd.copernicus.org/preprints/essd-2020-355/)
+- [Nat. Comm.：武汉市全民核酸检测结果正式发表](https://mp.weixin.qq.com/s/clvxxxylynXpFawdK8zP2w)
+- [Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China](https://www.nature.com/articles/s41467-020-19802-w)

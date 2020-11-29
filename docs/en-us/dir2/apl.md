@@ -1166,3 +1166,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月27日）【中国科讯】](https://mp.weixin.qq.com/s/nDQpYB60svf7eL0v8xaCXw)
 - [高福最新判断：欧美疫情是海啸，中国是波](https://mp.weixin.qq.com/s/Q4ecD2Xal8p2raXH6kWKjQ)
 - [世卫公布新冠病毒溯源专家组名单！无华人科学家进入](https://mp.weixin.qq.com/s/XB5wzeL5YxuY1VFfEckBlA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月28日）【中国科讯】](https://mp.weixin.qq.com/s/Ly-aF0I3sSQR6BHOlwHyfg)
+- [新冠论坛嘉宾访谈 | 耶鲁大学陈希专访](https://mp.weixin.qq.com/s/zZnNdhXJAd_Ntuxm0r2K9Q)
+- [因疫情丢掉近100亿经费，欧洲学者可能要到中国搞科研了｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/-VyWr6hVijlJf9Q0vsQV0g)
