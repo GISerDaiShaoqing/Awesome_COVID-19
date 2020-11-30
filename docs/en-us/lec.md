@@ -306,3 +306,4 @@
 - [新冠疫苗最新进展 | 霍普金斯沙龙 2020 IX](https://mp.weixin.qq.com/s/TG4si4-M--WwE5XhpV5h0g)
 - [倒计时4小时，亮点抢先看 | 2020柳叶刀-中国医学科学院医学与健康大会马上开始！](https://mp.weixin.qq.com/s/cYMxG2C99M-Wq3AcLyGReQ)
 - [聚焦新冠 | 加强全球团结，基于科学证据共同抗疫](https://mp.weixin.qq.com/s/-vAZFvkymHvKfHINVU5uOg)
+- [三学者激辩：传染病与人长期共存｜腾云峰会文字实录](https://mp.weixin.qq.com/s/rsqJj_CZa2hYS9DPqz0eEQ)

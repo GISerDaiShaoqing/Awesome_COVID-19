@@ -369,3 +369,4 @@
 - [Government Model Suggests U.S. COVID-19 Cases Could Be Approaching 100 Million](https://www.npr.org/sections/coronavirus-live-updates/2020/11/26/939365087/government-model-suggests-u-s-covid-19-cases-could-be-approaching-100-million?t=1606512607837)
 - [Nature：新冠流行难预测，超级计算机和气象学家来帮忙](https://mp.weixin.qq.com/s/9iYKwXbxS7jkSVuGq5003w)
 - [Model uncertainty and decision making: Predicting the Impact of COVID-19 Using the CovidSim Epidemiological Code](https://www.researchsquare.com/article/rs-82122/v3)
+- [Characteristics, outcomes, and mortality amongst 133,589 patients with prevalent autoimmune diseases diagnosed with, and 48,418 hospitalised for COVID-19: a multinational distributed network cohort analysis](https://www.medrxiv.org/content/10.1101/2020.11.24.20236802v1)

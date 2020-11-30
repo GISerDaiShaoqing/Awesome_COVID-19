@@ -1169,3 +1169,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月28日）【中国科讯】](https://mp.weixin.qq.com/s/Ly-aF0I3sSQR6BHOlwHyfg)
 - [新冠论坛嘉宾访谈 | 耶鲁大学陈希专访](https://mp.weixin.qq.com/s/zZnNdhXJAd_Ntuxm0r2K9Q)
 - [因疫情丢掉近100亿经费，欧洲学者可能要到中国搞科研了｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/-VyWr6hVijlJf9Q0vsQV0g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月29日）【中国科讯】](https://mp.weixin.qq.com/s/RxcsHZAMhQft4Gwdu2Xrqw)
+- [英国 NHS 系统再出错，1311 人被误诊为新冠阳性｜科研圈日报](https://mp.weixin.qq.com/s/S3y3TRLsvOGGrRRPaCNnHw)
+- [Science 一周论文导读 | 2020年11月20日](https://mp.weixin.qq.com/s/-Sg2jEv-hKRtaQlheKDRmA)

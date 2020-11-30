@@ -1030,3 +1030,6 @@
 - [新冠病毒感染和胆固醇之间的关联提示新冠肺炎疗法的新可能 |《自然-代谢》论文](https://mp.weixin.qq.com/s/nQn5-kwsxLJsJLzihDR4KQ)
 - [HDL-scavenger receptor B type 1 facilitates SARS-CoV-2 entry](https://www.nature.com/articles/s42255-020-00324-0)
 - [北大首次发现母乳可有效阻断新冠病毒感染](https://mp.weixin.qq.com/s/lqElnffYepMCrpvJhB0_eA)
+- [牛津新冠疫苗2期临床试验：在健康老年人群中安全且能够诱导免疫应答](https://mp.weixin.qq.com/s/jvORNQY3leMqyJuEQ1VFOw)
+- [Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32466-1/fulltext)
+- [Use of dialysis, tracheostomy, and extracorporeal membrane oxygenation among 240,392 patients hospitalized with COVID-19 in the United States](https://www.medrxiv.org/content/10.1101/2020.11.25.20229088v1.full-text)

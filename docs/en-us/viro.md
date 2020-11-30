@@ -669,3 +669,5 @@
 - [Can dogs smell COVID? Here’s what the science says](https://www.nature.com/articles/d41586-020-03149-9?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03149-9)
 - [Nat Metab | 钟辉/曹源/陈薇/秦成峰等合作发现新冠病毒“劫持”HDL并通过SR-B1受体促进其感染](https://mp.weixin.qq.com/s/YoPls90RgdmEbvtTIIgOxg)
 - [HDL-scavenger receptor B type 1 facilitates SARS-CoV-2 entry](https://www.nature.com/articles/s42255-020-00324-0)
+- [轻度COVID-19后体内新冠病毒免疫记忆持续 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/nwgKfrKNtOuwFohG05Pyqg)
+- [Functional SARS-CoV-2-specific immune memory persists after mild COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31565-8)
