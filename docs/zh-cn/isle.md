@@ -23,5 +23,7 @@
 - [Impacts of COVID-19 lockdown on diet patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.sciencedirect.com/science/article/pii/S0195666320316378?via%3Dihub)
 - [Early warning of epidemics: towards a national intelligent syndromic surveillance system (NISSS) in China](https://gh.bmj.com/content/5/10/e002925.full)
 - [更好地为未来疾病暴发做好准备的智能系统](https://mp.weixin.qq.com/s/sAiokc38_xT2J8D8B6zf5g)
+- [Impact of obesity on COVID-19 patients](https://www.sciencedirect.com/science/article/pii/S1056872720306115)
+- [Telemedicine: a promising approach for diabetes management - where is the evidence](https://www.sciencedirect.com/science/article/pii/S1056872720305961)
 
 ![](/img/ISLEwechat.jpg)

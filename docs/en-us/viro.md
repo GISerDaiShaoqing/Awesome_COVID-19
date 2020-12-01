@@ -671,3 +671,4 @@
 - [HDL-scavenger receptor B type 1 facilitates SARS-CoV-2 entry](https://www.nature.com/articles/s42255-020-00324-0)
 - [轻度COVID-19后体内新冠病毒免疫记忆持续 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/nwgKfrKNtOuwFohG05Pyqg)
 - [Functional SARS-CoV-2-specific immune memory persists after mild COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31565-8)
+- [中美团队提出新冠溯源新方法！病毒源头在印度次大陆](https://mp.weixin.qq.com/s/Rq3hT8Sxh_rCmHI4QX_n2g)

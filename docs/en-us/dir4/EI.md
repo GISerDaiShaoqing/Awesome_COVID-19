@@ -100,3 +100,6 @@
 - [Differential impact of non-pharmaceutical public health interventions on COVID-19 epidemics in the United States](https://assets.researchsquare.com/files/rs-60056/v2_stamped.pdf)
 - [Science | 复旦大学余宏杰课题组在新冠肺炎的传播动力学与非药物性干预措施效果领域取得重要进展](https://mp.weixin.qq.com/s/fx-omnRkaXkHD0iumO5-LA)
 - [Transmission heterogeneities, kinetics, and controllability of SARS-CoV-2](https://science.sciencemag.org/content/early/2020/11/23/science.abe2424)
+- [4篇Nature Medicine | 重庆医科大学黄爱龙等团队首次揭示重庆市万州区控制新冠传播的措施](https://mp.weixin.qq.com/s/NDfoGJDRJEtxv14P1EqnkA)
+- [Effective control of SARS-CoV-2 transmission in Wanzhou, China](https://www.nature.com/articles/s41591-020-01178-5)
+- [The Coupled Impact of Emergency Responses and Population Flows on the COVID‐19 Pandemic in China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GH000332)

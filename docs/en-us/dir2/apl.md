@@ -1172,3 +1172,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（11月29日）【中国科讯】](https://mp.weixin.qq.com/s/RxcsHZAMhQft4Gwdu2Xrqw)
 - [英国 NHS 系统再出错，1311 人被误诊为新冠阳性｜科研圈日报](https://mp.weixin.qq.com/s/S3y3TRLsvOGGrRRPaCNnHw)
 - [Science 一周论文导读 | 2020年11月20日](https://mp.weixin.qq.com/s/-Sg2jEv-hKRtaQlheKDRmA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（11月30日）【中国科讯】](https://mp.weixin.qq.com/s/F0nkE87nd5N3bJtY7deD_g)
+- [世卫警告抗疟疾无进步，病亡人数或因新冠攀升｜科研圈日报](https://mp.weixin.qq.com/s/Nu0mMdZ_JNrKRRgBFeBuQg)
