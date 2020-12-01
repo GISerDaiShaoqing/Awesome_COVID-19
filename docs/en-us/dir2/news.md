@@ -4846,3 +4846,4 @@
 - [荷保安员组织称实施口罩罚款起码需一两个星期，但警察可以！](https://mp.weixin.qq.com/s/9ofUEzb041c_1i-SRgwYrA)
 - [关于荷兰戴口罩义务的七问七答](https://mp.weixin.qq.com/s/cmHt2BwXvZPACp0ZY6RKqg)
 - [荷兰感染和住院数字下降，传染系数R上升；戴口罩有用吗？](https://mp.weixin.qq.com/s/gL7Cl8cal1YN-BOfIZb1lw)
+- [防疫资讯 | 今日起，荷兰更多场所开始实施强制戴口罩的相关规定，违者将罚款](https://mp.weixin.qq.com/s/hnQ8_xPTZtiu2s05VcsfiA)
