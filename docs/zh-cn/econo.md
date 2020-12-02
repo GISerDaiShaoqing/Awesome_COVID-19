@@ -595,3 +595,5 @@
 - [新冠元年的普通人③｜楠妈：失业妈妈重启社区连结](https://mp.weixin.qq.com/s/cExm6u20eXGKhfhNToN__g)
 - [从退市到疫情下逆势增长，一代「鞋王」如何用数字化实现大象转身？](https://mp.weixin.qq.com/s/dAcswK5O3V0S4YieYzRQrA)
 - [全球城市观察︱新冠疫情下，柏林推进“冻结租金”计划](https://mp.weixin.qq.com/s/e9ymnUUInWk1eJao1TyN2g)
+- [【Open Access】我国医疗资源供给模式及策略研究——以重大突发公共卫生事件为背景](https://mp.weixin.qq.com/s/JWxGO1hcLViXLgizTfNgXg)
+- [【论文背后的故事】疫情思考：一个规划师关于疫情的反思小记](https://mp.weixin.qq.com/s/WsrtkT_yhrm3cduTV7Kfnw)

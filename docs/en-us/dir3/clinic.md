@@ -1040,3 +1040,5 @@
 - [SARS-CoV-2或通过鼻子进入大脑 |《自然-神经科学》论文](https://mp.weixin.qq.com/s/hOSe1lL2m0iqtshNpx7Yyw)
 - [Olfactory transmucosal SARS-CoV-2 invasion as a port of central nervous system entry in individuals with COVID-19](https://www.nature.com/articles/s41593-020-00758-5)
 - [Nat Neuro丨新冠病毒或通过鼻子进入大脑](https://mp.weixin.qq.com/s/oK0uG0cD-mYZe_RQdhYlUQ)
+- [去年12月美国有无新冠病毒感染？美国疾控中心研究引发争论](https://mp.weixin.qq.com/s/WNcltRCy8lnfFhrMbocgkA)
+- [Serologic testing of U.S. blood donations to identify SARS-CoV-2-reactive antibodies](https://doi.org/10.1093/cid/ciaa1785)

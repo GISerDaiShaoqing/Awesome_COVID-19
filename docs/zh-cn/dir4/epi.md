@@ -371,3 +371,4 @@
 - [Model uncertainty and decision making: Predicting the Impact of COVID-19 Using the CovidSim Epidemiological Code](https://www.researchsquare.com/article/rs-82122/v3)
 - [Characteristics, outcomes, and mortality amongst 133,589 patients with prevalent autoimmune diseases diagnosed with, and 48,418 hospitalised for COVID-19: a multinational distributed network cohort analysis](https://www.medrxiv.org/content/10.1101/2020.11.24.20236802v1)
 - [The evidence of indirect transmission of SARS-CoV-2 reported in Guangzhou, China](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-09296-y)
+- [Big data assimilation to improve the predictability of COVID-19](https://www.researchgate.net/publication/346565446_Big_data_assimilation_to_improve_the_predictability_of_COVID-19)

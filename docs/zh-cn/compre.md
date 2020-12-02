@@ -1355,3 +1355,5 @@
 - [Comparison of severity scores for COVID-19 patients with pneumonia: a retrospective study](https://erj.ersjournals.com/content/56/3/2002113?ctkey=wechat)
 - [Impact of obesity on COVID-19 patients](https://www.sciencedirect.com/science/article/pii/S1056872720306115)
 - [Telemedicine: a promising approach for diabetes management - where is the evidence](https://www.sciencedirect.com/science/article/pii/S1056872720305961)
+- [抵抗新冠需要使用抗生素么？我们与抗生素耐药性专家谈了谈 | BMC Journal](https://mp.weixin.qq.com/s/ggDH3O27D2P2bP56_jT6rQ)
+- [COVID-19背景下的新教育模式：化工实用技术的远程教学](https://mp.weixin.qq.com/s/_q2bZ0Rp9qqqCIdAcr41NA)

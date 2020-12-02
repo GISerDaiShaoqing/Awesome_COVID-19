@@ -226,3 +226,4 @@
 - [【图说】比一比，新冠病毒有多小？](https://mp.weixin.qq.com/s/xHpIVs7bWqirdDun_h7S0g)
 - [This is how coronavirus compares to the world's smallest particles](https://www.weforum.org/agenda/2020/10/covid-19-coronavirus-disease-size-compairson-zika-health-air-pollution)
 - [【快讯】约翰·霍普金斯疫情地图遴选为2020百大发明 | 时代周刊](https://mp.weixin.qq.com/s/Ci6TAXF0cQEWFYMavYQI7Q)
+- [五分钟看完新冠：从0到6000万！](https://mp.weixin.qq.com/s/j1aFc15IbPRgnTlp6Y23pw)

@@ -672,3 +672,7 @@
 - [轻度COVID-19后体内新冠病毒免疫记忆持续 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/nwgKfrKNtOuwFohG05Pyqg)
 - [Functional SARS-CoV-2-specific immune memory persists after mild COVID-19](https://www.cell.com/cell/fulltext/S0092-8674(20)31565-8)
 - [中美团队提出新冠溯源新方法！病毒源头在印度次大陆](https://mp.weixin.qq.com/s/Rq3hT8Sxh_rCmHI4QX_n2g)
+- [柳叶刀-微生物 | COVID-19患者的传染性在早期达到高峰，迅速隔离病例是关键](https://mp.weixin.qq.com/s/-mertpyvNQaIs48nYagchA)
+- [SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics, duration of viral shedding, and infectiousness: a systematic review and meta-analysis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30172-5/fulltext)
+- [2期研究表明抗SARS-CoV-2单抗加速病毒清除](https://mp.weixin.qq.com/s/zLCF_ch6RfwTxEy_Q3noFA)
+- [Monoclonal Antibody Against SARS-CoV-2](https://www.nejmqianyan.cn/article/yxqy-jw.NA52751?jw=112620)
