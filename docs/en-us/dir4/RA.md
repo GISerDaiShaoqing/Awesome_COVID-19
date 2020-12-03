@@ -52,3 +52,4 @@
 - [Nature：构建疫情中的人类移动网络，哪里最需要严防死守？](https://mp.weixin.qq.com/s/AH8hhQUnP0c-3YLIWMNuig)
 - [基于主体的COVID-19模型：大量小规模集会，好过少量大规模集会](https://mp.weixin.qq.com/s/fP7L5eD1yAhXYdbJp9k8xg)
 - [An Agent-Based Model of COVID-19](https://www.complex-systems.com/abstracts/v29_i01_a05/)
+- [Risk assessment of the step-by-step return-to-work policy in Beijing following the COVID-19 epidemic peak](https://link.springer.com/article/10.1007/s00477-020-01929-3)

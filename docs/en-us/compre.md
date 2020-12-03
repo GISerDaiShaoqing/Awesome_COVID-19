@@ -1357,3 +1357,8 @@
 - [Telemedicine: a promising approach for diabetes management - where is the evidence](https://www.sciencedirect.com/science/article/pii/S1056872720305961)
 - [抵抗新冠需要使用抗生素么？我们与抗生素耐药性专家谈了谈 | BMC Journal](https://mp.weixin.qq.com/s/ggDH3O27D2P2bP56_jT6rQ)
 - [COVID-19背景下的新教育模式：化工实用技术的远程教学](https://mp.weixin.qq.com/s/_q2bZ0Rp9qqqCIdAcr41NA)
+- [COVID-19 特刊：新冠疫情期间超大城市大气黑碳浓度的响应和来源研究](https://mp.weixin.qq.com/s/LBcR1qr-nmqncYsdBuXOTQ)
+- [Variation in Concentration and Sources of Black Carbon in a Megacity of China During the COVID‐19 Pandemic](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090444)
+- [高福李中杰柳叶刀发文：中国社区防控成功消灭天花、遏制新冠](https://mp.weixin.qq.com/s/CI-7cL_H4PRv1fzv2zcwtg)
+- [Strengthening public health at the community-level in China](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30266-8/fulltext)
+- [Physical Activity, Screen Time, and Mood Disturbance Among Chinese Adolescents During COVID-19](https://www.healio.com/psychiatry/journals/jpn/%7Bc4671611-82fb-40d7-a8a6-d324a9ba097c%7D/physical-activity-screen-time-and-mood-disturbance-among-chinese-adolescents-during-covid-19)

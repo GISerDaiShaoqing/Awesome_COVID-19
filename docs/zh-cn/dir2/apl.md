@@ -1179,3 +1179,5 @@
 - [重症有效率100%，美候选新冠疫苗将申请紧急授权](https://mp.weixin.qq.com/s/ArVtBhFxIFd9lIOoUKmqgQ)
 - [疫情间在荷华人受到什么影响？特文特大学博士发起调查研究：这里需要你的声音！](https://mp.weixin.qq.com/s/6UGiQXDxheJuMxLILnZr1g)
 - [12 月 1 日我国内地新增确诊病例 9 例，含本土病例 2 例（均在内蒙古） | 科研圈日报](https://mp.weixin.qq.com/s/Ry34CZ9RJ7c6x7JDWdrKRg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月2日）【中国科讯】](https://mp.weixin.qq.com/s/uHRGK4FRVz6Kz7oJQq2B0Q)
+- [12 月 2 日我国内地新增确诊病例 16 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/gOhuiR9dzeRGjIgQwK4U6w)
