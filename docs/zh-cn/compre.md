@@ -1362,3 +1362,4 @@
 - [高福李中杰柳叶刀发文：中国社区防控成功消灭天花、遏制新冠](https://mp.weixin.qq.com/s/CI-7cL_H4PRv1fzv2zcwtg)
 - [Strengthening public health at the community-level in China](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30266-8/fulltext)
 - [Physical Activity, Screen Time, and Mood Disturbance Among Chinese Adolescents During COVID-19](https://www.healio.com/psychiatry/journals/jpn/%7Bc4671611-82fb-40d7-a8a6-d324a9ba097c%7D/physical-activity-screen-time-and-mood-disturbance-among-chinese-adolescents-during-covid-19)
+- [Satellite-based estimates of decline and rebound in China’s CO2 emissions during COVID-19 pandemic](https://advances.sciencemag.org/content/6/49/eabd4998)
