@@ -676,3 +676,5 @@
 - [SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics, duration of viral shedding, and infectiousness: a systematic review and meta-analysis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30172-5/fulltext)
 - [2期研究表明抗SARS-CoV-2单抗加速病毒清除](https://mp.weixin.qq.com/s/zLCF_ch6RfwTxEy_Q3noFA)
 - [Monoclonal Antibody Against SARS-CoV-2](https://www.nejmqianyan.cn/article/yxqy-jw.NA52751?jw=112620)
+- [流感药物再利用可阻断雪貂的SARS-CoV-2传播 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/jM9UQ5_CWWl8Z_fL095KYQ)
+- [Therapeutically administered ribonucleoside analogue MK-4482/EIDD-2801 blocks SARS-CoV-2 transmission in ferrets](https://www.nature.com/articles/s41564-020-00835-2)

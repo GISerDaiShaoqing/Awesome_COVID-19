@@ -49,3 +49,5 @@
 - [作者采访 | 深度学习算法应用于COVID-19影像学诊断](https://mp.weixin.qq.com/s/5Og-hhy8_uqPDkDC4L-9NQ)
 - [Deep learning-based triage and analysis of lesion burden for COVID-19: a retrospective study with external validation](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30199-0/fulltext)
 - [雄起！振奋人心，广州医科大学连续发表6篇Cell，在胆道闭锁，新冠肺炎，结肠炎等领域取得重大突破](https://mp.weixin.qq.com/s/BLvnCgrHU0UoWhEseX1LAw)
+- [Automated detection and quantification of COVID-19 pneumonia: CT imaging analysis by a deep learning-based software](https://link.springer.com/article/10.1007/s00259-020-04953-1)
+- [AI和放射学精选合集 | Springer Journal](https://mp.weixin.qq.com/s/zA-Gjv56QgxO_CKP8Nd7nQ)

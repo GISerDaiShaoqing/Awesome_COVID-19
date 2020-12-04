@@ -1046,3 +1046,7 @@
 - [Rational Development of a Human Antibody Cocktail that Deploys Multiple Functions to Confer Pan-SARS-CoVs Protection](https://www.nature.com/articles/s41422-020-00444-y)
 - [Structure-based development of human antibody cocktails against SARS-CoV-2](https://www.nature.com/articles/s41422-020-00446-w)
 - [高福院士团队新冠病毒重组蛋白亚单位疫苗启动Ⅲ期临床试验](https://mp.weixin.qq.com/s/6HmIm0sMcQGk63lWhyCsAg)
+- [The BMJ: 研究显示年轻患者不一定能逃脱最严重的流行病](https://mp.weixin.qq.com/s/gEl-lhnLUO-BrnNNu7RCoA)
+- [Long covid: Damage to multiple organs presents in young, low risk patients](https://www.bmj.com/content/371/bmj.m4470)
+- [找到有效候选疫苗后，COVID-19疫苗试验是否能继续合乎伦理？｜Science精选](https://mp.weixin.qq.com/s/_ezb6ANK9iEQ3ZU5hBrZrQ)
+- [COVID-19 vaccine trial ethics once we have efficacious vaccines](https://science.sciencemag.org/content/early/2020/12/02/science.abf5084)

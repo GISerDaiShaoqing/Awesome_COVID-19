@@ -1181,3 +1181,7 @@
 - [12 月 1 日我国内地新增确诊病例 9 例，含本土病例 2 例（均在内蒙古） | 科研圈日报](https://mp.weixin.qq.com/s/Ry34CZ9RJ7c6x7JDWdrKRg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月2日）【中国科讯】](https://mp.weixin.qq.com/s/uHRGK4FRVz6Kz7oJQq2B0Q)
 - [12 月 2 日我国内地新增确诊病例 16 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/gOhuiR9dzeRGjIgQwK4U6w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月3日）【中国科讯】](https://mp.weixin.qq.com/s/x_t8R25qnkFl34xHNlfRpA)
+- [AI和放射学精选合集 | Springer Journal](https://mp.weixin.qq.com/s/zA-Gjv56QgxO_CKP8Nd7nQ)
+- [孙春兰在中国疾控中心调研时强调 加强疫情研判和应急处置 毫不放松抓好今冬明春疫情防控](https://mp.weixin.qq.com/s/kDTiqtl37Zuvdx9h5dvAnQ)
+- [12 月 3 日我国内地新增确诊病例 17 例，其中包含本土病例 2 例（均在内蒙古） | 科研圈日报](https://mp.weixin.qq.com/s/IJdSPtkzJYSKqdlwGYDiFA)

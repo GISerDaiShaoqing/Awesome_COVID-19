@@ -25,3 +25,4 @@
 - [开发竞赛特等奖作品：突发急性传染病多尺度智能监测预警系统](https://mp.weixin.qq.com/s/gwVD4FB7ZXjpM4V851TtAg)
 - [2020竞赛特等奖作品赏析：科技战疫·突发急性传染病多尺度智能监测预警系统](https://mp.weixin.qq.com/s/pS9zMEP4QUCeEV2qsZZaww)
 - [2020大学生开发竞赛特等奖，这个作品让人惊叹！](https://mp.weixin.qq.com/s/S0haEWAAhx43CJoUp-eNwQ)
+- [2020大学生开发竞赛作品赏析：武汉战疫中的政府措施](https://mp.weixin.qq.com/s/uu-KwiXHN_4C4-NTRZXdKA)
