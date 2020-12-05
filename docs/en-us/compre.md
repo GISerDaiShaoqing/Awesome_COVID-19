@@ -1364,3 +1364,7 @@
 - [Physical Activity, Screen Time, and Mood Disturbance Among Chinese Adolescents During COVID-19](https://www.healio.com/psychiatry/journals/jpn/%7Bc4671611-82fb-40d7-a8a6-d324a9ba097c%7D/physical-activity-screen-time-and-mood-disturbance-among-chinese-adolescents-during-covid-19)
 - [Satellite-based estimates of decline and rebound in China’s CO2 emissions during COVID-19 pandemic](https://advances.sciencemag.org/content/6/49/eabd4998)
 - [地学系张强研究组构建碳排放动态反演技术，揭示新冠疫情下中国碳排放变化的驱动力](https://mp.weixin.qq.com/s/PCsamPi7n4xQDHNvOMi25Q)
+- [清华大学刘欢团队ES&T | COVID-19疫情期间停滞的交通活动与加剧的雾霾污染之间的关系](https://mp.weixin.qq.com/s/qWJT7yc4wNRMuyZ0Iu7jVA)
+- [Source–Receptor Relationship Revealed by the Halted Traffic and Aggravated Haze in Beijing during the COVID-19 Lockdown](https://doi.org/10.1021/acs.est.0c04941)
+- [COVID-19 | 到目前为止，我们学到了什么？](https://mp.weixin.qq.com/s/fdW2Gh-K0BoCjgrSYyEeXw)
+- [Offline: COVID-19—what have we learned so far?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32584-8/fulltext)

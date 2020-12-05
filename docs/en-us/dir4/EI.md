@@ -105,3 +105,5 @@
 - [The Coupled Impact of Emergency Responses and Population Flows on the COVID‐19 Pandemic in China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GH000332)
 - [复旦大学公共卫生学院余宏杰课题组在新冠肺炎的传播动力学与非药物性干预措施效果领域取得重要进展](https://mp.weixin.qq.com/s/nOwinjplQR07e15ZnXhGvQ)
 - [Mathematical modeling of COVID-19: Impact of non-pharmaceutical interventions in India](https://www.researchgate.net/profile/Vijay_Bajiya/publication/346237770_Mathematical_modeling_of_COVID-19_Impact_of_non-pharmaceutical_interventions_in_India/links/5fbd0538a6fdcc6cc65f279f/Mathematical-modeling-of-COVID-19-Impact-of-non-pharmaceutical-interventions-in-India.pdf)
+- [Quantifying the time-lag effects of human mobility on the COVID-19 transmission: A multi-city study in China](https://ieeexplore.ieee.org/abstract/document/9262890)
+- [The Effectiveness of Community-based Social Distancing for Mitigating the Spread of the COVID-19 Pandemic in Turkey](https://www.jpmph.org/upload/pdf/jpmph-20-381.pdf)

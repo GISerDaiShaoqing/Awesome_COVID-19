@@ -308,3 +308,5 @@
 - [聚焦新冠 | 加强全球团结，基于科学证据共同抗疫](https://mp.weixin.qq.com/s/-vAZFvkymHvKfHINVU5uOg)
 - [三学者激辩：传染病与人长期共存｜腾云峰会文字实录](https://mp.weixin.qq.com/s/rsqJj_CZa2hYS9DPqz0eEQ)
 - [中华预防医学会环境卫生分会组织召开新冠肺炎疫情防控专题培训会](https://mp.weixin.qq.com/s/o0uEnhTxf6KcKfEsaSB27A)
+- [活动预告 | 此间沙龙002期：疫情间的艺术](https://mp.weixin.qq.com/s/9hY5ksG9pQXJ91VG1JEzmw)
+- [2020公众科学素质与公共卫生危机应对专题论坛正式启动](https://mp.weixin.qq.com/s/vbNZcpwqXRqf9UA-uuASiA)

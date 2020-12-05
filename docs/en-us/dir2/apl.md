@@ -1185,3 +1185,7 @@
 - [AI和放射学精选合集 | Springer Journal](https://mp.weixin.qq.com/s/zA-Gjv56QgxO_CKP8Nd7nQ)
 - [孙春兰在中国疾控中心调研时强调 加强疫情研判和应急处置 毫不放松抓好今冬明春疫情防控](https://mp.weixin.qq.com/s/kDTiqtl37Zuvdx9h5dvAnQ)
 - [12 月 3 日我国内地新增确诊病例 17 例，其中包含本土病例 2 例（均在内蒙古） | 科研圈日报](https://mp.weixin.qq.com/s/IJdSPtkzJYSKqdlwGYDiFA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月3日）【中国科讯】](https://mp.weixin.qq.com/s/GkMKc-pY-u2nBE9OV_nvrQ)
+- [美国抗疫困境是因为普通公众科学素质欠佳吗？](https://mp.weixin.qq.com/s/JesOJa0EbFe3f_FcXYdTxg)
+- [口罩不能摘！](https://mp.weixin.qq.com/s/y26xJDPfjQ3t05UIMnwX6g)
+- [口罩不能摘！](https://mp.weixin.qq.com/s/XRnt7Ktn-k7Mw1L-LzOqfg)

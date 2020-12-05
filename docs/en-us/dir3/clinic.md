@@ -1050,3 +1050,5 @@
 - [Long covid: Damage to multiple organs presents in young, low risk patients](https://www.bmj.com/content/371/bmj.m4470)
 - [找到有效候选疫苗后，COVID-19疫苗试验是否能继续合乎伦理？｜Science精选](https://mp.weixin.qq.com/s/_ezb6ANK9iEQ3ZU5hBrZrQ)
 - [COVID-19 vaccine trial ethics once we have efficacious vaccines](https://science.sciencemag.org/content/early/2020/12/02/science.abf5084)
+- [Nature子刊 | 重大进展！黄超兰/高福等团队合作发现早期新冠病毒感染主要为免疫抑制并或存在“两阶段”机制](https://mp.weixin.qq.com/s/zHAwhVhOed2SWOMaR4DFvg)
+- [背靠背两篇Cell Res：王祥喜/李兰娟等开发新冠鸡尾酒疗法，更好阻断病毒入侵](https://mp.weixin.qq.com/s/9-FrNSfBqaX6zmOn2Nalyw)
