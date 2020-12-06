@@ -1189,3 +1189,5 @@
 - [美国抗疫困境是因为普通公众科学素质欠佳吗？](https://mp.weixin.qq.com/s/JesOJa0EbFe3f_FcXYdTxg)
 - [口罩不能摘！](https://mp.weixin.qq.com/s/y26xJDPfjQ3t05UIMnwX6g)
 - [口罩不能摘！](https://mp.weixin.qq.com/s/XRnt7Ktn-k7Mw1L-LzOqfg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月5日）【中国科讯】](https://mp.weixin.qq.com/s/LBLOa3Z3OwwvDI5JSX9OSQ)
+- [《科学美国人》发布“2020全球十大新兴技术”；辉瑞疫苗在英国获批 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/kjFhCJaHx28WEZKTGehC1A)
