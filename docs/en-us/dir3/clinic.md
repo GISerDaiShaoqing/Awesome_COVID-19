@@ -1052,3 +1052,7 @@
 - [COVID-19 vaccine trial ethics once we have efficacious vaccines](https://science.sciencemag.org/content/early/2020/12/02/science.abf5084)
 - [Nature子刊 | 重大进展！黄超兰/高福等团队合作发现早期新冠病毒感染主要为免疫抑制并或存在“两阶段”机制](https://mp.weixin.qq.com/s/zHAwhVhOed2SWOMaR4DFvg)
 - [背靠背两篇Cell Res：王祥喜/李兰娟等开发新冠鸡尾酒疗法，更好阻断病毒入侵](https://mp.weixin.qq.com/s/9-FrNSfBqaX6zmOn2Nalyw)
+- [The BMJ：关节炎药物可改善新冠肺炎危重患者治疗效果的研究报告](https://mp.weixin.qq.com/s/BWISsZSY7WQCssII7SJ1PA)
+- [Covid-19: Critically ill patients treated with arthritis drug tocilizumab show improved outcomes, researchers report](https://www.bmj.com/content/371/bmj.m4530)
+- [中山大学张辉团队开发新冠病毒新型纳米颗粒疫苗 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/6vK0xOSxHflku8gRYanb2g)
+- [Nanoparticle Vaccines Based on the Receptor Binding Domain (RBD) and Heptad Repeat (HR) of SARS-CoV-2 Elicit Robust Protective Immune Responses](https://www.cell.com/immunity/fulltext/S1074-7613(20)30502-1)

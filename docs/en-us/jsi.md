@@ -76,3 +76,5 @@
 - [期刊目录｜《地理学报》2020年11期](https://mp.weixin.qq.com/s/vbAHM4ays7xnONm6Bd9mcg)
 - [沈华浩/赖克方/张旻/黄克武/蒋典华/李雯/张清玲 共同领导专刊 | 呼吸系统疾病诊断和治疗的最新进展](https://mp.weixin.qq.com/s/thKXjr3KhijrBMMvFvdqsw)
 - [Advances in Pulmonary Diseases: Cellular Pathology, Molecular Targets, Novel Diagnosis and Therapy](https://www.frontiersin.org/research-topics/17020/advances-in-pulmonary-diseases-cellular-pathology-molecular-targets-novel-diagnosis-and-therapy?utm_source=yanyuRT15&utm_medium=wechat&utm_campaign=chinaad)
+- [Results in Physics特刊征稿｜流行病学模型研究](https://mp.weixin.qq.com/s/sUnHaStXFc-5AiI6mKE0VQ)
+- [Special Issue on Epidemiological Modelling](https://www.journals.elsevier.com/results-in-physics/call-for-papers/special-issue-on-epidemiological-modelling)

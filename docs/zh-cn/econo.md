@@ -597,3 +597,4 @@
 - [全球城市观察︱新冠疫情下，柏林推进“冻结租金”计划](https://mp.weixin.qq.com/s/e9ymnUUInWk1eJao1TyN2g)
 - [【Open Access】我国医疗资源供给模式及策略研究——以重大突发公共卫生事件为背景](https://mp.weixin.qq.com/s/JWxGO1hcLViXLgizTfNgXg)
 - [【论文背后的故事】疫情思考：一个规划师关于疫情的反思小记](https://mp.weixin.qq.com/s/WsrtkT_yhrm3cduTV7Kfnw)
+- [全球城市观察︱疫情期间，仍在“买楼圈地”的科技巨头们](https://mp.weixin.qq.com/s/wzrE9NwBTxhLu1gwjkaVnw)

@@ -1368,3 +1368,4 @@
 - [Source–Receptor Relationship Revealed by the Halted Traffic and Aggravated Haze in Beijing during the COVID-19 Lockdown](https://doi.org/10.1021/acs.est.0c04941)
 - [COVID-19 | 到目前为止，我们学到了什么？](https://mp.weixin.qq.com/s/fdW2Gh-K0BoCjgrSYyEeXw)
 - [Offline: COVID-19—what have we learned so far?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32584-8/fulltext)
+- [Impact of COVID-19 lockdown on activity patterns and weight status among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.nature.com/articles/s41366-020-00710-4)

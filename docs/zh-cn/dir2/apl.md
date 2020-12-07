@@ -1191,3 +1191,7 @@
 - [口罩不能摘！](https://mp.weixin.qq.com/s/XRnt7Ktn-k7Mw1L-LzOqfg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月5日）【中国科讯】](https://mp.weixin.qq.com/s/LBLOa3Z3OwwvDI5JSX9OSQ)
 - [《科学美国人》发布“2020全球十大新兴技术”；辉瑞疫苗在英国获批 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/kjFhCJaHx28WEZKTGehC1A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月6日）【中国科讯】](https://mp.weixin.qq.com/s/VL_sC50Ayq5ICr771qCOUg)
+- [12 月 6 日我国新增确诊病例 15 例，其中本土病例 3 例（均在内蒙古）｜科研圈日报](https://mp.weixin.qq.com/s/UzuJS2OdDELiTgdxjtRVNg)
+- [Science一周论文导读 | 2020年11月27日](https://mp.weixin.qq.com/s/kv0Eqkq2PfzERIz6hIxuAA)
+- [Nature一周论文导读 | 2020年11月26日](https://mp.weixin.qq.com/s/Xn7ML5lQm2GzeXu1b2DWbA)
