@@ -678,3 +678,5 @@
 - [Monoclonal Antibody Against SARS-CoV-2](https://www.nejmqianyan.cn/article/yxqy-jw.NA52751?jw=112620)
 - [流感药物再利用可阻断雪貂的SARS-CoV-2传播 |《自然-微生物学》论文](https://mp.weixin.qq.com/s/jM9UQ5_CWWl8Z_fL095KYQ)
 - [Therapeutically administered ribonucleoside analogue MK-4482/EIDD-2801 blocks SARS-CoV-2 transmission in ferrets](https://www.nature.com/articles/s41564-020-00835-2)
+- [Cell重磅 | 超越张锋等人发明的技术！诺奖获得者Doudna等人升级新冠病毒检测技术：无需扩增病毒RNA与只要一台手机即可](https://mp.weixin.qq.com/s/gDsUFWTwCW6qqtAK7bn74A)
+- [Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy](https://doi.org/10.1016/j.cell.2020.12.001)

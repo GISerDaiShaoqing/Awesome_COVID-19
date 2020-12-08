@@ -373,3 +373,5 @@
 - [The evidence of indirect transmission of SARS-CoV-2 reported in Guangzhou, China](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-09296-y)
 - [Big data assimilation to improve the predictability of COVID-19](https://www.researchgate.net/publication/346565446_Big_data_assimilation_to_improve_the_predictability_of_COVID-19)
 - [Tracking the Wings of Covid-19 by Modeling Adaptability with Open Mobility Data](https://www.tandfonline.com/doi/full/10.1080/08839514.2020.1840196)
+- [A modified SEIR model applied to the data of COVID-19 spread in Saudi Arabia](https://aip.scitation.org/doi/full/10.1063/5.0029698)
+- [Estimation of unreported SARS-CoV-2 cases in Italy using a Susceptible-Exposed-Infectious-Recovered-Dead model](http://www.jogh.org/documents/issue202002/jogh-10-021105.pdf)

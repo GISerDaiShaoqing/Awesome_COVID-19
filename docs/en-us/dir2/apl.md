@@ -1195,3 +1195,6 @@
 - [12 月 6 日我国新增确诊病例 15 例，其中本土病例 3 例（均在内蒙古）｜科研圈日报](https://mp.weixin.qq.com/s/UzuJS2OdDELiTgdxjtRVNg)
 - [Science一周论文导读 | 2020年11月27日](https://mp.weixin.qq.com/s/kv0Eqkq2PfzERIz6hIxuAA)
 - [Nature一周论文导读 | 2020年11月26日](https://mp.weixin.qq.com/s/Xn7ML5lQm2GzeXu1b2DWbA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月7日）【中国科讯】](https://mp.weixin.qq.com/s/HCQcxi0SXqMiO0s8COUBSQ)
+- [新冠疫苗抢购潮 | 科研人爱Rust | 乐高的卡扣原理 | 自然每周简报](https://mp.weixin.qq.com/s/-8_aR7uhX0kJTkaLB0pEtQ)
+- [24小时热门｜中国人群过去30年的视力减退，与这些原因相关；意大利3.3%的狗和5.8%的猫检测到新冠抗体](https://mp.weixin.qq.com/s/_yBkv_EAKG-pnfcmCU1-Ng)

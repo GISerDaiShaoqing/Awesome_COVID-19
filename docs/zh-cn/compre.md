@@ -1369,3 +1369,7 @@
 - [COVID-19 | 到目前为止，我们学到了什么？](https://mp.weixin.qq.com/s/fdW2Gh-K0BoCjgrSYyEeXw)
 - [Offline: COVID-19—what have we learned so far?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32584-8/fulltext)
 - [Impact of COVID-19 lockdown on activity patterns and weight status among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.nature.com/articles/s41366-020-00710-4)
+- [别再歪曲科学，阻碍了传染病防治策略的采用 | BMC Journal](https://mp.weixin.qq.com/s/ZD1BZPsIo_ZZDO_907Rp1g)
+- [COVID-19: through the eyes through the front line, an international perspective](https://aricjournal.biomedcentral.com/articles/10.1186/s13756-020-00850-2)
+- [不到4000万人的加拿大买了3亿多支疫苗，抢疫苗凸显贫富差距](https://mp.weixin.qq.com/s/vCo3NhGaldUgrxVp91e7OA)
+- [Observed decreases in on-road CO2 concentrations in Beijing during COVID-19](https://acp.copernicus.org/preprints/acp-2020-966/)
