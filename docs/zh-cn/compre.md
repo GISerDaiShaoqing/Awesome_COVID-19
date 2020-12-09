@@ -1373,3 +1373,4 @@
 - [COVID-19: through the eyes through the front line, an international perspective](https://aricjournal.biomedcentral.com/articles/10.1186/s13756-020-00850-2)
 - [不到4000万人的加拿大买了3亿多支疫苗，抢疫苗凸显贫富差距](https://mp.weixin.qq.com/s/vCo3NhGaldUgrxVp91e7OA)
 - [Observed decreases in on-road CO2 concentrations in Beijing during COVID-19](https://acp.copernicus.org/preprints/acp-2020-966/)
+- [Daily CO2 Emission Reduction Indicates the Control of Activities to Contain COVID-19 in China](https://www.sciencedirect.com/science/article/pii/S2666675820300655)

@@ -599,3 +599,4 @@
 - [【论文背后的故事】疫情思考：一个规划师关于疫情的反思小记](https://mp.weixin.qq.com/s/WsrtkT_yhrm3cduTV7Kfnw)
 - [全球城市观察︱疫情期间，仍在“买楼圈地”的科技巨头们](https://mp.weixin.qq.com/s/wzrE9NwBTxhLu1gwjkaVnw)
 - [后疫情时代，程序员工作模式的展望——基于中台的研发或将成为主流](https://mp.weixin.qq.com/s/o6XCDbC3HPAZgxOZk6vcDQ)
+- [【Open Access】构建更为韧性的医疗卫生防疫体系策略研究——以北京医疗卫生服务设施为例](https://mp.weixin.qq.com/s/aKlbX-yIrxB8vTj22cxFpg)
