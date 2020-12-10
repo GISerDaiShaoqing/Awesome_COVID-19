@@ -310,3 +310,4 @@
 - [中华预防医学会环境卫生分会组织召开新冠肺炎疫情防控专题培训会](https://mp.weixin.qq.com/s/o0uEnhTxf6KcKfEsaSB27A)
 - [活动预告 | 此间沙龙002期：疫情间的艺术](https://mp.weixin.qq.com/s/9hY5ksG9pQXJ91VG1JEzmw)
 - [2020公众科学素质与公共卫生危机应对专题论坛正式启动](https://mp.weixin.qq.com/s/vbNZcpwqXRqf9UA-uuASiA)
+- [同心抗疫 健康你我 ——中国银行卢森堡有限公司鹿特丹分行举办在线中医健康讲座](https://mp.weixin.qq.com/s/RcoNQk98Ja8TvUq4tZG0tQ)

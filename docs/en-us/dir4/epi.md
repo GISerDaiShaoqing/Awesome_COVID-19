@@ -375,3 +375,5 @@
 - [Tracking the Wings of Covid-19 by Modeling Adaptability with Open Mobility Data](https://www.tandfonline.com/doi/full/10.1080/08839514.2020.1840196)
 - [A modified SEIR model applied to the data of COVID-19 spread in Saudi Arabia](https://aip.scitation.org/doi/full/10.1063/5.0029698)
 - [Estimation of unreported SARS-CoV-2 cases in Italy using a Susceptible-Exposed-Infectious-Recovered-Dead model](http://www.jogh.org/documents/issue202002/jogh-10-021105.pdf)
+- [全球分析显示新冠肺炎男性患者出现重症的风险更高 |《自然-通讯》论文](https://mp.weixin.qq.com/s/8BKMI9BYsW_vs8pdlrCOfQ)
+- [Male sex identified by global COVID-19 meta-analysis as a risk factor for death and ITU admission](https://www.nature.com/articles/s41467-020-19741-6)

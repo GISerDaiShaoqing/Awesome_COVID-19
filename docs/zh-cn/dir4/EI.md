@@ -107,3 +107,4 @@
 - [Mathematical modeling of COVID-19: Impact of non-pharmaceutical interventions in India](https://www.researchgate.net/profile/Vijay_Bajiya/publication/346237770_Mathematical_modeling_of_COVID-19_Impact_of_non-pharmaceutical_interventions_in_India/links/5fbd0538a6fdcc6cc65f279f/Mathematical-modeling-of-COVID-19-Impact-of-non-pharmaceutical-interventions-in-India.pdf)
 - [Quantifying the time-lag effects of human mobility on the COVID-19 transmission: A multi-city study in China](https://ieeexplore.ieee.org/abstract/document/9262890)
 - [The Effectiveness of Community-based Social Distancing for Mitigating the Spread of the COVID-19 Pandemic in Turkey](https://www.jpmph.org/upload/pdf/jpmph-20-381.pdf)
+- [Epidemiology and public health response in early phase of COVID-19 pandemic, Veneto Region, Italy, 21 February to 2 April 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.47.2000548?crawler=true)

@@ -228,3 +228,5 @@
 - [Multiscale dynamic human mobility flow dataset in the U.S. during the COVID-19 epidemic](https://www.nature.com/articles/s41597-020-00734-5#Sec1)
 - [新数据集：2020.1.19-2.22期间中国人口流动影响下的COVID-19时空格局与防控效果分析数据集](https://mp.weixin.qq.com/s/MGbxT1yJZ59L9Gd4PDYtaQ)
 - [Response2covid19, a dataset of governments’ responses to COVID-19 all around the world](https://www.nature.com/articles/s41597-020-00757-y)
+- [新文速递| 新冠疫情病例时空快速响应数据集](https://mp.weixin.qq.com/s/IdL6xtPY8zua0w1l4RVaGQ)
+- [A spatiotemporal data collection of viral cases for COVID-19 rapid response](https://www.tandfonline.com/doi/full/10.1080/20964471.2020.1844934)

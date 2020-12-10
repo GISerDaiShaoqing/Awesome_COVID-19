@@ -680,3 +680,5 @@
 - [Therapeutically administered ribonucleoside analogue MK-4482/EIDD-2801 blocks SARS-CoV-2 transmission in ferrets](https://www.nature.com/articles/s41564-020-00835-2)
 - [Cell重磅 | 超越张锋等人发明的技术！诺奖获得者Doudna等人升级新冠病毒检测技术：无需扩增病毒RNA与只要一台手机即可](https://mp.weixin.qq.com/s/gDsUFWTwCW6qqtAK7bn74A)
 - [Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy](https://doi.org/10.1016/j.cell.2020.12.001)
+- [NSR:干细胞技术快速制备新冠小鼠模型](https://mp.weixin.qq.com/s/KqBIGcu07eezWZ_ErEBcKg)
+- [Rapid generation of ACE2 humanized inbred mouse model for COVID-19 with tetraploid complementation](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa285/6000225)

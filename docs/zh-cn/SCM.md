@@ -95,5 +95,6 @@
 - [周末大电影︱新冠疫情过后，我们需要更多的开放街道](https://mp.weixin.qq.com/s/d2cGAUGeKCMRxm_AUusLUA)
 - [周末故事 | 新冠疫情下全球经济的赢家与输家 (两则)](https://mp.weixin.qq.com/s/1WIZStp8zoNHzmO6q-PSug)
 - [后疫情时代︱新冠疫情对全球气候变化的影响](https://mp.weixin.qq.com/s/9MX3xPFB57V6VW0_m7V32A)
+- [后疫情时代︱绿色和平：疫后绿色复苏大PK，全球各国都将交通转型置于最核心地位](https://mp.weixin.qq.com/s/ys43J48Tyqonyw0SsB4R9g)
 
 ![](/img/SCM.jpg)

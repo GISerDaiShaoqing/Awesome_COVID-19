@@ -1374,3 +1374,7 @@
 - [不到4000万人的加拿大买了3亿多支疫苗，抢疫苗凸显贫富差距](https://mp.weixin.qq.com/s/vCo3NhGaldUgrxVp91e7OA)
 - [Observed decreases in on-road CO2 concentrations in Beijing during COVID-19](https://acp.copernicus.org/preprints/acp-2020-966/)
 - [Daily CO2 Emission Reduction Indicates the Control of Activities to Contain COVID-19 in China](https://www.sciencedirect.com/science/article/pii/S2666675820300655)
+- [疫情封锁对手部和上肢急救的影响 | International Orthopaedics](https://mp.weixin.qq.com/s/RDnn-YxRw9Yi-6ylQPMP0A)
+- [Impact of the COronaVIrus Disease 2019 lockdown on hand and upper limb emergencies: experience of a referred university trauma hand centre in Paris, France](https://link.springer.com/article/10.1007/s00264-020-04654-2?utm_source=other)
+- [我们为什么追加2.5亿美元抗击新冠？](https://mp.weixin.qq.com/s/3pvs-2i4kMTzFMcUkDocqQ)
+- [盖茨夫妇呼吁各界加强合作、持续创新，为抗击疫情带来新突破](https://mp.weixin.qq.com/s/tRQQZWOgJJqsm4VRfE2ziQ)

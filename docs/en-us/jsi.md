@@ -78,3 +78,4 @@
 - [Advances in Pulmonary Diseases: Cellular Pathology, Molecular Targets, Novel Diagnosis and Therapy](https://www.frontiersin.org/research-topics/17020/advances-in-pulmonary-diseases-cellular-pathology-molecular-targets-novel-diagnosis-and-therapy?utm_source=yanyuRT15&utm_medium=wechat&utm_campaign=chinaad)
 - [Results in Physics特刊征稿｜流行病学模型研究](https://mp.weixin.qq.com/s/sUnHaStXFc-5AiI6mKE0VQ)
 - [Special Issue on Epidemiological Modelling](https://www.journals.elsevier.com/results-in-physics/call-for-papers/special-issue-on-epidemiological-modelling)
+- [国内权威期刊目录·地理学(总第119期)](https://mp.weixin.qq.com/s/FOPf8a0Xl5hCRaqr9clyUg)

@@ -1204,3 +1204,6 @@
 - [牛津-阿斯利康新冠候选疫苗临床数据正式发表 | 科研圈日报](https://mp.weixin.qq.com/s/2PjK0baRhaKTXZAzgr-ZNQ)
 - [EBioMedicine11月精选 | 中国研发诊断工具可更灵敏地检测SARS-CoV-2感染](https://mp.weixin.qq.com/s/RMRPNsk6pC5LbShXzJURxg)
 - [24小时热门｜这种特殊的分子，将可见光转化成了紫外线；Moderna新冠疫苗持久性最新结果出炉；拯救“没常识”的GPT-3得靠它](https://mp.weixin.qq.com/s/BZCBPhHYafTsRv4Nh6d1eA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月9日）【中国科讯】](https://mp.weixin.qq.com/s/STXWHDjqhprqDzQclP0iTw)
+- [童朝晖：面对新冠疫情，为什么中国能打赢这场战争？](https://mp.weixin.qq.com/s/WR1BjfYy-8yqIUnJkRSe5Q)
+- [​4人接种辉瑞新冠疫苗后面瘫，英国建议过敏人群不要接种｜科研圈日报](https://mp.weixin.qq.com/s/T-CHwm7XKTgdU_WZIgzuwQ)
