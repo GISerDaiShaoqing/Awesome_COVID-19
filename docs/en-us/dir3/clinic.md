@@ -1070,3 +1070,5 @@
 - [The UK has approved a COVID vaccine — here’s what scientists now want to know](https://www.nature.com/articles/d41586-020-03441-8)
 - [一网打尽：冠状病毒家族治疗靶点首次被确定](https://mp.weixin.qq.com/s/8f9sMo_iOq4ZWRFjsRposw)
 - [Genetic screens identify host factors for SARS-CoV-2 and common cold coronaviruses](https://www.sciencedirect.com/science/article/pii/S0092867420316263)
+- [NEJM | 正式发布！辉瑞等公司研制的新冠疫苗有效性为95%，但是要注意其面瘫等副作用](https://mp.weixin.qq.com/s/t_mKpSVY9IvhAxJCx_Ha0w)
+- [Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577)

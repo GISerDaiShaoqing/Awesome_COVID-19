@@ -1207,3 +1207,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月9日）【中国科讯】](https://mp.weixin.qq.com/s/STXWHDjqhprqDzQclP0iTw)
 - [童朝晖：面对新冠疫情，为什么中国能打赢这场战争？](https://mp.weixin.qq.com/s/WR1BjfYy-8yqIUnJkRSe5Q)
 - [​4人接种辉瑞新冠疫苗后面瘫，英国建议过敏人群不要接种｜科研圈日报](https://mp.weixin.qq.com/s/T-CHwm7XKTgdU_WZIgzuwQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月9日）【中国科讯】](https://mp.weixin.qq.com/s/qAYHY4lkwxpvO7uL5N2xkQ)
+- [调查显示，新冠疫情对化学学者打击最为严重 | 科研圈日报](https://mp.weixin.qq.com/s/zeKF08KMR0IoJzhCg7qbKQ)
+- [EClinicalMedicine12月精选 | 影响COVID-19患者围术期死亡率因素](https://mp.weixin.qq.com/s/3SJy6MJ5zkv-zsO4WtLZVw)

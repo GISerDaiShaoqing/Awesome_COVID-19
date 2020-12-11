@@ -377,3 +377,7 @@
 - [Estimation of unreported SARS-CoV-2 cases in Italy using a Susceptible-Exposed-Infectious-Recovered-Dead model](http://www.jogh.org/documents/issue202002/jogh-10-021105.pdf)
 - [全球分析显示新冠肺炎男性患者出现重症的风险更高 |《自然-通讯》论文](https://mp.weixin.qq.com/s/8BKMI9BYsW_vs8pdlrCOfQ)
 - [Male sex identified by global COVID-19 meta-analysis as a risk factor for death and ITU admission](https://www.nature.com/articles/s41467-020-19741-6)
+- [老年人独居和社交隔离与跌倒风险高有关 |《科学报告》论文](https://mp.weixin.qq.com/s/fzPteG2M2BEhus9Tv_AE-w)
+- [A longitudinal analysis of loneliness, social isolation and falls amongst older people in England](https://www.nature.com/articles/s41598-020-77104-z)
+- [《新发传染病》：意大利0号病人再次提前！中国却再次躺枪](https://mp.weixin.qq.com/s/W3nHaAIxKu5aeoZuG_IZ3A)
+- [Evidence of SARS-CoV-2 RNA in an Oropharyngeal Swab Specimen, Milan, Italy, Early December 2019](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article)

@@ -1378,3 +1378,7 @@
 - [Impact of the COronaVIrus Disease 2019 lockdown on hand and upper limb emergencies: experience of a referred university trauma hand centre in Paris, France](https://link.springer.com/article/10.1007/s00264-020-04654-2?utm_source=other)
 - [我们为什么追加2.5亿美元抗击新冠？](https://mp.weixin.qq.com/s/3pvs-2i4kMTzFMcUkDocqQ)
 - [盖茨夫妇呼吁各界加强合作、持续创新，为抗击疫情带来新突破](https://mp.weixin.qq.com/s/tRQQZWOgJJqsm4VRfE2ziQ)
+- [【数据】疫情之下，2020年美国能源相关碳排放下降11%](https://mp.weixin.qq.com/s/MVzp9I2DN98MeYMfGpJEhA)
+- [EIA expects U.S. energy-related carbon dioxide emissions to fall 11% in 2020](https://www.eia.gov/todayinenergy/detail.php?id=46196)
+- [2020年Science最佳雇主评选：快速响应新冠肺炎疫情、多元化和创新｜ScienceCareers](https://mp.weixin.qq.com/s/c78htNWeBP8WhxzdD8F07g)
+- [2020’s Top Employers: Rapid response to COVID-19, diversity, and innovation](https://www.sciencemag.org/features/2020/10/top-employers-rapid-response-covid-19-diversity-and-innovation)
