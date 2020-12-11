@@ -1382,3 +1382,6 @@
 - [EIA expects U.S. energy-related carbon dioxide emissions to fall 11% in 2020](https://www.eia.gov/todayinenergy/detail.php?id=46196)
 - [2020年Science最佳雇主评选：快速响应新冠肺炎疫情、多元化和创新｜ScienceCareers](https://mp.weixin.qq.com/s/c78htNWeBP8WhxzdD8F07g)
 - [2020’s Top Employers: Rapid response to COVID-19, diversity, and innovation](https://www.sciencemag.org/features/2020/10/top-employers-rapid-response-covid-19-diversity-and-innovation)
+- [Mental distress and its associations with behavioral outcomes during the COVID-19: A national survey of Chinese adults](https://preprints.jmir.org/preprint/25308)
+- [COVID-19, Type-2 Diabetes, and Associated Health Outcomes in China: Results from a Nationwide Survey of 10,545 Adults](https://www.medrxiv.org/content/10.1101/2020.10.07.20207282v1)
+- [Decreases in global CO$_2$ emissions due to COVID-19 pandemic](https://www.researchgate.net/publication/340996898_Decreases_in_global_CO_2_emissions_due_to_COVID-19_pandemic)
