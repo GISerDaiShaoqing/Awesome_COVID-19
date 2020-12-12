@@ -1072,3 +1072,4 @@
 - [Genetic screens identify host factors for SARS-CoV-2 and common cold coronaviruses](https://www.sciencedirect.com/science/article/pii/S0092867420316263)
 - [NEJM | 正式发布！辉瑞等公司研制的新冠疫苗有效性为95%，但是要注意其面瘫等副作用](https://mp.weixin.qq.com/s/t_mKpSVY9IvhAxJCx_Ha0w)
 - [Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577)
+- [辉瑞疫苗通过FDA认证，新冠疫情真的能被抑制吗？](https://mp.weixin.qq.com/s/LmziQh7gHqnESOUbhFaxbA)

@@ -1385,3 +1385,5 @@
 - [Mental distress and its associations with behavioral outcomes during the COVID-19: A national survey of Chinese adults](https://preprints.jmir.org/preprint/25308)
 - [COVID-19, Type-2 Diabetes, and Associated Health Outcomes in China: Results from a Nationwide Survey of 10,545 Adults](https://www.medrxiv.org/content/10.1101/2020.10.07.20207282v1)
 - [Decreases in global CO$_2$ emissions due to COVID-19 pandemic](https://www.researchgate.net/publication/340996898_Decreases_in_global_CO_2_emissions_due_to_COVID-19_pandemic)
+- [确定COVID-19危重症的遗传关联 |《自然》论文](https://mp.weixin.qq.com/s/bd0HCUS7Hc9OBL6FBIX9Kg)
+- [Genetic mechanisms of critical illness in Covid-19](https://www.nature.com/articles/s41586-020-03065-y)
