@@ -1211,3 +1211,5 @@
 - [调查显示，新冠疫情对化学学者打击最为严重 | 科研圈日报](https://mp.weixin.qq.com/s/zeKF08KMR0IoJzhCg7qbKQ)
 - [EClinicalMedicine12月精选 | 影响COVID-19患者围术期死亡率因素](https://mp.weixin.qq.com/s/3SJy6MJ5zkv-zsO4WtLZVw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月11日）【中国科讯】](https://mp.weixin.qq.com/s/4ptIxgcl35ZCHdQ5LXryfw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月12日）【中国科讯】](https://mp.weixin.qq.com/s/zOlPS4_a66OlmdVMFWOciQ)
+- [调查显示，新冠疫情对化学学者的影响更为广泛｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/qcmGbP2K7I5Q3nNtP4UGFA)

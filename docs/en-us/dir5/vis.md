@@ -227,3 +227,5 @@
 - [This is how coronavirus compares to the world's smallest particles](https://www.weforum.org/agenda/2020/10/covid-19-coronavirus-disease-size-compairson-zika-health-air-pollution)
 - [【快讯】约翰·霍普金斯疫情地图遴选为2020百大发明 | 时代周刊](https://mp.weixin.qq.com/s/Ci6TAXF0cQEWFYMavYQI7Q)
 - [五分钟看完新冠：从0到6000万！](https://mp.weixin.qq.com/s/j1aFc15IbPRgnTlp6Y23pw)
+- [信息过载的时代，艺术也需要可视化](https://mp.weixin.qq.com/s/cbBHeQh3JGLTVut-oZNTZA)
+- [Artists explore new ways of knowing in a time of information overload](https://www.nature.com/articles/d41586-020-01605-0?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01605-0)
