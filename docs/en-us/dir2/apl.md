@@ -1217,3 +1217,7 @@
 - [辉瑞新冠疫苗在美国获得紧急使用授权｜科研圈日报](https://mp.weixin.qq.com/s/y3BkVjpWOR9sbCC_vbnFBw)
 - [Science 一周论文导读 | 2020年12月4日](https://mp.weixin.qq.com/s/R5C-y-s-XIxa6QdLoM-Qag)
 - [Nature 一周论文导读 | 2020年12月3日](https://mp.weixin.qq.com/s/Kd7Hf7W3wcHjegkwZ0ZWmA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月14日）【中国科讯】](https://mp.weixin.qq.com/s/LMTw3j8hWZt9cLd1AcTrfQ)
+- [儿童免疫系统是如何规避新冠肺炎的| 自然每周简报](https://mp.weixin.qq.com/s/oFesz9ggm3QWf0pWntqiyw)
+- [《自然》2020年十大科学发现出炉：病毒，冷冻电镜与快速射电暴| 科研圈日报](https://mp.weixin.qq.com/s/zQFbUCi1JDNzYXaFmFpGiQ)
+- [24小时热门｜新冠疫情而导致的“第二波”打击也许更难应对](https://mp.weixin.qq.com/s/sFbfyEcq4pCyYvY58TiTLg)

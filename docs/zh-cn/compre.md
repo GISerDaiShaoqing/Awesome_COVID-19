@@ -1396,3 +1396,7 @@
 - [新冠可写入人类基因组，成为永不灭亡的病毒？](https://mp.weixin.qq.com/s/iQsc-AnUQ-rF5M2EWOnr1A)
 - [SARS-CoV-2 RNA reverse-transcribed and integrated into the human genome](https://doi.org/10.1101/2020.12.12.422516)
 - [Regional Impacts of COVID-19 on Carbon Dioxide Detected Worldwide from Space](https://arxiv.org/abs/2011.12740)
+- [动物疫病形式复杂、人畜共患病增多…我国动物疫病预防控制体系该如何建设？](https://mp.weixin.qq.com/s/EjBkCKxQ3aoGaORswU4s2Q)
+- [Home garden use during COVID-19: associations with physical and mental wellbeing in older adults](https://www.sciencedirect.com/science/article/pii/S0272494420307106)
+- [Face masks and COVID-19: don’t let perfect be the enemy of good separator ](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.49.2001998?crawler=true)
+- [Physical activity and screen time of children and adolescents before and during the COVID-19 lockdown in Germany: a natural experiment](https://www.nature.com/articles/s41598-020-78438-4#Bib1)

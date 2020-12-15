@@ -384,3 +384,5 @@
 - [Science新冠合集｜新冠肺炎监测的检测频率和检测周转时间至关重要](https://mp.weixin.qq.com/s/fO-TM3jZXtBqyTFWPE0DoA)
 - [Test sensitivity is secondary to frequenc](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1)
 - [Quantifying the Time-Lag Effects of Human Mobility on the COVID-19 Transmission: A Multi-City Study in China](https://ieeexplore.ieee.org/document/9262890)
+- [Prediction of the COVID-19 outbreak in China based on a new stochastic dynamic model](https://www.nature.com/articles/s41598-020-76630-0)
+- [Investigation of 100 SARS-CoV-2 infected families in Wuhan: Transmission patterns and follow-up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719352/)

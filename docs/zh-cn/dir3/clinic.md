@@ -1081,3 +1081,7 @@
 - [The known unknowns of T cell immunity to COVID-19](https://immunology.sciencemag.org/content/5/53/eabe8063)
 - [首项3期试验公布结果，表明牛津疫苗可安全有效地抗击新冠](https://mp.weixin.qq.com/s/OgQ40dHhiG2EmsWYgYLpZA)
 - [Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32661-1/fulltext)
+- [美国批准首款新冠疫苗紧急使用授权，抗疫进入新阶段](https://mp.weixin.qq.com/s/NzUVvWvCGMWnaSn68Y0b7w)
+- [US authorization of first COVID vaccine marks new phase in safety monitoring](https://www.nature.com/articles/d41586-020-03542-4?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03542-4)
+- [静动脉体外膜肺氧合用于治疗新冠肺炎并发症](https://mp.weixin.qq.com/s/sCl8BRcoKgguumYCQWsSTQ)
+- [Cardiovascular Collapse in COVID-19 Infection: The Role of Venoarterial Extracorporeal Membrane Oxygenation (VA-ECMO)](https://www.sciencedirect.com/science/article/pii/S2589790X20300433?via%3Dihub)

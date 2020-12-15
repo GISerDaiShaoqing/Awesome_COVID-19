@@ -108,3 +108,5 @@
 - [Quantifying the time-lag effects of human mobility on the COVID-19 transmission: A multi-city study in China](https://ieeexplore.ieee.org/abstract/document/9262890)
 - [The Effectiveness of Community-based Social Distancing for Mitigating the Spread of the COVID-19 Pandemic in Turkey](https://www.jpmph.org/upload/pdf/jpmph-20-381.pdf)
 - [Epidemiology and public health response in early phase of COVID-19 pandemic, Veneto Region, Italy, 21 February to 2 April 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.47.2000548?crawler=true)
+- [The Effectiveness of Community-based Social Distancing for Mitigating the Spread of the COVID-19 Pandemic in Turkey](https://www.koreascience.or.kr/article/JAKO202034465346010.pdf)
+- [Threshold Condition and Non Pharmaceutical Interventions’s Control strategies for Elimination of COVID-19](https://www.sciencedirect.com/science/article/pii/S2211379720321161)
