@@ -1213,3 +1213,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月11日）【中国科讯】](https://mp.weixin.qq.com/s/4ptIxgcl35ZCHdQ5LXryfw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月12日）【中国科讯】](https://mp.weixin.qq.com/s/zOlPS4_a66OlmdVMFWOciQ)
 - [调查显示，新冠疫情对化学学者的影响更为广泛｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/qcmGbP2K7I5Q3nNtP4UGFA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月13日）【中国科讯】](https://mp.weixin.qq.com/s/B1YWk6FjDh3vtghUZ_MsQQ)
+- [辉瑞新冠疫苗在美国获得紧急使用授权｜科研圈日报](https://mp.weixin.qq.com/s/y3BkVjpWOR9sbCC_vbnFBw)
+- [Science 一周论文导读 | 2020年12月4日](https://mp.weixin.qq.com/s/R5C-y-s-XIxa6QdLoM-Qag)
+- [Nature 一周论文导读 | 2020年12月3日](https://mp.weixin.qq.com/s/Kd7Hf7W3wcHjegkwZ0ZWmA)

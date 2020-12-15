@@ -682,3 +682,7 @@
 - [Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy](https://doi.org/10.1016/j.cell.2020.12.001)
 - [NSR:干细胞技术快速制备新冠小鼠模型](https://mp.weixin.qq.com/s/KqBIGcu07eezWZ_ErEBcKg)
 - [Rapid generation of ACE2 humanized inbred mouse model for COVID-19 with tetraploid complementation](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa285/6000225)
+- [Science新冠合集｜荷兰水貂养殖场发生SARS-CoV-2双向传播](https://mp.weixin.qq.com/s/9nb33iRr1uC57Y2YR6Bi-w)
+- [Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans](https://science.sciencemag.org/content/early/2020/11/09/science.abe5901)
+- [鼻拭子+手机显微镜！新冠低成本快速即时筛查 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/PFW3AnpXKAs0uSQ1fevJSQ)
+- [Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy](https://www.cell.com/cell/fulltext/S0092-8674(20)31623-8#figures)

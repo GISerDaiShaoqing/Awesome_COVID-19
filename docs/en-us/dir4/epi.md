@@ -381,3 +381,6 @@
 - [A longitudinal analysis of loneliness, social isolation and falls amongst older people in England](https://www.nature.com/articles/s41598-020-77104-z)
 - [《新发传染病》：意大利0号病人再次提前！中国却再次躺枪](https://mp.weixin.qq.com/s/W3nHaAIxKu5aeoZuG_IZ3A)
 - [Evidence of SARS-CoV-2 RNA in an Oropharyngeal Swab Specimen, Milan, Italy, Early December 2019](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article)
+- [Science新冠合集｜新冠肺炎监测的检测频率和检测周转时间至关重要](https://mp.weixin.qq.com/s/fO-TM3jZXtBqyTFWPE0DoA)
+- [Test sensitivity is secondary to frequenc](https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393.1)
+- [Quantifying the Time-Lag Effects of Human Mobility on the COVID-19 Transmission: A Multi-City Study in China](https://ieeexplore.ieee.org/document/9262890)
