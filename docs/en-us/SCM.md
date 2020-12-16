@@ -98,5 +98,6 @@
 - [后疫情时代︱绿色和平：疫后绿色复苏大PK，全球各国都将交通转型置于最核心地位](https://mp.weixin.qq.com/s/ys43J48Tyqonyw0SsB4R9g)
 - [疫情大数据︱交通数据揭示疫情期间美国人的搬迁秘密](https://mp.weixin.qq.com/s/1XT1m5GlmFAvgwTTHWi91w)
 - [后疫情时代︱美国城市公园与旧金山低碳社区彰显疫后复苏价值 (两则)](https://mp.weixin.qq.com/s/7V4tDvyMqDNBN8EjzCOi0A)
+- [后疫情时代︱旧暖气片其实是抗疫利器，八图揭秘美国家庭空调使用习惯 (两则)](https://mp.weixin.qq.com/s/OfyEmtmNC6UWQyTAvO1tGg)
 
 ![](/img/SCM.jpg)

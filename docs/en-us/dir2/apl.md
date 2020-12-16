@@ -1221,3 +1221,6 @@
 - [儿童免疫系统是如何规避新冠肺炎的| 自然每周简报](https://mp.weixin.qq.com/s/oFesz9ggm3QWf0pWntqiyw)
 - [《自然》2020年十大科学发现出炉：病毒，冷冻电镜与快速射电暴| 科研圈日报](https://mp.weixin.qq.com/s/zQFbUCi1JDNzYXaFmFpGiQ)
 - [24小时热门｜新冠疫情而导致的“第二波”打击也许更难应对](https://mp.weixin.qq.com/s/sFbfyEcq4pCyYvY58TiTLg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月15日）【中国科讯】](https://mp.weixin.qq.com/s/ZhP0tATSJ9kBrgd0Bvw-6w)
+- [24小时热门｜Cell子刊：新冠病毒是如何劫持并摧毁人类肺部细胞的](https://mp.weixin.qq.com/s/HuXXL720DKONaAY1tOCTxA)
+- [新研究预测：全球约 15 亿人 2022 年前无法获得新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/k6rJtsdn1i2D3l0wJpCrHA)

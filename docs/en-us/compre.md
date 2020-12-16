@@ -1400,3 +1400,8 @@
 - [Home garden use during COVID-19: associations with physical and mental wellbeing in older adults](https://www.sciencedirect.com/science/article/pii/S0272494420307106)
 - [Face masks and COVID-19: don’t let perfect be the enemy of good separator ](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.49.2001998?crawler=true)
 - [Physical activity and screen time of children and adolescents before and during the COVID-19 lockdown in Germany: a natural experiment](https://www.nature.com/articles/s41598-020-78438-4#Bib1)
+- [2020《自然》年度十大人物：直面科学和社会挑战](https://mp.weixin.qq.com/s/2t1zCJLgn9rOJTf7upmC7g)
+- [Nature’s 10: ten people who helped shape science in 2020](https://www.nature.com/immersive/d41586-020-03435-6/index.html)
+- [Nature年度十大人物揭晓！两位中国学者入选](https://mp.weixin.qq.com/s/68MXST2O9S-SdqDOvqdT4w)
+- [《柳叶刀》社论 | 直面新冠长期症状困境](https://mp.weixin.qq.com/s/3yrq-CPB9gC2X5Db_SAr7w)
+- [Facing up to long COVID](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32662-3/fulltext)
