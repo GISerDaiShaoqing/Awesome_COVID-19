@@ -1085,3 +1085,5 @@
 - [US authorization of first COVID vaccine marks new phase in safety monitoring](https://www.nature.com/articles/d41586-020-03542-4?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03542-4)
 - [静动脉体外膜肺氧合用于治疗新冠肺炎并发症](https://mp.weixin.qq.com/s/sCl8BRcoKgguumYCQWsSTQ)
 - [Cardiovascular Collapse in COVID-19 Infection: The Role of Venoarterial Extracorporeal Membrane Oxygenation (VA-ECMO)](https://www.sciencedirect.com/science/article/pii/S2589790X20300433?via%3Dihub)
+- [Science长文 | 中国的新冠疫苗研发始末，在艰难中获得成功！](https://mp.weixin.qq.com/s/_AFfBNvUpaoXxwfmtQ-W8Q)
+- [China's vaccine gambit](https://science.sciencemag.org/content/370/6522/1263)

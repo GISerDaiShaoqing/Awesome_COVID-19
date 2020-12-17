@@ -1224,3 +1224,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月15日）【中国科讯】](https://mp.weixin.qq.com/s/ZhP0tATSJ9kBrgd0Bvw-6w)
 - [24小时热门｜Cell子刊：新冠病毒是如何劫持并摧毁人类肺部细胞的](https://mp.weixin.qq.com/s/HuXXL720DKONaAY1tOCTxA)
 - [新研究预测：全球约 15 亿人 2022 年前无法获得新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/k6rJtsdn1i2D3l0wJpCrHA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月16日）【中国科讯】](https://mp.weixin.qq.com/s/KhafebHrB12iT8ri6I4LhA)
+- [美国新冠疫苗接种出错，或导致六分之一辉瑞疫苗被浪费｜科研圈日报](https://mp.weixin.qq.com/s/LuxiyAY9nOASbEsFm_qKQQ)
+- [24小时热门｜新研究预测：全球约 15 亿人 2022 年前无法获得新冠疫苗](https://mp.weixin.qq.com/s/UU41eXsE9EZOcjm0EIL_Jw)

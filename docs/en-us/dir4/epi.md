@@ -386,3 +386,4 @@
 - [Quantifying the Time-Lag Effects of Human Mobility on the COVID-19 Transmission: A Multi-City Study in China](https://ieeexplore.ieee.org/document/9262890)
 - [Prediction of the COVID-19 outbreak in China based on a new stochastic dynamic model](https://www.nature.com/articles/s41598-020-76630-0)
 - [Investigation of 100 SARS-CoV-2 infected families in Wuhan: Transmission patterns and follow-up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719352/)
+- [Tracking the early depleting transmission dynamics of COVID-19 with a time-varying SIR model](https://www.nature.com/articles/s41598-020-78739-8)

@@ -602,3 +602,4 @@
 - [【Open Access】构建更为韧性的医疗卫生防疫体系策略研究——以北京医疗卫生服务设施为例](https://mp.weixin.qq.com/s/aKlbX-yIrxB8vTj22cxFpg)
 - [橙梦调查 | 2020疫情下中国留学生在荷兰求职的经验分享](https://mp.weixin.qq.com/s/P8eGhcy6MUEkHhA6Dvjcuw)
 - [全球城市观察︱纽约，新冠下的街头摊贩们](https://mp.weixin.qq.com/s/cB7X6RwmFxkN4dI6JHRdaw)
+- [百度地图慧眼X益普索Ipsos | 2020后疫情时代中国商圈复苏报告](https://mp.weixin.qq.com/s/zNXVI0lRngZN8W4VC4XfjQ)

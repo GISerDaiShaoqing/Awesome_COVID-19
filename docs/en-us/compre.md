@@ -1405,3 +1405,8 @@
 - [Nature年度十大人物揭晓！两位中国学者入选](https://mp.weixin.qq.com/s/68MXST2O9S-SdqDOvqdT4w)
 - [《柳叶刀》社论 | 直面新冠长期症状困境](https://mp.weixin.qq.com/s/3yrq-CPB9gC2X5Db_SAr7w)
 - [Facing up to long COVID](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32662-3/fulltext)
+- [病毒、显微镜、快速射电暴：惊艳2020年的十大研究发现](https://mp.weixin.qq.com/s/i5mqoi8aUIQBOVBH7rakpw)
+- [Viruses, microscopy and fast radio bursts: 10 remarkable discoveries from 2020](https://www.nature.com/articles/d41586-020-03514-8?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-03514-8)
+- [病毒检测新技术：智能手机拍个照，即可诊断各种病毒感染｜Science Advances](https://mp.weixin.qq.com/s/Wt0VAXqZEijYedvYs-XL8w)
+- [Virus detection using nanoparticles and deep neural network–enabled smartphone system](https://advances.sciencemag.org/content/6/51/eabd5354)
+- [Awareness and Psychosocial Effects of COVID-19 Pandemic on Health Care Professionals and Medical Students Across the State of Maharashtra](http://ijcrr.com/uploads/3144_pdf.pdf)
