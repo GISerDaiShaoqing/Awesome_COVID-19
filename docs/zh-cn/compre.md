@@ -1423,3 +1423,4 @@
 - [Climate and COVID-19: converging crises](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32579-4/fulltext)
 - [疫情中绽放出的希望之花！《科学》杂志评出2020年十大科学突破](https://mp.weixin.qq.com/s/j-ldxdzi6036R4xQk4vrOQ)
 - [2020 Science年度十大科学突破【抢鲜看版】](https://mp.weixin.qq.com/s/hRGG41oHpm8KzyFwbeVsqQ)
+- [Can a regional-scale reduction of atmospheric CO2 during the COVID-19 pandemic be detected from space? A case study for East China using satellite XCO2 retrievals](https://amt.copernicus.org/preprints/amt-2020-386/)
