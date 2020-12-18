@@ -1227,3 +1227,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月16日）【中国科讯】](https://mp.weixin.qq.com/s/KhafebHrB12iT8ri6I4LhA)
 - [美国新冠疫苗接种出错，或导致六分之一辉瑞疫苗被浪费｜科研圈日报](https://mp.weixin.qq.com/s/LuxiyAY9nOASbEsFm_qKQQ)
 - [24小时热门｜新研究预测：全球约 15 亿人 2022 年前无法获得新冠疫苗](https://mp.weixin.qq.com/s/UU41eXsE9EZOcjm0EIL_Jw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月17日）【中国科讯】](https://mp.weixin.qq.com/s/yCLj3NJmb_mrM25xb1jFFw)
+- [【GIS菌一周盘点】李德仁院士：北斗时空体系可精准助力疫情防控](https://mp.weixin.qq.com/s/ns-f-UqInI3i5yTHgnPyMg)
+- [《科学》2020年度十大科学突破公布，新冠疫苗研发、CRISPR疗法首次取得临床试验成功等上榜​｜科研圈日报](https://mp.weixin.qq.com/s/L7iSngKBj1VIhYMsIM_mcg)
+- [24小时热门｜不是“大号流感”：BMJ研究直接对比新冠和流感近20项临床影响](https://mp.weixin.qq.com/s/2Q5bDNsnipRyQEv0YDfsAA)

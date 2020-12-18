@@ -314,3 +314,4 @@
 - [讲座预告 | 后疫情时代的健康城市](https://mp.weixin.qq.com/s/LlUPlFfokq_tMDYvZ3Hreg)
 - [辉瑞在FDA新冠疫苗专家会上答辩PPT-详解原理、安全性、有效性](https://mp.weixin.qq.com/s/7-aPQW5VhZcfeA5hayJGOA)
 - [GeoInsider在线讲座 第46期：移动大数据体现了疫情期间社交隔离的奢侈性](https://mp.weixin.qq.com/s/1asmh9fD1epM3x08pplduw)
+- [新冠疫情研究讲座系列之三新冠疫情影响分析预告](https://mp.weixin.qq.com/s/fa5o9e82W_rW0v0z54ZYAA)
