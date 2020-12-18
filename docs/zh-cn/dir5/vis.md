@@ -229,3 +229,4 @@
 - [五分钟看完新冠：从0到6000万！](https://mp.weixin.qq.com/s/j1aFc15IbPRgnTlp6Y23pw)
 - [信息过载的时代，艺术也需要可视化](https://mp.weixin.qq.com/s/cbBHeQh3JGLTVut-oZNTZA)
 - [Artists explore new ways of knowing in a time of information overload](https://www.nature.com/articles/d41586-020-01605-0?utm_source=Wechat&utm_medium=social&utm_campaign=d41586-020-01605-0)
+- [A Power-Law-Based Approach to Mapping COVID-19 Cases in the United States](https://www.researchgate.net/publication/347468904_A_Power-Law-Based_Approach_to_Mapping_COVID-19_Cases_in_the_United_States)
