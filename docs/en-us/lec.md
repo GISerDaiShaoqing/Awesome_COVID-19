@@ -315,3 +315,5 @@
 - [辉瑞在FDA新冠疫苗专家会上答辩PPT-详解原理、安全性、有效性](https://mp.weixin.qq.com/s/7-aPQW5VhZcfeA5hayJGOA)
 - [GeoInsider在线讲座 第46期：移动大数据体现了疫情期间社交隔离的奢侈性](https://mp.weixin.qq.com/s/1asmh9fD1epM3x08pplduw)
 - [新冠疫情研究讲座系列之三新冠疫情影响分析预告](https://mp.weixin.qq.com/s/fa5o9e82W_rW0v0z54ZYAA)
+- [终结疫情的杀手锏是什么？病毒与人类健康主题论坛即将举办](https://mp.weixin.qq.com/s/6FakcJKJyTV9Dvr8SkE7Sg)
+- [新冠疫情研究讲座——系列三](https://mp.weixin.qq.com/s/b33U4z7eHfQIYOWF9tH2iw)

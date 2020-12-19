@@ -1087,3 +1087,5 @@
 - [Cardiovascular Collapse in COVID-19 Infection: The Role of Venoarterial Extracorporeal Membrane Oxygenation (VA-ECMO)](https://www.sciencedirect.com/science/article/pii/S2589790X20300433?via%3Dihub)
 - [Science长文 | 中国的新冠疫苗研发始末，在艰难中获得成功！](https://mp.weixin.qq.com/s/_AFfBNvUpaoXxwfmtQ-W8Q)
 - [China's vaccine gambit](https://science.sciencemag.org/content/370/6522/1263)
+- [2分钟看懂NEJM：老年人接种SARS-CoV-2 mRNA疫苗的1期研究](https://mp.weixin.qq.com/s/rcr5KVznxjYlaAlfSyjdhg)
+- [Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults](https://www.nejm.org/doi/full/10.1056/NEJMoa2028436)

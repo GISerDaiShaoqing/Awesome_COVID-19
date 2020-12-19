@@ -1231,3 +1231,7 @@
 - [【GIS菌一周盘点】李德仁院士：北斗时空体系可精准助力疫情防控](https://mp.weixin.qq.com/s/ns-f-UqInI3i5yTHgnPyMg)
 - [《科学》2020年度十大科学突破公布，新冠疫苗研发、CRISPR疗法首次取得临床试验成功等上榜​｜科研圈日报](https://mp.weixin.qq.com/s/L7iSngKBj1VIhYMsIM_mcg)
 - [24小时热门｜不是“大号流感”：BMJ研究直接对比新冠和流感近20项临床影响](https://mp.weixin.qq.com/s/2Q5bDNsnipRyQEv0YDfsAA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月18日）【中国科讯】](https://mp.weixin.qq.com/s/B2uTxkCSN9KR1wskAacsMQ)
+- [28名专家获聘医科院学术咨询委学部委员；Science发布年度十大科学突破|一周动态](https://mp.weixin.qq.com/s/WZPDfqyIa1Ji8g--N_BEiw)
+- [Science公布年度十大科学突破！新冠疫苗居首位](https://mp.weixin.qq.com/s/OUDyvuJ_LlXXu-_CVD0F1w)
+- [不是“大号流感”：BMJ研究直接对比新冠和流感近20项临床影响｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/xWvxaYfS2RuiLpq_6kG3UA)

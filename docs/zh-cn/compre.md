@@ -1424,3 +1424,7 @@
 - [疫情中绽放出的希望之花！《科学》杂志评出2020年十大科学突破](https://mp.weixin.qq.com/s/j-ldxdzi6036R4xQk4vrOQ)
 - [2020 Science年度十大科学突破【抢鲜看版】](https://mp.weixin.qq.com/s/hRGG41oHpm8KzyFwbeVsqQ)
 - [Can a regional-scale reduction of atmospheric CO2 during the COVID-19 pandemic be detected from space? A case study for East China using satellite XCO2 retrievals](https://amt.copernicus.org/preprints/amt-2020-386/)
+- [Decennary spatial pattern changes and scaling effects of CO2 emissions of urban agglomerations in China](https://www.sciencedirect.com/science/article/pii/S0264275119310467?via%3Dihub#f0010)
+- [Renin–angiotensin system blockers and susceptibility to COVID-19: an international, open science, cohort analysis](https://www.sciencedirect.com/science/article/pii/S2589750020302892?via%3Dihub)
+- [Altered nutrition behavior during COVID-19 pandemic lockdown in young adults](https://link.springer.com/article/10.1007/s00394-020-02435-6)
+- [Covid-19:- The Unseen positive effects](http://wthtjsjs.cn/gallery/14-whjj-dec-5701.pdf)
