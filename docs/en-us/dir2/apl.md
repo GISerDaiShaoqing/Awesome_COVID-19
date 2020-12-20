@@ -1235,3 +1235,5 @@
 - [28名专家获聘医科院学术咨询委学部委员；Science发布年度十大科学突破|一周动态](https://mp.weixin.qq.com/s/WZPDfqyIa1Ji8g--N_BEiw)
 - [Science公布年度十大科学突破！新冠疫苗居首位](https://mp.weixin.qq.com/s/OUDyvuJ_LlXXu-_CVD0F1w)
 - [不是“大号流感”：BMJ研究直接对比新冠和流感近20项临床影响｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/xWvxaYfS2RuiLpq_6kG3UA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月19日）【中国科讯】](https://mp.weixin.qq.com/s/SPDCF2sRXDKWdwHtooo3Xg)
+- [教育部：不把“帽子”作为评价人才、配置学术资源的唯一依据；2022年前全球四分之一人口无缘新冠疫苗 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/WSLWKZNjenjevezlZx91RA)

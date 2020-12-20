@@ -1428,3 +1428,8 @@
 - [Renin–angiotensin system blockers and susceptibility to COVID-19: an international, open science, cohort analysis](https://www.sciencedirect.com/science/article/pii/S2589750020302892?via%3Dihub)
 - [Altered nutrition behavior during COVID-19 pandemic lockdown in young adults](https://link.springer.com/article/10.1007/s00394-020-02435-6)
 - [Covid-19:- The Unseen positive effects](http://wthtjsjs.cn/gallery/14-whjj-dec-5701.pdf)
+- [疫情下的北斗领域发展情况及建议](https://mp.weixin.qq.com/s/OYakklHEd9pjzPiY148P4g)
+- [【研究】应对新冠疫情有个“瑞士奶酪模式”，管用！](https://mp.weixin.qq.com/s/Uzpfs1vnf9z8zPW1l0XiRQ)
+- [The Swiss Cheese Model of Pandemic Defense](https://www.nytimes.com/2020/12/05/health/coronavirus-swiss-cheese-infection-mackay.html)
+- [视频＋图文｜2020 Science年度十大科学突破](https://mp.weixin.qq.com/s/06MibtqfnENwk5W9zUWfsA)
+- [2020 BREAKTHROUGH of the YEAR](https://vis.sciencemag.org/breakthrough2020/)

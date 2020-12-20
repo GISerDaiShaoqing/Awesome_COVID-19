@@ -686,3 +686,5 @@
 - [Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans](https://science.sciencemag.org/content/early/2020/11/09/science.abe5901)
 - [鼻拭子+手机显微镜！新冠低成本快速即时筛查 | Cell Press 新冠中心论文速递](https://mp.weixin.qq.com/s/PFW3AnpXKAs0uSQ1fevJSQ)
 - [Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy](https://www.cell.com/cell/fulltext/S0092-8674(20)31623-8#figures)
+- [新冠康复者体内现罕见真菌，死亡率50%](https://mp.weixin.qq.com/s/9NItNLI_o2l3QDwsDYhgMA)
+- [​南非、英国现病毒新变种 新冠病毒变异会影响疫苗有效性吗？](https://mp.weixin.qq.com/s/-9FjRMV78D7ckbV9Wer0WA)
