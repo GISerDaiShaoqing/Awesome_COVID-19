@@ -387,3 +387,4 @@
 - [Prediction of the COVID-19 outbreak in China based on a new stochastic dynamic model](https://www.nature.com/articles/s41598-020-76630-0)
 - [Investigation of 100 SARS-CoV-2 infected families in Wuhan: Transmission patterns and follow-up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719352/)
 - [Tracking the early depleting transmission dynamics of COVID-19 with a time-varying SIR model](https://www.nature.com/articles/s41598-020-78739-8)
+- [Modeling the Spatiotemporal Epidemic Spreading of COVID-19 and the Impact of Mobility and Social Distancing Interventions](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.10.041055)
