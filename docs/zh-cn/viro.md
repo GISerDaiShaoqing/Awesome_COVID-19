@@ -692,3 +692,7 @@
 - [新冠、人、动物](https://mp.weixin.qq.com/s/TOm5XM4aWQk6swUE0GBbRg)
 - [Science新冠合集｜SARS-CoV-2刺突蛋白突变对病毒传播及致病性的影响](https://mp.weixin.qq.com/s/lzza5JZmtH6_txK1Cf9SmA)
 - [SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo](https://science.sciencemag.org/content/370/6523/1464)
+- [高福院士团队在新冠病毒对蝙蝠ACE2跨种识别机制研究中取得进展](https://mp.weixin.qq.com/s/Nnn5RHNFKkVj0I-rnXK1SQ)
+- [Cross-species recognition of SARS-CoV-2 to bat ACE2](https://www.pnas.org/content/118/1/e2020216118)
+- [全基因组筛查冠状病毒宿主因子网络 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/7YseU6z2oR91ftFCSU1jpQ)
+- [Genome-scale identification of SARS-CoV-2 and pan-coronavirus host factor networks](https://www.cell.com/cell/fulltext/S0092-8674(20)31676-7)

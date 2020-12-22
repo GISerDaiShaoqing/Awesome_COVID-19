@@ -1244,3 +1244,6 @@
 - [Science 一周论文导读 | 2020年12月11日](https://mp.weixin.qq.com/s/9uo7TYFMkVo4rcp5Gu2a3g)
 - [Nature 一周论文导读 | 2020年12月10日](https://mp.weixin.qq.com/s/-bWwti-7JIWSgq54CC4L5A)
 - [24小时热门｜加快患者康复，瑞德西韦组合疗法优于单药治疗](https://mp.weixin.qq.com/s/k0k-jg9983MFc16hlUH7TA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月21日）【中国科讯】](https://mp.weixin.qq.com/s/UxrSkYj6VCkO1qVv_GByYw)
+- [斯坦福医院用算法分配新冠疫苗引发争议，1300名住院医师只有7人获得疫苗｜科研圈日报](https://mp.weixin.qq.com/s/DwtscNmuXumd1kwJSZ_oPA)
+- [伦敦封城！令英国“大惊失色”的新冠病毒变异，是怎么回事？](https://mp.weixin.qq.com/s/5RSjtSag_VtXxHeYAOtGIA)
