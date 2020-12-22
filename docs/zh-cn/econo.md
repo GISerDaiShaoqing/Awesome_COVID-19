@@ -605,3 +605,5 @@
 - [百度地图慧眼X益普索Ipsos | 2020后疫情时代中国商圈复苏报告](https://mp.weixin.qq.com/s/zNXVI0lRngZN8W4VC4XfjQ)
 - [疫情之下话工改——顺德北滘镇45家企业调研实录](https://mp.weixin.qq.com/s/GUP4IilwbQVw_F4p5Bm0-A)
 - [国际资讯 | [意]利用欧盟复兴基金改变旧规范/新冠时期城市公共空间再设计(2020.12)](https://mp.weixin.qq.com/s/_fVXlYQSW0IWlBnxoljszg)
+- [【治理与反思】COVID-19应对中的中国公共预算：平衡疫情防控与经济发展](https://mp.weixin.qq.com/s/GLA89idYALwkWoiVMC10FA)
+- [Analyzing the Chinese budgetary responses to COVID-19: balancing prevention and control with socioeconomic recovery](https://www.emerald.com/insight/content/doi/10.1108/JPBAFM-08-2020-0142/full/html#loginreload)

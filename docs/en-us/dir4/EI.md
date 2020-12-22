@@ -111,3 +111,5 @@
 - [The Effectiveness of Community-based Social Distancing for Mitigating the Spread of the COVID-19 Pandemic in Turkey](https://www.koreascience.or.kr/article/JAKO202034465346010.pdf)
 - [Threshold Condition and Non Pharmaceutical Interventions’s Control strategies for Elimination of COVID-19](https://www.sciencedirect.com/science/article/pii/S2211379720321161)
 - [Inferring the effectiveness of government interventions against COVID-19](https://science.sciencemag.org/content/sci/early/2020/12/15/science.abd9338.full.pdf)
+- [柳叶刀-公共卫生 | 必须针对性地采取旅行限制，才能有效控制COVID-19社区传播](https://mp.weixin.qq.com/s/9FSDVkP0oapJUwZ_MsuYQA)
+- [Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30263-2/fulltext)

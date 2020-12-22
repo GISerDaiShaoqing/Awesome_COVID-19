@@ -1089,3 +1089,8 @@
 - [China's vaccine gambit](https://science.sciencemag.org/content/370/6522/1263)
 - [2分钟看懂NEJM：老年人接种SARS-CoV-2 mRNA疫苗的1期研究](https://mp.weixin.qq.com/s/rcr5KVznxjYlaAlfSyjdhg)
 - [Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults](https://www.nejm.org/doi/full/10.1056/NEJMoa2028436)
+- [恢复期血浆治疗感染SARS-CoV-2的重症患者的疗效研究](https://mp.weixin.qq.com/s/ZzLHv9ukhtBnn9-iZGtiyg)
+- [Treatment With Convalescent Plasma for Critically Ill Patients With Severe Acute Respiratory Syndrome Coronavirus 2 Infection](https://www.sciencedirect.com/science/article/pii/S0012369220305717)
+- [Science新冠｜根据疫苗开发经验，对新冠疫苗进行全面安全性试验](https://mp.weixin.qq.com/s/g7cD0wbtkEwoWyXSJ1HnSw)
+- [Ensuring vaccine safety](https://science.sciencemag.org/content/370/6522/1274)
+- [北卡州立大学谢德玉教授研究表明 绿茶巧克力葡萄可以对抗新冠病毒](https://mp.weixin.qq.com/s/6G61uyByP9JiVy5ekTUQKQ)

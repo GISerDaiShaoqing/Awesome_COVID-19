@@ -688,3 +688,7 @@
 - [Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy](https://www.cell.com/cell/fulltext/S0092-8674(20)31623-8#figures)
 - [新冠康复者体内现罕见真菌，死亡率50%](https://mp.weixin.qq.com/s/9NItNLI_o2l3QDwsDYhgMA)
 - [​南非、英国现病毒新变种 新冠病毒变异会影响疫苗有效性吗？](https://mp.weixin.qq.com/s/-9FjRMV78D7ckbV9Wer0WA)
+- [太可怕：新冠病毒新突变，毒株亲和力提高1000倍，传播提高70%！已经成为伦敦地区主要毒株](https://mp.weixin.qq.com/s/dsrA52AfWXmpRq_c3xrBjg)
+- [新冠、人、动物](https://mp.weixin.qq.com/s/TOm5XM4aWQk6swUE0GBbRg)
+- [Science新冠合集｜SARS-CoV-2刺突蛋白突变对病毒传播及致病性的影响](https://mp.weixin.qq.com/s/lzza5JZmtH6_txK1Cf9SmA)
+- [SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo](https://science.sciencemag.org/content/370/6523/1464)
