@@ -96,3 +96,7 @@
 - [OCHA-Bucky Model: Modeling COVID-19 to inform humanitarian operations](https://github.com/OCHA-DAP/pa-ocha-bucky)
 - [空间数据分析之疫情分析](https://mp.weixin.qq.com/s/1sXCYkEUMCVnx14HD3kzzw)
 - [R code to find clusters of COVID cases & contacts](https://github.com/JessButler/covid_networks)
+- [CovsirPhy: Python package for COVID-19 analysis with phase-dependent SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
+- [An Interface to the Oxford COVID-19 Government Response Tracker API](https://github.com/como-ph/oxcgrt)
+- [PandemicLP: Long Term Prediction for Epidemic and Pandemic Data](http://est.ufmg.br/covidlp/home/pt/)
+- [Extended Susceptible-Exposed-Infected-Recovery (SEIR) Model for handling high False Negative Rate and Symptom based administration of diagnostic tests](https://github.com/umich-biostatistics/SEIRfansy)

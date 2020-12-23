@@ -608,3 +608,4 @@
 - [【治理与反思】COVID-19应对中的中国公共预算：平衡疫情防控与经济发展](https://mp.weixin.qq.com/s/GLA89idYALwkWoiVMC10FA)
 - [Analyzing the Chinese budgetary responses to COVID-19: balancing prevention and control with socioeconomic recovery](https://www.emerald.com/insight/content/doi/10.1108/JPBAFM-08-2020-0142/full/html#loginreload)
 - [澎湃新闻：问策上海2025｜吴瑞君：后疫情时代，亟需实施人才引领发展战略](https://mp.weixin.qq.com/s/GMLil93EFjWIQ2iJmKA3YA)
+- [国际资讯 | [法]数字化背后的高能耗/禁足令与“安静期”(2020.12)](https://mp.weixin.qq.com/s/ZGcIYLYv9hH71DADKUNxrw)

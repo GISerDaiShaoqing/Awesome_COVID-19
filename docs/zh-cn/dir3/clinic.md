@@ -1094,3 +1094,6 @@
 - [Science新冠｜根据疫苗开发经验，对新冠疫苗进行全面安全性试验](https://mp.weixin.qq.com/s/g7cD0wbtkEwoWyXSJ1HnSw)
 - [Ensuring vaccine safety](https://science.sciencemag.org/content/370/6522/1274)
 - [北卡州立大学谢德玉教授研究表明 绿茶巧克力葡萄可以对抗新冠病毒](https://mp.weixin.qq.com/s/6G61uyByP9JiVy5ekTUQKQ)
+- [Science关注：辉瑞公司mRNA新冠疫苗会触发罕见的严重过敏反应](https://mp.weixin.qq.com/s/R0nIVFPowkgWdO-jMp09Ng)
+- [武汉全民SARS-CoV-2免疫球蛋白抗体检测结果](https://mp.weixin.qq.com/s/3CTLw7M--LwUfojEa6tEQw)
+- [Seroprevalence of SARS-CoV-2 immunoglobulin antibodies in Wuhan, China: part of the city-wide massive testing campaign](https://www-sciencedirect-com.ezproxy2.utwente.nl/science/article/pii/S1198743X2030598X?via%3Dihub)

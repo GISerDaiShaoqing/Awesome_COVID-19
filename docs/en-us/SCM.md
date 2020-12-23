@@ -100,5 +100,6 @@
 - [后疫情时代︱美国城市公园与旧金山低碳社区彰显疫后复苏价值 (两则)](https://mp.weixin.qq.com/s/7V4tDvyMqDNBN8EjzCOi0A)
 - [后疫情时代︱旧暖气片其实是抗疫利器，八图揭秘美国家庭空调使用习惯 (两则)](https://mp.weixin.qq.com/s/OfyEmtmNC6UWQyTAvO1tGg)
 - [人才策略量化分析︱后疫情时代，人才也许正在离开那些美国超级明星城市](https://mp.weixin.qq.com/s/qW1-QMjrSEKbX9r69t0DxQ)
+- [后疫情时代︱无小汽车的15分钟城市？醒醒吧，城市规划师们](https://mp.weixin.qq.com/s/CIiqtPlxNxd1u2-0_8xGvw)
 
 ![](/img/SCM.jpg)

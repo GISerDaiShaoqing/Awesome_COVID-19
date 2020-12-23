@@ -1247,3 +1247,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月21日）【中国科讯】](https://mp.weixin.qq.com/s/UxrSkYj6VCkO1qVv_GByYw)
 - [斯坦福医院用算法分配新冠疫苗引发争议，1300名住院医师只有7人获得疫苗｜科研圈日报](https://mp.weixin.qq.com/s/DwtscNmuXumd1kwJSZ_oPA)
 - [伦敦封城！令英国“大惊失色”的新冠病毒变异，是怎么回事？](https://mp.weixin.qq.com/s/5RSjtSag_VtXxHeYAOtGIA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月22日）【中国科讯】](https://mp.weixin.qq.com/s/PlnxO6DAl55EzjpkIeZuZg)
+- [5000人参与，我国重组新冠病毒疫苗启动首个海外临床试验](https://mp.weixin.qq.com/s/g17xuzHFOGNXhI5K25bSOQ)
+- [BioNTech 称，其与辉瑞共同研发的疫苗“极有可能”对英国变异毒株有效 | 科研圈日报](https://mp.weixin.qq.com/s/-kw_fbYOMYE3D6ZA8REjDw)

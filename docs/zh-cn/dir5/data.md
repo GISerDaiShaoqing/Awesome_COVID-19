@@ -231,3 +231,4 @@
 - [新文速递| 新冠疫情病例时空快速响应数据集](https://mp.weixin.qq.com/s/IdL6xtPY8zua0w1l4RVaGQ)
 - [A spatiotemporal data collection of viral cases for COVID-19 rapid response](https://www.tandfonline.com/doi/full/10.1080/20964471.2020.1844934)
 - [COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub)
+- [Excel不是万能的！新冠疫情教我们的数据课](https://mp.weixin.qq.com/s/pYkBJ1tFbuIEhlcFPHH71w)
