@@ -1250,3 +1250,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月22日）【中国科讯】](https://mp.weixin.qq.com/s/PlnxO6DAl55EzjpkIeZuZg)
 - [5000人参与，我国重组新冠病毒疫苗启动首个海外临床试验](https://mp.weixin.qq.com/s/g17xuzHFOGNXhI5K25bSOQ)
 - [BioNTech 称，其与辉瑞共同研发的疫苗“极有可能”对英国变异毒株有效 | 科研圈日报](https://mp.weixin.qq.com/s/-kw_fbYOMYE3D6ZA8REjDw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月23日）【中国科讯】](https://mp.weixin.qq.com/s/EiLGl2a1Hccz20LqeHgC9w)
+- [院所成果 | 中科院科技创新亮点成果筛选2020年第4季度【中国科讯】](https://mp.weixin.qq.com/s/1XDNPnOghaLQfcUIz2R2Dg)
+- [Nature：2021年，这些事最值得关注](https://mp.weixin.qq.com/s/PAoZjLokbFGyiuEdiiRxaA)
+- [新冠肺炎检测及诊断设备研发方面取得重要进展丨亮点成果](https://mp.weixin.qq.com/s/IOTdCcKKPLBuLau7qfQFmw)
+- [英国发现另一种变异新冠病毒 | 科研圈日报](https://mp.weixin.qq.com/s/DQcoHkaFme9Aafxx_4nIIw)

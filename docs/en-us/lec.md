@@ -317,3 +317,5 @@
 - [新冠疫情研究讲座系列之三新冠疫情影响分析预告](https://mp.weixin.qq.com/s/fa5o9e82W_rW0v0z54ZYAA)
 - [终结疫情的杀手锏是什么？病毒与人类健康主题论坛即将举办](https://mp.weixin.qq.com/s/6FakcJKJyTV9Dvr8SkE7Sg)
 - [新冠疫情研究讲座——系列三](https://mp.weixin.qq.com/s/b33U4z7eHfQIYOWF9tH2iw)
+- [2020收官线下活动：AI是否可以引领传染病诊疗的新范式？](https://mp.weixin.qq.com/s/8s4MHJZ2-JWsbePO1TVFug)
+- [活动预告 | 与AGU主编面对面](https://mp.weixin.qq.com/s/kThJxC_A4jtEjK9y9k1Gzg)

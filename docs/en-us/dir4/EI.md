@@ -113,3 +113,4 @@
 - [Inferring the effectiveness of government interventions against COVID-19](https://science.sciencemag.org/content/sci/early/2020/12/15/science.abd9338.full.pdf)
 - [柳叶刀-公共卫生 | 必须针对性地采取旅行限制，才能有效控制COVID-19社区传播](https://mp.weixin.qq.com/s/9FSDVkP0oapJUwZ_MsuYQA)
 - [Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30263-2/fulltext)
+- [Reduction of COVID-19 Incidence and Nonpharmacologic Interventions: Analysis Using a US County–Level Policy Data Set](https://www.jmir.org/2020/12/e24614)
