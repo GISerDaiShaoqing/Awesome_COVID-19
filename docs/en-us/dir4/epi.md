@@ -388,3 +388,6 @@
 - [Investigation of 100 SARS-CoV-2 infected families in Wuhan: Transmission patterns and follow-up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719352/)
 - [Tracking the early depleting transmission dynamics of COVID-19 with a time-varying SIR model](https://www.nature.com/articles/s41598-020-78739-8)
 - [Modeling the Spatiotemporal Epidemic Spreading of COVID-19 and the Impact of Mobility and Social Distancing Interventions](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.10.041055)
+- [呼吸困难或是预测COVID-19死亡率的风险因素？](https://mp.weixin.qq.com/s/vB94STFQpmwi2kH6MZ8r-g)
+- [Meta-Analysis of Relation of Creatine kinase-MB to Risk of Mortality in Coronavirus Disease 2019 Patients](https://www.sciencedirect.com/science/article/pii/S0002914920305609?via%3Dihub)
+- [Spatial analysis of the impact of urban geometry and socio-demographic characteristics on COVID-19, a study in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0048969720379869?via%3Dihub#f0005)

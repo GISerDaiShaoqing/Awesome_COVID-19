@@ -1255,3 +1255,6 @@
 - [Nature：2021年，这些事最值得关注](https://mp.weixin.qq.com/s/PAoZjLokbFGyiuEdiiRxaA)
 - [新冠肺炎检测及诊断设备研发方面取得重要进展丨亮点成果](https://mp.weixin.qq.com/s/IOTdCcKKPLBuLau7qfQFmw)
 - [英国发现另一种变异新冠病毒 | 科研圈日报](https://mp.weixin.qq.com/s/DQcoHkaFme9Aafxx_4nIIw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月24日）【中国科讯】](https://mp.weixin.qq.com/s/Y9LcNrsCvDCPLXt0DeTY2g)
+- [张文宏：面对新冠疫情要打“科普组合拳”](https://mp.weixin.qq.com/s/aT1cxTDfj7GgIaBTO65F7g)
+- [2007图灵奖得主Edmund Clarke因新冠逝世，曾为模型检测开发作出重要贡献 | 科研圈日报](https://mp.weixin.qq.com/s/B-PSuuy5ThIb-U4jKp_06w)

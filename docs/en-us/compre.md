@@ -1467,3 +1467,7 @@
 - [新冠病毒乘陨石来到地球？地心黑洞和皮肤病有关？2020年撤稿事件盘点](https://mp.weixin.qq.com/s/JN6pcR5x-r322QT0hrLXeg)
 - [Global air quality change during COVID-19: a synthetic result of human activities 2and meteorology](https://eartharxiv.org/repository/view/1924/)
 - [The Relationship between Nature Deprivation and Individual Wellbeing across Urban Gradients under COVID-19](https://www.preprints.org/manuscript/202012.0484/v1)
+- [新冠疫苗也种族歧视？MIT研究：疫苗对亚裔无效率是白人的250倍](https://mp.weixin.qq.com/s/5CYS4C-X8WfiUUnHpI8cew)
+- [Predicted Cellular Immunity Population Coverage Gaps for SARS-CoV-2 Subunit Vaccines and Their Augmentation by Compact Peptide Sets](https://www.sciencedirect.com/science/article/pii/S2405471220304610)
+- [从知识图谱到药物发现，AIWIN获奖星斗云智能文献平台助力新冠研究](https://mp.weixin.qq.com/s/ak3dIb2jY9EdVwLo-lOpxA)
+- [Racial Segregation, Testing Site Access, and COVID-19 Incidence Rate in Massachusetts, USA](https://www.mdpi.com/1660-4601/17/24/9528)
