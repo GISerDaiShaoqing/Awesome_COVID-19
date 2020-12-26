@@ -1099,3 +1099,5 @@
 - [Seroprevalence of SARS-CoV-2 immunoglobulin antibodies in Wuhan, China: part of the city-wide massive testing campaign](https://www-sciencedirect-com.ezproxy2.utwente.nl/science/article/pii/S1198743X2030598X?via%3Dihub)
 - [NEJM | 免疫系统的一场混战！细胞因子风暴如何成为疾病的“夺命帮凶”](https://mp.weixin.qq.com/s/sf66Sp8dG4eBwK_VE68Iog)
 - [Cytokine Storm](https://www.nejm.org/doi/10.1056/NEJMra2026131)
+- [Nature | 新冠疫苗的前途与“钱”途](https://mp.weixin.qq.com/s/BU0dHQOcpv__VU-O8jaBbQ)
+- [The lightning-fast quest for COVID vaccines — and what it means for other diseases](https://www.nature.com/articles/d41586-020-03626-1)
