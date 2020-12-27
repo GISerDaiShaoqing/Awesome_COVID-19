@@ -392,3 +392,5 @@
 - [Meta-Analysis of Relation of Creatine kinase-MB to Risk of Mortality in Coronavirus Disease 2019 Patients](https://www.sciencedirect.com/science/article/pii/S0002914920305609?via%3Dihub)
 - [Spatial analysis of the impact of urban geometry and socio-demographic characteristics on COVID-19, a study in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0048969720379869?via%3Dihub#f0005)
 - [PREDICTION OF CONFIRMED COVID-19 CASES IN OMAN USING ARTIFICIAL NEURAL NETWORKS](https://www.researchgate.net/publication/347509416_PREDICTION_OF_CONFIRMED_COVID-19_CASES_IN_OMAN_USING_ARTIFICIAL_NEURAL_NETWORKS)
+- [基于大规模结构化病例数据的新型冠状病毒传播特 征和感染人群分析](https://mp.weixin.qq.com/s/DEBwyherCLGHsTOhz_03mQ)
+- [基于大规模结构化病例数据的新型冠状病毒传播特 征和感染人群分析](http://scis.scichina.com/cn/2020/SSI-2020-0029.pdf)

@@ -1259,3 +1259,8 @@
 - [张文宏：面对新冠疫情要打“科普组合拳”](https://mp.weixin.qq.com/s/aT1cxTDfj7GgIaBTO65F7g)
 - [2007图灵奖得主Edmund Clarke因新冠逝世，曾为模型检测开发作出重要贡献 | 科研圈日报](https://mp.weixin.qq.com/s/B-PSuuy5ThIb-U4jKp_06w)
 - [情报监测 | “COVID-19”科研动态监测每日快报（12月25日）【中国科讯】](https://mp.weixin.qq.com/s/lEqmYQBmmuKLgipA86Q-6A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月26日）【中国科讯】](https://mp.weixin.qq.com/s/_ZGM14qQoH0pjSvs0thnVg)
+- [2021年元旦春节健康提示](https://mp.weixin.qq.com/s/fEfwSHjfJwBaYnJRDeLLlQ)
+- [全球新冠确诊超8000万例！病毒VS疫苗，赛末点到来了吗？](https://mp.weixin.qq.com/s/lHN1zSWRj7jria5YPFPIOg)
+- [11-12月Nature杂志不得不看的重磅级亮点研究](https://mp.weixin.qq.com/s/QIy6cFZhrrB7SrVrPvEwMg)
+- [全国考研人数4年来增长近一倍；天津大学打破导师终身制；南极洲出现新冠病例 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/tn4BLDZALdY7UOPDqcTJZQ)
