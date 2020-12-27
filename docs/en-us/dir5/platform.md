@@ -137,3 +137,4 @@
 - [EfficientSuspected Infected Crowds Detection Based on Spatio-Temporal Trajectories](https://arxiv.org/abs/2004.06653)
 - [Getting Started with Create React App](https://github.com/nofurtherinformation/covid-country)
 - [covid-green-app](https://github.com/covidgreen/covid-green-app)
+- [v-resas](https://v-resas.go.jp/)
