@@ -1264,3 +1264,7 @@
 - [全球新冠确诊超8000万例！病毒VS疫苗，赛末点到来了吗？](https://mp.weixin.qq.com/s/lHN1zSWRj7jria5YPFPIOg)
 - [11-12月Nature杂志不得不看的重磅级亮点研究](https://mp.weixin.qq.com/s/QIy6cFZhrrB7SrVrPvEwMg)
 - [全国考研人数4年来增长近一倍；天津大学打破导师终身制；南极洲出现新冠病例 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/tn4BLDZALdY7UOPDqcTJZQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月27日）【中国科讯】](https://mp.weixin.qq.com/s/0wIAp96Qs3cvTydZx0moEg)
+- [欧洲启动大规模接种疫苗｜科研圈日报](https://mp.weixin.qq.com/s/3gijSLefDbYzNjLn06MDyA)
+- [Science 一周论文导读 | 2020年12月18日](https://mp.weixin.qq.com/s/MpR-tvKxHYuBbK05yGpetQ)
+- [Nature 一周论文导读 | 2020年12月17日](https://mp.weixin.qq.com/s/TaB0Y9QFweQJEdiL0sdZ9A)

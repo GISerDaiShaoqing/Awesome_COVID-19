@@ -394,3 +394,4 @@
 - [PREDICTION OF CONFIRMED COVID-19 CASES IN OMAN USING ARTIFICIAL NEURAL NETWORKS](https://www.researchgate.net/publication/347509416_PREDICTION_OF_CONFIRMED_COVID-19_CASES_IN_OMAN_USING_ARTIFICIAL_NEURAL_NETWORKS)
 - [基于大规模结构化病例数据的新型冠状病毒传播特 征和感染人群分析](https://mp.weixin.qq.com/s/DEBwyherCLGHsTOhz_03mQ)
 - [基于大规模结构化病例数据的新型冠状病毒传播特 征和感染人群分析](http://scis.scichina.com/cn/2020/SSI-2020-0029.pdf)
+- [科学认识人群新冠病毒抗体流行率——全国新冠肺炎血清流行病学调查结果问答](https://mp.weixin.qq.com/s/LXTfDmsQLf3qZnu_S_MxcA)
