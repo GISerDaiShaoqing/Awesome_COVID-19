@@ -1477,3 +1477,7 @@
 - [应急科普，能否从容以对？｜追问2020·年终特稿](https://mp.weixin.qq.com/s/5UhjeT0JKZ2Q53uLiU4X9g)
 - [Air Quality Changes in Shanghai, China, and the Surrounding Urban Agglomeration During the COVID-19 Lockdown](https://doi.org/10.1007/s41651-020-00064-5)
 - [2020：与众不同的一年](https://mp.weixin.qq.com/s/WzxwKZOetN6yWQHxMPCcsw)
+- [2020，疫情中的大学，就看这5个词](https://mp.weixin.qq.com/s/3RidA7w9i_SvclMWwuUO1Q)
+- [西安理工大学赵亚乾团队CEJ：冠状病毒在水和废水中传播特征、可能遏制策略与研究挑战](https://mp.weixin.qq.com/s/ebYIXz5ylasz4ITaJYRMyg)
+- [Where dowe stand to oversee the coronaviruses in aqueous and aerosol environment? Characteristics of transmission and possible curb strategies](https://www.sciencedirect.com/science/article/pii/S1385894720336445?via%3Dihub=)
+- [Characterizing COVID-19 and Influenza Illnesses in the Real World via Person-Generated Health Data](https://www.cell.com/patterns/fulltext/S2666-3899(20)30258-0?utm_medium=weibo)

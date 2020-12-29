@@ -395,3 +395,8 @@
 - [基于大规模结构化病例数据的新型冠状病毒传播特 征和感染人群分析](https://mp.weixin.qq.com/s/DEBwyherCLGHsTOhz_03mQ)
 - [基于大规模结构化病例数据的新型冠状病毒传播特 征和感染人群分析](http://scis.scichina.com/cn/2020/SSI-2020-0029.pdf)
 - [科学认识人群新冠病毒抗体流行率——全国新冠肺炎血清流行病学调查结果问答](https://mp.weixin.qq.com/s/LXTfDmsQLf3qZnu_S_MxcA)
+- [【健康影响】COVID-19大流行的死亡和就业影响在不同年龄段和地理位置的分布](https://mp.weixin.qq.com/s/FC63LL3kbsXl8mTr97Itew)
+- [Initial economic damage from the COVID-19 pandemic in the United States is more widespread across ages and geographies than initial mortality impacts](https://www.pnas.org/content/117/45/27934)
+- [FORECASTING COVID-19 CASES IN FRANCE: AN APPLICATION OF ARTIFICIAL NEURAL NETWORKS](https://www.researchgate.net/profile/Thabani_Nyoni2/publication/347508988_FORECASTING_COVID-19_CASES_IN_FRANCE_AN_APPLICATION_OF_ARTIFICIAL_NEURAL_NETWORKS/links/5fdf190c299bf140882a454e/FORECASTING-COVID-19-CASES-IN-FRANCE-AN-APPLICATION-OF-ARTIFICIAL-NEURAL-NETWORKS.pdf)
+- [Explaining among-country variation in COVID-19 case fatality rate](https://www.nature.com/articles/s41598-020-75848-2)
+- [Maximum entropy method for estimating the reproduction number: An investigation for COVID-19 in China and the United States](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032136)

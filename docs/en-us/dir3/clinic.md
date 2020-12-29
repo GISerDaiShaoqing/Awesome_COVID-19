@@ -1109,3 +1109,6 @@
 - [Elevated ACE-2 expression in the olfactory neuroepithelium: implications for anosmia and upper respiratory SARS-CoV-2 entry and replication](https://erj.ersjournals.com/content/56/3/2001948?ctkey=wechat)
 - [特异性IgA在重症COVID-19新冠肺炎发病中的重要作用](https://mp.weixin.qq.com/s/ZMP4ONZvFlRAaFhoT_LQbA)
 - [Distinct features of SARS-CoV-2-specific IgA response in COVID-19 patients](https://erj.ersjournals.com/content/56/2/2001526?ctkey=wechat)
+- [微生物所高福院士和戴连攀研究员受邀在Nature Reviews Immunology发表新冠疫苗靶点综述论文](https://mp.weixin.qq.com/s/FNK4zoBDYMZ3s3CtCjeB_A)
+- [Viral targetsfor vaccines against COVID-19](https://www.nature.com/articles/s41577-020-00480-0)
+- [为什么美国新冠疫苗突然走得更快了？中国疾控中心主任高福回应](https://mp.weixin.qq.com/s/BvI98j5hI0KuR-jPqVqZjw)
