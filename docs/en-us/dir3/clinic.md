@@ -1112,3 +1112,6 @@
 - [微生物所高福院士和戴连攀研究员受邀在Nature Reviews Immunology发表新冠疫苗靶点综述论文](https://mp.weixin.qq.com/s/FNK4zoBDYMZ3s3CtCjeB_A)
 - [Viral targetsfor vaccines against COVID-19](https://www.nature.com/articles/s41577-020-00480-0)
 - [为什么美国新冠疫苗突然走得更快了？中国疾控中心主任高福回应](https://mp.weixin.qq.com/s/BvI98j5hI0KuR-jPqVqZjw)
+- [高福回应：为什么西方不做灭活疫苗？为什么美国新冠疫苗突然走得更快了？](https://mp.weixin.qq.com/s/hwufGb22h6J-CvtyBifliw)
+- [《自然》：新冠疫苗的闪电开发速度将深刻改变疫苗科学的未来](https://mp.weixin.qq.com/s/AYA6RO8YPpt9rJj003glLg)
+- [The lightning-fast quest for COVID vaccines — and what it means for other diseases](https://www.nature.com/articles/d41586-020-03626-1)

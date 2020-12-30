@@ -609,3 +609,5 @@
 - [Analyzing the Chinese budgetary responses to COVID-19: balancing prevention and control with socioeconomic recovery](https://www.emerald.com/insight/content/doi/10.1108/JPBAFM-08-2020-0142/full/html#loginreload)
 - [澎湃新闻：问策上海2025｜吴瑞君：后疫情时代，亟需实施人才引领发展战略](https://mp.weixin.qq.com/s/GMLil93EFjWIQ2iJmKA3YA)
 - [国际资讯 | [法]数字化背后的高能耗/禁足令与“安静期”(2020.12)](https://mp.weixin.qq.com/s/ZGcIYLYv9hH71DADKUNxrw)
+- [阿里达摩院发布2021十大科技趋势：后疫情时代，科技产业如何发展？](https://mp.weixin.qq.com/s/YjVb-3sN1S2tupUa-mb4QA)
+- [后疫情时代，如何设计安全且充满活力的商业街区？ | 附疫情商业指南](https://mp.weixin.qq.com/s/XGtecKN_PcoQbH4Y-DtcgQ)

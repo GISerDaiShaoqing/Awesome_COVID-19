@@ -400,3 +400,5 @@
 - [FORECASTING COVID-19 CASES IN FRANCE: AN APPLICATION OF ARTIFICIAL NEURAL NETWORKS](https://www.researchgate.net/profile/Thabani_Nyoni2/publication/347508988_FORECASTING_COVID-19_CASES_IN_FRANCE_AN_APPLICATION_OF_ARTIFICIAL_NEURAL_NETWORKS/links/5fdf190c299bf140882a454e/FORECASTING-COVID-19-CASES-IN-FRANCE-AN-APPLICATION-OF-ARTIFICIAL-NEURAL-NETWORKS.pdf)
 - [Explaining among-country variation in COVID-19 case fatality rate](https://www.nature.com/articles/s41598-020-75848-2)
 - [Maximum entropy method for estimating the reproduction number: An investigation for COVID-19 in China and the United States](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032136)
+- [新型冠状病毒无症状感染相关因素分析](https://mp.weixin.qq.com/s/Rsmijh4eUeJjLBjfBD0jgw)
+- [Factors associated with asymptomatic infection in health-care workers with severe acute respiratory syndrome coronavirus 2 infection in Wuhan, China: a multicentre retrospective cohort study](https://www.sciencedirect.com/science/article/pii/S1198743X20305218?via%3Dihub)

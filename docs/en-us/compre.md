@@ -1481,3 +1481,6 @@
 - [西安理工大学赵亚乾团队CEJ：冠状病毒在水和废水中传播特征、可能遏制策略与研究挑战](https://mp.weixin.qq.com/s/ebYIXz5ylasz4ITaJYRMyg)
 - [Where dowe stand to oversee the coronaviruses in aqueous and aerosol environment? Characteristics of transmission and possible curb strategies](https://www.sciencedirect.com/science/article/pii/S1385894720336445?via%3Dihub=)
 - [Characterizing COVID-19 and Influenza Illnesses in the Real World via Person-Generated Health Data](https://www.cell.com/patterns/fulltext/S2666-3899(20)30258-0?utm_medium=weibo)
+- [【数据】新冠疫情导致美国清洁能源领域损失44.6万就业岗位，大部分在能效领域](https://mp.weixin.qq.com/s/6CVKQMtxi7U20F1GbPe8Pw)
+- [Clean Energy & COVID-19 Crisis | November 2020 Unemployment Analysis](https://e2.org/reports/clean-jobs-covid-economic-crisis-november-2020/)
+- [“新冠”遭遇战，他们已布阵10多年](https://mp.weixin.qq.com/s/h2u4YWHVsCtUUuLddBXEcA)
