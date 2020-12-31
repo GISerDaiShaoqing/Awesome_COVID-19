@@ -1284,3 +1284,4 @@
 - [武汉病毒研究所入选年度团队，2020中科院年度人物和年度团队拟表彰名单公示](https://mp.weixin.qq.com/s/qGiSSI2E05K9GhQuQlVCLQ)
 - [美国出现英国变种新冠毒株，感染者无旅行史 | 科研圈日报](https://mp.weixin.qq.com/s/60obXijE8I1R1HoiqZeY5w)
 - [青少年自杀行为和被欺凌风险研究 | EClinicalMedicine年度精选](https://mp.weixin.qq.com/s/_rGgKwDFb5vd45V30LY17Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月30日）【中国科讯】](https://mp.weixin.qq.com/s/wH8y4tMc7Yr_KjSPYa_3Ew)
