@@ -232,3 +232,4 @@
 - [A Power-Law-Based Approach to Mapping COVID-19 Cases in the United States](https://www.researchgate.net/publication/347468904_A_Power-Law-Based_Approach_to_Mapping_COVID-19_Cases_in_the_United_States)
 - [新冠病毒在美国是如何传播的？美国疫情中心转移热图](https://mp.weixin.qq.com/s/4THsqMziY7a3BrJEsiKdyQ)
 - [一张地图读懂北京确诊病例分布和活动轨迹](https://mp.weixin.qq.com/s/0PanDI8IM4fywEJTxNfhXA)
+- [中国新冠病毒疫苗获批上市，我们离世界恢复正常又近了一步](https://mp.weixin.qq.com/s/4Nfe-CtAwCrzsK8dotG4aA)

@@ -1291,3 +1291,7 @@
 - [新冠肺炎防控常态化个人防护自驾出行篇](https://mp.weixin.qq.com/s/1DAN62U3WE-U85pw25SNiA)
 - [新冠肺炎防控常态化个人防护外出购物篇](https://mp.weixin.qq.com/s/pbt_AheVzpNuULtvTAVdGA)
 - [图说 | 关于做好2021年元旦和春节期间新冠肺炎疫情防控工作的通知](https://mp.weixin.qq.com/s/SN_DQGBZqpWJrx0PbTq-4A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月31日）【中国科讯】](https://mp.weixin.qq.com/s/UBza4x3ctWt_XxyrmHVBmQ)
+- [新冠肺炎疫情防控常态化个人防护（三）-用餐地点的选择](https://mp.weixin.qq.com/s/m3ia9VTu8xbhhboq6BpHYg)
+- [新冠肺炎疫情防控常态化个人防护（四）-餐前注意手卫生](https://mp.weixin.qq.com/s/PpN0jkaN8jywuIEP5txO-A)
+- [中国疾控中心冬季健康提示](https://mp.weixin.qq.com/s/eEtPMKc-rWjNpnVLaWrCjA)

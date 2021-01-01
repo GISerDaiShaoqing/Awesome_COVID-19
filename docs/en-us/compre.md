@@ -1490,3 +1490,5 @@
 - [2020年，行动改变未来](https://mp.weixin.qq.com/s/kBW2p-o5EoZoKAuHsxcRZQ)
 - [比尔·盖茨：2021，世界势必取得进步](https://mp.weixin.qq.com/s/aLoF1x6c3gggWKSNfBCYtw)
 - [约翰·霍普金斯团队赢得全球COVID-19口罩设计挑战赛](https://mp.weixin.qq.com/s/b8kETIUMOys94Q7O9dfFFA)
+- [【存照】疫情之下，2020年全球应对气候变化发生6个积极变化！](https://mp.weixin.qq.com/s/kf6NgdtEC_kIM4kMUZE28g)
+- [Clean Energy & COVID-19 Crisis | November 2020 Unemployment Analysis](https://e2.org/reports/clean-jobs-covid-economic-crisis-november-2020/)

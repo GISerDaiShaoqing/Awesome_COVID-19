@@ -320,3 +320,4 @@
 - [2020收官线下活动：AI是否可以引领传染病诊疗的新范式？](https://mp.weixin.qq.com/s/8s4MHJZ2-JWsbePO1TVFug)
 - [活动预告 | 与AGU主编面对面](https://mp.weixin.qq.com/s/kThJxC_A4jtEjK9y9k1Gzg)
 - [病毒与人类健康专题论坛 | 关于新冠的科学新发现 除了疫苗还有这些值得关注！](https://mp.weixin.qq.com/s/8dK6yHCtXQSUxDpDNjaciQ)
+- [​疫情让世界暂停，科学家还在笃定前行 | 2020，“我是科学家”经历了什么？](https://mp.weixin.qq.com/s/xZrhM4QirP4UzX0pAq-OpA)

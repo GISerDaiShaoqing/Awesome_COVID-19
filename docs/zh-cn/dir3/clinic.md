@@ -1119,3 +1119,7 @@
 - [Placebo-Controlled Trials of Covid-19 Vaccines — Why We Still Need Them](https://www.nejm.org/doi/full/10.1056/NEJMp2033538)
 - [今天，中国新冠病毒疫苗获批上市！](https://mp.weixin.qq.com/s/W3ST0PSGujhpm5MYHVd9GA)
 - [我国首个新冠疫苗获批上市！79.34%的保护力意味着什么？](https://mp.weixin.qq.com/s/sTp9ZhMEZHzd13xWljUwbA)
+- [Nature拳头综述（IF=40） | 高福系统总结全球新冠疫苗技术路线和研究靶点](https://mp.weixin.qq.com/s/K9QOJGClV89tisJzt_NR-g)
+- [病毒“塞鼻孔”！自愿染新冠， 2500人争当小白鼠：光荣病死](https://mp.weixin.qq.com/s/YTZaXtPe0hToNhg3wyh7nA)
+- [中国疾控中心周刊：上海发现首例来自英国的变异新冠病毒感染病例](https://mp.weixin.qq.com/s/ItN6QWzgGOHwFvkT06KOHA)
+- [Notes from the Field: The First Case of New Variant COVID-19 Originating in the United Kingdom Detected in a Returning Student — Shanghai Municipality, China, December 14, 2020](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2020.270)

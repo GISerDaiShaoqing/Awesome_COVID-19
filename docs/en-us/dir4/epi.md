@@ -404,3 +404,6 @@
 - [Factors associated with asymptomatic infection in health-care workers with severe acute respiratory syndrome coronavirus 2 infection in Wuhan, China: a multicentre retrospective cohort study](https://www.sciencedirect.com/science/article/pii/S1198743X20305218?via%3Dihub)
 - [Journal of Epidemiology and Community Health|接触者追踪有助于预防新冠肺炎潜伏期传播](https://mp.weixin.qq.com/s/Ggd0E4FoVIoBCkS_LxOKMQ)
 - [Role of presymptomatic transmission of COVID-19: evidence from Beijing, China](https://jech.bmj.com/content/75/1/84)
+- [Comparison of spatio-temporal transmission characteristics of COVID-19 and its mitigation strategies in China and the US](https://link.springer.com/article/10.1007/s11442-020-1822-8)
+- [Analysis and prediction of the coronavirus disease epidemic in China based on an individual-based model](https://www.nature.com/articles/s41598-020-76969-4)
+- [Transmission risk of SARS-CoV-2 on airplanes and high-speed trains](https://www.medrxiv.org/content/10.1101/2020.12.21.20248383v1)
