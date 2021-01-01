@@ -1115,3 +1115,7 @@
 - [高福回应：为什么西方不做灭活疫苗？为什么美国新冠疫苗突然走得更快了？](https://mp.weixin.qq.com/s/hwufGb22h6J-CvtyBifliw)
 - [《自然》：新冠疫苗的闪电开发速度将深刻改变疫苗科学的未来](https://mp.weixin.qq.com/s/AYA6RO8YPpt9rJj003glLg)
 - [The lightning-fast quest for COVID vaccines — and what it means for other diseases](https://www.nature.com/articles/d41586-020-03626-1)
+- [新冠疫苗上市了，WHO专家为何仍坚持开展安慰剂对照试验](https://mp.weixin.qq.com/s/dEc1BqzMrcXZSuw6XIJAbw)
+- [Placebo-Controlled Trials of Covid-19 Vaccines — Why We Still Need Them](https://www.nejm.org/doi/full/10.1056/NEJMp2033538)
+- [今天，中国新冠病毒疫苗获批上市！](https://mp.weixin.qq.com/s/W3ST0PSGujhpm5MYHVd9GA)
+- [我国首个新冠疫苗获批上市！79.34%的保护力意味着什么？](https://mp.weixin.qq.com/s/sTp9ZhMEZHzd13xWljUwbA)

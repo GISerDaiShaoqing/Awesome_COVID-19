@@ -402,3 +402,5 @@
 - [Maximum entropy method for estimating the reproduction number: An investigation for COVID-19 in China and the United States](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032136)
 - [新型冠状病毒无症状感染相关因素分析](https://mp.weixin.qq.com/s/Rsmijh4eUeJjLBjfBD0jgw)
 - [Factors associated with asymptomatic infection in health-care workers with severe acute respiratory syndrome coronavirus 2 infection in Wuhan, China: a multicentre retrospective cohort study](https://www.sciencedirect.com/science/article/pii/S1198743X20305218?via%3Dihub)
+- [Journal of Epidemiology and Community Health|接触者追踪有助于预防新冠肺炎潜伏期传播](https://mp.weixin.qq.com/s/Ggd0E4FoVIoBCkS_LxOKMQ)
+- [Role of presymptomatic transmission of COVID-19: evidence from Beijing, China](https://jech.bmj.com/content/75/1/84)
