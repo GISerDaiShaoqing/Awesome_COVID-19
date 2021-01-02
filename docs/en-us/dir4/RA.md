@@ -56,3 +56,4 @@
 - [Author Correction: Modeling COVID-19 scenarios for the United States](https://www.nature.com/articles/s41591-020-01181-w)
 - [【AAAI2021-百度】在COVID-19爆发前早期发现高危社区的算法框架](https://mp.weixin.qq.com/s/D73ola2e4Fs8fPTErTvHGA)
 - [C-Watcher: A Framework for Early Detection of High-Risk Neighborhoods Ahead of COVID-19 Outbreak](https://arxiv.org/abs/2012.12169)
+- [Risk assessment and evaluation of China’s policy to prevent COVID-19 cases imported by plane](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008908)

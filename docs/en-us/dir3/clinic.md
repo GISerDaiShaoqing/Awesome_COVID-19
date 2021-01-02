@@ -1123,3 +1123,7 @@
 - [病毒“塞鼻孔”！自愿染新冠， 2500人争当小白鼠：光荣病死](https://mp.weixin.qq.com/s/YTZaXtPe0hToNhg3wyh7nA)
 - [中国疾控中心周刊：上海发现首例来自英国的变异新冠病毒感染病例](https://mp.weixin.qq.com/s/ItN6QWzgGOHwFvkT06KOHA)
 - [Notes from the Field: The First Case of New Variant COVID-19 Originating in the United Kingdom Detected in a Returning Student — Shanghai Municipality, China, December 14, 2020](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2020.270)
+- [快如闪电！新冠疫苗的研发速度是如何实现的？](https://mp.weixin.qq.com/s/Fop4esDT_VOBXoN5wLGo0w)
+- [2分钟看懂NEJM：BNT162b2 COVID-19疫苗的安全性和有效性](https://mp.weixin.qq.com/s/a4cIpjKRh0dfhHRp4D52Ig)
+- [Safety and Efficacy of the BNT162b2 Covid-19 Vaccine](https://www.nejmqianyan.cn/article/YXQYoa2034577)
+- [还在犹豫是否接种？先看看国药集团灭活疫苗的秘密](https://mp.weixin.qq.com/s/m84XL39G5O0S2lEQkEdGtg)

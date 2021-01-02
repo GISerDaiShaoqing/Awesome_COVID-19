@@ -1295,3 +1295,4 @@
 - [新冠肺炎疫情防控常态化个人防护（三）-用餐地点的选择](https://mp.weixin.qq.com/s/m3ia9VTu8xbhhboq6BpHYg)
 - [新冠肺炎疫情防控常态化个人防护（四）-餐前注意手卫生](https://mp.weixin.qq.com/s/PpN0jkaN8jywuIEP5txO-A)
 - [中国疾控中心冬季健康提示](https://mp.weixin.qq.com/s/eEtPMKc-rWjNpnVLaWrCjA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月1日）【中国科讯】](https://mp.weixin.qq.com/s/gn85qBgXDUtR1q542jmOYA)

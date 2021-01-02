@@ -407,3 +407,4 @@
 - [Comparison of spatio-temporal transmission characteristics of COVID-19 and its mitigation strategies in China and the US](https://link.springer.com/article/10.1007/s11442-020-1822-8)
 - [Analysis and prediction of the coronavirus disease epidemic in China based on an individual-based model](https://www.nature.com/articles/s41598-020-76969-4)
 - [Transmission risk of SARS-CoV-2 on airplanes and high-speed trains](https://www.medrxiv.org/content/10.1101/2020.12.21.20248383v1)
+- [State-specific projection of COVID-19 infection in the United States and evaluation of three major control measures](https://www.nature.com/articles/s41598-020-80044-3)
