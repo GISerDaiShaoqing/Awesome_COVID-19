@@ -1499,3 +1499,4 @@
 - [Examining spatial accessibility to COVID-19 testing sites in Florid](https://www.tandfonline.com/doi/full/10.1080/19475683.2020.1833365)
 - [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://www.sciencedirect.com/science/article/pii/S0272494420307106)
 - [Quantitative assessment of the effects of resource optimization and ICU admission policy on COVID-19 mortalities](https://arxiv.org/abs/2012.13953)
+- [1.6 Million transactions replicate distributed PV market slowdown by COVID-19 lockdown](https://www.sciencedirect.com/science/article/pii/S0306261920317232)
