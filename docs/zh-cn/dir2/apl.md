@@ -1296,3 +1296,7 @@
 - [新冠肺炎疫情防控常态化个人防护（四）-餐前注意手卫生](https://mp.weixin.qq.com/s/PpN0jkaN8jywuIEP5txO-A)
 - [中国疾控中心冬季健康提示](https://mp.weixin.qq.com/s/eEtPMKc-rWjNpnVLaWrCjA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（1月1日）【中国科讯】](https://mp.weixin.qq.com/s/gn85qBgXDUtR1q542jmOYA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月2日）【中国科讯】](https://mp.weixin.qq.com/s/sfrZqCb10cg8eHldVkq1dQ)
+- [科技热点 | 盘点2020年影响中国高等教育进程的十件大事 【中国科讯】](https://mp.weixin.qq.com/s/6CVGTjir3jmvyO4WMEt2hw)
+- [《科学》（20210101出版）一周论文导读](https://mp.weixin.qq.com/s/ZyPHmPJLVdjCofrvo0O5zw)
+- [我国将围绕数学物理等领域建设一批国家级科研基地​；全球至少出现3种新冠病毒变异株 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/K8HjU6e3tADex8oc2NJDww)

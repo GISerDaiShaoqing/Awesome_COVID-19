@@ -1500,3 +1500,8 @@
 - [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://www.sciencedirect.com/science/article/pii/S0272494420307106)
 - [Quantitative assessment of the effects of resource optimization and ICU admission policy on COVID-19 mortalities](https://arxiv.org/abs/2012.13953)
 - [1.6 Million transactions replicate distributed PV market slowdown by COVID-19 lockdown](https://www.sciencedirect.com/science/article/pii/S0306261920317232)
+- [疫情下不知该不该回国就职？这组数字告诉你其他学者如何选择！](https://mp.weixin.qq.com/s/p6f3pIW7uPT_FKcA-y6IyQ)
+- [【存照】新冠疫情在新闻报道中的热度堪比世界大战](https://mp.weixin.qq.com/s/lzsIK23jAg8L_mE4EZaBLQ)
+- [Only the world wars have rivalled covid-19 for news coverage](https://www.economist.com/graphic-detail/2020/12/19/only-the-world-wars-have-rivalled-covid-19-for-news-coverage)
+- [2021年，这十大科学事件不容错过！](https://mp.weixin.qq.com/s/1aCPK-viPQ2xSwgdOv4v1g)
+- [The science events to watch for in 2021](https://www.nature.com/articles/d41586-020-03651-0)

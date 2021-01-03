@@ -702,3 +702,4 @@
 - [COVID-19 neutralizing antibodies predict disease severity and survival](https://www.cell.com/cell/fulltext/S0092-8674(20)31685-8)
 - [针对新冠病毒B.1.1.7突变毒株，第一篇专业论文上传；明确了诸多最令人关心的问题，给出处理建议](https://mp.weixin.qq.com/s/eLgvAYOdR4bOSkfSQAPpZw)
 - [Estimated transmissibility and severity of novel SARS-CoV-2 Variant of Concern 202012/01 in England](https://www.medrxiv.org/content/10.1101/2020.12.24.20248822v1)
+- [STTT：新冠病毒M蛋白抑制I和III型干扰素激活，实现免疫逃逸](https://mp.weixin.qq.com/s/SiR3KTmDZMrL_kWMXV7tJg)
