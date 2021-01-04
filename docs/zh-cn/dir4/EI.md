@@ -115,3 +115,4 @@
 - [Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30263-2/fulltext)
 - [Reduction of COVID-19 Incidence and Nonpharmacologic Interventions: Analysis Using a US County–Level Policy Data Set](https://www.jmir.org/2020/12/e24614)
 - [Public Health Interventions’ Effect on Hospital Use in Patients With COVID-19: Comparative Study](https://publichealth.jmir.org/2020/4/e25174/)
+- [Science新冠｜建模量化非药物性干预措施对SARS-CoV-2传播的影响](https://mp.weixin.qq.com/s/4Tsw3udWXi2y7OQ98NUUlw)

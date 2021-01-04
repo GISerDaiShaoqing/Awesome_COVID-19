@@ -1300,3 +1300,7 @@
 - [科技热点 | 盘点2020年影响中国高等教育进程的十件大事 【中国科讯】](https://mp.weixin.qq.com/s/6CVGTjir3jmvyO4WMEt2hw)
 - [《科学》（20210101出版）一周论文导读](https://mp.weixin.qq.com/s/ZyPHmPJLVdjCofrvo0O5zw)
 - [我国将围绕数学物理等领域建设一批国家级科研基地​；全球至少出现3种新冠病毒变异株 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/K8HjU6e3tADex8oc2NJDww)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月3日）【中国科讯】](https://mp.weixin.qq.com/s/xUqOVhb_MJr1Cj5Cv6Fifg)
+- [中国多发性硬化症的发病率报告 | 《柳叶刀-区域健康》（西太平洋）年度精选](https://mp.weixin.qq.com/s/YaoIDRm9VtaW4OU-H2qZBw)
+- [1 月 3 日我国内地新增确诊病例 33 例，其中本土病例 13 例｜科研圈日报](https://mp.weixin.qq.com/s/EXmLtA-fUKQqyqZct1Jydw)
+- [Nature 一周论文导读 | 2020年12月24日](https://mp.weixin.qq.com/s/V7QAL5UdRB4uD7RcKtCu4A)

@@ -409,3 +409,5 @@
 - [Transmission risk of SARS-CoV-2 on airplanes and high-speed trains](https://www.medrxiv.org/content/10.1101/2020.12.21.20248383v1)
 - [State-specific projection of COVID-19 infection in the United States and evaluation of three major control measures](https://www.nature.com/articles/s41598-020-80044-3)
 - [The spatial association of social vulnerability with COVID-19 prevalence in the contiguous United States](https://www.tandfonline.com/doi/full/10.1080/09603123.2020.1847258)
+- [Science新冠专题｜波士顿SARS-CoV-2早期暴发的基因组分析显示超级传播事件作用](https://mp.weixin.qq.com/s/bRih0COdOW-7xHYKTASMGA)
+- [Phylogenetic analysis of SARS-CoV-2 in Boston highlights the impact of superspreading events](https://science.sciencemag.org/content/early/2020/12/09/science.abe3261)

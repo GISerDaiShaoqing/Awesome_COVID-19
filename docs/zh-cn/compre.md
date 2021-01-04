@@ -1505,3 +1505,5 @@
 - [Only the world wars have rivalled covid-19 for news coverage](https://www.economist.com/graphic-detail/2020/12/19/only-the-world-wars-have-rivalled-covid-19-for-news-coverage)
 - [2021年，这十大科学事件不容错过！](https://mp.weixin.qq.com/s/1aCPK-viPQ2xSwgdOv4v1g)
 - [The science events to watch for in 2021](https://www.nature.com/articles/d41586-020-03651-0)
+- [COVID-19期间的科学发展：我们将何去何从？](https://mp.weixin.qq.com/s/cT5FZkDQqNdfgf_m0ECNgA)
+- [Science during COVID-19: where do we go from here?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32709-4/fulltext)
