@@ -234,3 +234,6 @@
 - [一张地图读懂北京确诊病例分布和活动轨迹](https://mp.weixin.qq.com/s/0PanDI8IM4fywEJTxNfhXA)
 - [中国新冠病毒疫苗获批上市，我们离世界恢复正常又近了一步](https://mp.weixin.qq.com/s/4Nfe-CtAwCrzsK8dotG4aA)
 - [美国是怎么成为新冠全球第一的？新冠排名前20位的国家变化！](https://mp.weixin.qq.com/s/vP-Czrxs9i2SvfYT_HFHUw)
+- [北京近期新冠染疫人员轨迹地图](https://mp.weixin.qq.com/s/FGHLTbIvhKTiIDwOzWFNDg)
+- [北京最新确诊病例居住地、工作地分布图出炉](https://mp.weixin.qq.com/s/NQDmGxM2OVKAV9dwqupriQ)
+- [元旦过后全国疫情中风险区和高风险区分布图](https://mp.weixin.qq.com/s/2hCcqiJTn2OCp4--nX9xqw)

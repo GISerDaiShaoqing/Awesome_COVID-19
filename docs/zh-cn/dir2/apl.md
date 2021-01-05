@@ -1304,3 +1304,7 @@
 - [中国多发性硬化症的发病率报告 | 《柳叶刀-区域健康》（西太平洋）年度精选](https://mp.weixin.qq.com/s/YaoIDRm9VtaW4OU-H2qZBw)
 - [1 月 3 日我国内地新增确诊病例 33 例，其中本土病例 13 例｜科研圈日报](https://mp.weixin.qq.com/s/EXmLtA-fUKQqyqZct1Jydw)
 - [Nature 一周论文导读 | 2020年12月24日](https://mp.weixin.qq.com/s/V7QAL5UdRB4uD7RcKtCu4A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月4日）【中国科讯】](https://mp.weixin.qq.com/s/URDtxEvECvi1DNfCPf9H9A)
+- [日本、英国疫情隔离政策升级 | 科研圈日报](https://mp.weixin.qq.com/s/ca1cNCQ502ghsk2eMWIP-g)
+- [24小时热门｜新冠感染可间接损害脑血管？难怪有些患者会出现神经症状](https://mp.weixin.qq.com/s/xqfnH6FfySwUHapumTblLQ)
+- [回顾2020 | 最受欢迎的《柳叶刀》新冠微信文章TOP10](https://mp.weixin.qq.com/s/MpTUD1TsO9fyp1YwF3GFtw)

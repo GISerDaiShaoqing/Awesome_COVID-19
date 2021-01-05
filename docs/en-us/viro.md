@@ -709,3 +709,5 @@
 - [IgA dominates the early neutralizing antibody response to SARS-CoV-2](https://stm.sciencemag.org/content/early/2020/12/04/scitranslmed.abd2223)
 - [新冠病毒研究迎来重大进展！最新发现新冠疫苗或不引发ADE效应](https://mp.weixin.qq.com/s/KCt_pNaQGkjiqWluHoSVzQ)
 - [The functions of SARS-CoV-2 neutralizing and infection-enhancing antibodies in vitro and in mice and nonhuman primates](https://www.biorxiv.org/content/10.1101/2020.12.31.424729v1)
+- [Nature子刊 | 新冠病毒逃逸人类抗病毒免疫重要机制被揭示！](https://mp.weixin.qq.com/s/vrNQPPWbk_tymEoEp2-wOg)
+- [Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) membrane (M) protein inhibits type I and III interferon production by targeting RIG-I/MDA-5 signaling](https://pubmed.ncbi.nlm.nih.gov/33372174/)

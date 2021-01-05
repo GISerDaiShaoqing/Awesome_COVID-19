@@ -1127,3 +1127,8 @@
 - [2分钟看懂NEJM：BNT162b2 COVID-19疫苗的安全性和有效性](https://mp.weixin.qq.com/s/a4cIpjKRh0dfhHRp4D52Ig)
 - [Safety and Efficacy of the BNT162b2 Covid-19 Vaccine](https://www.nejmqianyan.cn/article/YXQYoa2034577)
 - [还在犹豫是否接种？先看看国药集团灭活疫苗的秘密](https://mp.weixin.qq.com/s/m84XL39G5O0S2lEQkEdGtg)
+- [每支都有“身份证”！探访新冠病毒疫苗生产基地……](https://mp.weixin.qq.com/s/93M0gPUoV4updqkjVGfrjg)
+- [《新英格兰医学杂志》综述：新冠疫苗的安全性](https://mp.weixin.qq.com/s/SnAX8uftJmH91UVBcEPBlA)
+- [Maintaining Safety with SARS-CoV-2 Vaccines](https://www.nejm.org/doi/full/10.1056/NEJMra2035343)
+- [Science新冠｜感染新冠病毒后，抗体免疫反应能持续多久？](https://mp.weixin.qq.com/s/X7xCRIJolgYMJmD_IwAGxQ)
+- [Defining the features and duration of antibody responses to SARS-CoV-2 infection associated with disease severity and outcome](https://immunology.sciencemag.org/content/5/54/eabe0240)

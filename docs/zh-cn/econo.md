@@ -612,3 +612,5 @@
 - [阿里达摩院发布2021十大科技趋势：后疫情时代，科技产业如何发展？](https://mp.weixin.qq.com/s/YjVb-3sN1S2tupUa-mb4QA)
 - [后疫情时代，如何设计安全且充满活力的商业街区？ | 附疫情商业指南](https://mp.weixin.qq.com/s/XGtecKN_PcoQbH4Y-DtcgQ)
 - [【特别报道】城市规划对改善城市公共卫生至关重要](https://mp.weixin.qq.com/s/nsAZBciU4hfNk56AbP5igQ)
+- [国际观察131 | 在路上的2020——从交通流量指数盘点疫情下的全球大城市](https://mp.weixin.qq.com/s/4ZEMLUWvY240SvDlRZPabw)
+- [海外行思 | 2020：抗击疫情、“马已今服”、“996”和“鸡娃”——反思政府与市场的关系](https://mp.weixin.qq.com/s/1N4BtND_yqhXdyhYlwXUZA)

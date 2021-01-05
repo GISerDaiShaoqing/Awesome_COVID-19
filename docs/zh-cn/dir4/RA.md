@@ -57,3 +57,4 @@
 - [【AAAI2021-百度】在COVID-19爆发前早期发现高危社区的算法框架](https://mp.weixin.qq.com/s/D73ola2e4Fs8fPTErTvHGA)
 - [C-Watcher: A Framework for Early Detection of High-Risk Neighborhoods Ahead of COVID-19 Outbreak](https://arxiv.org/abs/2012.12169)
 - [Risk assessment and evaluation of China’s policy to prevent COVID-19 cases imported by plane](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008908)
+- [Infection dynamics of COVID-19 virus under lockdown and reopening](https://arxiv.org/abs/2012.15155)

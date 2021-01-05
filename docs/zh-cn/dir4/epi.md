@@ -411,3 +411,7 @@
 - [The spatial association of social vulnerability with COVID-19 prevalence in the contiguous United States](https://www.tandfonline.com/doi/full/10.1080/09603123.2020.1847258)
 - [Science新冠专题｜波士顿SARS-CoV-2早期暴发的基因组分析显示超级传播事件作用](https://mp.weixin.qq.com/s/bRih0COdOW-7xHYKTASMGA)
 - [Phylogenetic analysis of SARS-CoV-2 in Boston highlights the impact of superspreading events](https://science.sciencemag.org/content/early/2020/12/09/science.abe3261)
+- [Modeling the Transmission Dynamics of the COVID-19 Outbreak in Thailand](http://thaijmath.in.cmu.ac.th/index.php/thaijmath/article/view/4924)
+- [COVID-19 cases prediction by using hybrid machine learning and beetle antennae search approach](https://www.sciencedirect.com/science/article/pii/S2210670720308842)
+- [Big Data Analysis on COVID-19 Epidemic and Suggestions on Regional Prevention and Control Policy ](https://engine.scichina.com/publisher/zhongkeqikan/journal/BCAS_CH/35/2/10.16418/j.issn.1000-3045.20200209001?slug=fulltext)
+- [Gravitational and Autoregressive Analysis Spatial Diffusion of COVID-19 in Hubei Province, China](https://arxiv.org/abs/2012.13948)
