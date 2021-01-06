@@ -1308,3 +1308,4 @@
 - [日本、英国疫情隔离政策升级 | 科研圈日报](https://mp.weixin.qq.com/s/ca1cNCQ502ghsk2eMWIP-g)
 - [24小时热门｜新冠感染可间接损害脑血管？难怪有些患者会出现神经症状](https://mp.weixin.qq.com/s/xqfnH6FfySwUHapumTblLQ)
 - [回顾2020 | 最受欢迎的《柳叶刀》新冠微信文章TOP10](https://mp.weixin.qq.com/s/MpTUD1TsO9fyp1YwF3GFtw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月5日）【中国科讯】](https://mp.weixin.qq.com/s/1lkFil_HR_p-PrmYKMk8dg)
