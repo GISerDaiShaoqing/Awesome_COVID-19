@@ -116,3 +116,5 @@
 - [Reduction of COVID-19 Incidence and Nonpharmacologic Interventions: Analysis Using a US County–Level Policy Data Set](https://www.jmir.org/2020/12/e24614)
 - [Public Health Interventions’ Effect on Hospital Use in Patients With COVID-19: Comparative Study](https://publichealth.jmir.org/2020/4/e25174/)
 - [Science新冠｜建模量化非药物性干预措施对SARS-CoV-2传播的影响](https://mp.weixin.qq.com/s/4Tsw3udWXi2y7OQ98NUUlw)
+- [社交网络视角下，怎样平衡防疫与经济？ | PNAS速递](https://mp.weixin.qq.com/s/KO2lHlhxv8EXlzqTbJWuTQ)
+- [Network interventions for managing the COVID-19 pandemic and sustaining economy](http://pnas.org/content/117/48/30285)

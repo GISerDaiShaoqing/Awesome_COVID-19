@@ -415,3 +415,6 @@
 - [COVID-19 cases prediction by using hybrid machine learning and beetle antennae search approach](https://www.sciencedirect.com/science/article/pii/S2210670720308842)
 - [Big Data Analysis on COVID-19 Epidemic and Suggestions on Regional Prevention and Control Policy ](https://engine.scichina.com/publisher/zhongkeqikan/journal/BCAS_CH/35/2/10.16418/j.issn.1000-3045.20200209001?slug=fulltext)
 - [Gravitational and Autoregressive Analysis Spatial Diffusion of COVID-19 in Hubei Province, China](https://arxiv.org/abs/2012.13948)
+- [网约车成疫情扩散“载体”，坐在哪感染风险最低？最新研究来了](https://mp.weixin.qq.com/s/PiNS-pM33_EvTRSWTdsUVw)
+- [Airflows inside passenger cars and implications for airborne disease transmission](https://advances.sciencemag.org/content/7/1/eabe0166.full#aff-1)
+- [Research reveals how airflow inside a car may affect COVID-19 transmission risk](https://www.sciencedaily.com/releases/2020/12/201205143458.htm)

@@ -1309,3 +1309,8 @@
 - [24小时热门｜新冠感染可间接损害脑血管？难怪有些患者会出现神经症状](https://mp.weixin.qq.com/s/xqfnH6FfySwUHapumTblLQ)
 - [回顾2020 | 最受欢迎的《柳叶刀》新冠微信文章TOP10](https://mp.weixin.qq.com/s/MpTUD1TsO9fyp1YwF3GFtw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（1月5日）【中国科讯】](https://mp.weixin.qq.com/s/1lkFil_HR_p-PrmYKMk8dg)
+- [“疫苗上市后，会有日新月异的改变”｜专家盘点新冠疫情](https://mp.weixin.qq.com/s/zmexWPZo0Zv0ZaE9FWD8fA)
+- [《中国科学：地球科学》中文版2021年第1期文章速览](https://mp.weixin.qq.com/s/bC_Ql4Qm83MEz8TqC51Zjw)
+- [英国已开始接种第二种获批新冠疫苗 | 科研圈日报](https://mp.weixin.qq.com/s/B-qcDgSE9S-ZtYBegZFlHg)
+- [SARS-CoV-2感染患者外周血淋巴细胞反应和细胞因子谱的纵向特征 | EBioMedicine文章精选](https://mp.weixin.qq.com/s/TJdqjwFOGIC_omiQ-a33tg)
+- [回顾2020 | 柳叶刀期刊家族最受关注的新冠微信文章TOP10](https://mp.weixin.qq.com/s/vo6esZ-RJTJ_bpB3r0Gu6g)

@@ -1513,3 +1513,7 @@
 - [How a torrent of COVID science changed research publishing — in seven charts](https://www.nature.com/articles/d41586-020-03564-y)
 - [美国考虑给部分人注射半剂疫苗，英国或批准两种疫苗“混合双打”，是变通还是赌博？](https://mp.weixin.qq.com/s/_WtN_fRVap8pDHbIiiL5Rg)
 - [武汉人群新冠抗体阳性率4.43%，中国疾控中心公布全国血清学调查结果](https://mp.weixin.qq.com/s/W_NekMSfTgPf3qnvFBKlug)
+- [远程医疗在疫情时代步入舞台中央｜科技专题](https://mp.weixin.qq.com/s/AIcNQ8ljdm8WyYc9EQKknw)
+- [Telemedicine takes center stage in the era of COVID-19](https://www.sciencemag.org/features/2020/11/telemedicine-takes-center-stage-era-covid-19)
+- [Science头条：新变异毒株或将引发新一波“非常糟糕”的疫情](https://mp.weixin.qq.com/s/9TRbddKuuZaAb9WFlZ2ZwA)
+- [Viral mutations may cause another ‘very, very bad’ COVID-19 wave, scientists warn](https://www.sciencemag.org/news/2021/01/viral-mutations-may-cause-another-very-very-bad-covid-19-wave-scientists-warn)

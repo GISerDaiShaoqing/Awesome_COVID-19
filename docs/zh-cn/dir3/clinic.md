@@ -1132,3 +1132,7 @@
 - [Maintaining Safety with SARS-CoV-2 Vaccines](https://www.nejm.org/doi/full/10.1056/NEJMra2035343)
 - [Science新冠｜感染新冠病毒后，抗体免疫反应能持续多久？](https://mp.weixin.qq.com/s/X7xCRIJolgYMJmD_IwAGxQ)
 - [Defining the features and duration of antibody responses to SARS-CoV-2 infection associated with disease severity and outcome](https://immunology.sciencemag.org/content/5/54/eabe0240)
+- [低剂量的吐根碱可以作为抗新冠病毒的潜在药物 | Molecular Biomedicine | 中科院刘青松团队](https://mp.weixin.qq.com/s/vEqLjK83sc4gmhPxnREmRQ)
+- [Low dose of emetine as potential anti-SARS-CoV-2 virus therapy: preclinical in vitro inhibition and in vivo pharmacokinetic evidences](https://link.springer.com/article/10.1186/s43556-020-00018-9)
+- [Cell Metabolism | 突破！武汉大学李红良等团队首次解决了全球糖皮质激素治疗新冠用药难题，有望降低新冠患者死亡率](https://mp.weixin.qq.com/s/l10lVp-zR_5q2HM1p41dZQ)
+- [The neutrophil-to-lymphocyte ratio determines clinical efficacy of corticosteroid therapy in patients with COVID-19](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00002-4)
