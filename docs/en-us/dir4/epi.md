@@ -418,3 +418,4 @@
 - [网约车成疫情扩散“载体”，坐在哪感染风险最低？最新研究来了](https://mp.weixin.qq.com/s/PiNS-pM33_EvTRSWTdsUVw)
 - [Airflows inside passenger cars and implications for airborne disease transmission](https://advances.sciencemag.org/content/7/1/eabe0166.full#aff-1)
 - [Research reveals how airflow inside a car may affect COVID-19 transmission risk](https://www.sciencedaily.com/releases/2020/12/201205143458.htm)
+- [疫情严峻！广东疾控新发现，新冠病毒南非突变株闯入我国！](https://mp.weixin.qq.com/s/zhrv_y2dSonJkmlKCqKhrQ)

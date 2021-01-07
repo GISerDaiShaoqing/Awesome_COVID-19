@@ -118,3 +118,5 @@
 - [Science新冠｜建模量化非药物性干预措施对SARS-CoV-2传播的影响](https://mp.weixin.qq.com/s/4Tsw3udWXi2y7OQ98NUUlw)
 - [社交网络视角下，怎样平衡防疫与经济？ | PNAS速递](https://mp.weixin.qq.com/s/KO2lHlhxv8EXlzqTbJWuTQ)
 - [Network interventions for managing the COVID-19 pandemic and sustaining economy](http://pnas.org/content/117/48/30285)
+- [关闭边境能抑制新冠病毒传播吗？](https://mp.weixin.qq.com/s/5KOcTXldTGh53KLGRUEX1A)
+- [What the data say about border closures and COVID spread](https://www.nature.com/articles/d41586-020-03605-6)

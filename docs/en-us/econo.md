@@ -614,3 +614,6 @@
 - [【特别报道】城市规划对改善城市公共卫生至关重要](https://mp.weixin.qq.com/s/nsAZBciU4hfNk56AbP5igQ)
 - [国际观察131 | 在路上的2020——从交通流量指数盘点疫情下的全球大城市](https://mp.weixin.qq.com/s/4ZEMLUWvY240SvDlRZPabw)
 - [海外行思 | 2020：抗击疫情、“马已今服”、“996”和“鸡娃”——反思政府与市场的关系](https://mp.weixin.qq.com/s/1N4BtND_yqhXdyhYlwXUZA)
+- [后疫情时代，AIOps释放企业运维新活力](https://mp.weixin.qq.com/s/mO7LsWF78B1UvxPgX82q8A)
+- [全球抗疫观 | 欧洲留学毕业生：在疫情和生计中迁徙](https://mp.weixin.qq.com/s/MT4OkRq0W70ItXKDHUhWRQ)
+- [How Might the COVID-19 Pandemic Affect 21st Century Urban Design, Planning, and Development?](https://www.mdpi.com/2413-8851/4/4/56)

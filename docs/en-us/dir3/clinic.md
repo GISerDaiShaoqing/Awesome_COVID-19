@@ -1136,3 +1136,4 @@
 - [Low dose of emetine as potential anti-SARS-CoV-2 virus therapy: preclinical in vitro inhibition and in vivo pharmacokinetic evidences](https://link.springer.com/article/10.1186/s43556-020-00018-9)
 - [Cell Metabolism | 突破！武汉大学李红良等团队首次解决了全球糖皮质激素治疗新冠用药难题，有望降低新冠患者死亡率](https://mp.weixin.qq.com/s/l10lVp-zR_5q2HM1p41dZQ)
 - [The neutrophil-to-lymphocyte ratio determines clinical efficacy of corticosteroid therapy in patients with COVID-19](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00002-4)
+- [新冠疫苗全民免费，但5类人暂缓接种！关于疫苗的7大事项，你得了解](https://mp.weixin.qq.com/s/sVWlOunmCZ9OpPiotTaEDA)
