@@ -120,3 +120,4 @@
 - [Network interventions for managing the COVID-19 pandemic and sustaining economy](http://pnas.org/content/117/48/30285)
 - [关闭边境能抑制新冠病毒传播吗？](https://mp.weixin.qq.com/s/5KOcTXldTGh53KLGRUEX1A)
 - [What the data say about border closures and COVID spread](https://www.nature.com/articles/d41586-020-03605-6)
+- [Responding to the pandemic as a family unit: social impacts of COVID-19 on rural migrants in China and their coping strategies](https://www.nature.com/articles/s41599-020-00686-6)

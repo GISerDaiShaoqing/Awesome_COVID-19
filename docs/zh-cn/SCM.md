@@ -103,5 +103,6 @@
 - [后疫情时代︱无小汽车的15分钟城市？醒醒吧，城市规划师们](https://mp.weixin.qq.com/s/CIiqtPlxNxd1u2-0_8xGvw)
 - [为距离而设计︱如何设计一座后疫情时代的城市 (上)](https://mp.weixin.qq.com/s/lQCzBc4IFCaPn4OVP_VKRw)
 - [为距离而设计 | 如何设计一座后疫情时代的城市 (下) 设计激活更便捷安全的公共空间](https://mp.weixin.qq.com/s/iie22SiIGkFUSzD4oQTg8w)
+- [后疫情时代︱疫情来袭？25款治愈小游戏带你踏上心灵奇旅](https://mp.weixin.qq.com/s/Jk9dlV_Pu8e7GpBmW-sqlQ)
 
 ![](/img/SCM.jpg)

@@ -1320,3 +1320,7 @@
 - [接种新冠疫苗 中国疾控中心重要提示（一）](https://mp.weixin.qq.com/s/a0ebmFGqxnh7A5Wot3oGgw)
 - [Moderna 疫苗在欧盟获得有条件上市许可｜科研圈日报](https://mp.weixin.qq.com/s/vut9KmxxK7EDzOeJ5Hq1Pg)
 - [新冠疫苗有多危险？荷兰专家权威科普来啦！ 荷乐网独家编译](https://mp.weixin.qq.com/s/TiRRLfpkJQOQ_4ZVeFpDrg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月7日）【中国科讯】](https://mp.weixin.qq.com/s/033cO2JSFqn7LJtG6zbUog)
+- [“生产它比疫苗还难”：上市前，这个“瓶颈”急需打通](https://mp.weixin.qq.com/s/ovNHazJkw8MyUzaqg99TdA)
+- [武汉大学李红良团队2项研究成果入选，Cell Metabolism主编推荐年度亮点文章出炉](https://mp.weixin.qq.com/s/ir9ePnA766-CBNYOpTiVOQ)
+- [巴西公布中国科兴疫苗 III 期临床数据，有效性达 78%｜科研圈日报](https://mp.weixin.qq.com/s/mnQRmj9GIAR8oxvzWN8H6g)

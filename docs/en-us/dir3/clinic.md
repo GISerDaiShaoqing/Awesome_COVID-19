@@ -1137,3 +1137,5 @@
 - [Cell Metabolism | 突破！武汉大学李红良等团队首次解决了全球糖皮质激素治疗新冠用药难题，有望降低新冠患者死亡率](https://mp.weixin.qq.com/s/l10lVp-zR_5q2HM1p41dZQ)
 - [The neutrophil-to-lymphocyte ratio determines clinical efficacy of corticosteroid therapy in patients with COVID-19](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00002-4)
 - [新冠疫苗全民免费，但5类人暂缓接种！关于疫苗的7大事项，你得了解](https://mp.weixin.qq.com/s/sVWlOunmCZ9OpPiotTaEDA)
+- [新冠病毒疫苗有必要接种吗？权威指南来了](https://mp.weixin.qq.com/s/dAuTtPP5C8B6p9wKsL2XKg)
+- [mRNA疫苗爆出严重过敏反应，《新英格兰医学杂志》：不会产生永久性损害](https://mp.weixin.qq.com/s/vCaRKyThI7uOxCLg0jSdLg)
