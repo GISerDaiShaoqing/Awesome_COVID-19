@@ -711,3 +711,7 @@
 - [The functions of SARS-CoV-2 neutralizing and infection-enhancing antibodies in vitro and in mice and nonhuman primates](https://www.biorxiv.org/content/10.1101/2020.12.31.424729v1)
 - [Nature子刊 | 新冠病毒逃逸人类抗病毒免疫重要机制被揭示！](https://mp.weixin.qq.com/s/vrNQPPWbk_tymEoEp2-wOg)
 - [Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) membrane (M) protein inhibits type I and III interferon production by targeting RIG-I/MDA-5 signaling](https://pubmed.ncbi.nlm.nih.gov/33372174/)
+- [重磅 | 新冠病毒进入人体细胞的新型受体被发现！西湖大学及复旦大学联手合作，其在临床上有重大潜在应用](https://mp.weixin.qq.com/s/rQNdUtXrnCSc4IYQPdRfSg)
+- [AXL is a candidate receptor for SARS-CoV-2 that promotes infection of pulmonary and bronchial epithelial cells](https://www.nature.com/articles/s41422-020-00460-y)
+- [石正丽Science发文：新冠病毒传播途径概述](https://mp.weixin.qq.com/s/932oFObm0Cg23nz7QkTH8Q)
+- [SARS-CoV-2 spillover events](https://science.sciencemag.org/content/371/6525/120)

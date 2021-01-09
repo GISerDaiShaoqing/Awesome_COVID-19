@@ -617,3 +617,4 @@
 - [后疫情时代，AIOps释放企业运维新活力](https://mp.weixin.qq.com/s/mO7LsWF78B1UvxPgX82q8A)
 - [全球抗疫观 | 欧洲留学毕业生：在疫情和生计中迁徙](https://mp.weixin.qq.com/s/MT4OkRq0W70ItXKDHUhWRQ)
 - [How Might the COVID-19 Pandemic Affect 21st Century Urban Design, Planning, and Development?](https://www.mdpi.com/2413-8851/4/4/56)
+- [Multiscale mobility explains differential associations between the gross domestic product and COVID-19 transmission in Chinese cities](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa236/6062385)

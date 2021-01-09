@@ -1324,3 +1324,8 @@
 - [“生产它比疫苗还难”：上市前，这个“瓶颈”急需打通](https://mp.weixin.qq.com/s/ovNHazJkw8MyUzaqg99TdA)
 - [武汉大学李红良团队2项研究成果入选，Cell Metabolism主编推荐年度亮点文章出炉](https://mp.weixin.qq.com/s/ir9ePnA766-CBNYOpTiVOQ)
 - [巴西公布中国科兴疫苗 III 期临床数据，有效性达 78%｜科研圈日报](https://mp.weixin.qq.com/s/mnQRmj9GIAR8oxvzWN8H6g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月8日）【中国科讯】](https://mp.weixin.qq.com/s/idzbsiBgltckjwSK3SiGfQ)
+- [院所成果 | 中科院2020年第4季度两类亮点工作筛选结果发布【中国科讯】](https://mp.weixin.qq.com/s/Y7Zw5nABvrZZdqPe28IrVA)
+- [甘肃：入选国家杰青再给200万支持；“与事实不符！”李兰娟致函Nature｜一周动态](https://mp.weixin.qq.com/s/mPjvYqDxciLbmkSdL1pGWw)
+- [2020年度“中国生命科学十大进展” 入选项目公示](https://mp.weixin.qq.com/s/hfZzhBoHiFyIVJZanblRCg)
+- [病毒学半月进展汇报](https://mp.weixin.qq.com/s/g0kWI4XhDL49xpqhw8Pdgg)

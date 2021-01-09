@@ -1533,3 +1533,8 @@
 - [Meteorological factors and COVID-19 incidence in 190 countries: An observational study](https://www.sciencedirect.com/science/article/pii/S0048969720373149?via%3Dihub)
 - [COVID-19 related health inequality exists even in a city where disease incidence is relatively low: a telephone survey in Hong Kong ](https://jech.bmj.com/content/early/2021/01/05/jech-2020-215392)
 - [Psychological impacts from COVID-19 among university students: Risk factors across seven states in the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245327)
+- [【创意】通过游戏为网民“接种”低剂量错误信息，对假新闻免疫！](https://mp.weixin.qq.com/s/9BrtB6vjzP-VfmOBbg5Eow)
+- [This new game tries to vaccinate you against fake news](https://grist.org/climate/the-new-game-cranky-uncle-is-a-vaccine-against-fake-news/)
+- [李兰娟院士，就被《Nature》杂志评为“2020年度十大科学人物”发表声明](https://mp.weixin.qq.com/s/n8ImTvbqRdszfWCf9XlwoQ)
+- [李兰娟院士就被《Nature》评为“2020年度十大科学人物”发表声明](https://mp.weixin.qq.com/s/JkQJdys_kEFIthknE0Xisg)
+- [李兰娟就被《自然》杂志评为“2020年度十大科学人物”发表声明](https://mp.weixin.qq.com/s/Ua53QwTQdhw7K3IIsjbysA)
