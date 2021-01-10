@@ -1329,3 +1329,5 @@
 - [甘肃：入选国家杰青再给200万支持；“与事实不符！”李兰娟致函Nature｜一周动态](https://mp.weixin.qq.com/s/mPjvYqDxciLbmkSdL1pGWw)
 - [2020年度“中国生命科学十大进展” 入选项目公示](https://mp.weixin.qq.com/s/hfZzhBoHiFyIVJZanblRCg)
 - [病毒学半月进展汇报](https://mp.weixin.qq.com/s/g0kWI4XhDL49xpqhw8Pdgg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月9日）【中国科讯】](https://mp.weixin.qq.com/s/6w15o4Lx_-6LIOZSv_9C_w)
+- [​中科院文献情报中心公布《国际期刊预警名单（试行）》；疫苗对变异毒株有效吗？ 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/8nnu0wLIgpNbN872NYyx4A)

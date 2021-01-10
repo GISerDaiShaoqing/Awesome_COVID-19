@@ -321,3 +321,4 @@
 - [活动预告 | 与AGU主编面对面](https://mp.weixin.qq.com/s/kThJxC_A4jtEjK9y9k1Gzg)
 - [病毒与人类健康专题论坛 | 关于新冠的科学新发现 除了疫苗还有这些值得关注！](https://mp.weixin.qq.com/s/8dK6yHCtXQSUxDpDNjaciQ)
 - [​疫情让世界暂停，科学家还在笃定前行 | 2020，“我是科学家”经历了什么？](https://mp.weixin.qq.com/s/xZrhM4QirP4UzX0pAq-OpA)
+- [新冠疫情研究讲座系列之三新冠疫情影响分析第一讲回顾](https://mp.weixin.qq.com/s/0DY4yP7qKTa1ssE_iHJ-7w)

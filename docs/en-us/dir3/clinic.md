@@ -1145,3 +1145,6 @@
 - [最新研究 | 大部分COVID-19出院患者在发病6个月后仍有至少一个症状](https://mp.weixin.qq.com/s/MOzZWKKQJxO8h31fwDjpDw)
 - [重磅丨《柳叶刀》刊登中国专家重要研究结果：COVID-19住院患者发病后半年76%仍存在至少一个症状……](https://mp.weixin.qq.com/s/ueOxtUchjOVU1Edyql8NSw)
 - [DISINFECTION MEASURES AND COVID-19](http://wthtjsjs.cn/gallery/9-whjj-dec-5696.pdf)
+- [《柳叶刀》最新研究：金银潭出院新冠患者，超7成半年后仍有健康影响](https://mp.weixin.qq.com/s/q0uZlcPOwzXtCasJ1AOUMw)
+- [神奇案例！癌症晚期患者感染新冠后，肿瘤竟然消失了……](https://mp.weixin.qq.com/s/tVIITwAQWYvtfCs2H1VW9w)
+- [Sars-cov-2-induced remission of Hodgkin lymphoma](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.17116)

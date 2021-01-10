@@ -715,3 +715,7 @@
 - [AXL is a candidate receptor for SARS-CoV-2 that promotes infection of pulmonary and bronchial epithelial cells](https://www.nature.com/articles/s41422-020-00460-y)
 - [石正丽Science发文：新冠病毒传播途径概述](https://mp.weixin.qq.com/s/932oFObm0Cg23nz7QkTH8Q)
 - [SARS-CoV-2 spillover events](https://science.sciencemag.org/content/371/6525/120)
+- [【存照】新冠病毒传播实例：一次18小时的飞行，4位乘客舱内感染](https://mp.weixin.qq.com/s/07VcjniH_JFfhilMDZVdPw)
+- [One 18-Hour Flight, Four Coronavirus Infections](https://www.nytimes.com/2021/01/07/health/coronavirus-airline-passengers-outbreak.html)
+- [Cell报道丨西湖大学郭天南等首次揭示新冠患者蛋白质分子病理全景图](https://mp.weixin.qq.com/s/Xy1ZA0oBhum81IyOFxzDCg)
+- [Multi-organ Proteomic Landscape of COVID-19 Autopsies](https://www.sciencedirect.com/science/article/pii/S0092867421000040)

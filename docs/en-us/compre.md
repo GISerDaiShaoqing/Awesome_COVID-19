@@ -1538,3 +1538,6 @@
 - [李兰娟院士，就被《Nature》杂志评为“2020年度十大科学人物”发表声明](https://mp.weixin.qq.com/s/n8ImTvbqRdszfWCf9XlwoQ)
 - [李兰娟院士就被《Nature》评为“2020年度十大科学人物”发表声明](https://mp.weixin.qq.com/s/JkQJdys_kEFIthknE0Xisg)
 - [李兰娟就被《自然》杂志评为“2020年度十大科学人物”发表声明](https://mp.weixin.qq.com/s/Ua53QwTQdhw7K3IIsjbysA)
+- [“与事实不符！”李兰娟致函Nature](https://mp.weixin.qq.com/s/4J_9f18n9R_dgn_h-eu8oA)
+- [连发两篇Cell子刊：武汉大学李红良团队构建新预测模型，利用血常规实现对新冠患者全病程风险评估](https://mp.weixin.qq.com/s/9xg6BeKLmhNL3J_zds3NoQ)
+- [Development and Validation of a Risk Score Using Complete Blood Count toPredict In-hospital Mortality in COVID-19 Patients](https://www.cell.com/med/fulltext/S2666-6340(20)30079-9)
