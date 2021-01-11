@@ -719,3 +719,7 @@
 - [One 18-Hour Flight, Four Coronavirus Infections](https://www.nytimes.com/2021/01/07/health/coronavirus-airline-passengers-outbreak.html)
 - [Cell报道丨西湖大学郭天南等首次揭示新冠患者蛋白质分子病理全景图](https://mp.weixin.qq.com/s/Xy1ZA0oBhum81IyOFxzDCg)
 - [Multi-organ Proteomic Landscape of COVID-19 Autopsies](https://www.sciencedirect.com/science/article/pii/S0092867421000040)
+- [就为这两新冠病毒变种，全球实验室拼了](https://mp.weixin.qq.com/s/AKRGKjq4SdI8MZKBGakXSA)
+- [Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera](https://doi.org/10.1101/2021.01.07.425740)
+- [Cell | 2021年首秀！西湖大学郭天南等首次揭示新冠患者蛋白质分子病理全景图](https://mp.weixin.qq.com/s/P_-yPnaAZHEfCPdtggIvOQ)
+- [Cell重磅：西湖大学与华科大联合研究，首次揭示新冠患者蛋白质分子病理全景图](https://mp.weixin.qq.com/s/GWoyh5iX4e8z2zrFo9QNxg)

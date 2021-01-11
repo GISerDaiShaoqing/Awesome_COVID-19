@@ -1148,3 +1148,5 @@
 - [《柳叶刀》最新研究：金银潭出院新冠患者，超7成半年后仍有健康影响](https://mp.weixin.qq.com/s/q0uZlcPOwzXtCasJ1AOUMw)
 - [神奇案例！癌症晚期患者感染新冠后，肿瘤竟然消失了……](https://mp.weixin.qq.com/s/tVIITwAQWYvtfCs2H1VW9w)
 - [Sars-cov-2-induced remission of Hodgkin lymphoma](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.17116)
+- [康复的新冠患者，七成半年后可能仍有不良症状](https://mp.weixin.qq.com/s/2wNNFEiy33YzUBjRRDQ02g)
+- [还在纠结打不打新冠病毒疫苗？看完就明白了](https://mp.weixin.qq.com/s/R09VpB9CzzG8i2xcY_fpfQ)
