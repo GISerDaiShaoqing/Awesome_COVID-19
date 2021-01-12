@@ -723,3 +723,7 @@
 - [Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera](https://doi.org/10.1101/2021.01.07.425740)
 - [Cell | 2021年首秀！西湖大学郭天南等首次揭示新冠患者蛋白质分子病理全景图](https://mp.weixin.qq.com/s/P_-yPnaAZHEfCPdtggIvOQ)
 - [Cell重磅：西湖大学与华科大联合研究，首次揭示新冠患者蛋白质分子病理全景图](https://mp.weixin.qq.com/s/GWoyh5iX4e8z2zrFo9QNxg)
+- [以Crisp(r)基因编辑技术的视角看新冠病毒生物学 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/EubigQctXAqGQUY2jpFaFw)
+- [A Crisp(r) New Perspective on SARS-CoV-2 Biology](https://www.cell.com/cell/fulltext/S0092-8674(20)31625-1)
+- [Nat Comm解析人体中和抗体抑制新冠病毒的分子机制](https://mp.weixin.qq.com/s/Ve5f4VhDl_bluO1UdygqFg)
+- [Antibody neutralization of SARS-CoV-2 through ACE2 receptor mimicry](https://www.nature.com/articles/s41467-020-20501-9)

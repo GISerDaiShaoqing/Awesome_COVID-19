@@ -1150,3 +1150,6 @@
 - [Sars-cov-2-induced remission of Hodgkin lymphoma](https://onlinelibrary.wiley.com/doi/full/10.1111/bjh.17116)
 - [康复的新冠患者，七成半年后可能仍有不良症状](https://mp.weixin.qq.com/s/2wNNFEiy33YzUBjRRDQ02g)
 - [还在纠结打不打新冠病毒疫苗？看完就明白了](https://mp.weixin.qq.com/s/R09VpB9CzzG8i2xcY_fpfQ)
+- [The BMJ:​COVID-19并非大号流感，防控切不可松懈！](https://mp.weixin.qq.com/s/iT7L2gLhlIIXzO4PZ3K4CA)
+- [Comparative evaluation of clinical manifestationsand risk of death in patients admitted to hospital with covid-19 and seasonalinfluenza: cohort study](http://dx.doi.org/10.1136/bmj.m4677)
+- [BioNtech新冠疫苗可抗多个变种 推出新疫苗仅需6周](https://mp.weixin.qq.com/s/DV5FUXrmDF0tu41whNAWjQ)
