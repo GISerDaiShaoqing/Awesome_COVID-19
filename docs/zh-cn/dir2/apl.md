@@ -1348,3 +1348,6 @@
 - [农村地区新冠肺炎疫情防控提示](https://mp.weixin.qq.com/s/XChnbl98A-6qnpQjhOLaeg)
 - [世卫组织新冠溯源国际专家组将来华考察 | 科研圈日报](https://mp.weixin.qq.com/s/pbT7qdmuKWQikct-rWj7RA)
 - [24小时热门｜76%新冠患者发病半年后仍有不适症状；糖尿病前期也有6种，风险大不相同；城市正在下沉，全球16亿人将受影响](https://mp.weixin.qq.com/s/l-HHmO_PulUBpan2jmdLjw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月12日）【中国科讯】](https://mp.weixin.qq.com/s/MQLEVtxcl1qt4BL093ugsg)
+- [24小时热门｜《自然》详解：为何新冠对肺的损害那么持久、那么严重？](https://mp.weixin.qq.com/s/h9pmBMNadmIUfFv3xAuzGA)
+- [巴西公布科兴疫苗最新数据，有效性50.38%｜科研圈日报](https://mp.weixin.qq.com/s/iKcWO6qgbNcdYwI9_S-oGg)

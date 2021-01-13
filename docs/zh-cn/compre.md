@@ -1553,3 +1553,5 @@
 - [Association between mental health and community support in lockdown communities during the COVID-19 pandemic: evidence from rural China](https://www.sciencedirect.com/science/article/pii/S0743016721000152)
 - [Information management in the early stages of the COVID-19 pandemic](https://www.emerald.com/insight/content/doi/10.1108/BL-09-2020-0062/full/html)
 - [Monitoring the COVID-19 epidemic with nationwide telecommunication data](https://arxiv.org/abs/2101.02521)
+- [Science预言：2021最值得关注的13条重大科学新闻](https://mp.weixin.qq.com/s/6lIUrF7XetZOZjrePNGxZA)
+- [The science stories likely to make headlines in 2021](https://www.sciencemag.org/news/2020/12/science-stories-likely-make-headlines-2021)

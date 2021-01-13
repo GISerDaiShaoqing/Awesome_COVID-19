@@ -52,3 +52,4 @@
 - [Automated detection and quantification of COVID-19 pneumonia: CT imaging analysis by a deep learning-based software](https://link.springer.com/article/10.1007/s00259-020-04953-1)
 - [AI和放射学精选合集 | Springer Journal](https://mp.weixin.qq.com/s/zA-Gjv56QgxO_CKP8Nd7nQ)
 - [深度学习下的医学影像分割算法综述](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSGG20210105003&v=3Qinehu7XHKd1zLpl6BQfx8gz97KCufv6FXRrNKaDh%25mmd2FCTDOmcRkJI5btdxw%25mmd2Fkkaz)
+- [【金猿技术展】肺炎AI医学辅助诊断技术——Dr.Wise®](https://mp.weixin.qq.com/s/0kKpdYHfjIlbrZG0kXMzrw)

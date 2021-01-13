@@ -105,5 +105,6 @@
 - [为距离而设计 | 如何设计一座后疫情时代的城市 (下) 设计激活更便捷安全的公共空间](https://mp.weixin.qq.com/s/iie22SiIGkFUSzD4oQTg8w)
 - [后疫情时代︱疫情来袭？25款治愈小游戏带你踏上心灵奇旅](https://mp.weixin.qq.com/s/Jk9dlV_Pu8e7GpBmW-sqlQ)
 - [后疫情时代︱卷无可卷：瑞典推出“一分钟城市”规划......](https://mp.weixin.qq.com/s/5I1AmQNQzXzvNgZRI3P2Cg)
+- [一览众书晓 | 向死求生:《死亡地图》中呈现的1854年伦敦霍乱瘟疫](https://mp.weixin.qq.com/s/o9RrlM1nAds7UbPAYqySlA)
 
 ![](/img/SCM.jpg)
