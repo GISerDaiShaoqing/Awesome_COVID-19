@@ -1351,3 +1351,4 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（1月12日）【中国科讯】](https://mp.weixin.qq.com/s/MQLEVtxcl1qt4BL093ugsg)
 - [24小时热门｜《自然》详解：为何新冠对肺的损害那么持久、那么严重？](https://mp.weixin.qq.com/s/h9pmBMNadmIUfFv3xAuzGA)
 - [巴西公布科兴疫苗最新数据，有效性50.38%｜科研圈日报](https://mp.weixin.qq.com/s/iKcWO6qgbNcdYwI9_S-oGg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月13日）【中国科讯】](https://mp.weixin.qq.com/s/yekOEH4PpR1fFwFnxsRhrg)
