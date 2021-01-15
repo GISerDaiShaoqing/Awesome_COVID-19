@@ -239,3 +239,4 @@
 - [元旦过后全国疫情中风险区和高风险区分布图](https://mp.weixin.qq.com/s/2hCcqiJTn2OCp4--nX9xqw)
 - [各国争夺的新冠疫苗，最抢手的不是辉瑞](https://mp.weixin.qq.com/s/Q9gN_SIW_gjWTCcUIS45Zg)
 - [图说每日疫情（2021年1月14日）：北京疫情有所复发，河北疫情防控形势严峻](https://mp.weixin.qq.com/s/g3XeC8Kvec1GAmEPnT6MOg)
+- [图说每日疫情（2021年1月15日）：全国新增本土病例164例，河北与黑龙江为重点区域](https://mp.weixin.qq.com/s/NHLH0S3li3cXYfRjYsq93g)

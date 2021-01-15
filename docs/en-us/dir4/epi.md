@@ -422,3 +422,4 @@
 - [Who is staying home and who is not? Demographic, socioeconomic, and geographic differences in time spent outside the home during the COVID-19 outbreak in Japan](https://www.sciencedirect.com/science/article/pii/S2211335520302643?via%3Dihub)
 - [Prediction of the confirmed cases and deaths of global COVID-19 using artificial intelligence](https://link.springer.com/article/10.1007/s11356-020-11930-6)
 - [Short-Term Statistical Forecasts of COVID-19 Infections in India](https://ieeexplore.ieee.org/document/9217468)
+- [Development of the Sars-CoV-2 pandemic in the city of Jena](https://github.com/andreasKroepelin/jena-covid19)

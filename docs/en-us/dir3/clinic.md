@@ -1162,3 +1162,4 @@
 - [Indonesia approves China's Sinovac vaccine as infections surge](https://www.reuters.com/article/us-health-coronavirus-indonesia/indonesia-approves-chinas-sinovac-vaccine-as-infections-surge-idUSKBN29G0RP)
 - [Brazil researchers report more modest 50.4% efficacy for China’s CoronaVac](https://whbl.com/2021/01/12/brazil-researchers-report-more-modest-50-4-efficacy-for-chinas-coronavac/)
 - [对比中美英等七国疫苗接种现状，谁正在领跑？](https://mp.weixin.qq.com/s/2RrdNjoNRukOUjSghoecKw)
+- [Metabolic Healthy Obesity, Vitamin D Status, and Risk of COVID-19](http://www.aginganddisease.org/EN/10.14336/AD.2020.1108)
