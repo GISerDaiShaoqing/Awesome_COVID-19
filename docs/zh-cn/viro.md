@@ -731,3 +731,6 @@
 - [Could new COVID variants undermine vaccines? Labs scramble to find out](https://www.nature.com/articles/d41586-021-00031-0)
 - [俄罗斯18种病毒变异后，研究发现mRNA新冠核酸疫苗有效！](https://mp.weixin.qq.com/s/2ydXw3Bcf1oI8QxybocLoQ)
 - [Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera](https://www.biorxiv.org/content/10.1101/2021.01.07.425740v1)
+- [Science新冠｜两剂新冠疫苗接种间隔过长，是否会激发病毒耐药性？](https://mp.weixin.qq.com/s/3i4fPLKlYOQCLj7hZnDtqw)
+- [Could too much time between doses drive the coronavirus to outwit vaccines?](https://www.sciencemag.org/news/2021/01/could-too-much-time-between-doses-drive-coronavirus-outwit-vaccines)
+- [这个课程有意思：新冠如何在校园传播？UT学生计算机模拟教学楼内病毒传播过程](https://mp.weixin.qq.com/s/4FBIe3-K9gKNcqzpBgJZZA)

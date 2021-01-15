@@ -81,3 +81,5 @@
 - [国内权威期刊目录·地理学(总第119期)](https://mp.weixin.qq.com/s/FOPf8a0Xl5hCRaqr9clyUg)
 - [Meteorological Applications特刊征稿 | 气候及环境因素对COVID-19传播的影响](https://mp.weixin.qq.com/s/qIIiCnWsLTcJM7fm-ErxjA)
 - [Meteorological Applications特刊征稿 | 气候及环境因素对COVID-19传播的影响](https://mp.weixin.qq.com/s/B_A4LtGQJKwKybN9TdfhGA)
+- [BMC Medicine 专辑 | 全球疫情和响应](https://mp.weixin.qq.com/s/a0tYP_8SxW8MlHsbcR7BJw)
+- [Global Outbreaks and Responses: Series to Mark the 20th Anniversary of Global Outbreak Alert and Response Network](https://www.biomedcentral.com/collections/globaloutbreaksandresponses)

@@ -1351,3 +1351,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（1月12日）【中国科讯】](https://mp.weixin.qq.com/s/MQLEVtxcl1qt4BL093ugsg)
 - [24小时热门｜《自然》详解：为何新冠对肺的损害那么持久、那么严重？](https://mp.weixin.qq.com/s/h9pmBMNadmIUfFv3xAuzGA)
 - [巴西公布科兴疫苗最新数据，有效性50.38%｜科研圈日报](https://mp.weixin.qq.com/s/iKcWO6qgbNcdYwI9_S-oGg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月13日）【中国科讯】](https://mp.weixin.qq.com/s/yekOEH4PpR1fFwFnxsRhrg)
+- [美国圣迭戈一动物园中大猩猩检出新冠阳性｜科研圈日报](https://mp.weixin.qq.com/s/NdYX3jEZCQo-Q_zZJDg6HQ)
+- [国内权威期刊目录·地理学(总第128期)](https://mp.weixin.qq.com/s/OSVkf2zbIO0DS59zZfGQ0g)
+- [24小时热门｜英国病例二次感染突变株后成重症，新冠病毒突变会影响免疫保护吗？谎报行为会导致“饮酒促进健康”的错误结论](https://mp.weixin.qq.com/s/xKvqlQ8D_zGJwmodyuY-qQ)
