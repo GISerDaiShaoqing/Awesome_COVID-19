@@ -5766,3 +5766,4 @@
 - [比利时出现一例南非变种死亡病例！荷兰恐如何防范新变种？](https://mp.weixin.qq.com/s/d2V5ctd_ctHf1KibvDhjYw)
 - [突发！鲁特辞职，内阁解散！荷兰抗疫将何去何从？事件最全回顾解析！](https://mp.weixin.qq.com/s/01YUZouArOXXNmn8usuOUw)
 - [关于荷兰史基浦机场国际中转区1月18日起为自第三国途经荷兰中转赴华旅客提供新冠病毒核酸、血清IgM抗体双检测服务的通知](https://mp.weixin.qq.com/s/Fa359RHw8BKofS1z-nW9yA)
+- [1传32，此地出现超级传播！](https://mp.weixin.qq.com/s/A-SjE3NCZyaL0RcLjvfcEw)
