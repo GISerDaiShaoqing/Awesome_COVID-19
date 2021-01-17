@@ -1362,3 +1362,7 @@
 - [中科院 2020 年度人物与创新团队公布，北斗研制团队与武汉国家生物安全实验室均入选 | 科研圈日报](https://mp.weixin.qq.com/s/0WXlp_crB8ADFZnHZAoqVw)
 - [24小时热门｜北极发现大量聚酯纤维；戴口罩会影响情绪推断吗；孤独症谱系障碍或源自基因“暗物质”](https://mp.weixin.qq.com/s/-MGdNRctxHDJSC1IsgroUw)
 - [武汉病毒研究所石正丽研究员荣获中国科学院先进工作者称号](https://mp.weixin.qq.com/s/TFUYPrs_9YWCtl5PX8XCWQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月15日）【中国科讯】](https://mp.weixin.qq.com/s/TSok9tTTkTlxmEkg0_ZEdw)
+- [中国疾控中心手把手教您做好消毒！](https://mp.weixin.qq.com/s/7e1Dl9vtrIir7t1d0WjOCQ)
+- [中国AI足球队勇夺世界冠军；英国病例二次感染突变株后成重症，新冠病毒突变会影响免疫保护吗？｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/uRuus7q8NhwFYQd4uKIiQw)
+- [中国生命科学十大进展揭晓！](https://mp.weixin.qq.com/s/DA6_NFlrQa20f94NuAPy4A)

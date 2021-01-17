@@ -1163,3 +1163,6 @@
 - [Brazil researchers report more modest 50.4% efficacy for China’s CoronaVac](https://whbl.com/2021/01/12/brazil-researchers-report-more-modest-50-4-efficacy-for-chinas-coronavac/)
 - [对比中美英等七国疫苗接种现状，谁正在领跑？](https://mp.weixin.qq.com/s/2RrdNjoNRukOUjSghoecKw)
 - [Metabolic Healthy Obesity, Vitamin D Status, and Risk of COVID-19](http://www.aginganddisease.org/EN/10.14336/AD.2020.1108)
+- [新冠病毒再感染需要警惕吗？](https://mp.weixin.qq.com/s/SZOm83TlOi3PrmRi8TTKBQ)
+- [COVID reinfections are unusual — but could still help the virus to spread](https://www.nature.com/articles/d41586-021-00071-6)
+- [姜世勃：广谱抗冠疫苗和药物是防控现在和未来新冠疫情的最佳选择](https://mp.weixin.qq.com/s/WXnfQuTLay63Mky5MaAk4A)

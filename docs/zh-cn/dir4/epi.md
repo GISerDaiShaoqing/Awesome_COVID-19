@@ -423,3 +423,5 @@
 - [Prediction of the confirmed cases and deaths of global COVID-19 using artificial intelligence](https://link.springer.com/article/10.1007/s11356-020-11930-6)
 - [Short-Term Statistical Forecasts of COVID-19 Infections in India](https://ieeexplore.ieee.org/document/9217468)
 - [Development of the Sars-CoV-2 pandemic in the city of Jena](https://github.com/andreasKroepelin/jena-covid19)
+- [The spatial transmission of SARS-CoV-2 in China under the prevention and control measures at the early outbreak](https://link.springer.com/article/10.1186/s13690-021-00529-z)
+- [Infections Forecasting and Intervention Effect Evaluation for COVID-19 via a Data-Driven Markov Process and Heterogeneous Simulation](https://arxiv.org/abs/2101.03133)

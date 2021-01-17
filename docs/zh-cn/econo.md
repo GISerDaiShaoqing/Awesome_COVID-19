@@ -619,3 +619,4 @@
 - [How Might the COVID-19 Pandemic Affect 21st Century Urban Design, Planning, and Development?](https://www.mdpi.com/2413-8851/4/4/56)
 - [Multiscale mobility explains differential associations between the gross domestic product and COVID-19 transmission in Chinese cities](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa236/6062385)
 - [全球抗疫观｜英国留学生：同学淡定告诉我，已有新冠抗体了](https://mp.weixin.qq.com/s/vsBy75y3Pyw_nclZnnBWRQ)
+- [帮宠物看病小程序疫情间创下7个亿，百万估值宠物诊疗巨头如何数字化大练兵？](https://mp.weixin.qq.com/s/6YNQjB6tc-WWjU_wNEbJRQ)

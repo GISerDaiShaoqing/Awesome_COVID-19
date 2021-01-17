@@ -324,3 +324,4 @@
 - [新冠疫情研究讲座系列之三新冠疫情影响分析第一讲回顾](https://mp.weixin.qq.com/s/0DY4yP7qKTa1ssE_iHJ-7w)
 - [MDPI遥感地信系列研讨会（第二期）| 地理信息技术在公共卫生与健康领域的应用](https://mp.weixin.qq.com/s/iYCGC95ySBWnbTYSQr1Fdw)
 - [周六直播：新冠大爆发，科学怎么办？](https://mp.weixin.qq.com/s/SCOdfE73m2twbqudLtELvg)
+- [2020年疫苗批签发总结：后疫情时代，疫苗行业迎来新机遇](https://mp.weixin.qq.com/s/NsiA2ImK0SB8Q8UuwIqbTw)

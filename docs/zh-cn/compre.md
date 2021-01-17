@@ -1572,3 +1572,7 @@
 - [神奇！以人类对句子的解读类比免疫系统对新冠等病毒的识别｜Science一周精选](https://mp.weixin.qq.com/s/BZy5vZLra_98-L_Lhi9Neg)
 - [Learning the language of viral evolution and escape](https://science.sciencemag.org/content/371/6526/284)
 - [Association analysis framework of genetic and exposure risks for COVID-19 in middle-aged and elderly adults](https://www.sciencedirect.com/science/article/pii/S0047637421000051?via%3Dihub)
+- [基于新冠疫情经验，施普林格·自然CEO呼吁强化科研界的合作以促进开放科学](https://mp.weixin.qq.com/s/rVsETLRrMfFr2DiwrIKDAA)
+- [深度！为何新冠终究会变成一场症状轻微的普通感冒](https://mp.weixin.qq.com/s/1UMqdw9YBRG3NMg3vUi-hg)
+- [News Attention and Social-Distancing Behavior Amid COVID-19: How Media Trust and Social Norms Moderate a Mediated Relationship](https://www.tandfonline.com/doi/full/10.1080/10410236.2020.1868064)
+- [Social restriction versus herd immunity policies in the early phase of the SARS-CoV-2 pandemic: A mathematical modelling study](https://pubmed.ncbi.nlm.nih.gov/33386788/)
