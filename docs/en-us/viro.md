@@ -742,3 +742,5 @@
 - [我所提出电化学氧化灭活新冠病毒新途径](http://www.dicp.ac.cn/xwdt/kyjz/202101/t20210113_5855414.html)
 - [国家生物信息中心发布更新版新型冠状病毒信息库2019nCoVR](https://mp.weixin.qq.com/s/G7EpZxvj3JmQuVyWcxdwRA)
 - [The Global Landscape of SARS-CoV-2 Genomes, Variants, and Haplotypes in 2019nCoVR](https://www.sciencedirect.com/science/article/pii/S1672022920301315)
+- [火力全开！Nature Medicine再论新冠病毒起源](https://mp.weixin.qq.com/s/hW4bukqXi2Mkr_8jzNk_-A)
+- [On the origins of SARS-CoV-2](https://doi.org/10.1038/s41591-020-01205-5)

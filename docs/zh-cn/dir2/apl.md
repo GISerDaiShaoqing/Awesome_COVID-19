@@ -1366,3 +1366,7 @@
 - [中国疾控中心手把手教您做好消毒！](https://mp.weixin.qq.com/s/7e1Dl9vtrIir7t1d0WjOCQ)
 - [中国AI足球队勇夺世界冠军；英国病例二次感染突变株后成重症，新冠病毒突变会影响免疫保护吗？｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/uRuus7q8NhwFYQd4uKIiQw)
 - [中国生命科学十大进展揭晓！](https://mp.weixin.qq.com/s/DA6_NFlrQa20f94NuAPy4A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月16日）【中国科讯】](https://mp.weixin.qq.com/s/cjDmXQvP5-O_wY9kjtB50Q)
+- [Trends系列期刊COVID-19相关综述合辑（上）](https://mp.weixin.qq.com/s/oBl09Dl3lku8an29Od6DJA)
+- [疫情期间 结核病患者和结核病防治机构如何做？](https://mp.weixin.qq.com/s/b_ZUW24tCGjPj82GotoQhA)
+- [非洲现新冠病毒“逃逸突变体”，可能导致疫苗失效 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/EjMnbWW9BYOUhUn7npPHBA)

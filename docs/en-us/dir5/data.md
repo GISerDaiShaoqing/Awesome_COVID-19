@@ -232,3 +232,4 @@
 - [A spatiotemporal data collection of viral cases for COVID-19 rapid response](https://www.tandfonline.com/doi/full/10.1080/20964471.2020.1844934)
 - [COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub)
 - [Excel不是万能的！新冠疫情教我们的数据课](https://mp.weixin.qq.com/s/pYkBJ1tFbuIEhlcFPHH71w)
+- [nCov2019: An R package with real-time data, historical data and Shiny app for exploring COVID-19 statistics](https://github.com/YuLab-SMU/nCov2019)
