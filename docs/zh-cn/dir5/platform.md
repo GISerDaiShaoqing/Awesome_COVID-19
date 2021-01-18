@@ -141,3 +141,4 @@
 - [这个平台只需单击几下，便可提取、查询和可视化全球人口流量！丨城市数据派](https://mp.weixin.qq.com/s/iGisPEoHheLJEdswHF1Gaw)
 - [ODT Flow Explorer: Extract, Query, and Visualize Human Mobility](https://arxiv.org/ftp/arxiv/papers/2011/2011.12958.pdf)
 - [Google Play 应用《健康码演示》可模仿红绿码，数字时代造假这么简单？](https://mp.weixin.qq.com/s/U0yYl-7gWPFd9zeKzVlraw)
+- [能回家吗？做核酸吗？要隔离吗？春节返乡前，先打开这款小程序](https://mp.weixin.qq.com/s/k1RWEhGmqdYfhM6HfslOCw)

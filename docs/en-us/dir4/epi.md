@@ -425,3 +425,6 @@
 - [Development of the Sars-CoV-2 pandemic in the city of Jena](https://github.com/andreasKroepelin/jena-covid19)
 - [The spatial transmission of SARS-CoV-2 in China under the prevention and control measures at the early outbreak](https://link.springer.com/article/10.1186/s13690-021-00529-z)
 - [Infections Forecasting and Intervention Effect Evaluation for COVID-19 via a Data-Driven Markov Process and Heterogeneous Simulation](https://arxiv.org/abs/2101.03133)
+- [我国学者预测，今年3月份，全球新冠感染者可能升至1.7亿，我国需做好应对措施](https://mp.weixin.qq.com/s/JdlrGG0-6X3FXDbnV8pRQw)
+- [2020－2021年度新型冠状病毒肺炎疫情发展趋势分析与应对](http://www.jbjc.org/cn/article/doi/10.3784/j.issn.1003-9961.2020.12.005)
+- [Built environment and early infection of COVID-19 in urban districts: A case study of Huangzhou](https://www.sciencedirect.com/science/article/pii/S2210670720309008?via%3Dihub)

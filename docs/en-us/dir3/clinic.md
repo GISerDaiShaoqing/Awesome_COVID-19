@@ -1166,3 +1166,6 @@
 - [新冠病毒再感染需要警惕吗？](https://mp.weixin.qq.com/s/SZOm83TlOi3PrmRi8TTKBQ)
 - [COVID reinfections are unusual — but could still help the virus to spread](https://www.nature.com/articles/d41586-021-00071-6)
 - [姜世勃：广谱抗冠疫苗和药物是防控现在和未来新冠疫情的最佳选择](https://mp.weixin.qq.com/s/WXnfQuTLay63Mky5MaAk4A)
+- [新免疫策略可预防新冠和其他威胁人类健康的冠状病毒｜Science新冠](https://mp.weixin.qq.com/s/Pj7P0vdi7a0AIPrIVkGbLg)
+- [Mosaic nanoparticles elicit cross-reactive immune responses to zoonotic coronaviruses in mice](https://science.sciencemag.org/content/early/2021/01/11/science.abf6840)
+- [反转：新冠病毒“治愈”癌症，不是医学奇迹！](https://mp.weixin.qq.com/s/lrPcWiBROEgn74I0Ifq7TQ)
