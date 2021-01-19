@@ -234,3 +234,4 @@
 - [Excel不是万能的！新冠疫情教我们的数据课](https://mp.weixin.qq.com/s/pYkBJ1tFbuIEhlcFPHH71w)
 - [nCov2019: An R package with real-time data, historical data and Shiny app for exploring COVID-19 statistics](https://github.com/YuLab-SMU/nCov2019)
 - [COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak](https://www.nature.com/articles/s41597-020-00784-9)
+- [Unified COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset)

@@ -1592,3 +1592,5 @@
 - [The language of a virus](https://science.sciencemag.org/content/371/6526/233)
 - [顶级病毒学家：我能掀起一场新的病毒疫情？？? ？？？](https://mp.weixin.qq.com/s/CuuHTJtFUP-L0VeGsyJh4g)
 - [Could too much time between doses drive the coronavirus to outwit vaccines?](https://mp.weixin.qq.com/s/CuuHTJtFUP-L0VeGsyJh4g)
+- [观点 | COVID-19期间的育儿](https://mp.weixin.qq.com/s/Qd4_Hu4te0qIuS194wzmOA)
+- [Parenting in the time of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32755-0/fulltext)
