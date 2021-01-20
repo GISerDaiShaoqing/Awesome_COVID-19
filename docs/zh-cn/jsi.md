@@ -83,3 +83,5 @@
 - [Meteorological Applications特刊征稿 | 气候及环境因素对COVID-19传播的影响](https://mp.weixin.qq.com/s/B_A4LtGQJKwKybN9TdfhGA)
 - [BMC Medicine 专辑 | 全球疫情和响应](https://mp.weixin.qq.com/s/a0tYP_8SxW8MlHsbcR7BJw)
 - [Global Outbreaks and Responses: Series to Mark the 20th Anniversary of Global Outbreak Alert and Response Network](https://www.biomedcentral.com/collections/globaloutbreaksandresponses)
+- [《生物伦理调查杂志》新冠肺炎特刊推介](https://mp.weixin.qq.com/s/yDHsIEFJP3lE1CDLcfbozA)
+- [【双刊联合征稿】后疫情时代的能源系统与气候治理](https://mp.weixin.qq.com/s/XS9hxHqRaOh7AFB5S0owfA)

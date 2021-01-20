@@ -1386,3 +1386,8 @@
 - [中国科兴新冠疫苗在巴西获紧急使用许可 | 科研圈日报](https://mp.weixin.qq.com/s/g6P2vf6Ly4LfP4XJMMiSTA)
 - [【视频】农村地区新冠肺炎疫情防控提示](https://mp.weixin.qq.com/s/CrmAjgxoURoR5_ZWMV0d2A)
 - [24小时热门｜新冠疫情期间日本的自杀率变化](https://mp.weixin.qq.com/s/Epat7qGDV7yfdyc8dTa_nw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月19日）【中国科讯】](https://mp.weixin.qq.com/s/enmFWqHhHR1P7Fu5H2qlAA)
+- [疫苗一定需要接种？六个问题带你认识疫苗](https://mp.weixin.qq.com/s/hMwqJO3iD9rZHbU_3kcsIA)
+- [中国疾控中心已启动新冠变异毒株国家保藏与共享工作 | 科研圈日报](https://mp.weixin.qq.com/s/yM_t_SpAAQQ875x1ri9Vzw)
+- [24小时热门｜新冠病毒在不断突变，免疫系统也没闲着；如何让新年Flag常立不倒？](https://mp.weixin.qq.com/s/vtPWKilRBsJn0tPirOy2hg)
+- [中科院高福院士课题组 2020 年发表了哪些重要的研究成果？](https://mp.weixin.qq.com/s/qidUrUjZCSKEY8pngyUuCg)

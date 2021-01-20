@@ -1594,3 +1594,7 @@
 - [Could too much time between doses drive the coronavirus to outwit vaccines?](https://mp.weixin.qq.com/s/CuuHTJtFUP-L0VeGsyJh4g)
 - [观点 | COVID-19期间的育儿](https://mp.weixin.qq.com/s/Qd4_Hu4te0qIuS194wzmOA)
 - [Parenting in the time of COVID-19](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32755-0/fulltext)
+- [《科学》公布2020年年度突破，疫情下科学没有止步](https://mp.weixin.qq.com/s/_r3Tpk96xApwcdV0PZT2Rw)
+- [牛！用语言模型研究病毒](https://mp.weixin.qq.com/s/o1n-xsgG1gi5eFQxT9FL3g)
+- [《科学》杂志：通过感染获得群体免疫不可行!](https://mp.weixin.qq.com/s/Uj6xJhIMre6JVqJp6O4xyw)
+- [Herd immunity by infection is not an option](https://science.sciencemag.org/content/371/6526/230)

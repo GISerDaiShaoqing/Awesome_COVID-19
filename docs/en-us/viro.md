@@ -751,3 +751,8 @@
 - [Multi-organ Proteomic Landscape of COVID-19 Autopsies](https://www.cell.com/cell/fulltext/S0092-8674(21)00004-0)
 - [防范病毒，不要迷信两米社交距离原则](https://mp.weixin.qq.com/s/GyymbDvp_rCiUWFrtjMhKg)
 - [Host-to-host airborne transmission as a multiphase flow problem for science-based social distance guidelines](https://www.sciencedirect.com/science/article/pii/S0301932220305498)
+- [半年！感染新冠，免疫系统“记仇”](https://mp.weixin.qq.com/s/Nj0XvmE4OprvWhn2JmyIrg)
+- [赵金存教授团队首次解析SARS-CoV-2感染小鼠T细胞应答，为新型新冠疫苗研发奠定基础](https://mp.weixin.qq.com/s/PyleSqeEFCghep08j0Dgjw)
+- [Mapping and role of T cell response in SARS-CoV-2–infected mice](https://rupress.org/jem/article/218/4/e20202187/211689/Mapping-and-role-of-T-cell-response-in-SARS-CoV-2)
+- [Protein & Cell：姜世勃团队总结通用冠状病毒融合抑制剂](https://mp.weixin.qq.com/s/y70AsuW_yaJCRs2KJb0z_w)
+- [ Pan-coronavirus fusion inhibitors as the hope for today and tomorrow](https://link.springer.com/article/10.1007/s13238-020-00806-7)
