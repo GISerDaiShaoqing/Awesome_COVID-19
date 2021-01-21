@@ -1391,3 +1391,7 @@
 - [中国疾控中心已启动新冠变异毒株国家保藏与共享工作 | 科研圈日报](https://mp.weixin.qq.com/s/yM_t_SpAAQQ875x1ri9Vzw)
 - [24小时热门｜新冠病毒在不断突变，免疫系统也没闲着；如何让新年Flag常立不倒？](https://mp.weixin.qq.com/s/vtPWKilRBsJn0tPirOy2hg)
 - [中科院高福院士课题组 2020 年发表了哪些重要的研究成果？](https://mp.weixin.qq.com/s/qidUrUjZCSKEY8pngyUuCg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月20日）【中国科讯】](https://mp.weixin.qq.com/s/F9JxmzbJ-CVwhNw0HA5e2g)
+- [图说 | 新冠肺炎疫情常态化防控下村卫生室人员接诊十须知](https://mp.weixin.qq.com/s/BlyabZDbHBYutJc2iQlwuQ)
+- [24小时热门｜AI转行搞医学：用自然语言处理算法预测病毒的免疫逃逸](https://mp.weixin.qq.com/s/FowNnaHi7kGrlLM1TW3XpQ)
+- [2020年新冠病毒最有代表性和影响力的文章](https://mp.weixin.qq.com/s/XLQeadAhwMXZv6LSKfKRvQ)

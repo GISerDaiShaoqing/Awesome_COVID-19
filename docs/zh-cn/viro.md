@@ -756,3 +756,6 @@
 - [Mapping and role of T cell response in SARS-CoV-2–infected mice](https://rupress.org/jem/article/218/4/e20202187/211689/Mapping-and-role-of-T-cell-response-in-SARS-CoV-2)
 - [Protein & Cell：姜世勃团队总结通用冠状病毒融合抑制剂](https://mp.weixin.qq.com/s/y70AsuW_yaJCRs2KJb0z_w)
 - [ Pan-coronavirus fusion inhibitors as the hope for today and tomorrow](https://link.springer.com/article/10.1007/s13238-020-00806-7)
+- [RNA疫苗如何在新冠疫情中弯道超车？](https://mp.weixin.qq.com/s/ofhXNz3QfA7kBxh4rE9WDg)
+- [How COVID unlocked the power of RNA vaccines](https://www.nature.com/articles/d41586-021-00019-w)
+- [上海新增3例本土确诊，中风险地区+1](https://mp.weixin.qq.com/s/c52IRmpFFoGIGniMSd5K-A)
