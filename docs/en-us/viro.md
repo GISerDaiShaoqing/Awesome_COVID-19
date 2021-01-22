@@ -759,3 +759,4 @@
 - [RNA疫苗如何在新冠疫情中弯道超车？](https://mp.weixin.qq.com/s/ofhXNz3QfA7kBxh4rE9WDg)
 - [How COVID unlocked the power of RNA vaccines](https://www.nature.com/articles/d41586-021-00019-w)
 - [上海新增3例本土确诊，中风险地区+1](https://mp.weixin.qq.com/s/c52IRmpFFoGIGniMSd5K-A)
+- [国际合作！最新新冠病毒高清科普影像重磅来袭！](https://mp.weixin.qq.com/s/pNa3RMozsV0CMpDNtit3oQ)

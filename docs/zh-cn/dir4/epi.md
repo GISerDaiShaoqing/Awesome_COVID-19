@@ -428,3 +428,5 @@
 - [我国学者预测，今年3月份，全球新冠感染者可能升至1.7亿，我国需做好应对措施](https://mp.weixin.qq.com/s/JdlrGG0-6X3FXDbnV8pRQw)
 - [2020－2021年度新型冠状病毒肺炎疫情发展趋势分析与应对](http://www.jbjc.org/cn/article/doi/10.3784/j.issn.1003-9961.2020.12.005)
 - [Built environment and early infection of COVID-19 in urban districts: A case study of Huangzhou](https://www.sciencedirect.com/science/article/pii/S2210670720309008?via%3Dihub)
+- [Data sets and code to model Covid-19 mortality dat in England at the MSOA and LTLA levels](https://github.com/duncanplee/Covid-19-model-England)
+- [Prediction models for diagnosis and prognosis of covid-19: systematic review and critical appraisal](https://www.bmj.com/content/369/bmj.m1328)

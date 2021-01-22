@@ -1598,3 +1598,5 @@
 - [牛！用语言模型研究病毒](https://mp.weixin.qq.com/s/o1n-xsgG1gi5eFQxT9FL3g)
 - [《科学》杂志：通过感染获得群体免疫不可行!](https://mp.weixin.qq.com/s/Uj6xJhIMre6JVqJp6O4xyw)
 - [Herd immunity by infection is not an option](https://science.sciencemag.org/content/371/6526/230)
+- [The BMJ:​在COVID⁃19大流行期间居家照料者如何使用终末期药物【缓和医疗】【2020年第10期】](https://mp.weixin.qq.com/s/ytYD5AAsVD8r1J4d_TfTFA)
+- [Administration of end-of-life drugs by family caregivers during covid-19 pandemic](https://www.bmj.com/content/369/bmj.m1615)
