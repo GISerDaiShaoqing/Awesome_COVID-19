@@ -622,3 +622,4 @@
 - [帮宠物看病小程序疫情间创下7个亿，百万估值宠物诊疗巨头如何数字化大练兵？](https://mp.weixin.qq.com/s/6YNQjB6tc-WWjU_wNEbJRQ)
 - [中国测绘丨后疫情时代转型升级路——专访广东科力达仪器有限公司总经理赵计学](https://mp.weixin.qq.com/s/PU-0qgg56hZFUxj5a-nJZw)
 - [国际资讯 | [英]地产权重大改革/再次封城交通行业受影响/模型改变人们对新冠的认知(2021.1)](https://mp.weixin.qq.com/s/r4lW4Miy0WFvOOz9TBzQkg)
+- [疫后一年，外卖这件事经历了哪些改变？| 城市生活复原追踪](https://mp.weixin.qq.com/s/sOUWBP4NGvWUyUmIX6yuzg)

@@ -1600,3 +1600,8 @@
 - [Herd immunity by infection is not an option](https://science.sciencemag.org/content/371/6526/230)
 - [The BMJ:​在COVID⁃19大流行期间居家照料者如何使用终末期药物【缓和医疗】【2020年第10期】](https://mp.weixin.qq.com/s/ytYD5AAsVD8r1J4d_TfTFA)
 - [Administration of end-of-life drugs by family caregivers during covid-19 pandemic](https://www.bmj.com/content/369/bmj.m1615)
+- [Nature：新冠疫情限制了2020年的碳排放，但作用不大](https://mp.weixin.qq.com/s/sFTDh1sUmFyNwkYefBsXGQ)
+- [COVID curbed carbon emissions in 2020 — but not by much](https://www.nature.com/articles/d41586-021-00090-3)
+- [AI算法或使我们跟上新冠病毒的变异速度](https://mp.weixin.qq.com/s/mnvAwwzoW8Edgjw5RWervQ)
+- [As SARS-CoV-2 Mutates, AI Algorithms Try to Keep Pace](https://spectrum.ieee.org/the-human-os/biomedical/devices/ai-predicts-most-potent-covid-19-mutations)
+- [Ecosystem-centric business continuity planning (eco-centric BCP): A post COVID19 new normal](https://www.sciencedirect.com/science/article/pii/S2590061720300545?via%3Dihub)

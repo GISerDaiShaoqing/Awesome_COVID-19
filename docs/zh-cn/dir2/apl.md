@@ -1401,3 +1401,6 @@
 - [24小时热门｜五分之一的人饭后肚子不舒服，他们可能得了这种病；现有的新冠病毒诊断AI模型，几乎毫无用处](https://mp.weixin.qq.com/s/QiOzwt3_y3ODu2XJH4_j3A)
 - [中国新冠疫苗接种量已超 1500 万人次 | 科研圈日报](https://mp.weixin.qq.com/s/J-Kgv0tfrCvtQ322B-gh3w)
 - [《石家庄市新型冠状病毒肺炎中医药防治方案》出台：现有集中隔离人员应于2日内服药到口](https://mp.weixin.qq.com/s/GwjA5d3Ab9VYQMQnXMp4pQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月22日）【中国科讯】](https://mp.weixin.qq.com/s/Ph5uTBaExI9kwovbFc_HUw)
+- [中国疾控中心教您做好个人防护](https://mp.weixin.qq.com/s/r6qfor1YsHXAYvDWJ58_zA)
+- [新冠病毒在不断突变，免疫系统也在变强；电阻为零的超导微处理器问世｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/Z72fzAffsl40BPJsoGxicg)

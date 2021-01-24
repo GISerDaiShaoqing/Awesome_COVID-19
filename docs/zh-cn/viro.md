@@ -760,3 +760,5 @@
 - [How COVID unlocked the power of RNA vaccines](https://www.nature.com/articles/d41586-021-00019-w)
 - [上海新增3例本土确诊，中风险地区+1](https://mp.weixin.qq.com/s/c52IRmpFFoGIGniMSd5K-A)
 - [国际合作！最新新冠病毒高清科普影像重磅来袭！](https://mp.weixin.qq.com/s/pNa3RMozsV0CMpDNtit3oQ)
+- [新冠变异病毒能逃逸免疫反应，专家纷纷表示担忧](https://mp.weixin.qq.com/s/OKZs_vhNVGqplHS7a-NK-A)
+- [Fast-spreading COVID variant can elude immune responses](https://www.nature.com/articles/d41586-021-00121-z)
