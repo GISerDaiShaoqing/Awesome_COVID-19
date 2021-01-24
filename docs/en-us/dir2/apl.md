@@ -1404,3 +1404,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（1月22日）【中国科讯】](https://mp.weixin.qq.com/s/Ph5uTBaExI9kwovbFc_HUw)
 - [中国疾控中心教您做好个人防护](https://mp.weixin.qq.com/s/r6qfor1YsHXAYvDWJ58_zA)
 - [新冠病毒在不断突变，免疫系统也在变强；电阻为零的超导微处理器问世｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/Z72fzAffsl40BPJsoGxicg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月23日）【中国科讯】](https://mp.weixin.qq.com/s/PhiKAxb-FK-EyDtu1eIatQ)
+- [基于核酸的冠状病毒靶向技术丨Trends系列期刊COVID-19相关综述合辑（下）](https://mp.weixin.qq.com/s/OP0PL0QCnJK4QD6PdQ-xNQ)
+- [快自查！这些防护误区你有吗？](https://mp.weixin.qq.com/s/FnBRwGFUR5Mx9Lh29tTQ0Q)
+- [新冠疫情致2020年全球碳排放减少6.4%，降幅低于预期｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/Tqgr6b9McK2dvVtBVCP7Bw)

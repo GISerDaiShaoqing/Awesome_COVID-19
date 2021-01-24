@@ -126,3 +126,5 @@
 - [Responding to the pandemic as a family unit: social impacts of COVID-19 on rural migrants in China and their coping strategies](https://www.nature.com/articles/s41599-020-00686-6)
 - [An evaluation of COVID-19 transmission control in Wenzhou using a modified SEIR model](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/an-evaluation-of-covid19-transmission-control-in-wenzhou-using-a-modified-seir-model/6B98F370406C43F465D9009761FF2DC6)
 - [A Big-Data Driven Approach to Analyzing and Modeling Human Mobility Trend under Non-Pharmaceutical Interventions during COVID-19 Pandemic](https://www.sciencedirect.com/science/article/pii/S0968090X20308524)
+- [Summary of the COVID-19 epidemic and estimating the effects of emergency responses in China](https://www.nature.com/articles/s41598-020-80201-8)
+- [A model to rate strategies for managing disease due to COVID-19 infection](https://www.nature.com/articles/s41598-020-79817-7)

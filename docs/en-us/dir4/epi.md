@@ -430,3 +430,6 @@
 - [Built environment and early infection of COVID-19 in urban districts: A case study of Huangzhou](https://www.sciencedirect.com/science/article/pii/S2210670720309008?via%3Dihub)
 - [Data sets and code to model Covid-19 mortality dat in England at the MSOA and LTLA levels](https://github.com/duncanplee/Covid-19-model-England)
 - [Prediction models for diagnosis and prognosis of covid-19: systematic review and critical appraisal](https://www.bmj.com/content/369/bmj.m1328)
+- [Retrospective prediction of the epidemic trend of COVID‐19 in Wuhan at four phases](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26781)
+- [Prediction of the confirmed cases and deaths of global COVID-19 using artificial intelligence](https://link.springer.com/article/10.1007%2Fs11356-020-11930-6)
+- [Universal Urban Spreading Pattern of COVID-19 and Its Underlying Mechanism](https://arxiv.org/abs/2012.15161)

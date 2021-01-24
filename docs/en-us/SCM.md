@@ -107,5 +107,6 @@
 - [后疫情时代︱卷无可卷：瑞典推出“一分钟城市”规划......](https://mp.weixin.qq.com/s/5I1AmQNQzXzvNgZRI3P2Cg)
 - [一览众书晓 | 向死求生:《死亡地图》中呈现的1854年伦敦霍乱瘟疫](https://mp.weixin.qq.com/s/o9RrlM1nAds7UbPAYqySlA)
 - [场所营造︱有一种室外叫室内营造：冬季防疫，如何让室外就餐与室内就餐没区别](https://mp.weixin.qq.com/s/dkn0Pqg6I6OEnQa1G6vgvA)
+- [市长调研录︱疫情如何改变了他们的城市？](https://mp.weixin.qq.com/s/jaJghNF1DaopLj9b2gL7wA)
 
 ![](/img/SCM.jpg)
