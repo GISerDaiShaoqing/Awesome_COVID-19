@@ -5967,3 +5967,4 @@
 - [张文宏凌晨发文](https://mp.weixin.qq.com/s/koD8diqZwYz2u1CpAqIqzw)
 - [吉林通化就物资配送发布最新通告](https://mp.weixin.qq.com/s/SE3GaknzUpcqDu58tyqvgQ)
 - [4924！昨夜3600+罚单，今日阿姆/埃因霍温爆发示威，火车停运！警方：暴力风险飙升！](https://mp.weixin.qq.com/s/EWyyAYdO_4ZGXXJgxaXbyg)
+- [荷兰埃因霍温（Eindhoven)反新冠措施示威者暴乱](https://mp.weixin.qq.com/s/d7SrY3gWPBHENLdUTiAcJA)
