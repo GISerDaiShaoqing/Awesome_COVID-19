@@ -1183,3 +1183,5 @@
 - [SARS-CoV-2 can infect the placenta and is not associated with specific placental histopathology: a series of 19 placentas from COVID-19-positive mothers](https://www.nature.com/articles/s41379-020-0639-4)
 - [Characteristics and outcomes of pregnant women admitted to hospital with confirmed SARS-CoV-2 infection in UK: national population based cohort study](https://www.bmj.com/content/369/bmj.m2107)
 - [情报研发 | 新冠通过神经系统影响嗅觉和味觉的研究进展 【中国科讯】 中国科讯](https://mp.weixin.qq.com/s/aygCmODPV6tSZ-gElCso1Q)
+- [被遗忘的新冠幸存者 | BMC Health Services Research](https://mp.weixin.qq.com/s/ao5hlSKT3mwE5dqAII7cEQ)
+- [Persistent symptoms after Covid-19: qualitative study of 114 “long Covid” patients and draft quality principles for services](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-06001-y)

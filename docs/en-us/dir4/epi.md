@@ -433,3 +433,5 @@
 - [Retrospective prediction of the epidemic trend of COVID‐19 in Wuhan at four phases](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26781)
 - [Prediction of the confirmed cases and deaths of global COVID-19 using artificial intelligence](https://link.springer.com/article/10.1007%2Fs11356-020-11930-6)
 - [Universal Urban Spreading Pattern of COVID-19 and Its Underlying Mechanism](https://arxiv.org/abs/2012.15161)
+- [武汉新冠病毒数据出炉，儿童比老年人更具传染力!](https://mp.weixin.qq.com/s/Lfxm7vBpOr-UtuzJRpjUfw)
+- [Household transmission of SARS-COV-2 and risk factors for susceptibility and infectivity in Wuhan: a retrospective observational study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30981-6/fulltext)
