@@ -1614,3 +1614,7 @@
 - [Quantitative assessment of the effects of resource optimization and ICU admission policy on COVID-19 mortalities](https://arxiv.org/abs/2012.13953)
 - [Nature：第一个依靠疫苗实现全民免疫的国家，可能出现了](https://mp.weixin.qq.com/s/Z_7rTdtBwAd4t9cQGhGIMg)
 - [Are COVID vaccination programmes working? Scientists seek first clues](https://www.nature.com/articles/d41586-021-00140-w)
+- [117个国家/地区的温度与COVID-19传播能力之间的关联](https://mp.weixin.qq.com/s/LSBHP_mTQBgAw8TWf7dbJA)
+- [Revisiting the association between temperature and COVID-19 transmissibility across 117 countries](https://openres.ersjournals.com/content/6/4/00550-2020?ctkey=wechat)
+- [时间线 | 新冠文章发表一周年记](https://mp.weixin.qq.com/s/5IuX2BnuDyDAD3kl8y9lgQ)
+- [2020:our year in review](https://info.thelancet.com/2020-in-review)

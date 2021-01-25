@@ -128,3 +128,5 @@
 - [A Big-Data Driven Approach to Analyzing and Modeling Human Mobility Trend under Non-Pharmaceutical Interventions during COVID-19 Pandemic](https://www.sciencedirect.com/science/article/pii/S0968090X20308524)
 - [Summary of the COVID-19 epidemic and estimating the effects of emergency responses in China](https://www.nature.com/articles/s41598-020-80201-8)
 - [A model to rate strategies for managing disease due to COVID-19 infection](https://www.nature.com/articles/s41598-020-79817-7)
+- [Simulating the impact of different vaccination policies on the COVID-19 pandemic in New York City](https://www.medrxiv.org/content/10.1101/2021.01.21.21250228v1)
+- [Application of Big Data Technology for COVID-19 Prevention and Control in China: Lessons and Recommendations](https://preprints.jmir.org/preprint/21980)

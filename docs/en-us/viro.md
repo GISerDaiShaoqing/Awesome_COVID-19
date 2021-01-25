@@ -762,3 +762,5 @@
 - [国际合作！最新新冠病毒高清科普影像重磅来袭！](https://mp.weixin.qq.com/s/pNa3RMozsV0CMpDNtit3oQ)
 - [新冠变异病毒能逃逸免疫反应，专家纷纷表示担忧](https://mp.weixin.qq.com/s/OKZs_vhNVGqplHS7a-NK-A)
 - [Fast-spreading COVID variant can elude immune responses](https://www.nature.com/articles/d41586-021-00121-z)
+- [曾木圣/赵金存/柯昌文团队开发基于新冠病毒刺突蛋白受体结合域的自组装纳米颗粒蛋白候选疫苗](https://mp.weixin.qq.com/s/L0eOi-edfc7o3SiDcoOVCw)
+- [Rapid Development of SARS-CoV‑2 Spike Protein Receptor-Binding Domain Self-Assembled Nanoparticle Vaccine Candidates](https://dx.doi.org/10.1021/acsnano.0c08379)

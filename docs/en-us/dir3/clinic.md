@@ -1185,3 +1185,5 @@
 - [情报研发 | 新冠通过神经系统影响嗅觉和味觉的研究进展 【中国科讯】 中国科讯](https://mp.weixin.qq.com/s/aygCmODPV6tSZ-gElCso1Q)
 - [被遗忘的新冠幸存者 | BMC Health Services Research](https://mp.weixin.qq.com/s/ao5hlSKT3mwE5dqAII7cEQ)
 - [Persistent symptoms after Covid-19: qualitative study of 114 “long Covid” patients and draft quality principles for services](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-06001-y)
+- [静-静脉体外膜氧合治疗COVID-19：来自英国的病例系列](https://mp.weixin.qq.com/s/cl67nfUxi0uSXRf_R4aTHQ)
+- [Veno-venous extracorporeal membrane oxygenation in coronavirus disease 2019: a case series](https://openres.ersjournals.com/content/6/4/00463-2020?ctkey=wechat)
