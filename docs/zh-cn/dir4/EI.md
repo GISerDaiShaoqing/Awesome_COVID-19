@@ -130,3 +130,4 @@
 - [A model to rate strategies for managing disease due to COVID-19 infection](https://www.nature.com/articles/s41598-020-79817-7)
 - [Simulating the impact of different vaccination policies on the COVID-19 pandemic in New York City](https://www.medrxiv.org/content/10.1101/2021.01.21.21250228v1)
 - [Application of Big Data Technology for COVID-19 Prevention and Control in China: Lessons and Recommendations](https://preprints.jmir.org/preprint/21980)
+- [An extended Weight Kernel Density Estimation model forecasts COVID-19 onset risk and identifies spatiotemporal variations of lockdown effects in China](https://www.nature.com/articles/s42003-021-01677-2)

@@ -436,3 +436,5 @@
 - [武汉新冠病毒数据出炉，儿童比老年人更具传染力!](https://mp.weixin.qq.com/s/Lfxm7vBpOr-UtuzJRpjUfw)
 - [Household transmission of SARS-COV-2 and risk factors for susceptibility and infectivity in Wuhan: a retrospective observational study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30981-6/fulltext)
 - [Compliance and containment in social distancing: mathematical modeling of COVID-19 across townships](https://www.tandfonline.com/doi/full/10.1080/13658816.2021.1873999)
+- [Construction of the Infection Curve of Local Cases of COVID-19 in Hong Kong using Back-Projection](https://www.mdpi.com/1660-4601/17/18/6909)
+- [Multiscale mobility explains differential associations between the gross domestic product and COVID-19 transmission in Chinese cities ](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa236/6062385)

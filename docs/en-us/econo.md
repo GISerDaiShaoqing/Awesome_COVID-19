@@ -624,3 +624,4 @@
 - [国际资讯 | [英]地产权重大改革/再次封城交通行业受影响/模型改变人们对新冠的认知(2021.1)](https://mp.weixin.qq.com/s/r4lW4Miy0WFvOOz9TBzQkg)
 - [疫后一年，外卖这件事经历了哪些改变？| 城市生活复原追踪](https://mp.weixin.qq.com/s/sOUWBP4NGvWUyUmIX6yuzg)
 - [东方网 | 文军：政府、社区居民、社会力量三方联动发力，构建突发公共卫生事件中的社区防控共同体](https://mp.weixin.qq.com/s/LcEfVSYxODJX5423ql49KA)
+- [全球汇 | 如何把人民健康置于规划之核心（一）](https://mp.weixin.qq.com/s/11t9p63XNrjwMLGHc-IK2A)

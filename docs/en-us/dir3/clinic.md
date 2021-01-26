@@ -1187,3 +1187,6 @@
 - [Persistent symptoms after Covid-19: qualitative study of 114 “long Covid” patients and draft quality principles for services](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-06001-y)
 - [静-静脉体外膜氧合治疗COVID-19：来自英国的病例系列](https://mp.weixin.qq.com/s/cl67nfUxi0uSXRf_R4aTHQ)
 - [Veno-venous extracorporeal membrane oxygenation in coronavirus disease 2019: a case series](https://openres.ersjournals.com/content/6/4/00463-2020?ctkey=wechat)
+- [新冠重症患者的抗病毒反应受损 |《自然》论文](https://mp.weixin.qq.com/s/Xkz42KKdMx5COUg9En34Eg)
+- [Global absence and targeting of protective immune states in severe COVID-19](https://www.nature.com/articles/s41586-021-03234-7)
+- [Nature | 新冠重症患者的抗病毒反应受损](https://mp.weixin.qq.com/s/7yFGg1aDtbCRZdlX0pj2Ow)
