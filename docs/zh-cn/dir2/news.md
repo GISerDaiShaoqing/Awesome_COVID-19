@@ -6014,3 +6014,4 @@
 - [为了抗议宵禁，荷兰年轻人把新冠检测中心一把火烧了...](https://mp.weixin.qq.com/s/lBxQsXsz8B22kqS4e7TvPQ)
 - [「新冠病毒」3D高清照曝光！感染1亿人的恶魔长得还挺萌？](https://mp.weixin.qq.com/s/HQbu4EweR1ee3M-qQ2R8_w)
 - [再袭医院，暴徒果然是这群人！今晨民众携扫帚自发上街清扫……](https://mp.weixin.qq.com/s/k6ojtwkJs3OSWOt6TAJ3IA)
+- [荷兰马斯特里赫特足球俱乐部球迷上街保护城市](https://mp.weixin.qq.com/s/88t9j1xjHsy4oJAH1HbnPw)
