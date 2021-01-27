@@ -625,3 +625,6 @@
 - [疫后一年，外卖这件事经历了哪些改变？| 城市生活复原追踪](https://mp.weixin.qq.com/s/sOUWBP4NGvWUyUmIX6yuzg)
 - [东方网 | 文军：政府、社区居民、社会力量三方联动发力，构建突发公共卫生事件中的社区防控共同体](https://mp.weixin.qq.com/s/LcEfVSYxODJX5423ql49KA)
 - [全球汇 | 如何把人民健康置于规划之核心（一）](https://mp.weixin.qq.com/s/11t9p63XNrjwMLGHc-IK2A)
+- [国际资讯 | [非洲]疫情下脆弱的非洲城市经济/非洲大城市为何普遍存在建筑倒塌现象(2021.1)](https://mp.weixin.qq.com/s/iC8SLYSVpqtw52gQ6u--Gw)
+- [后疫情社区·数据｜一个接地气、保护隐私和低成本的智慧社区](https://mp.weixin.qq.com/s/7CpzJqqL4kg4ax37cV4uYw)
+- [后疫情社区·数据｜被疫情加速的数字化生活带来了什么](https://mp.weixin.qq.com/s/hfHfewJg05o1h4GIDfD-ew)

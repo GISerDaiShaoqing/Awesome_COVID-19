@@ -438,3 +438,6 @@
 - [Compliance and containment in social distancing: mathematical modeling of COVID-19 across townships](https://www.tandfonline.com/doi/full/10.1080/13658816.2021.1873999)
 - [Construction of the Infection Curve of Local Cases of COVID-19 in Hong Kong using Back-Projection](https://www.mdpi.com/1660-4601/17/18/6909)
 - [Multiscale mobility explains differential associations between the gross domestic product and COVID-19 transmission in Chinese cities ](https://academic.oup.com/jtm/advance-article/doi/10.1093/jtm/taaa236/6062385)
+- [Science：揭示为何老年人应当优先接种新冠病毒疫苗](https://mp.weixin.qq.com/s/HC5iVYkz0gIISbZ6n7DFnQ)
+- [Model-informed COVID-19 vaccine prioritization strategies by age and serostatus](https://science.sciencemag.org/content/early/2021/01/21/science.abe6959)
+- [Why older adults must go to the front of the vaccine line](https://medicalxpress.com/news/2021-01-older-adults-front-vaccine-line.html)
