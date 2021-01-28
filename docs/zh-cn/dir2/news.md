@@ -6072,3 +6072,4 @@
 - [​最新回国规定，多地实施新冠肛测！华人亲述羞人过程：脱裤子被捅2次、每次10秒！](https://mp.weixin.qq.com/s/d6g81_7HEcn3O-lBju0DlA)
 - [荷政党提出强制居家办公！多数荷兰人希望疫情后继续在家办公！](https://mp.weixin.qq.com/s/YcgnIvW22GeXvJEJYIDMBA)
 - [4740！警方人肉暴徒，扣押工资/房屋/银行资产赔偿！实锤IQ仅57，智商是真的低！](https://mp.weixin.qq.com/s/RMFFKzVXqkYRKbxB2tpBFw)
+- [关于在荷人员不能赴第三国中转搭乘直航北京国际航班的提醒](https://mp.weixin.qq.com/s/udKdonDnZtj-qrFaZ-SiJA)
