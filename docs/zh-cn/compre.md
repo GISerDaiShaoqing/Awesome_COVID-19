@@ -1641,3 +1641,6 @@
 - [以色列提供了疫苗接种有效率的初步线索](https://mp.weixin.qq.com/s/QbFi1JOvQnI5ipeIGBVk7w)
 - [历史性时刻：全球新冠病例正式破一亿！印度首都超一半人曾感染，美国疫情缓解，却不是因为疫苗？](https://mp.weixin.qq.com/s/cTN5_LHH-j2XfyLQIgpkTQ)
 - [Daily CO2 Emission Reduction Indicates the Control of Activities to Contain COVID-19 in China](https://www.sciencedirect.com/science/article/pii/S2666675820300655?via%3Dihub)
+- [一起读Science | 从美国疫情期间某大学地质系解散看高校的内卷化问题](https://mp.weixin.qq.com/s/KsRTDzgt3iDROA8RZ-8V_Q)
+- [A department terminated](https://science.sciencemag.org/content/371/6527/434)
+- [COVID-19 lockdown air quality change implications for solar energy generation over China](https://iopscience.iop.org/article/10.1088/1748-9326/abd42f)

@@ -628,3 +628,4 @@
 - [国际资讯 | [非洲]疫情下脆弱的非洲城市经济/非洲大城市为何普遍存在建筑倒塌现象(2021.1)](https://mp.weixin.qq.com/s/iC8SLYSVpqtw52gQ6u--Gw)
 - [后疫情社区·数据｜一个接地气、保护隐私和低成本的智慧社区](https://mp.weixin.qq.com/s/7CpzJqqL4kg4ax37cV4uYw)
 - [后疫情社区·数据｜被疫情加速的数字化生活带来了什么](https://mp.weixin.qq.com/s/hfHfewJg05o1h4GIDfD-ew)
+- [后疫情社区·数据｜螺蛳壳里做道场：浅谈社区云服务探索](https://mp.weixin.qq.com/s/Kpg6MFayKiUXvYIfL0Ppug)

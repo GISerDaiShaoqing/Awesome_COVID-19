@@ -774,3 +774,5 @@
 - [默克集团宣布两种新冠疫苗研发失败！](https://mp.weixin.qq.com/s/K_oXD2LIdZhb8L6o7BuQDw)
 - [3D影像来了！新冠病毒原来长这样](https://mp.weixin.qq.com/s/1OmHiovxVeWSQunFMlEY-Q)
 - [清华团队曝光「新冠病毒」3D高清结构照！这个恶魔已感染1亿地球人](https://mp.weixin.qq.com/s/kkP9UhZB7GCqF32HmxTwag)
+- [蝙蝠为何是病毒集聚地，答案可能在肠道](https://mp.weixin.qq.com/s/Bx759qidS-WIgS3EfxMh-A)
+- [Gut microbiota in antiviral strategy from bats to humans: a missing link in COVID-19](https://engine.scichina.com/publisher/scp/journal/SCLS/doi/10.1007/s11427-020-1847-7?slug=fulltext)

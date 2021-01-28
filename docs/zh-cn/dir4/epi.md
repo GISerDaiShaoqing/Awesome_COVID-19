@@ -441,3 +441,5 @@
 - [Science：揭示为何老年人应当优先接种新冠病毒疫苗](https://mp.weixin.qq.com/s/HC5iVYkz0gIISbZ6n7DFnQ)
 - [Model-informed COVID-19 vaccine prioritization strategies by age and serostatus](https://science.sciencemag.org/content/early/2021/01/21/science.abe6959)
 - [Why older adults must go to the front of the vaccine line](https://medicalxpress.com/news/2021-01-older-adults-front-vaccine-line.html)
+- [全球打了这么多疫苗，效果怎么样了？](https://mp.weixin.qq.com/s/FTGrsDRtOPcuTzAbEmBAsg)
+- [Are COVID vaccination programmes working? Scientists seek first clues](https://www.nature.com/articles/d41586-021-00140-w)
