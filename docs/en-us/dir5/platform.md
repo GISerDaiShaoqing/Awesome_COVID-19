@@ -143,3 +143,4 @@
 - [Google Play 应用《健康码演示》可模仿红绿码，数字时代造假这么简单？](https://mp.weixin.qq.com/s/U0yYl-7gWPFd9zeKzVlraw)
 - [能回家吗？做核酸吗？要隔离吗？春节返乡前，先打开这款小程序](https://mp.weixin.qq.com/s/k1RWEhGmqdYfhM6HfslOCw)
 - [Geospatial and Semantic Mapping Platform for Massive COVID-19 Scientific Publication Search](https://link.springer.com/article/10.1007/s41651-021-00073-y)
+- [智慧城市中的新冠追截战！](https://mp.weixin.qq.com/s/miFyK3SOa49QMw6BLHXkhg)

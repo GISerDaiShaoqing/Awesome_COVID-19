@@ -1198,3 +1198,5 @@
 - [Nat Comm | 黄昊/张国良合作在抗新冠病毒药物开发和抑制剂作用机制上获得进展](https://mp.weixin.qq.com/s/eMKIeR9De4oLIXChk5BI7Q)
 - [The Complex Structure of GRL0617 and SARS-CoV-2 PLpro Reveals a Hotspot For Antiviral Drug Discovery](https://doi.org/10.1038/s41467-020-20718-8)
 - [Trends in Clinical Symptoms of Novel Coronavirus Disease (COVID-19) in the Northwest of Iran](https://www.researchsquare.com/article/rs-135517/v1)
+- [部分新冠重症的“元凶”可能找到了！](https://mp.weixin.qq.com/s/RNr9FXRHOS_6pSBFPKxM0w)
+- [Rogue antibodies could be driving severe COVID-19](https://www.nature.com/articles/d41586-021-00149-1)

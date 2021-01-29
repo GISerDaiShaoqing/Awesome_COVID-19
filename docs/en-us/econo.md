@@ -629,3 +629,4 @@
 - [后疫情社区·数据｜一个接地气、保护隐私和低成本的智慧社区](https://mp.weixin.qq.com/s/7CpzJqqL4kg4ax37cV4uYw)
 - [后疫情社区·数据｜被疫情加速的数字化生活带来了什么](https://mp.weixin.qq.com/s/hfHfewJg05o1h4GIDfD-ew)
 - [后疫情社区·数据｜螺蛳壳里做道场：浅谈社区云服务探索](https://mp.weixin.qq.com/s/Kpg6MFayKiUXvYIfL0Ppug)
+- [全球抗疫观｜北极之都：考虑社交需求和经济损失，小学不停课](https://mp.weixin.qq.com/s/NyvHbLIHTwF7sC45JEL4Yg)

@@ -1434,3 +1434,8 @@
 - [Nature 一周论文导读 | 2021年1月14日](https://mp.weixin.qq.com/s/hQbm4VdJyJ8gGq9D_JM97Q)
 - [美国 NIH 启动数据库项目，追踪新冠肺炎相关神经系统症状｜科研圈日报](https://mp.weixin.qq.com/s/e6eOYzaSBpraFe7NAVkdlg)
 - [点击→让新年健康“牛”起来！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/3ROSKZb7TfGkVXS1BLvAYg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月28日）【中国科讯】](https://mp.weixin.qq.com/s/r1IOQa1pjgrHZeGuxTgOFg)
+- [中国疾控中心春节假期防护提示！](https://mp.weixin.qq.com/s/GCTSV3wQp4Gf3CMqINsjSw)
+- [中国疾控中心中小学生寒假健康提示](https://mp.weixin.qq.com/s/BwWmEXtYhl_ODV7YKREmdw)
+- [Novavax 称其疫苗对英国变异株有效性达 85.6% | 科研圈日报](https://mp.weixin.qq.com/s/g5YdHAgDqp7slG93s-q0Zg)
+- [24小时热门｜低脂和低碳水饮食哪个更健康、更利于减肥？南非新冠病毒变异株可显著逃避抗体攻击，新冠疫苗或需更新](https://mp.weixin.qq.com/s/ZCcu2DpIj3vv5y__ej5o3g)

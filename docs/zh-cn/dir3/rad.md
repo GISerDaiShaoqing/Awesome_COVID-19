@@ -54,3 +54,4 @@
 - [深度学习下的医学影像分割算法综述](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSGG20210105003&v=3Qinehu7XHKd1zLpl6BQfx8gz97KCufv6FXRrNKaDh%25mmd2FCTDOmcRkJI5btdxw%25mmd2Fkkaz)
 - [【金猿技术展】肺炎AI医学辅助诊断技术——Dr.Wise®](https://mp.weixin.qq.com/s/0kKpdYHfjIlbrZG0kXMzrw)
 - [COVID-19 Deterioration Prediction via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909)
+- [基于深度学习的新型冠状病毒肺炎诊断研究综述](https://mp.weixin.qq.com/s/Tu_l5aQLHjJUjPx5Gh2S3Q)

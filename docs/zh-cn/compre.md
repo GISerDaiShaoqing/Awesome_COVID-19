@@ -1644,3 +1644,8 @@
 - [一起读Science | 从美国疫情期间某大学地质系解散看高校的内卷化问题](https://mp.weixin.qq.com/s/KsRTDzgt3iDROA8RZ-8V_Q)
 - [A department terminated](https://science.sciencemag.org/content/371/6527/434)
 - [COVID-19 lockdown air quality change implications for solar energy generation over China](https://iopscience.iop.org/article/10.1088/1748-9326/abd42f)
+- [The BMJ | 英国推迟新冠病毒疫苗第二针注射时间引争议](https://mp.weixin.qq.com/s/_yjZYFW1jRurAU4Q4ejyjg)
+- [Covid-19 vaccination: What’s the evidence for extending the dosing interval?](https://www.bmj.com/content/372/bmj.n18)
+- [守护人类健康的疫苗 | 推广](https://mp.weixin.qq.com/s/uhgp4kQDq2lAeDxIyBztlQ)
+- [Seeking protection for all](https://www.nature.com/articles/d42473-020-00482-5)
+- [群体免疫梦碎？全球首个“实现群体免疫”的城市，如今再度面临崩溃](https://mp.weixin.qq.com/s/w-LGSo1DJQl3HXo3Gx5S4g)

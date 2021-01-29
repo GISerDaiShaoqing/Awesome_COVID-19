@@ -776,3 +776,5 @@
 - [清华团队曝光「新冠病毒」3D高清结构照！这个恶魔已感染1亿地球人](https://mp.weixin.qq.com/s/kkP9UhZB7GCqF32HmxTwag)
 - [蝙蝠为何是病毒集聚地，答案可能在肠道](https://mp.weixin.qq.com/s/Bx759qidS-WIgS3EfxMh-A)
 - [Gut microbiota in antiviral strategy from bats to humans: a missing link in COVID-19](https://engine.scichina.com/publisher/scp/journal/SCLS/doi/10.1007/s11427-020-1847-7?slug=fulltext)
+- [Cell Res | 新发现！秦成峰/伊成器首次系统分析新冠病毒的m6A修饰](https://mp.weixin.qq.com/s/MzPUFhNZNglfJBCWXjoOTQ)
+- [The m6A methylome of SARS-CoV-2 in host cells](https://www.nature.com/articles/s41422-020-00465-7)
