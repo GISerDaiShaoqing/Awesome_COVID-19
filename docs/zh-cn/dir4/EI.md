@@ -132,3 +132,5 @@
 - [Application of Big Data Technology for COVID-19 Prevention and Control in China: Lessons and Recommendations](https://preprints.jmir.org/preprint/21980)
 - [An extended Weight Kernel Density Estimation model forecasts COVID-19 onset risk and identifies spatiotemporal variations of lockdown effects in China](https://www.nature.com/articles/s42003-021-01677-2)
 - [An optimal control analysis of a COVID-19 model](https://www.sciencedirect.com/science/article/pii/S1110016821000259)
+- [Insight on the Relative Impact of Proposed Interventions for a Large University in an Urban Environment](https://github.com/bu-rcs/BU-COVID)
+- [COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions](https://github.com/InstituteforDiseaseModeling/covasim)
