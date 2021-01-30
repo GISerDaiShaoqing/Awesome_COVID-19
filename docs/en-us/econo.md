@@ -630,3 +630,4 @@
 - [后疫情社区·数据｜被疫情加速的数字化生活带来了什么](https://mp.weixin.qq.com/s/hfHfewJg05o1h4GIDfD-ew)
 - [后疫情社区·数据｜螺蛳壳里做道场：浅谈社区云服务探索](https://mp.weixin.qq.com/s/Kpg6MFayKiUXvYIfL0Ppug)
 - [全球抗疫观｜北极之都：考虑社交需求和经济损失，小学不停课](https://mp.weixin.qq.com/s/NyvHbLIHTwF7sC45JEL4Yg)
+- [Science and design in the age of COVID-19](https://journals.sagepub.com/doi/full/10.1177/2399808321989131)

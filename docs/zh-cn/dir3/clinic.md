@@ -1200,3 +1200,6 @@
 - [Trends in Clinical Symptoms of Novel Coronavirus Disease (COVID-19) in the Northwest of Iran](https://www.researchsquare.com/article/rs-135517/v1)
 - [部分新冠重症的“元凶”可能找到了！](https://mp.weixin.qq.com/s/RNr9FXRHOS_6pSBFPKxM0w)
 - [Rogue antibodies could be driving severe COVID-19](https://www.nature.com/articles/d41586-021-00149-1)
+- [全球首款 mRNA 新冠疫苗背后的中国力量](https://mp.weixin.qq.com/s/iti4OiNu05Pbpzmt5Jj-UA)
+- [大脑是新冠病毒重点攻击器官，研究发现病毒可感染人类神经元](https://mp.weixin.qq.com/s/DE2Ldd8TMy_2FSRFrGtmEA)
+- [Neuroinvasion of SARS-CoV-2 in human and mouse brain](https://rupress.org/jem/article/218/3/e20202135/211674)

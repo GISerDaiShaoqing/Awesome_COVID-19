@@ -1439,3 +1439,7 @@
 - [中国疾控中心中小学生寒假健康提示](https://mp.weixin.qq.com/s/BwWmEXtYhl_ODV7YKREmdw)
 - [Novavax 称其疫苗对英国变异株有效性达 85.6% | 科研圈日报](https://mp.weixin.qq.com/s/g5YdHAgDqp7slG93s-q0Zg)
 - [24小时热门｜低脂和低碳水饮食哪个更健康、更利于减肥？南非新冠病毒变异株可显著逃避抗体攻击，新冠疫苗或需更新](https://mp.weixin.qq.com/s/ZCcu2DpIj3vv5y__ej5o3g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月29日）【中国科讯】](https://mp.weixin.qq.com/s/nOQ7DnKfYjACIfWaAob2NQ)
+- [数字密接者追踪 | 1月“自然”系列期刊封面，你最喜欢哪一张？](https://mp.weixin.qq.com/s/1pzt7iykiYmq33-NMkE95g)
+- [安全平安过春节，假期防护提示！](https://mp.weixin.qq.com/s/TtS88BHwEafDKDmlU7cZig)
+- [比英国毒株更可怕：南非新冠病毒变异株可显著逃避抗体攻击，新冠疫苗或需更新｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/sdPW1CVu-WCnin5S-NAngQ)

@@ -330,3 +330,4 @@
 - [协同医护人员以为 COVID-19 疫苗推出作好准备：以过去鉴未来](https://mp.weixin.qq.com/s/nZV5tAgQOPFYWNPWtMAVOw)
 - [重塑可持续交通2021年会 | 后疫情时代重塑安全与韧性的交通系统](https://mp.weixin.qq.com/s/hAmRFGmEyjDGttXrFtGkqA)
 - [新冠疫情研究讲座系列之三新冠疫情影响分析第三讲回顾](https://mp.weixin.qq.com/s/WoN0k3wQln4ghfgDKixSDw)
+- [新冠疫情研究讲座系列之三新冠疫情影响分析第四讲回顾](https://mp.weixin.qq.com/s/sKA7pGZ_fBjUOtneJMhReQ)

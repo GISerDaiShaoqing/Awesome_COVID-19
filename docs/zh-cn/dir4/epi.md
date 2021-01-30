@@ -443,3 +443,4 @@
 - [Why older adults must go to the front of the vaccine line](https://medicalxpress.com/news/2021-01-older-adults-front-vaccine-line.html)
 - [全球打了这么多疫苗，效果怎么样了？](https://mp.weixin.qq.com/s/FTGrsDRtOPcuTzAbEmBAsg)
 - [Are COVID vaccination programmes working? Scientists seek first clues](https://www.nature.com/articles/d41586-021-00140-w)
+- [Mathematical modeling of COVID-19 in 14.8 million individuals in Bahia, Brazil](https://www.nature.com/articles/s41467-020-19798-3)

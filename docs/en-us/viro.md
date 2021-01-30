@@ -778,3 +778,5 @@
 - [Gut microbiota in antiviral strategy from bats to humans: a missing link in COVID-19](https://engine.scichina.com/publisher/scp/journal/SCLS/doi/10.1007/s11427-020-1847-7?slug=fulltext)
 - [Cell Res | 新发现！秦成峰/伊成器首次系统分析新冠病毒的m6A修饰](https://mp.weixin.qq.com/s/MzPUFhNZNglfJBCWXjoOTQ)
 - [The m6A methylome of SARS-CoV-2 in host cells](https://www.nature.com/articles/s41422-020-00465-7)
+- [相似度达92.6%！柬埔寨在11年前的蝙蝠样本中发现毒株，与新冠高度匹配](https://mp.weixin.qq.com/s/sF_q4L_x4qkiwF7DSC5Sdw)
+- [A novel SARS-CoV-2 related coronavirus in bats from Cambodia](https://www.biorxiv.org/content/10.1101/2021.01.26.428212v1)
