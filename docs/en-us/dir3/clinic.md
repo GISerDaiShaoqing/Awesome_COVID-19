@@ -1203,3 +1203,6 @@
 - [全球首款 mRNA 新冠疫苗背后的中国力量](https://mp.weixin.qq.com/s/iti4OiNu05Pbpzmt5Jj-UA)
 - [大脑是新冠病毒重点攻击器官，研究发现病毒可感染人类神经元](https://mp.weixin.qq.com/s/DE2Ldd8TMy_2FSRFrGtmEA)
 - [Neuroinvasion of SARS-CoV-2 in human and mouse brain](https://rupress.org/jem/article/218/3/e20202135/211674)
+- [COVID-19：由欧洲呼吸学会和美国胸科学会联合工作组在入院及出院后阶段进行肺康复的临时建议](https://mp.weixin.qq.com/s/hZ_jMaf1yuQu4Bvjg55prw)
+- [COVID-19: interim guidance on rehabilitation in the hospital and post-hospital phase from a European Respiratory Society- and American Thoracic Society-coordinated international task force](https://erj.ersjournals.com/content/56/6/2002197)
+- [浙大教授提醒：注射新冠疫苗后，还要补充营养](https://mp.weixin.qq.com/s/UJAbmw0gy9uaZQwExMInag)

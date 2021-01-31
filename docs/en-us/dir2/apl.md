@@ -1443,3 +1443,6 @@
 - [数字密接者追踪 | 1月“自然”系列期刊封面，你最喜欢哪一张？](https://mp.weixin.qq.com/s/1pzt7iykiYmq33-NMkE95g)
 - [安全平安过春节，假期防护提示！](https://mp.weixin.qq.com/s/TtS88BHwEafDKDmlU7cZig)
 - [比英国毒株更可怕：南非新冠病毒变异株可显著逃避抗体攻击，新冠疫苗或需更新｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/sdPW1CVu-WCnin5S-NAngQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（1月30日）【中国科讯】](https://mp.weixin.qq.com/s/7HtFrY3k8W5DcKC3WhpHFA)
+- [2020年16篇Trends最佳综述文章](https://mp.weixin.qq.com/s/2Y2RDusxsw_sUW85FA6Zgw)
+- [全球累计新冠病例数超1亿，最近1000万增长仅用16天｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/_HnsJYrQuJBO3ewChCSogA)

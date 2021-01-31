@@ -88,3 +88,5 @@
 - [特刊征稿启事 | 血管药理学(VPH) 新冠病毒与心血管系统专刊](https://mp.weixin.qq.com/s/MEfBpSDwGl7Yr3XXxqVUZQ)
 - [Pharmacology, COVID-19 and Vasculature](https://www.sciencedirect.com/journal/vascular-pharmacology/special-issue/103GRK674XM)
 - [Call for Papers: The Post-Covid City](https://academic.oup.com/cjres/pages/call-for-papers-the-post-covid-city)
+- [新冠疫苗接种规模和致病突变对疾病传播的影响 | Infectious Disease Modelling专刊征稿](https://mp.weixin.qq.com/s/gv1P7smnjYQkLT2G60Zyiw)
+- [Special Issue on the Impact of Vaccination Scale and Pathogenic Mutations on Disease Transmission](http://www.keaipublishing.com/en/journals/infectious-disease-modelling/call-for-papers/special-issue-on-the-impact-of-vaccination-scale/)

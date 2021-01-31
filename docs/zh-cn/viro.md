@@ -780,3 +780,7 @@
 - [The m6A methylome of SARS-CoV-2 in host cells](https://www.nature.com/articles/s41422-020-00465-7)
 - [相似度达92.6%！柬埔寨在11年前的蝙蝠样本中发现毒株，与新冠高度匹配](https://mp.weixin.qq.com/s/sF_q4L_x4qkiwF7DSC5Sdw)
 - [A novel SARS-CoV-2 related coronavirus in bats from Cambodia](https://www.biorxiv.org/content/10.1101/2021.01.26.428212v1)
+- [通过逆转录多重置换扩增标记生物纳米传感器对COVID-19的高灵敏度和特异性诊断](https://mp.weixin.qq.com/s/9mA8eHAe1TLSSNe3hzszvA)
+- [Highly sensitive and specific diagnosis of COVID-19 by reverse transcription multiple cross-displacement amplification-labelled nanoparticles biosensor](https://mp.weixin.qq.com/s/9mA8eHAe1TLSSNe3hzszvA)
+- [相似度达92.6%！柬埔寨在11年前的蝙蝠样本中发现毒株，与新冠高度匹配](https://mp.weixin.qq.com/s/t2Pt5ywogdi4KMxtERCI6Q)
+- [王林发Nature:人类可向蝙蝠学习健康之道-衰老、癌症和抗病毒](https://mp.weixin.qq.com/s/PWn3D_5D0ead13OH-EFzoA)

@@ -1658,3 +1658,7 @@
 - [COVID-19 pandemic and prospects for recovery of the global aviation industry](https://www.sciencedirect.com/science/article/pii/S0969699721000053)
 - [Changes in Healthy Behaviors and Meeting 24-h Movement Guidelines in Spanish and Brazilian Preschoolers, Children and Adolescents during the COVID-19 Lockdown](https://www.mdpi.com/2227-9067/8/2/83)
 - [Childhood Obesity and COVID-19 Lockdown: Remarks on Eating Habits of Patients Enrolled in a Food-Education Program](https://www.mdpi.com/2072-6643/13/2/383)
+- [【研究】英国学者调查：疫情封锁给人们的生活带来哪些积极变化？](https://mp.weixin.qq.com/s/WUDfQtdlUkHgXsQBXBm6Bw)
+- [Lockdown has led to positive change for some people. Here's why](https://www.weforum.org/agenda/2021/01/covid-19-lockdown-fitness-coronavirus-positivity-health)
+- [通过谷歌趋势评估COVID-19期间慢阻肺的自我用药](https://mp.weixin.qq.com/s/1eaYm8IofjYgiwVGif1CfA)
+- [Assessing self-medication for obstructive airway disease during COVID-19 using Google Trends](https://erj.ersjournals.com/content/56/5/2002851?ctkey=wechat)
