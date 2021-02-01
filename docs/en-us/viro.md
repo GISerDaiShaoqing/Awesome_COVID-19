@@ -784,3 +784,6 @@
 - [Highly sensitive and specific diagnosis of COVID-19 by reverse transcription multiple cross-displacement amplification-labelled nanoparticles biosensor](https://mp.weixin.qq.com/s/9mA8eHAe1TLSSNe3hzszvA)
 - [相似度达92.6%！柬埔寨在11年前的蝙蝠样本中发现毒株，与新冠高度匹配](https://mp.weixin.qq.com/s/t2Pt5ywogdi4KMxtERCI6Q)
 - [王林发Nature:人类可向蝙蝠学习健康之道-衰老、癌症和抗病毒](https://mp.weixin.qq.com/s/PWn3D_5D0ead13OH-EFzoA)
+- [清华团队曝光新冠病毒3D高清结构照！这个恶魔已感染1亿地球人](https://mp.weixin.qq.com/s/_n6buEUXqcvayc8y08jbiA)
+- [Science：病毒序列可以揭示SARS-CoV-2如何传播和进化​](https://mp.weixin.qq.com/s/FdzpOM2ZYNX0e3SfebOTlg)
+- [Insights from SARS-CoV-2 sequences](https://science.sciencemag.org/content/371/6528/466)

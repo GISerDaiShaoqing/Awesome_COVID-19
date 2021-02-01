@@ -90,3 +90,5 @@
 - [Call for Papers: The Post-Covid City](https://academic.oup.com/cjres/pages/call-for-papers-the-post-covid-city)
 - [新冠疫苗接种规模和致病突变对疾病传播的影响 | Infectious Disease Modelling专刊征稿](https://mp.weixin.qq.com/s/gv1P7smnjYQkLT2G60Zyiw)
 - [Special Issue on the Impact of Vaccination Scale and Pathogenic Mutations on Disease Transmission](http://www.keaipublishing.com/en/journals/infectious-disease-modelling/call-for-papers/special-issue-on-the-impact-of-vaccination-scale/)
+- [JIA 专题 | 新冠肺炎（COVID-19）疫情对农业与农村贫困的影响](https://mp.weixin.qq.com/s/PIgbzzASdKte0GdtqgERcQ)
+- [Special Focus：Impacts of COVID-19 on agriculture and rural poverty in China](https://www.sciencedirect.com/journal/journal-of-integrative-agriculture/vol/19/issue/12)

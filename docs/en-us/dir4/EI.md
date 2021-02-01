@@ -134,3 +134,4 @@
 - [An optimal control analysis of a COVID-19 model](https://www.sciencedirect.com/science/article/pii/S1110016821000259)
 - [Insight on the Relative Impact of Proposed Interventions for a Large University in an Urban Environment](https://github.com/bu-rcs/BU-COVID)
 - [COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions](https://github.com/InstituteforDiseaseModeling/covasim)
+- [Mathematical Model to Analyse the Effect of Quarantine on Spread and Containment of COVID-19](http://www.annalsofrscb.ro/index.php/journal/article/view/69)

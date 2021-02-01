@@ -1206,3 +1206,4 @@
 - [COVID-19：由欧洲呼吸学会和美国胸科学会联合工作组在入院及出院后阶段进行肺康复的临时建议](https://mp.weixin.qq.com/s/hZ_jMaf1yuQu4Bvjg55prw)
 - [COVID-19: interim guidance on rehabilitation in the hospital and post-hospital phase from a European Respiratory Society- and American Thoracic Society-coordinated international task force](https://erj.ersjournals.com/content/56/6/2002197)
 - [浙大教授提醒：注射新冠疫苗后，还要补充营养](https://mp.weixin.qq.com/s/UJAbmw0gy9uaZQwExMInag)
+- [康希诺与陈薇团队联合研发的腺病毒新冠疫苗，3期试验获积极结果](https://mp.weixin.qq.com/s/Ru5H_naGbztikLKxChCCyw)
