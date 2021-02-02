@@ -1452,3 +1452,8 @@
 - [中国疾控中心：新冠病毒疫苗接种量累计超 2400 万剂次｜科研圈日报](https://mp.weixin.qq.com/s/HUSJxO6C5mtnjhqKrJbaFw)
 - [24小时热门｜怎么预习效率最高；数据显示至少1/3新冠感染者无症状](https://mp.weixin.qq.com/s/uGSf08aby38zeVtiI6ZPkw)
 - [单克隆抗体或可预防艾滋病毒感染，去年最受关注百篇论文公布 | 一周科技导报](https://mp.weixin.qq.com/s/TdritX2otkDA31VGdkC3Bw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月1日）【中国科讯】](https://mp.weixin.qq.com/s/umvR8cWhcYm5UWJPqB46QQ)
+- [期刊出版 | 抗击新冠疫情，期刊在行动 ——中科院文献情报中心期刊出版专辑专题助力抗击新冠疫情 【中国科讯】](https://mp.weixin.qq.com/s/PZAy5xHVlP6_lbeefBeO3A)
+- [拜登抗疫计划 | 一箭143星 | 蝙蝠为何“百毒不侵”？| 每周自然简报](https://mp.weixin.qq.com/s/Hj0tu552WUNpqAVVPM9Fzg)
+- [24小时热门｜Science：老年人优先接种SARS-CoV-2疫苗更可能降低死亡率](https://mp.weixin.qq.com/s/v-GXFHsgGJKFphWcAy7bLw)
+- [胎儿可从母体获得新冠病毒抗体 | 科研圈日报](https://mp.weixin.qq.com/s/NknTT3gpdFT1AGNpNltvPQ)

@@ -1668,3 +1668,4 @@
 - [COVID-19-Related Changes in Perceived Household Food Waste in the United States: A Cross-Sectional Descriptive Study](https://www.mdpi.com/1660-4601/18/3/1104)
 - [Febrile syndrome upon return from the tropics during the COVID-19 pandemic](https://europepmc.org/article/pmc/pmc7832141)
 - [Spatial Patterns of COVID-19 Incidence in Relation to Crime Rate Across London](https://www.mdpi.com/2220-9964/10/2/53)
+- [Social integration through social connection in everyday life. Residents' experiences during the COVID-19 pandemic in SällBo collaborative housing, Sweden](https://www.emerald.com/insight/content/doi/10.1108/ARCH-10-2020-0236/full/html#loginreload)

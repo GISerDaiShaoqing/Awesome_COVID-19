@@ -444,3 +444,4 @@
 - [全球打了这么多疫苗，效果怎么样了？](https://mp.weixin.qq.com/s/FTGrsDRtOPcuTzAbEmBAsg)
 - [Are COVID vaccination programmes working? Scientists seek first clues](https://www.nature.com/articles/d41586-021-00140-w)
 - [Mathematical modeling of COVID-19 in 14.8 million individuals in Bahia, Brazil](https://www.nature.com/articles/s41467-020-19798-3)
+- [Epidemiology of post-COVID syndrome following hospitalisation with coronavirus: a retrospective cohort study](https://www.medrxiv.org/content/10.1101/2021.01.15.21249885v1)

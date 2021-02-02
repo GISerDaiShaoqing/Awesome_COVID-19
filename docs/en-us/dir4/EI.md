@@ -135,3 +135,7 @@
 - [Insight on the Relative Impact of Proposed Interventions for a Large University in an Urban Environment](https://github.com/bu-rcs/BU-COVID)
 - [COVID-19 Agent-based Simulator (Covasim): a model for exploring coronavirus dynamics and interventions](https://github.com/InstituteforDiseaseModeling/covasim)
 - [Mathematical Model to Analyse the Effect of Quarantine on Spread and Containment of COVID-19](http://www.annalsofrscb.ro/index.php/journal/article/view/69)
+- [“检测后解除隔离”策略或可缩短COVID-19病例接触者留观隔离时间](https://mp.weixin.qq.com/s/qROsEkgYh4n8X8ioB0K6FA)
+- [Quarantine and testing strategies in contact tracing for SARS-CoV-2: a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30308-X/fulltext)
+- [Effectiveness of Contact Tracing, Mask Wearing and Prompt Testing on Suppressing COVID-19 Resurgences in Megacities: An Individual-Based Modelling Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765491)
+- [Simulating the impact of different vaccination policies on the COVID-19 pandemic in New York City](https://www.medrxiv.org/content/10.1101/2021.01.21.21250228v1)
