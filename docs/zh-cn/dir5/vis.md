@@ -244,3 +244,4 @@
 - [图说每日疫情（2021年1月20日）：全国新增本土病例150例，吉林、黑龙江以及京津冀地区较为严重](https://mp.weixin.qq.com/s/hm5xdE4bzhvc_V2GxKtKrw)
 - [图说每日疫情（2021年1月27日）：全国现有本土病例已达2604例，京津冀地区疫情逐步得到控制](https://mp.weixin.qq.com/s/4vKO38hohmQLWrw1tu6Qxg)
 - [吉林省每日疫情的地图解读（2021年2月1日）](https://mp.weixin.qq.com/s/6ldR8SK9_8R4oKayxVclaA)
+- [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)

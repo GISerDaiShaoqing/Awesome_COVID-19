@@ -1207,3 +1207,5 @@
 - [COVID-19: interim guidance on rehabilitation in the hospital and post-hospital phase from a European Respiratory Society- and American Thoracic Society-coordinated international task force](https://erj.ersjournals.com/content/56/6/2002197)
 - [浙大教授提醒：注射新冠疫苗后，还要补充营养](https://mp.weixin.qq.com/s/UJAbmw0gy9uaZQwExMInag)
 - [康希诺与陈薇团队联合研发的腺病毒新冠疫苗，3期试验获积极结果](https://mp.weixin.qq.com/s/Ru5H_naGbztikLKxChCCyw)
+- [超越瑞德西韦：在临床前模型中，抗病毒药物plitidepsin抑制新冠肺炎的效果更优｜Science新冠专题](https://mp.weixin.qq.com/s/eFBMUTNlj21Lmtrv_24RJg)
+- [Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A](https://science.sciencemag.org/content/early/2021/01/22/science.abf4058)

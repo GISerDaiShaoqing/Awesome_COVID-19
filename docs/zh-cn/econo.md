@@ -634,3 +634,4 @@
 - [疫情后的财富马太效应：越有钱越赚钱](https://mp.weixin.qq.com/s/Dv0T4fQD1_ihdxaMYicwUw)
 - [国际资讯 | [日]数字城市模型/新冠后的城市规划方向性思考/《居住生活基本规划》改进草案(2021.2)](https://mp.weixin.qq.com/s/zcOcboONCOrEXbPdHKhyZw)
 - [全球汇 | 如何把人民健康置于规划之核心（二）](https://mp.weixin.qq.com/s/D86mzHyT8NTzy9D4d91hcQ)
+- [国际资讯 | [欧]瑞典“一分钟生活圈”街道计划/巴黎香榭丽舍大道改造(2021.2)](https://mp.weixin.qq.com/s/oLtZFN_3fgounqNa-L19rA)

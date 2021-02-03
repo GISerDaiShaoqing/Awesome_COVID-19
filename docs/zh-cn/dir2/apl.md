@@ -1457,3 +1457,6 @@
 - [拜登抗疫计划 | 一箭143星 | 蝙蝠为何“百毒不侵”？| 每周自然简报](https://mp.weixin.qq.com/s/Hj0tu552WUNpqAVVPM9Fzg)
 - [24小时热门｜Science：老年人优先接种SARS-CoV-2疫苗更可能降低死亡率](https://mp.weixin.qq.com/s/v-GXFHsgGJKFphWcAy7bLw)
 - [胎儿可从母体获得新冠病毒抗体 | 科研圈日报](https://mp.weixin.qq.com/s/NknTT3gpdFT1AGNpNltvPQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月2日）【中国科讯】](https://mp.weixin.qq.com/s/4DEoCZagtK5iAJiDjqiMmw)
+- [俄“卫星-V”疫苗有效性达91.6%，数据已发表于《柳叶刀》| 科研圈日报](https://mp.weixin.qq.com/s/uvSL9gxWw3R-1oiIaV_coQ)
+- [24小时热门｜比Remdesivir强27.5倍？这款抗癌药能强效抑制变异毒株，或为COVID-19治疗新希望](https://mp.weixin.qq.com/s/Vcq9O5FMbPTlGgz3h8gkZQ)

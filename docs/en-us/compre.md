@@ -1669,3 +1669,8 @@
 - [Febrile syndrome upon return from the tropics during the COVID-19 pandemic](https://europepmc.org/article/pmc/pmc7832141)
 - [Spatial Patterns of COVID-19 Incidence in Relation to Crime Rate Across London](https://www.mdpi.com/2220-9964/10/2/53)
 - [Social integration through social connection in everyday life. Residents' experiences during the COVID-19 pandemic in SällBo collaborative housing, Sweden](https://www.emerald.com/insight/content/doi/10.1108/ARCH-10-2020-0236/full/html#loginreload)
+- [【Applied Energy最新原创文章】COVID-19如何影响能源需求和消费？](https://mp.weixin.qq.com/s/JOG5ase4FyUkEztmnEYmQQ)
+- [Impacts of COVID-19 on energy demand and consumption: Challenges, lessons and emerging opportunities](https://www.sciencedirect.com/science/article/pii/S030626192100009X)
+- [2020年3月至8月十六种新冠病毒新变种在南非传播 |《自然-医学》论文](https://mp.weixin.qq.com/s/Ios1uMRijr5mywHkAU_Aeg)
+- [Sixteen novel lineages of SARS-CoV-2 in South Africa](https://www.nature.com/articles/s41591-021-01255-3)
+- [MDPI 行业报告 | 新冠肺炎疫情对学术期刊出版行业的影响](https://mp.weixin.qq.com/s/PlFDIy_61KcavI9GuRv_NA)

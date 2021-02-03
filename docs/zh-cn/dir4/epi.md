@@ -445,3 +445,5 @@
 - [Are COVID vaccination programmes working? Scientists seek first clues](https://www.nature.com/articles/d41586-021-00140-w)
 - [Mathematical modeling of COVID-19 in 14.8 million individuals in Bahia, Brazil](https://www.nature.com/articles/s41467-020-19798-3)
 - [Epidemiology of post-COVID syndrome following hospitalisation with coronavirus: a retrospective cohort study](https://www.medrxiv.org/content/10.1101/2021.01.15.21249885v1)
+- [JAMA：高福等发表论文，统计境外回国人员中无症状感染者情况](https://mp.weixin.qq.com/s/dkkUDsXWW8IOC2rcyRwMdw)
+- [Asymptomatic SARS-CoV-2 Infections Among Persons Entering China From April 16 to October 12, 2020](https://jamanetwork.com/journals/jama/article-abstract/2775705)
