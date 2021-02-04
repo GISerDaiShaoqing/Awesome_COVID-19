@@ -139,3 +139,5 @@
 - [Quarantine and testing strategies in contact tracing for SARS-CoV-2: a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30308-X/fulltext)
 - [Effectiveness of Contact Tracing, Mask Wearing and Prompt Testing on Suppressing COVID-19 Resurgences in Megacities: An Individual-Based Modelling Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765491)
 - [Simulating the impact of different vaccination policies on the COVID-19 pandemic in New York City](https://www.medrxiv.org/content/10.1101/2021.01.21.21250228v1)
+- [Impact of the lockdown on the burden of COVID-19 in outpatient care in France, spring 2020](https://www.tandfonline.com/doi/full/10.1080/23744235.2021.1880024)
+- [Effects of Social Distancing Measures during the First Epidemic Wave of Severe Acute Respiratory Syndrome Infection, Greece](https://wwwnc.cdc.gov/eid/article/27/2/20-3412_article)

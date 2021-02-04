@@ -1460,3 +1460,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月2日）【中国科讯】](https://mp.weixin.qq.com/s/4DEoCZagtK5iAJiDjqiMmw)
 - [俄“卫星-V”疫苗有效性达91.6%，数据已发表于《柳叶刀》| 科研圈日报](https://mp.weixin.qq.com/s/uvSL9gxWw3R-1oiIaV_coQ)
 - [24小时热门｜比Remdesivir强27.5倍？这款抗癌药能强效抑制变异毒株，或为COVID-19治疗新希望](https://mp.weixin.qq.com/s/Vcq9O5FMbPTlGgz3h8gkZQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月3日）【中国科讯】](https://mp.weixin.qq.com/s/YqENjtgY3ptAYgZAR6qQgQ)
+- [防疫宝典 “牛”转乾坤](https://mp.weixin.qq.com/s/9tjWGt-3MebPMEdas8k5iA)
+- [【视频】防疫宝典 牛转乾坤](https://mp.weixin.qq.com/s/jBfEtmLXp4TBkgrB6IW1Rw)
+- [科兴疫苗申请国内有条件上市，国家药监局已受理｜科研圈日报](https://mp.weixin.qq.com/s/93pXGkfBSCF4A6gff-fn2w)
+- [24小时热门｜科学家又发现16种新冠突变毒株，去年3月已在南非传播](https://mp.weixin.qq.com/s/btljJuJcthe0bqYJvXyD4A)

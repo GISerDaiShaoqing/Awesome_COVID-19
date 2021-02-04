@@ -1674,3 +1674,6 @@
 - [2020年3月至8月十六种新冠病毒新变种在南非传播 |《自然-医学》论文](https://mp.weixin.qq.com/s/Ios1uMRijr5mywHkAU_Aeg)
 - [Sixteen novel lineages of SARS-CoV-2 in South Africa](https://www.nature.com/articles/s41591-021-01255-3)
 - [MDPI 行业报告 | 新冠肺炎疫情对学术期刊出版行业的影响](https://mp.weixin.qq.com/s/PlFDIy_61KcavI9GuRv_NA)
+- [Cell：阵容空前，19位通讯作者，包括3名院士，146万个单细胞转录组图谱揭示新冠免疫特征](https://mp.weixin.qq.com/s/pUWhI2dkxLqVvsmaOi-V7Q)
+- [COVID-19 immune features revealed by a large-scale single cell transcriptome atlas](https://doi.org/10.1016/j.cell.2021.01.053)
+- [一亿剂疫苗打出去了，何时能见效？](https://mp.weixin.qq.com/s/KSiN38pRmkdyn4QdqJwZqA)
