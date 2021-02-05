@@ -331,3 +331,5 @@
 - [重塑可持续交通2021年会 | 后疫情时代重塑安全与韧性的交通系统](https://mp.weixin.qq.com/s/hAmRFGmEyjDGttXrFtGkqA)
 - [新冠疫情研究讲座系列之三新冠疫情影响分析第三讲回顾](https://mp.weixin.qq.com/s/WoN0k3wQln4ghfgDKixSDw)
 - [新冠疫情研究讲座系列之三新冠疫情影响分析第四讲回顾](https://mp.weixin.qq.com/s/sKA7pGZ_fBjUOtneJMhReQ)
+- [剑桥大学博士后带你解构改变人类命运的病毒](https://mp.weixin.qq.com/s/UUjnk9VNuZ5mZlBSHA9qmQ)
+- [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间重点场所和单位卫生防护指南》（WS/T 698-2020）](https://mp.weixin.qq.com/s/h4-d3fycF5pxp17n2YcUgg)

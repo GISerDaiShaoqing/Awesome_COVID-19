@@ -1209,3 +1209,6 @@
 - [康希诺与陈薇团队联合研发的腺病毒新冠疫苗，3期试验获积极结果](https://mp.weixin.qq.com/s/Ru5H_naGbztikLKxChCCyw)
 - [超越瑞德西韦：在临床前模型中，抗病毒药物plitidepsin抑制新冠肺炎的效果更优｜Science新冠专题](https://mp.weixin.qq.com/s/eFBMUTNlj21Lmtrv_24RJg)
 - [Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A](https://science.sciencemag.org/content/early/2021/01/22/science.abf4058)
+- [特别关注丨全球期待已久的新冠疫苗终于来了，为何大家的接种意愿差强人意？有哪些担心？接种后的不良反应是什么？](https://mp.weixin.qq.com/s/IlAKrZF9PQKvRN9DjR6bIw)
+- [高福最新研究：国产新冠疫苗对超强变异株依然有效！](https://mp.weixin.qq.com/s/oPk9Q4yJsXysk-6YJAmUCA)
+- [Neutralization of SARS-CoV-2 VOC 501Y.V2 by human antisera elicited by both inactivated BBIBP-CorV and recombinant dimeric RBD ZF2001 vaccines](https://doi.org/10.1101/2021.02.01.429069)

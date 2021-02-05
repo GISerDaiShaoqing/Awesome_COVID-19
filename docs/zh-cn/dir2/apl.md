@@ -1465,3 +1465,8 @@
 - [【视频】防疫宝典 牛转乾坤](https://mp.weixin.qq.com/s/jBfEtmLXp4TBkgrB6IW1Rw)
 - [科兴疫苗申请国内有条件上市，国家药监局已受理｜科研圈日报](https://mp.weixin.qq.com/s/93pXGkfBSCF4A6gff-fn2w)
 - [24小时热门｜科学家又发现16种新冠突变毒株，去年3月已在南非传播](https://mp.weixin.qq.com/s/btljJuJcthe0bqYJvXyD4A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月4日）【中国科讯】](https://mp.weixin.qq.com/s/jQtpC6aJaOV-1-gIMEUOtg)
+- [孕妇吸食大麻如何影响分娩•漫长的新冠“后遗症” •急性意外农药中毒 | BMC-系列期刊，月度热文](https://mp.weixin.qq.com/s/sdTG5cWYDv5HtHfI0Py8RA)
+- [强生疫苗在美提交审批申请，只需接种一剂即可发挥作用| 科研圈日报](https://mp.weixin.qq.com/s/epk6Kc5-4WI0WrLce6KRAg)
+- [【视频】新冠肺炎疫情期间 家庭应如何科学消毒？](https://mp.weixin.qq.com/s/89SMcYMJxguQXXbShhNRQQ)
+- [24小时热门｜阿斯利康宣布：新冠疫苗单剂效果达76%，接种间隔时间延长效力可达82%](https://mp.weixin.qq.com/s/4IzfDbQQGwgyftuvS9okig)

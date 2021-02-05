@@ -453,3 +453,4 @@
 - [Cross-country evidence on the association between contact tracing and COVID-19 case fatality rates](https://www.nature.com/articles/s41598-020-78760-x)
 - [Understanding the Prevalence and Associated Factors of Behavioral Intention of COVID-19 Vaccination Under Specific Scenarios Combining Effectiveness, Safety, and Cost in the Hong Kong Chinese General Population](https://www.ijhpm.com/article_4003.html)
 - [The Interplay of Demographic Variables and Social Distancing Scores in Deep Prediction of U.S. COVID-19 Cases](https://arxiv.org/abs/2101.02113)
+- [如何用NetLogo+手机数据模拟城市中的传染病传播？丨城市数据派](https://mp.weixin.qq.com/s/vUvUPrJ6t1_Rp788AVYzQA)

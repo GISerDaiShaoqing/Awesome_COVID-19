@@ -793,3 +793,8 @@
 - [Remdesivir Metabolite GS-441524 Effectively Inhibits SARS-CoV-2 Infection in Mouse Models](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c01929)
 - [Cell Host & Microbe | 新冠病毒Nsp1缺失突变株及其分子病毒、分子流行病和](https://mp.weixin.qq.com/s/430mMRUgh218A-sfOnlDbw)
 - [Genomic monitoring of SARS-CoV-2 uncovers an Nsp1 deletion variant that modulates type I interferon response](https://doi.org/10.1016/j.chom.2021.01.015)
+- [NEJM论文：新冠患者病毒核酸阳性时间远长于传染性](https://mp.weixin.qq.com/s/vmK9Uu7iDUQ59a4mf9K9iQ)
+- [Duration of Culturable SARS-CoV-2 in Hospitalized Patients with Covid-19](https://www.nejm.org/doi/10.1056/NEJMc2027040)
+- [Lancet Voice | SARS-CoV-2突变背后的故事](https://mp.weixin.qq.com/s/FDQbIuTOhYwvTRFqN8YL2A)
+- [新冠变体D614G的研究进展综述！](https://mp.weixin.qq.com/s/2rzG-QlqnzWppaH9J6wrBA)
+- [Making sense of spike D614G in SARS-CoV-2 transmission ](https://engine.scichina.com/publisher/scp/journal/SCLS/doi/10.1007/s11427-020-1893-9)

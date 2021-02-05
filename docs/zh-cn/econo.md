@@ -636,3 +636,4 @@
 - [全球汇 | 如何把人民健康置于规划之核心（二）](https://mp.weixin.qq.com/s/D86mzHyT8NTzy9D4d91hcQ)
 - [国际资讯 | [欧]瑞典“一分钟生活圈”街道计划/巴黎香榭丽舍大道改造(2021.2)](https://mp.weixin.qq.com/s/oLtZFN_3fgounqNa-L19rA)
 - [全球汇 | 如何把人民健康置于规划之核心（三 · 终）](https://mp.weixin.qq.com/s/wIrClH91P-Z_Q_Hf4opxPQ)
+- [2020公共住房信息平台盘点|疫情期间公共住房的数字化民生服务](https://mp.weixin.qq.com/s/7gijuqYo3tmwT1zuzXeUyg)

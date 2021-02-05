@@ -60,3 +60,4 @@
 - [Infection dynamics of COVID-19 virus under lockdown and reopening](https://arxiv.org/abs/2012.15155)
 - [Risk mapping for COVID-19 outbreaks in Australia using mobility data](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0657)
 - [Identifying the Space-time Patterns of COVID-19 Risk and Their Associations with Different Built Environment Features in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0048969721004472?via%3Dihub#f0005)
+- [Regional and global contributions of air pollution to risk of death from COVID-19](https://academic.oup.com/cardiovascres/article/116/14/2247/5940460)
