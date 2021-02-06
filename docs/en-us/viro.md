@@ -798,3 +798,4 @@
 - [Lancet Voice | SARS-CoV-2突变背后的故事](https://mp.weixin.qq.com/s/FDQbIuTOhYwvTRFqN8YL2A)
 - [新冠变体D614G的研究进展综述！](https://mp.weixin.qq.com/s/2rzG-QlqnzWppaH9J6wrBA)
 - [Making sense of spike D614G in SARS-CoV-2 transmission ](https://engine.scichina.com/publisher/scp/journal/SCLS/doi/10.1007/s11427-020-1893-9)
+- [评论：新冠病毒与弗林蛋白酶](https://mp.weixin.qq.com/s/Cr336JjLj6G2AGUII269yQ)

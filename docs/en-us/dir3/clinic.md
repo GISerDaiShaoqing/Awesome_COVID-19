@@ -1212,3 +1212,7 @@
 - [特别关注丨全球期待已久的新冠疫苗终于来了，为何大家的接种意愿差强人意？有哪些担心？接种后的不良反应是什么？](https://mp.weixin.qq.com/s/IlAKrZF9PQKvRN9DjR6bIw)
 - [高福最新研究：国产新冠疫苗对超强变异株依然有效！](https://mp.weixin.qq.com/s/oPk9Q4yJsXysk-6YJAmUCA)
 - [Neutralization of SARS-CoV-2 VOC 501Y.V2 by human antisera elicited by both inactivated BBIBP-CorV and recombinant dimeric RBD ZF2001 vaccines](https://doi.org/10.1101/2021.02.01.429069)
+- [混合接种新冠疫苗能增强免疫反应吗？](https://mp.weixin.qq.com/s/foufHW5WBb585vWrdtjSRQ)
+- [Could mixing COVID vaccines boost immune response?](https://www.nature.com/articles/d41586-021-00315-5)
+- [2分钟看懂NEJM：mRNA-1273 SARS-CoV-2疫苗的效力和安全性](https://mp.weixin.qq.com/s/AlMxqugzR8iX0lOb37j1qQ)
+- [Efficacy and Safety of mRNA-1273 SARS-CoV-2 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2035389)

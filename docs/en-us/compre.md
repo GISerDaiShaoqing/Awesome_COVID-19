@@ -1677,3 +1677,6 @@
 - [Cell：阵容空前，19位通讯作者，包括3名院士，146万个单细胞转录组图谱揭示新冠免疫特征](https://mp.weixin.qq.com/s/pUWhI2dkxLqVvsmaOi-V7Q)
 - [COVID-19 immune features revealed by a large-scale single cell transcriptome atlas](https://doi.org/10.1016/j.cell.2021.01.053)
 - [一亿剂疫苗打出去了，何时能见效？](https://mp.weixin.qq.com/s/KSiN38pRmkdyn4QdqJwZqA)
+- [【观点】疫苗接种开始后，全球疫情何时可以好转？](https://mp.weixin.qq.com/s/5h0BCSpCyb20Ms8kiDgtAQ)
+- [Answers to All Your Questions About Getting Vaccinated for Covid-19](https://www.nytimes.com/interactive/2021/well/covid-vaccine-questions.html)
+- [艰难的返乡路](https://mp.weixin.qq.com/s/gUPKoEeOPxffGwjRH1Y6Yw)

@@ -1470,3 +1470,6 @@
 - [强生疫苗在美提交审批申请，只需接种一剂即可发挥作用| 科研圈日报](https://mp.weixin.qq.com/s/epk6Kc5-4WI0WrLce6KRAg)
 - [【视频】新冠肺炎疫情期间 家庭应如何科学消毒？](https://mp.weixin.qq.com/s/89SMcYMJxguQXXbShhNRQQ)
 - [24小时热门｜阿斯利康宣布：新冠疫苗单剂效果达76%，接种间隔时间延长效力可达82%](https://mp.weixin.qq.com/s/4IzfDbQQGwgyftuvS9okig)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月5日）【中国科讯】](https://mp.weixin.qq.com/s/D_M-MIpk7iqoYX7gK6ibDw)
+- [【视频】新冠肺炎疫情期间 家庭应如何科学消毒？](https://mp.weixin.qq.com/s/4V1dgbK4xCANsRR4omxKSg)
+- [180 万人数据汇总分析：至少三分之一新冠感染者无症状｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/qbZMq4aSFJiLTzY7-MR7RQ)
