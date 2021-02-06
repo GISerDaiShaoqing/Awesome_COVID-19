@@ -141,3 +141,5 @@
 - [Simulating the impact of different vaccination policies on the COVID-19 pandemic in New York City](https://www.medrxiv.org/content/10.1101/2021.01.21.21250228v1)
 - [Impact of the lockdown on the burden of COVID-19 in outpatient care in France, spring 2020](https://www.tandfonline.com/doi/full/10.1080/23744235.2021.1880024)
 - [Effects of Social Distancing Measures during the First Epidemic Wave of Severe Acute Respiratory Syndrome Infection, Greece](https://wwwnc.cdc.gov/eid/article/27/2/20-3412_article)
+- [Effectiveness of interventions as part of the One Health approach to control coronavirus disease 2019 and stratified case features in Anhui Province, China: A real-world population-based cohort study](https://www.sciencedirect.com/science/article/pii/S2352771421000148)
+- [Combined vaccination and physical distancing using social contact data to prevent future COVID-19 waves](https://www.researchgate.net/publication/349082256_Combined_vaccination_and_physical_distancing_using_social_contact_data_to_prevent_future_COVID-19_waves)

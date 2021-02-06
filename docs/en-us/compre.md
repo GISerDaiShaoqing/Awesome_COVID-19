@@ -1680,3 +1680,5 @@
 - [【观点】疫苗接种开始后，全球疫情何时可以好转？](https://mp.weixin.qq.com/s/5h0BCSpCyb20Ms8kiDgtAQ)
 - [Answers to All Your Questions About Getting Vaccinated for Covid-19](https://www.nytimes.com/interactive/2021/well/covid-vaccine-questions.html)
 - [艰难的返乡路](https://mp.weixin.qq.com/s/gUPKoEeOPxffGwjRH1Y6Yw)
+- [Impact of COVID-19 Lockdown on Physical Activity Among the Chinese Youths: The COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.592795/full)
+- [Changes in physical activity and sedentary behaviours from before to during the COVID-19 pandemic lockdown: a systematic review](https://bmjopensem.bmj.com/content/7/1/e000960)
