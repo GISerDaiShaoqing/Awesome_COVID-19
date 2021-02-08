@@ -454,3 +454,5 @@
 - [Understanding the Prevalence and Associated Factors of Behavioral Intention of COVID-19 Vaccination Under Specific Scenarios Combining Effectiveness, Safety, and Cost in the Hong Kong Chinese General Population](https://www.ijhpm.com/article_4003.html)
 - [The Interplay of Demographic Variables and Social Distancing Scores in Deep Prediction of U.S. COVID-19 Cases](https://arxiv.org/abs/2101.02113)
 - [如何用NetLogo+手机数据模拟城市中的传染病传播？丨城市数据派](https://mp.weixin.qq.com/s/vUvUPrJ6t1_Rp788AVYzQA)
+- [Science：20~49岁的人群是美国唯一维持COVID-19传播的群体](https://mp.weixin.qq.com/s/FbQRS9oPT2OBMBiCXgAhmA)
+- [Age groups that sustain resurging COVID-19 epidemics in the United States](https://science.sciencemag.org/content/early/2021/02/01/science.abe8372)

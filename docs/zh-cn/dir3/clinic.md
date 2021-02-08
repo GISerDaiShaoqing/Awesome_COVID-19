@@ -1216,3 +1216,5 @@
 - [Could mixing COVID vaccines boost immune response?](https://www.nature.com/articles/d41586-021-00315-5)
 - [2分钟看懂NEJM：mRNA-1273 SARS-CoV-2疫苗的效力和安全性](https://mp.weixin.qq.com/s/AlMxqugzR8iX0lOb37j1qQ)
 - [Efficacy and Safety of mRNA-1273 SARS-CoV-2 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2035389)
+- [综述新冠病毒的感染机制以及最新的治疗和预防策略 | Molecular Biomedicine | 四川大学马学磊团队](https://mp.weixin.qq.com/s/JYLmAwOacNWVyGsd9EF-cw)
+- [Update on treatment and preventive interventions against COVID-19: an overview of potential pharmacological agents and vaccines](https://link.springer.com/article/10.1186/s43556-020-00017-w)

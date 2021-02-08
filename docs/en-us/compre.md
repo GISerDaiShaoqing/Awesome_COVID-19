@@ -1682,3 +1682,5 @@
 - [艰难的返乡路](https://mp.weixin.qq.com/s/gUPKoEeOPxffGwjRH1Y6Yw)
 - [Impact of COVID-19 Lockdown on Physical Activity Among the Chinese Youths: The COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.592795/full)
 - [Changes in physical activity and sedentary behaviours from before to during the COVID-19 pandemic lockdown: a systematic review](https://bmjopensem.bmj.com/content/7/1/e000960)
+- [这份 “新冠” 年度书单请收好](https://mp.weixin.qq.com/s/_6Zq0yF8dzEHIGz08HI1-w)
+- [The pandemic bookshelf grows](https://www.nature.com/articles/d41586-020-03555-z)
