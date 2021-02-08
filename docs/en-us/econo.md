@@ -638,3 +638,4 @@
 - [全球汇 | 如何把人民健康置于规划之核心（三 · 终）](https://mp.weixin.qq.com/s/wIrClH91P-Z_Q_Hf4opxPQ)
 - [2020公共住房信息平台盘点|疫情期间公共住房的数字化民生服务](https://mp.weixin.qq.com/s/7gijuqYo3tmwT1zuzXeUyg)
 - [Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale field experiment in China](https://psyarxiv.com/q4gmv/)
+- [国际资讯 | [美]疫情下的“郊区化”/亚马逊第二总部开发计划(2021.2)](https://mp.weixin.qq.com/s/ELBw8F1b98hTAcVXpq0KKA)

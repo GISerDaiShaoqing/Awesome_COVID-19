@@ -335,3 +335,5 @@
 - [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间重点场所和单位卫生防护指南》（WS/T 698-2020）](https://mp.weixin.qq.com/s/h4-d3fycF5pxp17n2YcUgg)
 - [卫生健康标准宣贯系列慕课：《人群聚集场所手卫生规范》（WS/T 699-2020）](https://mp.weixin.qq.com/s/txEVSxENAykKNw3P4gh4RQ)
 - [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间特定人群个人防护指南》（WS/T 697-2020）](https://mp.weixin.qq.com/s/abU0jmyF5wRIDKTz3kRceA)
+- [新冠疫情研究讲座系列之三新冠疫情影响分析第五讲回顾](https://mp.weixin.qq.com/s/LdNLdnnOTHTqrGwQSUsttQ)
+- [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间公共交通工具消毒与个人防护技术要求》（WS 695-2020）](https://mp.weixin.qq.com/s/YjsLGK5_evyXVVNpWoNtog)

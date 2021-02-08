@@ -1684,3 +1684,6 @@
 - [Changes in physical activity and sedentary behaviours from before to during the COVID-19 pandemic lockdown: a systematic review](https://bmjopensem.bmj.com/content/7/1/e000960)
 - [这份 “新冠” 年度书单请收好](https://mp.weixin.qq.com/s/_6Zq0yF8dzEHIGz08HI1-w)
 - [The pandemic bookshelf grows](https://www.nature.com/articles/d41586-020-03555-z)
+- [《柳叶刀》社论 | 大流行时期的基因组测序](https://mp.weixin.qq.com/s/CuJRRXzRt4vHuCRwRlBoGA)
+- [COVID-19: the intersection of education and health](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00142-2/fulltext)
+- [Suicidality among healthcare professionals during the first COVID19 wave](https://www.sciencedirect.com/science/article/pii/S0165032721000264?via%3Dihub)

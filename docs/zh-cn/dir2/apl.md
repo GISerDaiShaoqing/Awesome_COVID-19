@@ -1480,3 +1480,7 @@
 - [俄“卫星-V”疫苗有效性达91.6%，数据已发表于《柳叶刀》｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/G9FiuCprWoZ0MdlLdsqElw)
 - [中国疾病预防控制中心成功研发两种含氯低温消毒剂配方](https://mp.weixin.qq.com/s/TQ8LyTIuwLcEVA6JFtsHQw)
 - [武汉病毒所2020年度十大重要事件揭晓：第一时间分离得到新冠病毒毒株](https://mp.weixin.qq.com/s/9jW6uS4naR5Er50lyjk_FQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月7日）【中国科讯】](https://mp.weixin.qq.com/s/SeEHp3qZ3z7eUCSZjTECpw)
+- [教育部发布2021年第1号留学预警：谨慎选择赴澳或返澳学习｜科研圈日报](https://mp.weixin.qq.com/s/QZgBTQZkBORB9Yd04eDjFQ)
+- [【科学防疫 健康过年】春节居家消毒怎么做才安心？听听疾控专家的消毒秘诀](https://mp.weixin.qq.com/s/agv6RRgxAU1aGhXc47_ifg)
+- [24小时热门｜全球无症状感染增加？吴尊友教授团队回顾2000万入境旅客数据](https://mp.weixin.qq.com/s/-jstlZrdQLDGRJiSchnryQ)
