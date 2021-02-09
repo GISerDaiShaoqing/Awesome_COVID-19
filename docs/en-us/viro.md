@@ -802,3 +802,7 @@
 - [新冠病毒在单个病人体内的演化 |《自然》论文](https://mp.weixin.qq.com/s/xd6fQlw3OoI9cVuPO6BU3w)
 - [SARS-CoV-2 evolution during treatment of chronic infection](https://www.nature.com/articles/s41586-021-03291-y)
 - [Nature | 新冠病毒在病人体内发生进化](https://mp.weixin.qq.com/s/yS-Be9Hb86dw0aWJRrq5Ng)
+- [SARS-CoV-2刺突蛋白中发现了可驱动抗体逃逸的反复缺失｜Science新冠专题](https://mp.weixin.qq.com/s/zw234A6xsk7V_bvGpYRIxg)
+- [Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape](https://science.sciencemag.org/content/early/2021/02/02/science.abf6950)
+- [Nat Med | 史佩勇团队报道RNA疫苗有效保护英国和南非变种新冠病毒感染](https://mp.weixin.qq.com/s/lEwcWUt-ZomPwwK5IWt5ZQ)
+- [Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera ](https://www.nature.com/articles/s41591-021-01270-4)

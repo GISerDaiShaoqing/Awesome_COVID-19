@@ -143,3 +143,4 @@
 - [Effects of Social Distancing Measures during the First Epidemic Wave of Severe Acute Respiratory Syndrome Infection, Greece](https://wwwnc.cdc.gov/eid/article/27/2/20-3412_article)
 - [Effectiveness of interventions as part of the One Health approach to control coronavirus disease 2019 and stratified case features in Anhui Province, China: A real-world population-based cohort study](https://www.sciencedirect.com/science/article/pii/S2352771421000148)
 - [Combined vaccination and physical distancing using social contact data to prevent future COVID-19 waves](https://www.researchgate.net/publication/349082256_Combined_vaccination_and_physical_distancing_using_social_contact_data_to_prevent_future_COVID-19_waves)
+- [Integrated vaccination and physical distancing interventions to prevent future COVID-19 waves](https://www.researchsquare.com/article/rs-208740/v1)

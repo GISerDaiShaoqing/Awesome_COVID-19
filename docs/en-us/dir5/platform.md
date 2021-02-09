@@ -151,3 +151,4 @@
 - [检出阳性的食品会传染吗？权威回应来了](https://mp.weixin.qq.com/s/tV4Ic3O_u0Ga7dDQj6P9JA)
 - [钟南山明确防控重点！检出阳性的食品有传染性吗？](https://mp.weixin.qq.com/s/VHQK-1SCdcFmCKFJratrXQ)
 - [今天，钟南山做出最新判断！](https://mp.weixin.qq.com/s/v9NlN3xMfgXP7NyDBGDK1w)
+- [如何用一个手机应用作好春节防疫？](https://mp.weixin.qq.com/s/7GRfONCEfyr23fEDuMVKCQ)

@@ -1228,3 +1228,7 @@
 - [How to redesign COVID vaccines so they protect against variants](https://www.nature.com/articles/d41586-021-00241-6)
 - [Science｜新冠疫苗进展顺利，但治疗效果喜忧参半](https://mp.weixin.qq.com/s/0dVUi9kLCroU-QM7_fY7WA)
 - [Two new vaccines deliver good and bad news for the pandemic](https://science.sciencemag.org/content/371/6529/548)
+- [BNT162b2疫苗可以中和三种新冠病毒变种 |《自然-医学》论文](https://mp.weixin.qq.com/s/tpNsmjzXFpoVqSsLUDVatQ)
+- [Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera](https://www.nature.com/articles/s41591-021-01270-4)
+- [单针疫苗！陈薇团队终于公布三期数据](https://mp.weixin.qq.com/s/DoufbCOlczquKrAfcphXhw)
+- [世卫在武汉新冠溯源研究结果公布](https://mp.weixin.qq.com/s/BdKa4dhpypQ1WYbF0C9zsA)
