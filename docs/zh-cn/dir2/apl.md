@@ -1490,3 +1490,8 @@
 - [复杂性科学论文推荐7篇 | Complexity Express一周精选2.1-2.7](https://mp.weixin.qq.com/s/daLbYwmhvCM955xy8izK8w)
 - [春节餐桌上的这些新礼仪，你该知道！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/R_ZSOiMTAKmndNeBPDMfYQ)
 - [巴基斯坦称，陈薇团队疫苗单剂保护率为74.8% | 科研圈日报](https://mp.weixin.qq.com/s/1NDJuKvjXbz7legXlOk7VQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月9日）【中国科讯】](https://mp.weixin.qq.com/s/zlqajV3PdS0P4gwqSBuZtg)
+- [2020大盘点：武汉大学李红良团队发表20多篇高水平研究成果（值得收藏）](https://mp.weixin.qq.com/s/vH45Fa5VFonNX2QHXdRhuw)
+- [解读《两种含氯低温消毒剂使用指引》](https://mp.weixin.qq.com/s/zc_iP7_by7CnADzd9Spp_w)
+- [关于印发两种含氯低温消毒剂使用指引的通知](https://mp.weixin.qq.com/s/THsfQ96Dnl6_wYUq2sJePQ)
+- [中国-WHO专家组公布新冠溯源调查结果：无证据表明2019年12月前病毒就在武汉传播｜科研圈日报](https://mp.weixin.qq.com/s/2m9FFuV-7ycNBTI8gpLzsQ)

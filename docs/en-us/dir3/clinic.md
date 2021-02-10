@@ -1232,3 +1232,7 @@
 - [Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera](https://www.nature.com/articles/s41591-021-01270-4)
 - [单针疫苗！陈薇团队终于公布三期数据](https://mp.weixin.qq.com/s/DoufbCOlczquKrAfcphXhw)
 - [世卫在武汉新冠溯源研究结果公布](https://mp.weixin.qq.com/s/BdKa4dhpypQ1WYbF0C9zsA)
+- [Nature子刊 | 新发现！马麦卷/张纪岩揭示新冠患者（感染3个月后）对新冠病毒的持久抗体产生和T细胞应答](https://mp.weixin.qq.com/s/dOD2Ikeum-iX3QJbv_Xvpw)
+- [Lasting antibody and T cell responses to SARS-CoV-2 in COVID-19 patients three months after infection](https://www.nature.com/articles/s41467-021-21155-x)
+- [疫苗麦片？科学家使得疫苗传输更加方便](https://mp.weixin.qq.com/s/Mw8U_6fGZ_bFVEK6raxOUw)
+- [Scientists Invented Freeze-Dried Vaccines That Can Be Rehydrated on Demand](https://www.vice.com/en/article/88abga/scientists-invented-freeze-dried-vaccines-that-can-be-rehydrated-on-demand)

@@ -338,3 +338,4 @@
 - [新冠疫情研究讲座系列之三新冠疫情影响分析第五讲回顾](https://mp.weixin.qq.com/s/LdNLdnnOTHTqrGwQSUsttQ)
 - [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间公共交通工具消毒与个人防护技术要求》（WS 695-2020）](https://mp.weixin.qq.com/s/YjsLGK5_evyXVVNpWoNtog)
 - [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间医学观察和救治临时特殊场所卫生防护技术要求》（WS 694-2020）](https://mp.weixin.qq.com/s/bZiobQh7yGYtV6VboTrQ5w)
+- [卫生健康标准宣贯系列慕课：《新冠肺炎疫情期间办公场所和公共场所空调通风系统运行管理》（WS 696-2020）](https://mp.weixin.qq.com/s/W00BPWkUIMJ4NXmXU4LdEg)

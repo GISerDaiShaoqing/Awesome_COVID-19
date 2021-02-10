@@ -144,3 +144,6 @@
 - [Effectiveness of interventions as part of the One Health approach to control coronavirus disease 2019 and stratified case features in Anhui Province, China: A real-world population-based cohort study](https://www.sciencedirect.com/science/article/pii/S2352771421000148)
 - [Combined vaccination and physical distancing using social contact data to prevent future COVID-19 waves](https://www.researchgate.net/publication/349082256_Combined_vaccination_and_physical_distancing_using_social_contact_data_to_prevent_future_COVID-19_waves)
 - [Integrated vaccination and physical distancing interventions to prevent future COVID-19 waves](https://www.researchsquare.com/article/rs-208740/v1)
+- [Effects of short-term travel on COVID-19 spread: A novel SEIR model and case study in Minnesota](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245919)
+- [Transmission dynamics and control measures of COVID-19 outbreak in China: a modelling study](https://www.nature.com/articles/s41598-021-81985-z)
+- [利用区域人群流动和新兴交通数据支持疫情防控](https://mall.cnki.net/magazine/Article/WHCH202102001.htm)
