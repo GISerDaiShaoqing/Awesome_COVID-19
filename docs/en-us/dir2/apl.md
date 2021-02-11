@@ -1495,3 +1495,6 @@
 - [解读《两种含氯低温消毒剂使用指引》](https://mp.weixin.qq.com/s/zc_iP7_by7CnADzd9Spp_w)
 - [关于印发两种含氯低温消毒剂使用指引的通知](https://mp.weixin.qq.com/s/THsfQ96Dnl6_wYUq2sJePQ)
 - [中国-WHO专家组公布新冠溯源调查结果：无证据表明2019年12月前病毒就在武汉传播｜科研圈日报](https://mp.weixin.qq.com/s/2m9FFuV-7ycNBTI8gpLzsQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月10日）【中国科讯】](https://mp.weixin.qq.com/s/OdfCgqWYrs_kQfGcQdEkKw)
+- [千万别大意！口罩这样戴才有效【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/E9VPzVppo8s4xQDBrgnZeA)
+- [中国疾控中心环境所2020年度“十件大事”](https://mp.weixin.qq.com/s/wfTiORJQyVQg3Ek-eQljow)

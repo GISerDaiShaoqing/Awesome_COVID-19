@@ -462,3 +462,5 @@
 - [Network analysis of population flow among major cities and its influence on COVID-19 transmission in China](https://www.sciencedirect.com/science/article/pii/S0264275121000366)
 - [Connecting urban transportation systems with the spread of infectious diseases: A Trans-SEIR modeling approach](https://www.sciencedirect.com/science/article/pii/S0191261521000175)
 - [Association Between Preparedness and Response Measures and COVID-19 Incidence and Mortality](https://www.medrxiv.org/content/10.1101/2021.02.02.21251013v1)
+- [明年春节能回家过年吗？疫情预测模型能不能给我们答案？](https://mp.weixin.qq.com/s/OPjeym-9O7FVEx-y8eGbdg)
+- [Monitoring the Spatial Spread of COVID-19 and Effectiveness of Control Measures Through Human Movement Data: Proposal for a Predictive Model Using Big Data Analytics](https://www.researchprotocols.org/2020/12/e24432/)

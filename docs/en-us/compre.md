@@ -1700,3 +1700,7 @@
 - [Characterizing the Propagation of Situational Information in Social Media During COVID-19 Epidemic: A Case Study on Weibo](https://ieeexplore.ieee.org/document/9043580)
 - [De-carbonization of global energy use during the COVID-19 pandemic](https://arxiv.org/abs/2102.03240)
 - [The Impact of COVID-19 on the Interrelation of Physical Activity, Screen Time and Health-Related Quality of Life in Children and Adolescents in Germany: Results of the Motorik-Modul Study](https://www.mdpi.com/2227-9067/8/2/98)
+- [人工智能如何对抗新冠肺炎？看AAAI2021康奈尔医学部Fei Wang博士报告《计算智能阻击流行病》，附156页ppt](https://mp.weixin.qq.com/s/RaSKa3DbYKZmEiPoxPhYPg)
+- [【研究】疫情防控让天空变蓝，但也导致天气变热](https://mp.weixin.qq.com/s/C7dOl0PK6ASDDXKP-68gBg)
+- [Pandemic temporarily warmed the climate](https://www.axios.com/pandemic-climate-warm-temporary-09ab5bd6-b70e-45d9-9399-ddc30a481158.html)
+- [How did micro-mobility change in response to COVID-19 pandemic? A case study based on spatial-temporal-semantic analytics](https://www.research-collection.ethz.ch/handle/20.500.11850/458649)
