@@ -814,3 +814,7 @@
 - [Evidence for SARS-CoV-2 related coronaviruses circulating in bats and pangolins in Southeast Asia](https://www.nature.com/articles/s41467-021-21240-1)
 - [Nature子刊：王林发团队在泰国的蝙蝠和穿山甲内发现SARS-CoV-2相关冠状病毒](https://mp.weixin.qq.com/s/dZHaoSmpQU5ZxCn0wpTLTg)
 - [Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization](https://www.biorxiv.org/content/10.1101/2021.01.25.428137v2)
+- [mRNA疫苗对SARS-CoV-2变异株效力稍降 |《自然》论文](https://mp.weixin.qq.com/s/JAmnP8SAPr5n4J_2Quj_VQ)
+- [mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants](https://www.nature.com/articles/s41586-021-03324-6)
+- [Nature丨mRNA疫苗对新冠变异株效力下降1-3倍](https://mp.weixin.qq.com/s/8OD5nTNxOghRh-rp1O2gCw)
+- [病毒突变株究竟是怎么来的？Nature最新研究揭示了答案](https://mp.weixin.qq.com/s/yIpcNFQYmDOsR3XCt90mIg)
