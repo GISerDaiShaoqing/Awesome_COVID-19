@@ -147,3 +147,6 @@
 - [Effects of short-term travel on COVID-19 spread: A novel SEIR model and case study in Minnesota](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245919)
 - [Transmission dynamics and control measures of COVID-19 outbreak in China: a modelling study](https://www.nature.com/articles/s41598-021-81985-z)
 - [利用区域人群流动和新兴交通数据支持疫情防控](https://mall.cnki.net/magazine/Article/WHCH202102001.htm)
+- [经济空间场与 ESDA 结合的公共卫生事件应急策略制定](http://ch.whu.edu.cn/fileWHDXXBXXKXB/journal/article/whdxxbxxkxb/2021/2/PDF/whdxxbxxkxb-46-2-159.pdf)
+- [A multi‐regional, hierarchical‐tier mathematical model of the spread and control of COVID‐19 epidemics from epicenter to adjacent regions](https://onlinelibrary.wiley.com/doi/10.1111/tbed.14019)
+- [The potential effectiveness of the WHO International Health Regulations capacity requirements on control of the COVID-19 pandemic: a cross-sectional study of 114 countries](https://journals.sagepub.com/doi/full/10.1177/0141076821992453)

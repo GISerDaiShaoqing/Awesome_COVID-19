@@ -1704,3 +1704,5 @@
 - [【研究】疫情防控让天空变蓝，但也导致天气变热](https://mp.weixin.qq.com/s/C7dOl0PK6ASDDXKP-68gBg)
 - [Pandemic temporarily warmed the climate](https://www.axios.com/pandemic-climate-warm-temporary-09ab5bd6-b70e-45d9-9399-ddc30a481158.html)
 - [How did micro-mobility change in response to COVID-19 pandemic? A case study based on spatial-temporal-semantic analytics](https://www.research-collection.ethz.ch/handle/20.500.11850/458649)
+- [Global Air Quality and COVID-19 Pandemic: Do We Breathe Cleaner Air?](https://aaqr.org/articles/aaqr-20-09-covid-0567)
+- [Impact of the COVID-19 lockdown on weight status and associated factors for obesity among children in Massachusetts](https://www.sciencedirect.com/science/article/pii/S2451847621000087)

@@ -1236,3 +1236,6 @@
 - [Lasting antibody and T cell responses to SARS-CoV-2 in COVID-19 patients three months after infection](https://www.nature.com/articles/s41467-021-21155-x)
 - [疫苗麦片？科学家使得疫苗传输更加方便](https://mp.weixin.qq.com/s/Mw8U_6fGZ_bFVEK6raxOUw)
 - [Scientists Invented Freeze-Dried Vaccines That Can Be Rehydrated on Demand](https://www.vice.com/en/article/88abga/scientists-invented-freeze-dried-vaccines-that-can-be-rehydrated-on-demand)
+- [2分钟看懂NEJM：不同抗体状态医护人员的SARS-CoV-2感染率](https://mp.weixin.qq.com/s/ohVWMnJnXfq2yetsPXsJeg)
+- [Incidence of SARS-CoV-2 Infection in Health Care Workers by Antibody Status](https://www.nejm.org/doi/full/10.1056/NEJMoa2035389)
+- [A Clinical Analysis of Extrapulmonary Complications in Novel Coronavirus Pneumonia Patients](https://www.dovepress.com/a-clinical-analysis-of-extrapulmonary-complications-in-novel-coronavir-peer-reviewed-article-IJGM)

@@ -464,3 +464,6 @@
 - [Association Between Preparedness and Response Measures and COVID-19 Incidence and Mortality](https://www.medrxiv.org/content/10.1101/2021.02.02.21251013v1)
 - [明年春节能回家过年吗？疫情预测模型能不能给我们答案？](https://mp.weixin.qq.com/s/OPjeym-9O7FVEx-y8eGbdg)
 - [Monitoring the Spatial Spread of COVID-19 and Effectiveness of Control Measures Through Human Movement Data: Proposal for a Predictive Model Using Big Data Analytics](https://www.researchprotocols.org/2020/12/e24432/)
+- [A Stochastic Numerical Analysis Based on Hybrid NAR-RBFs Networks Nonlinear SITR Model for Novel COVID-19 Dynamics](https://www.sciencedirect.com/science/article/pii/S0169260721000481)
+- [Egyptian school children awareness and precautions in Covid19 pandemic: a cross sectional survey study](https://bnrc.springeropen.com/articles/10.1186/s42269-021-00495-0)
+- [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full)
