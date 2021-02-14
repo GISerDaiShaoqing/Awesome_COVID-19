@@ -1239,3 +1239,4 @@
 - [2分钟看懂NEJM：不同抗体状态医护人员的SARS-CoV-2感染率](https://mp.weixin.qq.com/s/ohVWMnJnXfq2yetsPXsJeg)
 - [Incidence of SARS-CoV-2 Infection in Health Care Workers by Antibody Status](https://www.nejm.org/doi/full/10.1056/NEJMoa2035389)
 - [A Clinical Analysis of Extrapulmonary Complications in Novel Coronavirus Pneumonia Patients](https://www.dovepress.com/a-clinical-analysis-of-extrapulmonary-complications-in-novel-coronavir-peer-reviewed-article-IJGM)
+- [Recommendations and Clinical Guidance for Children with Metabolic-associated Liver Disease during the COVID-19 Pandemic](https://www.xiahepublishing.com/2310-8819/JCTH-2020-00137)

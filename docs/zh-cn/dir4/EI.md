@@ -150,3 +150,6 @@
 - [经济空间场与 ESDA 结合的公共卫生事件应急策略制定](http://ch.whu.edu.cn/fileWHDXXBXXKXB/journal/article/whdxxbxxkxb/2021/2/PDF/whdxxbxxkxb-46-2-159.pdf)
 - [A multi‐regional, hierarchical‐tier mathematical model of the spread and control of COVID‐19 epidemics from epicenter to adjacent regions](https://onlinelibrary.wiley.com/doi/10.1111/tbed.14019)
 - [The potential effectiveness of the WHO International Health Regulations capacity requirements on control of the COVID-19 pandemic: a cross-sectional study of 114 countries](https://journals.sagepub.com/doi/full/10.1177/0141076821992453)
+- [The role of mask mandates, stay at home orders and school closure in curbing the COVID-19 pandemic prior to vaccination](https://www.sciencedirect.com/science/article/pii/S0196655321000572?via%3Dihub)
+- [Impact of contact tracing, respect of isolation and lockdown in reducing the number of cases infected with COVID-19: Case study: Tunisia’s response from March 22 to 04 May 2020](https://www.sciencedirect.com/science/article/pii/S1201971221000965)
+- [The impact of non-pharmaceutical interventions on the prevention and control of COVID-19 in New York City](https://aip.scitation.org/doi/10.1063/5.0040560)

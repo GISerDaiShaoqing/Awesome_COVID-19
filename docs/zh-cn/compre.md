@@ -1706,3 +1706,8 @@
 - [How did micro-mobility change in response to COVID-19 pandemic? A case study based on spatial-temporal-semantic analytics](https://www.research-collection.ethz.ch/handle/20.500.11850/458649)
 - [Global Air Quality and COVID-19 Pandemic: Do We Breathe Cleaner Air?](https://aaqr.org/articles/aaqr-20-09-covid-0567)
 - [Impact of the COVID-19 lockdown on weight status and associated factors for obesity among children in Massachusetts](https://www.sciencedirect.com/science/article/pii/S2451847621000087)
+- [【存照】这里没有雾霾、没有新冠，而且是世界上唯一的负碳排放国家！](https://mp.weixin.qq.com/s/nFATRdnKYFzR5woOGtqEfQ)
+- [How one tiny country is beating the pandemic and climate change](https://grist.org/climate/how-one-tiny-country-is-beating-the-pandemic-and-climate-change/)
+- [A Thematic Analysis of Weibo Topics (Chinese Twitter Hashtags) Regarding Older Adults During the COVID-19 Outbreak](https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbaa148/5901075)
+- [Assessing the influence of climate on wintertime SARS-CoV-2 outbreaks](https://www.nature.com/articles/s41467-021-20991-1)
+- [Epidemiological and clinical characteristics of 214 families with COVID-19 in Wuhan, China](https://www.sciencedirect.com/science/article/pii/S1201971221001065)
