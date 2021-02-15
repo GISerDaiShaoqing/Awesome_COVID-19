@@ -1711,3 +1711,6 @@
 - [A Thematic Analysis of Weibo Topics (Chinese Twitter Hashtags) Regarding Older Adults During the COVID-19 Outbreak](https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbaa148/5901075)
 - [Assessing the influence of climate on wintertime SARS-CoV-2 outbreaks](https://www.nature.com/articles/s41467-021-20991-1)
 - [Epidemiological and clinical characteristics of 214 families with COVID-19 in Wuhan, China](https://www.sciencedirect.com/science/article/pii/S1201971221001065)
+- [Correction: Impact of COVID-19 lockdown on activity patterns and weight status among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.nature.com/articles/s41366-020-00736-8)
+- [Examining Population Health During the COVID-19 Pandemic: All-Cause, Pneumonia and Influenza, and Road Traffic Deaths in Taiwan](https://www.acpjournals.org/doi/10.7326/M20-7788)
+- [Spatial-temporal relationship between population mobility and COVID-19 outbreaks in South Carolina: A time series forecasting analysis](https://www.medrxiv.org/content/10.1101/2021.01.02.21249119v2)

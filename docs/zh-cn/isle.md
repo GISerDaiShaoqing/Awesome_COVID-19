@@ -29,5 +29,6 @@
 - [An extended Weight Kernel Density Estimation model forecasts COVID-19 onset risk and identifies spatiotemporal variations of lockdown effects in China](https://www.nature.com/articles/s42003-021-01677-2)
 - [Spatiobehavioral Characteristics – Defining the Epidemiology of New Contagious Diseases at the Earliest Moment Possible](https://www.sciencedirect.com/science/article/pii/S1471492220303469#f0005)
 - [Impact of COVID-19 Lockdown on Physical Activity Among the Chinese Youths: The COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.592795/full)
+- [Correction: Impact of COVID-19 lockdown on activity patterns and weight status among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.nature.com/articles/s41366-020-00736-8)
 
 ![](/img/ISLEwechat.jpg)

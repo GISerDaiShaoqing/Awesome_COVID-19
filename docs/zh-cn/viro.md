@@ -819,3 +819,4 @@
 - [Nature丨mRNA疫苗对新冠变异株效力下降1-3倍](https://mp.weixin.qq.com/s/8OD5nTNxOghRh-rp1O2gCw)
 - [病毒突变株究竟是怎么来的？Nature最新研究揭示了答案](https://mp.weixin.qq.com/s/yIpcNFQYmDOsR3XCt90mIg)
 - [Lack of viable severe acute respiratory coronavirus virus 2 (SARS-CoV-2) among PCR-positive air samples from hospital rooms and community isolation facilities](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/lack-of-viable-severe-acute-respiratory-coronavirus-virus-2-sarscov2-among-pcrpositive-air-samples-from-hospital-rooms-and-community-isolation-facilities/BABC764B2945B2CF2764992984464969)
+- [惊了！美国去年7月就出现新冠变异病毒！已蔓延19州，6个国家…](https://mp.weixin.qq.com/s/9OOGnuqvlCb_jVkOcRdIdw)

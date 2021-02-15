@@ -467,3 +467,6 @@
 - [A Stochastic Numerical Analysis Based on Hybrid NAR-RBFs Networks Nonlinear SITR Model for Novel COVID-19 Dynamics](https://www.sciencedirect.com/science/article/pii/S0169260721000481)
 - [Egyptian school children awareness and precautions in Covid19 pandemic: a cross sectional survey study](https://bnrc.springeropen.com/articles/10.1186/s42269-021-00495-0)
 - [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1.full)
+- [PNAS：新研究表明至少50%的SARS-CoV-2感染病例来自没有症状的人](https://mp.weixin.qq.com/s/ABcJw3eYR9IXpm_AyBqqJQ)
+- [Quantifying asymptomatic infection and transmission of COVID-19 in New York City using observed cases, serology, and testing capacity](https://www.pnas.org/content/118/9/e2019716118)
+- [At least 50% of COVID-19 infections come from people who aren't showing symptoms: study](https://medicalxpress.com/news/2021-02-covid-infections-people-symptoms.html)
