@@ -153,3 +153,5 @@
 - [The role of mask mandates, stay at home orders and school closure in curbing the COVID-19 pandemic prior to vaccination](https://www.sciencedirect.com/science/article/pii/S0196655321000572?via%3Dihub)
 - [Impact of contact tracing, respect of isolation and lockdown in reducing the number of cases infected with COVID-19: Case study: Tunisia’s response from March 22 to 04 May 2020](https://www.sciencedirect.com/science/article/pii/S1201971221000965)
 - [The impact of non-pharmaceutical interventions on the prevention and control of COVID-19 in New York City](https://aip.scitation.org/doi/10.1063/5.0040560)
+- [Mitigation Policies, Community Mobility, and COVID-19 Case Counts in Australia, Japan, Hong Kong, and Singapore](https://www.sciencedirect.com/science/article/pii/S0033350621000421)
+- [Optimal Lockdown Policy for Covid-19: A Modelling Study](https://arxiv.org/abs/2102.06070)

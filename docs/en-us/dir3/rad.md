@@ -55,3 +55,4 @@
 - [【金猿技术展】肺炎AI医学辅助诊断技术——Dr.Wise®](https://mp.weixin.qq.com/s/0kKpdYHfjIlbrZG0kXMzrw)
 - [COVID-19 Deterioration Prediction via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909)
 - [基于深度学习的新型冠状病毒肺炎诊断研究综述](https://mp.weixin.qq.com/s/Tu_l5aQLHjJUjPx5Gh2S3Q)
+- [深度学习在医学影像智能处理中的应用与挑战](https://mp.weixin.qq.com/s/m9NG4jc1b2epf4y_a5dYDw)

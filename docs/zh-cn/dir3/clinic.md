@@ -1240,3 +1240,5 @@
 - [Incidence of SARS-CoV-2 Infection in Health Care Workers by Antibody Status](https://www.nejm.org/doi/full/10.1056/NEJMoa2035389)
 - [A Clinical Analysis of Extrapulmonary Complications in Novel Coronavirus Pneumonia Patients](https://www.dovepress.com/a-clinical-analysis-of-extrapulmonary-complications-in-novel-coronavir-peer-reviewed-article-IJGM)
 - [Recommendations and Clinical Guidance for Children with Metabolic-associated Liver Disease during the COVID-19 Pandemic](https://www.xiahepublishing.com/2310-8819/JCTH-2020-00137)
+- [Human intestinal organoids recapitulate enteric infections of enterovirus and coronavirus](https://www.sciencedirect.com/science/article/pii/S2213671121000898)
+- [SARS-CoV-2 reinfection by the new Variant of Concern (VOC) P.1 in Amazonas, Brazil](https://virological.org/t/sars-cov-2-reinfection-by-the-new-variant-of-concern-voc-p-1-in-amazonas-brazil/596)
