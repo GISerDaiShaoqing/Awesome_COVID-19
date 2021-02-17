@@ -639,3 +639,4 @@
 - [2020公共住房信息平台盘点|疫情期间公共住房的数字化民生服务](https://mp.weixin.qq.com/s/7gijuqYo3tmwT1zuzXeUyg)
 - [Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale field experiment in China](https://psyarxiv.com/q4gmv/)
 - [国际资讯 | [美]疫情下的“郊区化”/亚马逊第二总部开发计划(2021.2)](https://mp.weixin.qq.com/s/ELBw8F1b98hTAcVXpq0KKA)
+- [从生产能力到转产能力——基于对疫情期间中国转产情况的思考](https://mp.weixin.qq.com/s/jAOvLdGruZ7w8tSp5D5jGA)

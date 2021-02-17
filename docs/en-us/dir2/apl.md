@@ -1503,3 +1503,5 @@
 - [抗变异疫苗 | “天问一号”就位 | 蓝鲸疲于奔命 | 每周自然简报](https://mp.weixin.qq.com/s/c-c34Omyp0Rj7h7sOb1zFg)
 - [复杂性科学论文推荐8篇 | Complexity Express一周精选2.8-2.14](https://mp.weixin.qq.com/s/ZyDDeQVQuS3W5cE9-N2ufQ)
 - [做好清洁消毒，这些事你该知道！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/1IHdDLJ7D8ghSdSTdFCfPQ)
+- [收藏！教你轻松搞定厕所卫生【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/D5exlxUxR__AOXBqEx75wg)
+- [快讯！姜世勃、王林发等人入选美国微生物科学院院士](https://mp.weixin.qq.com/s/o9o69td4ros0W3crfUAfsg)

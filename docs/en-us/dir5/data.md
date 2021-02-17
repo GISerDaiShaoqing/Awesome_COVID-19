@@ -236,3 +236,4 @@
 - [COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak](https://www.nature.com/articles/s41597-020-00784-9)
 - [Unified COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset)
 - [The characteristics of multi-source mobility datasets and how they reveal the luxury nature of social distancing in the U.S. during the COVID-19 pandemic](https://www.researchgate.net/publication/348993707_The_characteristics_of_multi-source_mobility_datasets_and_how_they_reveal_the_luxury_nature_of_social_distancing_in_the_US_during_the_COVID-19_pandemic)
+- [Automated Data Collection: COVID-19/SARS-COV-2 Cases in EU by Country, State/Province/Local Authorities, and Date](https://github.com/covid19-eu-zh/covid19-eu-data)
