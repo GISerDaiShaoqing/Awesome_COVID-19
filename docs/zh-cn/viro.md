@@ -822,3 +822,6 @@
 - [惊了！美国去年7月就出现新冠变异病毒！已蔓延19州，6个国家…](https://mp.weixin.qq.com/s/9OOGnuqvlCb_jVkOcRdIdw)
 - [国际科学家研发药物可防病毒在雪貂中传播，日后用于人类](https://mp.weixin.qq.com/s/bjqcouO5A0Xo2VVDIeZEZQ)
 - [Intranasal fusion inhibitory lipopeptide prevents direct-contact SARS-CoV-2 transmission in ferrets](https://science.sciencemag.org/content/early/2021/02/16/science.abf4896)
+- [英美变异新冠病毒首现合体！易传播且有抗药性！](https://mp.weixin.qq.com/s/-n-nhldEaZ2JV0KKRc_E9Q)
+- [备受争议！英国全球首个新冠病毒“人体挑战试验”已获道德认可](https://mp.weixin.qq.com/s/HTCoCFn0HHBtfGCFLfCR3Q)
+- [Local Transmission of SARS-CoV-2 Lineage B.1.1.7, Brazil, December 2020](https://wwwnc.cdc.gov/eid/article/27/3/21-0038_article)

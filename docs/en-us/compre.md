@@ -1728,3 +1728,6 @@
 - [An Epidemiological Blueprint for Understanding the Dynamics of a Pandemic](https://ethz.ch/en/the-eth-zurich/global/eth-global-news-events/2020/11/eth-meets-you-at-the-aaas-2021.html)
 - [The Relationship between Nature Deprivation and Individual Wellbeing across Urban Gradients under COVID-19](https://www.mdpi.com/1660-4601/18/4/1511)
 - [SARS-CoV-2 European resurgence foretold: interplay of introductions and persistence by leveraging genomic and mobility data](https://www.researchsquare.com/article/rs-208849/v1)
+- [Effect of the COVID-19 lockdown on Physical Activity and Sedentary Behaviors in French Children and Adolescents: new results from the ONAPS national survey](https://www.sciencedirect.com/science/article/pii/S1876382021000263)
+- [The Immediate Impact of the Novel Coronavirus (COVID-19) Pandemic on Adolescents with Severe Obesity - Another Pandemic](https://asploro.com/wp-content/uploads/2021/01/The-Immediate-Impact-of-the-Novel-Coronavirus-COVID-19-Pandemic-on-Adolescents-with-Severe-Obesity-Another-Pandemic.pdf)
+- [Physical Activity Behavior Before, During, and After COVID-19 Restrictions: Longitudinal Smartphone-Tracking Study of Adults in the United Kingdom](https://www.jmir.org/2021/2/e23701/)

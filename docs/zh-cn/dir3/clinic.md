@@ -1242,3 +1242,7 @@
 - [Recommendations and Clinical Guidance for Children with Metabolic-associated Liver Disease during the COVID-19 Pandemic](https://www.xiahepublishing.com/2310-8819/JCTH-2020-00137)
 - [Human intestinal organoids recapitulate enteric infections of enterovirus and coronavirus](https://www.sciencedirect.com/science/article/pii/S2213671121000898)
 - [SARS-CoV-2 reinfection by the new Variant of Concern (VOC) P.1 in Amazonas, Brazil](https://virological.org/t/sars-cov-2-reinfection-by-the-new-variant-of-concern-voc-p-1-in-amazonas-brazil/596)
+- [一年后，曾在风口浪尖的新冠血浆疗法逐渐明晰](https://mp.weixin.qq.com/s/KQiQ5vAXnNU647_FWoX64Q)
+- [(A Little) Clarity on Convalescent Plasma for Covid-19](https://www.nejm.org/doi/10.1056/NEJMe2035678)
+- [2020年生物制药领域交易一览 | BioPharma Dealmakers 2020年12月刊](https://mp.weixin.qq.com/s/ibLyI5GNkBaObO1SjYNfng)
+- [Biopharma deals of 2020 break through](https://www.nature.com/articles/d43747-020-01176-z)

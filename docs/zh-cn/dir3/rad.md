@@ -56,3 +56,5 @@
 - [COVID-19 Deterioration Prediction via Self-Supervised Representation Learning and Multi-Image Prediction](https://arxiv.org/abs/2101.04909)
 - [基于深度学习的新型冠状病毒肺炎诊断研究综述](https://mp.weixin.qq.com/s/Tu_l5aQLHjJUjPx5Gh2S3Q)
 - [深度学习在医学影像智能处理中的应用与挑战](https://mp.weixin.qq.com/s/m9NG4jc1b2epf4y_a5dYDw)
+- [共识声明：新冠病毒大流行期间，胸部影像学检查在患者管理中的作用](https://mp.weixin.qq.com/s/_dnPfORtQQF9ZOIcE8xDCw)
+- [The Role of Chest Imaging in Patient Management During the COVID-19 Pandemic: A Multinational Consensus Statement From the Fleischner Society](https://www.sciencedirect.com/science/article/pii/S0012369220306735)
