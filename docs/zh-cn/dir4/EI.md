@@ -155,3 +155,7 @@
 - [The impact of non-pharmaceutical interventions on the prevention and control of COVID-19 in New York City](https://aip.scitation.org/doi/10.1063/5.0040560)
 - [Mitigation Policies, Community Mobility, and COVID-19 Case Counts in Australia, Japan, Hong Kong, and Singapore](https://www.sciencedirect.com/science/article/pii/S0033350621000421)
 - [Optimal Lockdown Policy for Covid-19: A Modelling Study](https://arxiv.org/abs/2102.06070)
+- [黄波/赖圣杰等在Nature Human Behaviour发表新冠疫苗和非药物联合防控策略研究论文](https://mp.weixin.qq.com/s/07khx8FK7WLZdIxxIaWSQA)
+- [Integrated vaccination and physical distancinginterventions to prevent future COVID-19 waves in Chinese cities](https://www.nature.com/articles/s41562-021-01063-2)
+- [利用症状发生前后的传播高峰，用非药物干预的方法遏制COVID-19大流行 | 研究速览](https://mp.weixin.qq.com/s/JDt9JlkI1v9i0SgRpzBV1w)
+- [Harnessing peak transmission around symptom onset for non-pharmaceutical intervention and containment of the COVID-19 pandemic](https://www.nature.com/articles/s41467-021-21385-z)

@@ -1731,3 +1731,7 @@
 - [Effect of the COVID-19 lockdown on Physical Activity and Sedentary Behaviors in French Children and Adolescents: new results from the ONAPS national survey](https://www.sciencedirect.com/science/article/pii/S1876382021000263)
 - [The Immediate Impact of the Novel Coronavirus (COVID-19) Pandemic on Adolescents with Severe Obesity - Another Pandemic](https://asploro.com/wp-content/uploads/2021/01/The-Immediate-Impact-of-the-Novel-Coronavirus-COVID-19-Pandemic-on-Adolescents-with-Severe-Obesity-Another-Pandemic.pdf)
 - [Physical Activity Behavior Before, During, and After COVID-19 Restrictions: Longitudinal Smartphone-Tracking Study of Adults in the United Kingdom](https://www.jmir.org/2021/2/e23701/)
+- [防控新冠病毒新变异，公共卫生在行动！| Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/dVk0H-wIGbF2NjTSKziWJA)
+- [Public health actions to control new SARS-CoV-2 variants](https://www.cell.com/cell/fulltext/S0092-8674(21)00087-8#%20)
+- [【Applied Energy最新原创论文】对疫情期间美国大型电力系统和市场运营进行定量评估](https://mp.weixin.qq.com/s/U5_UpLFrQyQIyJVM9nAe1w)
+- [Quantitative assessment of U.S. bulk power systems and market operations during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S0306261920317347)

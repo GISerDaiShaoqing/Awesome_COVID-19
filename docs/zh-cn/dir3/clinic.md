@@ -1246,3 +1246,6 @@
 - [(A Little) Clarity on Convalescent Plasma for Covid-19](https://www.nejm.org/doi/10.1056/NEJMe2035678)
 - [2020年生物制药领域交易一览 | BioPharma Dealmakers 2020年12月刊](https://mp.weixin.qq.com/s/ibLyI5GNkBaObO1SjYNfng)
 - [Biopharma deals of 2020 break through](https://www.nature.com/articles/d43747-020-01176-z)
+- [重大发现！武汉大学徐可/蓝柯揭示流感病毒的感染，可增强新冠病毒的感染力](https://mp.weixin.qq.com/s/OXH5Gm8ERN1HPYEX7XWcOA)
+- [Coinfection with influenza A virus enhances SARS-CoV-2 infectivity](https://www.nature.com/articles/s41422-021-00473-1)
+- [Cell Res | 重大发现！武汉大学徐可/蓝柯揭示流感病毒的感染，可增强新冠病毒的感染力](https://mp.weixin.qq.com/s/ij7O2-2o-tAlA6mJ16V77w)

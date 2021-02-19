@@ -825,3 +825,8 @@
 - [英美变异新冠病毒首现合体！易传播且有抗药性！](https://mp.weixin.qq.com/s/-n-nhldEaZ2JV0KKRc_E9Q)
 - [备受争议！英国全球首个新冠病毒“人体挑战试验”已获道德认可](https://mp.weixin.qq.com/s/HTCoCFn0HHBtfGCFLfCR3Q)
 - [Local Transmission of SARS-CoV-2 Lineage B.1.1.7, Brazil, December 2020](https://wwwnc.cdc.gov/eid/article/27/3/21-0038_article)
+- [病毒学家: 新冠病毒的祖先在变异感染人类之前, 已潜伏在动物体内数百万年](https://mp.weixin.qq.com/s/SqGtOvIts-FOcJgpLVaK3Q)
+- [新冠肺炎单细胞研究中国联盟提供新冠免疫新认识 | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/hIR2D9TFPU4hVy0-e50hCA)
+- [COVID-19 immune features revealed by a large-scale single cell transcriptome atlas](https://www.cell.com/cell/fulltext/S0092-8674(21)00148-3)
+- [Science | 四川大学等多单位合作，杨胜勇/雷剑及/郑永勇发现了潜在的抗新冠病毒的化合物](https://mp.weixin.qq.com/s/jCI51intaJ_TJXmJ_V9EmQ)
+- [SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic mouse model](https://science.sciencemag.org/content/early/2021/02/17/science.abf1611)

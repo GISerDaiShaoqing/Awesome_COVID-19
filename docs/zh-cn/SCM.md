@@ -109,5 +109,6 @@
 - [场所营造︱有一种室外叫室内营造：冬季防疫，如何让室外就餐与室内就餐没区别](https://mp.weixin.qq.com/s/dkn0Pqg6I6OEnQa1G6vgvA)
 - [市长调研录︱疫情如何改变了他们的城市？](https://mp.weixin.qq.com/s/jaJghNF1DaopLj9b2gL7wA)
 - [后疫情时代 | 亚马逊第二总部 Helix 能否反映后疫情时代新的办公方式](https://mp.weixin.qq.com/s/aVBxXbn20qX_Q2X9H91c4Q)
+- [全球复苏进行时 | 绿色新基建：后疫情时代的就业引擎](https://mp.weixin.qq.com/s/DsgNeujaNZtCQMJrLON0nw)
 
 ![](/img/SCM.jpg)

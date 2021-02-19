@@ -640,3 +640,6 @@
 - [Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale field experiment in China](https://psyarxiv.com/q4gmv/)
 - [国际资讯 | [美]疫情下的“郊区化”/亚马逊第二总部开发计划(2021.2)](https://mp.weixin.qq.com/s/ELBw8F1b98hTAcVXpq0KKA)
 - [从生产能力到转产能力——基于对疫情期间中国转产情况的思考](https://mp.weixin.qq.com/s/jAOvLdGruZ7w8tSp5D5jGA)
+- [The future of work after COVID‑19](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Future%20of%20Organizations/The%20future%20of%20work%20after%20COVID%2019/The-future-of-work-after-COVID-19-Report.pdf?shouldIndex=false)
+- [Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities](https://www.mdpi.com/2624-6511/4/1/6)
+- [Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale field experiment in China](https://psyarxiv.com/q4gmv/)
