@@ -110,5 +110,6 @@
 - [市长调研录︱疫情如何改变了他们的城市？](https://mp.weixin.qq.com/s/jaJghNF1DaopLj9b2gL7wA)
 - [后疫情时代 | 亚马逊第二总部 Helix 能否反映后疫情时代新的办公方式](https://mp.weixin.qq.com/s/aVBxXbn20qX_Q2X9H91c4Q)
 - [全球复苏进行时 | 绿色新基建：后疫情时代的就业引擎](https://mp.weixin.qq.com/s/DsgNeujaNZtCQMJrLON0nw)
+- [回顾疫情下的2020年︱用意象地图描绘被疫情蹂躏的一年](https://mp.weixin.qq.com/s/-wIoXUsZhoc5zAgmpgjT1g)
 
 ![](/img/SCM.jpg)

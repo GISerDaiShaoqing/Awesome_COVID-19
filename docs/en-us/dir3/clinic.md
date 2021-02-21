@@ -1250,3 +1250,5 @@
 - [Coinfection with influenza A virus enhances SARS-CoV-2 infectivity](https://www.nature.com/articles/s41422-021-00473-1)
 - [Cell Res | 重大发现！武汉大学徐可/蓝柯揭示流感病毒的感染，可增强新冠病毒的感染力](https://mp.weixin.qq.com/s/ij7O2-2o-tAlA6mJ16V77w)
 - [Differences in Clinical Characteristics and Chest Images between Coronavirus Disease 2019 and Influenza-Associated Pneumonia](https://www.mdpi.com/2075-4418/11/2/261)
+- [NEJM：英国主动感染新冠病毒试验的科学意义和局限性](https://mp.weixin.qq.com/s/xqxQQWQm4z-SgZAz28Xq6w)
+- [Accelerating Development of SARS-CoV-2 Vaccines — The Role for Controlled Human Infection Models](https://www.nejm.org/doi/full/10.1056/NEJMp2020076)
