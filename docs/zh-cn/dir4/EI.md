@@ -159,3 +159,6 @@
 - [Integrated vaccination and physical distancinginterventions to prevent future COVID-19 waves in Chinese cities](https://www.nature.com/articles/s41562-021-01063-2)
 - [利用症状发生前后的传播高峰，用非药物干预的方法遏制COVID-19大流行 | 研究速览](https://mp.weixin.qq.com/s/JDt9JlkI1v9i0SgRpzBV1w)
 - [Harnessing peak transmission around symptom onset for non-pharmaceutical intervention and containment of the COVID-19 pandemic](https://www.nature.com/articles/s41467-021-21385-z)
+- [Nature子刊 | 赖圣杰等评估新冠疫苗接种和非药物措施联合防控效果](https://mp.weixin.qq.com/s/0bJAM36DXcEXpiw2lV37YA)
+- [Nature Human Behaviour：黄波/赖圣杰等在新冠疫苗接种和非药物联合防控策略研究取得重要进展](https://mp.weixin.qq.com/s/EC_RDaugETtcY38E-nRh4g)
+- [Dynamic Governance Decisions on Multi-modal Inter-city Travel during a Large-scale Epidemic Spreading](https://www.sciencedirect.com/science/article/pii/S0967070X21000147)

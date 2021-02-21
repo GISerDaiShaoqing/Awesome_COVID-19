@@ -643,3 +643,5 @@
 - [The future of work after COVID‑19](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Future%20of%20Organizations/The%20future%20of%20work%20after%20COVID%2019/The-future-of-work-after-COVID-19-Report.pdf?shouldIndex=false)
 - [Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities](https://www.mdpi.com/2624-6511/4/1/6)
 - [Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale field experiment in China](https://psyarxiv.com/q4gmv/)
+- [名家观点 | 杨勇：常态化疫情防控下旅游经济研究的新问题与新机遇](https://mp.weixin.qq.com/s/ees2YimVBdxw-h2Y5JF04g)
+- [What is essential travel? Socio-economic differences in travel demand during the COVID-19 lockdown](https://osf.io/qtkhb)

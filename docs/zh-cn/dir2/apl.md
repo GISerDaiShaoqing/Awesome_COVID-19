@@ -1513,3 +1513,4 @@
 - [使用空调前，这些事你该知道！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/xQA_FFOfDw2SiI35DtjJcQ)
 - [2月 18 日我国内地新增确诊病例 10 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/OYqADXPiT3tEfOLX67vmlQ)
 - [AGU 本周精选文章：印度板块与欧亚板块碰撞时间；北极臭氧消耗； 热木星的起源；新冠疫情对全球甲醛浓度的影响](https://mp.weixin.qq.com/s/dvTBAChN0E0GImHZtkBbyg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月19日）【中国科讯】](https://mp.weixin.qq.com/s/drR3v2qm26u4touN7CbucQ)

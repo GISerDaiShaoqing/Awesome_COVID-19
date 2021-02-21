@@ -470,3 +470,4 @@
 - [PNAS：新研究表明至少50%的SARS-CoV-2感染病例来自没有症状的人](https://mp.weixin.qq.com/s/ABcJw3eYR9IXpm_AyBqqJQ)
 - [Quantifying asymptomatic infection and transmission of COVID-19 in New York City using observed cases, serology, and testing capacity](https://www.pnas.org/content/118/9/e2019716118)
 - [At least 50% of COVID-19 infections come from people who aren't showing symptoms: study](https://medicalxpress.com/news/2021-02-covid-infections-people-symptoms.html)
+- [COVID-19 Pandemic Dynamics Mathematical Simulations](https://www.springer.com/gp/book/9789813364158)

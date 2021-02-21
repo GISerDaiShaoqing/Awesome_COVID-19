@@ -830,3 +830,8 @@
 - [COVID-19 immune features revealed by a large-scale single cell transcriptome atlas](https://www.cell.com/cell/fulltext/S0092-8674(21)00148-3)
 - [Science | 四川大学等多单位合作，杨胜勇/雷剑及/郑永勇发现了潜在的抗新冠病毒的化合物](https://mp.weixin.qq.com/s/jCI51intaJ_TJXmJ_V9EmQ)
 - [SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic mouse model](https://science.sciencemag.org/content/early/2021/02/17/science.abf1611)
+- [病毒快速检测和分析：探究基于石墨烯场效应的晶体管生物传感器的应用](https://mp.weixin.qq.com/s/VGP8fFd-Pz-V3tvsHFMOww)
+- [Carbon nanomaterials to combat virus: A perspective in view of COVID-19](https://www.sciencedirect.com/science/article/pii/S2667056920300195?via%3Dihub)
+- [Nature子刊 | 新发现！中山大学联合哥伦比亚大学团队绘制新冠病毒感染免疫反应肽全图谱，可用于新冠肺炎血清学筛查诊断](https://mp.weixin.qq.com/s/HhSSl1Sp7RKb3UhH5hvV0A)
+- [Immunoreactive peptide maps of SARS-CoV-2](https://www.nature.com/articles/s42003-021-01743-9)
+- [Thapsigargin Is a Broad-Spectrum Inhibitor of Major Human Respiratory Viruses: Coronavirus, Respiratory Syncytial Virus and Influenza A Virus](https://www.mdpi.com/1999-4915/13/2/234)

@@ -1249,3 +1249,4 @@
 - [重大发现！武汉大学徐可/蓝柯揭示流感病毒的感染，可增强新冠病毒的感染力](https://mp.weixin.qq.com/s/OXH5Gm8ERN1HPYEX7XWcOA)
 - [Coinfection with influenza A virus enhances SARS-CoV-2 infectivity](https://www.nature.com/articles/s41422-021-00473-1)
 - [Cell Res | 重大发现！武汉大学徐可/蓝柯揭示流感病毒的感染，可增强新冠病毒的感染力](https://mp.weixin.qq.com/s/ij7O2-2o-tAlA6mJ16V77w)
+- [Differences in Clinical Characteristics and Chest Images between Coronavirus Disease 2019 and Influenza-Associated Pneumonia](https://www.mdpi.com/2075-4418/11/2/261)
