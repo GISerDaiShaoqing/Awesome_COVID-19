@@ -1252,3 +1252,4 @@
 - [Differences in Clinical Characteristics and Chest Images between Coronavirus Disease 2019 and Influenza-Associated Pneumonia](https://www.mdpi.com/2075-4418/11/2/261)
 - [NEJM：英国主动感染新冠病毒试验的科学意义和局限性](https://mp.weixin.qq.com/s/xqxQQWQm4z-SgZAz28Xq6w)
 - [Accelerating Development of SARS-CoV-2 Vaccines — The Role for Controlled Human Infection Models](https://www.nejm.org/doi/full/10.1056/NEJMp2020076)
+- [故意让人感染新冠病毒，英国批准新冠挑战试验：这是疫苗研发的必需代价吗？](https://mp.weixin.qq.com/s/Jvpeqw0w2X8q07iStWGH1w)

@@ -1516,3 +1516,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月19日）【中国科讯】](https://mp.weixin.qq.com/s/drR3v2qm26u4touN7CbucQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月20日）【中国科讯】](https://mp.weixin.qq.com/s/yXK0F8bma2Yvb3Lcnfh24A)
 - [《科学》（20210219出版）一周论文导读](https://mp.weixin.qq.com/s/3Vkm1lF0TtYAKHl-owfCRA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月21日）【中国科讯】](https://mp.weixin.qq.com/s/hnYT5x8lb_qAmApna6htdA)
+- [复杂性科学论文推荐7篇 | Complexity Express一周精选2.15-2.21](https://mp.weixin.qq.com/s/j1FqZtSsUMnFUMInAfsU3g)
+- [2 月 21 日我国内地新增确诊病例 11 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/UsyTdXML2iVv1kdMatE8Ew)
+- [Science 一周论文导读｜2021年2月12日](https://mp.weixin.qq.com/s/0wW_0hFdAhnyonaNjF1DyA)
+- [Nature 一周论文导读｜2021年2月11日](https://mp.weixin.qq.com/s/rU_vTJiffGQkSybmWnJs7g)

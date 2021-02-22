@@ -1747,3 +1747,7 @@
 - [Impact of temperature and relative humidity on the transmission of COVID-19: a modelling study in China and the United States ](https://bmjopen.bmj.com/content/11/2/e043863)
 - [【Applied Energy最新原创论文】有关COVID-19限制能源消费的分散式回顾性分析](https://mp.weixin.qq.com/s/iTLDBjtZbW5h3caA-fZ8eg)
 - [A retrospective analysis of the impact of the COVID-19 restrictions on energy consumption at a disaggregated level](https://www.sciencedirect.com/science/article/pii/S0306261921000969)
+- [Assessing the recent impact of COVID-19 on carbon emissions from China using domestic economic data](https://www.sciencedirect.com/science/article/pii/S0048969720352177)
+- [SARS-CoV-2 European resurgence foretold: interplay of introductions and persistence by leveraging genomic and mobility data](https://www.researchsquare.com/article/rs-208849/v1)
+- [Perceived threat, negative emotions and self-efficacy in relation to mental health and personal protective behavior among 4,087 Chinese pregnant women during the COVID-19 period: Results from an online survey](https://preprints.jmir.org/preprint/24053/accepted)
+- [The new normal of social psychology in the face of the COVID‐19 pandemic: Insights and advice from leaders in the field](https://onlinelibrary.wiley.com/doi/10.1111/ajsp.12468)
