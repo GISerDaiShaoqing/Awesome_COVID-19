@@ -1521,3 +1521,6 @@
 - [2 月 21 日我国内地新增确诊病例 11 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/UsyTdXML2iVv1kdMatE8Ew)
 - [Science 一周论文导读｜2021年2月12日](https://mp.weixin.qq.com/s/0wW_0hFdAhnyonaNjF1DyA)
 - [Nature 一周论文导读｜2021年2月11日](https://mp.weixin.qq.com/s/rU_vTJiffGQkSybmWnJs7g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月22日）【中国科讯】](https://mp.weixin.qq.com/s/1Rlm3ERo19FevKdnmryLrw)
+- [中国第三款疫苗进入巴基斯坦，即将开展 III 期临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/OQsyufbmaMMHiRz8A42tHg)
+- [是病毒载量而非咳嗽，让人更具传染性 | 巨石阵来历 | 冰层下的生命 | 自然每周简报](https://mp.weixin.qq.com/s/SLFb3ut-6FU3oUMgYuE3LQ)

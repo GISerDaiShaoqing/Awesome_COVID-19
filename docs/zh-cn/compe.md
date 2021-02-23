@@ -27,3 +27,4 @@
 - [2020大学生开发竞赛特等奖，这个作品让人惊叹！](https://mp.weixin.qq.com/s/S0haEWAAhx43CJoUp-eNwQ)
 - [2020大学生开发竞赛作品赏析：武汉战疫中的政府措施](https://mp.weixin.qq.com/s/uu-KwiXHN_4C4-NTRZXdKA)
 - [2020地理设计组三等奖作品：基于新型冠状病毒肺炎(COVID-19)疫情数据的可变面元问题(MAUP)效应分析](https://mp.weixin.qq.com/s/Zr0uBSYmR9NCmHAfQ6fEiA)
+- [2020地理设计组三等奖：基于新型冠状病毒肺炎(COVID-19)疫情数据的可变面元问题(MAUP)效应分析](https://mp.weixin.qq.com/s/S2s_jlgNBZXgCWD0z4ImLA)

@@ -849,3 +849,4 @@
 - [Science首次确定新冠疫苗作用效力，结果惊人！](https://mp.weixin.qq.com/s/ajrfmLlqsb-U2cGdqNID9A)
 - [Immunological memory to SARS-CoV-2 assessed for up to 8 months after infection](https://science.sciencemag.org/content/371/6529/eabf4063)
 - [Science论文解读！通过鼻腔喷雾给送脂肽有望预防新冠病毒感染](https://mp.weixin.qq.com/s/2r2CHlbKKAcOB7B7bYq3EA)
+- [华西医学院Science：新型冠状病毒小分子抑制剂研究论文](https://mp.weixin.qq.com/s/Io3xDyjrbKsM8dycmy4JgQ)

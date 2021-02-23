@@ -1253,3 +1253,8 @@
 - [NEJM：英国主动感染新冠病毒试验的科学意义和局限性](https://mp.weixin.qq.com/s/xqxQQWQm4z-SgZAz28Xq6w)
 - [Accelerating Development of SARS-CoV-2 Vaccines — The Role for Controlled Human Infection Models](https://www.nejm.org/doi/full/10.1056/NEJMp2020076)
 - [故意让人感染新冠病毒，英国批准新冠挑战试验：这是疫苗研发的必需代价吗？](https://mp.weixin.qq.com/s/Jvpeqw0w2X8q07iStWGH1w)
+- [马斯克豁出4300员工，参与新冠研究，论文登上Nature子刊](https://mp.weixin.qq.com/s/7GPGxqMnEeuTYWPf8utpDw)
+- [Discrete SARS-CoV-2 antibody titers track with functional humoral stability](https://www.nature.com/articles/s41467-021-21336-8)
+- [华西医院唐向东教授团队：新冠疫苗接种当晚尤其需要充足睡眠](https://mp.weixin.qq.com/s/nNiwSpkWeSQx5_RryOa_MA)
+- [Advice for COVID-19 vaccination: get some sleep](https://link.springer.com/article/10.1007/s11325-021-02313-3)
+- [胸腺法新（Ta1）COVID-19年度研究精选](https://mp.weixin.qq.com/s/3RvZ-p5blvjauJVCgA84gA)
