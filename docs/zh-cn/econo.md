@@ -645,3 +645,4 @@
 - [Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale field experiment in China](https://psyarxiv.com/q4gmv/)
 - [名家观点 | 杨勇：常态化疫情防控下旅游经济研究的新问题与新机遇](https://mp.weixin.qq.com/s/ees2YimVBdxw-h2Y5JF04g)
 - [What is essential travel? Socio-economic differences in travel demand during the COVID-19 lockdown](https://osf.io/qtkhb)
+- [熊平：疫情催化IT在线教育崛起 打造2B+2C模式保持长期竞争力](https://mp.weixin.qq.com/s/yRfEwstRqhvRebT5gbOD_A)

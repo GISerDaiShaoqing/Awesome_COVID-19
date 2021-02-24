@@ -1524,3 +1524,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月22日）【中国科讯】](https://mp.weixin.qq.com/s/1Rlm3ERo19FevKdnmryLrw)
 - [中国第三款疫苗进入巴基斯坦，即将开展 III 期临床试验 | 科研圈日报](https://mp.weixin.qq.com/s/OQsyufbmaMMHiRz8A42tHg)
 - [是病毒载量而非咳嗽，让人更具传染性 | 巨石阵来历 | 冰层下的生命 | 自然每周简报](https://mp.weixin.qq.com/s/SLFb3ut-6FU3oUMgYuE3LQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月23日）【中国科讯】](https://mp.weixin.qq.com/s/q6BWTNMipeSQyJFpTLpT7w)
+- [美国或已出现更致命的新冠突变体 | 科研圈日报](https://mp.weixin.qq.com/s/GTJspJmSnlIys_FxRz7lSw)

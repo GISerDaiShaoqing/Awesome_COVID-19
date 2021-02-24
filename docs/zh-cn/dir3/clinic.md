@@ -1258,3 +1258,4 @@
 - [华西医院唐向东教授团队：新冠疫苗接种当晚尤其需要充足睡眠](https://mp.weixin.qq.com/s/nNiwSpkWeSQx5_RryOa_MA)
 - [Advice for COVID-19 vaccination: get some sleep](https://link.springer.com/article/10.1007/s11325-021-02313-3)
 - [胸腺法新（Ta1）COVID-19年度研究精选](https://mp.weixin.qq.com/s/3RvZ-p5blvjauJVCgA84gA)
+- [国药疫苗vs. 辉瑞疫苗，谁与争锋？](https://mp.weixin.qq.com/s/e44bUgdxyfBCm35kmGAHKQ)

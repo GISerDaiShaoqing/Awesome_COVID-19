@@ -1765,3 +1765,7 @@
 - [[译] 麦肯锡：在后疫情时代应对气候变化](https://mp.weixin.qq.com/s/YsfjX_hI-k83LjSlqSYAcw)
 - [Addressing climate change in a post-pandemic world](https://www.mckinsey.com/business-functions/sustainability/our-insights/addressing-climate-change-in-a-post-pandemic-world)
 - [发病率下降95.8%！首个靠疫苗遏制新冠的国家出现了？170万人次大数据出炉](https://mp.weixin.qq.com/s/xp62A8uK2jc6Rqn7zSZLew)
+- [《自然》：疫情导致2020年全球碳排放显著下降，但低于预期](https://mp.weixin.qq.com/s/wI_W6a55DuKimFpVdc0l9Q)
+- [发病率下降95.8%！170万人次大数据出炉：首个靠疫苗遏制新冠的国家出现了？](https://mp.weixin.qq.com/s/6BerQYNc8sxVGZ8HI2J6XQ)
+- [An updated systematic review on the association between atmospheric particulate matter pollution and prevalence of SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S0013935121001924?via%3Dihub)
+- [The impact of novel coronavirus (2019-nCoV) pandemic movement control order (MCO) on dengue cases in Peninsular Malaysia](https://www.sciencedirect.com/science/article/pii/S2352771421000124?via%3Dihub)
