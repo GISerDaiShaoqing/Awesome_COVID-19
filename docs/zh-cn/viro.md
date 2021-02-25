@@ -856,3 +856,6 @@
 - [Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine induced sera](https://www.sciencedirect.com/science/article/pii/S0092867421002269?via%3Dihub)
 - [RNA polymerase III is required for the repair of DNA double-strand breaks by homologous recombination](https://www.sciencedirect.com/science/article/pii/S009286742100091X)
 - [牛年红 | 中国学者连发4篇Cell，南华大学等单位首次发现部分新冠病毒变体对单克隆抗体具有耐受性](https://mp.weixin.qq.com/s/pkw5P66q_y4ejKyV6kKbbA)
+- [新冠病毒比SARS病毒更耐热抗寒！且与人类受体亲和力更高！](https://mp.weixin.qq.com/s/MQBol8ywi8UgX3n_h-wxqA)
+- [Comparison of the binding characteristics of SARS-CoV and SARS-CoV-2 RBDs to ACE2 at different temperatures by MD simulations](https://doi.org/10.1093/bib/bbab044)
+- [Will the emergent SARS‐CoV2 B.1.1.7 lineage affect molecular diagnosis of COVID‐19?](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26823)

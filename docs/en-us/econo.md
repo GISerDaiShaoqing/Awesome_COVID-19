@@ -646,3 +646,4 @@
 - [名家观点 | 杨勇：常态化疫情防控下旅游经济研究的新问题与新机遇](https://mp.weixin.qq.com/s/ees2YimVBdxw-h2Y5JF04g)
 - [What is essential travel? Socio-economic differences in travel demand during the COVID-19 lockdown](https://osf.io/qtkhb)
 - [熊平：疫情催化IT在线教育崛起 打造2B+2C模式保持长期竞争力](https://mp.weixin.qq.com/s/yRfEwstRqhvRebT5gbOD_A)
+- [On Hegemonic Narratives, and the Facts regarding China’s Response to COVID-19 Pandemic](https://www.tandfonline.com/doi/full/10.1080/21598282.2020.1866641)

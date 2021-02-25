@@ -1259,3 +1259,8 @@
 - [Advice for COVID-19 vaccination: get some sleep](https://link.springer.com/article/10.1007/s11325-021-02313-3)
 - [胸腺法新（Ta1）COVID-19年度研究精选](https://mp.weixin.qq.com/s/3RvZ-p5blvjauJVCgA84gA)
 - [国药疫苗vs. 辉瑞疫苗，谁与争锋？](https://mp.weixin.qq.com/s/e44bUgdxyfBCm35kmGAHKQ)
+- [NEJM发表mRNA新冠疫苗接种真实世界研究；效力与临床试验结果一致](https://mp.weixin.qq.com/s/CRf8yfSkLZYYclGqhqxLlw)
+- [BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting](https://www.nejm.org/doi/full/10.1056/NEJMoa2101765)
+- [牛津新冠疫苗试验最新分析：两剂间隔3个月接种比间隔6周效力更高](https://mp.weixin.qq.com/s/wjCoeTYTEYk8z6-ru4BhxQ)
+- [Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext)
+- [Rational Design of a Pan-Coronavirus Vaccine Based on Conserved CTL Epitopes](https://www.mdpi.com/1999-4915/13/2/333)

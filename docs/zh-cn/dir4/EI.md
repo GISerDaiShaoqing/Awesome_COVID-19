@@ -162,3 +162,5 @@
 - [Nature子刊 | 赖圣杰等评估新冠疫苗接种和非药物措施联合防控效果](https://mp.weixin.qq.com/s/0bJAM36DXcEXpiw2lV37YA)
 - [Nature Human Behaviour：黄波/赖圣杰等在新冠疫苗接种和非药物联合防控策略研究取得重要进展](https://mp.weixin.qq.com/s/EC_RDaugETtcY38E-nRh4g)
 - [Dynamic Governance Decisions on Multi-modal Inter-city Travel during a Large-scale Epidemic Spreading](https://www.sciencedirect.com/science/article/pii/S0967070X21000147)
+- [A cross-country core strategy comparison in China, Japan, Singapore and South Korea during the early COVID-19 pandemic](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-021-00672-w)
+- [Evaluating the Impact of Intervention Strategies on the First Wave and Predicting the Second Wave of COVID-19 in Thailand: A Mathematical Modeling Study](https://www.mdpi.com/2079-7737/10/2/80)

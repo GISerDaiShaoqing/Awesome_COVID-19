@@ -1526,3 +1526,5 @@
 - [是病毒载量而非咳嗽，让人更具传染性 | 巨石阵来历 | 冰层下的生命 | 自然每周简报](https://mp.weixin.qq.com/s/SLFb3ut-6FU3oUMgYuE3LQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月23日）【中国科讯】](https://mp.weixin.qq.com/s/q6BWTNMipeSQyJFpTLpT7w)
 - [美国或已出现更致命的新冠突变体 | 科研圈日报](https://mp.weixin.qq.com/s/GTJspJmSnlIys_FxRz7lSw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月24日）【中国科讯】](https://mp.weixin.qq.com/s/SqhYZqoJJqz_YoV-repMzQ)
+- [谷歌资助成立开放数据库，将追踪新冠病毒变异毒株和人群免疫力等信息｜科研圈日报](https://mp.weixin.qq.com/s/5DbqgquboZJtm9bWlXzjYQ)
