@@ -6556,3 +6556,4 @@
 - [荷兰性工作者周二示威，希望允许复工](https://mp.weixin.qq.com/s/zd8Nk04ykM7WH3UmYgttqw)
 - [荷兰餐饮业说将在下周二开放露台](https://mp.weixin.qq.com/s/BmfsqfWVf2br7DtZIkSrLg)
 - [疫情未消停，荷兰病毒感染数字上升，欧洲国家也一样](https://mp.weixin.qq.com/s/QbcRXN7uoNYVB9wlzo4GVg)
+- [“疫苗护照”已现雏形：多国在尝试](https://mp.weixin.qq.com/s/ZaiyKXGJAhBFhMoTnO3Jhg)
