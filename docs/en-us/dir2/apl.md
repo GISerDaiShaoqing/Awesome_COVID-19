@@ -1530,3 +1530,4 @@
 - [谷歌资助成立开放数据库，将追踪新冠病毒变异毒株和人群免疫力等信息｜科研圈日报](https://mp.weixin.qq.com/s/5DbqgquboZJtm9bWlXzjYQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月25日）【中国科讯】](https://mp.weixin.qq.com/s/1cReNg6G2mf7bBoodS82xw)
 - [陈薇团队疫苗获批上市，只需一次注射 | 科研圈日报](https://mp.weixin.qq.com/s/7In3Hit_CblJnOlQQKx3xA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月26日）【中国科讯】](https://mp.weixin.qq.com/s/2uOhMSN-hlskx1thlq770g)

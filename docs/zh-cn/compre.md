@@ -1781,3 +1781,5 @@
 - [Drivers for the poor air quality conditions in North China Plain during the COVID-19 outbreak](https://www.sciencedirect.com/science/article/pii/S1352231020308359?via%3Dihub)
 - [Response of major air pollutants to COVID-19 lockdowns in China](https://www.sciencedirect.com/science/article/pii/S0048969720344089?via%3Dihub)
 - [Multiplex network reconstruction for the coupled spatial diffusion of infodemic and pandemic of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.1888326)
+- [10个月超过87000篇！新冠相关论文井喷，整个科学史上前所未有](https://mp.weixin.qq.com/s/lMwKkjtUAV4qDl-9FDHsCg)
+- [Limited role for meteorological factors on the variability in COVID-19 incidence: A retrospective study of 102 Chinese cities](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009056)

@@ -164,3 +164,4 @@
 - [Dynamic Governance Decisions on Multi-modal Inter-city Travel during a Large-scale Epidemic Spreading](https://www.sciencedirect.com/science/article/pii/S0967070X21000147)
 - [A cross-country core strategy comparison in China, Japan, Singapore and South Korea during the early COVID-19 pandemic](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-021-00672-w)
 - [Evaluating the Impact of Intervention Strategies on the First Wave and Predicting the Second Wave of COVID-19 in Thailand: A Mathematical Modeling Study](https://www.mdpi.com/2079-7737/10/2/80)
+- [Assessing effects of reopening policies on COVID-19 pandemic in Texas with a data-driven transmission model](https://www.sciencedirect.com/science/article/pii/S2468042721000166)

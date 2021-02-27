@@ -94,3 +94,4 @@
 - [Special Focus：Impacts of COVID-19 on agriculture and rural poverty in China](https://www.sciencedirect.com/journal/journal-of-integrative-agriculture/vol/19/issue/12)
 - [MDPI Viruses | “SARS-CoV-2 and COVID-19”专题上线，聚焦人类与新冠病毒的对峙史](https://mp.weixin.qq.com/s/vbEwh3yd3IqRLwzJXRHGIQ)
 - [SARS-CoV-2 and COVID-19 | A section of Viruses](https://www.mdpi.com/journal/viruses/sections/SARS-CoV-2_and_COVID-19)
+- [SSCI专刊征稿：后疫情时代的城市](https://mp.weixin.qq.com/s/7KH1dgYE1I9MBxdJq_gjHg)
