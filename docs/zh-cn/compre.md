@@ -1778,3 +1778,6 @@
 - [A cooled city? Comparing human activity changes on the impact of urban thermal environment before and after city-wide lockdown](https://www.sciencedirect.com/science/article/pii/S0360132321001396?via%3Dihub)
 - [The effects of school closures on SARS-CoV-2 among parents and teachers](https://www.pnas.org/content/118/9/e2020834118)
 - [The past, present and future of digital contact tracing](https://www.nature.com/articles/s41928-020-00535-z)
+- [Drivers for the poor air quality conditions in North China Plain during the COVID-19 outbreak](https://www.sciencedirect.com/science/article/pii/S1352231020308359?via%3Dihub)
+- [Response of major air pollutants to COVID-19 lockdowns in China](https://www.sciencedirect.com/science/article/pii/S0048969720344089?via%3Dihub)
+- [Multiplex network reconstruction for the coupled spatial diffusion of infodemic and pandemic of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.1888326)

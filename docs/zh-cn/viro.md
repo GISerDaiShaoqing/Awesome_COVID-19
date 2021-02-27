@@ -859,3 +859,8 @@
 - [新冠病毒比SARS病毒更耐热抗寒！且与人类受体亲和力更高！](https://mp.weixin.qq.com/s/MQBol8ywi8UgX3n_h-wxqA)
 - [Comparison of the binding characteristics of SARS-CoV and SARS-CoV-2 RBDs to ACE2 at different temperatures by MD simulations](https://doi.org/10.1093/bib/bbab044)
 - [Will the emergent SARS‐CoV2 B.1.1.7 lineage affect molecular diagnosis of COVID‐19?](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26823)
+- [Cell | 史佩勇课题组报道一种安全高效的用于新冠病毒药物筛选和疫苗评估的新手段](https://mp.weixin.qq.com/s/rP1bw1969hTALx6NnA_7zQ)
+- [A trans-complementation system for SARS-CoV-2 recapitulates authentic viral replication without virulence](https://www.cell.com/cell/fulltext/S0092-8674(21)00233-6)
+- [《自然》：两款mRNA疫苗对新冠病毒变异株效力稍降](https://mp.weixin.qq.com/s/AnU4kl2nz6DAq3zfE1_RKQ)
+- [​2020诺奖得主助力新冠研究，CRISPR技术揭示冠状病毒共同弱点！](https://mp.weixin.qq.com/s/ejuUVxFb2U8xn1T59bGj7A)
+- [Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors](https://www.cell.com/action/showPdf?pii=S1931-3128%2820%2930671-5)

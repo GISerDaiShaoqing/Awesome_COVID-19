@@ -481,3 +481,5 @@
 - [Estimating the time interval between transmission generations and the presymptomatic period by contact tracing surveillance data from 31 provinces in the mainland of China](https://www.sciencedirect.com/science/article/pii/S2667325821000273)
 - [疫苗怎么分？问问流行病学模型吧](https://mp.weixin.qq.com/s/INTGA7P275HJe1CGEK9a2Q)
 - [A Bayesian Mixture Model for Predicting the COVID-19 Pandemic in the United States](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1147/article-10.4269-ajtmh.20-1147.xml)
+- [27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构](https://mp.weixin.qq.com/s/a1904qPLJEZuW_izc9-dgQ)
+- [流行病学模型不准？误会了](https://mp.weixin.qq.com/s/SGA_UEeLkpPdEjmU1I2w8A)

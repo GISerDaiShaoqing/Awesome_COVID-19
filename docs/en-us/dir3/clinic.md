@@ -1264,3 +1264,5 @@
 - [牛津新冠疫苗试验最新分析：两剂间隔3个月接种比间隔6周效力更高](https://mp.weixin.qq.com/s/wjCoeTYTEYk8z6-ru4BhxQ)
 - [Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext)
 - [Rational Design of a Pan-Coronavirus Vaccine Based on Conserved CTL Epitopes](https://www.mdpi.com/1999-4915/13/2/333)
+- [NC|黄忠/丛尧/谢幼华/邓强成功研发针对新冠病毒的中和抗体鸡尾酒疗法](https://mp.weixin.qq.com/s/GYe2qM-aumW3uQM_ruC_bA)
+- [Development and structural basis of a two-MAb cocktail for treating SARS-CoV-2 infections](https://www.nature.com/articles/s41467-020-20465-w)
