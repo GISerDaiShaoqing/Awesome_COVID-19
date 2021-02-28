@@ -1783,3 +1783,6 @@
 - [Multiplex network reconstruction for the coupled spatial diffusion of infodemic and pandemic of COVID-19](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.1888326)
 - [10个月超过87000篇！新冠相关论文井喷，整个科学史上前所未有](https://mp.weixin.qq.com/s/lMwKkjtUAV4qDl-9FDHsCg)
 - [Limited role for meteorological factors on the variability in COVID-19 incidence: A retrospective study of 102 Chinese cities](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009056)
+- [CTM｜姜世勃建议在中/高风险区开展新冠疫苗环形免疫接种](https://mp.weixin.qq.com/s/E_wIEDP-Hghoy3pdq5s2Xw)
+- [Ring vaccination of COVID-19 vaccines in medium- and high-risk areas ofcountries with low incidence of SARS-CoV-2 infection](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.331)
+- [Reply to: Observed impacts of the COVID-19 pandemic on global trade](https://www.nature.com/articles/s41562-021-01061-4)

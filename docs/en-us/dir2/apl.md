@@ -1531,3 +1531,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月25日）【中国科讯】](https://mp.weixin.qq.com/s/1cReNg6G2mf7bBoodS82xw)
 - [陈薇团队疫苗获批上市，只需一次注射 | 科研圈日报](https://mp.weixin.qq.com/s/7In3Hit_CblJnOlQQKx3xA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（2月26日）【中国科讯】](https://mp.weixin.qq.com/s/2uOhMSN-hlskx1thlq770g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（2月27日）【中国科讯】](https://mp.weixin.qq.com/s/FAxIZRIcEUHDjAGzNEJhMg)
+- [美国正式重返《巴黎协定》；新冠疫苗在英国显著起效 等｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/473WqPGptwAm-r21lHwCFQ)
