@@ -1786,3 +1786,6 @@
 - [CTM｜姜世勃建议在中/高风险区开展新冠疫苗环形免疫接种](https://mp.weixin.qq.com/s/E_wIEDP-Hghoy3pdq5s2Xw)
 - [Ring vaccination of COVID-19 vaccines in medium- and high-risk areas ofcountries with low incidence of SARS-CoV-2 infection](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.331)
 - [Reply to: Observed impacts of the COVID-19 pandemic on global trade](https://www.nature.com/articles/s41562-021-01061-4)
+- [新冠疫苗能阻断病毒传播吗？](https://mp.weixin.qq.com/s/lINI2jTxtyI_xxl59CRZNg)
+- [Can COVID vaccines stop transmission? Scientists race to find answers](https://www.nature.com/articles/d41586-021-00450-z)
+- [Green space mitigates racial disparity of health: A higher ratio of green spaces indicates a lower racial disparity in SARS-CoV-2 infection rates in the USA](https://www.sciencedirect.com/science/article/pii/S0160412021000908?via%3Dihub)

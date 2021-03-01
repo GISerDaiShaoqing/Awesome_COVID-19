@@ -649,3 +649,5 @@
 - [On Hegemonic Narratives, and the Facts regarding China’s Response to COVID-19 Pandemic](https://www.tandfonline.com/doi/full/10.1080/21598282.2020.1866641)
 - [疫中行纪—2020二三事](https://mp.weixin.qq.com/s/WxGL_WGqj9eY5_JDIZLXMw)
 - [国际资讯 | [加]疫情下“复苏主街”的实践与反思/疫情对老年人长期照护机构影响的国际比较(2021.2)](https://mp.weixin.qq.com/s/W5cbolR59bnN91GT7RhDPQ)
+- [不求成为人上人了，打工人只想存活在疫情下](https://mp.weixin.qq.com/s/v_-h2YDqE6k0gOXPeRb6bQ)
+- [全球城市观察｜疫情下，人们对公共空间有了更高的期待](https://mp.weixin.qq.com/s/8vS23RAZpF5KZ1wIF8BqkQ)

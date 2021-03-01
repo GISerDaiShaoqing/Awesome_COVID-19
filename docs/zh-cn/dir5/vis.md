@@ -246,3 +246,4 @@
 - [吉林省每日疫情的地图解读（2021年2月1日）](https://mp.weixin.qq.com/s/6ldR8SK9_8R4oKayxVclaA)
 - [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)
 - [A power-law-based approach to mapping COVID-19 cases in the United States ](https://www.researchgate.net/publication/349396425_A_power-law-based_approach_to_mapping_COVID-19_cases_in_the_United_States_REPRINT)
+- [Eyes on RT-PCR tests with echarts and french open data -- COVID-19](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)

@@ -866,3 +866,5 @@
 - [Functional interrogation of a SARS-CoV-2 host protein interactome identifies unique and shared coronavirus host factors](https://www.cell.com/action/showPdf?pii=S1931-3128%2820%2930671-5)
 - [反常！美国一名婴儿体内检测出新的变异毒株，病毒载量超其他患者51000倍](https://mp.weixin.qq.com/s/WHZ7lQYROIf0WkXSKJrNAA)
 - [A Baby Sick With COVID-19 in Washington Had 51,000 Times More Viral Particles](https://www.sciencealert.com/baby-sick-with-covid-variant-found-with-51-000-times-the-number-of-virus-particles)
+- [Med述评：新冠病毒中和抗体在患者感染6个月后仍稳定存在 | Cell Press论文速递](https://mp.weixin.qq.com/s/kTH5TRx8fbGlksn8P-9TYQ)
+- [Stable neutralizing antibody levels 6 months after mild and severe COVID-19 episodes](https://www.cell.com/med/fulltext/S2666-6340(21)00035-0)
