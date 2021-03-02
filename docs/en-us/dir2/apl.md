@@ -1539,3 +1539,6 @@
 - [中疾控和牛津大学联合报告：中国疫情防控期间武汉以外地区实际死亡率降低｜科研圈日报](https://mp.weixin.qq.com/s/fwwkPpOvHN7uM2sQceSLBQ)
 - [Science 一周论文导读｜2021年2月19日](https://mp.weixin.qq.com/s/4193FEVANUEoFXIFw700cw)
 - [统计月读（2021年2月）](https://mp.weixin.qq.com/s/Uep4DfyVIfGdsFOvuaqajA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月1日）【中国科讯】](https://mp.weixin.qq.com/s/ApZn0pNuxdZGrHSIpmC0ig)
+- [【视频】青少年开学复课要知道的那些事儿~](https://mp.weixin.qq.com/s/2e7xcuzpIg3JMaMhv4UNtw)
+- [3 月 1 日我国内地新增确诊病例 11 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/6F3E8s46Lu6j_rpZDPsoJg)

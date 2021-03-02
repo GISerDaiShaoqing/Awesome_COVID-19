@@ -1273,3 +1273,6 @@
 - [国内首个单针接种新冠疫苗有效性如何？白岩松专访陈薇](https://mp.weixin.qq.com/s/vNyRcZyzBnH-UzBcWIIO1A)
 - [陈薇院士专访：中国疫苗研发位于世界第一方阵，毋庸置疑](https://mp.weixin.qq.com/s/NDkIY-nwz0fssDnwH2vMfA)
 - [国内首个单针接种的新冠疫苗来了！安全性、有效性如何？陈薇院士这样说](https://mp.weixin.qq.com/s/hkt1t1jrhhTAncZlfYkc8A)
+- [焦点：超6万名已注射新冠疫苗的副作用追踪](https://mp.weixin.qq.com/s/j-gtwSet9GC8l-p1N6cNsA)
+- [Changes in SARS CoV-2 Seroprevalence Over Time in Ten Sites in the United States, March – August, 2020 ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab185/6152134)
+- [How to test SARS-CoV-2 vaccines ethically even after one is available](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab182/6152007)

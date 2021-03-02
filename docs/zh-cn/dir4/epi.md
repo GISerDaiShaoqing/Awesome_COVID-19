@@ -491,3 +491,4 @@
 - [SARS-CoV-2 infections in children following the full re-opening of schools and the impact of national lockdown: prospective, national observational cohort surveillance, July-December 2020, England](https://www.journalofinfection.com/article/S0163-4453(21)00093-1/fulltext)
 - [Generalised SEIR modelling of the COVID-19 pandemic course: data quality issues and structural analysis](https://www.researchsquare.com/article/rs-249261/v1)
 - [Comparison of SARS-CoV-2 infections in healthcare workers with high and low exposures to Covid-19 patients in a Norwegian University Hospital](https://www.tandfonline.com/doi/full/10.1080/23744235.2021.1885734)
+- [Estimating the time interval between transmission generations and the presymptomatic period by contact tracing surveillance data from 31 provinces in the mainland of China](https://www.sciencedirect.com/science/article/pii/S2667325821000273)
