@@ -153,3 +153,5 @@
 - [今天，钟南山做出最新判断！](https://mp.weixin.qq.com/s/v9NlN3xMfgXP7NyDBGDK1w)
 - [如何用一个手机应用作好春节防疫？](https://mp.weixin.qq.com/s/7GRfONCEfyr23fEDuMVKCQ)
 - [COVID-19 MODULE IN SRWE SYSTEM – APPLICATION AND USE IN EPIDEMIOLOGICAL SURVEILLANCE AND REPORTING TO INTERNATIONAL INSTITUTIONS](http://www.przeglepidemiol.pzh.gov.pl/files/peissues/PE_nr_3_2020__calosc.pdf#page=28)
+- [北航常凌乾等研发一款新冠病毒即时快速便携式检测平台｜Research](https://mp.weixin.qq.com/s/wyCK2yOKGPO_KtBH2d2CgQ)
+- [Low-cost and Scalable Platform with Multiplexed Microwell Array Biochip for Rapid Diagnosis of COVID-19](https://downloads.spj.sciencemag.org/research/aip/2813643.pdf )

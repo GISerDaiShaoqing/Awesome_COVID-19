@@ -1276,3 +1276,5 @@
 - [焦点：超6万名已注射新冠疫苗的副作用追踪](https://mp.weixin.qq.com/s/j-gtwSet9GC8l-p1N6cNsA)
 - [Changes in SARS CoV-2 Seroprevalence Over Time in Ten Sites in the United States, March – August, 2020 ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab185/6152134)
 - [How to test SARS-CoV-2 vaccines ethically even after one is available](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab182/6152007)
+- [香港大学重磅：新冠疫苗作用被高估，无法抑制病毒在上呼吸道的侵染](https://mp.weixin.qq.com/s/a8bhvgHAUAiBeRYRHrtPAg)
+- [Robust SARS-CoV-2 infection in nasal turbinates after treatment with systemic neutralizing antibodies](https://doi.org/10.1016/j.chom.2021.02.019)

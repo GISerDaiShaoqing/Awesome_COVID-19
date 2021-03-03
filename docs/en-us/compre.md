@@ -1799,3 +1799,7 @@
 - [Impact of COVID-19 lockdown on body weight, eating habits and physical activity of Jordanian children and adolescents](https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/impact-of-covid19-lockdown-on-body-weight-eating-habits-and-physical-activity-of-jordanian-children-and-adolescents/6AF3F7BC1DCE0133ABDFCB177F6BC63F)
 - [Physical activity behaviour and screen time in Dutch children during the COVID‐19 pandemic: Pre‐, during‐ and post‐school closures](https://onlinelibrary.wiley.com/doi/10.1111/ijpo.12779)
 - [A plasmid DNA-launched SARS-CoV-2 reverse genetics system and coronavirus toolkit for COVID-19 research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001091)
+- [为什么新冠疫苗很难比较？](https://mp.weixin.qq.com/s/0CH0MMnJdDGVJNI-Y91GcQ)
+- [清华大学、中国医学科学院合作解析新冠病毒RNA基因组结构， 并通过人工智能方法发现治疗新冠肺炎有效药物](https://mp.weixin.qq.com/s/Rh84YiKsJQ9mKfkxFtRpoQ)
+- [In vivo structural characterization of the SARS-CoV-2 RNA genome identifies host proteins vulnerable to repurposed drugs](https://www.cell.com/cell/fulltext/S0092-8674(21)00158-6)
+- [Predicting dynamic cellular protein–RNA interactions by deep learning using in vivo RNA structures](https://doi.org/10.1038/s41422-41021-00476-y)

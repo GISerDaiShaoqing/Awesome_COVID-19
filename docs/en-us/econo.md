@@ -652,3 +652,4 @@
 - [不求成为人上人了，打工人只想存活在疫情下](https://mp.weixin.qq.com/s/v_-h2YDqE6k0gOXPeRb6bQ)
 - [全球城市观察｜疫情下，人们对公共空间有了更高的期待](https://mp.weixin.qq.com/s/8vS23RAZpF5KZ1wIF8BqkQ)
 - [全球抗疫观｜在新冠密接的阴影下，有惊无险地跨年](https://mp.weixin.qq.com/s/LiQyM_0HJDQxOqYhLyl51Q)
+- [全球抗疫观｜加拿大小城哈利法克斯滞留记：抗疫的三字诀](https://mp.weixin.qq.com/s/KPsIGpCYpvSCgfopNpNlgA)
