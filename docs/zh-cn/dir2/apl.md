@@ -1545,3 +1545,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月2日）【中国科讯】](https://mp.weixin.qq.com/s/F3KqT7lCJTjuQKelUYbHMw)
 - [24小时热门｜中疾控和牛津大学联合报告：中国疫情防控期间武汉以外地区实际死亡率降低](https://mp.weixin.qq.com/s/NTYRS-9DbgT9-YCy0Jc5yQ)
 - [3 月 2 日我国内地新增确诊病例 10 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/2VcikbgUmA22wPJPdDkzsA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月3日）【中国科讯】](https://mp.weixin.qq.com/s/2xn2hSyA6SM4GzNA4_b9tg)
+- [74% 的科学家希望疫情后仍举办线上学术会议｜科研圈日报](https://mp.weixin.qq.com/s/cWFeXEUhu5irFxkRzPVqqA)

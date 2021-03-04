@@ -1278,3 +1278,7 @@
 - [How to test SARS-CoV-2 vaccines ethically even after one is available](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab182/6152007)
 - [香港大学重磅：新冠疫苗作用被高估，无法抑制病毒在上呼吸道的侵染](https://mp.weixin.qq.com/s/a8bhvgHAUAiBeRYRHrtPAg)
 - [Robust SARS-CoV-2 infection in nasal turbinates after treatment with systemic neutralizing antibodies](https://doi.org/10.1016/j.chom.2021.02.019)
+- [高福领衔研发疫苗在乌兹别克斯坦被批准紧急使用](https://mp.weixin.qq.com/s/ug4Vp9FaMNFG9rt92UiTJA)
+- [Cell：入院第17-23天是新冠病情严重程度的“分水岭” | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/hhDbge-753jsdYOBqdhS4w)
+- [Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19](http://cell.com/cell/fulltext/S0092-8674(21)00168-9)
+- [Treatment of influenza and SARS-CoV-2 infections via mRNA-encoded Cas13a in rodents](https://www.nature.com/articles/s41587-021-00822-w)
