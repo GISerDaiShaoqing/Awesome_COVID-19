@@ -1282,3 +1282,5 @@
 - [Cell：入院第17-23天是新冠病情严重程度的“分水岭” | Cell Press新冠中心论文速递](https://mp.weixin.qq.com/s/hhDbge-753jsdYOBqdhS4w)
 - [Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19](http://cell.com/cell/fulltext/S0092-8674(21)00168-9)
 - [Treatment of influenza and SARS-CoV-2 infections via mRNA-encoded Cas13a in rodents](https://www.nature.com/articles/s41587-021-00822-w)
+- [MDPI Vaccines | 新冠之役——关于细胞免疫接种预防呼吸道病毒的思考](https://mp.weixin.qq.com/s/5DHRr2wSY40jSIMQMrQW7g)
+- [Harnessing Cellular Immunity for Vaccination against Respiratory Viruses](https://www.mdpi.com/2076-393X/8/4/783)

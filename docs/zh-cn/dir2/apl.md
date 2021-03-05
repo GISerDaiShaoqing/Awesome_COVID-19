@@ -1547,3 +1547,5 @@
 - [3 月 2 日我国内地新增确诊病例 10 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/2VcikbgUmA22wPJPdDkzsA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月3日）【中国科讯】](https://mp.weixin.qq.com/s/2xn2hSyA6SM4GzNA4_b9tg)
 - [74% 的科学家希望疫情后仍举办线上学术会议｜科研圈日报](https://mp.weixin.qq.com/s/cWFeXEUhu5irFxkRzPVqqA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月4日）【中国科讯】](https://mp.weixin.qq.com/s/QbzbPgbs9zIFHsODtK4kAw)
+- [首批非人灵长动物接受实验性新冠疫苗注射 | 科研圈日报](https://mp.weixin.qq.com/s/upHXU5xwww1PCig-8OV_3g)
