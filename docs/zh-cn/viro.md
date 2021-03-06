@@ -874,3 +874,7 @@
 - [Broad and potent activity against SARS-like viruses by an engineered human monoclonal antibody](https://science.sciencemag.org/content/371/6531/823)
 - [感染数月后B细胞仍可对抗SARS-CoV-2，但衍生抗体无法识别巴西和南非突变变体｜Science新冠专题](https://mp.weixin.qq.com/s/vsnOXR-rhanvyE4xX-yqYQ)
 - [Prolonged evolution of the human B cell response to SARS-CoV-2 infection](https://immunology.sciencemag.org/content/6/56/eabg6916)
+- [多能干细胞和类器官在新冠中的应用](https://mp.weixin.qq.com/s/rT26ecjoWD81kkiSu26cEA)
+- [PNAS | 丁强/张荣/袁正宏团队揭示了新冠病毒广泛的潜在宿主范围](https://mp.weixin.qq.com/s/jOBJgLg4rwbt2ZGS6usR2A)
+- [Functional and genetic analysis of viral receptor ACE2 orthologs reveals a broad potential host range of SARS-CoV-2](https://www.pnas.org/content/118/12/e2025373118)
+- [现有疫苗全部无效！尼日利亚变种病毒成迄今最恐怖突变？](https://mp.weixin.qq.com/s/GWHho_HJNAAu-MlbNFTxww)

@@ -1284,3 +1284,4 @@
 - [Treatment of influenza and SARS-CoV-2 infections via mRNA-encoded Cas13a in rodents](https://www.nature.com/articles/s41587-021-00822-w)
 - [MDPI Vaccines | 新冠之役——关于细胞免疫接种预防呼吸道病毒的思考](https://mp.weixin.qq.com/s/5DHRr2wSY40jSIMQMrQW7g)
 - [Harnessing Cellular Immunity for Vaccination against Respiratory Viruses](https://www.mdpi.com/2076-393X/8/4/783)
+- [重磅！陈薇、钟南山团队传来最新消息！](https://mp.weixin.qq.com/s/K00zsofGzFJ5WiEYmlj8GA)

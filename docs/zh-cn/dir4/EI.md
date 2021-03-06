@@ -165,3 +165,6 @@
 - [A cross-country core strategy comparison in China, Japan, Singapore and South Korea during the early COVID-19 pandemic](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-021-00672-w)
 - [Evaluating the Impact of Intervention Strategies on the First Wave and Predicting the Second Wave of COVID-19 in Thailand: A Mathematical Modeling Study](https://www.mdpi.com/2079-7737/10/2/80)
 - [Assessing effects of reopening policies on COVID-19 pandemic in Texas with a data-driven transmission model](https://www.sciencedirect.com/science/article/pii/S2468042721000166)
+- [The effects of different travel modes on COVID-19 transmission in global cities](https://www.researchsquare.com/article/rs-245214/v1)
+- [Transportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
+- [Evaluating the contributions of strategies to prevent SARS-CoV-2 transmission in the healthcare setting: a modelling study](https://bmjopen.bmj.com/content/11/3/e044644)

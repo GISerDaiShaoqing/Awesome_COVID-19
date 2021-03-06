@@ -1815,3 +1815,5 @@
 - [“保持群体中的交往距离”是大自然对传染病做出的自然反应｜Science一周精选](https://mp.weixin.qq.com/s/67btfXZGrxHwGVomW2FPRw)
 - [Infectious diseases and social distancing in nature](https://science.sciencemag.org/content/371/6533/eabc8881)
 - [Impact of COVID-19 on Colorectal Cancer Screening: evidence and recommendations](https://www.researchgate.net/publication/349812376_Impact_of_COVID-19_on_Colorectal_Cancer_Screening_evidence_and_recommendations)
+- [Functional and genetic analysis of viral receptor ACE2 orthologs reveals a broad potential host range of SARS-CoV-2](https://www.pnas.org/content/118/12/e2025373118)
+- [Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination](https://dash.harvard.edu/handle/1/37366988)

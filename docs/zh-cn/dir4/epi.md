@@ -493,3 +493,5 @@
 - [Comparison of SARS-CoV-2 infections in healthcare workers with high and low exposures to Covid-19 patients in a Norwegian University Hospital](https://www.tandfonline.com/doi/full/10.1080/23744235.2021.1885734)
 - [Estimating the time interval between transmission generations and the presymptomatic period by contact tracing surveillance data from 31 provinces in the mainland of China](https://www.sciencedirect.com/science/article/pii/S2667325821000273)
 - [Variation in human mobility and its impact on the risk of future COVID-19 outbreaks in Taiwan](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10260-7)
+- [Reconstruction of the transmission dynamics of the first COVID-19 epidemic wave in Thailand](https://assets.researchsquare.com/files/rs-253746/v1_stamped.pdf)
+- [A Bayesian Mixture Model for Predicting the COVID-19 Pandemic in the United States](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1147/article-10.4269-ajtmh.20-1147.xml)
