@@ -1817,3 +1817,4 @@
 - [Impact of COVID-19 on Colorectal Cancer Screening: evidence and recommendations](https://www.researchgate.net/publication/349812376_Impact_of_COVID-19_on_Colorectal_Cancer_Screening_evidence_and_recommendations)
 - [Functional and genetic analysis of viral receptor ACE2 orthologs reveals a broad potential host range of SARS-CoV-2](https://www.pnas.org/content/118/12/e2025373118)
 - [Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination](https://dash.harvard.edu/handle/1/37366988)
+- [基于突发疫情的医疗废物技术管理体系建设](https://mp.weixin.qq.com/s/ieLvWhN83EYhdbWYS4n_2g)

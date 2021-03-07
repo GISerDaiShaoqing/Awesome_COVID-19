@@ -1550,3 +1550,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月4日）【中国科讯】](https://mp.weixin.qq.com/s/QbzbPgbs9zIFHsODtK4kAw)
 - [首批非人灵长动物接受实验性新冠疫苗注射 | 科研圈日报](https://mp.weixin.qq.com/s/upHXU5xwww1PCig-8OV_3g)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月5日）【中国科讯】](https://mp.weixin.qq.com/s/tq4NAJCJ8HtWAoVWMZGTgA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月6日）【中国科讯】](https://mp.weixin.qq.com/s/XbEL0U_Una8DG8zBXL2Jaw)
+- [数据驱动的复杂网络控制方法 | 复杂性科学顶刊精选8篇](https://mp.weixin.qq.com/s/o5biQrWwC0anoado-zkMfQ)
