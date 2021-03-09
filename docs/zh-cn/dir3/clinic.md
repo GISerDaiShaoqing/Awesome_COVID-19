@@ -1285,3 +1285,5 @@
 - [MDPI Vaccines | 新冠之役——关于细胞免疫接种预防呼吸道病毒的思考](https://mp.weixin.qq.com/s/5DHRr2wSY40jSIMQMrQW7g)
 - [Harnessing Cellular Immunity for Vaccination against Respiratory Viruses](https://www.mdpi.com/2076-393X/8/4/783)
 - [重磅！陈薇、钟南山团队传来最新消息！](https://mp.weixin.qq.com/s/K00zsofGzFJ5WiEYmlj8GA)
+- [黄爱龙教授团队发现新冠病毒变异株降低中和抗体敏感性](https://mp.weixin.qq.com/s/4wsEKp5qfaBeG3CyoVQEfw)
+- [Emerging SARS-CoV-2 variants reduce neutralization sensitivity to convalescent sera and monoclonal antibodies](https://www.nature.com/articles/s41423-021-00648-1)

@@ -1818,3 +1818,4 @@
 - [Functional and genetic analysis of viral receptor ACE2 orthologs reveals a broad potential host range of SARS-CoV-2](https://www.pnas.org/content/118/12/e2025373118)
 - [Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination](https://dash.harvard.edu/handle/1/37366988)
 - [基于突发疫情的医疗废物技术管理体系建设](https://mp.weixin.qq.com/s/ieLvWhN83EYhdbWYS4n_2g)
+- [论文推荐 | 郭迟等：面向重大公共卫生事件的位置服务技术——以COVID-19疫情为例](https://mp.weixin.qq.com/s/9CX9Gm726mUKsyg9JJOnnw)

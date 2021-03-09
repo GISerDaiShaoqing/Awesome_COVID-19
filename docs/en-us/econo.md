@@ -653,3 +653,4 @@
 - [全球城市观察｜疫情下，人们对公共空间有了更高的期待](https://mp.weixin.qq.com/s/8vS23RAZpF5KZ1wIF8BqkQ)
 - [全球抗疫观｜在新冠密接的阴影下，有惊无险地跨年](https://mp.weixin.qq.com/s/LiQyM_0HJDQxOqYhLyl51Q)
 - [全球抗疫观｜加拿大小城哈利法克斯滞留记：抗疫的三字诀](https://mp.weixin.qq.com/s/KPsIGpCYpvSCgfopNpNlgA)
+- [国际资讯 | [德]“后新冠城市”联邦竞赛/《挪用居住空间的禁令》再次修订(2021.3)](https://mp.weixin.qq.com/s/01yHxaO-FXCn_Cm1Ac3IdA)

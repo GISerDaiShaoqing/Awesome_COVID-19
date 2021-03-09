@@ -878,3 +878,6 @@
 - [PNAS | 丁强/张荣/袁正宏团队揭示了新冠病毒广泛的潜在宿主范围](https://mp.weixin.qq.com/s/jOBJgLg4rwbt2ZGS6usR2A)
 - [Functional and genetic analysis of viral receptor ACE2 orthologs reveals a broad potential host range of SARS-CoV-2](https://www.pnas.org/content/118/12/e2025373118)
 - [现有疫苗全部无效！尼日利亚变种病毒成迄今最恐怖突变？](https://mp.weixin.qq.com/s/GWHho_HJNAAu-MlbNFTxww)
+- [Nature子刊 | 百年老药苏拉明可有效抑制新冠病毒，徐华强/张抒扬/余学奎/张磊砢合作解析新冠病毒复制酶与苏拉明复合物结构](https://mp.weixin.qq.com/s/knmOf3sm19-KuncAckGa9Q)
+- [Structural basis for inhibition of the SARS-CoV-2 RNA polymerase by suramin](https://www.nature.com/articles/s41594-021-00570-0)
+- [Nature子刊 | 百年老药苏拉明可有效抑制新冠病毒，徐华强/张抒扬/余学奎/张磊砢合作解析新冠病毒复制酶与苏拉明复合物结构](https://mp.weixin.qq.com/s/bxxG10XgbhxXELNW3kNp6w)
