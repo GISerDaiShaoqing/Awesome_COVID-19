@@ -1559,3 +1559,5 @@
 - [24小时热门｜减少92%新冠感染和94%病例，NEJM发表以色列60万人接种辉瑞/BioNTech疫苗数据](https://mp.weixin.qq.com/s/XE6Fis9LR6gDVvnBZje3FA)
 - [美国将拨款超 10 亿美元研究新冠肺炎感染的长期影响｜科研圈日报](https://mp.weixin.qq.com/s/mqrYDVxaCvC3uPzkdeYiYg)
 - [3.8妇女节特刊：石正丽2020研究成果汇报](https://mp.weixin.qq.com/s/doZKS978J2YKtgt1K484-A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月8日）【中国科讯】](https://mp.weixin.qq.com/s/vuavZONTkXP2YpzaGd2anA)
+- [3 月 8 日我国内地新增确诊病例 8 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/9_CGAwO1k0Fe10IEWFnW_w)

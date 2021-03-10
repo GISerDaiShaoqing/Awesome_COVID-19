@@ -496,3 +496,4 @@
 - [Reconstruction of the transmission dynamics of the first COVID-19 epidemic wave in Thailand](https://assets.researchsquare.com/files/rs-253746/v1_stamped.pdf)
 - [A Bayesian Mixture Model for Predicting the COVID-19 Pandemic in the United States](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1147/article-10.4269-ajtmh.20-1147.xml)
 - [Spatiotemporal heterogeneity and its determinants of COVID-19 transmission in typical labor export provinces of China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05926-x)
+- [Risk of symptomatic COVID‐19 due to aircraft transmission: a retrospective cohort study of contact‐traced flights during England’s containment phase](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12846)

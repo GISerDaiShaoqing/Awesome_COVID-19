@@ -168,3 +168,4 @@
 - [The effects of different travel modes on COVID-19 transmission in global cities](https://www.researchsquare.com/article/rs-245214/v1)
 - [Transportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
 - [Evaluating the contributions of strategies to prevent SARS-CoV-2 transmission in the healthcare setting: a modelling study](https://bmjopen.bmj.com/content/11/3/e044644)
+- [Dataset on SARS-CoV-2 non-pharmaceutical interventions in Brazilian municipalities](https://www.nature.com/articles/s41597-021-00859-1)

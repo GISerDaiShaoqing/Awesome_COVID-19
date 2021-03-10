@@ -96,3 +96,4 @@
 - [SARS-CoV-2 and COVID-19 | A section of Viruses](https://www.mdpi.com/journal/viruses/sections/SARS-CoV-2_and_COVID-19)
 - [SSCI专刊征稿：后疫情时代的城市](https://mp.weixin.qq.com/s/7KH1dgYE1I9MBxdJq_gjHg)
 - [MDPI 编辑荐读 | Electronics 新冠病毒（COVID-19）热点研究文章](https://mp.weixin.qq.com/s/Qme90OnGz-_1h9n1o24p3g)
+- [BBRC发布全新COVID-19特刊](https://mp.weixin.qq.com/s/OlycbsbwJhRpe6qjzZZVzA)

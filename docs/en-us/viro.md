@@ -881,3 +881,5 @@
 - [Nature子刊 | 百年老药苏拉明可有效抑制新冠病毒，徐华强/张抒扬/余学奎/张磊砢合作解析新冠病毒复制酶与苏拉明复合物结构](https://mp.weixin.qq.com/s/knmOf3sm19-KuncAckGa9Q)
 - [Structural basis for inhibition of the SARS-CoV-2 RNA polymerase by suramin](https://www.nature.com/articles/s41594-021-00570-0)
 - [Nature子刊 | 百年老药苏拉明可有效抑制新冠病毒，徐华强/张抒扬/余学奎/张磊砢合作解析新冠病毒复制酶与苏拉明复合物结构](https://mp.weixin.qq.com/s/bxxG10XgbhxXELNW3kNp6w)
+- [使用RT-PCR快速检测新冠病毒是否处于复制状态](https://mp.weixin.qq.com/s/usKBQ2mOkDm1m0yd3WCD-Q)
+- [Rapid detection of SARS-CoV-2, replicating or non-replicating, using RT-PCR](https://www.sciencedirect.com/science/article/pii/S1201971221000539?via%3Dihub)
