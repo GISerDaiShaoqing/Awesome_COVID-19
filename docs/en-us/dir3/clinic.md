@@ -1287,3 +1287,8 @@
 - [重磅！陈薇、钟南山团队传来最新消息！](https://mp.weixin.qq.com/s/K00zsofGzFJ5WiEYmlj8GA)
 - [黄爱龙教授团队发现新冠病毒变异株降低中和抗体敏感性](https://mp.weixin.qq.com/s/4wsEKp5qfaBeG3CyoVQEfw)
 - [Emerging SARS-CoV-2 variants reduce neutralization sensitivity to convalescent sera and monoclonal antibodies](https://www.nature.com/articles/s41423-021-00648-1)
+- [防疫科普｜关于新冠疫苗，你需要知道这些！](https://mp.weixin.qq.com/s/ylel1c_yVdLwfoIvyBEOeQ)
+- [Lancet子刊（IF=22）| 连续取得进展！复旦大学余宏杰课题组在新冠肺炎血清流行病学领域取得重要进展](https://mp.weixin.qq.com/s/GfeLZBXuZpt3cFhzGlwqcQ)
+- [Serologicalevidence of human infection with SARS-CoV-2: a systematic review andmeta-analysis](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00026-7/fulltext)
+- [芬兰研发出鼻喷式新冠疫苗](https://mp.weixin.qq.com/s/Cg9GEGFFbszlo3jhxS_wPQ)
+- [复旦大学余宏杰课题组在新冠肺炎血清流行病学领域取得重要进展](https://mp.weixin.qq.com/s/-9ujaNOloAhmDZ1NNqCSRA)

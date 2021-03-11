@@ -497,3 +497,5 @@
 - [A Bayesian Mixture Model for Predicting the COVID-19 Pandemic in the United States](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1147/article-10.4269-ajtmh.20-1147.xml)
 - [Spatiotemporal heterogeneity and its determinants of COVID-19 transmission in typical labor export provinces of China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05926-x)
 - [Risk of symptomatic COVID‐19 due to aircraft transmission: a retrospective cohort study of contact‐traced flights during England’s containment phase](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12846)
+- [复旦大学余宏杰课题组在新冠肺炎的流行病学与传播动力学领域 取得重要进展](https://mp.weixin.qq.com/s/kDm8iDDHB7yGjJutsB5LCQ)
+- [Infectivity, susceptibility, and risk factorsassociated with SARS-CoV-2 transmission under intensive contact tracing in Hunan,China](https://www.nature.com/articles/s41467-021-21710-6)
