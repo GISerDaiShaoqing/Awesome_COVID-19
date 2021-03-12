@@ -499,3 +499,4 @@
 - [Risk of symptomatic COVID‐19 due to aircraft transmission: a retrospective cohort study of contact‐traced flights during England’s containment phase](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12846)
 - [复旦大学余宏杰课题组在新冠肺炎的流行病学与传播动力学领域 取得重要进展](https://mp.weixin.qq.com/s/kDm8iDDHB7yGjJutsB5LCQ)
 - [Infectivity, susceptibility, and risk factorsassociated with SARS-CoV-2 transmission under intensive contact tracing in Hunan,China](https://www.nature.com/articles/s41467-021-21710-6)
+- [Nature子刊 | 复旦大学余宏杰课题组在新冠肺炎的流行病学与传播动力学领域取得重要进展](https://mp.weixin.qq.com/s/i-AoieBJPKQhwXRP053NtA)

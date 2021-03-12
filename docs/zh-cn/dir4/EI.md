@@ -169,3 +169,4 @@
 - [Transportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
 - [Evaluating the contributions of strategies to prevent SARS-CoV-2 transmission in the healthcare setting: a modelling study](https://bmjopen.bmj.com/content/11/3/e044644)
 - [Dataset on SARS-CoV-2 non-pharmaceutical interventions in Brazilian municipalities](https://www.nature.com/articles/s41597-021-00859-1)
+- [Effectiveness of Contact Tracing, Mask Wearing and Prompt Testing on Suppressing COVID-19 Resurgences in Megacities: An Individual-Based Modelling Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3750214)

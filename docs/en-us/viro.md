@@ -891,3 +891,5 @@
 - [Clonal expansion and activation of tissue-resident memory-like Th17 cells expressing GM-CSF in the lungs of severe COVID-19 patients](https://immunology.sciencemag.org/content/6/56/eabf6692)
 - [石正丽：新冠病毒的祖先在哪？](https://mp.weixin.qq.com/s/AnN_NJR3T8yOtiMN9qWd7A)
 - [NSMB | 徐华强/张抒扬/余学奎/张磊砢合作解析新冠病毒复制酶与苏拉明复合物结构](https://mp.weixin.qq.com/s/R2PKDsuP8BOkyK_ftQ5IZw)
+- [蝙蝠冠状病毒RaTG13和穿山甲冠状病毒PCoV_GX刺突蛋白结构首次被解析！为理解新冠病毒的进化提供线索](https://mp.weixin.qq.com/s/FxTVeGlZMIhtCqLekoH99A)
+- [Bat and pangolin coronavirus spike glycoprotein structures provide insights into SARS-CoV-2 evolution](https://www.nature.com/articles/s41467-021-21767-3)

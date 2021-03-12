@@ -1292,3 +1292,4 @@
 - [Serologicalevidence of human infection with SARS-CoV-2: a systematic review andmeta-analysis](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00026-7/fulltext)
 - [芬兰研发出鼻喷式新冠疫苗](https://mp.weixin.qq.com/s/Cg9GEGFFbszlo3jhxS_wPQ)
 - [复旦大学余宏杰课题组在新冠肺炎血清流行病学领域取得重要进展](https://mp.weixin.qq.com/s/-9ujaNOloAhmDZ1NNqCSRA)
+- [病毒学家之争：延迟注射第二针疫苗有没有危害](https://mp.weixin.qq.com/s/Hg8hwnTOwnZ690jphkcMjQ)

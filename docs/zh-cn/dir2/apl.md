@@ -1565,3 +1565,5 @@
 - [中国辅助生殖技术与出生缺陷队列研究 | 《柳叶刀-区域健康》（西太平洋）2月精选](https://mp.weixin.qq.com/s/Ismtfs0xxQy5ivzX-fmzzQ)
 - [24小时热门｜接触过其他冠状病毒，对预防新冠有帮助吗？](https://mp.weixin.qq.com/s/9h-AfeLzEkFn_GyJd234bw)
 - [3 月 9 日我国内地新增确诊病例 5 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/84omJpMtgz7S1Lw8nXi-wQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月10日）【中国科讯】](https://mp.weixin.qq.com/s/SDHIMZ0p5SIML8bph9tGZQ)
+- [3 月 10 日我国内地新增确诊病例 11 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/1BFNAIY_5VMdbktbil6Eng)

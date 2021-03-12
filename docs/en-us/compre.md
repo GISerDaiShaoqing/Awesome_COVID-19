@@ -1834,3 +1834,6 @@
 - [Comparison of air pollutants and their health effects in two developed regions in China during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S0301479721003583)
 - [重磅揭秘！湖北恩施超低新冠感染率谜团破解，与当地富含这一神秘物质有关](https://mp.weixin.qq.com/s/1Kt6nnt60sIWoga1ceMCSA)
 - [Selenium (Se) plays a key role in the biological effects of some viruses: implications for COVID-19](https://www.sciencedirect.com/science/article/pii/S0013935121002784)
+- [新冠大流行一年，“在所有人都安全之前，没有人是安全的”](https://mp.weixin.qq.com/s/q3XAhN_hIUMCRd3cWScC7w)
+- [Nature Climate Change | 后疫情时代的全球温室气体排放](https://mp.weixin.qq.com/s/ksoSuawe5v-cy0fA4JsjCA)
+- [Older people and nature: the benefits of outdoors, parks and nature in light of COVID-19 and beyond– where to from here?](https://www.tandfonline.com/doi/full/10.1080/09603123.2021.1879739)
