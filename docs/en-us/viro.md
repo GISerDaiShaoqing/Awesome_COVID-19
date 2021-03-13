@@ -895,3 +895,7 @@
 - [Bat and pangolin coronavirus spike glycoprotein structures provide insights into SARS-CoV-2 evolution](https://www.nature.com/articles/s41467-021-21767-3)
 - [中国科学家联手取得致病潜在分子机制研究的进展 | Cell Press论文速递](https://mp.weixin.qq.com/s/u2no3_jMm6ypQ2OIlRYz2w)
 - [Virus-Host Interactome and Proteomic Survey Reveal Potential Virulence Factors Influencing SARS-CoV-2 Pathogenesis](https://www.cell.com/med/fulltext/S2666-6340(20)30015-5)
+- [黄爱龙课题组与清华大学合作揭示代谢重塑调控COVID-19患者炎症应答的新机制](https://mp.weixin.qq.com/s/Gmg-S99OAgTaGQgJbi6M8w)
+- [Integrated cytokine and metabolite analysis reveals immunometabolic reprogramming in COVID-19 patients with therapeutic implications](https://doi.org/10.1038/s41467-021-21907-9)
+- [啥？草泥马竟然携带了对抗新冠的秘密武器](https://mp.weixin.qq.com/s/8f8gjwvgGV003YgSBo-IZA)
+- [Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2](https://science.sciencemag.org/content/370/6523/1479)

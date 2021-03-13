@@ -1294,3 +1294,4 @@
 - [复旦大学余宏杰课题组在新冠肺炎血清流行病学领域取得重要进展](https://mp.weixin.qq.com/s/-9ujaNOloAhmDZ1NNqCSRA)
 - [病毒学家之争：延迟注射第二针疫苗有没有危害](https://mp.weixin.qq.com/s/Hg8hwnTOwnZ690jphkcMjQ)
 - [Strengthen the Immune System with Nutrients to Overcome COVID-19 Infection](https://www.mdpi.com/2072-6643/12/6/1562/htm)
+- [阿斯利康疫苗惊曝“血栓门”？全球多国紧急叫停！世卫已展开调查](https://mp.weixin.qq.com/s/qdpvebmO9TU61J5XFsIb0A)

@@ -503,3 +503,5 @@
 - [使用患者特定的“数字孪生”为病毒感染建模｜Science一周精选](https://mp.weixin.qq.com/s/I2CH1hETkUWqDnxwLrCv4g)
 - [Using digital twins in viral infection](https://science.sciencemag.org/content/371/6534/1105)
 - [COVID-19-Forecasts](https://github.com/cdcepi/COVID-19-Forecasts/blob/master/COVID-19_Forecast_Model_Descriptions.md)
+- [超级传播事件：成也是你，败也是你？](https://mp.weixin.qq.com/s/9uboAP_TcY_T-_fnaicAcw)
+- [Superspreading drives the COVID pandemic — and could help to tame it](https://www.nature.com/articles/d41586-021-00460-x)
