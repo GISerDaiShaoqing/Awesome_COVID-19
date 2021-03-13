@@ -1837,3 +1837,5 @@
 - [新冠大流行一年，“在所有人都安全之前，没有人是安全的”](https://mp.weixin.qq.com/s/q3XAhN_hIUMCRd3cWScC7w)
 - [Nature Climate Change | 后疫情时代的全球温室气体排放](https://mp.weixin.qq.com/s/ksoSuawe5v-cy0fA4JsjCA)
 - [Older people and nature: the benefits of outdoors, parks and nature in light of COVID-19 and beyond– where to from here?](https://www.tandfonline.com/doi/full/10.1080/09603123.2021.1879739)
+- [【Applied Energy最新原创论文】COVID-19封城对加拿大社会福利住宅建筑能耗的影响](https://mp.weixin.qq.com/s/WYnFBLoSVJZ7Spz0KvvZ_g)
+- [Impacts of the COVID-19 lockdown on energy consumption in a Canadian social housing building](https://www.sciencedirect.com/science/article/pii/S0306261921001124)

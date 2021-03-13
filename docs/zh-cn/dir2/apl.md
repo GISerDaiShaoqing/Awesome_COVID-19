@@ -1567,3 +1567,5 @@
 - [3 月 9 日我国内地新增确诊病例 5 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/84omJpMtgz7S1Lw8nXi-wQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月10日）【中国科讯】](https://mp.weixin.qq.com/s/SDHIMZ0p5SIML8bph9tGZQ)
 - [3 月 10 日我国内地新增确诊病例 11 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/1BFNAIY_5VMdbktbil6Eng)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月11日）【中国科讯】](https://mp.weixin.qq.com/s/sxqT9lRhQjI8E6iILJ5r7A)
+- [欧洲多国暂停接种阿斯利康疫苗，此前一人注射后因血栓死亡 | 科研圈日报](https://mp.weixin.qq.com/s/92vBIU7qZDbpn7rYROvY2A)

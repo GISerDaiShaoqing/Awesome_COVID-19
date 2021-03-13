@@ -170,3 +170,4 @@
 - [Evaluating the contributions of strategies to prevent SARS-CoV-2 transmission in the healthcare setting: a modelling study](https://bmjopen.bmj.com/content/11/3/e044644)
 - [Dataset on SARS-CoV-2 non-pharmaceutical interventions in Brazilian municipalities](https://www.nature.com/articles/s41597-021-00859-1)
 - [Effectiveness of Contact Tracing, Mask Wearing and Prompt Testing on Suppressing COVID-19 Resurgences in Megacities: An Individual-Based Modelling Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3750214)
+- [Reduction of Human Mobility Matters during Early COVID-19 Outbreaks: Evidence from India, Japan and China](https://www.mdpi.com/1660-4601/18/6/2826)

@@ -500,3 +500,6 @@
 - [复旦大学余宏杰课题组在新冠肺炎的流行病学与传播动力学领域 取得重要进展](https://mp.weixin.qq.com/s/kDm8iDDHB7yGjJutsB5LCQ)
 - [Infectivity, susceptibility, and risk factorsassociated with SARS-CoV-2 transmission under intensive contact tracing in Hunan,China](https://www.nature.com/articles/s41467-021-21710-6)
 - [Nature子刊 | 复旦大学余宏杰课题组在新冠肺炎的流行病学与传播动力学领域取得重要进展](https://mp.weixin.qq.com/s/i-AoieBJPKQhwXRP053NtA)
+- [使用患者特定的“数字孪生”为病毒感染建模｜Science一周精选](https://mp.weixin.qq.com/s/I2CH1hETkUWqDnxwLrCv4g)
+- [Using digital twins in viral infection](https://science.sciencemag.org/content/371/6534/1105)
+- [COVID-19-Forecasts](https://github.com/cdcepi/COVID-19-Forecasts/blob/master/COVID-19_Forecast_Model_Descriptions.md)

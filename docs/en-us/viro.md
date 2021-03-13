@@ -893,3 +893,5 @@
 - [NSMB | 徐华强/张抒扬/余学奎/张磊砢合作解析新冠病毒复制酶与苏拉明复合物结构](https://mp.weixin.qq.com/s/R2PKDsuP8BOkyK_ftQ5IZw)
 - [蝙蝠冠状病毒RaTG13和穿山甲冠状病毒PCoV_GX刺突蛋白结构首次被解析！为理解新冠病毒的进化提供线索](https://mp.weixin.qq.com/s/FxTVeGlZMIhtCqLekoH99A)
 - [Bat and pangolin coronavirus spike glycoprotein structures provide insights into SARS-CoV-2 evolution](https://www.nature.com/articles/s41467-021-21767-3)
+- [中国科学家联手取得致病潜在分子机制研究的进展 | Cell Press论文速递](https://mp.weixin.qq.com/s/u2no3_jMm6ypQ2OIlRYz2w)
+- [Virus-Host Interactome and Proteomic Survey Reveal Potential Virulence Factors Influencing SARS-CoV-2 Pathogenesis](https://www.cell.com/med/fulltext/S2666-6340(20)30015-5)

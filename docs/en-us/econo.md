@@ -656,3 +656,4 @@
 - [国际资讯 | [德]“后新冠城市”联邦竞赛/《挪用居住空间的禁令》再次修订(2021.3)](https://mp.weixin.qq.com/s/01yHxaO-FXCn_Cm1Ac3IdA)
 - [【学术笔谈】袁昕 | 后疫情时代居住社区高品质公共空间的营造 | 2021年第1期](https://mp.weixin.qq.com/s/H6BE1asBvJZVzWOF4zIseg)
 - [【一“图”为快】COVID带来的未来城市的变化](https://mp.weixin.qq.com/s/pve8_yrgi7dj4sVUA_W7eg)
+- [国际资讯 | [意]疫情后的城市空间/“猫友好”的意大利城市(2021.3)](https://mp.weixin.qq.com/s/sf6NNtUAGHys4zbw_00mFw)
