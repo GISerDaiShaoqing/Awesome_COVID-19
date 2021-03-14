@@ -1295,3 +1295,6 @@
 - [病毒学家之争：延迟注射第二针疫苗有没有危害](https://mp.weixin.qq.com/s/Hg8hwnTOwnZ690jphkcMjQ)
 - [Strengthen the Immune System with Nutrients to Overcome COVID-19 Infection](https://www.mdpi.com/2072-6643/12/6/1562/htm)
 - [阿斯利康疫苗惊曝“血栓门”？全球多国紧急叫停！世卫已展开调查](https://mp.weixin.qq.com/s/qdpvebmO9TU61J5XFsIb0A)
+- [新冠疫苗哪家强？](https://mp.weixin.qq.com/s/Apyy9bSWMzP9T7pSo-hCyg)
+- [Plos Pathogens：大多数人天生就可以抵抗SARS-CoV-2](https://mp.weixin.qq.com/s/FPO8kJfYKewBKey_pluFAA)
+- [Multi-clonal SARS-CoV-2 neutralization by antibodies isolated from severe COVID-19 convalescent donors](https://doi.org/10.1371/journal.ppat.1009165.)

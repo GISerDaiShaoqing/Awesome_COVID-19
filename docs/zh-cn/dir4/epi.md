@@ -505,3 +505,4 @@
 - [COVID-19-Forecasts](https://github.com/cdcepi/COVID-19-Forecasts/blob/master/COVID-19_Forecast_Model_Descriptions.md)
 - [超级传播事件：成也是你，败也是你？](https://mp.weixin.qq.com/s/9uboAP_TcY_T-_fnaicAcw)
 - [Superspreading drives the COVID pandemic — and could help to tame it](https://www.nature.com/articles/d41586-021-00460-x)
+- [Higher airborne pollen concentrations correlated with increased SARS-CoV-2 infection rates, as evidenced from 31 countries across the globe](https://www.pnas.org/content/118/12/e2019034118)

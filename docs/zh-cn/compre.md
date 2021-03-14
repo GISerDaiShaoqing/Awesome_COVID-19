@@ -1839,3 +1839,7 @@
 - [Older people and nature: the benefits of outdoors, parks and nature in light of COVID-19 and beyond– where to from here?](https://www.tandfonline.com/doi/full/10.1080/09603123.2021.1879739)
 - [【Applied Energy最新原创论文】COVID-19封城对加拿大社会福利住宅建筑能耗的影响](https://mp.weixin.qq.com/s/WYnFBLoSVJZ7Spz0KvvZ_g)
 - [Impacts of the COVID-19 lockdown on energy consumption in a Canadian social housing building](https://www.sciencedirect.com/science/article/pii/S0306261921001124)
+- [清华大学环境学院吴静团队WR：从水环境质量揭示新冠肺炎疫情对苏南地区印染行业生产的影响](https://mp.weixin.qq.com/s/iQzuv7vVHTDBSrV_BlMLMg)
+- [Novel insights into impacts of the COVID-19 pandemic on aquatic environment of Beijing-Hangzhou Grand Canal in southern Jiangsu region](https://www.sciencedirect.com/science/article/pii/S0043135421000713?via%3Dihub=)
+- [Nature Podcast：疫情下的“论文潮”与不平等](https://mp.weixin.qq.com/s/FiDRdR1VophMrlkoEfvunA)
+- [COVID is amplifying the inadequacy of research-evaluation processes](https://www.nature.com/articles/d41586-021-00527-9)

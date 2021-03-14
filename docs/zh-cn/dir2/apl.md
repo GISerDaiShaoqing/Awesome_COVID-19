@@ -1570,3 +1570,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月11日）【中国科讯】](https://mp.weixin.qq.com/s/sxqT9lRhQjI8E6iILJ5r7A)
 - [欧洲多国暂停接种阿斯利康疫苗，此前一人注射后因血栓死亡 | 科研圈日报](https://mp.weixin.qq.com/s/92vBIU7qZDbpn7rYROvY2A)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月12日）【中国科讯】](https://mp.weixin.qq.com/s/XJL2HEK3E9fcg5zow-1wYw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月13日）【中国科讯】](https://mp.weixin.qq.com/s/2q-94O1M_RoTTkRdtyfX7g)
+- [多个相互传播过程的竞争、协作与优化 | 复杂性科学顶刊精选8篇](https://mp.weixin.qq.com/s/MhU-B0lmB96rwLadaG3MlQ)
+- [74%的科学家希望疫情后仍在线上开会｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/pq7dgFDUbL-RXqTD6dEMdQ)
