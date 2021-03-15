@@ -1573,3 +1573,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月13日）【中国科讯】](https://mp.weixin.qq.com/s/2q-94O1M_RoTTkRdtyfX7g)
 - [多个相互传播过程的竞争、协作与优化 | 复杂性科学顶刊精选8篇](https://mp.weixin.qq.com/s/MhU-B0lmB96rwLadaG3MlQ)
 - [74%的科学家希望疫情后仍在线上开会｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/pq7dgFDUbL-RXqTD6dEMdQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月14日）【中国科讯】](https://mp.weixin.qq.com/s/HWY9ilB2SygIwWRsHYwW4A)
+- [广东发现新冠病毒 B.1.525 尼日利亚突变株｜科研圈日报](https://mp.weixin.qq.com/s/AOKZ8kdzcmhXhp23rFH6yQ)

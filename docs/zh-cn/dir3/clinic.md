@@ -1297,4 +1297,5 @@
 - [阿斯利康疫苗惊曝“血栓门”？全球多国紧急叫停！世卫已展开调查](https://mp.weixin.qq.com/s/qdpvebmO9TU61J5XFsIb0A)
 - [新冠疫苗哪家强？](https://mp.weixin.qq.com/s/Apyy9bSWMzP9T7pSo-hCyg)
 - [Plos Pathogens：大多数人天生就可以抵抗SARS-CoV-2](https://mp.weixin.qq.com/s/FPO8kJfYKewBKey_pluFAA)
-- [Multi-clonal SARS-CoV-2 neutralization by antibodies isolated from severe COVID-19 convalescent donors](https://doi.org/10.1371/journal.ppat.1009165.)
+- [Multi-clonal SARS-CoV-2 neutralization by antibodies isolated from severe COVID-19 convalescent donors](https://doi.org/10.1371/journal.ppat.1009165)
+- [单针接种新冠疫苗什么时候能打？答案来了](https://mp.weixin.qq.com/s/uwZwQ9-TUFvzWLwP1asC5Q)

@@ -506,3 +506,5 @@
 - [超级传播事件：成也是你，败也是你？](https://mp.weixin.qq.com/s/9uboAP_TcY_T-_fnaicAcw)
 - [Superspreading drives the COVID pandemic — and could help to tame it](https://www.nature.com/articles/d41586-021-00460-x)
 - [Higher airborne pollen concentrations correlated with increased SARS-CoV-2 infection rates, as evidenced from 31 countries across the globe](https://www.pnas.org/content/118/12/e2019034118)
+- [COVID-19幸存者临床后遗症的单中心纵向研究](https://mp.weixin.qq.com/s/MEx2KdbamP5xqWTJwSgvjw)
+- [Clinical sequelae of COVID-19 survivors in Wuhan, China: a single-centre longitudinal study](https://www.sciencedirect.com/science/article/pii/S1198743X20305759?via%3Dihub)

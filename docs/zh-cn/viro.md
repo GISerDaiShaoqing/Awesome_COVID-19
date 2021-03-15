@@ -899,3 +899,7 @@
 - [Integrated cytokine and metabolite analysis reveals immunometabolic reprogramming in COVID-19 patients with therapeutic implications](https://doi.org/10.1038/s41467-021-21907-9)
 - [啥？草泥马竟然携带了对抗新冠的秘密武器](https://mp.weixin.qq.com/s/8f8gjwvgGV003YgSBo-IZA)
 - [Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2](https://science.sciencemag.org/content/370/6523/1479)
+- [Cell: 比起原始新冠病毒, 3种南非新冠突变株抵抗疫苗中和力高达40倍](https://mp.weixin.qq.com/s/vTZLokGi-TtdWIJfSAGjrw)
+- [COVID-19-neutralizing antibodies predict disease severity and survival](https://www.sciencedirect.com/science/article/pii/S0092867420316858?via%3Dihub)
+- [Nature：英国、南非新冠突变对疫苗实际影响揭晓](https://mp.weixin.qq.com/s/Nt4rIlCT73ViwSuRKZJG8w)
+- [Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7](https://www.nature.com/articles/s41586-021-03398-2)

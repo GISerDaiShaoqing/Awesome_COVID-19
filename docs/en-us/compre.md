@@ -1843,3 +1843,6 @@
 - [Novel insights into impacts of the COVID-19 pandemic on aquatic environment of Beijing-Hangzhou Grand Canal in southern Jiangsu region](https://www.sciencedirect.com/science/article/pii/S0043135421000713?via%3Dihub=)
 - [Nature Podcast：疫情下的“论文潮”与不平等](https://mp.weixin.qq.com/s/FiDRdR1VophMrlkoEfvunA)
 - [COVID is amplifying the inadequacy of research-evaluation processes](https://www.nature.com/articles/d41586-021-00527-9)
+- [《柳叶刀》社论 | 新冠疫苗的获取：超越COVAX](https://mp.weixin.qq.com/s/LSxsg-JMgNrsOoXmQE83ng)
+- [Access to COVID-19 vaccines: looking beyond COVAX](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00617-6/fulltext)
+- [COVID-19 Infection and Mortality: Association with PM2.5 Concentration and Population Density—An Exploratory Study](https://www.mdpi.com/2220-9964/10/3/123)
