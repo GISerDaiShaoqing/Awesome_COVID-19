@@ -1299,3 +1299,5 @@
 - [Plos Pathogens：大多数人天生就可以抵抗SARS-CoV-2](https://mp.weixin.qq.com/s/FPO8kJfYKewBKey_pluFAA)
 - [Multi-clonal SARS-CoV-2 neutralization by antibodies isolated from severe COVID-19 convalescent donors](https://doi.org/10.1371/journal.ppat.1009165)
 - [单针接种新冠疫苗什么时候能打？答案来了](https://mp.weixin.qq.com/s/uwZwQ9-TUFvzWLwP1asC5Q)
+- [阿斯利康疫苗要“凉”？欧洲18国紧急叫停，是否致死尚无定论](https://mp.weixin.qq.com/s/IIp0bROpvUsciuqMems__Q)
+- [【在线速递】Covid-19重症肺炎患者恢复期血浆治疗的一项随机对照试验](https://mp.weixin.qq.com/s/JYz5yAF9nFAyInzFjmWgKg)

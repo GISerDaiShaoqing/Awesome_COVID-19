@@ -508,3 +508,5 @@
 - [Higher airborne pollen concentrations correlated with increased SARS-CoV-2 infection rates, as evidenced from 31 countries across the globe](https://www.pnas.org/content/118/12/e2019034118)
 - [COVID-19幸存者临床后遗症的单中心纵向研究](https://mp.weixin.qq.com/s/MEx2KdbamP5xqWTJwSgvjw)
 - [Clinical sequelae of COVID-19 survivors in Wuhan, China: a single-centre longitudinal study](https://www.sciencedirect.com/science/article/pii/S1198743X20305759?via%3Dihub)
+- [西安交大韩杰团队EP：新冠早期感染溯源的样本库——储存人类体液和组织的“生物银行”](https://mp.weixin.qq.com/s/CTaWLEffZzesrZepNGnOiA)
+- [Biorepositories (biobanks) of human body fluids and materials as archives for tracing early infections of COVID-19](https://www.sciencedirect.com/science/article/pii/S0269749121001032?via%3Dihub=)

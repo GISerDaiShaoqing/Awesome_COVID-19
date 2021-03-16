@@ -903,3 +903,5 @@
 - [COVID-19-neutralizing antibodies predict disease severity and survival](https://www.sciencedirect.com/science/article/pii/S0092867420316858?via%3Dihub)
 - [Nature：英国、南非新冠突变对疫苗实际影响揭晓](https://mp.weixin.qq.com/s/Nt4rIlCT73ViwSuRKZJG8w)
 - [Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7](https://www.nature.com/articles/s41586-021-03398-2)
+- [B.1.1.7变异株与死亡风险增加有关 |《自然》论文](https://mp.weixin.qq.com/s/Lb3qKUGbB756T7onK4E_2g)
+- [Increased mortality in community-tested cases of SARS-CoV-2 lineage B.1.1.7](https://www.nature.com/articles/s41586-021-03426-1)

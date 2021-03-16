@@ -1575,3 +1575,8 @@
 - [74%的科学家希望疫情后仍在线上开会｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/pq7dgFDUbL-RXqTD6dEMdQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月14日）【中国科讯】](https://mp.weixin.qq.com/s/HWY9ilB2SygIwWRsHYwW4A)
 - [广东发现新冠病毒 B.1.525 尼日利亚突变株｜科研圈日报](https://mp.weixin.qq.com/s/AOKZ8kdzcmhXhp23rFH6yQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月15日）【中国科讯】](https://mp.weixin.qq.com/s/g08clrVY0LTd_911OBleMQ)
+- [LED灯监测新生儿黄疸；疫情期间全球变暖不降反升？鼠耳蝠的回声定位策略｜Science Advances多文导读](https://mp.weixin.qq.com/s/-g-NLEaEe9LwcZH1ojJdMg)
+- [心脏代谢对循环蛋白的影响或导致重症新冠感染 | EBioMedicine2月精选](https://mp.weixin.qq.com/s/Wku0VozEpT9wOpsJDX2_5Q)
+- [Moderna 宣布新一代 mRNA 疫苗进入 I 期临床，可用普通冰箱保存 | 科研圈日报](https://mp.weixin.qq.com/s/vGwADYgve0O5rN4vyM2Ndg)
+- [Nature 一周论文导读｜2021年3月4日](https://mp.weixin.qq.com/s/rhjDzwIPdh0Qlv_JAHGQ7w)

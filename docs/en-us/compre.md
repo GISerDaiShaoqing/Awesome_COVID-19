@@ -1846,3 +1846,5 @@
 - [《柳叶刀》社论 | 新冠疫苗的获取：超越COVAX](https://mp.weixin.qq.com/s/LSxsg-JMgNrsOoXmQE83ng)
 - [Access to COVID-19 vaccines: looking beyond COVAX](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00617-6/fulltext)
 - [COVID-19 Infection and Mortality: Association with PM2.5 Concentration and Population Density—An Exploratory Study](https://www.mdpi.com/2220-9964/10/3/123)
+- [一个都不能用？62个AI算法被指存在重大问题，剑桥团队：都不具有新冠临床诊断价值](https://mp.weixin.qq.com/s/KCItApYRUNTkMMSFUL5BoA)
+- [Staying at home is a privilege: evidence from fine-grained mobile phone location data in the U.S. during the COVID-19 pandemic](https://www.researchgate.net/publication/350087154_Staying_at_home_is_a_privilege_evidence_from_fine-grained_mobile_phone_location_data_in_the_US_during_the_COVID-19_pandemic)
