@@ -1848,3 +1848,7 @@
 - [COVID-19 Infection and Mortality: Association with PM2.5 Concentration and Population Density—An Exploratory Study](https://www.mdpi.com/2220-9964/10/3/123)
 - [一个都不能用？62个AI算法被指存在重大问题，剑桥团队：都不具有新冠临床诊断价值](https://mp.weixin.qq.com/s/KCItApYRUNTkMMSFUL5BoA)
 - [Staying at home is a privilege: evidence from fine-grained mobile phone location data in the U.S. during the COVID-19 pandemic](https://www.researchgate.net/publication/350087154_Staying_at_home_is_a_privilege_evidence_from_fine-grained_mobile_phone_location_data_in_the_US_during_the_COVID-19_pandemic)
+- [COVID-19-related school closing aggravate obesity and glucose intolerance in pediatric patients with obesity](https://www.nature.com/articles/s41598-021-84766-w)
+- [Students’ attitude and sleep pattern during school closure following COVID-19 pandemic quarantine: a web-based survey in south of Iran](https://environhealthprevmed.biomedcentral.com/articles/10.1186/s12199-021-00950-4)
+- [Seasonality of Non-SARS, Non-MERS Coronaviruses and the Impact of Meteorological Factors](https://www.mdpi.com/2076-0817/10/2/187)
+- [Association of Age With Likelihood of Developing Symptoms and Critical Disease Among Close Contacts Exposed to Patients With Confirmed SARS-CoV-2 Infection in Italy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777314)

@@ -510,3 +510,5 @@
 - [Clinical sequelae of COVID-19 survivors in Wuhan, China: a single-centre longitudinal study](https://www.sciencedirect.com/science/article/pii/S1198743X20305759?via%3Dihub)
 - [西安交大韩杰团队EP：新冠早期感染溯源的样本库——储存人类体液和组织的“生物银行”](https://mp.weixin.qq.com/s/CTaWLEffZzesrZepNGnOiA)
 - [Biorepositories (biobanks) of human body fluids and materials as archives for tracing early infections of COVID-19](https://www.sciencedirect.com/science/article/pii/S0269749121001032?via%3Dihub=)
+- [Modelling and predicting the spatio-temporal spread of COVID-19, associated deaths and impact of key risk factors in England](https://www.nature.com/articles/s41598-021-83780-2)
+- [Fractional Stochastic Models for COVID-19: Case Study of Egypt](https://www.sciencedirect.com/science/article/pii/S2211379721001856)
