@@ -1580,3 +1580,6 @@
 - [心脏代谢对循环蛋白的影响或导致重症新冠感染 | EBioMedicine2月精选](https://mp.weixin.qq.com/s/Wku0VozEpT9wOpsJDX2_5Q)
 - [Moderna 宣布新一代 mRNA 疫苗进入 I 期临床，可用普通冰箱保存 | 科研圈日报](https://mp.weixin.qq.com/s/vGwADYgve0O5rN4vyM2Ndg)
 - [Nature 一周论文导读｜2021年3月4日](https://mp.weixin.qq.com/s/rhjDzwIPdh0Qlv_JAHGQ7w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月16日）【中国科讯】](https://mp.weixin.qq.com/s/EcpSJ2J5vTTM2kvX_oWm2A)
+- [欧盟今夏启用“疫苗护照”，暂未认可中国疫苗｜科研圈日报](https://mp.weixin.qq.com/s/bK9X1iTDcoueTZfzmUUpww)
+- [盘点2020年Altmetric最具新闻影响力的十大Science论文（附中文摘要）](https://mp.weixin.qq.com/s/1tdUl4m8iJ-XvK3dzXHSGA)

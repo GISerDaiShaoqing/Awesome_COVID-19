@@ -98,3 +98,4 @@
 - [MDPI 编辑荐读 | Electronics 新冠病毒（COVID-19）热点研究文章](https://mp.weixin.qq.com/s/Qme90OnGz-_1h9n1o24p3g)
 - [BBRC发布全新COVID-19特刊](https://mp.weixin.qq.com/s/OlycbsbwJhRpe6qjzZZVzA)
 - [战“疫”疾控人影像事迹征集启事](https://mp.weixin.qq.com/s/n8K9bmy6BaErd3JCgbwpSw)
+- [Fudan Journal of the Humanities and Social Sciences|民族主义与新冠疫情专题](https://mp.weixin.qq.com/s/PSHjiF3BzTw-hLqgv4PDDA)

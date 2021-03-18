@@ -1301,3 +1301,8 @@
 - [单针接种新冠疫苗什么时候能打？答案来了](https://mp.weixin.qq.com/s/uwZwQ9-TUFvzWLwP1asC5Q)
 - [阿斯利康疫苗要“凉”？欧洲18国紧急叫停，是否致死尚无定论](https://mp.weixin.qq.com/s/IIp0bROpvUsciuqMems__Q)
 - [【在线速递】Covid-19重症肺炎患者恢复期血浆治疗的一项随机对照试验](https://mp.weixin.qq.com/s/JYz5yAF9nFAyInzFjmWgKg)
+- [新冠病毒突变背景下：人体挑战实验是检验疫苗有效性的最佳方法之一](https://mp.weixin.qq.com/s/qzB1FBA4YwYoon85UiziAQ)
+- [Human challenge trials to assess the efficacy of currently approvedCOVID-19 vaccines against SARS-CoV-2 variants](https://doi.org/10.1080/22221751.2021.1896956)
+- [我国自主知识产权抗SARS-CoV-2候选新药DC402234启动美国I期临床试验](https://mp.weixin.qq.com/s/ki8bz6lz77cXTSmk81tvBw)
+- [中国生物第三款四价流感疫苗获批上市](https://mp.weixin.qq.com/s/H7Y2CkpfwbGfv2pDZWyRbw)
+- [全球知名疫苗专家呼吁：立即停止大规模新冠疫苗接种](https://mp.weixin.qq.com/s/dZWnQcgX83Xc2fU6TRptwQ)
