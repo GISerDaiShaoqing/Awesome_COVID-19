@@ -342,3 +342,4 @@
 - [CPGIS“城市动态时空分析”学术讲座系列第一讲回顾](https://mp.weixin.qq.com/s/kyxJLk-VptKItb0vW0Medw)
 - [GeoInsider在线讲座 第50期：基于地理追踪与人口流动特征的新型流行病控制方法](https://mp.weixin.qq.com/s/FX58RumYSytiepm4EVdcsQ)
 - [听完我汇报“新冠患者治疗要花多少钱”，总书记说，没事儿，我们掏得起 | 童朝晖](https://mp.weixin.qq.com/s/uvpW_BLSJ8DijHbhXSFPTQ)
+- [BMJ诚邀您参会：我们可以从全球主要的Covid-19疫苗接种计划中学到什么？](https://mp.weixin.qq.com/s/ZagXA5sm1ChBIH6OD6Jzdw)

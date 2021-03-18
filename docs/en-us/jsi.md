@@ -99,3 +99,4 @@
 - [BBRC发布全新COVID-19特刊](https://mp.weixin.qq.com/s/OlycbsbwJhRpe6qjzZZVzA)
 - [战“疫”疾控人影像事迹征集启事](https://mp.weixin.qq.com/s/n8K9bmy6BaErd3JCgbwpSw)
 - [Fudan Journal of the Humanities and Social Sciences|民族主义与新冠疫情专题](https://mp.weixin.qq.com/s/PSHjiF3BzTw-hLqgv4PDDA)
+- [“全球新型冠状病毒肺炎(COVID-19)疫情动态的时空建模与可视化决策分析”专辑](https://mp.weixin.qq.com/s/bO_ClEX_exQpXeNY_7sCOQ)

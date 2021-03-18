@@ -1852,3 +1852,6 @@
 - [Students’ attitude and sleep pattern during school closure following COVID-19 pandemic quarantine: a web-based survey in south of Iran](https://environhealthprevmed.biomedcentral.com/articles/10.1186/s12199-021-00950-4)
 - [Seasonality of Non-SARS, Non-MERS Coronaviruses and the Impact of Meteorological Factors](https://www.mdpi.com/2076-0817/10/2/187)
 - [Association of Age With Likelihood of Developing Symptoms and Critical Disease Among Close Contacts Exposed to Patients With Confirmed SARS-CoV-2 Infection in Italy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2777314)
+- [The BMJ：新型冠状病毒肺炎大流行中，风险补偿是否威胁公共健康？【分析】【2020年第12期】](https://mp.weixin.qq.com/s/YFBMi67B44BByxnGf4lnnQ)
+- [Is risk compensation threatening public health in the covid-19 pandemic?](http://dx.doi.org/10.1136/bmj.m2913)
+- [Spatial technologies to strengthen traditional testing for SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S0966842X21000627?via%3Dihub#!)

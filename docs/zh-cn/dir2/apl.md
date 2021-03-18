@@ -1583,3 +1583,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月16日）【中国科讯】](https://mp.weixin.qq.com/s/EcpSJ2J5vTTM2kvX_oWm2A)
 - [欧盟今夏启用“疫苗护照”，暂未认可中国疫苗｜科研圈日报](https://mp.weixin.qq.com/s/bK9X1iTDcoueTZfzmUUpww)
 - [盘点2020年Altmetric最具新闻影响力的十大Science论文（附中文摘要）](https://mp.weixin.qq.com/s/1tdUl4m8iJ-XvK3dzXHSGA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月17日）【中国科讯】](https://mp.weixin.qq.com/s/7IWCPnzNTgtlOvLuyWkuLg)
+- [中国促甲状腺激素异常水平患病率研究 | EClinicalMedicine2月精选](https://mp.weixin.qq.com/s/_CIWbH_er1sPoCDphAyGvw)
+- [世卫组织建议继续使用阿斯利康新冠疫苗｜科研圈日报](https://mp.weixin.qq.com/s/uvS1XcJ-Do6CABIqigf4Ow)

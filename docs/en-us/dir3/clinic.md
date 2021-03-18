@@ -1306,3 +1306,4 @@
 - [我国自主知识产权抗SARS-CoV-2候选新药DC402234启动美国I期临床试验](https://mp.weixin.qq.com/s/ki8bz6lz77cXTSmk81tvBw)
 - [中国生物第三款四价流感疫苗获批上市](https://mp.weixin.qq.com/s/H7Y2CkpfwbGfv2pDZWyRbw)
 - [全球知名疫苗专家呼吁：立即停止大规模新冠疫苗接种](https://mp.weixin.qq.com/s/dZWnQcgX83Xc2fU6TRptwQ)
+- [SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics](https://github.com/greenelab/covid19-review)
