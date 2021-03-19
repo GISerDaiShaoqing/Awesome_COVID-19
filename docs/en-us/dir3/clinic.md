@@ -1307,3 +1307,8 @@
 - [中国生物第三款四价流感疫苗获批上市](https://mp.weixin.qq.com/s/H7Y2CkpfwbGfv2pDZWyRbw)
 - [全球知名疫苗专家呼吁：立即停止大规模新冠疫苗接种](https://mp.weixin.qq.com/s/dZWnQcgX83Xc2fU6TRptwQ)
 - [SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics](https://github.com/greenelab/covid19-review)
+- [Cell | 姜世勃/杨海涛首次发表具有针对高致病性病毒的共同靶标的抗病毒药的综述](https://mp.weixin.qq.com/s/tzEfp5YqiFI8AiouO53zbg)
+- [Antivirals with common targets against highly pathogenic viruses](https://doi.org/10.1016/j.cell.2021.02.013)
+- [姜世勃、杨海涛Cell｜抗病毒药物全面综述、人类应如何应对下一次新发病毒的流行？](https://mp.weixin.qq.com/s/OaT64hrfY3_4W67FxbL4tg)
+- [华科重磅成果：新冠感染严重影响男性性能力](https://mp.weixin.qq.com/s/xKb6T9uDnLlvTiyzNLhDVQ)
+- [Impaired spermatogenesis in COVID-19 patients](https://www.sciencedirect.com/science/article/pii/S2589537020303485?via%3Dihub)

@@ -915,3 +915,4 @@
 - [Clofazimine broadly inhibits coronaviruses including SARS-CoV-2](https://www.nature.com/articles/s41586-021-03431-4)
 - [Nature突破 | 袁国勇等团队首次发现廉价抗麻风药氯法齐明有抑制冠状病毒活性，对于控制新冠大流行可能发挥作用](https://mp.weixin.qq.com/s/cH0zSzDwkhcGr9_mBNel9g)
 - [麻风药物可在仓鼠模型中抑制新冠病毒 |《自然》论文](https://mp.weixin.qq.com/s/A8u2tpd-NfA31Mqo2qErfA)
+- [警惕！此国发现的新毒株，可逃避核酸检测！](https://mp.weixin.qq.com/s/XfXJLjaoALJ1wE5jCgKfwg)

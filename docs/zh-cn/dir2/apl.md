@@ -1586,3 +1586,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月17日）【中国科讯】](https://mp.weixin.qq.com/s/7IWCPnzNTgtlOvLuyWkuLg)
 - [中国促甲状腺激素异常水平患病率研究 | EClinicalMedicine2月精选](https://mp.weixin.qq.com/s/_CIWbH_er1sPoCDphAyGvw)
 - [世卫组织建议继续使用阿斯利康新冠疫苗｜科研圈日报](https://mp.weixin.qq.com/s/uvS1XcJ-Do6CABIqigf4Ow)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月18日）【中国科讯】](https://mp.weixin.qq.com/s/igZRiaIPXzTZ3YfIyiCZWA)
+- [欧洲药监局表示依然推荐阿斯利康疫苗，欧洲多国将恢复接种｜科研圈日报](https://mp.weixin.qq.com/s/3tNjN6waCIiScj5BsWD6Sw)
