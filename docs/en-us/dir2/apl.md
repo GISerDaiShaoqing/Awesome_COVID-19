@@ -1588,3 +1588,5 @@
 - [世卫组织建议继续使用阿斯利康新冠疫苗｜科研圈日报](https://mp.weixin.qq.com/s/uvS1XcJ-Do6CABIqigf4Ow)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月18日）【中国科讯】](https://mp.weixin.qq.com/s/igZRiaIPXzTZ3YfIyiCZWA)
 - [欧洲药监局表示依然推荐阿斯利康疫苗，欧洲多国将恢复接种｜科研圈日报](https://mp.weixin.qq.com/s/3tNjN6waCIiScj5BsWD6Sw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月19日）【中国科讯】](https://mp.weixin.qq.com/s/qN7sQ46t3oePDFyElQH3tg)
+- [胡吃海喝也能保持健康的方法；多种新冠变异病毒，可抵抗疫苗产生的抗体｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/_iQ8cgVtM78UgUrZ_1Jiww)

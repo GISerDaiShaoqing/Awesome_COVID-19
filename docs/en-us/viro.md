@@ -916,3 +916,6 @@
 - [Nature突破 | 袁国勇等团队首次发现廉价抗麻风药氯法齐明有抑制冠状病毒活性，对于控制新冠大流行可能发挥作用](https://mp.weixin.qq.com/s/cH0zSzDwkhcGr9_mBNel9g)
 - [麻风药物可在仓鼠模型中抑制新冠病毒 |《自然》论文](https://mp.weixin.qq.com/s/A8u2tpd-NfA31Mqo2qErfA)
 - [警惕！此国发现的新毒株，可逃避核酸检测！](https://mp.weixin.qq.com/s/XfXJLjaoALJ1wE5jCgKfwg)
+- [Cell Res | 连发2篇！西湖大学周强等团队系统揭示新冠刺突蛋白活化的机制及中和单克隆抗体起作用的机制](https://mp.weixin.qq.com/s/dXgBhwGxPCcfZGvRwJwuSA)
+- [Structural basis for bivalent binding and inhibition of SARS-CoV-2 infection by human potent neutralizing antibodies](https://www.nature.com/articles/s41422-021-00487-9)
+- [Structural basis for the different states of the spike protein of SARS-CoV-2 in complex with ACE2](https://www.nature.com/articles/s41422-021-00490-0)
