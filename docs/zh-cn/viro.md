@@ -919,3 +919,8 @@
 - [Cell Res | 连发2篇！西湖大学周强等团队系统揭示新冠刺突蛋白活化的机制及中和单克隆抗体起作用的机制](https://mp.weixin.qq.com/s/dXgBhwGxPCcfZGvRwJwuSA)
 - [Structural basis for bivalent binding and inhibition of SARS-CoV-2 infection by human potent neutralizing antibodies](https://www.nature.com/articles/s41422-021-00487-9)
 - [Structural basis for the different states of the spike protein of SARS-CoV-2 in complex with ACE2](https://www.nature.com/articles/s41422-021-00490-0)
+- [Simulation of aerosol transmission on a Boeing 737 airplane with intervention measures for COVID-19 mitigation](https://aip.scitation.org/doi/full/10.1063/5.0044720)
+- [Molecular Analysis of SARS-CoV-2 Genetic Lineages in Jordan: Tracking the Introduction and Spread of COVID-19 UK Variant of Concern at a Country Level](https://www.mdpi.com/2076-0817/10/3/302)
+- [Critical ACE2 Determinants of SARS-CoV-2 and Group 2B Coronavirus Infection and Replication](https://mbio.asm.org/content/12/2/e03149-20)
+- [Immunogenicity of prime-boost protein subunit vaccine strategies against SARS-CoV-2 in mice and macaques](https://www.nature.com/articles/s41467-021-21665-8)
+- [Genomic characterization and phylogenetic analysis of the first SARS-CoV-2 variants introduced in Lebanon](https://peerj.com/articles/11015/)

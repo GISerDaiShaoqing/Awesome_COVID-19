@@ -1867,3 +1867,5 @@
 - [Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes](https://science.sciencemag.org/content/early/2021/03/08/science.abg8663)
 - [王辰院士等专家发出「中国强声」：武汉人群研究显示新冠中和抗体至少可以维持9个月](https://mp.weixin.qq.com/s/u5AXyi_cUyWIuT0Cruk2Ug)
 - [COVID-19 in patients with autoimmune diseases: characteristics and outcomes in a multinational network of cohorts across three countries](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab250/6174122)
+- [sportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
+- [Lessons learned one year after SARS-CoV-2 emergence leading to COVID-19 pandemic](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1898291)

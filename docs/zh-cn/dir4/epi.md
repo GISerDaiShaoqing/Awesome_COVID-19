@@ -512,3 +512,6 @@
 - [Biorepositories (biobanks) of human body fluids and materials as archives for tracing early infections of COVID-19](https://www.sciencedirect.com/science/article/pii/S0269749121001032?via%3Dihub=)
 - [Modelling and predicting the spatio-temporal spread of COVID-19, associated deaths and impact of key risk factors in England](https://www.nature.com/articles/s41598-021-83780-2)
 - [Fractional Stochastic Models for COVID-19: Case Study of Egypt](https://www.sciencedirect.com/science/article/pii/S2211379721001856)
+- [Evolution of the Chinese spring festival travel network during the COVID-19 early outbreak](https://www.tandfonline.com/doi/abs/10.1080/19427867.2021.1896065?journalCode=ytrl20)
+- [Spatiotemporal heterogeneity and its determinants of COVID-19 transmission in typical labor export provinces of China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05926-x)
+- [SARS-CoV-2 infections in children following the full re-opening of schools and the impact of national lockdown: Prospective, national observational cohort surveillance, July-December 2020, England](https://www.journalofinfection.com/article/S0163-4453(21)00093-1/fulltext)
