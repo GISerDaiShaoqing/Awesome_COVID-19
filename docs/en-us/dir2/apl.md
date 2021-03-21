@@ -1590,3 +1590,6 @@
 - [欧洲药监局表示依然推荐阿斯利康疫苗，欧洲多国将恢复接种｜科研圈日报](https://mp.weixin.qq.com/s/3tNjN6waCIiScj5BsWD6Sw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月19日）【中国科讯】](https://mp.weixin.qq.com/s/qN7sQ46t3oePDFyElQH3tg)
 - [胡吃海喝也能保持健康的方法；多种新冠变异病毒，可抵抗疫苗产生的抗体｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/_iQ8cgVtM78UgUrZ_1Jiww)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月20日）【中国科讯】](https://mp.weixin.qq.com/s/s4yH-ZiRPcojR3RuhUXghg)
+- [英国肯特大学财政赤字将达2.79亿元，到学年末或将无法运转 | 一周动态](https://mp.weixin.qq.com/s/lWI69tIO2nS906kR4_cz4w)
+- [《自然》：英国新冠变异株使死亡风险增加61% ｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/WC7RJtEwjPHxNHsoRHZ4DQ)

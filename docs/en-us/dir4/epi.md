@@ -515,3 +515,4 @@
 - [Evolution of the Chinese spring festival travel network during the COVID-19 early outbreak](https://www.tandfonline.com/doi/abs/10.1080/19427867.2021.1896065?journalCode=ytrl20)
 - [Spatiotemporal heterogeneity and its determinants of COVID-19 transmission in typical labor export provinces of China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05926-x)
 - [SARS-CoV-2 infections in children following the full re-opening of schools and the impact of national lockdown: Prospective, national observational cohort surveillance, July-December 2020, England](https://www.journalofinfection.com/article/S0163-4453(21)00093-1/fulltext)
+- [The effects of different travel modes on COVID-19 transmission in global cities](https://www.researchsquare.com/article/rs-245214/v1)
