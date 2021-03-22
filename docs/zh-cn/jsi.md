@@ -100,3 +100,6 @@
 - [战“疫”疾控人影像事迹征集启事](https://mp.weixin.qq.com/s/n8K9bmy6BaErd3JCgbwpSw)
 - [Fudan Journal of the Humanities and Social Sciences|民族主义与新冠疫情专题](https://mp.weixin.qq.com/s/PSHjiF3BzTw-hLqgv4PDDA)
 - [“全球新型冠状病毒肺炎(COVID-19)疫情动态的时空建模与可视化决策分析”专辑](https://mp.weixin.qq.com/s/bO_ClEX_exQpXeNY_7sCOQ)
+- [【荐刊】BMC Medicine | 传播医学领域的重大研究进展 | JCR Q1](https://mp.weixin.qq.com/s/24OBhUcRj9ODZ_47aDOvsw)
+- [Contemporary Clinical Trials全新新冠特刊上线](https://mp.weixin.qq.com/s/S7RY2zwa4sJ_bjgJ7mzPhQ)
+- [Contemporary Clinical Trials Special Issue on COVID-19](https://www.sciencedirect.com/journal/contemporary-clinical-trials/special-issue/10X8V1JPDKQ)

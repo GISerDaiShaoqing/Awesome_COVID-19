@@ -924,3 +924,5 @@
 - [Critical ACE2 Determinants of SARS-CoV-2 and Group 2B Coronavirus Infection and Replication](https://mbio.asm.org/content/12/2/e03149-20)
 - [Immunogenicity of prime-boost protein subunit vaccine strategies against SARS-CoV-2 in mice and macaques](https://www.nature.com/articles/s41467-021-21665-8)
 - [Genomic characterization and phylogenetic analysis of the first SARS-CoV-2 variants introduced in Lebanon](https://peerj.com/articles/11015/)
+- [通缉！哪些动物容易感染新冠病毒？](https://mp.weixin.qq.com/s/L2_5nQcRGoDa0XZERxJmDA)
+- [The search for animals harbouring coronavirus — and why it matters](https://www.nature.com/articles/d41586-021-00531-z)

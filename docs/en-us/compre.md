@@ -1869,3 +1869,7 @@
 - [COVID-19 in patients with autoimmune diseases: characteristics and outcomes in a multinational network of cohorts across three countries](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab250/6174122)
 - [sportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
 - [Lessons learned one year after SARS-CoV-2 emergence leading to COVID-19 pandemic](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1898291)
+- [受COVID-19疫情影响的2021年全球趋势及挑战](https://mp.weixin.qq.com/s/ifU-Pj5djtBWmmpIMRr41g)
+- [Global Trendsin 2021: How COVID-19 is Transforming International Development](https://www.cgdev.org/publication/global-trends-2021-how-covid-transforming-international-development)
+- [COVID-19封锁使全球气温暂时略微升温](https://mp.weixin.qq.com/s/6CpfDuImgrcx1dKyO83nig)
+- [Climate Impacts of COVID-19 Induced Emission Changes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091805)
