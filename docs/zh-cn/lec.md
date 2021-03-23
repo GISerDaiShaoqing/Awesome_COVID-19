@@ -343,3 +343,4 @@
 - [GeoInsider在线讲座 第50期：基于地理追踪与人口流动特征的新型流行病控制方法](https://mp.weixin.qq.com/s/FX58RumYSytiepm4EVdcsQ)
 - [听完我汇报“新冠患者治疗要花多少钱”，总书记说，没事儿，我们掏得起 | 童朝晖](https://mp.weixin.qq.com/s/uvpW_BLSJ8DijHbhXSFPTQ)
 - [BMJ诚邀您参会：我们可以从全球主要的Covid-19疫苗接种计划中学到什么？](https://mp.weixin.qq.com/s/ZagXA5sm1ChBIH6OD6Jzdw)
+- [开播时间：3月25日！香港浸会大学专场：智慧城市与环境中的地理信息 | MDPI 遥感地信系列研讨会 (第三场系列二)](https://mp.weixin.qq.com/s/MjDME91uN0lf8sKZYyF7AQ)

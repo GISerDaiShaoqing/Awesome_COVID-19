@@ -173,3 +173,4 @@
 - [Reduction of Human Mobility Matters during Early COVID-19 Outbreaks: Evidence from India, Japan and China](https://www.mdpi.com/1660-4601/18/6/2826)
 - [Impact of age-selective vs non-selective physical-distancing measures against coronavirus disease 2019: a mathematical modelling study ](https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyab043/6168687)
 - [A modeling study to inform screening and testing interventions for the control of SARS-CoV-2 on university campuses](https://www.nature.com/articles/s41598-021-85252-z)
+- [Study on the COVID-19 infection status, prevention and control strategies among people entering Shenzhen](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10548-8)

@@ -1873,3 +1873,5 @@
 - [Global Trendsin 2021: How COVID-19 is Transforming International Development](https://www.cgdev.org/publication/global-trends-2021-how-covid-transforming-international-development)
 - [COVID-19封锁使全球气温暂时略微升温](https://mp.weixin.qq.com/s/6CpfDuImgrcx1dKyO83nig)
 - [Climate Impacts of COVID-19 Induced Emission Changes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091805)
+- [Epidemiological and clinical characteristics of patients with COVID-19 who have cancer: A systematic review and meta-analysis of global data](https://www.sciencedirect.com/science/article/pii/S0304383521000859?via%3Dihub)
+- [Association between air quality, meteorological factors and COVID-19 infection](https://www.sciencedirect.com/science/article/pii/S0013935121003182?via%3Dihub)

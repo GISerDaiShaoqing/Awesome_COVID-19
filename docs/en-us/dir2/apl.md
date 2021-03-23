@@ -1597,3 +1597,5 @@
 - [武汉抽样人群仅2.7%产生有效新冠抗体，仍普遍缺乏免疫力｜科研圈日报](https://mp.weixin.qq.com/s/5pvlZOk7krtMTpDw10DQAg)
 - [Science 一周论文导读｜2021年3月12日](https://mp.weixin.qq.com/s/ca2rvPjSv2RHBaqd3EdFnw)
 - [Nature 一周论文导读｜2021年3月11日](https://mp.weixin.qq.com/s/-Vx_cbcwZE8Le7powGPUyg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月22日）【中国科讯】](https://mp.weixin.qq.com/s/29NYFgEcYoj5n4NSsRNeaw)
+- [阿斯利康公布疫苗在美试验结果：保护效力 79%，未现安全隐患 | 科研圈日报](https://mp.weixin.qq.com/s/MZcrLrCUE01_wUSiFVaPWQ)
