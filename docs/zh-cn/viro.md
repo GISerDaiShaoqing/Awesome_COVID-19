@@ -933,3 +933,6 @@
 - [关于变异病毒的更新信息](https://mp.weixin.qq.com/s/4JolcIWHQN7AQIE1F4EBww)
 - [重磅：云南省蝙蝠揭示冠状病毒复杂的进化史！](https://mp.weixin.qq.com/s/YWH6AKDcZQCYpG8ucqG_5Q)
 - [Identification of novel bat coronaviruses sheds light on theevolutionary origins of SARS-CoV-2 and related viruses](https://www.biorxiv.org/content/10.1101/2021.03.08.434390v1)
+- [这个变异令新冠致死率提高了55%！中国曾出现多例…张文宏最新发声：不打疫苗会吃亏！](https://mp.weixin.qq.com/s/13QBXRYBeYzm_sTulKta6g)
+- [Cell论文解读！新研究揭示突变如何让新冠病毒逃避免疫防御](https://mp.weixin.qq.com/s/ZP5XBOx8gBeuHSLMmH5YVg)
+- [SARS-CoV-2 evolution in an immunocompromised host reveals shared neutralization escape mechanisms](https://www.sciencedirect.com/science/article/pii/S009286742100355X?via%3Dihub)

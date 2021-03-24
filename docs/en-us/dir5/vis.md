@@ -247,3 +247,4 @@
 - [The Coronavirus Dashboard](https://github.com/RamiKrispin/coronavirus_dashboard)
 - [A power-law-based approach to mapping COVID-19 cases in the United States ](https://www.researchgate.net/publication/349396425_A_power-law-based_approach_to_mapping_COVID-19_cases_in_the_United_States_REPRINT)
 - [Eyes on RT-PCR tests with echarts and french open data -- COVID-19](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)
+- [ODT Flow Explorer: Extract, Query, and Visualize Human Mobility](https://arxiv.org/abs/2011.12958)

@@ -103,3 +103,4 @@
 - [【荐刊】BMC Medicine | 传播医学领域的重大研究进展 | JCR Q1](https://mp.weixin.qq.com/s/24OBhUcRj9ODZ_47aDOvsw)
 - [Contemporary Clinical Trials全新新冠特刊上线](https://mp.weixin.qq.com/s/S7RY2zwa4sJ_bjgJ7mzPhQ)
 - [Contemporary Clinical Trials Special Issue on COVID-19](https://www.sciencedirect.com/journal/contemporary-clinical-trials/special-issue/10X8V1JPDKQ)
+- [Chinese Political Science Review | 欧洲与亚洲抗击新冠疫情专题](https://mp.weixin.qq.com/s/euZcLa7Z5AAh1jVp7I7WiA)

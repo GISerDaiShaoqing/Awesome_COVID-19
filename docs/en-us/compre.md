@@ -1875,3 +1875,7 @@
 - [Climate Impacts of COVID-19 Induced Emission Changes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091805)
 - [Epidemiological and clinical characteristics of patients with COVID-19 who have cancer: A systematic review and meta-analysis of global data](https://www.sciencedirect.com/science/article/pii/S0304383521000859?via%3Dihub)
 - [Association between air quality, meteorological factors and COVID-19 infection](https://www.sciencedirect.com/science/article/pii/S0013935121003182?via%3Dihub)
+- [新冠疫情中，科学“错”在哪儿？| Cell编辑访谈](https://mp.weixin.qq.com/s/y060VDHPn1nVwKW30oWo1Q)
+- [Scientific misinformation: A perfect storm, missteps, and moving forward](https://www.cell.com/cell/fulltext/S0092-8674(21)00175-6)
+- [全球疫情已触顶？或许尚未可知](https://mp.weixin.qq.com/s/XH_6d-fVHB0MqJzyjn7iig)
+- [Has COVID peaked? Maybe, but it’s too soon to be sure](https://www.nature.com/articles/d41586-021-00705-9)
