@@ -1602,3 +1602,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月23日）【中国科讯】](https://mp.weixin.qq.com/s/MRD8t44oZkP4-flpwedrxA)
 - [美国质疑阿斯利康疫苗最新数据，称其“过时、或具误导性” | 科研圈日报](https://mp.weixin.qq.com/s/GboG003BwECHSAj8zCS5dg)
 - [24小时热门｜普及疫苗不足以终结新冠？《科学》、《柳叶刀》关注影响疫情的其他因素](https://mp.weixin.qq.com/s/Gr-ExYAKIu4pw7dlVk5GpQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月24日）【中国科讯】](https://mp.weixin.qq.com/s/YrYMrqaF4BSz1Eyyg7kVxQ)
+- [港澳暂停接种复星医药/BioNTech 新冠疫苗：存在少量封盖有关的瑕疵｜科研圈日报](https://mp.weixin.qq.com/s/y785Zo-rDZ4ByOc8b0Zr1A)

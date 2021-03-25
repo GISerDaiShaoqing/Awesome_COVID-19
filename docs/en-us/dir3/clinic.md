@@ -1317,3 +1317,5 @@
 - [疫苗宣布“安全”，又有人接种后死亡？确定阿斯利康疫苗与血栓存在联系](https://mp.weixin.qq.com/s/j-vsObGDwiot1cWEXyzgbQ)
 - [中科院微生物所严景华研究员参加国务院联防联控机制新闻发布会介绍新冠肺炎重组蛋白疫苗情况](https://mp.weixin.qq.com/s/b92v8q5bQVHhPJvv5sWaDQ)
 - [NEJM：医护人员接种新冠疫苗后患病率骤降，但仍有感染](https://mp.weixin.qq.com/s/7yLZqKK03zKwqSCIiNJsqQ)
+- [最新研究 | 重复感染的情况罕见，但在65岁以上人群中更常见](https://mp.weixin.qq.com/s/R5xS46ibQv3dzYfAXppLow)
+- [Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00575-4/fulltext)

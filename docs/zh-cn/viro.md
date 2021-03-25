@@ -936,3 +936,5 @@
 - [这个变异令新冠致死率提高了55%！中国曾出现多例…张文宏最新发声：不打疫苗会吃亏！](https://mp.weixin.qq.com/s/13QBXRYBeYzm_sTulKta6g)
 - [Cell论文解读！新研究揭示突变如何让新冠病毒逃避免疫防御](https://mp.weixin.qq.com/s/ZP5XBOx8gBeuHSLMmH5YVg)
 - [SARS-CoV-2 evolution in an immunocompromised host reveals shared neutralization escape mechanisms](https://www.sciencedirect.com/science/article/pii/S009286742100355X?via%3Dihub)
+- [中科院微生物所王军研究组在新冠病人肠道病毒组研究领域取得新进展](https://mp.weixin.qq.com/s/0JJL8sN7f5cRdCqkc0yBXw)
+- [Integrated Gut Virome and Bacteriome Dynamics in COVID-19 Patients](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1887722)

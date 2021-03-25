@@ -1879,3 +1879,7 @@
 - [Scientific misinformation: A perfect storm, missteps, and moving forward](https://www.cell.com/cell/fulltext/S0092-8674(21)00175-6)
 - [全球疫情已触顶？或许尚未可知](https://mp.weixin.qq.com/s/XH_6d-fVHB0MqJzyjn7iig)
 - [Has COVID peaked? Maybe, but it’s too soon to be sure](https://www.nature.com/articles/d41586-021-00705-9)
+- [前线视野｜全球疫情下的新威胁：近在咫尺的食物危机](https://mp.weixin.qq.com/s/NKVkSK8CIrLyn4vlpK0aWw)
+- [Science：仅靠疫苗可能不足以终结新冠病毒大流行](https://mp.weixin.qq.com/s/usYyX0Zl7-M-aDt8ktvdXw)
+- [SARS-CoV-2 transmission without symptoms](https://science.sciencemag.org/content/371/6535/1206)
+- [Vaccines alone may not be enough to end pandemic: study](https://medicalxpress.com/news/2021-03-vaccines-pandemic.html)
