@@ -1883,3 +1883,5 @@
 - [Science：仅靠疫苗可能不足以终结新冠病毒大流行](https://mp.weixin.qq.com/s/usYyX0Zl7-M-aDt8ktvdXw)
 - [SARS-CoV-2 transmission without symptoms](https://science.sciencemag.org/content/371/6535/1206)
 - [Vaccines alone may not be enough to end pandemic: study](https://medicalxpress.com/news/2021-03-vaccines-pandemic.html)
+- [警惕：香港COVID-19大流行背后的弱势群体 | Aging and Disease](https://mp.weixin.qq.com/s/UCrym-idsxn8PPsrxY0D9w)
+- [Promoting Resilience in the Age of COVID-19 Pandemic: A New Era of Strategic Foresight](https://europepmc.org/article/PMC/PMC7801285)

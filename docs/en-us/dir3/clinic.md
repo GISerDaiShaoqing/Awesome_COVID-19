@@ -1319,3 +1319,8 @@
 - [NEJM：医护人员接种新冠疫苗后患病率骤降，但仍有感染](https://mp.weixin.qq.com/s/7yLZqKK03zKwqSCIiNJsqQ)
 - [最新研究 | 重复感染的情况罕见，但在65岁以上人群中更常见](https://mp.weixin.qq.com/s/R5xS46ibQv3dzYfAXppLow)
 - [Assessment of protection against reinfection with SARS-CoV-2 among 4 million PCR-tested individuals in Denmark in 2020: a population-level observational study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00575-4/fulltext)
+- [2020年抗新冠病毒药物研发热点回眸](https://mp.weixin.qq.com/s/1QCC02Vj8bpDU2NKDxfPVg)
+- [祸不单行|流感助虐新冠：研发流感-新冠通用疫苗刻不容缓](https://mp.weixin.qq.com/s/oi6XNPBRPPzViDhmAkcOOQ)
+- [Double insult: flu bug enhances SARS-CoV-2infectivity](https://doi.org/10.1038/s41422-021-00498-6)
+- [可怕！新冠轻度患者康复后也有后遗症！](https://mp.weixin.qq.com/s/fooUe3vjX2EsFBmn2OU8WQ)
+- [Recovered not restored: Long-term health consequences after mildCOVID-19 in non-hospitalized patients](https://www.medrxiv.org/content/10.1101/2021.03.11.21253207v1)

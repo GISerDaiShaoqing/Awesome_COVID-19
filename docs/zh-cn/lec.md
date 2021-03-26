@@ -345,3 +345,4 @@
 - [BMJ诚邀您参会：我们可以从全球主要的Covid-19疫苗接种计划中学到什么？](https://mp.weixin.qq.com/s/ZagXA5sm1ChBIH6OD6Jzdw)
 - [开播时间：3月25日！香港浸会大学专场：智慧城市与环境中的地理信息 | MDPI 遥感地信系列研讨会 (第三场系列二)](https://mp.weixin.qq.com/s/MjDME91uN0lf8sKZYyF7AQ)
 - [戴连攀：新冠疫苗，你打了吗？](https://mp.weixin.qq.com/s/lVi7nX0vCj4H4IvoPiRwsQ)
+- [买不起疫苗？COVAX团购了解一下 | 青年科学家沙龙国际场](https://mp.weixin.qq.com/s/cAOYg47Z91EXa9yGhz0JQA)

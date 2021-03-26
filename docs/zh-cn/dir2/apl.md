@@ -1604,3 +1604,5 @@
 - [24小时热门｜普及疫苗不足以终结新冠？《科学》、《柳叶刀》关注影响疫情的其他因素](https://mp.weixin.qq.com/s/Gr-ExYAKIu4pw7dlVk5GpQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月24日）【中国科讯】](https://mp.weixin.qq.com/s/YrYMrqaF4BSz1Eyyg7kVxQ)
 - [港澳暂停接种复星医药/BioNTech 新冠疫苗：存在少量封盖有关的瑕疵｜科研圈日报](https://mp.weixin.qq.com/s/y785Zo-rDZ4ByOc8b0Zr1A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月25日）【中国科讯】](https://mp.weixin.qq.com/s/sVpNcCoEOmxWrQE42ot5Yw)
+- [阿斯利康更新疫苗数据，有效性降低 3% | 科研圈日报](https://mp.weixin.qq.com/s/JCmjVGUY0ORsKZBrla7AJA)
