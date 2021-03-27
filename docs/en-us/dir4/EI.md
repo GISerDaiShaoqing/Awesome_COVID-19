@@ -175,3 +175,5 @@
 - [A modeling study to inform screening and testing interventions for the control of SARS-CoV-2 on university campuses](https://www.nature.com/articles/s41598-021-85252-z)
 - [Study on the COVID-19 infection status, prevention and control strategies among people entering Shenzhen](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10548-8)
 - [Human Mobility, Policy, and COVID-19: A Preliminary Study of South Carolina](https://www.researchgate.net/publication/349119790_Human_Mobility_Policy_and_COVID-19_A_Preliminary_Study_of_South_Carolina)
+- [Evaluating the contributions of strategies to prevent SARS-CoV-2 transmission in the healthcare setting: a modelling study](https://bmjopen.bmj.com/content/11/3/e044644.abstract)
+- [Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study](https://preprints.jmir.org/preprint/26518/accepted)

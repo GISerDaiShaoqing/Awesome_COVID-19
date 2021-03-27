@@ -938,3 +938,7 @@
 - [SARS-CoV-2 evolution in an immunocompromised host reveals shared neutralization escape mechanisms](https://www.sciencedirect.com/science/article/pii/S009286742100355X?via%3Dihub)
 - [中科院微生物所王军研究组在新冠病人肠道病毒组研究领域取得新进展](https://mp.weixin.qq.com/s/0JJL8sN7f5cRdCqkc0yBXw)
 - [Integrated Gut Virome and Bacteriome Dynamics in COVID-19 Patients](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1887722)
+- [动动手指，按下开关，病毒秒灭？紫外线消毒灯没那么神！](https://mp.weixin.qq.com/s/7zqYGa4re-b6mZ93yoXltA)
+- [Cell Research | 游富平/王祥喜合作揭示新型冠状病毒S蛋白直接结合并激活TLR4诱发抗细菌样天然免疫和病毒性脓毒症](https://mp.weixin.qq.com/s/nWXuFJ0KJQ-jt-eovhYQ4g)
+- [SARS-CoV-2 spike protein interacts with and activates TLR4 ](https://www.nature.com/articles/s41422-021-00495-9)
+- [Genomic diversity of SARS-CoV-2 during early introduction into the Baltimore–Washington metropolitan area](https://insight.jci.org/articles/view/144350)

@@ -1885,3 +1885,8 @@
 - [Vaccines alone may not be enough to end pandemic: study](https://medicalxpress.com/news/2021-03-vaccines-pandemic.html)
 - [警惕：香港COVID-19大流行背后的弱势群体 | Aging and Disease](https://mp.weixin.qq.com/s/UCrym-idsxn8PPsrxY0D9w)
 - [Promoting Resilience in the Age of COVID-19 Pandemic: A New Era of Strategic Foresight](https://europepmc.org/article/PMC/PMC7801285)
+- [任智勇和徐亘博呼吁：不能让一次性口罩像塑料一样成为下一个全球环境问题](https://mp.weixin.qq.com/s/qVFASkP9f6GfJuU-fzVIZQ)
+- [Preventing masks from becoming the next plastic problem](https://doi.org/10.1007/s11783-021-1413-7)
+- [Impact of Public Health Education Program on the Novel Coronavirus Outbreak in the United States](https://www.frontiersin.org/articles/10.3389/fpubh.2021.630974/full)
+- [Transportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
+- [Association between meteorological factors and daily new cases of COVID-19 in 188 countries: A time series analysis](https://www.sciencedirect.com/science/article/pii/S0048969721016065)
