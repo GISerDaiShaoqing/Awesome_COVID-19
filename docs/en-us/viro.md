@@ -942,3 +942,4 @@
 - [Cell Research | 游富平/王祥喜合作揭示新型冠状病毒S蛋白直接结合并激活TLR4诱发抗细菌样天然免疫和病毒性脓毒症](https://mp.weixin.qq.com/s/nWXuFJ0KJQ-jt-eovhYQ4g)
 - [SARS-CoV-2 spike protein interacts with and activates TLR4 ](https://www.nature.com/articles/s41422-021-00495-9)
 - [Genomic diversity of SARS-CoV-2 during early introduction into the Baltimore–Washington metropolitan area](https://insight.jci.org/articles/view/144350)
+- [广东疾控中心首席专家：新冠病毒尼日利亚突变株传播力强 疫苗有效性尚需观察](https://mp.weixin.qq.com/s/tkX-yYy8xC_DUa8f4KJNOg)

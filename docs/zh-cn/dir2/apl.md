@@ -1607,3 +1607,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月25日）【中国科讯】](https://mp.weixin.qq.com/s/sVpNcCoEOmxWrQE42ot5Yw)
 - [阿斯利康更新疫苗数据，有效性降低 3% | 科研圈日报](https://mp.weixin.qq.com/s/JCmjVGUY0ORsKZBrla7AJA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月25日）【中国科讯】](https://mp.weixin.qq.com/s/aqZ5eFYiSQxbiZaYOskrDQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月26日）【中国科讯】](https://mp.weixin.qq.com/s/dwdPT3a9aNL-yTO9fgCjTw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月27日）【中国科讯】](https://mp.weixin.qq.com/s/qVU1j8zLwOXrUE7A379syg)
+- [武汉抽样人群仅2.7%产生有效新冠抗体，仍普遍缺乏免疫力｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/uGsIL1sTimGkxsCWhpwnyg)
