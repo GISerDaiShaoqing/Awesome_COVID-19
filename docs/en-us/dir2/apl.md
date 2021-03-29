@@ -1610,3 +1610,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月26日）【中国科讯】](https://mp.weixin.qq.com/s/dwdPT3a9aNL-yTO9fgCjTw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月27日）【中国科讯】](https://mp.weixin.qq.com/s/qVU1j8zLwOXrUE7A379syg)
 - [武汉抽样人群仅2.7%产生有效新冠抗体，仍普遍缺乏免疫力｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/uGsIL1sTimGkxsCWhpwnyg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月28日）【中国科讯】](https://mp.weixin.qq.com/s/DAkb9QseiBiok4vk4-aOYg)
+- [全身麻醉剂引起意识丧失的皮层机制研究 | EBioMedicine3月精选](https://mp.weixin.qq.com/s/SlnJrkX6GpY9pjiMgWhWbQ)
+- [3 月 28 日我国内地新增确诊病例 15 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/ivXpbOgnMlUacJRxT97EUQ)

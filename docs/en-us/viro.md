@@ -943,3 +943,6 @@
 - [SARS-CoV-2 spike protein interacts with and activates TLR4 ](https://www.nature.com/articles/s41422-021-00495-9)
 - [Genomic diversity of SARS-CoV-2 during early introduction into the Baltimore–Washington metropolitan area](https://insight.jci.org/articles/view/144350)
 - [广东疾控中心首席专家：新冠病毒尼日利亚突变株传播力强 疫苗有效性尚需观察](https://mp.weixin.qq.com/s/tkX-yYy8xC_DUa8f4KJNOg)
+- [Nature：双特异性抗体可中和治疗抵抗性的新冠病毒变种](https://mp.weixin.qq.com/s/KOu2yzJmax_AQvp4GpPSXw)
+- [Bispecific IgG neutralizes SARS-CoV-2 variants and prevents escape in mice](https://www.nature.com/articles/s41586-021-03461-y)
+- [Double antibody against SARS-CoV-2 prevents therapy-resistant variants](https://medicalxpress.com/news/2021-03-antibody-sars-cov-therapy-resistant-variants.html)

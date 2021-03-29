@@ -105,3 +105,4 @@
 - [Contemporary Clinical Trials Special Issue on COVID-19](https://www.sciencedirect.com/journal/contemporary-clinical-trials/special-issue/10X8V1JPDKQ)
 - [Chinese Political Science Review | 欧洲与亚洲抗击新冠疫情专题](https://mp.weixin.qq.com/s/euZcLa7Z5AAh1jVp7I7WiA)
 - [郑春福教授应邀联合北美多位教授 共同主持专刊 | 病毒逃逸宿主抗病毒天然免疫的分子机制](https://mp.weixin.qq.com/s/SiY11VS2Idsnq273jwhY6A)
+- [郑春福教授应邀联合北美多位教授 共同主持专刊 | 病毒逃逸宿主抗病毒天然免疫的分子机制](https://mp.weixin.qq.com/s/T7xB2Wz6Pc0efxP3iFTUfQ)

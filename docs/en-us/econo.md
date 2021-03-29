@@ -661,3 +661,5 @@
 - [全球抗疫观｜加拿大小城哈利法克斯滞留记：日常生活八大怪](https://mp.weixin.qq.com/s/ytsBSsKjgT8aMzikxtSG9w)
 - [【2021年世行报告】新冠疫情如何改变东亚发展中国家的创新格局？](https://mp.weixin.qq.com/s/Tm0QvD_8VL45kqp0R9i3JA)
 - [袁昕：幸存与幸福——疫情之下，清华同衡再出发](https://mp.weixin.qq.com/s/Qc5Xjyyj4g4w-OzWHy8nMQ)
+- [王凯：后疫情时代的规划反思](https://mp.weixin.qq.com/s/VLqXd9jh7Q_MG-n_mWsdIg)
+- [国际资讯 | [美]新冠疫情改变纽约主导交通模式/得州独立电网的利与弊(2021.3)](https://mp.weixin.qq.com/s/LkitLctK0r7xhIIc84w2Cw)
