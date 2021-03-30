@@ -946,3 +946,5 @@
 - [Nature：双特异性抗体可中和治疗抵抗性的新冠病毒变种](https://mp.weixin.qq.com/s/KOu2yzJmax_AQvp4GpPSXw)
 - [Bispecific IgG neutralizes SARS-CoV-2 variants and prevents escape in mice](https://www.nature.com/articles/s41586-021-03461-y)
 - [Double antibody against SARS-CoV-2 prevents therapy-resistant variants](https://medicalxpress.com/news/2021-03-antibody-sars-cov-therapy-resistant-variants.html)
+- [斯坦福科学家开源了莫德纳mRNA新冠疫苗的基因测序，在GitHub上](https://mp.weixin.qq.com/s/6IscAZSpZzoxdwothL98Lw)
+- [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273)

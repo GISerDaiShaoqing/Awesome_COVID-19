@@ -1613,3 +1613,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月28日）【中国科讯】](https://mp.weixin.qq.com/s/DAkb9QseiBiok4vk4-aOYg)
 - [全身麻醉剂引起意识丧失的皮层机制研究 | EBioMedicine3月精选](https://mp.weixin.qq.com/s/SlnJrkX6GpY9pjiMgWhWbQ)
 - [3 月 28 日我国内地新增确诊病例 15 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/ivXpbOgnMlUacJRxT97EUQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月28日）【中国科讯】](https://mp.weixin.qq.com/s/EPZ6KLjFy1wSzGySiJgBGg)
+- [Nature 一周论文导读｜2021年3月18日](https://mp.weixin.qq.com/s/T7oUuhJT_zl5H1za4e6smg)
+- [24小时热门｜同日3篇NEJM：接种后感染是个例，新冠疫苗对医护人员普遍有效](https://mp.weixin.qq.com/s/y7vKeUqwpu6g8QOhejS5Sw)
+- [国家卫健委发布《新冠病毒疫苗接种技术指南（第一版）》 | 科研圈日报](https://mp.weixin.qq.com/s/fgD1bh_AS9RUQp7AC8hHMQ)

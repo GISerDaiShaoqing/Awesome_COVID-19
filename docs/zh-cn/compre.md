@@ -1890,3 +1890,6 @@
 - [Impact of Public Health Education Program on the Novel Coronavirus Outbreak in the United States](https://www.frontiersin.org/articles/10.3389/fpubh.2021.630974/full)
 - [Transportation Density Reduction Caused by City Lockdowns Across the World during the COVID-19 Epidemic: From the View of High-resolution Remote Sensing Imagery](https://arxiv.org/abs/2103.01717)
 - [Association between meteorological factors and daily new cases of COVID-19 in 188 countries: A time series analysis](https://www.sciencedirect.com/science/article/pii/S0048969721016065)
+- [碳中和与十四五规划: 绿色COVID-19复苏、城市可持续发展和清洁能源转型](https://mp.weixin.qq.com/s/3rWBlfLeTmpmrSF9Ab6zTA)
+- [Towards carbon neutrality and China’s 14th Five-Year Plan: Green COVID-19 recovery, sustainable urban development and clean energy transition](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2021/02/Towards-carbon-neutrality-and-Chinas-14th-Five-Year-Plan.pdf)
+- [Wolfram 技术帮您通过咳嗽音来预测诊断新冠病毒](https://mp.weixin.qq.com/s/dAxR03PG3DZ-X0aiiWAAug)
