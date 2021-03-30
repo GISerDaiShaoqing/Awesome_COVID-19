@@ -177,3 +177,6 @@
 - [Human Mobility, Policy, and COVID-19: A Preliminary Study of South Carolina](https://www.researchgate.net/publication/349119790_Human_Mobility_Policy_and_COVID-19_A_Preliminary_Study_of_South_Carolina)
 - [Evaluating the contributions of strategies to prevent SARS-CoV-2 transmission in the healthcare setting: a modelling study](https://bmjopen.bmj.com/content/11/3/e044644.abstract)
 - [Comparison of public response to containment measures during the initial outbreak and resurgence of COVID-19 epidemic in China: an infodemiology study](https://preprints.jmir.org/preprint/26518/accepted)
+- [Report 43: Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic](https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/2021-03-24-COVID19-Report-43.pdf)
+- [Why cities need more green space than ever](https://oppla.eu/why-cities-need-more-green-space-ever)
+- [Messaging interventions that increase COVID-19 vaccine willingness in Latin America](https://scholar.harvard.edu/files/jmarshall/files/vaccines_hesitancy_paper_ssrn.pdf)

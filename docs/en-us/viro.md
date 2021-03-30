@@ -948,3 +948,5 @@
 - [Double antibody against SARS-CoV-2 prevents therapy-resistant variants](https://medicalxpress.com/news/2021-03-antibody-sars-cov-therapy-resistant-variants.html)
 - [斯坦福科学家开源了莫德纳mRNA新冠疫苗的基因测序，在GitHub上](https://mp.weixin.qq.com/s/6IscAZSpZzoxdwothL98Lw)
 - [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273)
+- [SARS-CoV-2 N501Y Introductions and Transmissions in Switzerland from Beginning of October 2020 to February 2021—Implementation of Swiss-Wide Diagnostic Screening and Whole Genome Sequencing](https://www.mdpi.com/2076-2607/9/4/677)
+- [Genome Sequences of Three SARS-CoV-2 P.1 Strains Identified from Patients Returning from Brazil to Italy](https://mra.asm.org/content/10/12/e00177-21.abstract)

@@ -1893,3 +1893,8 @@
 - [碳中和与十四五规划: 绿色COVID-19复苏、城市可持续发展和清洁能源转型](https://mp.weixin.qq.com/s/3rWBlfLeTmpmrSF9Ab6zTA)
 - [Towards carbon neutrality and China’s 14th Five-Year Plan: Green COVID-19 recovery, sustainable urban development and clean energy transition](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2021/02/Towards-carbon-neutrality-and-Chinas-14th-Five-Year-Plan.pdf)
 - [Wolfram 技术帮您通过咳嗽音来预测诊断新冠病毒](https://mp.weixin.qq.com/s/dAxR03PG3DZ-X0aiiWAAug)
+- [Spatial Accessibility Assessment of COVID-19 Patients to Healthcare Facilities: A Case Study of Florida](https://www.sciencedirect.com/science/article/pii/S2214367X21000247)
+- [COVID-19 and Its Impact on Carbon Dioxide Emissions](https://link.springer.com/chapter/10.1007%2F978-3-030-66490-9_8)
+- [What Indians Think of the COVID-19 vaccine: A qualitative study comprising focus group discussions and thematic analysis](https://www.sciencedirect.com/science/article/pii/S1871402121000953)
+- [Development and application of a new framework for infectious disease management at early stage of new epidemics: taking COVID‐19 outbreak in China as an example](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcp.14174)
+- [On the Relevancy of Observed Ozone Increase during COVID-19 Lockdown to Summertime Ozone and PM2.5 Control Policies in China](https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00036)
