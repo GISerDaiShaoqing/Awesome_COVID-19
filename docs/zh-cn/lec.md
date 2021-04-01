@@ -347,3 +347,4 @@
 - [戴连攀：新冠疫苗，你打了吗？](https://mp.weixin.qq.com/s/lVi7nX0vCj4H4IvoPiRwsQ)
 - [买不起疫苗？COVAX团购了解一下 | 青年科学家沙龙国际场](https://mp.weixin.qq.com/s/cAOYg47Z91EXa9yGhz0JQA)
 - [要多少人接种疫苗，才能真正控制新冠疫情？｜《传染病建模》网络研讨](https://mp.weixin.qq.com/s/bV3hYmDWWEcnJbYM3Og7vQ)
+- [讲座丨后疫情时代的健康新生活](https://mp.weixin.qq.com/s/yrRCk3GLEzrNIdnEizEw7w)

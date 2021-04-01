@@ -1901,3 +1901,6 @@
 - [RCR新文：新冠肺炎相关医疗废物热化学转化技术综述](https://mp.weixin.qq.com/s/rSqL98QzdlIJl2W5Ek4AwA)
 - [Technological review on thermochemical conversion of COVID-19-related medical wastes](https://www.sciencedirect.com/science/article/pii/S0921344921000367)
 - [疫情期间儿童体重增加，父母该如何应对？](https://mp.weixin.qq.com/s/D6azYePEi0A0--dcYWPIKg)
+- [【分析】疫情下经济疲软，全球碳交易市场为何火爆？](https://mp.weixin.qq.com/s/cUW-FJx6-HwVKKPMpYcSNw)
+- [Carbon markets are proving resilient to the coronavirus pandemic](https://www.climatechangenews.com/2021/03/24/carbon-markets-proved-resilient-coronavirus-pandemic/)
+- [普通人的自然｜城市农夫：在高密度城市如何实现种地自由](https://mp.weixin.qq.com/s/o1La1Q8SXZmRV7AEv_jZ0w)

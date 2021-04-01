@@ -1621,3 +1621,6 @@
 - [阿斯利康疫苗有效性降低3%，印度现双重变异病毒 | 新冠一周研究进展](https://mp.weixin.qq.com/s/ddXTbNc-yLhLBtIK3ktT6Q)
 - [WHO新冠溯源结果：华南海鲜市场不是最初源头，病毒极不可能来自实验室｜科研圈日报](https://mp.weixin.qq.com/s/Cp5H8lnhPHbOsZ_QWIrmPQ)
 - [湖北武汉和其他6个所选省份的抗体血清阳性率的评估 | 《柳叶刀-区域健康》（西太平洋）3月精选](https://mp.weixin.qq.com/s/LAtzb1rDiLxzSYkDUP91lA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月31日）【中国科讯】](https://mp.weixin.qq.com/s/hg8Zt9i9QvIZ2fBjbnmHBw)
+- [3 月 31 日我国内地报告新增确诊病例 16 例，其中本土病例 6 例（均在云南）｜科研圈日报](https://mp.weixin.qq.com/s/bsVNLx5E9imPc0CYmgtsrA)
+- [24小时热门｜接种新冠疫苗要注意什么？多项科学研究强调有件“小事”很重要](https://mp.weixin.qq.com/s/yFb3EzZI82EG9lld96x9Vg)
