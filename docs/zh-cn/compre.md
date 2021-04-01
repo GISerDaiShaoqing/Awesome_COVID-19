@@ -1898,3 +1898,6 @@
 - [What Indians Think of the COVID-19 vaccine: A qualitative study comprising focus group discussions and thematic analysis](https://www.sciencedirect.com/science/article/pii/S1871402121000953)
 - [Development and application of a new framework for infectious disease management at early stage of new epidemics: taking COVID‐19 outbreak in China as an example](https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcp.14174)
 - [On the Relevancy of Observed Ozone Increase during COVID-19 Lockdown to Summertime Ozone and PM2.5 Control Policies in China](https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00036)
+- [RCR新文：新冠肺炎相关医疗废物热化学转化技术综述](https://mp.weixin.qq.com/s/rSqL98QzdlIJl2W5Ek4AwA)
+- [Technological review on thermochemical conversion of COVID-19-related medical wastes](https://www.sciencedirect.com/science/article/pii/S0921344921000367)
+- [疫情期间儿童体重增加，父母该如何应对？](https://mp.weixin.qq.com/s/D6azYePEi0A0--dcYWPIKg)

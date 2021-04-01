@@ -156,3 +156,5 @@
 - [北航常凌乾等研发一款新冠病毒即时快速便携式检测平台｜Research](https://mp.weixin.qq.com/s/wyCK2yOKGPO_KtBH2d2CgQ)
 - [Low-cost and Scalable Platform with Multiplexed Microwell Array Biochip for Rapid Diagnosis of COVID-19](https://downloads.spj.sciencemag.org/research/aip/2813643.pdf)
 - [疫情防控信息化应用案例 | 中国疾病预防控制中心“新型冠状病毒肺炎疫情分布”](https://mp.weixin.qq.com/s/eJxKzFRqHYLXAeLcPmYSUQ)
+- [WhereCOVID-19 项目简介](https://mp.weixin.qq.com/s/FD5lYhs4ZUB9LYV35YndmQ)
+- [WhereCOVID-19](https://wherecovid19.cigi.illinois.edu/)

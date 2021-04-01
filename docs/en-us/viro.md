@@ -950,3 +950,7 @@
 - [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273)
 - [SARS-CoV-2 N501Y Introductions and Transmissions in Switzerland from Beginning of October 2020 to February 2021—Implementation of Swiss-Wide Diagnostic Screening and Whole Genome Sequencing](https://www.mdpi.com/2076-2607/9/4/677)
 - [Genome Sequences of Three SARS-CoV-2 P.1 Strains Identified from Patients Returning from Brazil to Italy](https://mra.asm.org/content/10/12/e00177-21.abstract)
+- [朱凤才/王祥喜/秦成峰合作基于中和抗体免疫特性反向设计并开发新一代新冠病毒基因工程疫苗](https://mp.weixin.qq.com/s/-VxIEwVsglnGYQEJ4OgKXg)
+- [A proof of concept for neutralizing antibody-guided vaccine design against SARS-CoV-2](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab053/6191202?searchresult=1)
+- [Science新冠专题｜针对英国约1000人的SARS-CoV-2突变分析](https://mp.weixin.qq.com/s/L3RidDp4a6fJAvDxJKPDbQ)
+- [SARS-CoV-2 within-host diversity and transmission](https://science.sciencemag.org/content/early/2021/03/10/science.abg0821)

@@ -1617,3 +1617,7 @@
 - [Nature 一周论文导读｜2021年3月18日](https://mp.weixin.qq.com/s/T7oUuhJT_zl5H1za4e6smg)
 - [24小时热门｜同日3篇NEJM：接种后感染是个例，新冠疫苗对医护人员普遍有效](https://mp.weixin.qq.com/s/y7vKeUqwpu6g8QOhejS5Sw)
 - [国家卫健委发布《新冠病毒疫苗接种技术指南（第一版）》 | 科研圈日报](https://mp.weixin.qq.com/s/fgD1bh_AS9RUQp7AC8hHMQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（3月30日）【中国科讯】](https://mp.weixin.qq.com/s/eOfPuM978X4e6XZU-IQhYg)
+- [阿斯利康疫苗有效性降低3%，印度现双重变异病毒 | 新冠一周研究进展](https://mp.weixin.qq.com/s/ddXTbNc-yLhLBtIK3ktT6Q)
+- [WHO新冠溯源结果：华南海鲜市场不是最初源头，病毒极不可能来自实验室｜科研圈日报](https://mp.weixin.qq.com/s/Cp5H8lnhPHbOsZ_QWIrmPQ)
+- [湖北武汉和其他6个所选省份的抗体血清阳性率的评估 | 《柳叶刀-区域健康》（西太平洋）3月精选](https://mp.weixin.qq.com/s/LAtzb1rDiLxzSYkDUP91lA)

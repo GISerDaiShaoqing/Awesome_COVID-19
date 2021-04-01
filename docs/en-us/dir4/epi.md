@@ -520,3 +520,5 @@
 - [Epidemiological analysis of asymptomatic SARS-CoV-2 transmission in the community: an individual-based model](https://www.nature.com/articles/s41598-021-84893-4)
 - [An integrated epidemic modelling framework for the real-time forecast of COVID-19 outbreaks in current epicentres](https://www.tandfonline.com/doi/abs/10.1080/24754269.2021.1872131?journalCode=tstf20)
 - [Impact of age-selective vs non-selective physical-distancing measures against coronavirus disease 2019: a mathematical modelling study](https://www.researchgate.net/profile/Daniel-Ortega-Quijano/publication/350034938_Impact_of_age-selective_vs_non-selective_physical-distancing_measures_against_coronavirus_disease_2019_a_mathematical_modelling_study/links/6058f56aa6fdccbfeafc80be/Impact-of-age-selective-vs-non-selective-physical-distancing-measures-against-coronavirus-disease-2019-a-mathematical-modelling-study.pdf)
+- [新冠大流行期间低估了COVID-19的死亡率](https://mp.weixin.qq.com/s/PxH5W2jjzYe4nUOLCrSLvA)
+- [Underestimation of COVID-19 mortality during the pandemic](https://openres.ersjournals.com/content/7/1/00766-2020)

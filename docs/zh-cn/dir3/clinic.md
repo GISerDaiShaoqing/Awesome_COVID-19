@@ -1337,3 +1337,8 @@
 - [Escape of SARS-CoV-2 501Y.V2 from neutralization by convalescent plasma](https://www.nature.com/articles/s41586-021-03471-w)
 - [图解 | 新冠病毒疫苗接种技术指南（第一版）](https://mp.weixin.qq.com/s/_BE9Db69HopwJOatEvlMqQ)
 - [法国证实阿斯利康疫苗可造成罕见血栓](https://mp.weixin.qq.com/s/lt5K39oMRMnr6p5c-yn7tg)
+- [国家卫健委最新明确，这5类人不宜接种新冠疫苗！误读全解→](https://mp.weixin.qq.com/s/ncgqkAIKwfbeOdkqjTojyA)
+- [SARS-CoV-2感染恢复期患者的残留症状和肺功能下降](https://mp.weixin.qq.com/s/zYovIv1A6ani9f6tH0dRFA)
+- [Residual symptoms and lower lung function in patients recovering from SARS-CoV-2 infection](https://erj.ersjournals.com/content/57/2/2003002)
+- [肝素结合蛋白水平与严重COVID-19中的病情加重和多器官损伤相关](https://mp.weixin.qq.com/s/ai1kd4rsXhfgpc4i2xGvUg)
+- [Heparin-binding protein levels correlate with aggravation and multiorgan damage in severe COVID-19](https://openres.ersjournals.com/content/7/1/00741-2020)

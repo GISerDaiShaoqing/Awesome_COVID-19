@@ -663,3 +663,4 @@
 - [袁昕：幸存与幸福——疫情之下，清华同衡再出发](https://mp.weixin.qq.com/s/Qc5Xjyyj4g4w-OzWHy8nMQ)
 - [王凯：后疫情时代的规划反思](https://mp.weixin.qq.com/s/VLqXd9jh7Q_MG-n_mWsdIg)
 - [国际资讯 | [美]新冠疫情改变纽约主导交通模式/得州独立电网的利与弊(2021.3)](https://mp.weixin.qq.com/s/LkitLctK0r7xhIIc84w2Cw)
+- [【学术动态】新冠时期城市老年人生活质量和基础医疗保健服务：应用于意大利米兰](https://mp.weixin.qq.com/s/214KCaCQdX0Nka3FPUjShw)
