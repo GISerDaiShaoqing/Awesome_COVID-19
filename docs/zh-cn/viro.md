@@ -955,3 +955,6 @@
 - [Science新冠专题｜针对英国约1000人的SARS-CoV-2突变分析](https://mp.weixin.qq.com/s/L3RidDp4a6fJAvDxJKPDbQ)
 - [SARS-CoV-2 within-host diversity and transmission](https://science.sciencemag.org/content/early/2021/03/10/science.abg0821)
 - [病毒从动物传入到人，到华南海鲜市场疫情的暴发可能经历了很长的时间——中国-世界卫生组织新冠病毒溯源联合研究中方专家组介绍有关情况](https://mp.weixin.qq.com/s/KOSSa7M64sCt18ZMgK_Mlw)
+- [Soluble ACE2-mediated cell entry of SARS-CoV-2 via interaction with proteins related to the renin-angiotensin system](https://www.sciencedirect.com/science/article/pii/S009286742100283X)
+- [mRNA vaccination boosts cross-variant neutralizing antibodies elicited by SARS-CoV-2 infection](https://science.sciencemag.org/content/early/2021/03/24/science.abg9175)
+- [COVID‐19: emergence and mutational diversification of SARS‐CoV‐2](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13800)

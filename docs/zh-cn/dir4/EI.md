@@ -180,3 +180,5 @@
 - [Report 43: Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic](https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/2021-03-24-COVID19-Report-43.pdf)
 - [Why cities need more green space than ever](https://oppla.eu/why-cities-need-more-green-space-ever)
 - [Messaging interventions that increase COVID-19 vaccine willingness in Latin America](https://scholar.harvard.edu/files/jmarshall/files/vaccines_hesitancy_paper_ssrn.pdf)
+- [Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic](https://www.researchsquare.com/article/rs-343127/v1)
+- [The impact of non-pharmaceutical interventions on SARS-CoV-2 transmission across 130 countries and territories](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01872-8)

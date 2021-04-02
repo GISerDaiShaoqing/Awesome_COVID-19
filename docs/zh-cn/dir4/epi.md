@@ -522,3 +522,5 @@
 - [Impact of age-selective vs non-selective physical-distancing measures against coronavirus disease 2019: a mathematical modelling study](https://www.researchgate.net/profile/Daniel-Ortega-Quijano/publication/350034938_Impact_of_age-selective_vs_non-selective_physical-distancing_measures_against_coronavirus_disease_2019_a_mathematical_modelling_study/links/6058f56aa6fdccbfeafc80be/Impact-of-age-selective-vs-non-selective-physical-distancing-measures-against-coronavirus-disease-2019-a-mathematical-modelling-study.pdf)
 - [新冠大流行期间低估了COVID-19的死亡率](https://mp.weixin.qq.com/s/PxH5W2jjzYe4nUOLCrSLvA)
 - [Underestimation of COVID-19 mortality during the pandemic](https://openres.ersjournals.com/content/7/1/00766-2020)
+- [Closed monitoring of Malaysia COVID-19 using SEIR compartmental model for first wave trajectory](https://www.accentsjournals.org/paperInfo.php?journalPaperId=1254)
+- [A Simple Model for the Total Number of SARS-CoV-2 Infections on a National Level](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/simple-model-for-the-total-number-of-sarscov2-infections-on-a-national-level/AAA7FBC63F0B2621E71F17A7DFFEA3E7)
