@@ -1355,3 +1355,4 @@
 - [图解 | 新冠病毒疫苗接种问答（五）](https://mp.weixin.qq.com/s/JnyCM4pFm18rv60AQr7GLQ)
 - [中国疾控中心新冠病毒疫苗接种问答](https://mp.weixin.qq.com/s/UEbaU6fVmmFEw1bbTAMSug)
 - [中科院微生物所新冠疫苗：临床试验志愿者接种近一年后仍有抗体](https://mp.weixin.qq.com/s/xU_9e_RKreWPfddOqw0Gog)
+- [新冠疫苗接种海报发布啦！（内附下载链接）](https://mp.weixin.qq.com/s/OwowQpVVJ86h1v2qtIZ5Ww)

@@ -1624,3 +1624,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（3月31日）【中国科讯】](https://mp.weixin.qq.com/s/hg8Zt9i9QvIZ2fBjbnmHBw)
 - [3 月 31 日我国内地报告新增确诊病例 16 例，其中本土病例 6 例（均在云南）｜科研圈日报](https://mp.weixin.qq.com/s/bsVNLx5E9imPc0CYmgtsrA)
 - [24小时热门｜接种新冠疫苗要注意什么？多项科学研究强调有件“小事”很重要](https://mp.weixin.qq.com/s/yFb3EzZI82EG9lld96x9Vg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月1日）【中国科讯】](https://mp.weixin.qq.com/s/llzY_Pgwn95ZMNxrdDkQmw)
+- [老龄歧视比COVID-19更危险 | Nature Aging](https://mp.weixin.qq.com/s/u1zjNTJE9AUW6MwdpbeNxA)
+- [24小时热门｜乐观的人更不容易得高血压，接种疫苗后的效果也更好](https://mp.weixin.qq.com/s/5zDAlLZU6DmghVHvg8ZumA)
+- [港澳地区将重启 mRNA 疫苗接种 | 科研圈日报](https://mp.weixin.qq.com/s/ML2BtKizSLiouHXZ83LC4Q)

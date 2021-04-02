@@ -1905,3 +1905,4 @@
 - [Carbon markets are proving resilient to the coronavirus pandemic](https://www.climatechangenews.com/2021/03/24/carbon-markets-proved-resilient-coronavirus-pandemic/)
 - [普通人的自然｜城市农夫：在高密度城市如何实现种地自由](https://mp.weixin.qq.com/s/o1La1Q8SXZmRV7AEv_jZ0w)
 - [Measuring the direct population impact of COVID-19 in Scotland, 2020: estimating disability-adjusted life years (DALYs) during the first full calendar year](https://osf.io/preprints/socarxiv/ey36d/)
+- [Association between NO2 concentrations and spatial configuration: A study of the impacts of COVID-19 lockdowns in 54 US cities](https://iopscience.iop.org/article/10.1088/1748-9326/abf396)
