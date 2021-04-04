@@ -1628,3 +1628,5 @@
 - [老龄歧视比COVID-19更危险 | Nature Aging](https://mp.weixin.qq.com/s/u1zjNTJE9AUW6MwdpbeNxA)
 - [24小时热门｜乐观的人更不容易得高血压，接种疫苗后的效果也更好](https://mp.weixin.qq.com/s/5zDAlLZU6DmghVHvg8ZumA)
 - [港澳地区将重启 mRNA 疫苗接种 | 科研圈日报](https://mp.weixin.qq.com/s/ML2BtKizSLiouHXZ83LC4Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月2日）【中国科讯】](https://mp.weixin.qq.com/s/ueJB37Ke4WWLmVp2ZFm1Qg)
+- [接种新冠疫苗要注意什么？多项科学研究强调有件“小事”很重要｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/2203Hb27xP9LpZs_G6QYog)

@@ -1906,3 +1906,8 @@
 - [普通人的自然｜城市农夫：在高密度城市如何实现种地自由](https://mp.weixin.qq.com/s/o1La1Q8SXZmRV7AEv_jZ0w)
 - [Measuring the direct population impact of COVID-19 in Scotland, 2020: estimating disability-adjusted life years (DALYs) during the first full calendar year](https://osf.io/preprints/socarxiv/ey36d/)
 - [Association between NO2 concentrations and spatial configuration: A study of the impacts of COVID-19 lockdowns in 54 US cities](https://iopscience.iop.org/article/10.1088/1748-9326/abf396)
+- [我们离全球接种新冠疫苗还有多远？](https://mp.weixin.qq.com/s/KtSJvgg2c17wbmeWD9kn6Q)
+- [What it will take to vaccinate the world against COVID-19](https://www.nature.com/articles/d41586-021-00727-3)
+- [The impact of the COVID-19 pandemic on people's mobility: A longitudinal study of the U.S. from march to september of 2020](https://www.sciencedirect.com/science/article/pii/S0966692321000922?via%3Dihub)
+- [Exploring the influence of human mobility factors and spread prediction on early COVID-19 in the USA](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10682-3)
+- [Influence of air pollution and meteorological factors on the spread of COVID-19 in the Bangkok Metropolitan Region and Air Quality during the Outbreak](https://www.sciencedirect.com/science/article/pii/S0013935121003984)

@@ -958,3 +958,4 @@
 - [Soluble ACE2-mediated cell entry of SARS-CoV-2 via interaction with proteins related to the renin-angiotensin system](https://www.sciencedirect.com/science/article/pii/S009286742100283X)
 - [mRNA vaccination boosts cross-variant neutralizing antibodies elicited by SARS-CoV-2 infection](https://science.sciencemag.org/content/early/2021/03/24/science.abg9175)
 - [COVID‐19: emergence and mutational diversification of SARS‐CoV‐2](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13800)
+- [Antibody responses to the BNT162b2 mRNA vaccine in individuals previously infected with SARS-CoV-2](https://www.nature.com/articles/s41591-021-01325-6)

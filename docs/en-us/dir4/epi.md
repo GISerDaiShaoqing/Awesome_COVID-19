@@ -524,3 +524,4 @@
 - [Underestimation of COVID-19 mortality during the pandemic](https://openres.ersjournals.com/content/7/1/00766-2020)
 - [Closed monitoring of Malaysia COVID-19 using SEIR compartmental model for first wave trajectory](https://www.accentsjournals.org/paperInfo.php?journalPaperId=1254)
 - [A Simple Model for the Total Number of SARS-CoV-2 Infections on a National Level](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/simple-model-for-the-total-number-of-sarscov2-infections-on-a-national-level/AAA7FBC63F0B2621E71F17A7DFFEA3E7)
+- [Transmission analysis of COVID-19 with discrete time imported cases: Tianjin and Chongqing as cases](https://www.sciencedirect.com/science/article/pii/S2468042721000282)
