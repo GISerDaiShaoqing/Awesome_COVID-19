@@ -101,3 +101,4 @@
 - [PandemicLP: Long Term Prediction for Epidemic and Pandemic Data](http://est.ufmg.br/covidlp/home/pt/)
 - [Extended Susceptible-Exposed-Infected-Recovery (SEIR) Model for handling high False Negative Rate and Symptom based administration of diagnostic tests](https://github.com/umich-biostatistics/SEIRfansy)
 - [SpatialCOVID19](https://github.com/andreaparisi-science/SpatialCOVID19)
+- [COVID-19 Vaccine Spotter](https://github.com/GUI/covid-vaccine-spotter)

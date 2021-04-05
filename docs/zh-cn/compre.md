@@ -1911,3 +1911,4 @@
 - [The impact of the COVID-19 pandemic on people's mobility: A longitudinal study of the U.S. from march to september of 2020](https://www.sciencedirect.com/science/article/pii/S0966692321000922?via%3Dihub)
 - [Exploring the influence of human mobility factors and spread prediction on early COVID-19 in the USA](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10682-3)
 - [Influence of air pollution and meteorological factors on the spread of COVID-19 in the Bangkok Metropolitan Region and Air Quality during the Outbreak](https://www.sciencedirect.com/science/article/pii/S0013935121003984)
+- [An improved decomposition method to differentiate meteorological and anthropogenic effects on air pollution: A national study in China during the COVID-19 lockdown period](https://www.sciencedirect.com/science/article/pii/S1352231021000881?via%3Dihub)

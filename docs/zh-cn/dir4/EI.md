@@ -183,3 +183,4 @@
 - [Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic](https://www.researchsquare.com/article/rs-343127/v1)
 - [The impact of non-pharmaceutical interventions on SARS-CoV-2 transmission across 130 countries and territories](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01872-8)
 - [Implications of the school-household network structure on SARS-CoV-2 transmission under school reopening strategies in England](https://www.nature.com/articles/s41467-021-22213-0)
+- [Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modeling study in China](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10624-z)

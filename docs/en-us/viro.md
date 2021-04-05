@@ -959,3 +959,4 @@
 - [mRNA vaccination boosts cross-variant neutralizing antibodies elicited by SARS-CoV-2 infection](https://science.sciencemag.org/content/early/2021/03/24/science.abg9175)
 - [COVID‐19: emergence and mutational diversification of SARS‐CoV‐2](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13800)
 - [Antibody responses to the BNT162b2 mRNA vaccine in individuals previously infected with SARS-CoV-2](https://www.nature.com/articles/s41591-021-01325-6)
+- [重组蛋白疫苗：接种者中和抗体水平是康复患者两倍](https://mp.weixin.qq.com/s/CJJ8O_pXbsgs1_S0VC-gGg)

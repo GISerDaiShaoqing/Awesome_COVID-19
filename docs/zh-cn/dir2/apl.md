@@ -1630,3 +1630,5 @@
 - [港澳地区将重启 mRNA 疫苗接种 | 科研圈日报](https://mp.weixin.qq.com/s/ML2BtKizSLiouHXZ83LC4Q)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月2日）【中国科讯】](https://mp.weixin.qq.com/s/ueJB37Ke4WWLmVp2ZFm1Qg)
 - [接种新冠疫苗要注意什么？多项科学研究强调有件“小事”很重要｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/2203Hb27xP9LpZs_G6QYog)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月3日）【中国科讯】](https://mp.weixin.qq.com/s/FPaNY_5e4YrbVnYcTxk7Ow)
+- [美国发布mRNA疫苗真实世界数据：可有效预防90%的感染｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/qdRpRTLQvWnX8lsgWOYiRg)

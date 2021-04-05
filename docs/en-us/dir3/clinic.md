@@ -1356,3 +1356,5 @@
 - [中国疾控中心新冠病毒疫苗接种问答](https://mp.weixin.qq.com/s/UEbaU6fVmmFEw1bbTAMSug)
 - [中科院微生物所新冠疫苗：临床试验志愿者接种近一年后仍有抗体](https://mp.weixin.qq.com/s/xU_9e_RKreWPfddOqw0Gog)
 - [新冠疫苗接种海报发布啦！（内附下载链接）](https://mp.weixin.qq.com/s/OwowQpVVJ86h1v2qtIZ5Ww)
+- [Nat. Med.两连发：辉瑞mRNA疫苗到底有没有效](https://mp.weixin.qq.com/s/FgkRJFC_lsug-pYYurZgBQ)
+- [Initial report of decreased SARS-CoV-2 viral load after inoculation with the BNT162b2 vaccine](https://www.nature.com/articles/s41591-021-01316-7)
