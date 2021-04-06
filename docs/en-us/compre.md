@@ -1912,3 +1912,4 @@
 - [Exploring the influence of human mobility factors and spread prediction on early COVID-19 in the USA](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10682-3)
 - [Influence of air pollution and meteorological factors on the spread of COVID-19 in the Bangkok Metropolitan Region and Air Quality during the Outbreak](https://www.sciencedirect.com/science/article/pii/S0013935121003984)
 - [An improved decomposition method to differentiate meteorological and anthropogenic effects on air pollution: A national study in China during the COVID-19 lockdown period](https://www.sciencedirect.com/science/article/pii/S1352231021000881?via%3Dihub)
+- [新冠疫苗接种率领跑全球的五个国家，疫情好转了吗？](https://mp.weixin.qq.com/s/LUP4rjfv4RRF4vN64bXkfg)

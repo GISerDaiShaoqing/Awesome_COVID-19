@@ -1358,3 +1358,4 @@
 - [新冠疫苗接种海报发布啦！（内附下载链接）](https://mp.weixin.qq.com/s/OwowQpVVJ86h1v2qtIZ5Ww)
 - [Nat. Med.两连发：辉瑞mRNA疫苗到底有没有效](https://mp.weixin.qq.com/s/FgkRJFC_lsug-pYYurZgBQ)
 - [Initial report of decreased SARS-CoV-2 viral load after inoculation with the BNT162b2 vaccine](https://www.nature.com/articles/s41591-021-01316-7)
+- [哪些人不能打新冠疫苗？看这一篇就知道了！](https://mp.weixin.qq.com/s/01mLdcIh6gFyJMF2rMs_dQ)

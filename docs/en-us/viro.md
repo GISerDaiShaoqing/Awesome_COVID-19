@@ -960,3 +960,8 @@
 - [COVID‐19: emergence and mutational diversification of SARS‐CoV‐2](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13800)
 - [Antibody responses to the BNT162b2 mRNA vaccine in individuals previously infected with SARS-CoV-2](https://www.nature.com/articles/s41591-021-01325-6)
 - [重组蛋白疫苗：接种者中和抗体水平是康复患者两倍](https://mp.weixin.qq.com/s/CJJ8O_pXbsgs1_S0VC-gGg)
+- [Cell：新研究表明新冠病毒变种B.1.351和P.1逃避中和抗体](https://mp.weixin.qq.com/s/TesG12xWZ1lIEtmpyl3M8Q)
+- [SARS-CoV-2 variants B.1.351 and P.1 escape from neutralizing antibodies](https://www.sciencedirect.com/science/article/pii/S0092867421003676?via%3Dihub)
+- [Evidence for reduced antibody protection against SARS-CoV-2 variants](https://www.dpz.eu/en/home/single-view/news/hinweise-auf-verminderten-antikoerperschutz-gegen-sars-cov-2-varianten.html)
+- [Plos Pathog.：病毒分类被忽视的根源](https://mp.weixin.qq.com/s/bkIEA8tAdkKSHnZ8l--9dw)
+- [Recognizing species as a new focus of virus research](https://doi.org/10.1371/journal.ppat.1009318)
