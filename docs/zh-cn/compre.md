@@ -1928,3 +1928,7 @@
 - [Meteorological factors and incidence of COVID-19 during the first wave of the pandemic in Catalonia (Spain): A multi-county study](https://www.sciencedirect.com/science/article/pii/S235277142100029X)
 - [Within-city Variation in Reactive Oxygen Species from Fine Particle Air Pollution and COVID-19](https://www.atsjournals.org/doi/10.1164/rccm.202011-4142OC)
 - [The mutual effects of COVID-19 and obesity](https://www.sciencedirect.com/science/article/pii/S2451847620300701?via%3Dihub)
+- [怎样让疫苗接种速度超过新冠病毒传播？](https://mp.weixin.qq.com/s/PXkNcvB10eNyg5auo32Pyw)
+- [How to Fix the Vaccine Rollout](https://nautil.us/issue/95/escape/how-to-fix-the-vaccine-rollout)
+- [《柳叶刀》社论 | 美国的种族主义：确保亚裔美国人的健康公平](https://mp.weixin.qq.com/s/uZ8YUP48hzhTlgZRlgfhQw)
+- [Racism in the USA: ensuring Asian American health equity](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00769-8/fulltext)

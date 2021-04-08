@@ -666,3 +666,5 @@
 - [【学术动态】新冠时期城市老年人生活质量和基础医疗保健服务：应用于意大利米兰](https://mp.weixin.qq.com/s/214KCaCQdX0Nka3FPUjShw)
 - [国际资讯 | [欧]赫尔辛基能源挑战赛结果公布/疫情期间哥德堡人如何出行(2021.4)](https://mp.weixin.qq.com/s/acL4Mt8ag3q6ZjDR2bl8GQ)
 - [CASA Working Paper 226: The Morphology of a Post- Pandemic City | Applications to London](https://www.ucl.ac.uk/bartlett/casa/publications/2021/mar/casa-working-paper-226-morphology-post-pandemic-city-applications-london)
+- [国际资讯 | [德]教堂再利用/后新冠韧性城市试点(2021.4)](https://mp.weixin.qq.com/s/LHplCYd4dFI1ZXBWKWGy-g)
+- [全球城市观察｜借助VR工具，从孩童视角设计城市](https://mp.weixin.qq.com/s/geXk4fJmpHjffkeChpnzKw)

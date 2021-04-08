@@ -1638,3 +1638,7 @@
 - [Nature 一周论文导读｜2021年3月25日](https://mp.weixin.qq.com/s/zY_FAZKWGHgyNxuhKQ1P-w)
 - [24小时热门｜应对新冠病毒关键突变，疫苗保护效果远高于自然感染](https://mp.weixin.qq.com/s/F-N6pR8AZOFmaV1lNsWSwA)
 - [国药疫苗打开通向欧洲市场大门，在匈牙利获得欧盟GMP认证 | 科研圈日报](https://mp.weixin.qq.com/s/TDTI0kvi90AXgGNJUHHYKg)
+- [新冠肺炎疫情期间公共场所应如何科学消毒](https://mp.weixin.qq.com/s/7FifjweEsaVh4nPDXXuotA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月6日）【中国科讯】](https://mp.weixin.qq.com/s/2B43aRf_dgqjRRo2pvXgBg)
+- [校园防疫，美国名校练起“组合拳”](https://mp.weixin.qq.com/s/Vl2c7IjJIRKI_rmX9Tb7DQ)
+- [4 月 6 日我国内地新增确诊病例 12 例，其中本土病例 2 例（均在云南） | 科研圈日报](https://mp.weixin.qq.com/s/eo75u7-WNocVv9wfY03i0Q)
