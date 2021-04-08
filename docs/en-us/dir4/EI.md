@@ -186,3 +186,4 @@
 - [Effect of different resumption strategies to flatten the potential COVID-19 outbreaks amid society reopens: a modeling study in China](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10624-z)
 - [Prioritising COVID-19 vaccination in changing social and epidemiological landscapes: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00057-8/fulltext)
 - [Collectivism Predicts Mask Usage During the COVID-19 Pandemic](https://www.researchgate.net/publication/350358287_Collectivism_Predicts_Mask_Usage_During_the_COVID-19_Pandemic)
+- [Effectiveness of Localized Lockdowns in the COVID-19 Pandemic](https://www.medrxiv.org/content/10.1101/2020.08.25.20182071v3)

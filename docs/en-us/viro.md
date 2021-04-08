@@ -968,3 +968,5 @@
 - [Gut | 郑州大学等多单位合作，李兰娟/余祖江/任志刚首次发现新冠患者口腔微生物组成发生改变](https://mp.weixin.qq.com/s/TZ6wcmAgh8yDUjWRmVBjAQ)
 - [Alterations in the human oral and gut microbiomes and lipidomics in COVID-19](https://gut.bmj.com/content/early/2021/03/30/gutjnl-2020-323826)
 - [Critical ACE2 Determinants of SARS-CoV-2 and Group 2B Coronavirus Infection and Replication](https://mbio.asm.org/content/12/2/e03149-20)
+- [Coronavirus-Specific Antibody Cross Reactivity in Rhesus Macaques Following SARS-CoV-2 Vaccination and Infection](https://jvi.asm.org/content/jvi/early/2021/03/09/JVI.00117-21.full.pdf)
+- [Surveillance of SARS-CoV-2 in Frankfurt am Main from October to December 2020 Reveals High Viral Diversity Including Spike Mutation N501Y in B.1.1.70 and B.1.1.7](https://www.mdpi.com/2076-2607/9/4/748)

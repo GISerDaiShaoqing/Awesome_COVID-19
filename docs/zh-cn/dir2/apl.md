@@ -1642,3 +1642,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月6日）【中国科讯】](https://mp.weixin.qq.com/s/2B43aRf_dgqjRRo2pvXgBg)
 - [校园防疫，美国名校练起“组合拳”](https://mp.weixin.qq.com/s/Vl2c7IjJIRKI_rmX9Tb7DQ)
 - [4 月 6 日我国内地新增确诊病例 12 例，其中本土病例 2 例（均在云南） | 科研圈日报](https://mp.weixin.qq.com/s/eo75u7-WNocVv9wfY03i0Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月6日）【中国科讯】](https://mp.weixin.qq.com/s/GECw4xPjKJzxOHANc4sx9g)
+- [管轶、裴伟士获2021盖尔德纳全球卫生奖，表彰其对亚洲疫情防控贡献｜科研圈日报](https://mp.weixin.qq.com/s/YGyDZcAN-jj0ZEFgvz18Pw)
+- [24小时热门｜《柳叶刀》子刊发表23万患者数据：近1/3的新冠患者会经历长期的精神疾病](https://mp.weixin.qq.com/s/xP_abRzBFoQwgkvJOdxZ-w)

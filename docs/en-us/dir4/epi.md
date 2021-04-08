@@ -531,3 +531,4 @@
 - [Development of a Web-based Contact Tracing and Point-of-Care-Testing Workflow for SARS-CoV-2 at a German University Hospital](https://www.researchsquare.com/article/rs-379502/v1)
 - [基于多层网络的COVID-19扩散和意识传播建模研究](https://mp.weixin.qq.com/s/aI_GK3G2CIoH-siopG9i_g)
 - [Modeling the COVID-19 epidemic and awareness diffusion on multiplex networks](https://ctp.itp.ac.cn/EN/10.1088/1572-9494/abd84a)
+- [Modeling the first wave of Covid-19 pandemic in the Republic of Cyprus](https://www.nature.com/articles/s41598-021-86606-3)
