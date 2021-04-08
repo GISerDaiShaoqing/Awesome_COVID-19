@@ -965,3 +965,6 @@
 - [Evidence for reduced antibody protection against SARS-CoV-2 variants](https://www.dpz.eu/en/home/single-view/news/hinweise-auf-verminderten-antikoerperschutz-gegen-sars-cov-2-varianten.html)
 - [Plos Pathog.：病毒分类被忽视的根源](https://mp.weixin.qq.com/s/bkIEA8tAdkKSHnZ8l--9dw)
 - [Recognizing species as a new focus of virus research](https://doi.org/10.1371/journal.ppat.1009318)
+- [Gut | 郑州大学等多单位合作，李兰娟/余祖江/任志刚首次发现新冠患者口腔微生物组成发生改变](https://mp.weixin.qq.com/s/TZ6wcmAgh8yDUjWRmVBjAQ)
+- [Alterations in the human oral and gut microbiomes and lipidomics in COVID-19](https://gut.bmj.com/content/early/2021/03/30/gutjnl-2020-323826)
+- [Critical ACE2 Determinants of SARS-CoV-2 and Group 2B Coronavirus Infection and Replication](https://mbio.asm.org/content/12/2/e03149-20)

@@ -1359,3 +1359,6 @@
 - [Nat. Med.两连发：辉瑞mRNA疫苗到底有没有效](https://mp.weixin.qq.com/s/FgkRJFC_lsug-pYYurZgBQ)
 - [Initial report of decreased SARS-CoV-2 viral load after inoculation with the BNT162b2 vaccine](https://www.nature.com/articles/s41591-021-01316-7)
 - [哪些人不能打新冠疫苗？看这一篇就知道了！](https://mp.weixin.qq.com/s/01mLdcIh6gFyJMF2rMs_dQ)
+- [Determining the cutoff points of the 5C scale for assessment of COVID-19 vaccines psychological antecedents among the Arab population: A multinational study](https://www.medrxiv.org/content/10.1101/2021.03.27.21254461v1)
+- [Community Attitudes Towards Covid-19 Vaccination](https://scholarworks.uvm.edu/fmclerk/625/)
+- [Low circulation of Influenza A and coinfection with SARS‐CoV‐2 among other respiratory viruses during the COVID‐19 pandemic in a region of southern Brazil](https://onlinelibrary.wiley.com/doi/10.1002/jmv.26975)

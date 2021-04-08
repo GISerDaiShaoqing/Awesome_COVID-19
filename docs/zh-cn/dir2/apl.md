@@ -1633,3 +1633,8 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月3日）【中国科讯】](https://mp.weixin.qq.com/s/FPaNY_5e4YrbVnYcTxk7Ow)
 - [美国发布mRNA疫苗真实世界数据：可有效预防90%的感染｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/qdRpRTLQvWnX8lsgWOYiRg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月4日）【中国科讯】](https://mp.weixin.qq.com/s/SIeGUgJnZae44Nbca8lzSQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月5日）【中国科讯】](https://mp.weixin.qq.com/s/p1yJxFqBPxKGM6x4NEescg)
+- [Science 一周论文导读 | 2021年3月26日](https://mp.weixin.qq.com/s/5m17o-7Y-cBrkQc1HKcLKA)
+- [Nature 一周论文导读｜2021年3月25日](https://mp.weixin.qq.com/s/zY_FAZKWGHgyNxuhKQ1P-w)
+- [24小时热门｜应对新冠病毒关键突变，疫苗保护效果远高于自然感染](https://mp.weixin.qq.com/s/F-N6pR8AZOFmaV1lNsWSwA)
+- [国药疫苗打开通向欧洲市场大门，在匈牙利获得欧盟GMP认证 | 科研圈日报](https://mp.weixin.qq.com/s/TDTI0kvi90AXgGNJUHHYKg)

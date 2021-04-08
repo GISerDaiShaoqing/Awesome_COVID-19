@@ -525,3 +525,7 @@
 - [Closed monitoring of Malaysia COVID-19 using SEIR compartmental model for first wave trajectory](https://www.accentsjournals.org/paperInfo.php?journalPaperId=1254)
 - [A Simple Model for the Total Number of SARS-CoV-2 Infections on a National Level](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/simple-model-for-the-total-number-of-sarscov2-infections-on-a-national-level/AAA7FBC63F0B2621E71F17A7DFFEA3E7)
 - [Transmission analysis of COVID-19 with discrete time imported cases: Tianjin and Chongqing as cases](https://www.sciencedirect.com/science/article/pii/S2468042721000282)
+- [Maximum Likelihood-based Extended Kalman Filter for COVID-19 Prediction](https://www.sciencedirect.com/science/article/pii/S0960077921002769)
+- [Models for COVID-19 Daily Confirmed Cases in Different Countries](https://www.mdpi.com/2227-7390/9/6/659)
+- [Predicting new cases of COVID‐19 and the application to population sustainability analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/acfi.12785)
+- [Development of a Web-based Contact Tracing and Point-of-Care-Testing Workflow for SARS-CoV-2 at a German University Hospital](https://www.researchsquare.com/article/rs-379502/v1)
