@@ -187,3 +187,5 @@
 - [Prioritising COVID-19 vaccination in changing social and epidemiological landscapes: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00057-8/fulltext)
 - [Collectivism Predicts Mask Usage During the COVID-19 Pandemic](https://www.researchgate.net/publication/350358287_Collectivism_Predicts_Mask_Usage_During_the_COVID-19_Pandemic)
 - [Effectiveness of Localized Lockdowns in the COVID-19 Pandemic](https://www.medrxiv.org/content/10.1101/2020.08.25.20182071v3)
+- [Effects of worldwide interventions and vaccination on COVID-19 between waves and countries](https://www.medrxiv.org/content/10.1101/2021.03.31.21254702v2)
+- [Implementation of the COVID-19 Vulnerability Index Across an International Network of Health Care Data Sets: Collaborative External Validation Study](https://medinform.jmir.org/2021/4/e21547/authors)

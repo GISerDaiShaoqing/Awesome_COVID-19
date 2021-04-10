@@ -1375,3 +1375,6 @@
 - [Nature | 抗寄生虫药物或能预防新冠病毒诱导的肺部细胞融合](https://mp.weixin.qq.com/s/9MsuGZ2extHjYLpJK5AVcg)
 - [锤了！79人血栓、19人死亡，官方确认阿斯利康疫苗副作用或确实存在](https://mp.weixin.qq.com/s/iRwDZtTaFikk25XSBwZRsg)
 - [Case fatality risk of the SARS-CoV-2 variant of concern B.1.1.7 in England, 16 November to 5 February](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.11.2100256)
+- [新冠疫苗你打了吗？研发我来，接种靠你们了 | 戴连攀](https://mp.weixin.qq.com/s/B4MUIKYxTwotaAtLLqhS4A)
+- [柳叶刀-微生物 | 借鉴COVD-19经验，改善结核诊断](https://mp.weixin.qq.com/s/_EkFSg4KWtG8_N__lQkHaw)
+- [Learning from COVID-19 to reimagine tuberculosis diagnosis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00057-4/fulltext)

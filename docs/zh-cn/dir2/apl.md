@@ -1645,3 +1645,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月6日）【中国科讯】](https://mp.weixin.qq.com/s/GECw4xPjKJzxOHANc4sx9g)
 - [管轶、裴伟士获2021盖尔德纳全球卫生奖，表彰其对亚洲疫情防控贡献｜科研圈日报](https://mp.weixin.qq.com/s/YGyDZcAN-jj0ZEFgvz18Pw)
 - [24小时热门｜《柳叶刀》子刊发表23万患者数据：近1/3的新冠患者会经历长期的精神疾病](https://mp.weixin.qq.com/s/xP_abRzBFoQwgkvJOdxZ-w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月8日）【中国科讯】](https://mp.weixin.qq.com/s/1YJ_UyMIP0UOsXJcWAv4Og)
+- [日本完成首例新冠肺炎患者活体肺移植手术 | 科研圈日报](https://mp.weixin.qq.com/s/c3R0IJzL1CoxyXdFrs4kZQ)
