@@ -1378,3 +1378,8 @@
 - [新冠疫苗你打了吗？研发我来，接种靠你们了 | 戴连攀](https://mp.weixin.qq.com/s/B4MUIKYxTwotaAtLLqhS4A)
 - [柳叶刀-微生物 | 借鉴COVD-19经验，改善结核诊断](https://mp.weixin.qq.com/s/_EkFSg4KWtG8_N__lQkHaw)
 - [Learning from COVID-19 to reimagine tuberculosis diagnosis](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00057-4/fulltext)
+- [万万没想到，美国新冠疫苗多到打不完了](https://mp.weixin.qq.com/s/aS1mwt35UmtbuU-5Fodz_w)
+- [新冠疫苗的不良反应有多严重？](https://mp.weixin.qq.com/s/oREuf6lW5JAcyw-PmvA7sw)
+- [Why is it so hard to investigate the rare side effects of COVID vaccines?](https://www.nature.com/articles/d41586-021-00880-9)
+- [Nature | 抗寄生虫药物或能预防新冠病毒诱导的肺部细胞融合](https://mp.weixin.qq.com/s/sz6fCex8Y5KvfVk5toRndQ)
+- [Interim Estimates of Vaccine Effectiveness of BNT162b2 and mRNA-1273 COVID-19 Vaccines in Preventing SARS-CoV-2 Infection Among Health Care Personnel, First Responders, and Other Essential and Frontline Workers](https://tephiconnect.org/news/409584)

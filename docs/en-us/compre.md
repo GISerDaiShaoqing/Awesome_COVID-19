@@ -1938,3 +1938,6 @@
 - [The changing world under the corona virus threat—from human needs to SDGs and what next?](https://www.tandfonline.com/doi/full/10.1080/10095020.2021.1886874)
 - [Time Evolution of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Wastewater during the First Pandemic Wave of COVID-19 in the Metropolitan Area of Barcelona, Spain](https://aem.asm.org/content/87/7/e02750-20)
 - [COVID-19 research and publishing: Advance ambitiously, but cautiously, in 2021](https://www.researchgate.net/profile/Jaime-Teixeira-Da-Silva/publication/350616629_COVID-19_research_and_publishing_Advance_ambitiously_but_cautiously_in_2021/links/60696490a6fdccad3f6e489e/COVID-19-research-and-publishing-Advance-ambitiously-but-cautiously-in-2021.pdf)
+- [佳文赏析 | COVID-19引起的低电力需求和市场限制将持续降低二氧化碳排放](https://mp.weixin.qq.com/s/A8BgvoXiNto5wx87EfHIMA)
+- [COVID-19-induced low power demand and market forces starkly reduce CO2 emissions](https://www.nature.com/articles/s41558-021-00987-x)
+- [Low circulation of Influenza A and coinfection with SARS‐CoV‐2 among other respiratory viruses during the COVID‐19 pandemic in a region of southern Brazil](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.26975)
