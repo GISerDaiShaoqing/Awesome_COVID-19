@@ -668,3 +668,4 @@
 - [CASA Working Paper 226: The Morphology of a Post- Pandemic City | Applications to London](https://www.ucl.ac.uk/bartlett/casa/publications/2021/mar/casa-working-paper-226-morphology-post-pandemic-city-applications-london)
 - [国际资讯 | [德]教堂再利用/后新冠韧性城市试点(2021.4)](https://mp.weixin.qq.com/s/LHplCYd4dFI1ZXBWKWGy-g)
 - [全球城市观察｜借助VR工具，从孩童视角设计城市](https://mp.weixin.qq.com/s/geXk4fJmpHjffkeChpnzKw)
+- [COVID-19 and Retail Grocery Management: Insights From a Broad-Based Consumer Survey](https://ieeexplore.ieee.org/document/9146107)

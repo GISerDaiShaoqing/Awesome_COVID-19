@@ -31,5 +31,6 @@
 - [Impact of COVID-19 Lockdown on Physical Activity Among the Chinese Youths: The COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.592795/full)
 - [Correction: Impact of COVID-19 lockdown on activity patterns and weight status among youths in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.nature.com/articles/s41366-020-00736-8)
 - [Spatial technologies to strengthen traditional testing for SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S0966842X21000627?via%3Dihub#!)
+- [Pitfalls in Modeling Asymptomatic COVID-19 Infection](https://www.frontiersin.org/articles/10.3389/fpubh.2021.593176/full)
 
 ![](/img/ISLEwechat.jpg)

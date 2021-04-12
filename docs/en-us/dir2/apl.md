@@ -1649,3 +1649,5 @@
 - [日本完成首例新冠肺炎患者活体肺移植手术 | 科研圈日报](https://mp.weixin.qq.com/s/c3R0IJzL1CoxyXdFrs4kZQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月9日）【中国科讯】](https://mp.weixin.qq.com/s/7jd0c5KpW634Ya76ovKT2A)
 - [应对新冠病毒关键突变，疫苗保护效果远高于自然感染｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/UpAOGKr_qa1XDhFza_VkPA)
+- [2021年度盖尔德纳全球卫生奖颁发｜一周动态](https://mp.weixin.qq.com/s/UIF_e1haKiDZg6urTD1Now)
+- [日本完成首例新冠肺炎患者活体肺移植手术｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/NAxySx4ksAMRWRiTZSF1ZA)

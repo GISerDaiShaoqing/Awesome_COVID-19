@@ -1941,3 +1941,5 @@
 - [佳文赏析 | COVID-19引起的低电力需求和市场限制将持续降低二氧化碳排放](https://mp.weixin.qq.com/s/A8BgvoXiNto5wx87EfHIMA)
 - [COVID-19-induced low power demand and market forces starkly reduce CO2 emissions](https://www.nature.com/articles/s41558-021-00987-x)
 - [Low circulation of Influenza A and coinfection with SARS‐CoV‐2 among other respiratory viruses during the COVID‐19 pandemic in a region of southern Brazil](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.26975)
+- [The way forward after COVID-19 vaccination: vaccine passports with blockchain to protect personal privacy](https://innovations.bmj.com/content/early/2021/04/06/bmjinnov-2021-000661)
+- [A Web Survey to Evaluate the Thermal Stress Associated with Personal Protective Equipment among Healthcare Workers during the COVID-19 Pandemic in Italy](https://www.mdpi.com/1660-4601/18/8/3861)
