@@ -191,3 +191,4 @@
 - [Implementation of the COVID-19 Vulnerability Index Across an International Network of Health Care Data Sets: Collaborative External Validation Study](https://medinform.jmir.org/2021/4/e21547/authors)
 - [Better strategies for containing COVID-19 pandemic: a study of 25 countries via a vSIADR model](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2020.0440)
 - [Comparison of Estimated Effectiveness of Case-Based and Population-Based Interventions on COVID-19 Containment in Taiwan](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2778395)
+- [Vaccination and non-pharmaceutical interventions for COVID-19: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00143-2/fulltext)

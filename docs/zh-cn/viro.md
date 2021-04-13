@@ -972,3 +972,4 @@
 - [Surveillance of SARS-CoV-2 in Frankfurt am Main from October to December 2020 Reveals High Viral Diversity Including Spike Mutation N501Y in B.1.1.70 and B.1.1.7](https://www.mdpi.com/2076-2607/9/4/748)
 - [【Applied Energy最新原创论文】一种用于空间加热和病毒灭活的新型消毒特隆布墙：概念和性能研究](https://mp.weixin.qq.com/s/iOw25xZ9iQAuoWnr-nYgnw)
 - [A novel disinfected Trombe wall for space heating and virus inactivation: Concept and performance investigation](https://www.sciencedirect.com/science/article/pii/S0306261921002932)
+- [SARS-CoV-2 seroprevalence study in Lambayeque, Peru. June–July 2020](https://peerj.com/articles/11210/)

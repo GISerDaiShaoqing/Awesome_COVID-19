@@ -1654,3 +1654,7 @@
 - [高福否认“中国疫苗保护率低” ，称正在考虑混合接种等优化策略｜科研圈日报](https://mp.weixin.qq.com/s/iP_OHVqgPFjJNW7C70IyBg)
 - [Nature 一周论文导读｜2021年4月1日](https://mp.weixin.qq.com/s/HBUiOqJMn1h8Kr2ZDvuR_g)
 - [24小时热门｜JAMA发表364万人数据：接种mRNA新冠疫苗，局部和全身反应究竟有多常见？](https://mp.weixin.qq.com/s/ZV1J0w2AgtOcTk06bmyjyw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月13日）【中国科讯】](https://mp.weixin.qq.com/s/_5oJ8HGXmLQIIYGoSkHIFw)
+- [要防秃，放轻松 | 冰毒戒断在望 | 识别人类情感的AI亟需监管 | 自然每周简报](https://mp.weixin.qq.com/s/UpG1YmeHLqDCYJjTzV-Hqg)
+- [24小时热门｜史上最大规模性取向研究被指“不靠谱”；科兴灭活疫苗3期临床试验详细数据公布](https://mp.weixin.qq.com/s/rbEGi-8IjK9XG013agrkqQ)
+- [科兴疫苗 III 期临床数据公布，保护效力达 50.7% | 科研圈日报](https://mp.weixin.qq.com/s/Ene9uhBFs-0G-UzioQ4XHA)
