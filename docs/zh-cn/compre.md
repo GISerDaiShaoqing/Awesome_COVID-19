@@ -1943,3 +1943,8 @@
 - [Low circulation of Influenza A and coinfection with SARS‐CoV‐2 among other respiratory viruses during the COVID‐19 pandemic in a region of southern Brazil](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.26975)
 - [The way forward after COVID-19 vaccination: vaccine passports with blockchain to protect personal privacy](https://innovations.bmj.com/content/early/2021/04/06/bmjinnov-2021-000661)
 - [A Web Survey to Evaluate the Thermal Stress Associated with Personal Protective Equipment among Healthcare Workers during the COVID-19 Pandemic in Italy](https://www.mdpi.com/1660-4601/18/8/3861)
+- [疫情是否促使更多学生作弊？| International Journal for Educational Integrity](https://mp.weixin.qq.com/s/ZT5g7Z5wyjh8j1UB04ii_A)
+- [Contract cheating by STEM students through a file sharing website: a Covid-19 pandemic perspective](https://edintegrity.biomedcentral.com/articles/10.1007/s40979-021-00070-0)
+- [柳叶刀-精神病学 | 新冠感染与随后的精神健康和神经系统疾病之间存在联系](https://mp.weixin.qq.com/s/WWPp7fYoJSUE9-4W-qF_Xw)
+- [6-month neurological and psychiatric outcomes in 236 379 survivors of COVID-19: a retrospective cohort study using electronic health records](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00084-5/fulltext)
+- [Global mitigation efforts should prioritize support to the emerging emitters](https://www.researchsquare.com/article/rs-376475/v1)

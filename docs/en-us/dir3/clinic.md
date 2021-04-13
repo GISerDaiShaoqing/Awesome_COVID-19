@@ -1389,3 +1389,6 @@
 - [疾控中心新作：史上最强灭活疫苗临床数据公布](https://mp.weixin.qq.com/s/lEo5ScbVGTjC6E2qND0lFg)
 - [Immunogenicity and Safety of a SARS-CoV-2 Inactivated Vaccine (KCONVAC) in Healthy Adults: Two Randomized, Double-blind, and Placebo-controlled Phase 1/2 Clinical Trials](https://www.medrxiv.org/content/10.1101/2021.04.07.21253850v1)
 - [中国疾控中心主任高福回应“中国疫苗保护率低？”](https://mp.weixin.qq.com/s/zkv8EF575La9p2MuE5DQdA)
+- [Gut | 再取新进展！浙江大学李兰娟团队发现肠道菌群的变化与新冠患者预后的关系](https://mp.weixin.qq.com/s/14vgGqVgNRrAUkDah6eSug)
+- [Six-month follow-up of gut microbiota richness in patients with COVID-19 ](https://gut.bmj.com/content/early/2021/03/30/gutjnl-2020-323826)
+- [科兴灭活疫苗真实世界保护效力数据发布，来自突变病毒株流行的巴西](https://mp.weixin.qq.com/s/FQ3flZqm_aeE9pA9LgdsNQ)

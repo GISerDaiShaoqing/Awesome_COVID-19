@@ -1651,3 +1651,6 @@
 - [应对新冠病毒关键突变，疫苗保护效果远高于自然感染｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/UpAOGKr_qa1XDhFza_VkPA)
 - [2021年度盖尔德纳全球卫生奖颁发｜一周动态](https://mp.weixin.qq.com/s/UIF_e1haKiDZg6urTD1Now)
 - [日本完成首例新冠肺炎患者活体肺移植手术｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/NAxySx4ksAMRWRiTZSF1ZA)
+- [高福否认“中国疫苗保护率低” ，称正在考虑混合接种等优化策略｜科研圈日报](https://mp.weixin.qq.com/s/iP_OHVqgPFjJNW7C70IyBg)
+- [Nature 一周论文导读｜2021年4月1日](https://mp.weixin.qq.com/s/HBUiOqJMn1h8Kr2ZDvuR_g)
+- [24小时热门｜JAMA发表364万人数据：接种mRNA新冠疫苗，局部和全身反应究竟有多常见？](https://mp.weixin.qq.com/s/ZV1J0w2AgtOcTk06bmyjyw)
