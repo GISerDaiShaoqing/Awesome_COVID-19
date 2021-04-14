@@ -1956,3 +1956,7 @@
 - [Ambient Fine Particulate Matter Air Pollution and the Risk of Hospitalization among COVID-19 Positive Individuals: Cohort Study](https://www.sciencedirect.com/science/article/pii/S0160412021001896)
 - [Association between air quality, meteorological factors and COVID-19 infection case numbers](https://www.sciencedirect.com/science/article/pii/S0013935121003182?via%3Dihub)
 - [Government management capacities and the containment of COVID-19: a repeated cross-sectional study across Chinese cities](https://bmjopen.bmj.com/content/11/4/e041516)
+- [每周精选 | 逐步走出新型冠状病毒肺炎: 全球航空业环境可持续性政策面临的新挑战](https://mp.weixin.qq.com/s/zIZvYQ3v7GddNYirCnETZQ)
+- [Stepping up and stepping out of COVID-19: New challenges for environmental sustainability policies in the global airline industry](https://doi.org/10.1016/j.jclepro.2020.123000)
+- [约翰·霍普金斯医院指挥中心: 如何NASA级系统来管理世界一流医院? | 霍普金斯沙龙](https://mp.weixin.qq.com/s/cWOuA7A1NiVPGs8XxHIOPA)
+- [仅接种一剂新冠疫苗，反而会增加病毒“逃脱”免疫的突变可能性｜Science新冠专题](https://mp.weixin.qq.com/s/IA__FQXr3LL2yMHcvnBCWA)

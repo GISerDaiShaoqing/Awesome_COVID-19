@@ -158,3 +158,4 @@
 - [疫情防控信息化应用案例 | 中国疾病预防控制中心“新型冠状病毒肺炎疫情分布”](https://mp.weixin.qq.com/s/eJxKzFRqHYLXAeLcPmYSUQ)
 - [WhereCOVID-19 项目简介](https://mp.weixin.qq.com/s/FD5lYhs4ZUB9LYV35YndmQ)
 - [WhereCOVID-19](https://wherecovid19.cigi.illinois.edu/)
+- [如何使用GIS跟踪病毒的传播](https://mp.weixin.qq.com/s/yvJkeQchKz79_VBBCoeAmw)

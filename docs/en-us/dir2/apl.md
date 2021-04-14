@@ -1658,3 +1658,6 @@
 - [要防秃，放轻松 | 冰毒戒断在望 | 识别人类情感的AI亟需监管 | 自然每周简报](https://mp.weixin.qq.com/s/UpG1YmeHLqDCYJjTzV-Hqg)
 - [24小时热门｜史上最大规模性取向研究被指“不靠谱”；科兴灭活疫苗3期临床试验详细数据公布](https://mp.weixin.qq.com/s/rbEGi-8IjK9XG013agrkqQ)
 - [科兴疫苗 III 期临床数据公布，保护效力达 50.7% | 科研圈日报](https://mp.weixin.qq.com/s/Ene9uhBFs-0G-UzioQ4XHA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月13日）【中国科讯】](https://mp.weixin.qq.com/s/CpO42J8MsfIAvBWFcvnCQQ)
+- [美疾控建议暂停使用强生疫苗，因发生 6 例血栓病例｜科研圈日报](https://mp.weixin.qq.com/s/OdcKEJ3rp8tgUm4kkl5K9A)
+- [24小时热门｜新冠二次感染更可能无症状？《柳叶刀》发表大规模医护人员研究](https://mp.weixin.qq.com/s/r4pj0onxROiAVGz_kSjG_g)
