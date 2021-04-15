@@ -1401,3 +1401,7 @@
 - [重组新冠疫苗上新！新在哪？](https://mp.weixin.qq.com/s/tEpNbXlQgygjMbyg0wB6KQ)
 - [中国疫苗保护率低？纠正疫苗接种「一刀切」](https://mp.weixin.qq.com/s/qUFEEXaEqpHtq2rySlFnOA)
 - [Seroprevalence and correlates of SARS-CoV-2 neutralizing antibodies from a population-based study in Bonn, Germany](https://www.nature.com/articles/s41467-021-22351-5)
+- [首支国产mRNA新冠疫苗接近III期临床，将实现中国mRNA疫苗“零”突破](https://mp.weixin.qq.com/s/KaG5mMUOFP62MVCAB4nr9Q)
+- [腺病毒载体疫苗遭遇“滑铁卢”, 多国暂停接种](https://mp.weixin.qq.com/s/DPWCPxRtdgqJ5Qx21NdksQ)
+- [Nature关注:疫苗为何导致血栓？](https://mp.weixin.qq.com/s/1fQZFCS3D0b4mrOd1FsPYg)
+- [How could a COVID vaccine cause blood clots? Scientists race to investigate](https://www.nature.com/articles/d41586-021-00940-0)

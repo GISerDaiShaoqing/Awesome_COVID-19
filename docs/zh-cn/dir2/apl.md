@@ -1661,3 +1661,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月13日）【中国科讯】](https://mp.weixin.qq.com/s/CpO42J8MsfIAvBWFcvnCQQ)
 - [美疾控建议暂停使用强生疫苗，因发生 6 例血栓病例｜科研圈日报](https://mp.weixin.qq.com/s/OdcKEJ3rp8tgUm4kkl5K9A)
 - [24小时热门｜新冠二次感染更可能无症状？《柳叶刀》发表大规模医护人员研究](https://mp.weixin.qq.com/s/r4pj0onxROiAVGz_kSjG_g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月14日）【中国科讯】](https://mp.weixin.qq.com/s/iHC-tNLnrlgg1O3wLE0xfQ)
+- [丹麦全面停用阿斯利康新冠疫苗，认为“存在真实风险”｜科研圈日报](https://mp.weixin.qq.com/s/Hk5Kqg1je-ijsV8DccH3Vw)

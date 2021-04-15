@@ -671,3 +671,4 @@
 - [COVID-19 and Retail Grocery Management: Insights From a Broad-Based Consumer Survey](https://ieeexplore.ieee.org/document/9146107)
 - [Globalization, population flow and the spatial diffusion of COVID-19](https://www.tandfonline.com/doi/abs/10.1080/10225706.2021.1910526)
 - [生态之城｜在国家公园休假办公：疫情时代日本的新工作模式](https://mp.weixin.qq.com/s/he6oDa1_NiLvlQ2_QC5sKQ)
+- [全球抗疫观｜日本：樱色迷雾下的孤独与反思](https://mp.weixin.qq.com/s/qi9lwSLVu_IgmO0gJtdHLQ)

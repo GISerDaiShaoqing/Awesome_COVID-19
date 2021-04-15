@@ -538,3 +538,7 @@
 - [Monitoring the proportion of the population infected by SARS-CoV-2 using age-stratified hospitalisation and serological data: a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00064-5/fulltext)
 - [Weekly Bayesian modelling strategy to predict deaths by COVID-19: a model and case study for the state of Santa Catarina, Brazil](https://ui.adsabs.harvard.edu/abs/2021arXiv210401133D/abstract)
 - [COVID-19 Modeling: Challenges, Progress and Opportunities](https://datasciences.org/publication/COVID19-modeling-review.pdf)
+- [Estimating the instantaneous asymptomatic proportion with a simple approach: Exemplified with the publicly available COVID-19 surveillance data in Hong Kong](https://www.frontiersin.org/articles/10.3389/fpubh.2021.604455/abstract)
+- [Excess mortality in Wuhan city and other parts of China during the three months of the covid-19 outbreak: findings from nationwide mortality registries](https://www.bmj.com/content/372/bmj.n415)
+- [Low SARS-CoV-2 Transmission in Elementary Schools — Salt Lake County, Utah, December 3, 2020–January 31, 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7012e3.htm#:~:text=During%20December%203%2C%202020%E2%80%93January,670%20cases%20per%20100%2C000%20persons.)
+- [Minimal SARS-CoV-2 Transmission After Implementation of a Comprehensive Mitigation Strategy at a School — New Jersey, August 20–November 27, 2020](https://www.cdc.gov/mmwr/volumes/70/wr/mm7011a2.htm?s_cid=mm7011a2_x)

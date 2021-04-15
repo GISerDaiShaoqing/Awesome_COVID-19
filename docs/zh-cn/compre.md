@@ -1960,3 +1960,7 @@
 - [Stepping up and stepping out of COVID-19: New challenges for environmental sustainability policies in the global airline industry](https://doi.org/10.1016/j.jclepro.2020.123000)
 - [约翰·霍普金斯医院指挥中心: 如何NASA级系统来管理世界一流医院? | 霍普金斯沙龙](https://mp.weixin.qq.com/s/cWOuA7A1NiVPGs8XxHIOPA)
 - [仅接种一剂新冠疫苗，反而会增加病毒“逃脱”免疫的突变可能性｜Science新冠专题](https://mp.weixin.qq.com/s/IA__FQXr3LL2yMHcvnBCWA)
+- [【全龄友好的健康社区】新型冠状病毒肺炎疫情下健康不平等的社区治理应对思考——基于英国的分析 | 上海城市规划](https://mp.weixin.qq.com/s/TqH0MxsQOIo08WJNlV1UxQ)
+- [Real sizes of COVID-19 pandemic waves in Ukraine](https://www.researchgate.net/publication/350706236_Real_sizes_of_COVID-19_pandemic_waves_in_Ukraine)
+- [The Potential Future of the COVID-19 Pandemic Will SARS-CoV-2 Become a Recurrent Seasonal Infection?](https://jamanetwork.com/journals/jama/fullarticle/2777343)
+- [COVID-19 does not only disturb our social rhythm](https://www.heartrhythmjournal.com/article/S1547-5271(21)00115-6/fulltext)

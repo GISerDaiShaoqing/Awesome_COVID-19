@@ -192,3 +192,5 @@
 - [Better strategies for containing COVID-19 pandemic: a study of 25 countries via a vSIADR model](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2020.0440)
 - [Comparison of Estimated Effectiveness of Case-Based and Population-Based Interventions on COVID-19 Containment in Taiwan](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2778395)
 - [Vaccination and non-pharmaceutical interventions for COVID-19: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00143-2/fulltext)
+- [Nonpharmaceutical interventions contribute to the control of COVID-19 in China based on a pairwise model](https://www.sciencedirect.com/science/article/pii/S2468042721000300)
+- [Data-driven Contact Network Models of COVID-19 Reveal Trade-offs between Costs and Infections for Optimal Local Containment Policies](https://arxiv.org/abs/2104.01456)
