@@ -1405,3 +1405,7 @@
 - [腺病毒载体疫苗遭遇“滑铁卢”, 多国暂停接种](https://mp.weixin.qq.com/s/DPWCPxRtdgqJ5Qx21NdksQ)
 - [Nature关注:疫苗为何导致血栓？](https://mp.weixin.qq.com/s/1fQZFCS3D0b4mrOd1FsPYg)
 - [How could a COVID vaccine cause blood clots? Scientists race to investigate](https://www.nature.com/articles/d41586-021-00940-0)
+- [什么是最好的新冠疫苗？](https://mp.weixin.qq.com/s/YEt7XH9mNPmx3QURebbBmg)
+- [最强灭活新冠疫苗：中和抗体是康复者的2.7倍，国内第一，全球第四](https://mp.weixin.qq.com/s/kUYLs1JZuvUp0v5BhtLhkA)
+- [也谈强生、阿斯利康疫苗被暂停使用后可能引发的系列问题](https://mp.weixin.qq.com/s/2kqQrpPwta2xTDdKgSzlCw)
+- [Moderna CEO最新采访：如果爆发新疫情，20天左右就能开发出疫苗](https://mp.weixin.qq.com/s/qcuNyMlj9smT2ydFkR-fmQ)

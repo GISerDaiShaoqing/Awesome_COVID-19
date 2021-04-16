@@ -241,3 +241,4 @@
 - [数据分享｜中国各省市新冠疫情数据 & 世界各国新冠疫情数据](https://mp.weixin.qq.com/s/48X75bfxcRUhux7aBXUveA)
 - [🇵🇹 Dados relativos à pandemia COVID-19 em Portugal](https://github.com/dssg-pt/covid19pt-data)
 - [会员专享｜中国各省市 & 世界各国新冠疫情数据（更新至 3 月 28 日）](https://mp.weixin.qq.com/s/boZOnw6PJ6Fa0MEh35TDOg)
+- [Covinet数据库](https://covinet.innatelab.virologie.med.tum.de)

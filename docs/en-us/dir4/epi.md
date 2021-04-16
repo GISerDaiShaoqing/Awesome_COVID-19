@@ -542,3 +542,4 @@
 - [Excess mortality in Wuhan city and other parts of China during the three months of the covid-19 outbreak: findings from nationwide mortality registries](https://www.bmj.com/content/372/bmj.n415)
 - [Low SARS-CoV-2 Transmission in Elementary Schools — Salt Lake County, Utah, December 3, 2020–January 31, 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7012e3.htm#:~:text=During%20December%203%2C%202020%E2%80%93January,670%20cases%20per%20100%2C000%20persons.)
 - [Minimal SARS-CoV-2 Transmission After Implementation of a Comprehensive Mitigation Strategy at a School — New Jersey, August 20–November 27, 2020](https://www.cdc.gov/mmwr/volumes/70/wr/mm7011a2.htm?s_cid=mm7011a2_x)
+- [Surveillance Metrics of SARS-CoV-2 Transmission in Central Asia: Longitudinal Trend Analysis](https://www.jmir.org/2021/2/e25799)

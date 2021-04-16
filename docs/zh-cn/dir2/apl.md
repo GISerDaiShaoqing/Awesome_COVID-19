@@ -1663,3 +1663,6 @@
 - [24小时热门｜新冠二次感染更可能无症状？《柳叶刀》发表大规模医护人员研究](https://mp.weixin.qq.com/s/r4pj0onxROiAVGz_kSjG_g)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月14日）【中国科讯】](https://mp.weixin.qq.com/s/iHC-tNLnrlgg1O3wLE0xfQ)
 - [丹麦全面停用阿斯利康新冠疫苗，认为“存在真实风险”｜科研圈日报](https://mp.weixin.qq.com/s/Hk5Kqg1je-ijsV8DccH3Vw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月15日）【中国科讯】](https://mp.weixin.qq.com/s/gXN84khxivFcFsZBG8A7Wg)
+- [上百名诺奖得主要求美国开放新冠疫苗专利，与 60 多位各国前领袖联名致信拜登 | 科研圈日报](https://mp.weixin.qq.com/s/sS6WexsCBEONH4l1HTLZAA)
+- [AGU 本周精选文章：地震活动和火山爆发；COVID-19与全球空气污染；宜居行星氧误报；南极冰架崩塌](https://mp.weixin.qq.com/s/AYVMlllW2uetDrmoK1SoFg)

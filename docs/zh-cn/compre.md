@@ -1964,3 +1964,7 @@
 - [Real sizes of COVID-19 pandemic waves in Ukraine](https://www.researchgate.net/publication/350706236_Real_sizes_of_COVID-19_pandemic_waves_in_Ukraine)
 - [The Potential Future of the COVID-19 Pandemic Will SARS-CoV-2 Become a Recurrent Seasonal Infection?](https://jamanetwork.com/journals/jama/fullarticle/2777343)
 - [COVID-19 does not only disturb our social rhythm](https://www.heartrhythmjournal.com/article/S1547-5271(21)00115-6/fulltext)
+- [【疫情与空气质量】疫情下的封锁措施如何影响城市空气质量？](https://mp.weixin.qq.com/s/KjmyC7fjAHLmT8s0rvoyMA)
+- [COVID-19-Induced Lockdowns Indicate the Short-Term Control Effect of Air Pollutant Emission in 174 Cities in China](https://pubs.acs.org/doi/10.1021/acs.est.0c07170)
+- [Physical and mental health outcomes including behavior and attitudes in people having social contacts with COVID-19 patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245945)
+- [Impact of Coronavirus Disease 2019 (COVID-19) Outbreak Quarantine, Isolation, and Lockdown Policies on Mental Health and Suicide](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.565190/full)
