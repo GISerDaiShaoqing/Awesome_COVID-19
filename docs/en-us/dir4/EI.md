@@ -194,3 +194,4 @@
 - [Vaccination and non-pharmaceutical interventions for COVID-19: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00143-2/fulltext)
 - [Nonpharmaceutical interventions contribute to the control of COVID-19 in China based on a pairwise model](https://www.sciencedirect.com/science/article/pii/S2468042721000300)
 - [Data-driven Contact Network Models of COVID-19 Reveal Trade-offs between Costs and Infections for Optimal Local Containment Policies](https://arxiv.org/abs/2104.01456)
+- [Genetic evidence for the association between COVID-19 epidemic severity and timing of non-pharmaceutical interventions](https://www.nature.com/articles/s41467-021-22366-y)

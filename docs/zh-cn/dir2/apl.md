@@ -1666,3 +1666,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月15日）【中国科讯】](https://mp.weixin.qq.com/s/gXN84khxivFcFsZBG8A7Wg)
 - [上百名诺奖得主要求美国开放新冠疫苗专利，与 60 多位各国前领袖联名致信拜登 | 科研圈日报](https://mp.weixin.qq.com/s/sS6WexsCBEONH4l1HTLZAA)
 - [AGU 本周精选文章：地震活动和火山爆发；COVID-19与全球空气污染；宜居行星氧误报；南极冰架崩塌](https://mp.weixin.qq.com/s/AYVMlllW2uetDrmoK1SoFg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月16日）【中国科讯】](https://mp.weixin.qq.com/s/BqmD041eKl9vPojjQ9Bywg)
+- [科兴灭活疫苗3期临床试验详细数据公布，接种首剂疫苗14天后可观察到保护效力｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/pRPRtqd7DPhGZ3c_c5oEXg)

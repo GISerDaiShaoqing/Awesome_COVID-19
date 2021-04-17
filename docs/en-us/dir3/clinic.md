@@ -1409,3 +1409,6 @@
 - [最强灭活新冠疫苗：中和抗体是康复者的2.7倍，国内第一，全球第四](https://mp.weixin.qq.com/s/kUYLs1JZuvUp0v5BhtLhkA)
 - [也谈强生、阿斯利康疫苗被暂停使用后可能引发的系列问题](https://mp.weixin.qq.com/s/2kqQrpPwta2xTDdKgSzlCw)
 - [Moderna CEO最新采访：如果爆发新疫情，20天左右就能开发出疫苗](https://mp.weixin.qq.com/s/qcuNyMlj9smT2ydFkR-fmQ)
+- [打疫苗第一针没事，第二针就安全吗？搞懂疫苗不良反应，看这篇就够了](https://mp.weixin.qq.com/s/oOJngRQ5Ltod6ZUpZWVbqA)
+- [谁是牛津疫苗的金主爸爸？研发一款疫苗到底需要多少钱？](https://mp.weixin.qq.com/s/epckkPQxHDX8c42KRYOwxg)
+- [Who funded the research behind the Oxford-AstraZeneca COVID-19 vaccine? Approximating the funding to the University of Oxford for the research and development of the ChAdOx vaccine technology](https://www.medrxiv.org/content/10.1101/2021.04.08.21255103v1)
