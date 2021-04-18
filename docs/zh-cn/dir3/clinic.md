@@ -1412,3 +1412,5 @@
 - [打疫苗第一针没事，第二针就安全吗？搞懂疫苗不良反应，看这篇就够了](https://mp.weixin.qq.com/s/oOJngRQ5Ltod6ZUpZWVbqA)
 - [谁是牛津疫苗的金主爸爸？研发一款疫苗到底需要多少钱？](https://mp.weixin.qq.com/s/epckkPQxHDX8c42KRYOwxg)
 - [Who funded the research behind the Oxford-AstraZeneca COVID-19 vaccine? Approximating the funding to the University of Oxford for the research and development of the ChAdOx vaccine technology](https://www.medrxiv.org/content/10.1101/2021.04.08.21255103v1)
+- [惊人！以色列研究：南非发现的变种病毒，突破辉瑞疫苗防御的可能性大幅提高](https://mp.weixin.qq.com/s/D_jBiZo7JCYoJ1mJDOFW6g)
+- [S. African Covid variant better at bypassing Pfizer jab: Israeli study](https://medicalxpress.com/news/2021-04-african-covid-variant-bypassing-pfizerbiontech.html)

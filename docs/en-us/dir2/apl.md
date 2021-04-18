@@ -1668,3 +1668,4 @@
 - [AGU 本周精选文章：地震活动和火山爆发；COVID-19与全球空气污染；宜居行星氧误报；南极冰架崩塌](https://mp.weixin.qq.com/s/AYVMlllW2uetDrmoK1SoFg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月16日）【中国科讯】](https://mp.weixin.qq.com/s/BqmD041eKl9vPojjQ9Bywg)
 - [科兴灭活疫苗3期临床试验详细数据公布，接种首剂疫苗14天后可观察到保护效力｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/pRPRtqd7DPhGZ3c_c5oEXg)
+- [170余位诺奖得主及各国前政要联合致信拜登，敦促美国暂停新冠疫苗的专利保护｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/LhCrDj6-VTRbT2p3vKKqJw)

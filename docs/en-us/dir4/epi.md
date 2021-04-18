@@ -545,3 +545,4 @@
 - [Surveillance Metrics of SARS-CoV-2 Transmission in Central Asia: Longitudinal Trend Analysis](https://www.jmir.org/2021/2/e25799)
 - [Transmission dynamics and quarantine control of COVID-19 in cluster community: A new transmission-quarantine model with case study for diamond princess](https://www.worldscientific.com/doi/10.1142/S0218202521500147)
 - [Modeling the complete spatiotemporal spread of the COVID-19 epidemic in mainland China](https://www.ijidonline.com/article/S1201-9712(21)00332-5/fulltext)
+- [Designing a multi-layered surveillance approach to detecting SARS-CoV-2: A modelling study ](https://wellcomeopenresearch.org/articles/5-218/v1)

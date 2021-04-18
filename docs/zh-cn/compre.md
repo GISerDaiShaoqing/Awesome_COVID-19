@@ -1976,3 +1976,7 @@
 - [Unprecedented decarbonization of China's power system in the post-COVID era](https://arxiv.org/ftp/arxiv/papers/2104/2104.06904.pdf)
 - [Low circulation of Influenza A and coinfection with SARS‐CoV‐2 among other respiratory viruses during the COVID‐19 pandemic in a region of southern Brazil](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.26975)
 - [Estimating and mitigating the risk of COVID-19 epidemic rebound associated with reopening of international borders in Vietnam: a modelling study](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00103-0/fulltext)
+- [【警示】疫情下全球每分钟丢弃300万只用过的口罩，严重污染环境！](https://mp.weixin.qq.com/s/cbjgv7NcK0gEP1yz7auqgw)
+- [How to stop discarded face masks from polluting the planet](https://www.bloomberg.com/news/articles/2021-04-07/white-house-considering-nearly-doubling-obama-s-climate-pledge)
+- [西安理工大学赵亚乾：COVID-19与水环境科学研究](https://mp.weixin.qq.com/s/Dr0BW2_TKso4dBsEEiOmEA)
+- [Comprehensive large-scale nucleic acid–testing strategies support China’s sustained containment of COVID-19](https://www.nature.com/articles/s41591-021-01308-7)
