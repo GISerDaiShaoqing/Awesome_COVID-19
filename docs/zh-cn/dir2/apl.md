@@ -1669,3 +1669,7 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月16日）【中国科讯】](https://mp.weixin.qq.com/s/BqmD041eKl9vPojjQ9Bywg)
 - [科兴灭活疫苗3期临床试验详细数据公布，接种首剂疫苗14天后可观察到保护效力｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/pRPRtqd7DPhGZ3c_c5oEXg)
 - [170余位诺奖得主及各国前政要联合致信拜登，敦促美国暂停新冠疫苗的专利保护｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/LhCrDj6-VTRbT2p3vKKqJw)
+- [小细胞大使命！一线抗疫47天背后的17年科研坚守](https://mp.weixin.qq.com/s/aeELE6IOiY1xGQyqKIz80w)
+- [哺乳动物群落在进化时间尺度上的生态平衡点 | 复杂性科学顶刊精选5篇](https://mp.weixin.qq.com/s/ZYjJrVrQS3JEFzOuoTeK5g)
+- [地球系统建模的未来 | 《自然-计算科学》](https://mp.weixin.qq.com/s/MDqGFX6Yu3bXrRf2oDhVlw)
+- [科兴疫苗首个真实世界数据公布，有效性 67%｜科研圈日报](https://mp.weixin.qq.com/s/Q9xB9Qv2YYWEY1oTgicRzg)

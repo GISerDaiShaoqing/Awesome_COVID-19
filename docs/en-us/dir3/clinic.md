@@ -1414,3 +1414,5 @@
 - [Who funded the research behind the Oxford-AstraZeneca COVID-19 vaccine? Approximating the funding to the University of Oxford for the research and development of the ChAdOx vaccine technology](https://www.medrxiv.org/content/10.1101/2021.04.08.21255103v1)
 - [惊人！以色列研究：南非发现的变种病毒，突破辉瑞疫苗防御的可能性大幅提高](https://mp.weixin.qq.com/s/D_jBiZo7JCYoJ1mJDOFW6g)
 - [S. African Covid variant better at bypassing Pfizer jab: Israeli study](https://medicalxpress.com/news/2021-04-african-covid-variant-bypassing-pfizerbiontech.html)
+- [【防疫宣传】一图看懂！新冠病毒疫苗知识18问答](https://mp.weixin.qq.com/s/aBB7p_PF7YJci35EMJBGIQ)
+- [国产新冠疫苗首个最大规模真实世界研究结果发布：科兴有效性 67%](https://mp.weixin.qq.com/s/6atQUS4l0EVZdwA0qer0JQ)

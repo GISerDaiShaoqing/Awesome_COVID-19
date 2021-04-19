@@ -1980,3 +1980,5 @@
 - [How to stop discarded face masks from polluting the planet](https://www.bloomberg.com/news/articles/2021-04-07/white-house-considering-nearly-doubling-obama-s-climate-pledge)
 - [西安理工大学赵亚乾：COVID-19与水环境科学研究](https://mp.weixin.qq.com/s/Dr0BW2_TKso4dBsEEiOmEA)
 - [Comprehensive large-scale nucleic acid–testing strategies support China’s sustained containment of COVID-19](https://www.nature.com/articles/s41591-021-01308-7)
+- [清华大学吴静团队WR：新冠肺炎疫情对京杭运河苏南段水环境影响的新见解](https://mp.weixin.qq.com/s/GwrvkJqeq-BqQxoNV3muGA)
+- [Novel insights into impacts of the COVID-19 pandemic on aquatic environment of Beijing-Hangzhou Grand Canal in southern Jiangsu region](https://www.sciencedirect.com/science/article/pii/S0043135421000713?via%3Dihub=)

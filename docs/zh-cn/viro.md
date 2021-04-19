@@ -980,3 +980,8 @@
 - [Achimota Pararubulavirus 3: A New Bat-Derived Paramyxovirus ofthe Genus Pararubulavirus](https://doi.org/10.3390/v12111236)
 - [COVID-19轻重症患者代谢组学特征，发现重症患者重要生物标志物](https://mp.weixin.qq.com/s/oSyLsQyqLomrSR-ZcEbkew)
 - [Multi-platform omics analysis reveals molecular signature for COVID-19 pathogenesis, prognosis and drug target discovery](https://www.nature.com/articles/s41392-021-00508-4)
+- [最新研究 | COVID-19变异株B.1.1.7虽然传播能力更强，但并未增加疾病严重性](https://mp.weixin.qq.com/s/46avN19CqQSifStbDa_Oow)
+- [Changes in symptomatology, reinfection, and transmissibility associated with the SARS-CoV-2 variant B.1.1.7: an ecological study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00055-4/fulltext)
+- [Genomic characteristics and clinical effect of the emergent SARS-CoV-2 B.1.1.7 lineage in London, UK: a whole-genome sequencing and hospital-based cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00170-5/fulltext)
+- [武汉病毒所/国家病毒资源库等在SARS-CoV-2感染诱导的持续性体液免疫应答研究中取得新进展](https://mp.weixin.qq.com/s/wcUV7rsz6VgRYLe59FfX8g)
+- [SARS-CoV-2 infection induces sustained humoral immune responses in convalescent patients following symptomatic COVID-19](https://doi.org/10.1038/s41467-021-22034-1)
