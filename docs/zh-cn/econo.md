@@ -678,3 +678,8 @@
 - [专栏文章丨新冠肺炎疫情影响下居民时空行为变化及其制约因素分析](https://mp.weixin.qq.com/s/a04spE1hZy40AFr88v55qA)
 - [“新冠肺炎疫情下的时空行为”专栏导读](https://mp.weixin.qq.com/s/e--pXtL9wxPe4wM1KioD7Q)
 - [学术前沿 | 孙斌栋：重塑大国经济地理——均衡发展与中心城市的带动](https://mp.weixin.qq.com/s/zciSQ-_6fwuQovmZwIiFNg)
+- [【学术动态】后疫情时代城市公共空间的脆弱性和治理——印度 | 2021年第1期](https://mp.weixin.qq.com/s/L_4xyM9oFFc-OzHQwTAJpg)
+- [专栏文章丨新冠肺炎疫情影响下家庭企划与活动的地方秩序变化——北京市双井街道居民的案例分析](https://mp.weixin.qq.com/s/JiBmyDM74N8-V7I7TFo70g)
+- [专栏文章丨疫情下的“首道防线”：从就医企划审视家与社区地方秩序重构](https://mp.weixin.qq.com/s/lwfojysmygpxatbGy2zW5Q)
+- [专栏文章丨疫情初期新冠肺炎患者的就医行为特征及制约因素研究——以武汉市为例](https://mp.weixin.qq.com/s/1xW8AkDtDPln5r-SuQTR6g)
+- [Global economic impacts of COVID-19 lockdown measures stand out in high-frequency shipping data](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0248818)

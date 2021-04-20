@@ -249,3 +249,5 @@
 - [Eyes on RT-PCR tests with echarts and french open data -- COVID-19](https://guillaumepressiat.github.io/blog/2021/01/covidview-si-dep-echarts4r)
 - [ODT Flow Explorer: Extract, Query, and Visualize Human Mobility](https://arxiv.org/abs/2011.12958)
 - [A citizen science initiative for open data and visualization of COVID-19 outbreak in Kerala, India](https://academic.oup.com/jamia/article/27/12/1913/5882022)
+- [编委佳作 |基于幂律的美国新冠肺炎病例绘图方法（全文翻译）](https://mp.weixin.qq.com/s/c8-tnNTpw5DrQfhgKsvvuA)
+- [A power-law-based approach to mapping COVID-19 cases in the United States](https://www.tandfonline.com/doi/full/10.1080/10095020.2020.1871306?src=)

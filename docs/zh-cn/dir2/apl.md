@@ -1673,3 +1673,7 @@
 - [哺乳动物群落在进化时间尺度上的生态平衡点 | 复杂性科学顶刊精选5篇](https://mp.weixin.qq.com/s/ZYjJrVrQS3JEFzOuoTeK5g)
 - [地球系统建模的未来 | 《自然-计算科学》](https://mp.weixin.qq.com/s/MDqGFX6Yu3bXrRf2oDhVlw)
 - [科兴疫苗首个真实世界数据公布，有效性 67%｜科研圈日报](https://mp.weixin.qq.com/s/Q9xB9Qv2YYWEY1oTgicRzg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月19日）【中国科讯】](https://mp.weixin.qq.com/s/8dFx--SSaWVxkwQ5wd-hZA)
+- [Science 一周论文导读｜2021年4月9日](https://mp.weixin.qq.com/s/mUdqynlNrs4VN_YFNopHYA)
+- [Nature 一周论文导读｜2021年4月8日](https://mp.weixin.qq.com/s/exTMIVhmw3xduSIQhBD8sA)
+- [4 月 19 日我国内地新增确诊病例 10 例，其中本土病例 1 例（在云南） | 科研圈日报](https://mp.weixin.qq.com/s/Ywr_BfBmiOxp4QGgNLq-Bg)

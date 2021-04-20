@@ -547,3 +547,6 @@
 - [Modeling the complete spatiotemporal spread of the COVID-19 epidemic in mainland China](https://www.ijidonline.com/article/S1201-9712(21)00332-5/fulltext)
 - [Designing a multi-layered surveillance approach to detecting SARS-CoV-2: A modelling study ](https://wellcomeopenresearch.org/articles/5-218/v1)
 - [Modeling the complete spatiotemporal spread of the COVID-19 epidemic in mainland China](https://www.ijidonline.com/article/S1201-9712(21)00332-5/fulltext)
+- [学术成果 | 揭示美国新冠疫情的空间位移模式](https://mp.weixin.qq.com/s/JBFN3HpnH_pANx4GVvWorw)
+- [Revealing the spatial shifting pattern of COVID-19 pandemic in the United States](https://doi.org/10.1038/s41598-021-87902-8)
+- [Spatio-Temporal Neural Network for Fitting and Forecasting COVID-19](https://arxiv.org/abs/2103.11860#:~:text=We%20established%20a%20Spatio%2DTemporal,data%20but%20also%20spatial%20features.)

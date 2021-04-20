@@ -1982,3 +1982,8 @@
 - [Comprehensive large-scale nucleic acid–testing strategies support China’s sustained containment of COVID-19](https://www.nature.com/articles/s41591-021-01308-7)
 - [清华大学吴静团队WR：新冠肺炎疫情对京杭运河苏南段水环境影响的新见解](https://mp.weixin.qq.com/s/GwrvkJqeq-BqQxoNV3muGA)
 - [Novel insights into impacts of the COVID-19 pandemic on aquatic environment of Beijing-Hangzhou Grand Canal in southern Jiangsu region](https://www.sciencedirect.com/science/article/pii/S0043135421000713?via%3Dihub=)
+- [风险评估：如果冠状病毒感染扩散到北美蝙蝠 后果可能是灾难性的](https://mp.weixin.qq.com/s/XuIqcQ62TL_p6EKL08BUhQ)
+- [The Burden of Disease due to COVID-19 in Korea Using Disability-Adjusted Life Years](https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e199)
+- [Covid-19 in New Zealand and the Pacific: implications for children and families](https://www.tandfonline.com/doi/full/10.1080/14733285.2021.1907312)
+- [The Perception and Attitudes toward COVID-19 Vaccines: A Cross-Sectional Study in Poland](https://www.mdpi.com/2076-393X/9/4/382)
+- [Childhood obesity and the effects of the COVID-19 pandemic](https://www.magonlinelibrary.com/doi/abs/10.12968/indn.2021.4.14)

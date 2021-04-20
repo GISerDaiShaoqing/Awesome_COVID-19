@@ -195,3 +195,4 @@
 - [Nonpharmaceutical interventions contribute to the control of COVID-19 in China based on a pairwise model](https://www.sciencedirect.com/science/article/pii/S2468042721000300)
 - [Data-driven Contact Network Models of COVID-19 Reveal Trade-offs between Costs and Infections for Optimal Local Containment Policies](https://arxiv.org/abs/2104.01456)
 - [Genetic evidence for the association between COVID-19 epidemic severity and timing of non-pharmaceutical interventions](https://www.nature.com/articles/s41467-021-22366-y)
+- [Modeling vaccination rollouts, SARS-CoV-2 variants and the requirement for non-pharmaceutical interventions in Italy](https://www.nature.com/articles/s41591-021-01334-5)
