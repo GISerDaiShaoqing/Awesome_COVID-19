@@ -1677,3 +1677,6 @@
 - [Science 一周论文导读｜2021年4月9日](https://mp.weixin.qq.com/s/mUdqynlNrs4VN_YFNopHYA)
 - [Nature 一周论文导读｜2021年4月8日](https://mp.weixin.qq.com/s/exTMIVhmw3xduSIQhBD8sA)
 - [4 月 19 日我国内地新增确诊病例 10 例，其中本土病例 1 例（在云南） | 科研圈日报](https://mp.weixin.qq.com/s/Ywr_BfBmiOxp4QGgNLq-Bg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月20日）【中国科讯】](https://mp.weixin.qq.com/s/Vg8HjPUjes9FBo0VbDaQrg)
+- [希望每个人拥有健康权 | Heliyon三月精选](https://mp.weixin.qq.com/s/noh7po-Qa90hqE93WXW_fw)
+- [4 月 20 日我国内地新增确诊病例 21 例，其中本土病例 2 例（均在云南） | 科研圈日报](https://mp.weixin.qq.com/s/AN5nMxkgewg65b-xHUoi0g)

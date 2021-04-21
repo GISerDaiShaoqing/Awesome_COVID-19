@@ -1987,3 +1987,7 @@
 - [Covid-19 in New Zealand and the Pacific: implications for children and families](https://www.tandfonline.com/doi/full/10.1080/14733285.2021.1907312)
 - [The Perception and Attitudes toward COVID-19 Vaccines: A Cross-Sectional Study in Poland](https://www.mdpi.com/2076-393X/9/4/382)
 - [Childhood obesity and the effects of the COVID-19 pandemic](https://www.magonlinelibrary.com/doi/abs/10.12968/indn.2021.4.14)
+- [JHM专栏 | 新冠病毒（SARS-CoV-2）在水环境中的存在与迁移情况研究](https://mp.weixin.qq.com/s/5ROAOgE93Wgde3LTp8tEUw)
+- [Frontier review on the propensity and repercussion of SARS-CoV-2 migration to aquatic environment](https://www.sciencedirect.com/science/article/pii/S2666911020300010)
+- [The role of social cohesion in addressing the impact of COVID-19 on mental health within marginalized communities](https://www.tandfonline.com/doi/full/10.1080/26883597.2020.1829985)
+- [Global NO2 dynamics during the COVID-19 pandemic: A comparison between two waves of the coronavirus](https://ieeexplore.ieee.org/document/9404820)

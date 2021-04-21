@@ -348,3 +348,5 @@
 - [买不起疫苗？COVAX团购了解一下 | 青年科学家沙龙国际场](https://mp.weixin.qq.com/s/cAOYg47Z91EXa9yGhz0JQA)
 - [要多少人接种疫苗，才能真正控制新冠疫情？｜《传染病建模》网络研讨](https://mp.weixin.qq.com/s/bV3hYmDWWEcnJbYM3Og7vQ)
 - [讲座丨后疫情时代的健康新生活](https://mp.weixin.qq.com/s/yrRCk3GLEzrNIdnEizEw7w)
+- [直播预告 | 科学人讲坛《剑与盾之歌——人类对抗病毒的精彩瞬间》 【中国科讯】](https://mp.weixin.qq.com/s/lpY2T0K0IwkRnlvJeOGdkQ)
+- [后疫情时代全球气候变化减排的新机遇与新挑战](https://mp.weixin.qq.com/s/L-EGeQGmRE7ISeItx5yNHw)
