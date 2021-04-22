@@ -1680,3 +1680,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月20日）【中国科讯】](https://mp.weixin.qq.com/s/Vg8HjPUjes9FBo0VbDaQrg)
 - [希望每个人拥有健康权 | Heliyon三月精选](https://mp.weixin.qq.com/s/noh7po-Qa90hqE93WXW_fw)
 - [4 月 20 日我国内地新增确诊病例 21 例，其中本土病例 2 例（均在云南） | 科研圈日报](https://mp.weixin.qq.com/s/AN5nMxkgewg65b-xHUoi0g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月21日）【中国科讯】](https://mp.weixin.qq.com/s/gez1jqLoFuISEU5lo9Ir-w)
+- [西安一人接种新冠疫苗后仍被感染，中疾控发布原因调查报告｜科研圈日报](https://mp.weixin.qq.com/s/HWanZEiAIPQBhJqAoUzeNQ)
+- [24小时热门｜研究发现，“脆弱”国家的COVID-19感染率和死亡率低于正常水平](https://mp.weixin.qq.com/s/u2UrZiLyuR6A6-r1qWWL3Q)

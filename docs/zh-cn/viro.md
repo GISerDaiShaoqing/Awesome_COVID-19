@@ -991,3 +991,6 @@
 - [Cross-reactivity of two SARS-CoV-2 serological assays in a malaria-endemic setting](https://jcm.asm.org/content/early/2021/04/13/JCM.00514-21)
 - [Interim Estimates of Vaccine Effectiveness of BNT162b2 and mRNA-1273 COVID-19 Vaccines in Preventing SARS-CoV-2 Infection Among Health Care Personnel, First Responders, and Other Essential and Frontline Workers — Eight U.S. Locations, December 2020–March 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7013e3.htm)
 - [Lack of cross-transmission of SARS-CoV-2 between passenger's cabins on the Diamond Princess cruise ship](https://www.sciencedirect.com/science/article/pii/S0360132321002456)
+- [BNT162b2 Vaccination Effectively Prevents the Rapid Rise of SARS-CoV-2 Variant B. 1.1. 7 in high risk populations in Israel](https://www.sciencedirect.com/science/article/pii/S266637912100080X)
+- [Monitoring differences between the SARS-CoV-2 B.1.1.7 variant and other lineages](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00073-6/fulltext)
+- [Neutralizing antibody responses after SARS-CoV-2 infection in end-stage kidney disease and protection against reinfection](https://www.kireports.org/article/S2468-0249(21)01082-2/fulltext)

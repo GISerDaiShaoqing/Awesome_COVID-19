@@ -1422,3 +1422,7 @@
 - [柳叶刀子刊：武汉大学曾宪涛团队探讨新冠复阳特征及危险因素](https://mp.weixin.qq.com/s/okLIYpQE0LZqxPIjQxilEQ)
 - [A systematic review and meta-analysis of discharged COVID-19 patients retesting positive for RT-PCR](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00119-X/fulltext)
 - [CDC周报：接种疫苗后仍感染的原因找到了](https://mp.weixin.qq.com/s/bBPFRiMVqhot8EoLUWMEEw)
+- [重大进展！张凯/唐琪琳/王朋倩首次发现针灸对新冠患者治疗可能产生积极作用的潜在机理](https://mp.weixin.qq.com/s/N7afapDmjDqYRwC7bKpBBw)
+- [Is acupuncture effective in the treatment of COVID-19 related symptoms? Based on bioinformatics/network topology strategy](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab110/6235963)
+- [国药新冠疫苗安全数据出炉：未见严重不良反应](https://mp.weixin.qq.com/s/vvqhnW8V1lkXs4-3UdYd3g)
+- [Clinical Course and Mortality of Stroke Patients With Coronavirus Disease 2019 in Wuhan, China](https://www.ahajournals.org/doi/10.1161/STROKEAHA.120.030642)

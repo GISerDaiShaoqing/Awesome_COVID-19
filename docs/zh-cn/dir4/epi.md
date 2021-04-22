@@ -550,3 +550,6 @@
 - [学术成果 | 揭示美国新冠疫情的空间位移模式](https://mp.weixin.qq.com/s/JBFN3HpnH_pANx4GVvWorw)
 - [Revealing the spatial shifting pattern of COVID-19 pandemic in the United States](https://doi.org/10.1038/s41598-021-87902-8)
 - [Spatio-Temporal Neural Network for Fitting and Forecasting COVID-19](https://arxiv.org/abs/2103.11860#:~:text=We%20established%20a%20Spatio%2DTemporal,data%20but%20also%20spatial%20features.)
+- [中疾控报告：西安一医院检验人员接种疫苗仍被感染原因找到了](https://mp.weixin.qq.com/s/g3h4VOZN3dOP8-3r_-PFaA)
+- [Outbreak Reports: Mild Breakthrough Infection in a Healthcare Professional Working in the Isolation Area of a Hospital Designated for Treating COVID-19 Patients — Shaanxi Province, China, March, 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.094)
+- [Mobilizing a COVID-19 Contact Tracing Workforce at Warp Speed: A Framework for Successful Program Implementation](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1665/article-10.4269-ajtmh.20-1665.xml)
