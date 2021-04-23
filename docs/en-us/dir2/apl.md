@@ -1683,3 +1683,4 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月21日）【中国科讯】](https://mp.weixin.qq.com/s/gez1jqLoFuISEU5lo9Ir-w)
 - [西安一人接种新冠疫苗后仍被感染，中疾控发布原因调查报告｜科研圈日报](https://mp.weixin.qq.com/s/HWanZEiAIPQBhJqAoUzeNQ)
 - [24小时热门｜研究发现，“脆弱”国家的COVID-19感染率和死亡率低于正常水平](https://mp.weixin.qq.com/s/u2UrZiLyuR6A6-r1qWWL3Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月22日）【中国科讯】](https://mp.weixin.qq.com/s/_Tc5HxHK2c--LKDdo2oDDA)
