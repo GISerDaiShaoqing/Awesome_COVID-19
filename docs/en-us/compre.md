@@ -1999,3 +1999,5 @@
 - [The exploration of human activity zones using geo-tagged big data during the COVID-19 first lockdown in London, UK](https://zenodo.org/record/4670050#.YIHXAOgzaUk)
 - [Silent world under COVID-19 — a comprehensive impact analysis based on human mobility](https://europepmc.org/article/ppr/ppr309538)
 - [Coronavirus conspiracy suspicions, general vaccine attitudes, trust, and coronavirus information source as predictors of vaccine hesitancy among UK residents during the COVID-19 pandemic](https://www.cambridge.org/core/journals/psychological-medicine/article/coronavirus-conspiracy-suspicions-general-vaccine-attitudes-trust-and-coronavirus-information-source-as-predictors-of-vaccine-hesitancy-among-uk-residents-during-the-covid19-pandemic/FEC34AA0D1972E3A761C784A39D26536)
+- [分析新冠肺炎的长期影响 |《自然》论文](https://mp.weixin.qq.com/s/SX84GldukgT9h4-4BKMMmw)
+- [High-dimensional characterization of post-acute sequalae of COVID-19](https://www.nature.com/articles/s41586-021-03553-9)

@@ -198,3 +198,4 @@
 - [Modeling vaccination rollouts, SARS-CoV-2 variants and the requirement for non-pharmaceutical interventions in Italy](https://www.nature.com/articles/s41591-021-01334-5)
 - [Epidemiology and public health response in early phase of COVID-19 pandemic, Veneto Region, Italy, 21 February to 2 April 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.47.2000548)
 - [COVID-19 Non-Pharmaceutical Intervention Portfolio Effectiveness and Risk](https://www.researchgate.net/profile/Matteo-Convertino/publication/350672332_COVID-19_Non-Pharmaceutical_Intervention_Portfolio_Effectiveness_and_Risk_Communication_Predominance/links/606d1baa4585159de5011cf1/COVID-19-Non-Pharmaceutical-Intervention-Portfolio-Effectiveness-and-Risk-Communication-Predominance.pdf)
+- [Importance of sustaining non-pharmaceutical interventions for COVID-19 until herd immunity](https://www.hkmj.org/abstracts/v27n2/95.htm)

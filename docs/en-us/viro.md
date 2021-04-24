@@ -994,3 +994,4 @@
 - [BNT162b2 Vaccination Effectively Prevents the Rapid Rise of SARS-CoV-2 Variant B. 1.1. 7 in high risk populations in Israel](https://www.sciencedirect.com/science/article/pii/S266637912100080X)
 - [Monitoring differences between the SARS-CoV-2 B.1.1.7 variant and other lineages](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00073-6/fulltext)
 - [Neutralizing antibody responses after SARS-CoV-2 infection in end-stage kidney disease and protection against reinfection](https://www.kireports.org/article/S2468-0249(21)01082-2/fulltext)
+- [SARS-CoV-2: The viral shedding vs infectivity dilemma](https://www.sciencedirect.com/science/article/pii/S2468045120300286?via%3Dihub)

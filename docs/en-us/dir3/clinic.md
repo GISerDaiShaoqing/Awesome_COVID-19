@@ -1426,3 +1426,8 @@
 - [Is acupuncture effective in the treatment of COVID-19 related symptoms? Based on bioinformatics/network topology strategy](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab110/6235963)
 - [国药新冠疫苗安全数据出炉：未见严重不良反应](https://mp.weixin.qq.com/s/vvqhnW8V1lkXs4-3UdYd3g)
 - [Clinical Course and Mortality of Stroke Patients With Coronavirus Disease 2019 in Wuhan, China](https://www.ahajournals.org/doi/10.1161/STROKEAHA.120.030642)
+- [逾50万人次接种，国药中国生物新冠灭活疫苗安全性数据发布](https://mp.weixin.qq.com/s/achRlfws8RKcW2nWX9BZRA)
+- [新冠疫苗和血栓确定相关吗？五问五答](https://mp.weixin.qq.com/s/2u-vuhO9_dIs8v20F8vriQ)
+- [COVID vaccines and blood clots: five key questions](https://www.nature.com/articles/d41586-021-00998-w)
+- [江苏144人参与！瑞mRNA疫苗中国人群I期临床数据出炉！](https://mp.weixin.qq.com/s/HOXqygltYi2Cz20_7RC7YQ)
+- [Safety and immunogenicity of the SARS-CoV-2 BNT162b1 mRNA vaccine in younger and older Chinese adults: a randomized, placebo-controlled, double-blind phase 1 study](https://www.nature.com/articles/s41591-021-01330-9)
