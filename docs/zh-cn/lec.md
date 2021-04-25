@@ -350,3 +350,4 @@
 - [讲座丨后疫情时代的健康新生活](https://mp.weixin.qq.com/s/yrRCk3GLEzrNIdnEizEw7w)
 - [直播预告 | 科学人讲坛《剑与盾之歌——人类对抗病毒的精彩瞬间》 【中国科讯】](https://mp.weixin.qq.com/s/lpY2T0K0IwkRnlvJeOGdkQ)
 - [后疫情时代全球气候变化减排的新机遇与新挑战](https://mp.weixin.qq.com/s/L-EGeQGmRE7ISeItx5yNHw)
+- [中国疾病预防控制中心高福院士即将做客“雁栖湖名家大讲堂”](https://mp.weixin.qq.com/s/DW4Uatfa31Pgu8pAxyBE8g)
