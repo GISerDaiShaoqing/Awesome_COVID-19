@@ -553,3 +553,5 @@
 - [中疾控报告：西安一医院检验人员接种疫苗仍被感染原因找到了](https://mp.weixin.qq.com/s/g3h4VOZN3dOP8-3r_-PFaA)
 - [Outbreak Reports: Mild Breakthrough Infection in a Healthcare Professional Working in the Isolation Area of a Hospital Designated for Treating COVID-19 Patients — Shaanxi Province, China, March, 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.094)
 - [Mobilizing a COVID-19 Contact Tracing Workforce at Warp Speed: A Framework for Successful Program Implementation](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1665/article-10.4269-ajtmh.20-1665.xml)
+- [Early cases of SARS-CoV-2 infection in Uganda: epidemiology and lessons learned from risk-based testing approaches – March-April 2020](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-020-00643-7)
+- [Exploring the influence of human mobility factors and spread prediction on early COVID-19 in the USA](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10682-3)

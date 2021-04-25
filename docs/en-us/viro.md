@@ -995,3 +995,8 @@
 - [Monitoring differences between the SARS-CoV-2 B.1.1.7 variant and other lineages](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00073-6/fulltext)
 - [Neutralizing antibody responses after SARS-CoV-2 infection in end-stage kidney disease and protection against reinfection](https://www.kireports.org/article/S2468-0249(21)01082-2/fulltext)
 - [SARS-CoV-2: The viral shedding vs infectivity dilemma](https://www.sciencedirect.com/science/article/pii/S2468045120300286?via%3Dihub)
+- [新冠症状轻重的免疫机制：肺泡巨噬细胞抑制或促进病毒感染的两面性](https://mp.weixin.qq.com/s/JK8Zq1GzY5qW_7Fd8nCJTg)
+- [Distinct uptake, amplification, and release of SARS-CoV-2 by M1 and M2 alveolar macrophages](https://www.nature.com/articles/s41421-021-00258-1)
+- [Genome Sequences of Three SARS-CoV-2 P.1 Strains Identified from Patients Returning from Brazil to Italy](https://mra.asm.org/content/10/12/e00177-21.abstract)
+- [SARS-CoV-2 escape mutants and protective immunity from natural infections or immunizations](https://www.sciencedirect.com/science/article/pii/S1198743X21001464)
+- [An intra-host SARS-CoV-2 dynamics model to assess testing and quarantine strategies for incoming travelers, contact person management and de-isolation](https://www.sciencedirect.com/science/article/pii/S266638992100088X)

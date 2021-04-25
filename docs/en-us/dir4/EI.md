@@ -199,3 +199,6 @@
 - [Epidemiology and public health response in early phase of COVID-19 pandemic, Veneto Region, Italy, 21 February to 2 April 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.47.2000548)
 - [COVID-19 Non-Pharmaceutical Intervention Portfolio Effectiveness and Risk](https://www.researchgate.net/profile/Matteo-Convertino/publication/350672332_COVID-19_Non-Pharmaceutical_Intervention_Portfolio_Effectiveness_and_Risk_Communication_Predominance/links/606d1baa4585159de5011cf1/COVID-19-Non-Pharmaceutical-Intervention-Portfolio-Effectiveness-and-Risk-Communication-Predominance.pdf)
 - [Importance of sustaining non-pharmaceutical interventions for COVID-19 until herd immunity](https://www.hkmj.org/abstracts/v27n2/95.htm)
+- [Infections Forecasting and Intervention Effect Evaluation for COVID-19 via a Data-Driven Markov Process and Heterogeneous Simulation](https://arxiv.org/abs/2101.03133)
+- [Modelling the effectiveness of intervention strategies to control COVID-19 outbreaks and estimating healthcare demand in Germany](https://www.sciencedirect.com/science/article/pii/S266653522100046X)
+- [Effects of worldwide interventions and vaccination on COVID-19 between waves and countries](https://assets.researchsquare.com/files/rs-396989/v1_stamped.pdf)
