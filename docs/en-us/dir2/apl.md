@@ -1688,3 +1688,4 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月23日）【中国科讯】](https://mp.weixin.qq.com/s/VLyqoHdq-tljT8YAaaga9A)
 - [《科学》（20210423出版）一周论文导读](https://mp.weixin.qq.com/s/s6qtVa2x0Z54ROhy4JVZcg)
 - [疫苗产量全球第一的印度，自己快打不上新冠疫苗了｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/ndsQSLKAVm1DXMoSA6uPGQ)
+- [新冠肺炎疫苗、抗体和药物研发方面取得重要进展丨亮点成果](https://mp.weixin.qq.com/s/v7YpNlpdLRWR6ACr_vamdQ)
