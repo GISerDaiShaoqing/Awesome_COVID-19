@@ -107,3 +107,4 @@
 - [郑春福教授应邀联合北美多位教授 共同主持专刊 | 病毒逃逸宿主抗病毒天然免疫的分子机制](https://mp.weixin.qq.com/s/SiY11VS2Idsnq273jwhY6A)
 - [郑春福教授应邀联合北美多位教授 共同主持专刊 | 病毒逃逸宿主抗病毒天然免疫的分子机制](https://mp.weixin.qq.com/s/T7xB2Wz6Pc0efxP3iFTUfQ)
 - [战“疫”疾控人影像事迹征集启事](https://mp.weixin.qq.com/s/7GOTDfrPl74TTSq9_biRoA)
+- [专刊推荐| 地理社交媒体和众源大数据分析](https://mp.weixin.qq.com/s/cnLl8dzA1uGw6DBPGiX14g)

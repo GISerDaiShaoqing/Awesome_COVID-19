@@ -555,3 +555,5 @@
 - [Mobilizing a COVID-19 Contact Tracing Workforce at Warp Speed: A Framework for Successful Program Implementation](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.20-1665/article-10.4269-ajtmh.20-1665.xml)
 - [Early cases of SARS-CoV-2 infection in Uganda: epidemiology and lessons learned from risk-based testing approaches – March-April 2020](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-020-00643-7)
 - [Exploring the influence of human mobility factors and spread prediction on early COVID-19 in the USA](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10682-3)
+- [推测香港各区发病风险 理大新技术预警疫情](https://mp.weixin.qq.com/s/9A7S-VQJF7xNAQepqjAPTQ)
+- [Spatiotemporal heterogeneity and its determinants of COVID-19 transmission in typical labor export provinces of China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05926-x)

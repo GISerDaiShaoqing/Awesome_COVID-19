@@ -1000,3 +1000,4 @@
 - [Genome Sequences of Three SARS-CoV-2 P.1 Strains Identified from Patients Returning from Brazil to Italy](https://mra.asm.org/content/10/12/e00177-21.abstract)
 - [SARS-CoV-2 escape mutants and protective immunity from natural infections or immunizations](https://www.sciencedirect.com/science/article/pii/S1198743X21001464)
 - [An intra-host SARS-CoV-2 dynamics model to assess testing and quarantine strategies for incoming travelers, contact person management and de-isolation](https://www.sciencedirect.com/science/article/pii/S266638992100088X)
+- [谁能想到，研发艾滋疫苗的技术，却先用在了新冠疫苗上](https://mp.weixin.qq.com/s/JzLXKSiGY8n7BP0aXxcGVg)

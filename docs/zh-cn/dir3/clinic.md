@@ -1439,3 +1439,5 @@
 - [Vaccine Breakthrough Infections with SARS-CoV-2 Variants](https://www.nejm.org/doi/10.1056/NEJMoa2105000)
 - [Science：疫苗研发不应仅停留在SARS-CoV-2上，通用冠状病毒疫苗箭在弦上](https://mp.weixin.qq.com/s/KG_hkzzEK5NzBbaGQ9hTKA)
 - [Covid-19 Vaccines: Misinformation and Hesitancy](https://kingsthinktank.com/2021/04/14/covid-19-vaccines-misinformation-and-hesitancy/)
+- [早产率增加97%！新研究支持孕妇接种新冠疫苗](https://mp.weixin.qq.com/s/vKliNDLyMjrYQCB-D3qJJw)
+- [Maternal and Neonatal Morbidity and Mortality Among Pregnant Women With and Without COVID-19 Infection The INTERCOVID Multinational Cohort Study](https://doi.org/10.1001/jamapediatrics.2021.1050)
