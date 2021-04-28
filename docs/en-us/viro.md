@@ -1001,3 +1001,5 @@
 - [SARS-CoV-2 escape mutants and protective immunity from natural infections or immunizations](https://www.sciencedirect.com/science/article/pii/S1198743X21001464)
 - [An intra-host SARS-CoV-2 dynamics model to assess testing and quarantine strategies for incoming travelers, contact person management and de-isolation](https://www.sciencedirect.com/science/article/pii/S266638992100088X)
 - [谁能想到，研发艾滋疫苗的技术，却先用在了新冠疫苗上](https://mp.weixin.qq.com/s/JzLXKSiGY8n7BP0aXxcGVg)
+- [Transmission Dynamics of SARS-CoV-2 Within-Host Diversity in Two Major Hospital Outbreaks in South Africa](https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veab041/6248115)
+- [A novel linker-immunodominant site (LIS) vaccine targeting the SARS-CoV-2 spike protein protects against severe COVID-19 in Syrian hamsters](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1921621)

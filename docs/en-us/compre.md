@@ -2017,3 +2017,6 @@
 - [【碳排放】后疫情时代下的化石能源碳排放量](https://mp.weixin.qq.com/s/h14QtFRoZxZGxLIypYkt9Q)
 - [Fossil CO2 emissions in the post-COVID-19 era](https://www.nature.com/articles/s41558-021-01001-0)
 - [Analysis of Key Factors of a SARS-CoV-2 Vaccination Program: A Mathematical Modeling Approach](https://www.mdpi.com/2673-3986/2/2/12)
+- [全球抗疫观｜德国专家呼吁关注新冠“长期后遗症”](https://mp.weixin.qq.com/s/_0apjsr-xhBCpYbFxn3__A)
+- [Nature：新冠疫情一年，七成科研人员感到“身心俱疲”，该如何缓解？](https://mp.weixin.qq.com/s/S56L2_1SMJuOmGrEMpobHg)
+- [Changes in mobility and socioeconomic conditions during the COVID-19 outbreak](https://www.nature.com/articles/s41599-021-00775-0)

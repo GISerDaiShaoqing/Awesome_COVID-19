@@ -352,3 +352,5 @@
 - [后疫情时代全球气候变化减排的新机遇与新挑战](https://mp.weixin.qq.com/s/L-EGeQGmRE7ISeItx5yNHw)
 - [中国疾病预防控制中心高福院士即将做客“雁栖湖名家大讲堂”](https://mp.weixin.qq.com/s/DW4Uatfa31Pgu8pAxyBE8g)
 - [中国疾病预防控制中心高福院士即将做客“雁栖湖名家大讲堂”](https://mp.weixin.qq.com/s/RVyz_Tc8wni3pCp2LL7yEQ)
+- [在线研讨会 | 走近Vaccine 和 Vaccine: X，以及COVID-19在中国的最新进展](https://mp.weixin.qq.com/s/PHlmiOCA1Wj_sKoCpcpo6w)
+- [讲座预告 | 新冠肺炎的前世今生与未来](https://mp.weixin.qq.com/s/DCyS87lTCb_NKzUVKRYg1w)
