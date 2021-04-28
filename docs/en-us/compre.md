@@ -2020,3 +2020,4 @@
 - [全球抗疫观｜德国专家呼吁关注新冠“长期后遗症”](https://mp.weixin.qq.com/s/_0apjsr-xhBCpYbFxn3__A)
 - [Nature：新冠疫情一年，七成科研人员感到“身心俱疲”，该如何缓解？](https://mp.weixin.qq.com/s/S56L2_1SMJuOmGrEMpobHg)
 - [Changes in mobility and socioeconomic conditions during the COVID-19 outbreak](https://www.nature.com/articles/s41599-021-00775-0)
+- [印度实际感染或30倍于官方数字，这波疫情为何空前反弹？](https://mp.weixin.qq.com/s/9tA9-OoAGK7mK_IuhhV6Pw)

@@ -251,3 +251,4 @@
 - [A citizen science initiative for open data and visualization of COVID-19 outbreak in Kerala, India](https://academic.oup.com/jamia/article/27/12/1913/5882022)
 - [编委佳作 |基于幂律的美国新冠肺炎病例绘图方法（全文翻译）](https://mp.weixin.qq.com/s/c8-tnNTpw5DrQfhgKsvvuA)
 - [A power-law-based approach to mapping COVID-19 cases in the United States](https://www.tandfonline.com/doi/full/10.1080/10095020.2020.1871306?src=)
+- [印度日增30万？吓得我赶紧画个图来看看！](https://mp.weixin.qq.com/s/4j4cMIyg9SvA2Qtnw5j4Dg)

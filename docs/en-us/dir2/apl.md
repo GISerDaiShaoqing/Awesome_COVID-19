@@ -1702,3 +1702,5 @@
 - [​元胞自动机模拟斑图生长动力学 | 复杂性科学顶刊精选6篇](https://mp.weixin.qq.com/s/ZG1I-rW5IUaisEw3nVJLkg)
 - [追击疫苗谣言 | 又走路又爬树 | 防过敏的猪 | 自然每周简报](https://mp.weixin.qq.com/s/vX0J4fxX_oGKY2xSktoosg)
 - [4 月 26 日我国内地新增确诊病例 11 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/TYjlC6yqgHpHfCk19ylUqQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月27日）【中国科讯】](https://mp.weixin.qq.com/s/LNeNbo6KtoLGwCyj1QvIAg)
+- [4 月 27 日我国内地新增确诊病例 12 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/i1FmREDpjRolbSfEN1U_aA)
