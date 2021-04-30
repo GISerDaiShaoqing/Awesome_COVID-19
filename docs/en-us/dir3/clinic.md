@@ -1445,3 +1445,8 @@
 - [What do we know about China’scovid-19 vaccines?](https://www.bmj.com/content/373/bmj.n912)
 - [Accuracy of rapid antigen detection test for nasopharyngeal swab specimens and saliva samples in comparison with RT-PCR and viral culture for SARS-CoV-2 detection](https://www.sciencedirect.com/science/article/pii/S1341321X21001173)
 - [Partial immunity and SARS-CoV-2 mutations—Response](https://science.sciencemag.org/content/372/6540/354.2)
+- [拯救脓毒症运动关于成人COVID-19的ICU管理指南：第一次更新](https://mp.weixin.qq.com/s/CnHrNlH2r9xNLekHUEhACg)
+- [【在线速递】糖皮质激素对2019新型冠状病毒感染患者预后的影响](https://mp.weixin.qq.com/s/rTbHoPTz93FRgEmzGGuWXQ)
+- [Cell: 王佑春团队最新研究为疫苗优化设计提供重要参考 | Cell Press对话科学家](https://mp.weixin.qq.com/s/U8bAxUnWwQ0DGpjZ78XA5A)
+- [SARS-CoV-2 501Y.V2 variants lack higher infectivity but do have immune escape](https://www.cell.com/cell/fulltext/S0092-8674(21)00231-2#%20)
+- [打的中国生物疫苗，为何接种信息是兰州生物或成都生物？](https://mp.weixin.qq.com/s/MoA04wbSO24KtdFlvv9qyA)

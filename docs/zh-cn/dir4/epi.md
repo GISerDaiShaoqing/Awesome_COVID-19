@@ -559,3 +559,4 @@
 - [Spatiotemporal heterogeneity and its determinants of COVID-19 transmission in typical labor export provinces of China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-05926-x)
 - [Impact of a New SARS-CoV-2 Variant on the Population: A Mathematical Modeling Approach](https://www.mdpi.com/2297-8747/26/2/25)
 - [sircovid](https://github.com/mrc-ide/sircovid)
+- [Carga de enfermedad de la COVID-19 y de sus complicaciones agudas y crónicas: reflexiones sobre la medición (DALY) y perspectivas en el Sistema Único de Salud de Brasil](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2020001103001&tlng=pt)

@@ -2025,3 +2025,5 @@
 - [Investor rewards to environmental responsibility: Evidence from the COVID-19 crisis](https://www.sciencedirect.com/science/article/pii/S0929119921000699?via%3Dihub=)
 - [Evaluation of Depression and Anxiety Levels and Related Factors Among Operating Theater Workers During the Novel Coronavirus (COVID-19) Pandemic](https://www.sciencedirect.com/science/article/pii/S1089947220301866?via%3Dihub)
 - [Implications of a highly transmissible variant of SARS-CoV-2 for children](https://adc.bmj.com/content/early/2021/03/29/archdischild-2021-321903)
+- [Epidemiologic, clinical, and laboratory findings of the COVID-19 in the current pandemic: systematic review and meta-analysis](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05371-2)
+- [COVID-19 Lockdown and Social Capital Changes Among Youths in China](http://www.ijhpm.com/article_4022.html)
