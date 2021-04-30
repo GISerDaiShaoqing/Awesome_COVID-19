@@ -1441,3 +1441,7 @@
 - [Covid-19 Vaccines: Misinformation and Hesitancy](https://kingsthinktank.com/2021/04/14/covid-19-vaccines-misinformation-and-hesitancy/)
 - [早产率增加97%！新研究支持孕妇接种新冠疫苗](https://mp.weixin.qq.com/s/vKliNDLyMjrYQCB-D3qJJw)
 - [Maternal and Neonatal Morbidity and Mortality Among Pregnant Women With and Without COVID-19 Infection The INTERCOVID Multinational Cohort Study](https://doi.org/10.1001/jamapediatrics.2021.1050)
+- [医学顶刊BMJ全面解析中国疫苗](https://mp.weixin.qq.com/s/u5v8qYT6d3FO7RwX0FfIgA)
+- [What do we know about China’scovid-19 vaccines?](https://www.bmj.com/content/373/bmj.n912)
+- [Accuracy of rapid antigen detection test for nasopharyngeal swab specimens and saliva samples in comparison with RT-PCR and viral culture for SARS-CoV-2 detection](https://www.sciencedirect.com/science/article/pii/S1341321X21001173)
+- [Partial immunity and SARS-CoV-2 mutations—Response](https://science.sciencemag.org/content/372/6540/354.2)

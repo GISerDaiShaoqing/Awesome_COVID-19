@@ -2021,3 +2021,7 @@
 - [Nature：新冠疫情一年，七成科研人员感到“身心俱疲”，该如何缓解？](https://mp.weixin.qq.com/s/S56L2_1SMJuOmGrEMpobHg)
 - [Changes in mobility and socioeconomic conditions during the COVID-19 outbreak](https://www.nature.com/articles/s41599-021-00775-0)
 - [印度实际感染或30倍于官方数字，这波疫情为何空前反弹？](https://mp.weixin.qq.com/s/9tA9-OoAGK7mK_IuhhV6Pw)
+- [【环境责任】COVID-19是否分散了投资者对环境问题的关注？](https://mp.weixin.qq.com/s/7b4TLOTc2UF5th-fDQ57Ng)
+- [Investor rewards to environmental responsibility: Evidence from the COVID-19 crisis](https://www.sciencedirect.com/science/article/pii/S0929119921000699?via%3Dihub=)
+- [Evaluation of Depression and Anxiety Levels and Related Factors Among Operating Theater Workers During the Novel Coronavirus (COVID-19) Pandemic](https://www.sciencedirect.com/science/article/pii/S1089947220301866?via%3Dihub)
+- [Implications of a highly transmissible variant of SARS-CoV-2 for children](https://adc.bmj.com/content/early/2021/03/29/archdischild-2021-321903)

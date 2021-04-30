@@ -1704,3 +1704,7 @@
 - [4 月 26 日我国内地新增确诊病例 11 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/TYjlC6yqgHpHfCk19ylUqQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月27日）【中国科讯】](https://mp.weixin.qq.com/s/LNeNbo6KtoLGwCyj1QvIAg)
 - [4 月 27 日我国内地新增确诊病例 12 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/i1FmREDpjRolbSfEN1U_aA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月28日）【中国科讯】](https://mp.weixin.qq.com/s/epLaKbbpk-u8Olp6lN1F7A)
+- [24小时热门｜群体免疫或需 80% 人口完成接种：《柳叶刀》发表新冠疫苗预防感染真实效果](https://mp.weixin.qq.com/s/c3Mf9hTeRUEmgLbuBS1RZQ)
+- [4 月 28 日我国内地新增确诊病例 20 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/YG0dKzlJRQwC1F5F3Rljcw)
+- [新冠大流行对中国医疗卫生服务利用的影响 | 《柳叶刀-区域健康（西太平洋）》4月精选](https://mp.weixin.qq.com/s/oPGlNE9mr0feS5_b9APVJQ)

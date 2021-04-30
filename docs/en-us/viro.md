@@ -1003,3 +1003,4 @@
 - [谁能想到，研发艾滋疫苗的技术，却先用在了新冠疫苗上](https://mp.weixin.qq.com/s/JzLXKSiGY8n7BP0aXxcGVg)
 - [Transmission Dynamics of SARS-CoV-2 Within-Host Diversity in Two Major Hospital Outbreaks in South Africa](https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veab041/6248115)
 - [A novel linker-immunodominant site (LIS) vaccine targeting the SARS-CoV-2 spike protein protects against severe COVID-19 in Syrian hamsters](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1921621)
+- [持续了数千年! 2.5万年前一种古老冠状病毒曾袭击东亚, 暴发类似新冠的疫情](https://mp.weixin.qq.com/s/XGeadDN-glqsYPDMbu3j2g)
