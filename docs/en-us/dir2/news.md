@@ -7299,3 +7299,4 @@
 - [法国采取四阶段解禁措施，让社会生活逐步正常化](https://mp.weixin.qq.com/s/WPSLCfGFMh3Rh1aG_5cSuw)
 - [荷兰内阁：欧洲歌唱大赛仍欢迎公众](https://mp.weixin.qq.com/s/-bH4w-NZZ-S6fgrXaUne-Q)
 - [荷兰疫情数字变化不大，专家称医疗保健压力持续增加](https://mp.weixin.qq.com/s/2ohAfDld1AO33yrIcCX7cA)
+- {中疾控最新提醒！事关“五一”假期】(https://mp.weixin.qq.com/s/iqg7hYn5fKI9rfBxdWvjvg)
