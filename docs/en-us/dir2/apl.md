@@ -1711,3 +1711,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月29日）【中国科讯】](https://mp.weixin.qq.com/s/8MtC-mI1mqsj_a1vQvaZ3g)
 - [Critical Care文章精选｜ICU中代谢性酸中毒的发生率管理；关于新冠疫情，我们取得了哪些成绩，哪些方面仍待改进？](https://mp.weixin.qq.com/s/m9hz4y5HnEVGZqzEDFqD7Q)
 - [我国部分城市检出印度变异毒株，吴尊友称落实防控措施最关键｜科研圈日报](https://mp.weixin.qq.com/s/PKhzV9A7fA2LA7jSGwZDhA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（4月30日）【中国科讯】](https://mp.weixin.qq.com/s/5Ruye0Y94kW-rLFzHjakGA)
+- [统计月读（2021年4月）](https://mp.weixin.qq.com/s/nm6S0Rr4nQoc0ZKjE_Y0Ow)

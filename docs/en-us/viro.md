@@ -1005,3 +1005,6 @@
 - [A novel linker-immunodominant site (LIS) vaccine targeting the SARS-CoV-2 spike protein protects against severe COVID-19 in Syrian hamsters](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1921621)
 - [持续了数千年! 2.5万年前一种古老冠状病毒曾袭击东亚, 暴发类似新冠的疫情](https://mp.weixin.qq.com/s/XGeadDN-glqsYPDMbu3j2g)
 - [研究发现COVID-19冠状病毒在人与猫间传播的新证据](https://mp.weixin.qq.com/s/N9Y7TE4tkOUQGren92D_eQ)
+- [新冠病毒核衣壳蛋白通过相变促进宿主炎症反应的新机制](https://mp.weixin.qq.com/s/mwJG5jUOADfD03XwT8bszg)
+- [RNA-induced liquid phase separation of SARS-CoV-2 nucleocapsid protein facilitates NF-κB hyper-activation and inflammation](https://www.nature.com/articles/s41392-021-00575-7)
+- [Susceptibility to SARS-CoV-2 of Cell Lines and Substrates Commonly Used to Diagnose and Isolate Influenza and Other Viruses](https://wwwnc.cdc.gov/eid/article/27/5/21-0023_article)

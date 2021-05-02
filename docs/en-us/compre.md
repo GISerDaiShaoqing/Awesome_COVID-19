@@ -2027,3 +2027,7 @@
 - [Implications of a highly transmissible variant of SARS-CoV-2 for children](https://adc.bmj.com/content/early/2021/03/29/archdischild-2021-321903)
 - [Epidemiologic, clinical, and laboratory findings of the COVID-19 in the current pandemic: systematic review and meta-analysis](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05371-2)
 - [COVID-19 Lockdown and Social Capital Changes Among Youths in China](http://www.ijhpm.com/article_4022.html)
+- [Persistent high PM2. 5 pollution driven by unfavorable meteorological conditions during the COVID-19 lockdown period in the Beijing-Tianjin-Hebei Region, China](https://www.sciencedirect.com/science/article/pii/S0013935121004801)
+- [Effect of COVID-19 shutdown on aerosol direct radiative forcing over the Indo-Gangetic Plain outflow region of the Bay of Bengal](https://www.sciencedirect.com/science/article/pii/S0048969721019884)
+- [The impact of online misinformation on US COVID-19 vaccinations](https://arxiv.org/abs/2104.10635)
+- [Effect of the COVID-19 pandemic on the status of overweight and obesity among children and adolescents: a retrospective study in Chengdu, China](https://www.researchsquare.com/article/rs-412948/v1)

@@ -560,3 +560,5 @@
 - [Impact of a New SARS-CoV-2 Variant on the Population: A Mathematical Modeling Approach](https://www.mdpi.com/2297-8747/26/2/25)
 - [sircovid](https://github.com/mrc-ide/sircovid)
 - [Carga de enfermedad de la COVID-19 y de sus complicaciones agudas y crónicas: reflexiones sobre la medición (DALY) y perspectivas en el Sistema Único de Salud de Brasil](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2020001103001&tlng=pt)
+- [COVIDHunter: An Accurate, Flexible, and Environment-Aware Open-Source COVID-19 Outbreak Simulation Model](https://www.medrxiv.org/content/10.1101/2021.02.06.21251265v1)
+- [Investigating the roles of meteorological factors in COVID-19 transmission in Northern Italy](https://link.springer.com/article/10.1007/s11356-021-14038-7)

@@ -202,3 +202,7 @@
 - [Infections Forecasting and Intervention Effect Evaluation for COVID-19 via a Data-Driven Markov Process and Heterogeneous Simulation](https://arxiv.org/abs/2101.03133)
 - [Modelling the effectiveness of intervention strategies to control COVID-19 outbreaks and estimating healthcare demand in Germany](https://www.sciencedirect.com/science/article/pii/S266653522100046X)
 - [Effects of worldwide interventions and vaccination on COVID-19 between waves and countries](https://assets.researchsquare.com/files/rs-396989/v1_stamped.pdf)
+- [The keys to control a COVID-19 outbreak in a haemodialysis unit ](https://academic.oup.com/ckj/article/13/4/542/5870986)
+- [The impact of domestic travel bans on COVID-19 is nonlinear in their duration](https://www.nber.org/papers/w28699)
+- [The effect of dispatch of national medical teams to Wuhan on its control and prevention of COVID-19](https://www.sciencedirect.com/science/article/pii/S0033350621001554)
+- [Effectiveness of mRNA COVID-19 vaccines against SARS-CoV-2 infection in a cohort of healthcare personnel](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab361/6253721)

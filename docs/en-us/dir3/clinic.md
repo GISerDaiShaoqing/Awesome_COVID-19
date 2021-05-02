@@ -1450,3 +1450,7 @@
 - [Cell: 王佑春团队最新研究为疫苗优化设计提供重要参考 | Cell Press对话科学家](https://mp.weixin.qq.com/s/U8bAxUnWwQ0DGpjZ78XA5A)
 - [SARS-CoV-2 501Y.V2 variants lack higher infectivity but do have immune escape](https://www.cell.com/cell/fulltext/S0092-8674(21)00231-2#%20)
 - [打的中国生物疫苗，为何接种信息是兰州生物或成都生物？](https://mp.weixin.qq.com/s/MoA04wbSO24KtdFlvv9qyA)
+- [中国之外，首个灭活疫苗3期试验结果发布；欧洲的类似疫苗快了](https://mp.weixin.qq.com/s/n_F3lBBqr8yhRDGV40Rcow)
+- [COVID-19疫苗热点简评：血栓疑云、数据披露、灭活疫苗大反转？接种率是王道……](https://mp.weixin.qq.com/s/YuYgbGkEU0gErnT7I4kflg)
+- [科学家发现了两例突破性感染, 某些新冠变异株或可逃避mRNA疫苗](https://mp.weixin.qq.com/s/Eiym8ouM8_oXl5Q5fSGkNQ)
+- [Vaccine side-effects and SARS-CoV-2 infection after vaccination in users of the COVID Symptom Study app in the UK: a prospective observational study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00224-3/fulltext)
