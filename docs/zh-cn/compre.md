@@ -2031,3 +2031,8 @@
 - [Effect of COVID-19 shutdown on aerosol direct radiative forcing over the Indo-Gangetic Plain outflow region of the Bay of Bengal](https://www.sciencedirect.com/science/article/pii/S0048969721019884)
 - [The impact of online misinformation on US COVID-19 vaccinations](https://arxiv.org/abs/2104.10635)
 - [Effect of the COVID-19 pandemic on the status of overweight and obesity among children and adolescents: a retrospective study in Chengdu, China](https://www.researchsquare.com/article/rs-412948/v1)
+- [WER专栏 | SARS-CoV-2对当前和未来废水系统运行和管理的影响](https://mp.weixin.qq.com/s/qFQfayoNJ7ZME11GBFlqvQ)
+- [Implications of SARS‐CoV‐2 on current and future operation and management of wastewater systems](https://onlinelibrary.wiley.com/doi/10.1002/wer.1446)
+- [PNAS发文：开源评估工具“SpillOver”可预测病毒对人类的影响](https://mp.weixin.qq.com/s/x2C8ERu-OCm56h7L9A0uJw)
+- [Ranking the risk of animal-to-human spillover for newly discovered viruses](https://www.pnas.org/content/118/15/e2002324118)
+- [Coronavirus disease-2019: A tocsin to our aging, unfit, corpulent, and immunodeficient society](https://www.sciencedirect.com/science/article/pii/S2095254620300600?via%3Dihub)
