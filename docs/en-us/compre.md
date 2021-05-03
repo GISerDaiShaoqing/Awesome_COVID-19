@@ -2036,3 +2036,4 @@
 - [PNAS发文：开源评估工具“SpillOver”可预测病毒对人类的影响](https://mp.weixin.qq.com/s/x2C8ERu-OCm56h7L9A0uJw)
 - [Ranking the risk of animal-to-human spillover for newly discovered viruses](https://www.pnas.org/content/118/15/e2002324118)
 - [Coronavirus disease-2019: A tocsin to our aging, unfit, corpulent, and immunodeficient society](https://www.sciencedirect.com/science/article/pii/S2095254620300600?via%3Dihub)
+- [Asymptomatic SARS-CoV-2 infections: a living systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.04.25.20079103v3)

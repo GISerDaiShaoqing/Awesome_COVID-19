@@ -1713,3 +1713,6 @@
 - [我国部分城市检出印度变异毒株，吴尊友称落实防控措施最关键｜科研圈日报](https://mp.weixin.qq.com/s/PKhzV9A7fA2LA7jSGwZDhA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（4月30日）【中国科讯】](https://mp.weixin.qq.com/s/5Ruye0Y94kW-rLFzHjakGA)
 - [统计月读（2021年4月）](https://mp.weixin.qq.com/s/nm6S0Rr4nQoc0ZKjE_Y0Ow)
+- [Science 一周论文导读 | 2021年4月23日](https://mp.weixin.qq.com/s/cX1FPK1oEE9BQGnyqagg2A)
+- [Nature 一周论文导读 | 2021年4月22日](https://mp.weixin.qq.com/s/aA_bz0vSuhdJWOZk-Tf41g)
+- [我国部分城市检出印度变异毒株，吴尊友称落实防控措施最关键｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/Jw95QuIlo4N_85jQWPEZbw)

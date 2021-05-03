@@ -1454,3 +1454,8 @@
 - [COVID-19疫苗热点简评：血栓疑云、数据披露、灭活疫苗大反转？接种率是王道……](https://mp.weixin.qq.com/s/YuYgbGkEU0gErnT7I4kflg)
 - [科学家发现了两例突破性感染, 某些新冠变异株或可逃避mRNA疫苗](https://mp.weixin.qq.com/s/Eiym8ouM8_oXl5Q5fSGkNQ)
 - [Vaccine side-effects and SARS-CoV-2 infection after vaccination in users of the COVID Symptom Study app in the UK: a prospective observational study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00224-3/fulltext)
+- [全球疫苗接种超10亿剂，哪些国家遥遥领先？](https://mp.weixin.qq.com/s/3HcCUyLk32JCcdycLIB_gg)
+- [Unprecedented achievement’: who received the first billion COVID vaccinations?](https://www.nature.com/articles/d41586-021-01136-2)
+- [CDC宣布美国已抵达COVID-19免疫进程的另一个重要里程碑](https://mp.weixin.qq.com/s/5plB0ZxkjQjGknNG-Q03Ow)
+- [人类的希望！一文读懂mRNA疫苗](https://mp.weixin.qq.com/s/vZqwo-oP4EMO_7PBLSEgtg)
+- [辉瑞公司mRNA疫苗制造过程首次揭秘](https://mp.weixin.qq.com/s/QxJWgYr9JUTcRHUklYK8xQ)
