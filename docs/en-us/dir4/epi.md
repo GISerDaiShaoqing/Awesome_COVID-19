@@ -563,3 +563,5 @@
 - [COVIDHunter: An Accurate, Flexible, and Environment-Aware Open-Source COVID-19 Outbreak Simulation Model](https://www.medrxiv.org/content/10.1101/2021.02.06.21251265v1)
 - [Investigating the roles of meteorological factors in COVID-19 transmission in Northern Italy](https://link.springer.com/article/10.1007/s11356-021-14038-7)
 - [Revealing the Transmission Dynamics of COVID-19: A Bayesian Framework for Rt Estimation](https://www.researchsquare.com/article/rs-137557/v1)
+- [Examining the diffusion of coronavirus disease 2019 cases in a metropolis: a space syntax approach](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00270-4)
+- [Inferring the Association between the Risk of COVID-19 Case Fatality and N501Y Substitution in SARS-CoV-2](https://www.mdpi.com/1999-4915/13/4/638)

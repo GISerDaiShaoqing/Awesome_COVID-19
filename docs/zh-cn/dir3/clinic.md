@@ -1459,3 +1459,4 @@
 - [CDC宣布美国已抵达COVID-19免疫进程的另一个重要里程碑](https://mp.weixin.qq.com/s/5plB0ZxkjQjGknNG-Q03Ow)
 - [人类的希望！一文读懂mRNA疫苗](https://mp.weixin.qq.com/s/vZqwo-oP4EMO_7PBLSEgtg)
 - [辉瑞公司mRNA疫苗制造过程首次揭秘](https://mp.weixin.qq.com/s/QxJWgYr9JUTcRHUklYK8xQ)
+- [SARS-CoV-2 variants of concern: the knowns and unknowns](https://www-sciencedirect-com.ezproxy2.utwente.nl/science/article/pii/S2352556821000722?via%3Dihub)

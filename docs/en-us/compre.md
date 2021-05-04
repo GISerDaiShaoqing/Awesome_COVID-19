@@ -2037,3 +2037,7 @@
 - [Ranking the risk of animal-to-human spillover for newly discovered viruses](https://www.pnas.org/content/118/15/e2002324118)
 - [Coronavirus disease-2019: A tocsin to our aging, unfit, corpulent, and immunodeficient society](https://www.sciencedirect.com/science/article/pii/S2095254620300600?via%3Dihub)
 - [Asymptomatic SARS-CoV-2 infections: a living systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.04.25.20079103v3)
+- [The impact of COVID-19 on CO2 emissions in the Los Angeles and Washington DC/Baltimore metropolitan areas](https://meetingorganizer.copernicus.org/EGU21/EGU21-13246.html)
+- [Reduction in GHG emissions in the US North East Corridor due to COVID-19 lockdowns as measured by the East Coast Outflow Experiment](https://meetingorganizer.copernicus.org/EGU21/EGU21-16040.html)
+- [The air quality changes and related mortality benefits during the coronavirus disease 2019 pandemic in China: results from a nationwide forecasting study](https://www.sciencedirect.com/science/article/pii/S0959652621015468)
+- [Cross-reactivity of two SARS-CoV-2 serological assays in a malaria-endemic setting](https://jcm.asm.org/content/early/2021/04/13/JCM.00514-21)

@@ -206,3 +206,5 @@
 - [The impact of domestic travel bans on COVID-19 is nonlinear in their duration](https://www.nber.org/papers/w28699)
 - [The effect of dispatch of national medical teams to Wuhan on its control and prevention of COVID-19](https://www.sciencedirect.com/science/article/pii/S0033350621001554)
 - [Effectiveness of mRNA COVID-19 vaccines against SARS-CoV-2 infection in a cohort of healthcare personnel](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab361/6253721)
+- [Public Compliance With Social Distancing Measures and SARS-CoV-2 Spread: A Quantitative Analysis of 5 States](https://journals.sagepub.com/doi/full/10.1177/00333549211011254)
+- [Does lock-down of Wuhan effectively restrict early geographic spread of novel coronavirus epidemic during chunyun in China? A spatial model study](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10837-2)
