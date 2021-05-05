@@ -1717,3 +1717,4 @@
 - [Nature 一周论文导读 | 2021年4月22日](https://mp.weixin.qq.com/s/aA_bz0vSuhdJWOZk-Tf41g)
 - [我国部分城市检出印度变异毒株，吴尊友称落实防控措施最关键｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/Jw95QuIlo4N_85jQWPEZbw)
 - [对话动物 | 跨世纪种子实验 | 距离无法阻挡爱情 | “我们被忽视了” | 自然每周简报](https://mp.weixin.qq.com/s/8VFTz7fXrXl1gkQOtxPDmA)
+- [复杂互联系统中的渗流 | 复杂性科学顶刊精选8篇](https://mp.weixin.qq.com/s/gwJb4bziJWoueJzdWEkaNQ)
