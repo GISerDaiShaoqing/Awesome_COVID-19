@@ -58,3 +58,5 @@
 - [深度学习在医学影像智能处理中的应用与挑战](https://mp.weixin.qq.com/s/m9NG4jc1b2epf4y_a5dYDw)
 - [共识声明：新冠病毒大流行期间，胸部影像学检查在患者管理中的作用](https://mp.weixin.qq.com/s/_dnPfORtQQF9ZOIcE8xDCw)
 - [The Role of Chest Imaging in Patient Management During the COVID-19 Pandemic: A Multinational Consensus Statement From the Fleischner Society](https://www.sciencedirect.com/science/article/pii/S0012369220306735)
+- [严重的COVID-19新冠肺炎幸存者的胸部X线照片不能很好地预测呼吸道症状和功能障碍](https://mp.weixin.qq.com/s/px36lKs_SVFr3RK-NUdHHA)
+- [Chest radiography is a poor predictor of respiratory symptoms and functional impairment in survivors of severe COVID-19 pneumonia](https://openres.ersjournals.com/content/7/1/00655-2020)

@@ -1460,3 +1460,6 @@
 - [人类的希望！一文读懂mRNA疫苗](https://mp.weixin.qq.com/s/vZqwo-oP4EMO_7PBLSEgtg)
 - [辉瑞公司mRNA疫苗制造过程首次揭秘](https://mp.weixin.qq.com/s/QxJWgYr9JUTcRHUklYK8xQ)
 - [SARS-CoV-2 variants of concern: the knowns and unknowns](https://www-sciencedirect-com.ezproxy2.utwente.nl/science/article/pii/S2352556821000722?via%3Dihub)
+- [我国学者证实，新冠肺炎其实是一种血管疾病，而非呼吸系统疾病](https://mp.weixin.qq.com/s/Vl6XjTr63aLq6FeTnYe3SA)
+- [SARS-CoV-2 Spike Protein Impairs Endothelial Function via Downregulation of ACE 2](https://doi.org/10.1161/CIRCRESAHA.121.318902)
+- [感染新冠、这位大哥创下新冠最长住院记录](https://mp.weixin.qq.com/s/R9H_EtSj_3zaqqKpXrTd_w)
