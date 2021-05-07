@@ -209,3 +209,5 @@
 - [Public Compliance With Social Distancing Measures and SARS-CoV-2 Spread: A Quantitative Analysis of 5 States](https://journals.sagepub.com/doi/full/10.1177/00333549211011254)
 - [Does lock-down of Wuhan effectively restrict early geographic spread of novel coronavirus epidemic during chunyun in China? A spatial model study](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10837-2)
 - [Clinical Outcomes, Costs, and Cost-effectiveness of Strategies for People Experiencing Sheltered Homelessness During the COVID-19 Pandemic](https://www.medrxiv.org/content/10.1101/2020.08.07.20170498v2)
+- [Nonpharmaceutical interventions contribute to the control of COVID-19 in China based on a pairwise model](https://www.sciencedirect.com/science/article/pii/S2468042721000300)
+- [Estimating the effectiveness of routine asymptomatic PCR testing at different frequencies for the detection of SARS-CoV-2 infections](https://www.medrxiv.org/content/10.1101/2020.11.24.20229948v1)

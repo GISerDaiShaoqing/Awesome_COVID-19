@@ -2041,3 +2041,5 @@
 - [Reduction in GHG emissions in the US North East Corridor due to COVID-19 lockdowns as measured by the East Coast Outflow Experiment](https://meetingorganizer.copernicus.org/EGU21/EGU21-16040.html)
 - [The air quality changes and related mortality benefits during the coronavirus disease 2019 pandemic in China: results from a nationwide forecasting study](https://www.sciencedirect.com/science/article/pii/S0959652621015468)
 - [Cross-reactivity of two SARS-CoV-2 serological assays in a malaria-endemic setting](https://jcm.asm.org/content/early/2021/04/13/JCM.00514-21)
+- [医学顶刊BMJ探秘印度COVID-19激增原因！](https://mp.weixin.qq.com/s/YLAkqYVfgofdh2xBBbBOLg)
+- [Why is India having a covid-19 surge?](https://www.bmj.com/content/373/bmj.n1124)

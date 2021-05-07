@@ -1718,3 +1718,7 @@
 - [我国部分城市检出印度变异毒株，吴尊友称落实防控措施最关键｜本周值得读·科研生涯](https://mp.weixin.qq.com/s/Jw95QuIlo4N_85jQWPEZbw)
 - [对话动物 | 跨世纪种子实验 | 距离无法阻挡爱情 | “我们被忽视了” | 自然每周简报](https://mp.weixin.qq.com/s/8VFTz7fXrXl1gkQOtxPDmA)
 - [复杂互联系统中的渗流 | 复杂性科学顶刊精选8篇](https://mp.weixin.qq.com/s/gwJb4bziJWoueJzdWEkaNQ)
+- [CCDC周报：3名回国人员疑从印度感染变异新冠病毒](https://mp.weixin.qq.com/s/IRS7rwhuIDFl_FhuG2fLuQ)
+- [Emerging Variants of B.1.617 Lineage Identified Among  Returning Chinese Employees Working in India — Chongqing Municipality,  China, April 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.109)
+- [三名重庆入境回国人员疑从印度感染变异新冠病毒｜科研圈日报](https://mp.weixin.qq.com/s/p6p4YP4uEgBST66_evJbXA)
+- [24小时热门｜如何判断自己是不是“三分钟热度”？新冠疫苗只打一针会有什么后果？](https://mp.weixin.qq.com/s/YmbSXXIHVmbpYIUSDXsV9Q)

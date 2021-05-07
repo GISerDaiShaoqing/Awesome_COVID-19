@@ -565,3 +565,4 @@
 - [Revealing the Transmission Dynamics of COVID-19: A Bayesian Framework for Rt Estimation](https://www.researchsquare.com/article/rs-137557/v1)
 - [Examining the diffusion of coronavirus disease 2019 cases in a metropolis: a space syntax approach](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00270-4)
 - [Inferring the Association between the Risk of COVID-19 Case Fatality and N501Y Substitution in SARS-CoV-2](https://www.mdpi.com/1999-4915/13/4/638)
+- [Mitigating COVID-19 Transmission in Schools With Digital Contact Tracing](https://ieeexplore.ieee.org/document/9417017)

@@ -355,3 +355,4 @@
 - [在线研讨会 | 走近Vaccine 和 Vaccine: X，以及COVID-19在中国的最新进展](https://mp.weixin.qq.com/s/PHlmiOCA1Wj_sKoCpcpo6w)
 - [讲座预告 | 新冠肺炎的前世今生与未来](https://mp.weixin.qq.com/s/DCyS87lTCb_NKzUVKRYg1w)
 - [不可错过！斯坦福<人工智能疾病诊断与信息推荐>2021课程，附Slides下载](https://mp.weixin.qq.com/s/iYhSlESC4aqsUSHEKp5LJg)
+- [活动回顾 | 后疫情时代全球气候变化减排的新机遇与新挑战](https://mp.weixin.qq.com/s/tlWF3HJL9D42zteueu57bw)

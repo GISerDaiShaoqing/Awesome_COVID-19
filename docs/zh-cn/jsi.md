@@ -109,3 +109,5 @@
 - [战“疫”疾控人影像事迹征集启事](https://mp.weixin.qq.com/s/7GOTDfrPl74TTSq9_biRoA)
 - [专刊推荐| 地理社交媒体和众源大数据分析](https://mp.weixin.qq.com/s/cnLl8dzA1uGw6DBPGiX14g)
 - [MDPI 特刊征稿 | Foods：COVID-19对人类感官、消费者喜好、食欲和饮食行为的影响和意义](https://mp.weixin.qq.com/s/LVB73LwPmopO-OWDnKHA3g)
+- [MDPI 特刊征稿 | 中国科学院朱廷劭研究员主持特刊：社交媒体和公共健康](https://mp.weixin.qq.com/s/DkzGQ4V-0pH8BBZiUGOb0Q)
+- [Social Media and Public Health](https://www.mdpi.com/journal/healthcare/special_issues/Social_Media_PublicHealth)

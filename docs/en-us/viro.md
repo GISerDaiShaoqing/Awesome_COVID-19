@@ -1008,3 +1008,8 @@
 - [新冠病毒核衣壳蛋白通过相变促进宿主炎症反应的新机制](https://mp.weixin.qq.com/s/mwJG5jUOADfD03XwT8bszg)
 - [RNA-induced liquid phase separation of SARS-CoV-2 nucleocapsid protein facilitates NF-κB hyper-activation and inflammation](https://www.nature.com/articles/s41392-021-00575-7)
 - [Susceptibility to SARS-CoV-2 of Cell Lines and Substrates Commonly Used to Diagnose and Isolate Influenza and Other Viruses](https://wwwnc.cdc.gov/eid/article/27/5/21-0023_article)
+- [中山大学杨欣团队WR：基于核酸的碱基序列预测紫外光照下的病毒灭活速率](https://mp.weixin.qq.com/s/MTrMs-7tzscZDwpQocwIxQ)
+- [Prediction of Photolysis Kinetics of Viral Genomes under UV254 Irradiation to Estimate Virus Infectivity Loss](https://www.sciencedirect.com/science/article/pii/S0043135421003638?via%3Dihub=)
+- [钟南山在基金委期刊发文：阐述人类和ACE2人源化小鼠对SARS-CoV-2的免疫反应](https://mp.weixin.qq.com/s/MSlGfFB4-82P7m3TvZaHKA)
+- [Immune responses to SARS-CoV-2 infection in Humans and ACE2 humanized mice](https://www.sciencedirect.com/science/article/pii/S2667325821000327)
+- [STTT：崔隽/赵金存等揭示新冠核衣壳蛋白通过相变促进宿主炎症反应新机制](https://mp.weixin.qq.com/s/nrzsW6TaESvEyAmvSpXN1Q)
