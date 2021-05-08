@@ -1013,3 +1013,7 @@
 - [钟南山在基金委期刊发文：阐述人类和ACE2人源化小鼠对SARS-CoV-2的免疫反应](https://mp.weixin.qq.com/s/MSlGfFB4-82P7m3TvZaHKA)
 - [Immune responses to SARS-CoV-2 infection in Humans and ACE2 humanized mice](https://www.sciencedirect.com/science/article/pii/S2667325821000327)
 - [STTT：崔隽/赵金存等揭示新冠核衣壳蛋白通过相变促进宿主炎症反应新机制](https://mp.weixin.qq.com/s/nrzsW6TaESvEyAmvSpXN1Q)
+- [“病毒-人类”混合DNA？新研究称新冠病毒可整合到人类基因组中](https://mp.weixin.qq.com/s/CZyn5P58-QqMMrc12JmxUg)
+- [Reverse-transcribed SARS-CoV-2 RNA can integrate into the genome of cultured human cells and can be expressed in patient-derived tissue](https://www.pnas.org/content/pnas/118/21/e2105968118.full.pdf)
+- [Science/PNAS | 中国学者参与，2顶尖实验室联手合作，发现新冠病毒基因可以整合到人类基因组中](https://mp.weixin.qq.com/s/LQu1efGPrVIM64HNOMC_bw)
+- [Further evidence supports controversial claim that SARS-CoV-2 genes can integrate with human DNA](https://www.sciencemag.org/news/2021/05/further-evidence-offered-claim-genes-pandemic-coronavirus-can-integrate-human-dna)

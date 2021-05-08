@@ -356,3 +356,5 @@
 - [讲座预告 | 新冠肺炎的前世今生与未来](https://mp.weixin.qq.com/s/DCyS87lTCb_NKzUVKRYg1w)
 - [不可错过！斯坦福<人工智能疾病诊断与信息推荐>2021课程，附Slides下载](https://mp.weixin.qq.com/s/iYhSlESC4aqsUSHEKp5LJg)
 - [活动回顾 | 后疫情时代全球气候变化减排的新机遇与新挑战](https://mp.weixin.qq.com/s/tlWF3HJL9D42zteueu57bw)
+- [思维论坛 | COVID-19数学建模研究 | Infectious Diseases of Poverty](https://mp.weixin.qq.com/s/b-fCEtI7hUpL78wDDILpkA)
+- [走近Vaccine系列期刊，以及COVID-19在中国的最新进展](https://mp.weixin.qq.com/s/Vrg0jxZRgDGMtv1fE6U-4A)

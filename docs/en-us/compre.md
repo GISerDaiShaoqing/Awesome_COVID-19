@@ -2043,3 +2043,7 @@
 - [Cross-reactivity of two SARS-CoV-2 serological assays in a malaria-endemic setting](https://jcm.asm.org/content/early/2021/04/13/JCM.00514-21)
 - [医学顶刊BMJ探秘印度COVID-19激增原因！](https://mp.weixin.qq.com/s/YLAkqYVfgofdh2xBBbBOLg)
 - [Why is India having a covid-19 surge?](https://www.bmj.com/content/373/bmj.n1124)
+- [那些疫情中回家的女性，可能永远告别了工作](https://mp.weixin.qq.com/s/_CThoYSwlAk-8e9kwfUfiw)
+- [MDPI Vaccines | 无症状新冠肺炎感染者的研究分析](https://mp.weixin.qq.com/s/6MoqgmtUjl03Y26au9Vsmg)
+- [SARS-CoV-2 Infection Is Asymptomatic in Nearly Half of Adults with Robust Anti-Spike Protein Receptor-Binding Domain Antibody Response](https://www.mdpi.com/2076-393X/9/3/207)
+- [Risk perception and resource scarcity in food procurement during the early outbreak of COVID-19](https://www.sciencedirect.com/science/article/pii/S0033350621001669?via%3Dihub)

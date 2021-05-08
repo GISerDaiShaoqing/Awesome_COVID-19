@@ -211,3 +211,4 @@
 - [Clinical Outcomes, Costs, and Cost-effectiveness of Strategies for People Experiencing Sheltered Homelessness During the COVID-19 Pandemic](https://www.medrxiv.org/content/10.1101/2020.08.07.20170498v2)
 - [Nonpharmaceutical interventions contribute to the control of COVID-19 in China based on a pairwise model](https://www.sciencedirect.com/science/article/pii/S2468042721000300)
 - [Estimating the effectiveness of routine asymptomatic PCR testing at different frequencies for the detection of SARS-CoV-2 infections](https://www.medrxiv.org/content/10.1101/2020.11.24.20229948v1)
+- [The impact of social distancing on COVID19 spread: State of Georgia case study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239798)

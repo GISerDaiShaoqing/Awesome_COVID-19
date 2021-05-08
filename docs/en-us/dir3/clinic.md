@@ -1469,3 +1469,5 @@
 - [Nature子刊：我国学者证实新冠病毒能直接感染肾脏，导致急性肾损伤](https://mp.weixin.qq.com/s/Fjwv4CroqrMmQfp0yDyRnw)
 - [Human kidney is a target for novel severe acute respiratory syndrome coronavirus 2 infection](https://www.nature.com/articles/s41467-021-22781-1)
 - [炸了！美国宣布放开新冠疫苗专利，疫苗股全线暴跌！对我国影响有多大？](https://mp.weixin.qq.com/s/bBVuyQ5n2JbaCjAobxRBoA)
+- [美国若放弃新冠疫苗专利，意味着什么？有何影响？](https://mp.weixin.qq.com/s/5WQgGdnEVuvFqSWf30VfrA)
+- [新冠病毒是怎么一步步摧毁人体的？最全后遗症曝光](https://mp.weixin.qq.com/s/wO-mEfWMKJc1QucsI1i7VQ)

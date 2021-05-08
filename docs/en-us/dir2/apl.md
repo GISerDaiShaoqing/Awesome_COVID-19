@@ -1722,3 +1722,5 @@
 - [Emerging Variants of B.1.617 Lineage Identified Among  Returning Chinese Employees Working in India — Chongqing Municipality,  China, April 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.109)
 - [三名重庆入境回国人员疑从印度感染变异新冠病毒｜科研圈日报](https://mp.weixin.qq.com/s/p6p4YP4uEgBST66_evJbXA)
 - [24小时热门｜如何判断自己是不是“三分钟热度”？新冠疫苗只打一针会有什么后果？](https://mp.weixin.qq.com/s/YmbSXXIHVmbpYIUSDXsV9Q)
+- [PNAS研究称新冠病毒或能整合进人类基因组，引发学术争议 | 科研圈日报](https://mp.weixin.qq.com/s/YgWnXyY52O2vaqjzyRLJeQ)
+- [24小时热门｜美国院士研究再引热议：新冠病毒会“污染”人类基因组？](https://mp.weixin.qq.com/s/VO_FWof39vUUK4UdKPJVYQ)
