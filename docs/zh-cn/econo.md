@@ -683,3 +683,4 @@
 - [专栏文章丨疫情下的“首道防线”：从就医企划审视家与社区地方秩序重构](https://mp.weixin.qq.com/s/lwfojysmygpxatbGy2zW5Q)
 - [专栏文章丨疫情初期新冠肺炎患者的就医行为特征及制约因素研究——以武汉市为例](https://mp.weixin.qq.com/s/1xW8AkDtDPln5r-SuQTR6g)
 - [Global economic impacts of COVID-19 lockdown measures stand out in high-frequency shipping data](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0248818)
+- [Financial Innovation∣疫情与加密货币对金融市场影响专刊](https://mp.weixin.qq.com/s/NfHXBIGSju29NiSs9zlzTA)

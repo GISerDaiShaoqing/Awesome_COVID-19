@@ -2047,3 +2047,4 @@
 - [MDPI Vaccines | 无症状新冠肺炎感染者的研究分析](https://mp.weixin.qq.com/s/6MoqgmtUjl03Y26au9Vsmg)
 - [SARS-CoV-2 Infection Is Asymptomatic in Nearly Half of Adults with Robust Anti-Spike Protein Receptor-Binding Domain Antibody Response](https://www.mdpi.com/2076-393X/9/3/207)
 - [Risk perception and resource scarcity in food procurement during the early outbreak of COVID-19](https://www.sciencedirect.com/science/article/pii/S0033350621001669?via%3Dihub)
+- [Eating Behavior Changes of People with Obesity During the COVID-19 Pandemic](https://www.dovepress.com/front_end/cr_data/cache/pdf/download_1620602977_60987061a7702/dmso-305782-eating-behavior-changes-of-people-with-obesity-during-the-co.pdf)

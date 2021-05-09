@@ -566,3 +566,5 @@
 - [Examining the diffusion of coronavirus disease 2019 cases in a metropolis: a space syntax approach](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00270-4)
 - [Inferring the Association between the Risk of COVID-19 Case Fatality and N501Y Substitution in SARS-CoV-2](https://www.mdpi.com/1999-4915/13/4/638)
 - [Mitigating COVID-19 Transmission in Schools With Digital Contact Tracing](https://ieeexplore.ieee.org/document/9417017)
+- [SARS-CoV-2 transmission in educational settings during an early summer epidemic wave in Luxembourg, 2020](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06089-5)
+- [Mobilizing a COVID-19 Contact Tracing Workforce at Warp Speed: A Framework for Successful Program Implementation](https://europepmc.org/article/med/33844648)
