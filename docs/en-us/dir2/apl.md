@@ -1728,3 +1728,4 @@
 - [【虚拟专辑】Ecosystem Services and Human Wellbeing | 生态系统服务与人类福祉](https://mp.weixin.qq.com/s/rQJc-YEX7juWnSaYTQAK3A)
 - [北大博士后为做研究送半年外卖；党校副教授被曝花2.5万发论文引关注 | 一周动态](https://mp.weixin.qq.com/s/-OvThceQdH1f9w6B6fMLCw)
 - [新冠疫苗与母婴防疫•突然忘记要做什么的心理学原理•面包房为什么总是特别香？| BMC-系列期刊，月度热文](https://mp.weixin.qq.com/s/TtNfq_S97K7FfzuTfG0yQQ)
+- [新冠疫苗只打一针会有什么后果？这种基因突变，能让夫妻关系更融洽｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/-X8sNEU9W_3R308TiMWO_w)

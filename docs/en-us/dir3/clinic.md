@@ -1471,3 +1471,6 @@
 - [炸了！美国宣布放开新冠疫苗专利，疫苗股全线暴跌！对我国影响有多大？](https://mp.weixin.qq.com/s/bBVuyQ5n2JbaCjAobxRBoA)
 - [美国若放弃新冠疫苗专利，意味着什么？有何影响？](https://mp.weixin.qq.com/s/5WQgGdnEVuvFqSWf30VfrA)
 - [新冠病毒是怎么一步步摧毁人体的？最全后遗症曝光](https://mp.weixin.qq.com/s/wO-mEfWMKJc1QucsI1i7VQ)
+- [PLOS Pathogens评述：新冠病毒“反式互补”系统](https://mp.weixin.qq.com/s/ozj2ZyTXVHxRC9u0q1iDcA)
+- [Two courses of deconstructed coronavirus please](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009547)
+- [“硬刚”美国？德国反对疫苗专利豁免，多家疫苗巨头这样回应！拜登到底为何“慷慨”？](https://mp.weixin.qq.com/s/qRuexs7KfWCKkUKivl9Pbg)
