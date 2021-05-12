@@ -1018,3 +1018,6 @@
 - [Science/PNAS | 中国学者参与，2顶尖实验室联手合作，发现新冠病毒基因可以整合到人类基因组中](https://mp.weixin.qq.com/s/LQu1efGPrVIM64HNOMC_bw)
 - [Further evidence supports controversial claim that SARS-CoV-2 genes can integrate with human DNA](https://www.sciencemag.org/news/2021/05/further-evidence-offered-claim-genes-pandemic-coronavirus-can-integrate-human-dna)
 - [新冠可写入人类基因组，成为永不灭亡的病毒？](https://mp.weixin.qq.com/s/qS0Yp0UH2GenbTIMm9uxTQ)
+- [Immunity | 西湖大学等多单位合作，谢琦/丁思远等发现新冠病毒引起人体炎症反应的潜在机理](https://mp.weixin.qq.com/s/Mf6vfm4ym_ViBOAtwPstZQ)
+- [SARS-CoV-2 exacerbates proinflammatory responses in myeloid cells through C-type lectin receptors and Tweety family member 2](https://www.cell.com/immunity/fulltext/S1074-7613(21)00212-0#%20)
+- [Differential role of sphingomyelin in influenza virus, rhinovirus and SARS-CoV-2 infection of Calu-3 cells](https://www.scilit.net/article/f5be023b9cd4ec6dc06947a3002eee1b)

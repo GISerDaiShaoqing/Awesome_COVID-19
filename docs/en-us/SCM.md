@@ -115,5 +115,6 @@
 - [后疫情时代的圈地运动︱15分钟骑行和步行打破城市马太效应](https://mp.weixin.qq.com/s/E8EBPIf8YMMzRWvZsR9lcg)
 - [后疫情时代 | 日本铁路公司の生存大作戦](https://mp.weixin.qq.com/s/gHsSo8PFhEgJIrtFc1w45g)
 - [后疫情时代 | 交通转型下的“开倒车”？后疫情时期德国交通出行习惯变化](https://mp.weixin.qq.com/s/ycdjTPgVLkWXQhedlUkbmA)
+- [后疫情时代 | 新冠疫情如何重塑伦敦、悉尼、纽约到新加坡的房地产市场](https://mp.weixin.qq.com/s/Nn-3WnhVi7oYEqvnIz8YEA)
 
 ![](/img/SCM.jpg)

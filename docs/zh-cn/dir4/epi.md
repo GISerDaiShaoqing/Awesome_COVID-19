@@ -568,3 +568,4 @@
 - [Mitigating COVID-19 Transmission in Schools With Digital Contact Tracing](https://ieeexplore.ieee.org/document/9417017)
 - [SARS-CoV-2 transmission in educational settings during an early summer epidemic wave in Luxembourg, 2020](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06089-5)
 - [Mobilizing a COVID-19 Contact Tracing Workforce at Warp Speed: A Framework for Successful Program Implementation](https://europepmc.org/article/med/33844648)
+- [Assessment of basic reproduction number (R0), spatial and temporal epidemiological determinants, and genetic characterization of SARS-CoV-2 in Bangladesh](https://www.sciencedirect.com/science/article/pii/S1567134821001817)

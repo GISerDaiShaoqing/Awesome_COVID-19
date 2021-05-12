@@ -1474,3 +1474,6 @@
 - [PLOS Pathogens评述：新冠病毒“反式互补”系统](https://mp.weixin.qq.com/s/ozj2ZyTXVHxRC9u0q1iDcA)
 - [Two courses of deconstructed coronavirus please](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009547)
 - [“硬刚”美国？德国反对疫苗专利豁免，多家疫苗巨头这样回应！拜登到底为何“慷慨”？](https://mp.weixin.qq.com/s/qRuexs7KfWCKkUKivl9Pbg)
+- [《自然》发文: 对许多国家来说, 中国疫苗是唯一可及的疫苗](https://mp.weixin.qq.com/s/stt8vjiV7vGLAYr9WUE2RA)
+- [毫无悬念：世卫批准首个中国COVID-19疫苗，美国赶紧放弃疫苗专利](https://mp.weixin.qq.com/s/KP1CgTxdvJdYi60c4xih5g)
+- [One dose of SARS-CoV-2 vaccine exponentially increases antibodies in recovered individuals with symptomatic COVID-19](https://europepmc.org/article/MED/33956667)
