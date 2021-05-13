@@ -220,3 +220,4 @@
 - [Science Advances | 复旦大学余宏杰团队在逐步放宽社交距离措施对人群接触模式及新冠肺炎传播的影响领域取得重要进展](https://mp.weixin.qq.com/s/u5UWEdqi50OVH3Wy_NtPxw)
 - [余宏杰课题组在逐步放宽社交距离措施对人群接触模式及新冠肺炎传播的影响领域取得重要进展](https://mp.weixin.qq.com/s/2OfgN4Nmro0Cda3UrKSi7A)
 - [The impact of relaxing interventions on human contactpatterns and SARS-CoV-2 transmission in China](https://advances.sciencemag.org/content/7/19/eabe2584)
+- [Mitigating COVID-19 Transmission in Schools With Digital Contact Tracing](https://ieeexplore.ieee.org/document/9417017)

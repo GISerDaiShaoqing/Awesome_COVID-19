@@ -1482,3 +1482,6 @@
 - [福奇Med最新述评：COVID-19的治疗图景](https://mp.weixin.qq.com/s/4CpNtxDnRSQL4x59OxnWnQ)
 - [COVID-19: The therapeutic landscape](https://www.cell.com/med/fulltext/S2666-6340(21)00164-1)
 - [新冠病毒疫苗宣传海报发布！](https://mp.weixin.qq.com/s/grjeHFd35yiAwHOoqnfVLQ)
+- [Seroprevalence of SARS-CoV-2 antibodies and associated factors in healthcare workers: a systematic review and meta-analysis](https://doi.org/10.1016/j.jhin.2020.11.008)
+- [Evaluation of potential COVID-19 recurrence in patients with late repeat positive SARS-CoV-2 testing](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251214)
+- [Are presymptomatic SARS-CoV-2 infections in nursing home residents unrecognized symptomatic infections? Sequence and metadata from weekly testing in an extensive nursing home outbreak](https://academic.oup.com/ageing/advance-article/doi/10.1093/ageing/afab081/6270854)

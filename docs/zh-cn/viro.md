@@ -1027,4 +1027,4 @@
 - [​南开大学郭宇/张宏恺/饶子和：高亲和力的新冠病毒（SARS-CoV-2）中和抗体展现良好的治疗潜力](https://mp.weixin.qq.com/s/-NYfbeLswZqv9HhYJ7ODIA)
 - [A SARS-CoV-2 neutralizing antibody with exceptional spike binding coverage and optimized therapeutic potentials](https://www.nature.com/articles/s41467-021-22926-2)
 - [SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study](https://www.mdpi.com/1999-4915/13/3/494)
-- [AIDS and COVID: A tale of two pandemics and the role of statisticians](https://onlinelibrary.wiley.com/doi/10.1002/sim.8936)
+- [Comparable endemic coronavirus nucleoprotein‐specific antibodies in mild and severe Covid‐19 patients](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.27038)
