@@ -1737,3 +1737,8 @@
 - [Science 一周论文导读｜2021年4月30日](https://mp.weixin.qq.com/s/WqkoDGoxv5s4XAdiz4fE8g)
 - [24小时热门｜科学家发现一种全新疾病，患者无法产生抗体；什么时候还花呗，会最果断？](https://mp.weixin.qq.com/s/pc5JbQ9tp6sBAwdcaenS5w)
 - [夜光遥感反衬世界经济不平等 | 复杂性科学顶刊精选9篇](https://mp.weixin.qq.com/s/a7n4wkjigB_ZsY3pZbrq3g)
+- [科学家构建新冠重症小鼠模型，有望加快疫苗药物开发速度 | 科研圈日报](https://mp.weixin.qq.com/s/0NKFybo3yczuTnsi1qhInQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（5月12日）【中国科讯】](https://mp.weixin.qq.com/s/3rwezBGDoIPwQFFdaAKtFQ)
+- [COVID-19严重程度与呼吸衰竭的全表观基因组相关性研究 | EBioMedicine4月精选](https://mp.weixin.qq.com/s/jMz_yrFiV53rbzYTG8IARQ)
+- [国家疾病预防控制局今日正式挂牌，疾控职能将有所转变｜科研圈日报](https://mp.weixin.qq.com/s/9mzNdhba2y-DLqGxwcWYDg)
+- [24小时热门｜一种疫苗就能预防所有冠状病毒感染？《自然》报道全新“纳米疫苗”](https://mp.weixin.qq.com/s/tB7HVsQP3tkUOA7HbNWnSQ)

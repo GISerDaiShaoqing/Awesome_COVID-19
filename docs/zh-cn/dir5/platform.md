@@ -160,3 +160,4 @@
 - [WhereCOVID-19](https://wherecovid19.cigi.illinois.edu/)
 - [如何使用GIS跟踪病毒的传播](https://mp.weixin.qq.com/s/yvJkeQchKz79_VBBCoeAmw)
 - [关注：“疫知”平台，五一小长假出行背景下的全国新冠疫情风险预警](https://mp.weixin.qq.com/s/8-xaXdJSKyqMxBF_Xx3sgg)
+- [学术交流 | 疫情防控中测绘地理信息影响力分析](https://mp.weixin.qq.com/s/enAD3gyq1ZwtDLRJcbT7dw)

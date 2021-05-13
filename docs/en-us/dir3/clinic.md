@@ -1477,3 +1477,8 @@
 - [《自然》发文: 对许多国家来说, 中国疫苗是唯一可及的疫苗](https://mp.weixin.qq.com/s/stt8vjiV7vGLAYr9WUE2RA)
 - [毫无悬念：世卫批准首个中国COVID-19疫苗，美国赶紧放弃疫苗专利](https://mp.weixin.qq.com/s/KP1CgTxdvJdYi60c4xih5g)
 - [One dose of SARS-CoV-2 vaccine exponentially increases antibodies in recovered individuals with symptomatic COVID-19](https://europepmc.org/article/MED/33956667)
+- [对新冠病毒的免疫力能维持多久？](https://mp.weixin.qq.com/s/4THKls_6AiW70KEGXpo6zA)
+- [Longitudinal analysis of humoral immunity against SARS-CoV-2 Spike in convalescent individuals up to eight months post-symptom onset](https://www.cell.com/cell-reports-medicine/pdf/S2666-3791(21)00118-X.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912100118X%3Fshowall%3Dtrue)
+- [福奇Med最新述评：COVID-19的治疗图景](https://mp.weixin.qq.com/s/4CpNtxDnRSQL4x59OxnWnQ)
+- [COVID-19: The therapeutic landscape](https://www.cell.com/med/fulltext/S2666-6340(21)00164-1)
+- [新冠病毒疫苗宣传海报发布！](https://mp.weixin.qq.com/s/grjeHFd35yiAwHOoqnfVLQ)
