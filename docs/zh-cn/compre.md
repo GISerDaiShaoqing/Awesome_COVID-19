@@ -2065,3 +2065,6 @@
 - [Green spaces mitigate racial disparity of health: A higher ratio of green spaces indicates a lower racial disparity in SARS-CoV-2 infection rates in the USA](https://doi.org/10.1016/j.envint.2021.106465)
 - [AIDS and COVID: A tale of two pandemics and the role of statisticians](https://onlinelibrary.wiley.com/doi/10.1002/sim.8936)
 - [Impact and effectiveness of mRNA BNT162b2 vaccine against SARS-CoV-2 infections and COVID-19 cases, hospitalisations, and deaths following a nationwide vaccination campaign in Israel: an observational study using national surveillance data](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext)
+- [科学家给Science的一封信：继续探索新冠肺炎的起源｜Science一周精选](https://mp.weixin.qq.com/s/LvrWOPAiOrQNE7UTeCYV4w)
+- [Investigate the origins of COVID-19](https://science.sciencemag.org/content/372/6543/694.1)
+- [Modeled changes in source contributions of particulate matter during the COVID-19 pandemic in the Yangtze River Delta, China](https://acp.copernicus.org/articles/21/7343/2021/)

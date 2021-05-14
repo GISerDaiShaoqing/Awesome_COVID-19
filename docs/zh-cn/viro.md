@@ -1028,3 +1028,5 @@
 - [A SARS-CoV-2 neutralizing antibody with exceptional spike binding coverage and optimized therapeutic potentials](https://www.nature.com/articles/s41467-021-22926-2)
 - [SARS-CoV-2 Infections in Animals: Reservoirs for Reverse Zoonosis and Models for Study](https://www.mdpi.com/1999-4915/13/3/494)
 - [Comparable endemic coronavirus nucleoprotein‐specific antibodies in mild and severe Covid‐19 patients](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.27038)
+- [又一篇！南开大学郭宇/张宏恺/饶子和发现结合新型表位的SARS-CoV-2中和抗体](https://mp.weixin.qq.com/s/-ThKK3QQV-8LHJY6ThvTrA)
+- [Structural basis for SARS-CoV-2 neutralizing antibodies with novel binding epitopes](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001209)

@@ -358,3 +358,4 @@
 - [活动回顾 | 后疫情时代全球气候变化减排的新机遇与新挑战](https://mp.weixin.qq.com/s/tlWF3HJL9D42zteueu57bw)
 - [思维论坛 | COVID-19数学建模研究 | Infectious Diseases of Poverty](https://mp.weixin.qq.com/s/b-fCEtI7hUpL78wDDILpkA)
 - [走近Vaccine系列期刊，以及COVID-19在中国的最新进展](https://mp.weixin.qq.com/s/Vrg0jxZRgDGMtv1fE6U-4A)
+- [BMJ诚邀您参会：COVID-19 疫苗安全性 – 从实验室到临床应用](https://mp.weixin.qq.com/s/qR8kYpd0w2redPKS_DmHbQ)

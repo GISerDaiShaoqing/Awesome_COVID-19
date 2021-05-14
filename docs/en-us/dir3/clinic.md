@@ -1485,3 +1485,8 @@
 - [Seroprevalence of SARS-CoV-2 antibodies and associated factors in healthcare workers: a systematic review and meta-analysis](https://doi.org/10.1016/j.jhin.2020.11.008)
 - [Evaluation of potential COVID-19 recurrence in patients with late repeat positive SARS-CoV-2 testing](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251214)
 - [Are presymptomatic SARS-CoV-2 infections in nursing home residents unrecognized symptomatic infections? Sequence and metadata from weekly testing in an extensive nursing home outbreak](https://academic.oup.com/ageing/advance-article/doi/10.1093/ageing/afab081/6270854)
+- [面对印尼公布的数据, 美媒也变了调门: 科兴疫苗现实有效性高于其临床试验结果](https://mp.weixin.qq.com/s/vwwPzTKn5wp_QK8Mk2_L3A)
+- [孙强/黄红艳/刘良团队合作揭示新冠患者淋巴细胞减少症发生的新机制](https://mp.weixin.qq.com/s/B1kHP1j1XOt5REESXnLlAA)
+- [SARS-CoV-2 spike protein dictates syncytium-mediated lymphocyte elimination](https://www.nature.com/articles/s41418-021-00782-3)
+- [最新研究 | 两剂辉瑞疫苗对预防COVID-19感染、住院和死亡高度有效](https://mp.weixin.qq.com/s/jTq_EhhJTVGaeY9K4sLYkg)
+- [Impact and effectiveness of mRNA BNT162b2 vaccine against SARS-CoV-2 infections and COVID-19 cases, hospitalisations, and deaths following a nationwide vaccination campaign in Israel: an observational study using national surveillance data](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext)
