@@ -2068,3 +2068,5 @@
 - [科学家给Science的一封信：继续探索新冠肺炎的起源｜Science一周精选](https://mp.weixin.qq.com/s/LvrWOPAiOrQNE7UTeCYV4w)
 - [Investigate the origins of COVID-19](https://science.sciencemag.org/content/372/6543/694.1)
 - [Modeled changes in source contributions of particulate matter during the COVID-19 pandemic in the Yangtze River Delta, China](https://acp.copernicus.org/articles/21/7343/2021/)
+- [Psychosocial effects of the COVID-19 pandemic and lockdown on university students: Understanding apprehensions through a phenomenographic approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251641)
+- [Mapping the Accessibility of Medical Facilities of Wuhan during the COVID-19 Pandemic](https://www.mdpi.com/2220-9964/10/5/318)

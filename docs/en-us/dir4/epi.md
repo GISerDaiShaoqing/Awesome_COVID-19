@@ -569,3 +569,5 @@
 - [SARS-CoV-2 transmission in educational settings during an early summer epidemic wave in Luxembourg, 2020](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06089-5)
 - [Mobilizing a COVID-19 Contact Tracing Workforce at Warp Speed: A Framework for Successful Program Implementation](https://europepmc.org/article/med/33844648)
 - [Assessment of basic reproduction number (R0), spatial and temporal epidemiological determinants, and genetic characterization of SARS-CoV-2 in Bangladesh](https://www.sciencedirect.com/science/article/pii/S1567134821001817)
+- [A five-compartment model of age-specific transmissibility of SARS-CoV-2](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00735-x)
+- [The epidemicity index of recurrent SARS-CoV-2 infections](https://www.nature.com/articles/s41467-021-22878-7)

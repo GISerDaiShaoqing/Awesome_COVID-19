@@ -221,3 +221,5 @@
 - [余宏杰课题组在逐步放宽社交距离措施对人群接触模式及新冠肺炎传播的影响领域取得重要进展](https://mp.weixin.qq.com/s/2OfgN4Nmro0Cda3UrKSi7A)
 - [The impact of relaxing interventions on human contactpatterns and SARS-CoV-2 transmission in China](https://advances.sciencemag.org/content/7/19/eabe2584)
 - [Mitigating COVID-19 Transmission in Schools With Digital Contact Tracing](https://ieeexplore.ieee.org/document/9417017)
+- [Cross-Border Mobility Responses to Covid-19 in Europe: New Evidence from Facebook Data](https://www.researchsquare.com/article/rs-479253/v1?redirect=/article/rs-479253)
+- [An integrated framework for modelling quantitative effects of entry restrictions and travel quarantine on importation risk of COVID-19](https://doi.org/10.1016/j.jbi.2021.103800)

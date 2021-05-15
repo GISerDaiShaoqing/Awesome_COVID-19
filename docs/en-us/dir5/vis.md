@@ -252,3 +252,5 @@
 - [编委佳作 |基于幂律的美国新冠肺炎病例绘图方法（全文翻译）](https://mp.weixin.qq.com/s/c8-tnNTpw5DrQfhgKsvvuA)
 - [A power-law-based approach to mapping COVID-19 cases in the United States](https://www.tandfonline.com/doi/full/10.1080/10095020.2020.1871306?src=)
 - [印度日增30万？吓得我赶紧画个图来看看！](https://mp.weixin.qq.com/s/4j4cMIyg9SvA2Qtnw5j4Dg)
+- [【图说】《经济学人》：新冠疫情到底在全球导致了多少死亡病例？](https://mp.weixin.qq.com/s/j4ROBpHXg1jz6Fb_QVMwyw)
+- [There have been 7m-13m excess deaths worldwide during the pandemic](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)

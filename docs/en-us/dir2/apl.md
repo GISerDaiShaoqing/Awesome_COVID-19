@@ -1745,3 +1745,5 @@
 - [《新型冠状病毒肺炎防控方案（第八版）》印发](https://mp.weixin.qq.com/s/-aiRpY-vZXUidB1wP5BnHA)
 - [5 月 13 日我国内地新增确诊病例 7 例，其中本土病例 2 例（均在安徽） | 科研圈日报](https://mp.weixin.qq.com/s/Bt4D9sNR89haSKCJQCUYJw)
 - [24小时热门｜新冠疫苗两针能打不同款吗？《柳叶刀》发表“混合接种”试验初步安全性数据](https://mp.weixin.qq.com/s/msacElW1kdfZ_OKxGMupsw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（5月14日）【中国科讯】](https://mp.weixin.qq.com/s/onU6-oZpYDHSn6chSXikzg)
+- [一种疫苗就能预防所有冠状病毒感染？《自然》报道全新“纳米疫苗”｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/1QVVqiPR3w_2RVkBNa5snw)
