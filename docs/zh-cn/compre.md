@@ -2070,3 +2070,5 @@
 - [Modeled changes in source contributions of particulate matter during the COVID-19 pandemic in the Yangtze River Delta, China](https://acp.copernicus.org/articles/21/7343/2021/)
 - [Psychosocial effects of the COVID-19 pandemic and lockdown on university students: Understanding apprehensions through a phenomenographic approach](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251641)
 - [Mapping the Accessibility of Medical Facilities of Wuhan during the COVID-19 Pandemic](https://www.mdpi.com/2220-9964/10/5/318)
+- [每天约34亿口罩和面罩被丢弃！疫情促使全球塑料污染加剧](https://mp.weixin.qq.com/s/MSqDss1DpUzbjM_WxQP2QQ)
+- [Increased plastic pollution due to COVID-19 pandemic: Challenges and recommendations](https://www.sciencedirect.com/science/article/pii/S1385894720328114)

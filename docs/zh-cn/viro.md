@@ -1032,3 +1032,7 @@
 - [Structural basis for SARS-CoV-2 neutralizing antibodies with novel binding epitopes](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001209)
 - [Coronavirus seroprevalence among villagers exposed to bats in Thailand](https://onlinelibrary.wiley.com/doi/10.1111/zph.12833)
 - [Recombinant GII.P16 genotype challenges RT-PCR-based typing in region A of norovirus genome](https://www.sciencedirect.com/science/article/pii/S0163445321002012)
+- [Nature子刊 | 中山大学陈守登／单鸿／肖非／廖化新团队发现首个可抑制COVID-19补体过度激活的全人源新冠病毒N蛋白抗体](https://mp.weixin.qq.com/s/X1dq9pbNJnOW3TZpHjAphQ)
+- [A SARS-CoV-2 antibody curbs viralnucleocapsid protein-induced complement hyperactivation](https://www.nature.com/articles/s41467-021-23036-9)
+- [Nature视频 | 关于新冠病毒变异株的几个真相](https://mp.weixin.qq.com/s/qjF2MXbV_NH4ZXnLAKyTDw)
+- [视频文字稿 | 关于新冠病毒变异株的几个真相](https://mp.weixin.qq.com/s/Z72vxTuAg249GWMw4_l0ZA)

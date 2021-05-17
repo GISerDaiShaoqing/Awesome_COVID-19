@@ -1497,3 +1497,5 @@
 - [New coronavirus lingers in penis and could cause impotence](https://medicalxpress.com/news/2021-05-coronavirus-lingers-penis-impotence.html)
 - [Use of repurposed and adjuvant drugs in hospital patients with covid-19: multinational network cohort study](https://www.bmj.com/content/373/bmj.n1038)
 - [What incentives can spur Covid-19 vaccination uptake](https://osf.io/ax6pw/)
+- [新冠病毒重组疫苗比灭活疫苗更安全有效？河北疾控专家这样说](https://mp.weixin.qq.com/s/edytQHySA7a-qvKmz8O8gA)
+- [从横尸遍野到世界首个全民免疫之城？中国疫苗逆天改命！](https://mp.weixin.qq.com/s/PB6GrVooWlD-CgOmFW36VA)
