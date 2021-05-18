@@ -1748,3 +1748,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（5月14日）【中国科讯】](https://mp.weixin.qq.com/s/onU6-oZpYDHSn6chSXikzg)
 - [一种疫苗就能预防所有冠状病毒感染？《自然》报道全新“纳米疫苗”｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/1QVVqiPR3w_2RVkBNa5snw)
 - [图说|公民防疫基本行为准则](https://mp.weixin.qq.com/s/2WK61bNKFKsgElWsj7DLSg)
+- [研究证实新冠病毒可致口咽部微生态失调｜科研圈日报](https://mp.weixin.qq.com/s/3ZnuVyUJ7kWx6vzEd-E2kw)
+- [Science一周论文导读｜2021年5月7日](https://mp.weixin.qq.com/s/240DGKGv6E6m9iMR_KsqTQ)
+- [Nature一周论文导读｜2021年5月6日](https://mp.weixin.qq.com/s/ZVy4-XYp9Fo15enK8RsVqw)

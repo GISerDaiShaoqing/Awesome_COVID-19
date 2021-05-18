@@ -1499,3 +1499,7 @@
 - [What incentives can spur Covid-19 vaccination uptake](https://osf.io/ax6pw/)
 - [新冠病毒重组疫苗比灭活疫苗更安全有效？河北疾控专家这样说](https://mp.weixin.qq.com/s/edytQHySA7a-qvKmz8O8gA)
 - [从横尸遍野到世界首个全民免疫之城？中国疫苗逆天改命！](https://mp.weixin.qq.com/s/PB6GrVooWlD-CgOmFW36VA)
+- [哮喘和哮喘药物对COVID-19患者预后的影响](https://mp.weixin.qq.com/s/PH0yxE4xFu2lO536kqfuiA)
+- [Effect of asthma and asthma medication on the prognosis of patients with COVID-19](https://erj.ersjournals.com/content/57/3/2002226)
+- [COVID-19对哮喘患者的影响](https://mp.weixin.qq.com/s/-NiTHdeDbBVb3LncmutvfQ)
+- [The impact of COVID-19 on patients with asthma](https://erj.ersjournals.com/content/57/3/2003142)

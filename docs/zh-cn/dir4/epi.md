@@ -571,3 +571,4 @@
 - [Assessment of basic reproduction number (R0), spatial and temporal epidemiological determinants, and genetic characterization of SARS-CoV-2 in Bangladesh](https://www.sciencedirect.com/science/article/pii/S1567134821001817)
 - [A five-compartment model of age-specific transmissibility of SARS-CoV-2](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00735-x)
 - [The epidemicity index of recurrent SARS-CoV-2 infections](https://www.nature.com/articles/s41467-021-22878-7)
+- [Pandemic_Model: A hierarchical model for global plant insect and pathogen spread via human movement](https://github.com/ncsu-landscape-dynamics/Pandemic_Model)
