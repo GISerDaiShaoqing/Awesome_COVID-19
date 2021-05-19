@@ -1750,4 +1750,7 @@
 - [图说|公民防疫基本行为准则](https://mp.weixin.qq.com/s/2WK61bNKFKsgElWsj7DLSg)
 - [研究证实新冠病毒可致口咽部微生态失调｜科研圈日报](https://mp.weixin.qq.com/s/3ZnuVyUJ7kWx6vzEd-E2kw)
 - [Science一周论文导读｜2021年5月7日](https://mp.weixin.qq.com/s/240DGKGv6E6m9iMR_KsqTQ)
-- [Nature一周论文导读｜2021年5月6日](https://mp.weixin.qq.com/s/ZVy4-XYp9Fo15enK8RsVqw)
+- [Nature一周论文导读｜2021年5月6日](https://mp.weixin.qq.com/s/ZVy4-XYp9Fo15enK8RsVqw)\
+- [情报监测 | “COVID-19”科研动态监测每日快报（5月17日）【中国科讯】](https://mp.weixin.qq.com/s/qH6XZwqH8lbWvDG8p1gP4w)
+- [24小时热门｜对新冠病毒的免疫力能维持多久？8个月追踪研究揭示多重保护机制](https://mp.weixin.qq.com/s/u8IR_XYZL8tsPyWCbJmqjg)
+- [5 月 17 日我国内地新增确诊病例 22 例，其中本土病例 4 例（均在辽宁） | 科研圈日报](https://mp.weixin.qq.com/s/VHr7GAtIpB8NpKAvXJbygA)

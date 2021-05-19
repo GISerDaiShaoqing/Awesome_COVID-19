@@ -572,3 +572,6 @@
 - [A five-compartment model of age-specific transmissibility of SARS-CoV-2](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-00735-x)
 - [The epidemicity index of recurrent SARS-CoV-2 infections](https://www.nature.com/articles/s41467-021-22878-7)
 - [Pandemic_Model: A hierarchical model for global plant insect and pathogen spread via human movement](https://github.com/ncsu-landscape-dynamics/Pandemic_Model)
+- [SARS-CoV-2 transmission in students of public schools of Catalonia (Spain) after a month of reopening](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251593)
+- [Modeling the underestimation of COVID-19 infection](https://doi.org/10.1016/j.rinp.2021.104271)
+- [Early reports of epidemiological parameters of the COVID-19 pandemic](https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/794)

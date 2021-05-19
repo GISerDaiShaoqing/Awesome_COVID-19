@@ -2072,3 +2072,6 @@
 - [Mapping the Accessibility of Medical Facilities of Wuhan during the COVID-19 Pandemic](https://www.mdpi.com/2220-9964/10/5/318)
 - [每天约34亿口罩和面罩被丢弃！疫情促使全球塑料污染加剧](https://mp.weixin.qq.com/s/MSqDss1DpUzbjM_WxQP2QQ)
 - [Increased plastic pollution due to COVID-19 pandemic: Challenges and recommendations](https://www.sciencedirect.com/science/article/pii/S1385894720328114)
+- [Effects of different types of written vaccination information on COVID-19 vaccine hesitancy in the UK (OCEANS-III): a single-blind, parallel-group, randomised controlled trial](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00096-7/fulltext)
+- [Interviewing children: the impact of the COVID-19 quarantine on children’s perceived psychological distress and changes in routine](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-021-02704-1)
+- [Impact of Changed Use of Greenspace during COVID-19 Pandemic on Depression and Anxiety](https://www.preprints.org/manuscript/202105.0319/v1)
