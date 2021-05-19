@@ -34,5 +34,6 @@
 - [Pitfalls in Modeling Asymptomatic COVID-19 Infection](https://www.frontiersin.org/articles/10.3389/fpubh.2021.593176/full)
 - [New Approaches to Anticipate the Risk of Reverse Zoonosis](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347%2821%2900097-5?utm_medium=homepage#%20)
 - [COVID-19 Lockdown and Social Capital Changes Among Youths in China](http://www.ijhpm.com/article_4022.html)
+- [Impacts of lockdown on dietary patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey](https://www.cambridge.org/core/journals/public-health-nutrition/article/impacts-of-lockdown-on-dietary-patterns-among-youths-in-china-the-covid19-impact-on-lifestyle-change-survey/AF7155CE5878FBBFB4C876CA017B58CD)
 
 ![](/img/ISLEwechat.jpg)

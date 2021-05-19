@@ -2075,3 +2075,7 @@
 - [Effects of different types of written vaccination information on COVID-19 vaccine hesitancy in the UK (OCEANS-III): a single-blind, parallel-group, randomised controlled trial](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00096-7/fulltext)
 - [Interviewing children: the impact of the COVID-19 quarantine on children’s perceived psychological distress and changes in routine](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-021-02704-1)
 - [Impact of Changed Use of Greenspace during COVID-19 Pandemic on Depression and Anxiety](https://www.preprints.org/manuscript/202105.0319/v1)
+- [仅1%的民众完成新冠疫苗接种，日本做好准备迎接东京奥运会了吗？｜Science新闻](https://mp.weixin.qq.com/s/lGJbWBJIJJisRpcsntV8iA)
+- [Only 1% of Japan is fully vaccinated against COVID-19. Is it ready for the Olympics?](https://www.sciencemag.org/news/2021/05/only-1-japan-fully-vaccinated-against-covid-19-it-ready-olympics)
+- [北极科研，正在被疫情摧毁](https://mp.weixin.qq.com/s/4s_Jdn_s-tNDcTxFGLQlGQ)
+- [Impacts of lockdown on dietary patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey](https://www.cambridge.org/core/journals/public-health-nutrition/article/impacts-of-lockdown-on-dietary-patterns-among-youths-in-china-the-covid19-impact-on-lifestyle-change-survey/AF7155CE5878FBBFB4C876CA017B58CD)

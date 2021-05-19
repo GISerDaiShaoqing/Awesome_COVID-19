@@ -575,3 +575,4 @@
 - [SARS-CoV-2 transmission in students of public schools of Catalonia (Spain) after a month of reopening](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251593)
 - [Modeling the underestimation of COVID-19 infection](https://doi.org/10.1016/j.rinp.2021.104271)
 - [Early reports of epidemiological parameters of the COVID-19 pandemic](https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/794)
+- [Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes](https://science.sciencemag.org/content/372/6540/363)

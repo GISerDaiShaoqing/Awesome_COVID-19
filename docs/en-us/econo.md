@@ -685,3 +685,5 @@
 - [Global economic impacts of COVID-19 lockdown measures stand out in high-frequency shipping data](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0248818)
 - [Financial Innovation∣疫情与加密货币对金融市场影响专刊](https://mp.weixin.qq.com/s/NfHXBIGSju29NiSs9zlzTA)
 - [全球城市观察｜疫情给办公空间带来了哪些变化](https://mp.weixin.qq.com/s/uiDN9ud-8sNbJSyU2HEycA)
+- [COVID-19疫情下的时尚业跨国公司供应链风险管理 | MDPI JRFM](https://mp.weixin.qq.com/s/mSUfasKQI2TYFb_83aAibw)
+- [Risk Management: Rethinking Fashion Supply Chain Management for Multinational Corporations in Light of the COVID-19 Outbreak](https://www.mdpi.com/1911-8074/13/8/173)

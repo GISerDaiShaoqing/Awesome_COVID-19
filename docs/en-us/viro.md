@@ -1036,3 +1036,4 @@
 - [A SARS-CoV-2 antibody curbs viralnucleocapsid protein-induced complement hyperactivation](https://www.nature.com/articles/s41467-021-23036-9)
 - [Nature视频 | 关于新冠病毒变异株的几个真相](https://mp.weixin.qq.com/s/qjF2MXbV_NH4ZXnLAKyTDw)
 - [视频文字稿 | 关于新冠病毒变异株的几个真相](https://mp.weixin.qq.com/s/Z72vxTuAg249GWMw4_l0ZA)
+- [Science杂志最新论文：新研究发现冠状病毒“致命弱点”](https://mp.weixin.qq.com/s/fDz7cP95LAvs0hD5rPDibA)

@@ -1504,3 +1504,4 @@
 - [COVID-19对哮喘患者的影响](https://mp.weixin.qq.com/s/-NiTHdeDbBVb3LncmutvfQ)
 - [The impact of COVID-19 on patients with asthma](https://erj.ersjournals.com/content/57/3/2003142)
 - [Specific exposure of ICU staff to SARS-CoV-2 seropositivity: a wide seroprevalence study in a French city-center hospital](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-021-00868-8)
+- [新冠疫苗两针能打不同款吗？](https://mp.weixin.qq.com/s/NY79PCK1tv5iMUje48UQ1g)
