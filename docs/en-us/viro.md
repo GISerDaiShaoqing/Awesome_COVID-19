@@ -1037,3 +1037,7 @@
 - [Nature视频 | 关于新冠病毒变异株的几个真相](https://mp.weixin.qq.com/s/qjF2MXbV_NH4ZXnLAKyTDw)
 - [视频文字稿 | 关于新冠病毒变异株的几个真相](https://mp.weixin.qq.com/s/Z72vxTuAg249GWMw4_l0ZA)
 - [Science杂志最新论文：新研究发现冠状病毒“致命弱点”](https://mp.weixin.qq.com/s/fDz7cP95LAvs0hD5rPDibA)
+- [STTT | 南方医科大学侯凡凡​/侯金林系统评估新冠患者中和抗体对新冠病毒反应的动力学](https://mp.weixin.qq.com/s/xK8xsQHCwXUhAGnGFA08eQ)
+- [Dynamics of neutralizing antibody responses to SARS-CoV-2 in patients with COVID-19: an observational study](https://www.nature.com/articles/s41392-021-00611-6)
+- [Viral dynamics and antibody responses in people with asymptomatic SARS-CoV-2 infection](https://www.nature.com/articles/s41392-021-00596-2)
+- [Inactivation of SARS-CoV-2 Laboratory Specimens](https://www.ajtmh.org/view/journals/tpmd/aop/article-10.4269-ajtmh.21-0229/article-10.4269-ajtmh.21-0229.xml)

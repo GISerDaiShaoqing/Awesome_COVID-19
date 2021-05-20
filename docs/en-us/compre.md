@@ -2079,3 +2079,4 @@
 - [Only 1% of Japan is fully vaccinated against COVID-19. Is it ready for the Olympics?](https://www.sciencemag.org/news/2021/05/only-1-japan-fully-vaccinated-against-covid-19-it-ready-olympics)
 - [北极科研，正在被疫情摧毁](https://mp.weixin.qq.com/s/4s_Jdn_s-tNDcTxFGLQlGQ)
 - [Impacts of lockdown on dietary patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey](https://www.cambridge.org/core/journals/public-health-nutrition/article/impacts-of-lockdown-on-dietary-patterns-among-youths-in-china-the-covid19-impact-on-lifestyle-change-survey/AF7155CE5878FBBFB4C876CA017B58CD)
+- [Spatiotemporal Patterns of Human Mobility and Its Association with Land Use Types during COVID-19 in New York City](https://www.mdpi.com/2220-9964/10/5/344)
