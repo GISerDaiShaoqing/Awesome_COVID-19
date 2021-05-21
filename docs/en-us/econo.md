@@ -687,3 +687,4 @@
 - [全球城市观察｜疫情给办公空间带来了哪些变化](https://mp.weixin.qq.com/s/uiDN9ud-8sNbJSyU2HEycA)
 - [COVID-19疫情下的时尚业跨国公司供应链风险管理 | MDPI JRFM](https://mp.weixin.qq.com/s/mSUfasKQI2TYFb_83aAibw)
 - [Risk Management: Rethinking Fashion Supply Chain Management for Multinational Corporations in Light of the COVID-19 Outbreak](https://www.mdpi.com/1911-8074/13/8/173)
+- [新冠肆虐以前伦敦如何考虑韧性？观察君替你问了七个问题 | 国际观察141](https://mp.weixin.qq.com/s/eSLuQNFCCEK7c5nhou3GMQ)
