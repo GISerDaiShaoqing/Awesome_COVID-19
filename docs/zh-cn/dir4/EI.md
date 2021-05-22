@@ -230,3 +230,4 @@
 - [德国马普化学所苏杭团队、程雅芳团队和暨南大学马楠团队合作Science：口罩可以有效降低新冠病毒的传播概率](https://mp.weixin.qq.com/s/o6BI9zFxjCK3yiSOXsEWuw)
 - [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296.full)
 - [Science | 破除质疑，暨南大学等多单位合作，苏杭/程雅芳​发现佩戴口罩有效地限制了新冠病毒的传播](https://mp.weixin.qq.com/s/N1CKibHYUKk7oC-htmHUww)
+- [Impact of public health interventions to curb SARS-CoV-2 spread assessed by an evidence-educated Delphi panel and tailored SEIR model](https://link.springer.com/article/10.1007/s10389-021-01566-2)

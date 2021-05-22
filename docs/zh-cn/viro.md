@@ -1047,3 +1047,5 @@
 - [SARS-CoV-2 Spike Protein Impairs Endothelial Function via Downregulation of ACE 2](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.121.318902)
 - [发现两种全新的可感染人类的冠状病毒，分别来自狗和猪](https://mp.weixin.qq.com/s/Tm1T1ejSID6bDcLQQda_wQ)
 - [Two more coronaviruses can infect people, studies suggest](https://www.sciencemag.org/news/2021/05/two-more-coronaviruses-can-infect-people-studies-suggest)
+- [A molecularly engineered, broad-spectrum anti-coronavirus lectin inhibits SARS-CoV-2 and MERS-CoV infection in vivo](https://www.researchsquare.com/article/rs-516695/v1)
+- [Mining of linear B cell epitopes of SARS-CoV-2 ORF8 protein from COVID-19 patients](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1931465)

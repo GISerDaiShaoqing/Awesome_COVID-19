@@ -2082,3 +2082,6 @@
 - [Spatiotemporal Patterns of Human Mobility and Its Association with Land Use Types during COVID-19 in New York City](https://www.mdpi.com/2220-9964/10/5/344)
 - [新冠全球大流行下应密切关注MERS-CoV | Infectious Diseases of Poverty](https://mp.weixin.qq.com/s/we9JAElbbwTw88VOqpWS7Q)
 - [Epidemiology and evolution of Middle East respiratory syndrome coronavirus, 2012–2020](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00853-0)
+- [【动向】疫情之下：日本大批青年人申请驾照，汽车销量反弹！](https://mp.weixin.qq.com/s/eM_xhhAcHR9AS-n_zr8-4Q)
+- [Hyperdrive Daily: Japan Is Getting Back Into the Driving Seat](https://www.bloomberg.com/news/newsletters/2021-05-17/hyperdrive-daily-japan-is-getting-back-into-the-driving-seat)
+- [Predictors of Intent to Receive the COVID-19 Vaccination Among the Population in the Kingdom of Saudi Arabia: A Survey Study](https://www.dovepress.com/predictors-of-intent-to-receive-the-covid-19-vaccination-among-the-pop-peer-reviewed-fulltext-article-JMDH)

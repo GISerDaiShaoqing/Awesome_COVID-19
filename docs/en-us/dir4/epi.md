@@ -577,3 +577,4 @@
 - [Early reports of epidemiological parameters of the COVID-19 pandemic](https://ojs.wpro.who.int/ojs/index.php/wpsar/article/view/794)
 - [Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes](https://science.sciencemag.org/content/372/6540/363)
 - [Modeling the potential impact of indirect transmission on COVID-19 epidemic](https://www.medrxiv.org/content/10.1101/2021.01.28.20181040v1)
+- [Research on the Evolution of Population Distribution and Influencing Factors in Xi'an During the COVID-19 Epidemic Control Period: Based on a Perspective of Multi-source Spatio-Temporal Big Data](https://iopscience.iop.org/article/10.1088/1755-1315/769/2/022066/meta)
