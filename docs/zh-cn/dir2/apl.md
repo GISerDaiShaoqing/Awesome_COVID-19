@@ -1756,3 +1756,5 @@
 - [5 月 17 日我国内地新增确诊病例 22 例，其中本土病例 4 例（均在辽宁） | 科研圈日报](https://mp.weixin.qq.com/s/VHr7GAtIpB8NpKAvXJbygA)
 - [5 月 18 日我国内地新增确诊病例 14 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/8Rl7yVuqKnIQHsGZsQRhvw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（5月19日）【中国科讯】](https://mp.weixin.qq.com/s/youMsmR6SzM0jStWacWRMQ)
+- [夏宁邵：与病毒赛跑的厦大人](https://mp.weixin.qq.com/s/QBIHUaJFisxYn0kd9HDYfg)
+- [科学家发现另外两种可以感染人类的冠状病毒 | 科研圈日报](https://mp.weixin.qq.com/s/1DQ1g9qRpBU_po82zc8rMA)

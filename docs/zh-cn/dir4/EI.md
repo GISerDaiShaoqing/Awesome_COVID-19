@@ -227,3 +227,6 @@
 - [Assessing the Effect of Global Travel and Contact Restrictions on Mitigating the COVID-19 Pandemic](https://www.sciencedirect.com/science/article/pii/S2095809921001983)
 - [Comparative and quantitative analysis of COVID-19 epidemic interventions in Chinese provinces](https://www.sciencedirect.com/science/article/pii/S2211379721004368)
 - [Prevention and control measures significantly curbed the SARS-CoV-2 and influenza epidemics in China](https://doi.org/10.1016/j.jve.2021.100040)
+- [德国马普化学所苏杭团队、程雅芳团队和暨南大学马楠团队合作Science：口罩可以有效降低新冠病毒的传播概率](https://mp.weixin.qq.com/s/o6BI9zFxjCK3yiSOXsEWuw)
+- [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296.full)
+- [Science | 破除质疑，暨南大学等多单位合作，苏杭/程雅芳​发现佩戴口罩有效地限制了新冠病毒的传播](https://mp.weixin.qq.com/s/N1CKibHYUKk7oC-htmHUww)
