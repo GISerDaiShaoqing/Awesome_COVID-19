@@ -1049,3 +1049,5 @@
 - [Two more coronaviruses can infect people, studies suggest](https://www.sciencemag.org/news/2021/05/two-more-coronaviruses-can-infect-people-studies-suggest)
 - [A molecularly engineered, broad-spectrum anti-coronavirus lectin inhibits SARS-CoV-2 and MERS-CoV infection in vivo](https://www.researchsquare.com/article/rs-516695/v1)
 - [Mining of linear B cell epitopes of SARS-CoV-2 ORF8 protein from COVID-19 patients](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1931465)
+- [Protein & Cell丨吴爱平/秦成峰团队评述新冠病毒在人和动物中的趋同进化](https://mp.weixin.qq.com/s/rWhhtsLLs5nsFdqXy-dBBA)
+- [Convergent evolution of SARS-CoV-2 in human and animals](https://link.springer.com/article/10.1007/s13238-021-00847-6)

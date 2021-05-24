@@ -2085,3 +2085,4 @@
 - [【动向】疫情之下：日本大批青年人申请驾照，汽车销量反弹！](https://mp.weixin.qq.com/s/eM_xhhAcHR9AS-n_zr8-4Q)
 - [Hyperdrive Daily: Japan Is Getting Back Into the Driving Seat](https://www.bloomberg.com/news/newsletters/2021-05-17/hyperdrive-daily-japan-is-getting-back-into-the-driving-seat)
 - [Predictors of Intent to Receive the COVID-19 Vaccination Among the Population in the Kingdom of Saudi Arabia: A Survey Study](https://www.dovepress.com/predictors-of-intent-to-receive-the-covid-19-vaccination-among-the-pop-peer-reviewed-fulltext-article-JMDH)
+- [The Impact of the COVID-19 Pandemic on Green Societies](https://link.springer.com/book/10.1007/978-3-030-66490-9)
