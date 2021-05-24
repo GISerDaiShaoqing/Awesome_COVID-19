@@ -1051,3 +1051,5 @@
 - [Mining of linear B cell epitopes of SARS-CoV-2 ORF8 protein from COVID-19 patients](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1931465)
 - [Protein & Cell丨吴爱平/秦成峰团队评述新冠病毒在人和动物中的趋同进化](https://mp.weixin.qq.com/s/rWhhtsLLs5nsFdqXy-dBBA)
 - [Convergent evolution of SARS-CoV-2 in human and animals](https://link.springer.com/article/10.1007/s13238-021-00847-6)
+- [快报：石正丽团队发现一种新型冠状病毒](https://mp.weixin.qq.com/s/cVbftpwWBFWzxrWt839phg)
+- [Identification of a novel lineage bat SARS-related coronaviruses that use bat ACE2 receptor](https://doi.org/10.1101/2021.05.21.445091)

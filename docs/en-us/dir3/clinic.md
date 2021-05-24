@@ -1516,3 +1516,5 @@
 - [再问不回答了，新冠疫苗禁忌症只有两条，其他都可以打](https://mp.weixin.qq.com/s/u4xcZPJzkj0F6nX2s2WpaA)
 - [美疾控中心前主任：蛋白亚单位疫苗研发平台对于阻止新冠疫情非常重要](https://mp.weixin.qq.com/s/FmOi_LhJxquhZn1mf9k9lQ)
 - [哪些人不能打新冠疫苗？这42种情况说全了！对照收藏！](https://mp.weixin.qq.com/s/gufxtfTBuRaAWep34Vr00Q)
+- [SARS没能逼出来的抗病毒药物能在新冠疫情中研发成功吗？|《自然》特写](https://mp.weixin.qq.com/s/bwXrGIPukNiGzXrq8O46dQ)
+- [The race for antiviral drugs to beat COVID — and the next pandemic](https://www.nature.com/articles/d41586-021-00958-4)

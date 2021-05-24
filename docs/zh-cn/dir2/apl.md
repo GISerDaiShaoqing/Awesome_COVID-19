@@ -1760,3 +1760,6 @@
 - [科学家发现另外两种可以感染人类的冠状病毒 | 科研圈日报](https://mp.weixin.qq.com/s/1DQ1g9qRpBU_po82zc8rMA)
 - [情报监测 | “COVID-19”科研动态监测每日快报（5月21日）【中国科讯】](https://mp.weixin.qq.com/s/AjEVj0eWvxZy8AfZZuXiSw)
 - [公众健康行为倡议书：口罩正确戴、不乱弃，保护自己、保护环境](https://mp.weixin.qq.com/s/6NYcUzaQkpFASbDVXHEcTg)
+- [5 月 23 日我国内地新增确诊病例 18 例，均为境外输入病｜科研圈日报](https://mp.weixin.qq.com/s/mfqAZpuWTpxuS0s6G1JXbQ)
+- [Science一周论文导读｜2021年5月14日](https://mp.weixin.qq.com/s/zpLV8eMOjnvhHQ7LYy7XIQ)
+- [Nature一周论文导读｜2021年5月13日](https://mp.weixin.qq.com/s/Svzy5WTtqVtIn06Pr66UXg)

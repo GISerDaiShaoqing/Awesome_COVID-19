@@ -35,5 +35,6 @@
 - [New Approaches to Anticipate the Risk of Reverse Zoonosis](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347%2821%2900097-5?utm_medium=homepage#%20)
 - [COVID-19 Lockdown and Social Capital Changes Among Youths in China](http://www.ijhpm.com/article_4022.html)
 - [Impacts of lockdown on dietary patterns among youths in China: the COVID-19 Impact on Lifestyle Change Survey](https://www.cambridge.org/core/journals/public-health-nutrition/article/impacts-of-lockdown-on-dietary-patterns-among-youths-in-china-the-covid19-impact-on-lifestyle-change-survey/AF7155CE5878FBBFB4C876CA017B58CD)
+- [Trends论文献策疫情中被忽视的“人-动物”感染风险 | Cell Press论文速递](https://mp.weixin.qq.com/s/Iye21hgtkTlFv95ybRDA0g)
 
 ![](/img/ISLEwechat.jpg)
