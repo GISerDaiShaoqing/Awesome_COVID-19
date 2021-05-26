@@ -1518,3 +1518,5 @@
 - [哪些人不能打新冠疫苗？这42种情况说全了！对照收藏！](https://mp.weixin.qq.com/s/gufxtfTBuRaAWep34Vr00Q)
 - [SARS没能逼出来的抗病毒药物能在新冠疫情中研发成功吗？|《自然》特写](https://mp.weixin.qq.com/s/bwXrGIPukNiGzXrq8O46dQ)
 - [The race for antiviral drugs to beat COVID — and the next pandemic](https://www.nature.com/articles/d41586-021-00958-4)
+- [Nature | 新冠肺炎组织图谱揭示SARS-CoV-2病理与细胞靶点](https://mp.weixin.qq.com/s/Q0ivGYi8hjuvdsQ0ZJ_W-w)
+- [COVID-19 tissue atlases reveal SARS-CoV-2 pathology and cellular targets](https://www.nature.com/articles/s41586-021-03570-8)

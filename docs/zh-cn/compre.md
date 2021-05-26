@@ -2086,3 +2086,6 @@
 - [Hyperdrive Daily: Japan Is Getting Back Into the Driving Seat](https://www.bloomberg.com/news/newsletters/2021-05-17/hyperdrive-daily-japan-is-getting-back-into-the-driving-seat)
 - [Predictors of Intent to Receive the COVID-19 Vaccination Among the Population in the Kingdom of Saudi Arabia: A Survey Study](https://www.dovepress.com/predictors-of-intent-to-receive-the-covid-19-vaccination-among-the-pop-peer-reviewed-fulltext-article-JMDH)
 - [The Impact of the COVID-19 Pandemic on Green Societies](https://link.springer.com/book/10.1007/978-3-030-66490-9)
+- [Uncertainty in Aqua-MODIS Aerosol Retrieval Algorithms During COVID-19 Lockdown](https://ieeexplore.ieee.org/document/9433651)
+- [Physical distancing implementation, ambient temperature and Covid-19 containment: An observational study in the United States](https://www.sciencedirect.com/science/article/pii/S0048969721029478)
+- [What are different measures of mobility telling us about surface transportation CO2 emissions during the COVID-19 pandemic?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD034664)

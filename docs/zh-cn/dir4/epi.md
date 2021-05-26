@@ -578,3 +578,5 @@
 - [Epidemiological and evolutionary considerations of SARS-CoV-2 vaccine dosing regimes](https://science.sciencemag.org/content/372/6540/363)
 - [Modeling the potential impact of indirect transmission on COVID-19 epidemic](https://www.medrxiv.org/content/10.1101/2021.01.28.20181040v1)
 - [Research on the Evolution of Population Distribution and Influencing Factors in Xi'an During the COVID-19 Epidemic Control Period: Based on a Perspective of Multi-source Spatio-Temporal Big Data](https://iopscience.iop.org/article/10.1088/1755-1315/769/2/022066/meta)
+- [Dispersal dynamics of SARS-CoV-2 lineages during the first epidemic wave in New York City](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009571)
+- [Space-Time Cluster’s Detection and Geographical Weighted Regression Analysis of COVID-19 Mortality on Texas Counties](https://www.mdpi.com/1660-4601/18/11/5541)

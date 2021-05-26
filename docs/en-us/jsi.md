@@ -112,3 +112,4 @@
 - [MDPI 特刊征稿 | 中国科学院朱廷劭研究员主持特刊：社交媒体和公共健康](https://mp.weixin.qq.com/s/DkzGQ4V-0pH8BBZiUGOb0Q)
 - [Social Media and Public Health](https://www.mdpi.com/journal/healthcare/special_issues/Social_Media_PublicHealth)
 - [计算社会科学杂志征稿：COVID-19社会动力学专刊](https://mp.weixin.qq.com/s/JNin1eWrh0lEc6PT10kmFQ)
+- [Meteorological Applications特刊征稿 | 气候及环境因素对COVID-19传播的影响](https://mp.weixin.qq.com/s/A2lBB4RmfVIbeM93fO_I3A)

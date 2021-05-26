@@ -1763,3 +1763,6 @@
 - [5 月 23 日我国内地新增确诊病例 18 例，均为境外输入病｜科研圈日报](https://mp.weixin.qq.com/s/mfqAZpuWTpxuS0s6G1JXbQ)
 - [Science一周论文导读｜2021年5月14日](https://mp.weixin.qq.com/s/zpLV8eMOjnvhHQ7LYy7XIQ)
 - [Nature一周论文导读｜2021年5月13日](https://mp.weixin.qq.com/s/Svzy5WTtqVtIn06Pr66UXg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（5月24日）【中国科讯】](https://mp.weixin.qq.com/s/RHa_nK0x0ldS4br17q8O7g)
+- [疑似来自狗的新型冠状病毒 | 肠道微生物大灭绝 | 核弹炸出的“不可能”用屁股呼吸 | 肠道微生物大灭绝 | 核弹炸出的“不可能” | 自然每周简报](https://mp.weixin.qq.com/s/aKiVi54M3ka2VAyO74yT8g)
+- [5 月 24 日我国内地新增确诊病例 15 例，其中本土病例 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/ju6DjVy7ppW0yW4S7xDtiQ)
