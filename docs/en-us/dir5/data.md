@@ -244,3 +244,4 @@
 - [Covinet数据库](https://covinet.innatelab.virologie.med.tum.de)
 - [更新！整理的超级细致、超级好的的新冠疫情数据来啦！](https://mp.weixin.qq.com/s/f7hEdZrTX4yOUWwehCOBCw)
 - [Subnational data for the COVID-19 outbreak](https://github.com/epiforecasts/covidregionaldata)
+- [Mobile phone-based population flow data for the COVID-19 outbreak in Mainland China](https://spj.sciencemag.org/journals/hds/aip/9796431/)

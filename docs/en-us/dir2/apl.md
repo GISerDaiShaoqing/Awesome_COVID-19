@@ -1769,3 +1769,4 @@
 - [复发性新冠病毒感染的流行性指数 | 复杂性科学顶刊精选5篇](https://mp.weixin.qq.com/s/adqq1jT_JxTcA1YYz6pzYg)
 - [轻症新冠肺炎康复者可持续性获得保护抗体 | 科研圈日报](https://mp.weixin.qq.com/s/_yAvHqQKzOk_kpbONQZ4yA)
 - [24小时热门｜轻度感染新冠可持久获得保护性抗体！最新《自然》研究提供有力证据](https://mp.weixin.qq.com/s/k0x7kcKoiSoA2VN9o6SJuQ)
+- [国药两款疫苗三期临床数据在JAMA公布，保护力分别为72.8%和78.1%｜科研圈日报](https://mp.weixin.qq.com/s/gV80e7R3-jSlySi5pfBdrQ)

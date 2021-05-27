@@ -231,3 +231,5 @@
 - [Face masks effectively limit the probability of SARS-CoV-2 transmission](https://science.sciencemag.org/content/early/2021/05/19/science.abg6296.full)
 - [Science | 破除质疑，暨南大学等多单位合作，苏杭/程雅芳​发现佩戴口罩有效地限制了新冠病毒的传播](https://mp.weixin.qq.com/s/N1CKibHYUKk7oC-htmHUww)
 - [Impact of public health interventions to curb SARS-CoV-2 spread assessed by an evidence-educated Delphi panel and tailored SEIR model](https://link.springer.com/article/10.1007/s10389-021-01566-2)
+- [Associations between changes in population mobility in response to the COVID-19 pandemic and socioeconomic factors at the city level in China and country level worldwide: a retrospective, observational study](https://doi.org/10.1016/S2589-7500(21)00059-5)
+- [Could COVID-19 pandemic be stopped with joint efforts of travel restrictions and public health countermeasures? A modelling study ](https://bmjopen.bmj.com/content/11/5/e046157)

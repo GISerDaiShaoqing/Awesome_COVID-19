@@ -2090,3 +2090,5 @@
 - [Physical distancing implementation, ambient temperature and Covid-19 containment: An observational study in the United States](https://www.sciencedirect.com/science/article/pii/S0048969721029478)
 - [What are different measures of mobility telling us about surface transportation CO2 emissions during the COVID-19 pandemic?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD034664)
 - [Impact of the COVID-19 Pandemic on Chlamydia and Gonorrhea Screening in the U.S.](https://doi.org/10.1016/j.amepre.2021.03.009)
+- [Effects of lockdown due to COVID-19 outbreak on air quality and anthropogenic heat in an industrial belt of India](https://doi.org/10.1016/j.jclepro.2021.126674)
+- [Impact of long-term exposure to PM2.5 and temperature on coronavirus disease mortality: observed trends in France](https://assets.researchsquare.com/files/rs-506876/v1/9233f1b2-de55-43eb-ad94-75ec7d925b18.pdf)

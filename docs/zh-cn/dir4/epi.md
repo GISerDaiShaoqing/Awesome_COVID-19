@@ -580,3 +580,5 @@
 - [Research on the Evolution of Population Distribution and Influencing Factors in Xi'an During the COVID-19 Epidemic Control Period: Based on a Perspective of Multi-source Spatio-Temporal Big Data](https://iopscience.iop.org/article/10.1088/1755-1315/769/2/022066/meta)
 - [Dispersal dynamics of SARS-CoV-2 lineages during the first epidemic wave in New York City](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009571)
 - [Space-Time Cluster’s Detection and Geographical Weighted Regression Analysis of COVID-19 Mortality on Texas Counties](https://www.mdpi.com/1660-4601/18/11/5541)
+- [Coronavirus disease 2019 outbreak in Beijing’s Xinfadi Market, China: a modeling study to inform future resurgence response](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00843-2)
+- [Explaining COVID-19 contagion in Portuguese municipalities using spatial autocorrelation models](https://revistas.usc.gal/index.php/rge/article/view/6984)
