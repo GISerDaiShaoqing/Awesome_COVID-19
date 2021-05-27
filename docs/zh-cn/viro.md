@@ -1061,3 +1061,8 @@
 - [再发Cell|高福团队在冠状病毒跨物种传播研究领域取得重大进展](https://mp.weixin.qq.com/s/HpQI05qQkAqKdbjrXWfADw)
 - [Sequential infection with H1N1 and SARS-CoV-2 aggravated COVID-19 pathogenesis in a mammalian model, and co-vaccination as an effective method of prevention of COVID-19 and influenza](https://www.nature.com/articles/s41392-021-00618-z)
 - [Tracking the international spread of SARS-CoV-2 lineages B.1.1.7 and B.1.351/501Y-V2](https://virological.org/t/tracking-the-international-spread-of-sars-cov-2-lineages-b-1-1-7-and-b-1-351-501y-v2/592)
+- [新的人类冠状病毒CCOV-HuPn-2018被确认：起源于犬类](https://mp.weixin.qq.com/s/A_uf8agixFSNmP4oYVktHA)
+- [Cell: 发现一组抗聚糖抗体可有效地中和HIV病毒](https://mp.weixin.qq.com/s/UVTgAvWDtpHoSXscbhGrig)
+- [Fab-dimerized glycan-reactive antibodies are a structural category of natural antibodies](https://www.sciencedirect.com/science/article/pii/S0092867421005778)
+- [Cell Res. | 谢晓亮团队揭示不同类型新冠疫苗对突变株体液免疫应答情况](https://mp.weixin.qq.com/s/ENJTtBkuY9QyrfdonmRgZg)
+- [Humoral immune response to circulating SARS-CoV-2 variants elicited by inactivated and RBD-subunit vaccines](https://www.nature.com/articles/s41422-021-00514-9)

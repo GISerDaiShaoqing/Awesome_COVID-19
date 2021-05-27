@@ -1766,3 +1766,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（5月24日）【中国科讯】](https://mp.weixin.qq.com/s/RHa_nK0x0ldS4br17q8O7g)
 - [疑似来自狗的新型冠状病毒 | 肠道微生物大灭绝 | 核弹炸出的“不可能”用屁股呼吸 | 肠道微生物大灭绝 | 核弹炸出的“不可能” | 自然每周简报](https://mp.weixin.qq.com/s/aKiVi54M3ka2VAyO74yT8g)
 - [5 月 24 日我国内地新增确诊病例 15 例，其中本土病例 2 例 | 科研圈日报](https://mp.weixin.qq.com/s/ju6DjVy7ppW0yW4S7xDtiQ)
+- [复发性新冠病毒感染的流行性指数 | 复杂性科学顶刊精选5篇](https://mp.weixin.qq.com/s/adqq1jT_JxTcA1YYz6pzYg)
+- [轻症新冠肺炎康复者可持续性获得保护抗体 | 科研圈日报](https://mp.weixin.qq.com/s/_yAvHqQKzOk_kpbONQZ4yA)
+- [24小时热门｜轻度感染新冠可持久获得保护性抗体！最新《自然》研究提供有力证据](https://mp.weixin.qq.com/s/k0x7kcKoiSoA2VN9o6SJuQ)

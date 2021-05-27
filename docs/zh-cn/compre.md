@@ -2089,3 +2089,4 @@
 - [Uncertainty in Aqua-MODIS Aerosol Retrieval Algorithms During COVID-19 Lockdown](https://ieeexplore.ieee.org/document/9433651)
 - [Physical distancing implementation, ambient temperature and Covid-19 containment: An observational study in the United States](https://www.sciencedirect.com/science/article/pii/S0048969721029478)
 - [What are different measures of mobility telling us about surface transportation CO2 emissions during the COVID-19 pandemic?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD034664)
+- [Impact of the COVID-19 Pandemic on Chlamydia and Gonorrhea Screening in the U.S.](https://doi.org/10.1016/j.amepre.2021.03.009)
