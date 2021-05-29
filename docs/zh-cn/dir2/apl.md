@@ -1770,3 +1770,5 @@
 - [轻症新冠肺炎康复者可持续性获得保护抗体 | 科研圈日报](https://mp.weixin.qq.com/s/_yAvHqQKzOk_kpbONQZ4yA)
 - [24小时热门｜轻度感染新冠可持久获得保护性抗体！最新《自然》研究提供有力证据](https://mp.weixin.qq.com/s/k0x7kcKoiSoA2VN9o6SJuQ)
 - [国药两款疫苗三期临床数据在JAMA公布，保护力分别为72.8%和78.1%｜科研圈日报](https://mp.weixin.qq.com/s/gV80e7R3-jSlySi5pfBdrQ)
+- [5 月 27 日我国内地新增确诊病例 7 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/wDdxjkO2OfnQ05oj0pfhdw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（5月28日）【中国科讯】](https://mp.weixin.qq.com/s/_uFUMLXp78B6A-R9ye7Zxw)
