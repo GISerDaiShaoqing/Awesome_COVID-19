@@ -7704,3 +7704,4 @@
 - [荷兰新冠住院人数续降，餐馆是否可以重新开门看今晚](https://mp.weixin.qq.com/s/H8Opu-Ag1kCDSF1M3quBsA)
 - [广州新增2+8，中风险地区+4](https://mp.weixin.qq.com/s/KSYTGVBjZI_8iduPWilYyQ)
 - [德堡“病毒暗史”，起底曾肆虐全球的埃博拉](https://mp.weixin.qq.com/s/pLa1MkjCinZiFHZI7tTzSg)
+- [狗狗嗅出新冠，靠谱吗？](https://mp.weixin.qq.com/s/mU3ZMt8ZUXk-bD8bERtiRg)
