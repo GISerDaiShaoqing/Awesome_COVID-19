@@ -2092,3 +2092,6 @@
 - [Impact of the COVID-19 Pandemic on Chlamydia and Gonorrhea Screening in the U.S.](https://doi.org/10.1016/j.amepre.2021.03.009)
 - [Effects of lockdown due to COVID-19 outbreak on air quality and anthropogenic heat in an industrial belt of India](https://doi.org/10.1016/j.jclepro.2021.126674)
 - [Impact of long-term exposure to PM2.5 and temperature on coronavirus disease mortality: observed trends in France](https://assets.researchsquare.com/files/rs-506876/v1/9233f1b2-de55-43eb-ad94-75ec7d925b18.pdf)
+- [【KDD2021】自监督表示集成的新冠咳嗽分类](https://mp.weixin.qq.com/s/xf3xbzQltnQe3VrecV04jg)
+- [Exploring Self-Supervised Representation Ensembles for COVID-19 Cough Classification](https://arxiv.org/abs/2105.07566)
+- [A Scenario-Based Evaluation of COVID-19-Related Essential Clinical Resource Demands in China](https://doi.org/10.1016/j.eng.2021.03.020)

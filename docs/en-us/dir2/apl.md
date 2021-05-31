@@ -1772,3 +1772,7 @@
 - [国药两款疫苗三期临床数据在JAMA公布，保护力分别为72.8%和78.1%｜科研圈日报](https://mp.weixin.qq.com/s/gV80e7R3-jSlySi5pfBdrQ)
 - [5 月 27 日我国内地新增确诊病例 7 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/wDdxjkO2OfnQ05oj0pfhdw)
 - [情报监测 | “COVID-19”科研动态监测每日快报（5月28日）【中国科讯】](https://mp.weixin.qq.com/s/_uFUMLXp78B6A-R9ye7Zxw)
+- [图解 | 新冠病毒疫苗接种问答（六）](https://mp.weixin.qq.com/s/iLrCMsf3FpzvmjzdBA3BIQ)
+- [图解 | 新冠病毒疫苗接种问答（七）](https://mp.weixin.qq.com/s/Ca_sn6xKidRF3TRAREK4rA)
+- [图解 | 新冠病毒疫苗接种问答（八）](https://mp.weixin.qq.com/s/t-nmwNwz5KFekME4gMh-_Q)
+- [图解 | 新冠病毒疫苗接种问答（九）](https://mp.weixin.qq.com/s/UEAQq6T9CqgbMDirNJTKcg)

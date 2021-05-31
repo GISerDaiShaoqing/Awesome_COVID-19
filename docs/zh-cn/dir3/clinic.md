@@ -1526,3 +1526,6 @@
 - [JAMA重磅：国药发布全球首个新冠灭活疫苗Ⅲ期临床数据](https://mp.weixin.qq.com/s/Vi-OSTfali2iS7tLc5najw)
 - [Effect of 2 Inactivated SARS-CoV-2 Vaccines on Symptomatic COVID-19 Infection in Adults](https://jamanetwork.com/journals/jama/fullarticle/2780562)
 - [Clinical outcomes in COVID-19 patients infected with different SARS-cov-2 variants in marseille, France](https://doi.org/10.1016/j.cmi.2021.05.029)
+- [Nature子刊：哪怕有一个病毒颗粒，我们也漏不掉](https://mp.weixin.qq.com/s/OR0_Kpkex6vrXmXXt8Lxlw)
+- [Viruses：新基因测定法助力新冠药物大洗牌](https://mp.weixin.qq.com/s/dNHI89nmbGIsj5SXbpMSCw)
+- [Development of a Cell-Based Luciferase Complementation Assay for Identification of SARS-CoV-2 3CLpro Inhibitors](https://doi.org/10.3390/v13020173)

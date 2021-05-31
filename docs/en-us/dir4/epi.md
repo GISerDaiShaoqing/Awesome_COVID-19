@@ -582,3 +582,4 @@
 - [Space-Time Cluster’s Detection and Geographical Weighted Regression Analysis of COVID-19 Mortality on Texas Counties](https://www.mdpi.com/1660-4601/18/11/5541)
 - [Coronavirus disease 2019 outbreak in Beijing’s Xinfadi Market, China: a modeling study to inform future resurgence response](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00843-2)
 - [Explaining COVID-19 contagion in Portuguese municipalities using spatial autocorrelation models](https://revistas.usc.gal/index.php/rge/article/view/6984)
+- [Estimating asymptomatic, undetected and total cases for the COVID-19 outbreak in Wuhan: a mathematical modeling study](https://link.springer.com/article/10.1186/s12879-021-06078-8)

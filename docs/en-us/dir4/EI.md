@@ -233,3 +233,7 @@
 - [Impact of public health interventions to curb SARS-CoV-2 spread assessed by an evidence-educated Delphi panel and tailored SEIR model](https://link.springer.com/article/10.1007/s10389-021-01566-2)
 - [Associations between changes in population mobility in response to the COVID-19 pandemic and socioeconomic factors at the city level in China and country level worldwide: a retrospective, observational study](https://doi.org/10.1016/S2589-7500(21)00059-5)
 - [Could COVID-19 pandemic be stopped with joint efforts of travel restrictions and public health countermeasures? A modelling study ](https://bmjopen.bmj.com/content/11/5/e046157)
+- [基于人口流动数据研究武汉 “封城” 对中国 2019 冠状病毒病疫情态势的影响](http://med.wanfangdata.com.cn/Paper/Detail?id=PeriodicalPaper_zjdxxb-yxb202101008)
+- [Corona forever? The COVID-19 pandemic storm in India](https://www.researchgate.net/profile/Igor-Nesteruk/publication/351285759_Corona_forever_The_COVID-19_pandemic_storm_in_India/links/609019cba6fdccaebd0731c6/Corona-forever-The-COVID-19-pandemic-storm-in-India.pdf)
+- [Impacts of social distancing policies on mobility and COVID-19 case growth in the US](https://www-nature-com.ezproxy2.utwente.nl/articles/s41467-021-23404-5)
+- [基于社会经济水平,人口流动和疫情防控措施评估我国主要城市应对2019冠状病毒病的策略](http://med.wanfangdata.com.cn/Paper/Detail?id=PeriodicalPaper_zjdxxb-yxb202101007)
