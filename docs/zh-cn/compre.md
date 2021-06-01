@@ -2095,3 +2095,4 @@
 - [【KDD2021】自监督表示集成的新冠咳嗽分类](https://mp.weixin.qq.com/s/xf3xbzQltnQe3VrecV04jg)
 - [Exploring Self-Supervised Representation Ensembles for COVID-19 Cough Classification](https://arxiv.org/abs/2105.07566)
 - [A Scenario-Based Evaluation of COVID-19-Related Essential Clinical Resource Demands in China](https://doi.org/10.1016/j.eng.2021.03.020)
+- [The differential effects of social media on depressive symptoms and suicidal ideation among the younger and older population during COVID-19: Population-based cross-sectional survey study](https://preprints.jmir.org/preprint/24623)

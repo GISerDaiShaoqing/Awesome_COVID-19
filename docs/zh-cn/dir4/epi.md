@@ -584,3 +584,4 @@
 - [Explaining COVID-19 contagion in Portuguese municipalities using spatial autocorrelation models](https://revistas.usc.gal/index.php/rge/article/view/6984)
 - [Estimating asymptomatic, undetected and total cases for the COVID-19 outbreak in Wuhan: a mathematical modeling study](https://link.springer.com/article/10.1186/s12879-021-06078-8)
 - [学术成果 | 人口移动数据助力COVID-19抗疫](https://mp.weixin.qq.com/s/HsuxJi55XeChteMK12F0Ng)
+- [Intracounty modeling of COVID-19 infection with human mobility: Assessing spatial heterogeneity with business traffic, age, and race](https://www.pnas.org/content/118/24/e2020524118)

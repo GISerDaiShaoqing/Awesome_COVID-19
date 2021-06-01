@@ -1780,3 +1780,4 @@
 - [广东新增20例新冠确诊，广州近期病例均感染印度发现的变异株 | 科研圈日报](https://mp.weixin.qq.com/s/EXbSUm7y5HuWWPJUkK2kfA)
 - [Science一周论文导读｜2021年5月21日](https://mp.weixin.qq.com/s/UYR7S4WMY4guz4dvZfkPxg)
 - [Nature一周论文导读｜2021年5月20日](https://mp.weixin.qq.com/s/qyD6jw0vm-IANM6iJdcWLQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（5月31日）【中国科讯】](https://mp.weixin.qq.com/s/y7zbXMeAVVzd4PhGPQ2phw)
