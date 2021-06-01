@@ -583,3 +583,4 @@
 - [Coronavirus disease 2019 outbreak in Beijing’s Xinfadi Market, China: a modeling study to inform future resurgence response](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00843-2)
 - [Explaining COVID-19 contagion in Portuguese municipalities using spatial autocorrelation models](https://revistas.usc.gal/index.php/rge/article/view/6984)
 - [Estimating asymptomatic, undetected and total cases for the COVID-19 outbreak in Wuhan: a mathematical modeling study](https://link.springer.com/article/10.1186/s12879-021-06078-8)
+- [学术成果 | 人口移动数据助力COVID-19抗疫](https://mp.weixin.qq.com/s/HsuxJi55XeChteMK12F0Ng)

@@ -1073,3 +1073,5 @@
 - [An infectivity-enhancing site on the SARS-CoV-2 spike protein targeted by antibodies](https://doi.org/10.1016/j.cell.2021.05.032)
 - [证实了！新冠病毒可引发ADE效应，群体自然免疫破产](https://mp.weixin.qq.com/s/6I7_CVYBXDJ-Vi84NUGqnw)
 - [ An infectivity enhancing site on the SARS-CoV-2 spike protein targeted by antibodies](https://doi.org/10.1016/j.cell.2021.05.032)
+- [Science :为什么新冠病毒难防？原来它容易发生这3种关键突变！](https://mp.weixin.qq.com/s/YQDBLzLuw9icdknu9Hzmug)
+- [Structural and functional ramifications of antigenic drift in recent SARS-CoV-2 variants](https://science.sciencemag.org/content/early/2021/05/19/science.abh1139)

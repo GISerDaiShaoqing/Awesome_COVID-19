@@ -1776,3 +1776,7 @@
 - [图解 | 新冠病毒疫苗接种问答（七）](https://mp.weixin.qq.com/s/Ca_sn6xKidRF3TRAREK4rA)
 - [图解 | 新冠病毒疫苗接种问答（八）](https://mp.weixin.qq.com/s/t-nmwNwz5KFekME4gMh-_Q)
 - [图解 | 新冠病毒疫苗接种问答（九）](https://mp.weixin.qq.com/s/UEAQq6T9CqgbMDirNJTKcg)
+- [全球经济生产力因视力受损和失明而下降 | EClinicalMedicine4月刊精选](https://mp.weixin.qq.com/s/ciSQ0BdX6WyZu0MlcvuEnA)
+- [广东新增20例新冠确诊，广州近期病例均感染印度发现的变异株 | 科研圈日报](https://mp.weixin.qq.com/s/EXbSUm7y5HuWWPJUkK2kfA)
+- [Science一周论文导读｜2021年5月21日](https://mp.weixin.qq.com/s/UYR7S4WMY4guz4dvZfkPxg)
+- [Nature一周论文导读｜2021年5月20日](https://mp.weixin.qq.com/s/qyD6jw0vm-IANM6iJdcWLQ)
