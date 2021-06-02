@@ -237,3 +237,5 @@
 - [Corona forever? The COVID-19 pandemic storm in India](https://www.researchgate.net/profile/Igor-Nesteruk/publication/351285759_Corona_forever_The_COVID-19_pandemic_storm_in_India/links/609019cba6fdccaebd0731c6/Corona-forever-The-COVID-19-pandemic-storm-in-India.pdf)
 - [Impacts of social distancing policies on mobility and COVID-19 case growth in the US](https://www-nature-com.ezproxy2.utwente.nl/articles/s41467-021-23404-5)
 - [基于社会经济水平,人口流动和疫情防控措施评估我国主要城市应对2019冠状病毒病的策略](http://med.wanfangdata.com.cn/Paper/Detail?id=PeriodicalPaper_zjdxxb-yxb202101007)
+- [Staying at Home Is a Privilege: Evidence from Fine-Grained Mobile Phone Location Data in the United States during the COVID-19 Pandemic](https://doi.org/10.1080/24694452.2021.1904819)
+- [Distancing the socially distanced: Racial/ethnic composition's association with physical distancing in response to COVID-19 in the US](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251960)

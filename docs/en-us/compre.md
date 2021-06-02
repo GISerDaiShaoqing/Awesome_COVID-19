@@ -2096,3 +2096,7 @@
 - [Exploring Self-Supervised Representation Ensembles for COVID-19 Cough Classification](https://arxiv.org/abs/2105.07566)
 - [A Scenario-Based Evaluation of COVID-19-Related Essential Clinical Resource Demands in China](https://doi.org/10.1016/j.eng.2021.03.020)
 - [The differential effects of social media on depressive symptoms and suicidal ideation among the younger and older population during COVID-19: Population-based cross-sectional survey study](https://preprints.jmir.org/preprint/24623)
+- [Moderation effect of urban density on changes in physical activity during the coronavirus disease 2019 pandemic](https://doi.org/10.1016/j.scs.2021.103058)
+- [Exposure to nature and mental health outcomes during COVID-19 lockdown. A comparison between Portugal and Spain](https://doi.org/10.1016/j.envint.2021.106664)
+- [Attitudes of Lebanese adults regarding COVID-19 vaccination](https://link.springer.com/article/10.1186/s12889-021-10902-w)
+- [Transmission dynamics and control of two epidemic waves of SARS-CoV-2 in South Korea](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06204-6)

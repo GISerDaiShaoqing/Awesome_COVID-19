@@ -1781,3 +1781,8 @@
 - [Science一周论文导读｜2021年5月21日](https://mp.weixin.qq.com/s/UYR7S4WMY4guz4dvZfkPxg)
 - [Nature一周论文导读｜2021年5月20日](https://mp.weixin.qq.com/s/qyD6jw0vm-IANM6iJdcWLQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（5月31日）【中国科讯】](https://mp.weixin.qq.com/s/y7zbXMeAVVzd4PhGPQ2phw)
+- [优秀科技期刊推荐| The Innovation](https://mp.weixin.qq.com/s/8XzqwfSn1XTjfIdO17weJg)
+- [疫苗有没有效？看这个 | 老鼠岛没有了老鼠 | 他们都靠一头牛 | 自然每周简报](https://mp.weixin.qq.com/s/0NH1tEuXiHlCwdW06xma9A)
+- [疫情期间二氧化氮减少，防止中国2.1万人过早死亡；欧洲殖民者导致大量蛇和蜥蜴灭绝｜Science Advances多文导读](https://mp.weixin.qq.com/s/6sfbzr2ZVYjXkX_egXhfnw)
+- [24小时热门｜牛津-阿斯利康疫苗注射后出现血栓的正式病例报告发表](https://mp.weixin.qq.com/s/ndiEJw-P6e9jdYKbGs3A5Q)
+- [广州暂停疫苗社会接种，集中力量开展核酸排查和重点群体接种｜科研圈日报](https://mp.weixin.qq.com/s/_OQEj5we_ocxL9TbO6MOqQ)

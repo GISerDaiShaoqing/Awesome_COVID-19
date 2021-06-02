@@ -1075,3 +1075,5 @@
 - [ An infectivity enhancing site on the SARS-CoV-2 spike protein targeted by antibodies](https://doi.org/10.1016/j.cell.2021.05.032)
 - [Science :为什么新冠病毒难防？原来它容易发生这3种关键突变！](https://mp.weixin.qq.com/s/YQDBLzLuw9icdknu9Hzmug)
 - [Structural and functional ramifications of antigenic drift in recent SARS-CoV-2 variants](https://science.sciencemag.org/content/early/2021/05/19/science.abh1139)
+- [B.1.617变异株传播速度多快？疫苗还有效吗？](https://mp.weixin.qq.com/s/QUWAZinYAidzcVxoCYu_LA)
+- [What scientists know about new, fast-spreading coronavirus variants](https://www.nature.com/articles/d41586-021-01390-4)

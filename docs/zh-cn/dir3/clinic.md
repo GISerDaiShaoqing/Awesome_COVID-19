@@ -1529,3 +1529,6 @@
 - [Nature子刊：哪怕有一个病毒颗粒，我们也漏不掉](https://mp.weixin.qq.com/s/OR0_Kpkex6vrXmXXt8Lxlw)
 - [Viruses：新基因测定法助力新冠药物大洗牌](https://mp.weixin.qq.com/s/dNHI89nmbGIsj5SXbpMSCw)
 - [Development of a Cell-Based Luciferase Complementation Assay for Identification of SARS-CoV-2 3CLpro Inhibitors](https://doi.org/10.3390/v13020173)
+- [STTT背靠背 | 突破！谭文杰/彭小忠等开发新型的新冠疫苗，在动物试验有效](https://mp.weixin.qq.com/s/oUw3PfJW2GP52mgY9eThyg)
+- [A core-shell structured COVID-19 mRNA vaccine with favorable biodistribution pattern and promising immunity](https://www.nature.com/articles/s41392-021-00634-z)
+- [Bardoxolone and bardoxolone methyl, two Nrf2 activators in clinical trials, inhibit SARS-CoV-2 replication and its 3C-like protease](https://www.nature.com/articles/s41392-021-00628-x)

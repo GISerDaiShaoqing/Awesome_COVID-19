@@ -689,3 +689,4 @@
 - [Risk Management: Rethinking Fashion Supply Chain Management for Multinational Corporations in Light of the COVID-19 Outbreak](https://www.mdpi.com/1911-8074/13/8/173)
 - [新冠肆虐以前伦敦如何考虑韧性？观察君替你问了七个问题 | 国际观察141](https://mp.weixin.qq.com/s/eSLuQNFCCEK7c5nhou3GMQ)
 - [中饭协联合饿了么发布《2020-2021年中国外卖行业发展研究报告》|附报告下载](https://mp.weixin.qq.com/s/HtZkp_ngpQ7iK01E5AaBIQ)
+- [后疫情时代，这家老牌数据分析公司想用“好奇心”和分析的力量改变世界](https://mp.weixin.qq.com/s/C9mLIW86tLiI2Idk1vM4xA)
