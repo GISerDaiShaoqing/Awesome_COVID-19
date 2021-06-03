@@ -2100,3 +2100,5 @@
 - [Exposure to nature and mental health outcomes during COVID-19 lockdown. A comparison between Portugal and Spain](https://doi.org/10.1016/j.envint.2021.106664)
 - [Attitudes of Lebanese adults regarding COVID-19 vaccination](https://link.springer.com/article/10.1186/s12889-021-10902-w)
 - [Transmission dynamics and control of two epidemic waves of SARS-CoV-2 in South Korea](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06204-6)
+- [Increased COVID-19 Infection Susceptibility and Adverse Outcomes Due to Obesity: A Systematic Review and Meta-analysis](https://www.researchsquare.com/article/rs-244649/v1)
+- [Impact of COVID-19 outbreaks and interventions on influenza in China and the United States](https://doi.org/10.1038/s41467-021-23440-1)

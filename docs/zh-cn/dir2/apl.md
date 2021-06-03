@@ -1786,3 +1786,4 @@
 - [疫情期间二氧化氮减少，防止中国2.1万人过早死亡；欧洲殖民者导致大量蛇和蜥蜴灭绝｜Science Advances多文导读](https://mp.weixin.qq.com/s/6sfbzr2ZVYjXkX_egXhfnw)
 - [24小时热门｜牛津-阿斯利康疫苗注射后出现血栓的正式病例报告发表](https://mp.weixin.qq.com/s/ndiEJw-P6e9jdYKbGs3A5Q)
 - [广州暂停疫苗社会接种，集中力量开展核酸排查和重点群体接种｜科研圈日报](https://mp.weixin.qq.com/s/_OQEj5we_ocxL9TbO6MOqQ)
+- [科兴疫苗获得世卫组织“紧急使用”许可｜科研圈日报](https://mp.weixin.qq.com/s/MoZ56t8yeNR6oIfBz_S9Wg)

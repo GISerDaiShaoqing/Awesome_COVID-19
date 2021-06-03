@@ -591,3 +591,4 @@
 - [Geospatial analysis and modeling of COVID-19 incidence rates in Iran](https://www.researchgate.net/profile/Nima-Kianfar/publication/351763684_Geospatial_analysis_and_modeling_of_COVID-19_incidence_rates_in_Iran/links/60a7ecc1a6fdcc6d6265b520/Geospatial-analysis-and-modeling-of-COVID-19-incidence-rates-in-Iran.pdf)
 - [Modeling the effectiveness of social distancing interventions on the epidemic curve of coronavirus disease in Ethiopia](https://link.springer.com/article/10.1007/s40808-021-01190-9)
 - [利用人口流动数据以及两阶段模型预测 2019 冠状病毒病流行趋势](http://www.zjujournals.com/med/CN/abstract/abstract41870.shtml)
+- [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
