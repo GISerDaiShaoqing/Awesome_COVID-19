@@ -1538,3 +1538,4 @@
 - [SARS-CoV-2 interacts with platelets and megakaryocytes via ACE2-independent mechanism](https://doi.org/10.1186/s13045-021-01082-6)
 - [科兴疫苗被世卫纳入紧急使用！巴西样本显示75%接种率即可遏制病毒传播，A股市场却闹了个大乌龙？](https://mp.weixin.qq.com/s/dJHsuf4MmHzIcSjfBN86Hw)
 - [新药物！STING激动剂有效抑制新冠进程！](https://mp.weixin.qq.com/s/hceD4k8uPMTfHkfugiD1ew)
+- [Circulating SARS-CoV-2 Vaccine Antigen Detected in the Plasma of mRNA-1273 Vaccine Recipients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075)

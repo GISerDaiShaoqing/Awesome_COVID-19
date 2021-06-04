@@ -2102,3 +2102,8 @@
 - [Transmission dynamics and control of two epidemic waves of SARS-CoV-2 in South Korea](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06204-6)
 - [Increased COVID-19 Infection Susceptibility and Adverse Outcomes Due to Obesity: A Systematic Review and Meta-analysis](https://www.researchsquare.com/article/rs-244649/v1)
 - [Impact of COVID-19 outbreaks and interventions on influenza in China and the United States](https://doi.org/10.1038/s41467-021-23440-1)
+- [新冠疫情居家政策与城市犯罪下降37%有关 |《自然-人类行为》论文](https://mp.weixin.qq.com/s/Ow6bjXDNqQ7XN3TqnMvd0A)
+- [A global analysis of the impact of COVID-19 stay-at-home restrictions on crime](https://www.nature.com/articles/s41562-021-01139-z)
+- [临床试验专辑 | COVID-19如何从根本上改变全球健康领域的临床研究？](https://mp.weixin.qq.com/s/XNsPhcsGoWZ1heciovUzeQ)
+- [Clinical Trials in Global Health](https://www.thelancet.com/series/clinical-trials-global-health)
+- [TLQP: Early-stage transportation lock-down and quarantine problem](https://www.sciencedirect.com/science/article/pii/S0968090X21002321)

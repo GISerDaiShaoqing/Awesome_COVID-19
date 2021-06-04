@@ -1787,3 +1787,6 @@
 - [24小时热门｜牛津-阿斯利康疫苗注射后出现血栓的正式病例报告发表](https://mp.weixin.qq.com/s/ndiEJw-P6e9jdYKbGs3A5Q)
 - [广州暂停疫苗社会接种，集中力量开展核酸排查和重点群体接种｜科研圈日报](https://mp.weixin.qq.com/s/_OQEj5we_ocxL9TbO6MOqQ)
 - [科兴疫苗获得世卫组织“紧急使用”许可｜科研圈日报](https://mp.weixin.qq.com/s/MoZ56t8yeNR6oIfBz_S9Wg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（6月2日）【中国科讯】](https://mp.weixin.qq.com/s/6dgLGvu02UhSLWNiXR_b3Q)
+- [新冠疫情对东南亚和西太平洋地区常规免疫接种的影响 | 《柳叶刀-区域健康（西太平洋）》5月刊精选](https://mp.weixin.qq.com/s/V7rZSnYkMBuEMkyL5ORuug)
+- [6 月 2 日我国内地新增确诊病例 24 例，其中本土病例 15 例（均在广东）｜科研圈日报](https://mp.weixin.qq.com/s/avJlFvTJGIuvJMraMO6LtQ)

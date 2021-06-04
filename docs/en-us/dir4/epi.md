@@ -592,3 +592,4 @@
 - [Modeling the effectiveness of social distancing interventions on the epidemic curve of coronavirus disease in Ethiopia](https://link.springer.com/article/10.1007/s40808-021-01190-9)
 - [利用人口流动数据以及两阶段模型预测 2019 冠状病毒病流行趋势](http://www.zjujournals.com/med/CN/abstract/abstract41870.shtml)
 - [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
+- [Spatially Refined Time-Varying Reproduction Numbers of COVID-19 by Health District in Georgia, USA, March–December 2020]()
