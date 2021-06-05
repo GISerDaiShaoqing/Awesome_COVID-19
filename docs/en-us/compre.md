@@ -2107,3 +2107,6 @@
 - [临床试验专辑 | COVID-19如何从根本上改变全球健康领域的临床研究？](https://mp.weixin.qq.com/s/XNsPhcsGoWZ1heciovUzeQ)
 - [Clinical Trials in Global Health](https://www.thelancet.com/series/clinical-trials-global-health)
 - [TLQP: Early-stage transportation lock-down and quarantine problem](https://www.sciencedirect.com/science/article/pii/S0968090X21002321)
+- [对地方性呼吸道病毒的监控需要了解其在新冠疫情后的传播方式｜Science一周精选](https://mp.weixin.qq.com/s/PEfopa-4N1qmtyHqyvUQ5Q)
+- [Uncertain effects of the pandemic on respiratory viruses](https://science.sciencemag.org/content/372/6546/1043)
+- [Global COVID-19 lockdown highlights humans as both threats and custodians of the environment](https://doi.org/10.1016/j.biocon.2021.109175)

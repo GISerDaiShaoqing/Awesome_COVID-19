@@ -1790,3 +1790,4 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（6月2日）【中国科讯】](https://mp.weixin.qq.com/s/6dgLGvu02UhSLWNiXR_b3Q)
 - [新冠疫情对东南亚和西太平洋地区常规免疫接种的影响 | 《柳叶刀-区域健康（西太平洋）》5月刊精选](https://mp.weixin.qq.com/s/V7rZSnYkMBuEMkyL5ORuug)
 - [6 月 2 日我国内地新增确诊病例 24 例，其中本土病例 15 例（均在广东）｜科研圈日报](https://mp.weixin.qq.com/s/avJlFvTJGIuvJMraMO6LtQ)
+- [陈薇：雾化吸入式新冠疫苗正在申请紧急使用 | 科研圈日报](https://mp.weixin.qq.com/s/MgRcBqHMF1MtsrVaCIiudw)
