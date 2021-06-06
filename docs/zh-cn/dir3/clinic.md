@@ -1545,3 +1545,6 @@
 - [Efficacy of the ChAdOx1 nCoV-19 Covid-19 Vaccine against the B.1.351 Variant](https://www.nejm.org/doi/10.1056/NEJMoa2102214)
 - [新证据：新冠可对儿童器官组织的直接攻击！](https://mp.weixin.qq.com/s/Wcx0ehejt5vZ-Y7ig70MxA)
 - [An autopsy study of the spectrum of severe COVID-19 in children: From SARS to different phenotypes of MIS-C](https://www.sciencedirect.com/science/article/pii/S2589537021001309?via%3Dihub)
+- [为什么接种疫苗时总是选择上臂，而不是其他部位？](https://mp.weixin.qq.com/s/8i2cCrqQryVpiKYm6UXHyQ)
+- [Why do we get shots in the arm? It’s all about the muscle](https://theconversation.com/why-do-we-get-shots-in-the-arm-its-all-about-the-muscle-161259)
+- [Outcome Improvement Between the First Two Waves of the Coronavirus Disease 2019 Pandemic in a Single Tertiary-Care Hospital in Belgium](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Outcome_Improvement_Between_the_First_Two_Waves_of.27.aspx)

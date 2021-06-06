@@ -2110,3 +2110,4 @@
 - [对地方性呼吸道病毒的监控需要了解其在新冠疫情后的传播方式｜Science一周精选](https://mp.weixin.qq.com/s/PEfopa-4N1qmtyHqyvUQ5Q)
 - [Uncertain effects of the pandemic on respiratory viruses](https://science.sciencemag.org/content/372/6546/1043)
 - [Global COVID-19 lockdown highlights humans as both threats and custodians of the environment](https://doi.org/10.1016/j.biocon.2021.109175)
+- [Measuring Spatial Accessibility to COVID-19 Testing Sites: A Case Study of Seoul](https://journal.kgeography.or.kr/articles/article/r48G/)

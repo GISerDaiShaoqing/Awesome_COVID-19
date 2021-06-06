@@ -63,3 +63,4 @@
 - [Regional and global contributions of air pollution to risk of death from COVID-19](https://academic.oup.com/cardiovascres/article/116/14/2247/5940460)
 - [Assessing asymptomatic, pre-symptomatic and symptomatic transmission risk of SARS-CoV-2](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab271/6193430)
 - [Future risk evaluation of the global COVID-19 pandemic](https://www.proquest.com/docview/2529001729?pq-origsite=gscholar&fromopenview=true)
+- [Risk of COVID-19 epidemic resurgence with the introduction of vaccination passes](https://irihs.ihs.ac.at/id/eprint/5845/)
