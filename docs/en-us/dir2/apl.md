@@ -1794,3 +1794,6 @@
 - [高福、张文宏释疑：新冠病毒变异后，疫苗还管用吗？](https://mp.weixin.qq.com/s/HjrcnRe9bNdnMq8j0cve4A)
 - [情报监测 | “COVID-19”科研动态监测每日快报（6月4日）【中国科讯】](https://mp.weixin.qq.com/s/_hlV9nuEK6ADbb6l8DkoOQ)
 - [本周要闻：雾化吸入的抗新冠药物来了；胃癌抗肿瘤免疫“超级战士”细胞被发现；步态可识别抑郁丨本周临床快讯](https://mp.weixin.qq.com/s/JTTp3qa_-REbUdOayS2tEg)
+- [Science一周论文导读｜2021年5月28日](https://mp.weixin.qq.com/s/tKz4oWYs9gTzK--i4fTaNg)
+- [Nature一周论文导读｜2021年5月27日](https://mp.weixin.qq.com/s/1__tzcr_kUh8_Aug1kwStA)
+- [24小时热门｜JAMA子刊｜新冠病毒感染产生的免疫力可持续至少1年](https://mp.weixin.qq.com/s/kU-hYNXIm3fDkQiGBZt3PQ)

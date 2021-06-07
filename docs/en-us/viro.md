@@ -1077,3 +1077,6 @@
 - [Structural and functional ramifications of antigenic drift in recent SARS-CoV-2 variants](https://science.sciencemag.org/content/early/2021/05/19/science.abh1139)
 - [B.1.617变异株传播速度多快？疫苗还有效吗？](https://mp.weixin.qq.com/s/QUWAZinYAidzcVxoCYu_LA)
 - [What scientists know about new, fast-spreading coronavirus variants](https://www.nature.com/articles/d41586-021-01390-4)
+- [结论反转？新冠病毒RNA并不能逆转录转座整合到人类基因组中](https://mp.weixin.qq.com/s/ua9BLfEMnlEmKJE416MY_A)
+- [Reverse-transcribedSARS-CoV-2 RNA can integrate into the genome of cultured human cells and can beexpressed in patient-derived tissues](https://www.pnas.org/content/118/21/e2105968118)
+- [Human genomeintegration of SARS-CoV-2 contradicted by long-read sequencing](https://www.biorxiv.org/content/10.1101/2021.05.28.446065v1)

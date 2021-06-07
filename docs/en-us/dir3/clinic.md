@@ -1548,3 +1548,4 @@
 - [为什么接种疫苗时总是选择上臂，而不是其他部位？](https://mp.weixin.qq.com/s/8i2cCrqQryVpiKYm6UXHyQ)
 - [Why do we get shots in the arm? It’s all about the muscle](https://theconversation.com/why-do-we-get-shots-in-the-arm-its-all-about-the-muscle-161259)
 - [Outcome Improvement Between the First Two Waves of the Coronavirus Disease 2019 Pandemic in a Single Tertiary-Care Hospital in Belgium](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Outcome_Improvement_Between_the_First_Two_Waves_of.27.aspx)
+- [非注射，无痛！陈薇团队：雾化吸入式新冠疫苗已获药监局批准](https://mp.weixin.qq.com/s/QwKyf_4sXRUOMre9gl4ITw)

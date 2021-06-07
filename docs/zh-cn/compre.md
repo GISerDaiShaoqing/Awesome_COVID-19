@@ -2111,3 +2111,6 @@
 - [Uncertain effects of the pandemic on respiratory viruses](https://science.sciencemag.org/content/372/6546/1043)
 - [Global COVID-19 lockdown highlights humans as both threats and custodians of the environment](https://doi.org/10.1016/j.biocon.2021.109175)
 - [Measuring Spatial Accessibility to COVID-19 Testing Sites: A Case Study of Seoul](https://journal.kgeography.or.kr/articles/article/r48G/)
+- [难撬动的权力：疫情信息资源的博弈与失灵](https://mp.weixin.qq.com/s/vHMaiVShiMCCfvcJXhqXjw)
+- [书评者说 | Emerging zoonoses](https://mp.weixin.qq.com/s/HkSvmYU8RLSWWeRM2uRcrg)
+- [Global Action on SDGs: Policy Review and Outlook in a Post-Pandemic Era](https://www.mdpi.com/2071-1050/13/11/6461)

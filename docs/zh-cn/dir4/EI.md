@@ -241,3 +241,4 @@
 - [Distancing the socially distanced: Racial/ethnic composition's association with physical distancing in response to COVID-19 in the US](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251960)
 - [Social Compliance During High Stringency Periods Efficiently Reduces COVID-19 Incidence: Evidence from Google Mobility Reports](https://europepmc.org/article/ppr/ppr339488)
 - [Association of Simulated COVID-19 Vaccination and Nonpharmaceutical Interventions With Infections, Hospitalizations, and Mortality](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2780539)
+- [Learning from the past: Taiwan's responses to COVID-19 versus SARS](https://doi.org/10.1016/j.ijid.2021.06.002)
