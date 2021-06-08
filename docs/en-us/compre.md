@@ -2114,3 +2114,4 @@
 - [难撬动的权力：疫情信息资源的博弈与失灵](https://mp.weixin.qq.com/s/vHMaiVShiMCCfvcJXhqXjw)
 - [书评者说 | Emerging zoonoses](https://mp.weixin.qq.com/s/HkSvmYU8RLSWWeRM2uRcrg)
 - [Global Action on SDGs: Policy Review and Outlook in a Post-Pandemic Era](https://www.mdpi.com/2071-1050/13/11/6461)
+- [On-site Dining in Tokyo During the COVID-19 Pandemic: Time Series Analysis Using Mobile Phone Location Data](https://preprints.jmir.org/preprint/27342)
