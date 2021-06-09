@@ -1797,3 +1797,4 @@
 - [Science一周论文导读｜2021年5月28日](https://mp.weixin.qq.com/s/tKz4oWYs9gTzK--i4fTaNg)
 - [Nature一周论文导读｜2021年5月27日](https://mp.weixin.qq.com/s/1__tzcr_kUh8_Aug1kwStA)
 - [24小时热门｜JAMA子刊｜新冠病毒感染产生的免疫力可持续至少1年](https://mp.weixin.qq.com/s/kU-hYNXIm3fDkQiGBZt3PQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（6月7日）【中国科讯】](https://mp.weixin.qq.com/s/2f8VnVPedjZ9v4rgVi835g)
