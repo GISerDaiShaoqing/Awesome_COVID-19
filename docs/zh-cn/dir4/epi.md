@@ -598,3 +598,6 @@
 - [Novel coronavirus 2019-nCoV (COVID-19): early estimation of epidemiological parameters and epidemic size estimates](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2020.0265)
 - [The effect of the synchronized multi-dimensional policies on imported COVID-19 curtailment in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252224)
 - [Predicting COVID-19 Spread from Large-Scale Mobility Data](https://arxiv.org/abs/2106.00356)
+- [2020年欧洲新冠病毒变异体的传播与旅行有关 |《自然》论文](https://mp.weixin.qq.com/s/MMGRudiwEIqS-BORpbNTfw)
+- [Spread of a SARS-CoV-2 variant through Europe in the summer of 2020](https://www.nature.com/articles/s41586-021-03677-y)
+- [Accounting for imported cases in estimating the time-varying reproductive number of COVID-19 in Hong Kong](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab299/6291887)

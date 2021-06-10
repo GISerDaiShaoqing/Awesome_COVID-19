@@ -1080,3 +1080,6 @@
 - [结论反转？新冠病毒RNA并不能逆转录转座整合到人类基因组中](https://mp.weixin.qq.com/s/ua9BLfEMnlEmKJE416MY_A)
 - [Reverse-transcribedSARS-CoV-2 RNA can integrate into the genome of cultured human cells and can beexpressed in patient-derived tissues](https://www.pnas.org/content/118/21/e2105968118)
 - [Human genomeintegration of SARS-CoV-2 contradicted by long-read sequencing](https://www.biorxiv.org/content/10.1101/2021.05.28.446065v1)
+- [Cell:饶子和、娄智勇团队阐明新冠病毒mRNA合成、基因组复制矫正和逃逸核苷类抗病毒药物的分子机制](https://mp.weixin.qq.com/s/vcfpLs4AyOVdBDLU3V8w5g)
+- [Coupling of N7-methyltransferase and 3'-5' exoribonuclease with polymerase reveals mechanisms for capping and proofreading](https://doi.org/10.1016/j.cell.2021.05.033)
+- [为何新冠病毒会破坏肺部？原因找到了！](https://mp.weixin.qq.com/s/KERCj-NFUzm5nWg0WGxxUA)

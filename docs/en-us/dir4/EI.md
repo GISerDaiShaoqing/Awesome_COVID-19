@@ -242,3 +242,6 @@
 - [Social Compliance During High Stringency Periods Efficiently Reduces COVID-19 Incidence: Evidence from Google Mobility Reports](https://europepmc.org/article/ppr/ppr339488)
 - [Association of Simulated COVID-19 Vaccination and Nonpharmaceutical Interventions With Infections, Hospitalizations, and Mortality](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2780539)
 - [Learning from the past: Taiwan's responses to COVID-19 versus SARS](https://doi.org/10.1016/j.ijid.2021.06.002)
+- [是时候摘口罩了吗？|《自然》长文](https://mp.weixin.qq.com/s/6tmuAE7zX14n65_jgm2y2A)
+- [What the science says about lifting mask mandates](https://www.nature.com/articles/d41586-021-01394-0)
+- [Successful containment of a flight-imported COVID-19 outbreak through extensive contact tracing, systematic testing and mandatory quarantine: Lessons from Vietnam](https://doi.org/10.1016/j.tmaid.2021.102084)

@@ -1549,3 +1549,8 @@
 - [Why do we get shots in the arm? It’s all about the muscle](https://theconversation.com/why-do-we-get-shots-in-the-arm-its-all-about-the-muscle-161259)
 - [Outcome Improvement Between the First Two Waves of the Coronavirus Disease 2019 Pandemic in a Single Tertiary-Care Hospital in Belgium](https://journals.lww.com/ccejournal/Fulltext/2021/05000/Outcome_Improvement_Between_the_First_Two_Waves_of.27.aspx)
 - [非注射，无痛！陈薇团队：雾化吸入式新冠疫苗已获药监局批准](https://mp.weixin.qq.com/s/QwKyf_4sXRUOMre9gl4ITw)
+- [你不知道的故事：我是实验对象NL002-0060，我决定退出新冠候选疫苗试验](https://mp.weixin.qq.com/s/_KtXNkQ0F4sPWT3iEmZLRQ)
+- [I’m subject NL002-0060 and I’m dropping out of my COVID-19 vaccine trial](https://www.sciencemag.org/news/2021/05/i-m-subject-nl002-0060-and-i-m-dropping-out-my-covid-19-vaccine-trial)
+- [Nature新突破：全新IgM抗体能更有效地对抗新冠病毒](https://mp.weixin.qq.com/s/ScXl3kc2CgAtsK03glGEiw)
+- [Nasal delivery of an IgM offers broad protection from SARS-CoV-2 variants](https://doi.org/ 10.1038/s41586-021-03673-2)
+- [Coagulation factors and the incidence of COVID-19 severity: Mendelian randomization analyses and supporting evidence](https://www.nature.com/articles/s41392-021-00640-1)

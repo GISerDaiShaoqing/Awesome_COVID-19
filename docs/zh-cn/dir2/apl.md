@@ -1798,3 +1798,7 @@
 - [Nature一周论文导读｜2021年5月27日](https://mp.weixin.qq.com/s/1__tzcr_kUh8_Aug1kwStA)
 - [24小时热门｜JAMA子刊｜新冠病毒感染产生的免疫力可持续至少1年](https://mp.weixin.qq.com/s/kU-hYNXIm3fDkQiGBZt3PQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（6月7日）【中国科讯】](https://mp.weixin.qq.com/s/2f8VnVPedjZ9v4rgVi835g)
+- [新冠病毒变异株将以希腊字母命名 | 靠呼出的空气呼吸 | 以辐射为食 | 自然每周简报](https://mp.weixin.qq.com/s/BfJeMn3Ts54buvaBSdKObA)
+- [6 月 7 日我国内地新增确诊病例 33 例，其中本土病例 19 例（均在广东）｜科研圈日报](https://mp.weixin.qq.com/s/nHWX9pOJpUsUsTGgVQ3q3Q)
+- [期望动力学在异质人群中的预测能力 | 复杂性科学顶刊精选8篇](https://mp.weixin.qq.com/s/K_W9XjJERMphy14firCZeg)
+- [6 月 8 日我国内地新增确诊病例 16 例，其中本土病例 8 例（均在广东） | 科研圈日报](https://mp.weixin.qq.com/s/8UkCKpCOOheQfK895OHiqg)
