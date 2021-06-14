@@ -64,3 +64,4 @@
 - [Assessing asymptomatic, pre-symptomatic and symptomatic transmission risk of SARS-CoV-2](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab271/6193430)
 - [Future risk evaluation of the global COVID-19 pandemic](https://www.proquest.com/docview/2529001729?pq-origsite=gscholar&fromopenview=true)
 - [Risk of COVID-19 epidemic resurgence with the introduction of vaccination passes](https://irihs.ihs.ac.at/id/eprint/5845/)
+- [Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis](https://www.medrxiv.org/content/10.1101/2021.01.27.21250654v1)

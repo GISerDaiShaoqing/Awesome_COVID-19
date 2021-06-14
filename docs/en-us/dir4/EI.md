@@ -245,3 +245,7 @@
 - [是时候摘口罩了吗？|《自然》长文](https://mp.weixin.qq.com/s/6tmuAE7zX14n65_jgm2y2A)
 - [What the science says about lifting mask mandates](https://www.nature.com/articles/d41586-021-01394-0)
 - [Successful containment of a flight-imported COVID-19 outbreak through extensive contact tracing, systematic testing and mandatory quarantine: Lessons from Vietnam](https://doi.org/10.1016/j.tmaid.2021.102084)
+- [Community-level evidence for SARS-CoV-2 vaccine protection of unvaccinated individuals](https://www.nature.com/articles/s41591-021-01407-5)
+- [新冠疫苗接种可保护未接种人群 |《自然-医学》论文](https://mp.weixin.qq.com/s/qa0jkvsM3m9mqkkr0OB7wA)
+- [Pandemic fatigue impedes mitigation of COVID-19 in Hong Kong](https://www.researchsquare.com/article/rs-591241/v1)
+- [Community Psychological And Behavioural Responses To Coronavirus Disease 2019 Over One Year Of The Pandemic In 2020 In Hong Kong](https://www.researchsquare.com/article/rs-512581/v1)

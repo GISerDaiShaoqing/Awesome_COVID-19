@@ -690,3 +690,5 @@
 - [新冠肆虐以前伦敦如何考虑韧性？观察君替你问了七个问题 | 国际观察141](https://mp.weixin.qq.com/s/eSLuQNFCCEK7c5nhou3GMQ)
 - [中饭协联合饿了么发布《2020-2021年中国外卖行业发展研究报告》|附报告下载](https://mp.weixin.qq.com/s/HtZkp_ngpQ7iK01E5AaBIQ)
 - [后疫情时代，这家老牌数据分析公司想用“好奇心”和分析的力量改变世界](https://mp.weixin.qq.com/s/C9mLIW86tLiI2Idk1vM4xA)
+- [印度疫情拖累全球经济恢复](https://mp.weixin.qq.com/s/79QGZ9rogNbS6cK_AKGTFg)
+- [误泄露公司代码、疫情期间被裁，一个“菜鸟”程序员的生存日记](https://mp.weixin.qq.com/s/VczSmi6BZH-5zA4Hmc-yjA)
