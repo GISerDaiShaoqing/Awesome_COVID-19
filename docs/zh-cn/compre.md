@@ -2136,3 +2136,5 @@
 - [Early Estimates of Motor Vehicle Traffic Fatalities and Fatality Rate by Sub-Categories in 2020](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813118)
 - [Air pollution impacts of COVID-19–related containment measures](https://advances.sciencemag.org/content/7/21/eabe1178)
 - [The Impact of COVID-19 on CO2 Emissions in the Los Angeles and Washington DC/Baltimore Metropolitan Areas](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL092744)
+- [Role of meteorological factors in the transmission of SARS-CoV-2 in the United States](https://www.nature.com/articles/s41467-021-23866-7)
+- [Yearly and Daily Relationship Assessment between Air Pollution and Early-Stage COVID-19 Incidence: Evidence from 231 Countries and Regions](https://www.mdpi.com/2220-9964/10/6/401)

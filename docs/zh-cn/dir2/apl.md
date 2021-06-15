@@ -1810,3 +1810,7 @@
 - [24小时热门｜简单喷一喷，防治新冠感染！纳米抗体喷雾剂动物实验显示保护效果](https://mp.weixin.qq.com/s/GVlees8szpdhFf5gJ8l9Rg)
 - [AGU 本周精选文章：北极泥炭地碳平衡；古珊瑚揭示全球变暖影响；疫情期间地面交通二氧化碳排放检测；海岸河流洪水灾害预测](https://mp.weixin.qq.com/s/Wo2BwA3I8sqxChZPnp4Xlw)
 - [辉瑞疫苗对在印度发现的新冠变异株有效 | 科研圈日报](https://mp.weixin.qq.com/s/Yu-ucDqTT3oyn9LyQQ8Gzg)
+- [东京奥运会危机四伏 | 激光加速“星际旅行” | 巨齿鲨的消亡 | 自然每周简报](https://mp.weixin.qq.com/s/i29lgtfNNlRMlt_UF-p-bQ)
+- [Science一周论文导读｜2021年6月4日](https://mp.weixin.qq.com/s/9Pm4B2Kh1zBz1HLI2JiMPg)
+- [Nature一周论文导读｜2021年6月3日](https://mp.weixin.qq.com/s/qQejakqyVrptqR3pSgWZaw)
+- [Novavax 重组蛋白疫苗对新冠变异株有效率达 93% | 科研圈日报](https://mp.weixin.qq.com/s/mkV1eYyDK4Y_82wTArEh-A)

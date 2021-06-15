@@ -607,3 +607,5 @@
 - [Power-law growth of the COVID-19 fatality incidents in Europe](https://www.sciencedirect.com/science/article/pii/S246804272100035X)
 - [Imagination and remembrance: what role should historical epidemiology play in a world bewitched by mathematical modelling of COVID-19 and other epidemics?](https://link.springer.com/article/10.1007/s40656-021-00422-6)
 - [Temperature and population density influence SARS-CoV-2 transmission in the absence of nonpharmaceutical interventions](https://www.pnas.org/content/118/25/e2019284118.short)
+- [Gravitational scaling analysis on spatial diffusion of COVID-19 in Hubei Province, China](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0252889)
+- [Forecasting Multi-Wave Epidemics Through Bayesian Inference](https://old-www.sandia.gov/~jairay/Presentations/sand2021-5198J.pdf)

@@ -249,3 +249,6 @@
 - [新冠疫苗接种可保护未接种人群 |《自然-医学》论文](https://mp.weixin.qq.com/s/qa0jkvsM3m9mqkkr0OB7wA)
 - [Pandemic fatigue impedes mitigation of COVID-19 in Hong Kong](https://www.researchsquare.com/article/rs-591241/v1)
 - [Community Psychological And Behavioural Responses To Coronavirus Disease 2019 Over One Year Of The Pandemic In 2020 In Hong Kong](https://www.researchsquare.com/article/rs-512581/v1)
+- [​Nature Medicine | 新冠疫苗接种可保护未接种人群](https://mp.weixin.qq.com/s/BaxJqnrLQoFjrqKqK0x9dQ)
+
+- [Synchronized nonpharmaceutical interventions for the control of COVID-19](https://link.springer.com/article/10.1007%2Fs11071-021-06505-0)

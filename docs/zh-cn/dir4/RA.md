@@ -65,3 +65,5 @@
 - [Future risk evaluation of the global COVID-19 pandemic](https://www.proquest.com/docview/2529001729?pq-origsite=gscholar&fromopenview=true)
 - [Risk of COVID-19 epidemic resurgence with the introduction of vaccination passes](https://irihs.ihs.ac.at/id/eprint/5845/)
 - [Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis](https://www.medrxiv.org/content/10.1101/2021.01.27.21250654v1)
+- [A Quantitative Benefit–Risk Analysis of ChAdOx1 nCoV-19 Vaccine among People under 60 in Italy](https://www.mdpi.com/2076-393X/9/6/618)
+- [Mask-Ematics: Modeling the Effects of Masks in COVID-19 Transmission in High-Risk Environments](https://www.mdpi.com/2673-3986/2/2/16/htm)

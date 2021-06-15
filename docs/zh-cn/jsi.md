@@ -114,3 +114,4 @@
 - [计算社会科学杂志征稿：COVID-19社会动力学专刊](https://mp.weixin.qq.com/s/JNin1eWrh0lEc6PT10kmFQ)
 - [Meteorological Applications特刊征稿 | 气候及环境因素对COVID-19传播的影响](https://mp.weixin.qq.com/s/A2lBB4RmfVIbeM93fO_I3A)
 - [Animal Diseases (BMC Springer Nature出版社) 专刊征稿 (含新冠与环境方向)](https://mp.weixin.qq.com/s/uz4J9FI_KtTBh0zMGeF7Jw)
+- [【虚拟专辑】新冠病毒 | COVID-19](https://mp.weixin.qq.com/s/PBX50yXOn_Q8320KW98FOg)
