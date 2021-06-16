@@ -2138,3 +2138,5 @@
 - [The Impact of COVID-19 on CO2 Emissions in the Los Angeles and Washington DC/Baltimore Metropolitan Areas](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL092744)
 - [Role of meteorological factors in the transmission of SARS-CoV-2 in the United States](https://www.nature.com/articles/s41467-021-23866-7)
 - [Yearly and Daily Relationship Assessment between Air Pollution and Early-Stage COVID-19 Incidence: Evidence from 231 Countries and Regions](https://www.mdpi.com/2220-9964/10/6/401)
+- [We need a global conversation on the 2020 Olympic Games](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01293-9/fulltext)
+- [《柳叶刀》社论 | 我们需要就2020年奥运会展开一场全球对话](https://mp.weixin.qq.com/s/xuk2bl5mENJNiE1zYEVK8g)

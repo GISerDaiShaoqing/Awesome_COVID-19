@@ -1094,3 +1094,5 @@
 - [CDC周报：广州深圳“5·21”疫情毒株分析](https://mp.weixin.qq.com/s/dToXkHneQJ9vUkgdDpECuw)
 - [Notes from the Field: Genome Characterization of COVID-19 Lineage B.1.1.7 Detected in the First Six Patients of a Cluster Outbreak — Shenzhen City, Guangdong Province, China, May 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.129)
 - [Molecular evidence of SARS-CoV-2 in New York before the first pandemic wave](https://www-nature-com.ezproxy2.utwente.nl/articles/s41467-021-23688-7)
+- [看清新冠病毒入侵人体瞬间，西湖大学研究获浙江自然科学奖一等奖](https://mp.weixin.qq.com/s/RdJHHpuXsDHDBfKE7KAa_w)
+- [石正丽接受《纽约时报》访问：新冠病毒实验室泄漏说毫无根据](https://mp.weixin.qq.com/s/4fdnVSlFP6TEgZHDencnOg)

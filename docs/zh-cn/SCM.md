@@ -117,5 +117,6 @@
 - [后疫情时代 | 交通转型下的“开倒车”？后疫情时期德国交通出行习惯变化](https://mp.weixin.qq.com/s/ycdjTPgVLkWXQhedlUkbmA)
 - [后疫情时代 | 新冠疫情如何重塑伦敦、悉尼、纽约到新加坡的房地产市场](https://mp.weixin.qq.com/s/Nn-3WnhVi7oYEqvnIz8YEA)
 - [后疫情时代︱点评网站Yelp数据表明, 疫情带来的无车街道激活了当地商业](https://mp.weixin.qq.com/s/02eQLX8k88fEWhyG-e7gYg)
+- [后疫情时代 | CBD不会死，也不需要皇冠，而是通往新生的“分布式”开放道路（两则）](https://mp.weixin.qq.com/s/ljcJ9IphUswl9mi_7zlIfg)
 
 ![](/img/SCM.jpg)
