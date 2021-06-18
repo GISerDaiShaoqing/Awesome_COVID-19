@@ -1817,3 +1817,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（6月16日）【中国科讯】](https://mp.weixin.qq.com/s/QAPXNNeKCjg1KzQuSetgdg)
 - [24小时热门｜2019年12月，新冠已在美国出现；大量喝咖啡增加失明风险？](https://mp.weixin.qq.com/s/eI-Jif7wKybZHy43v6qN3Q)
 - [美 NIH 报告：2019 年 12 月新冠病毒已在美国出现｜科研圈日报](https://mp.weixin.qq.com/s/6aKNQKF836Fh7x80Poo4Ig)
+- [24小时热门｜针对印度出现新冠突变株，疫苗预防近80%感染！《柳叶刀》重磅发表真实世界保护数据](https://mp.weixin.qq.com/s/rgQJWrQRS2zrnLSpNtKpmA)
+- [6 月 17 日我国内地新增确诊病例 23 例，其中本土病例 1 例（在广东） | 科研圈日报](https://mp.weixin.qq.com/s/ctXHliLF8Pd16yoqHtq6fQ)

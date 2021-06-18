@@ -1103,3 +1103,4 @@
 - [An antiviral trap made of protein nanofibrils and iron oxyhydroxide nanoparticles](https://www.nature.com/articles/s41565-021-00920-5)
 - [Viruses：石正丽课题组在中国蝙蝠种群中发现新型弹状病毒](https://mp.weixin.qq.com/s/7NU9NcGqvh75ZQUqR8JhqA)
 - [Characterization of Novel Rhabdoviruses in Chinese Bats](https://www.mdpi.com/1999-4915/13/1/64/htm)
+- [管轶：要做好应对新冠变异病毒的长期准备](https://mp.weixin.qq.com/s/Zn-TM9lj948MtyXRB63Snw)

@@ -693,3 +693,4 @@
 - [印度疫情拖累全球经济恢复](https://mp.weixin.qq.com/s/79QGZ9rogNbS6cK_AKGTFg)
 - [误泄露公司代码、疫情期间被裁，一个“菜鸟”程序员的生存日记](https://mp.weixin.qq.com/s/VczSmi6BZH-5zA4Hmc-yjA)
 - [疫情：新商业分水岭](https://mp.weixin.qq.com/s/f9NpM69SuWsA5nCm33Y1aQ)
+- [不止于会客厅或打卡地：高校博物馆如何应对疫情](https://mp.weixin.qq.com/s/uWBe9YQT-4sIxX8K6cxYyw)

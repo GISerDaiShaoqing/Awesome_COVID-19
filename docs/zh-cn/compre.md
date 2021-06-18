@@ -2141,3 +2141,6 @@
 - [We need a global conversation on the 2020 Olympic Games](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01293-9/fulltext)
 - [《柳叶刀》社论 | 我们需要就2020年奥运会展开一场全球对话](https://mp.weixin.qq.com/s/xuk2bl5mENJNiE1zYEVK8g)
 - [Misinformation Adoption or Rejection in the Era of COVID-19](https://ojs.aaai.org/index.php/ICWSM/article/download/18103/17906/21598)
+- [【他山之石】威廉·诺德豪斯访谈 新书类比应对气候变化和抗击新冠疫情](https://mp.weixin.qq.com/s/6DahakM9bym4WdEy-_jd-Q)
+- [2021年全球及中国新冠疫苗市场研究报告](https://mp.weixin.qq.com/s/4Trl9N39RNBFHECrepgCeA)
+- [Changes in Mental Health of Women Undergoing Assisted Reproductive Technology Treatment During the COVID-19 Pandemic Outbreak in Xi'an, China](https://www.frontiersin.org/articles/10.3389/fpubh.2021.645421/full)

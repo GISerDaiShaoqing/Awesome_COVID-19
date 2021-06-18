@@ -1590,3 +1590,6 @@
 - [COVID-19患者气道上皮病理变化分析](https://mp.weixin.qq.com/s/j5a7JqGtQCdQEOeUF-4WGw)
 - [Analysis of pathological changes in the epithelium in COVID-19 patient airways](https://openres.ersjournals.com/content/7/2/00690-2020)
 - [一图读懂重组新型冠状病毒疫苗（CHO细胞）技术路径](https://mp.weixin.qq.com/s/MATwvH3zp3ltub7pbY0NIQ)
+- [Cell Res | 陆军军医大学等多单位合作！卞修武/平轶芳/张抒扬​系统揭示了新冠病毒引发的全身发病机制](https://mp.weixin.qq.com/s/EsmO02upqp0zkSCRNOHgbg)
+- [A cohort autopsy study defines COVID-19 systemic pathogenesis](https://www.nature.com/articles/s41422-021-00523-8)
+- [辉瑞和Moderna疫苗临床保护数据出炉！](https://mp.weixin.qq.com/s/HIf6_envAM-KNn9w1NVJ9Q)
