@@ -361,3 +361,4 @@
 - [BMJ诚邀您参会：COVID-19 疫苗安全性 – 从实验室到临床应用](https://mp.weixin.qq.com/s/qR8kYpd0w2redPKS_DmHbQ)
 - [启动：冠状病毒国际前沿研究与创新论坛](https://mp.weixin.qq.com/s/pwFUMFB9ebansacrRiMj9w)
 - [高福院士在中国科学院学部第七届学术年会报告实录（部分）](https://mp.weixin.qq.com/s/K5t0EMHu09-f0cVOMTgwPg)
+- [群岛沙龙：流行病中媒介的力量 | 活动报名](https://mp.weixin.qq.com/s/ZpvTN6XHm9cHF6xMPzRavg)

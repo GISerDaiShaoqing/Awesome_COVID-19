@@ -2140,3 +2140,4 @@
 - [Yearly and Daily Relationship Assessment between Air Pollution and Early-Stage COVID-19 Incidence: Evidence from 231 Countries and Regions](https://www.mdpi.com/2220-9964/10/6/401)
 - [We need a global conversation on the 2020 Olympic Games](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01293-9/fulltext)
 - [《柳叶刀》社论 | 我们需要就2020年奥运会展开一场全球对话](https://mp.weixin.qq.com/s/xuk2bl5mENJNiE1zYEVK8g)
+- [Misinformation Adoption or Rejection in the Era of COVID-19](https://ojs.aaai.org/index.php/ICWSM/article/download/18103/17906/21598)

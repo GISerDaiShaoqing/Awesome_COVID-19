@@ -1587,3 +1587,6 @@
 - [疫苗对预防第二代印度突变株的真实世界保护力发布](https://mp.weixin.qq.com/s/6jnOyJ8R5thTjDTB70Dwlg)
 - [SARS-CoV-2 Delta VOC in Scotland: demographics, risk of hospital admission, and vaccine effectiveness](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01358-1/fulltext)
 - [Delta变异株已蔓延至74个国家 柳叶刀：感染后的住院风险高出一倍](https://mp.weixin.qq.com/s/h14Isj3Ysyp3yOId6kNjAQ)
+- [COVID-19患者气道上皮病理变化分析](https://mp.weixin.qq.com/s/j5a7JqGtQCdQEOeUF-4WGw)
+- [Analysis of pathological changes in the epithelium in COVID-19 patient airways](https://openres.ersjournals.com/content/7/2/00690-2020)
+- [一图读懂重组新型冠状病毒疫苗（CHO细胞）技术路径](https://mp.weixin.qq.com/s/MATwvH3zp3ltub7pbY0NIQ)

@@ -1814,3 +1814,6 @@
 - [Science一周论文导读｜2021年6月4日](https://mp.weixin.qq.com/s/9Pm4B2Kh1zBz1HLI2JiMPg)
 - [Nature一周论文导读｜2021年6月3日](https://mp.weixin.qq.com/s/qQejakqyVrptqR3pSgWZaw)
 - [Novavax 重组蛋白疫苗对新冠变异株有效率达 93% | 科研圈日报](https://mp.weixin.qq.com/s/mkV1eYyDK4Y_82wTArEh-A)
+- [情报监测 | “COVID-19”科研动态监测每日快报（6月16日）【中国科讯】](https://mp.weixin.qq.com/s/QAPXNNeKCjg1KzQuSetgdg)
+- [24小时热门｜2019年12月，新冠已在美国出现；大量喝咖啡增加失明风险？](https://mp.weixin.qq.com/s/eI-Jif7wKybZHy43v6qN3Q)
+- [美 NIH 报告：2019 年 12 月新冠病毒已在美国出现｜科研圈日报](https://mp.weixin.qq.com/s/6aKNQKF836Fh7x80Poo4Ig)
