@@ -1819,3 +1819,8 @@
 - [美 NIH 报告：2019 年 12 月新冠病毒已在美国出现｜科研圈日报](https://mp.weixin.qq.com/s/6aKNQKF836Fh7x80Poo4Ig)
 - [24小时热门｜针对印度出现新冠突变株，疫苗预防近80%感染！《柳叶刀》重磅发表真实世界保护数据](https://mp.weixin.qq.com/s/rgQJWrQRS2zrnLSpNtKpmA)
 - [6 月 17 日我国内地新增确诊病例 23 例，其中本土病例 1 例（在广东） | 科研圈日报](https://mp.weixin.qq.com/s/ctXHliLF8Pd16yoqHtq6fQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（6月18日）【中国科讯】](https://mp.weixin.qq.com/s/q4cS-DyF53huN_WuZusnTw)
+- [6 月 20 日我国内地新增确诊病例 17 例，其中本土病例 1 例（在广东）| 科研圈日报](https://mp.weixin.qq.com/s/y0uutV5rLH89xnQOiIODQg)
+- [中科院公布2021年度杰出科技成就奖进入总评候选者建议名单](https://mp.weixin.qq.com/s/LCKxmT0jJPUj4U7_lS7xgQ)
+- [研究显示，19年12月新冠已在美国出现；大量喝咖啡增加失明风险？这类人应减少咖啡因摄入｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/55nzjtjEEx0RO_TtGfOAhA)
+- [2021年度杰出科技成就奖建议名单，石正丽等入选](https://mp.weixin.qq.com/s/tD9ojZcoXELXZkNkD-h4FQ)

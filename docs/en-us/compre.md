@@ -2144,3 +2144,5 @@
 - [【他山之石】威廉·诺德豪斯访谈 新书类比应对气候变化和抗击新冠疫情](https://mp.weixin.qq.com/s/6DahakM9bym4WdEy-_jd-Q)
 - [2021年全球及中国新冠疫苗市场研究报告](https://mp.weixin.qq.com/s/4Trl9N39RNBFHECrepgCeA)
 - [Changes in Mental Health of Women Undergoing Assisted Reproductive Technology Treatment During the COVID-19 Pandemic Outbreak in Xi'an, China](https://www.frontiersin.org/articles/10.3389/fpubh.2021.645421/full)
+- [The Societal Impacts of Covid-19: A Transnational Perspective](https://iupress.istanbul.edu.tr/tr/book/the-societal-impacts-of-covid-19-a-transnational-perspective/home)
+- [Real-time CO2 emissions estimation in Spain and application to the COVID-19 pandemic](https://doi.org/10.1016/j.jclepro.2021.126425)

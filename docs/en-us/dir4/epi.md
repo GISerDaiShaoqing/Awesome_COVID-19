@@ -609,3 +609,6 @@
 - [Temperature and population density influence SARS-CoV-2 transmission in the absence of nonpharmaceutical interventions](https://www.pnas.org/content/118/25/e2019284118.short)
 - [Gravitational scaling analysis on spatial diffusion of COVID-19 in Hubei Province, China](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0252889)
 - [Forecasting Multi-Wave Epidemics Through Bayesian Inference](https://old-www.sandia.gov/~jairay/Presentations/sand2021-5198J.pdf)
+- [A Cluster Transmission of Coronavirus Disease 2019 and the Prevention and Control Measures in the Early Stage of the Epidemic in Xi’an, China, 2020](https://www.medscimonit.com/abstract/index/idArt/929701)
+- [Comparative Study of COVD-19 Pandemic Progressions in 175 Regions in Australia, Canada, Italy, Japan, Spain, UK and USA Using a Novel Model That Considers Testing Capacity and Deficiency in Confirming Infected Cases](https://ieeexplore.ieee.org/document/9456083)
+- [Ambient air pollution and low temperature associated with case fatality of COVID-19: A nationwide retrospective cohort study in China](https://doi.org/10.1016/j.xinn.2021.100139)

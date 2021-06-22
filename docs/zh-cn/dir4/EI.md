@@ -252,3 +252,4 @@
 - [​Nature Medicine | 新冠疫苗接种可保护未接种人群](https://mp.weixin.qq.com/s/BaxJqnrLQoFjrqKqK0x9dQ)
 - [Synchronized nonpharmaceutical interventions for the control of COVID-19](https://link.springer.com/article/10.1007%2Fs11071-021-06505-0)
 - [Reopening International Borders without Quarantine: Contact Tracing Integrated Policy against COVID-19](https://www.medrxiv.org/content/10.1101/2021.06.10.21258672v1)
+- [Mask-Ematics: Modeling the Effects of Masks in COVID-19 Transmission in High-Risk Environments](https://www.mdpi.com/2673-3986/2/2/16/htm)

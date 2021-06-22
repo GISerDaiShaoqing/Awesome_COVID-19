@@ -694,3 +694,5 @@
 - [误泄露公司代码、疫情期间被裁，一个“菜鸟”程序员的生存日记](https://mp.weixin.qq.com/s/VczSmi6BZH-5zA4Hmc-yjA)
 - [疫情：新商业分水岭](https://mp.weixin.qq.com/s/f9NpM69SuWsA5nCm33Y1aQ)
 - [不止于会客厅或打卡地：高校博物馆如何应对疫情](https://mp.weixin.qq.com/s/uWBe9YQT-4sIxX8K6cxYyw)
+- [【治理与反思】新冠疫情改变了公共行政和领导力的规则?稳健治理的兴起](https://mp.weixin.qq.com/s/IFF1XHaX0wspIts9ybzsag)
+- [The COVID-19 pandemic as a game changer for public administration and leadership? The need for robust governance responses to tu](https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1820272)
