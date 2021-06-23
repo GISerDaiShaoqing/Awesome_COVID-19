@@ -696,3 +696,5 @@
 - [不止于会客厅或打卡地：高校博物馆如何应对疫情](https://mp.weixin.qq.com/s/uWBe9YQT-4sIxX8K6cxYyw)
 - [【治理与反思】新冠疫情改变了公共行政和领导力的规则?稳健治理的兴起](https://mp.weixin.qq.com/s/IFF1XHaX0wspIts9ybzsag)
 - [The COVID-19 pandemic as a game changer for public administration and leadership? The need for robust governance responses to tu](https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1820272)
+- [各国该如何减轻COVID-19对自杀的社会和经济影响？ | BMC Medicine](https://mp.weixin.qq.com/s/TbMDXAgEPD9QSM0PexbjeA)
+- [Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01935-4)
