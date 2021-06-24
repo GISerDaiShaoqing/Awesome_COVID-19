@@ -1112,3 +1112,5 @@
 - [病毒才是生物界的“游戏玩家”高手！Science |最新发文揭示病毒进化的奥秘](https://mp.weixin.qq.com/s/2D67ZBiFC9mFzBMauiuBIA)
 - [Evolution of a virus-like architecture and packaging mechanism in a repurposed bacterial protein](http://doi.org/10.1126/science.abg2822)
 - [Impact of Prior Influenza and Pneumoccocal Vaccines on Humoral and Cellular Response to SARS-CoV-2 BNT162b2 Vaccination](https://www.mdpi.com/2076-393X/9/6/615)
+- [Cell：清华饶子和团队解析新冠病毒复制校正和mRNA加帽机制 | Cell Press对话科学家](https://mp.weixin.qq.com/s/lqWWAomSMZv0TJbXRHT-zg)
+- [Coupling of N7-methyltransferase and 3′-5′ exoribonuclease with SARS-CoV-2 polymerase reveals mechanisms for capping and proofreading](https://www.cell.com/cell/fulltext/S0092-8674(21)00663-2)

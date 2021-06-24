@@ -1830,3 +1830,6 @@
 - [Nature一周论文导读｜2021年6月10日](https://mp.weixin.qq.com/s/AHxyTkU1hMCxagNsJlPzDg)
 - [Science一周论文导读｜2021年6月11日](https://mp.weixin.qq.com/s/6j6wSqnP_jkJ8UGvaXFQgQ)
 - [新冠病毒抗体依赖性增强效应不会在动物模型中发生 | 科研圈日报](https://mp.weixin.qq.com/s/nXdnRIJmPK9x4kkXupQ28Q)
+- [专访华大基因靳大卫：以火眼实验室为“根据地”，我们要打造数字化抗疫新标杆](https://mp.weixin.qq.com/s/SSryAwg5r6uYryMZE8wLWg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（6月23日）【中国科讯】](https://mp.weixin.qq.com/s/MYBKQvj-UnM0ao8sulQBoQ)
+- [6 月 23 日我国内地新增确诊病例 16 例，均为境外输入病例｜科研圈日报](https://mp.weixin.qq.com/s/mAXAcu37YCgK43VDHUk7LQ)

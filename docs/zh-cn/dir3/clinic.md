@@ -1605,3 +1605,4 @@
 - [SARS-CoV-2 spike P681R mutation enhances andaccelerates viral fusion](https://www.biorxiv.org/content/10.1101/2021.06.17.448820)
 - [Clinical outcomes in COVID-19 patients infected with different SARS-CoV-2 variants in Marseille, France](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00270-6/abstract)
 - [Post-vaccination SARS-CoV-2 infections and incidence of the B.1.427/B.1.429 variant among healthcare personnel at a northern California academic medical center](https://www.medrxiv.org/content/10.1101/2021.04.14.21255431v2)
+- [新冠康复后，他们的噩梦才刚刚开始](https://mp.weixin.qq.com/s/B8U6EI3tfo-tt2snnQ8GkQ)

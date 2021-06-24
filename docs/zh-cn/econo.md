@@ -698,3 +698,4 @@
 - [The COVID-19 pandemic as a game changer for public administration and leadership? The need for robust governance responses to tu](https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1820272)
 - [各国该如何减轻COVID-19对自杀的社会和经济影响？ | BMC Medicine](https://mp.weixin.qq.com/s/TbMDXAgEPD9QSM0PexbjeA)
 - [Reducing youth suicide: systems modelling and simulation to guide targeted investments across the determinants](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01935-4)
+- [环球版讯 | 欧盟知识产权局（EUIPO）发布2020年新冠肺炎疫情对知识产权密集型行业的经济影响报告（2021年第7期）](https://mp.weixin.qq.com/s/DLCG6oof3aUYjYF7WXv0ow)

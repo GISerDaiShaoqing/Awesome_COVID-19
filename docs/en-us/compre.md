@@ -2148,3 +2148,4 @@
 - [新冠第三波疫情将席卷全球？](https://mp.weixin.qq.com/s/H0SmL_DJleWVxGazpikQcg)
 - [WHO says delta is the fastest and fittest Covid variant and will ‘pick off’ most vulnerable](https://www.cnbc.com/2021/06/21/covid-delta-who-says-variant-is-the-fastest-and-fittest-and-will-pick-off-most-vulnerable-.html)
 - [COVID-19 and Similar Futures](https://link.springer.com/book/10.1007/978-3-030-70179-6)
+- [印度新冠疫情之下，这个帮凶让现状雪上加霜](https://mp.weixin.qq.com/s/a5n_Byw1AooN2lJ-oEC12A)
