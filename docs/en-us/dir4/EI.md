@@ -261,3 +261,4 @@
 - [Effect of COVID-19 response policies on walking behavior in US cities](https://www.nature.com/articles/s41467-021-23937-9)
 - [Reopening International Borders without Quarantine: Contact Tracing Integrated Policy against COVID-19](https://www.medrxiv.org/content/10.1101/2021.06.10.21258672v1.full-text)
 - [Community-level evidence for SARS-CoV-2 vaccine protection of unvaccinated individuals](https://doi.org/10.1038/s41591-021-01407-5)
+- [Comparison of COVID-19 vaccine prioritization strategies in the United States](https://www.medrxiv.org/content/10.1101/2021.03.04.21251264v1)

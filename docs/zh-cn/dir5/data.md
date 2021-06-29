@@ -247,3 +247,4 @@
 - [Mobile phone-based population flow data for the COVID-19 outbreak in Mainland China](https://spj.sciencemag.org/journals/hds/aip/9796431/)
 - [【数据】2020年：美国新冠疫情总共造成550万年的生命损失，超过所有事故的总和！](https://mp.weixin.qq.com/s/6yF9GGr-Jd7M3tDBYUzWlQ)
 - [Americans lost more years of life to COVID-19 in 2020 than to all accidents combined in a typical year](https://www.pewresearch.org/fact-tank/2021/06/16/americans-lost-more-years-of-life-to-covid-19-in-2020-than-to-all-accidents-combined-in-a-typical-year/)
+- [RStata 免费分享｜中国各省市新冠疫情数据 & 世界各国新冠疫情数据](https://mp.weixin.qq.com/s/EGt4VNXVWPkTlAypXiXFwA)
