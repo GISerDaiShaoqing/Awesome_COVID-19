@@ -8130,3 +8130,8 @@
 - [重要通知 | 关于在荷中国留学生接种新冠疫苗情况的问卷调查](https://mp.weixin.qq.com/s/qOxsOy7MvitUfwTasL68YQ)
 - [657！以色列85%接种后疫情在学校爆发，再次封锁！荷兰决定为孩子接种！](https://mp.weixin.qq.com/s/kJdDOUuZTTUKPYxgbBwr7g)
 - [郑重提醒拟经荷兰转机回国的中国公民重视疫情风险，严防旅途感染](https://mp.weixin.qq.com/s/Pg99n7ExCmvL3Q3lE0oR9w)
+- [荷兰病毒感染下降减缓，为对付病毒变种卫生机构停快速检测改核酸检测](https://mp.weixin.qq.com/s/0DY9NH8FmJdu3OUiO0PC9g)
+- [荷兰少年儿童接种新冠疫苗的道德困境](https://mp.weixin.qq.com/s/RL0g_Hvb7WW0SKkUf1tClw)
+- [应对新一波疫情，警惕德尔塔变种病毒通过年轻人传播](https://mp.weixin.qq.com/s/WwXLAmHlhkcBEtckoNhr6g)
+- [欧洲数字证书推出在即，媒体又挑刺指荷兰外交部旅游建议“马后炮”](https://mp.weixin.qq.com/s/LBHGqAhRaKhS1G4V1ZumKA)
+- [荷兰自制炸弹大幅增加——6月30日](https://mp.weixin.qq.com/s/cuWtc3dUjgzWZn7oP6Womg)
