@@ -619,3 +619,4 @@
 - [A hospital-related outbreak of SARS-CoV-2 associated with a novel variant Cal.20C (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021](https://www.ijidonline.com/article/S1201-9712(21)00517-8/fulltext)
 - [Using syndromic measures of mortality to capture the dynamics of COVID-19 in Java, Indonesia, in the context of vaccination rollout](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02016-2)
 - [Estimating infectiousness throughout SARS-CoV-2 infection course](https://science.sciencemag.org/content/early/2021/05/24/science.abi5273.full)
+- [Assessing the Country-Level Excess All-Cause Mortality and the Impacts of Air Pollution and Human Activity during the COVID-19 Epidemic](https://www.mdpi.com/1660-4601/18/13/6883)

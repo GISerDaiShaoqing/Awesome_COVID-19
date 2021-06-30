@@ -2162,3 +2162,5 @@
 - [Wearable materials with embedded synthetic biology sensors for biomolecule detection](https://www.nature.com/articles/s41587-021-00950-3)
 - [Science | Delta变种引发全球范围内的新一轮疫情大流行！](https://mp.weixin.qq.com/s/nEzbFm0thtX3krnUa22SKg)
 - [Delta variant triggers newphase in the pandemic](https://science.sciencemag.org/content/372/6549/1375)
+- [SPJ｜Health Data Science：利用机器学习方法从常规血液检测透视新冠疫情变化](https://mp.weixin.qq.com/s/Kacmo-5mVK4TzB3RkAj_tw)
+- [Machine Learning Highlights Downtrending of COVID-19 Patients with a Distinct Laboratory Profile](https://spj.sciencemag.org/journals/hds/2021/7574903/)

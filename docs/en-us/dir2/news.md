@@ -8127,3 +8127,6 @@
 - [香港禁止英国航班抵港，英航向受影响乘客道歉](https://mp.weixin.qq.com/s/-7iLhACxTFZkGLDRFVA6ig)
 - [荷足主教练德波尔收拾包袱——6月29日](https://mp.weixin.qq.com/s/P4EAD3Z8_jPZMLGfWNtfmQ)
 - [没戴口罩一秒感染！东莞学生感染细节公布，“德尔塔+”蔓延至11国，传染力更强？张文宏：除了这样做没有更好办法](https://mp.weixin.qq.com/s/BS2ZxaOj2Hp50ElgiHEndQ)
+- [重要通知 | 关于在荷中国留学生接种新冠疫苗情况的问卷调查](https://mp.weixin.qq.com/s/qOxsOy7MvitUfwTasL68YQ)
+- [657！以色列85%接种后疫情在学校爆发，再次封锁！荷兰决定为孩子接种！](https://mp.weixin.qq.com/s/kJdDOUuZTTUKPYxgbBwr7g)
+- [郑重提醒拟经荷兰转机回国的中国公民重视疫情风险，严防旅途感染](https://mp.weixin.qq.com/s/Pg99n7ExCmvL3Q3lE0oR9w)

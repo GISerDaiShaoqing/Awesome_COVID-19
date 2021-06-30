@@ -1848,3 +1848,5 @@
 - [14秒就能人传人，钟南山口中“传染性极强”的德尔塔毒株是怎么回事？](https://mp.weixin.qq.com/s/INgEcJR2WU37aZUusvCm_A)
 - [情报监测 | “COVID-19”科研动态监测每日快报（6月28日）【中国科讯】](https://mp.weixin.qq.com/s/ZLBClVx--oq5aanfz0LOQw)
 - [疫苗里有哪些成分，分别发挥哪些作用？](https://mp.weixin.qq.com/s/15FI7d3c5jTaTtpikSlU2g)
+- [24小时热门｜适度饮酒有益健康？脑子可能会坏掉；哈佛学者发明可检测新冠病毒的口罩，效果媲美核酸检测](https://mp.weixin.qq.com/s/8L3P2fd3W6PNFqvom82RMw)
+- [6 月 29 日我国内地新增确诊病例 9 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/PLHcpazV_w7eCdkJbAH2ag)

@@ -1612,3 +1612,4 @@
 - [Reduced neutralization of SARS-CoV-2 B.1.617 by vaccine and convalescent serum](https://doi.org/10.1016/j.cell.2021.06.020)
 - [A recombinant receptor-binding domain in trimeric form generates protective immunity against SARS-CoV-2 infection in nonhuman primates](https://www.cell.com/the-innovation/fulltext/S2666-6758(21)00065-5)
 - [牛津的试验：混合疫苗、追加疫苗和延长两针间隔时间](https://mp.weixin.qq.com/s/2qfiwI0l6DK7aYnVNXkYYQ)
+- [可预防多种冠状病毒的mRNA疫苗来了；生酮饮食可治心脏病；移植β细胞，治愈糖尿病小鼠丨本周临床快讯](https://mp.weixin.qq.com/s/XhA5YnbsOKnz7mpXBFc9TQ)
