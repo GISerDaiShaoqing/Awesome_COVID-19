@@ -248,3 +248,5 @@
 - [【数据】2020年：美国新冠疫情总共造成550万年的生命损失，超过所有事故的总和！](https://mp.weixin.qq.com/s/6yF9GGr-Jd7M3tDBYUzWlQ)
 - [Americans lost more years of life to COVID-19 in 2020 than to all accidents combined in a typical year](https://www.pewresearch.org/fact-tank/2021/06/16/americans-lost-more-years-of-life-to-covid-19-in-2020-than-to-all-accidents-combined-in-a-typical-year/)
 - [RStata 免费分享｜中国各省市新冠疫情数据 & 世界各国新冠疫情数据](https://mp.weixin.qq.com/s/EGt4VNXVWPkTlAypXiXFwA)
+- [【数据】疫情之下，2020年可再生能源成本继续下降！](https://mp.weixin.qq.com/s/-KqljxTTWT2Qh9-mROXs0g)
+- [Infographic: Low Renewable Costs Allow To Power Past Coal](https://www.irena.org/newsroom/articles/2021/Jun/Low-Renewable-Costs-Allow-To-Power-Past-Coal)

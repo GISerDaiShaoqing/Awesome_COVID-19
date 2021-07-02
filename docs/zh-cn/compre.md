@@ -2164,3 +2164,8 @@
 - [Delta variant triggers newphase in the pandemic](https://science.sciencemag.org/content/372/6549/1375)
 - [SPJ｜Health Data Science：利用机器学习方法从常规血液检测透视新冠疫情变化](https://mp.weixin.qq.com/s/Kacmo-5mVK4TzB3RkAj_tw)
 - [Machine Learning Highlights Downtrending of COVID-19 Patients with a Distinct Laboratory Profile](https://spj.sciencemag.org/journals/hds/2021/7574903/)
+- [计算分析揭示了可改用于治疗新冠肺炎的200种已获批药物｜Science Advances](https://mp.weixin.qq.com/s/2ZubplwdzMtLqbSQrA20HQ)
+- [Identification of SARS-CoV-2–induced pathways reveals drug repurposing strategies](https://advances.sciencemag.org/content/7/27/eabh3032)
+- [Bilateral associations between sleep duration and depressive symptoms among Chinese adolescents before and during the COVID-19 pandemic](https://doi.org/10.1016/j.sleep.2021.06.007)
+- [The COVID-19 Pandemic, Airbnb and Housing Market Dynamics in Warsaw](http://www.housing-critical.com/home-page-1/the-covid-19-pandemic-airbnb-and-housing-market)
+- [Genomic Epidemiology of the First Wave of SARS-CoV-2 in Italy](https://www.mdpi.com/1999-4915/12/12/1438)

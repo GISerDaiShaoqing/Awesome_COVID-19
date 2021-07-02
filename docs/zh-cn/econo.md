@@ -701,3 +701,6 @@
 - [环球版讯 | 欧盟知识产权局（EUIPO）发布2020年新冠肺炎疫情对知识产权密集型行业的经济影响报告（2021年第7期）](https://mp.weixin.qq.com/s/DLCG6oof3aUYjYF7WXv0ow)
 - [Self-Interest Bias in the COVID-19 Pandemic: A Cross-Cultural Comparison between the United States and China](https://journals.sagepub.com/doi/10.1177/00220221211025739)
 - [国际资讯 | [新加坡]世界城市峰会在新加坡召开，探讨疫情影响及规划应对(2021.6)](https://mp.weixin.qq.com/s/1vgTUjH6Ho9Fiv1caqAt5g)
+- [疫情与灾害叠加下的城市韧性健康开放空间规划策略研究 | 上海城市规划](https://mp.weixin.qq.com/s/4KwsQh1At9Kek5w_VpA-mQ)
+- [Green zoning: An effective policy tool to tackle the Covid-19 pandemic](https://doi.org/10.1016/j.healthpol.2021.06.001)
+- [Mobility-based real-time economic monitoring amid the COVID-19 pandemic](https://doi.org/10.1016/10.1038/s41598-021-92134-x)

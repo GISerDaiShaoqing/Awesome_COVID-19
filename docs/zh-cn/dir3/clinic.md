@@ -1613,3 +1613,8 @@
 - [A recombinant receptor-binding domain in trimeric form generates protective immunity against SARS-CoV-2 infection in nonhuman primates](https://www.cell.com/the-innovation/fulltext/S2666-6758(21)00065-5)
 - [牛津的试验：混合疫苗、追加疫苗和延长两针间隔时间](https://mp.weixin.qq.com/s/2qfiwI0l6DK7aYnVNXkYYQ)
 - [可预防多种冠状病毒的mRNA疫苗来了；生酮饮食可治心脏病；移植β细胞，治愈糖尿病小鼠丨本周临床快讯](https://mp.weixin.qq.com/s/XhA5YnbsOKnz7mpXBFc9TQ)
+- [NEJM|真实世界研究表明mRNA新冠疫苗显著降低无症状感染、病毒载量及症状时间和程度](https://mp.weixin.qq.com/s/afsiK138Kb8Go_AznT4Chg)
+- [Safety and Efficacy of NVX-CoV2373 Covid-19 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2107659)
+- [全球首个！科兴发布3—17岁疫苗研究结果，已获批紧急使用](https://mp.weixin.qq.com/s/44uYWpfMMkOgyghVUCJH7g)
+- [Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine (CoronaVac) in healthy children and adolescents: a double-blind, randomised, controlled, phase 1/2 clinical trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00319-4/fulltext)
+- [[科学防治系列科普之一]新冠重组蛋白疫苗好在哪里？](https://mp.weixin.qq.com/s/aenJd8GJ--nNWleLR1ifiA)

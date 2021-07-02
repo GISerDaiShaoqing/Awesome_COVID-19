@@ -262,3 +262,5 @@
 - [Reopening International Borders without Quarantine: Contact Tracing Integrated Policy against COVID-19](https://www.medrxiv.org/content/10.1101/2021.06.10.21258672v1.full-text)
 - [Community-level evidence for SARS-CoV-2 vaccine protection of unvaccinated individuals](https://doi.org/10.1038/s41591-021-01407-5)
 - [Comparison of COVID-19 vaccine prioritization strategies in the United States](https://www.medrxiv.org/content/10.1101/2021.03.04.21251264v1)
+- [Despite vaccination, China needs non-pharmaceutical interventions to prevent widespread outbreaks of COVID-19 in 2021](https://doi.org/10.1038/s41562-021-01155-z)
+- [Trust in government, intention to vaccinate and COVID-19 vaccine hesitancy: A comparative survey of five large cities in the United States, United Kingdom, and Australia](ttps://doi.org/10.1016/j.vaccine.2021.06.048)

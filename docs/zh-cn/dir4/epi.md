@@ -620,3 +620,8 @@
 - [Using syndromic measures of mortality to capture the dynamics of COVID-19 in Java, Indonesia, in the context of vaccination rollout](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02016-2)
 - [Estimating infectiousness throughout SARS-CoV-2 infection course](https://science.sciencemag.org/content/early/2021/05/24/science.abi5273.full)
 - [Assessing the Country-Level Excess All-Cause Mortality and the Impacts of Air Pollution and Human Activity during the COVID-19 Epidemic](https://www.mdpi.com/1660-4601/18/13/6883)
+- [美国有3600万人有潜在感染Delta感染风险](https://mp.weixin.qq.com/s/e-ql6o_EHPTBPmv8MKypTw)
+- [“一带一路”国际科学组织联盟新冠疫情预测信息平台](http://www.covda.tpdc.ac.cn/)
+- [Comparative Study of COVD-19 Pandemic Progressions in 175 Regions in Australia, Canada, Italy, Japan, Spain, UK and USA Using a Novel Model That Considers Testing Capacity and Deficiency in Confirming Infected Cases](https://ieeexplore.ieee.org/document/9456083)
+- [Constructing and adjusting estimates for household transmission of SARS-CoV-2 from prior studies, widespread-testing and contact-tracing data](https://europepmc.org/article/MED/34151970)
+- [Trend estimation and short-term forecasting of COVID-19 cases and deaths worldwide](https://arxiv.org/abs/2106.10203)

@@ -1120,3 +1120,7 @@
 - [Second-Generation Antibodies Neutralize Emerging SARS-CoV-2 Variants of Concern](https://www.biorxiv.org/content/10.1101/2021.06.09.447527v1.full)
 - [传播快、易耐药、多重症：Delta株有多难缠？](https://mp.weixin.qq.com/s/frF-usuQp3mK1MRYvAWNmQ)
 - [Delta coronavirus variant: scientists brace for impact](https://www.nature.com/articles/d41586-021-01696-3)
+- [重要发现：宿主内多样性是新冠病毒进化的主要阶段](https://mp.weixin.qq.com/s/cTbfzs2rCAu_jgMz9x-Ugw)
+- [One viral sequence for each host? – The neglected within-host diversity as the main stage of SARS-CoV-2 evolution](https://www.biorxiv.org/content/10.1101/2021.06.21.449205v1)
+- [Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009619)
+- [p- cymene impairs SARS- CoV- 2 and Influenza A (H1N1) viral replication: In silico predicted interaction with SARS- CoV- 2 nucleocapsid protein and H1N1 nucleoprotein](https://bpspubs.onlinelibrary.wiley.com/doi/epdf/10.1002/prp2.798)
