@@ -250,3 +250,5 @@
 - [RStata 免费分享｜中国各省市新冠疫情数据 & 世界各国新冠疫情数据](https://mp.weixin.qq.com/s/EGt4VNXVWPkTlAypXiXFwA)
 - [【数据】疫情之下，2020年可再生能源成本继续下降！](https://mp.weixin.qq.com/s/-KqljxTTWT2Qh9-mROXs0g)
 - [Infographic: Low Renewable Costs Allow To Power Past Coal](https://www.irena.org/newsroom/articles/2021/Jun/Low-Renewable-Costs-Allow-To-Power-Past-Coal)
+- [【数据】《经济学人》编制工作生活“正常指数”：全球已经恢复到疫情前的66%](https://mp.weixin.qq.com/s/tx4MGgDA7_z5MJxdsIilhQ)
+- [tracking the return to normalcy after covid-19](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19)

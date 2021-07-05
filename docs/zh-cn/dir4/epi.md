@@ -625,3 +625,8 @@
 - [Comparative Study of COVD-19 Pandemic Progressions in 175 Regions in Australia, Canada, Italy, Japan, Spain, UK and USA Using a Novel Model That Considers Testing Capacity and Deficiency in Confirming Infected Cases](https://ieeexplore.ieee.org/document/9456083)
 - [Constructing and adjusting estimates for household transmission of SARS-CoV-2 from prior studies, widespread-testing and contact-tracing data](https://europepmc.org/article/MED/34151970)
 - [Trend estimation and short-term forecasting of COVID-19 cases and deaths worldwide](https://arxiv.org/abs/2106.10203)
+- [Modelling the epidemic dynamics of COVID-19 with consideration of human mobility](https://link.springer.com/article/10.1007/s41060-021-00271-3)
+- [Assessing the extent of community spread caused by mink-derived SARS-CoV-2 variants](https://doi.org/10.1016/j.xinn.2021.100128)
+- [Characterization of SARS-CoV-2 infection clusters based on integrated genomic surveillance, outbreak analysis and contact tracing in an urban setting](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab588/6310838)
+- [疾控中心数据：广东爆发的Delta变异株全面调查](https://mp.weixin.qq.com/s/CR0e0-bxW0hPkBrTtUdMpw)
+- [Notes from the Field: Transmission Dynamics of an Outbreak of the COVID-19 Delta Variant B.1.617.2 — Guangdong Province, China, May–June 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.148)

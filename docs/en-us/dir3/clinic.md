@@ -1618,3 +1618,5 @@
 - [全球首个！科兴发布3—17岁疫苗研究结果，已获批紧急使用](https://mp.weixin.qq.com/s/44uYWpfMMkOgyghVUCJH7g)
 - [Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine (CoronaVac) in healthy children and adolescents: a double-blind, randomised, controlled, phase 1/2 clinical trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00319-4/fulltext)
 - [[科学防治系列科普之一]新冠重组蛋白疫苗好在哪里？](https://mp.weixin.qq.com/s/aenJd8GJ--nNWleLR1ifiA)
+- [The Role of Macrolides for the Management of Community-Acquired Pneumonia and Pneumonia by the Novel Coronavirus SARS-CoV-2 (COVID-19): A Position Paper by Four Medical Societies from Greece](https://link.springer.com/article/10.1007%2Fs40121-021-00471-1)
+- [Engineered ACE2 receptor therapy overcomes mutational escape of SARS-CoV-2](https://www.nature.com/articles/s41467-021-24013-y)

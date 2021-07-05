@@ -1852,4 +1852,7 @@
 - [6 月 29 日我国内地新增确诊病例 9 例，均为境外输入 | 科研圈日报](https://mp.weixin.qq.com/s/PLHcpazV_w7eCdkJbAH2ag)
 - [情报监测 | “COVID-19”科研动态监测每日快报（6月30日）【中国科讯】](https://mp.weixin.qq.com/s/GRppEekV2XOttSNEUYw_9A)
 - [24小时热门｜针对Delta等十多种突变病毒株，mRNA疫苗最新中和效力结果出炉](https://mp.weixin.qq.com/s/3NqZ7_hCVPow_6jcDDG0pA)
+- [欧洲研究委员会任命新主席，接替不满疫情应对政策主动辞职的前任主席 | 科研圈日报](https://mp.weixin.qq.com/s/1Lv-ubn0Lu10d3HTUwBjMA)
 - [科兴疫苗3-17岁人群临床试验数据公布，已获得中国3岁及以上未成年人紧急使用批准｜科研圈日报](https://mp.weixin.qq.com/s/4MyzTTm8_n2ZygGsC_hImA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月2日）【中国科讯】](https://mp.weixin.qq.com/s/4ePe2rM1J_mrcRaesiHJzw)
+- [新冠变种病毒是如何变强的？陈冰团队连续两篇《科学》揭示奥秘｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/yTUrTeHEU_7WYmPi1RoCyQ)
