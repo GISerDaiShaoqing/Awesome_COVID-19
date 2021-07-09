@@ -6,3 +6,4 @@
 - [通知 | ​面向因抗击疫情延误申请国家自然科学基金 国际(地区)合作与交流项目的科研人员 定向开放项目申请](https://mp.weixin.qq.com/s/cJb6VKcbjQFWCGnc1m8UQg)
 - [国家自然科学基金委员会关于征集“新型冠状病毒”相关科学研究创新思路的通知](https://mp.weixin.qq.com/s/vIr2vgnqYG7xjI6DIzC77A)
 - [2020年，国家自然科学基金委已公布批准资助项目名单](https://mp.weixin.qq.com/s/PCPwYyhOB6Ae9d_jnc1y_g)
+- [57项！一批国家自然科学基金项目审核、评审结果公布！](https://mp.weixin.qq.com/s/jG4AUtS3GZEVEaH2am1o1Q)

@@ -704,3 +704,6 @@
 - [疫情与灾害叠加下的城市韧性健康开放空间规划策略研究 | 上海城市规划](https://mp.weixin.qq.com/s/4KwsQh1At9Kek5w_VpA-mQ)
 - [Green zoning: An effective policy tool to tackle the Covid-19 pandemic](https://doi.org/10.1016/j.healthpol.2021.06.001)
 - [Mobility-based real-time economic monitoring amid the COVID-19 pandemic](https://doi.org/10.1016/10.1038/s41598-021-92134-x)
+- [国际资讯 | 美华盛顿特区慢行街道实践/新冠肺炎加剧美国城市人口下降趋势(2021.7)](https://mp.weixin.qq.com/s/kXDK7GLIbPN7SpGm47oCRA)
+- [【学术动态】高密度是否加剧了新冠肺炎大流行？早期研究发现和给规划师的启示](https://mp.weixin.qq.com/s/PYK0P8peC8ovi9VpQ8T7-Q)
+- [Does density aggravate the COVID-19 pandemic](https://www.tandfonline.com/doi/full/10.1080/01944363.2020.1777891)

@@ -362,3 +362,5 @@
 - [启动：冠状病毒国际前沿研究与创新论坛](https://mp.weixin.qq.com/s/pwFUMFB9ebansacrRiMj9w)
 - [高福院士在中国科学院学部第七届学术年会报告实录（部分）](https://mp.weixin.qq.com/s/K5t0EMHu09-f0cVOMTgwPg)
 - [群岛沙龙：流行病中媒介的力量 | 活动报名](https://mp.weixin.qq.com/s/ZpvTN6XHm9cHF6xMPzRavg)
+- [冠状病毒国际前沿研究与创新论坛（第二轮会议通知）](https://mp.weixin.qq.com/s/fo-uR5CTVzmbG0ZDTLJJtg)
+- [Geo Health Hub论坛第二期](https://mp.weixin.qq.com/s/T35_gRDkYbnrJWMtNVWzTA)

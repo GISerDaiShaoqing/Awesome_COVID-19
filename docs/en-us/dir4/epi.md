@@ -630,3 +630,6 @@
 - [Characterization of SARS-CoV-2 infection clusters based on integrated genomic surveillance, outbreak analysis and contact tracing in an urban setting](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab588/6310838)
 - [疾控中心数据：广东爆发的Delta变异株全面调查](https://mp.weixin.qq.com/s/CR0e0-bxW0hPkBrTtUdMpw)
 - [Notes from the Field: Transmission Dynamics of an Outbreak of the COVID-19 Delta Variant B.1.617.2 — Guangdong Province, China, May–June 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.148)
+- [A Pivotal Restructuring of Modeling the Control of COVID-19 as Massive Vaccination is in Progress](https://www.researchsquare.com/article/rs-145259/v1)
+- [Deep learning in the COVID-19 epidemic: A deep model for urban traffic revitalization index](https://www.sciencedirect.com/science/article/pii/S0169023X21000392)
+- [Association Between Caseload Surge and COVID-19 Survival in 558 U.S. Hospitals, March to August 2020](https://www.acpjournals.org/doi/10.7326/M21-1213)

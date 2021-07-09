@@ -67,3 +67,4 @@
 - [Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis](https://www.medrxiv.org/content/10.1101/2021.01.27.21250654v1)
 - [A Quantitative Benefit–Risk Analysis of ChAdOx1 nCoV-19 Vaccine among People under 60 in Italy](https://www.mdpi.com/2076-393X/9/6/618)
 - [Mask-Ematics: Modeling the Effects of Masks in COVID-19 Transmission in High-Risk Environments](https://www.mdpi.com/2673-3986/2/2/16/htm)
+- [Reopen Schools Safely: Simulating COVID-19 Transmission on Campus With a Contact Network Agent-based Model](https://www.researchsquare.com/article/rs-627505/v1)

@@ -158,3 +158,5 @@
 - [学术交流 | 疫情防控中测绘地理信息影响力分析](https://mp.weixin.qq.com/s/enAD3gyq1ZwtDLRJcbT7dw)
 - [城信论文分享 | 空间智能助力新冠疫情防控-涂伟](https://mp.weixin.qq.com/s/yIjriuoNIPJsl88QIPMQww)
 - [Optimizing Living Material Delivery During the COVID-19 Outbreak](https://ieeexplore.ieee.org/document/9380650)
+- [The US COVID Atlas: A dynamic cyberinfrastructure surveillance system for interactive exploration of the pandemic](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12786)
+- [又获央视表扬！京东智能城市用技术构筑全民免疫屏障](https://mp.weixin.qq.com/s/95PfScDo1jBAO6a-YEvS3g)
