@@ -364,3 +364,4 @@
 - [群岛沙龙：流行病中媒介的力量 | 活动报名](https://mp.weixin.qq.com/s/ZpvTN6XHm9cHF6xMPzRavg)
 - [冠状病毒国际前沿研究与创新论坛（第二轮会议通知）](https://mp.weixin.qq.com/s/fo-uR5CTVzmbG0ZDTLJJtg)
 - [Geo Health Hub论坛第二期](https://mp.weixin.qq.com/s/T35_gRDkYbnrJWMtNVWzTA)
+- [R语言培训班：传染病时空分析与预测预警建模技术](https://mp.weixin.qq.com/s/WI3xK-QISH92ouFGt0gqrA)

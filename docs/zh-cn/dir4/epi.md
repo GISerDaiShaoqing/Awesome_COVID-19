@@ -633,3 +633,7 @@
 - [A Pivotal Restructuring of Modeling the Control of COVID-19 as Massive Vaccination is in Progress](https://www.researchsquare.com/article/rs-145259/v1)
 - [Deep learning in the COVID-19 epidemic: A deep model for urban traffic revitalization index](https://www.sciencedirect.com/science/article/pii/S0169023X21000392)
 - [Association Between Caseload Surge and COVID-19 Survival in 558 U.S. Hospitals, March to August 2020](https://www.acpjournals.org/doi/10.7326/M21-1213)
+- [Cost Effective Proactive Testing Strategies During COVID-19 Mass Vaccination: A Modelling Study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878074)
+- [Patient-level and hospital-level variation and related time trends in COVID-19 case fatality rates during the first pandemic wave in England: multilevel modelling analysis of routine data](https://qualitysafety.bmj.com/content/early/2021/07/06/bmjqs-2021-012990)
+- [Transmission Dynamics of COVID-19 Pandemic Non-pharmaceutical Interventions and Vaccination](https://arxiv.org/abs/2107.02962)
+- [Role of efficient testing and contact tracing in mitigating the COVID-19 pandemic: a network modelling study](https://bmjopen.bmj.com/content/11/7/e045886)

@@ -707,3 +707,5 @@
 - [国际资讯 | 美华盛顿特区慢行街道实践/新冠肺炎加剧美国城市人口下降趋势(2021.7)](https://mp.weixin.qq.com/s/kXDK7GLIbPN7SpGm47oCRA)
 - [【学术动态】高密度是否加剧了新冠肺炎大流行？早期研究发现和给规划师的启示](https://mp.weixin.qq.com/s/PYK0P8peC8ovi9VpQ8T7-Q)
 - [Does density aggravate the COVID-19 pandemic](https://www.tandfonline.com/doi/full/10.1080/01944363.2020.1777891)
+- [发展研究丨新型冠状病毒肺炎疫情对测绘行业发展的影响分析](https://mp.weixin.qq.com/s/dXIYbBF1dYR5WUddZBSlng)
+- [国际资讯 | [美]修改后的《美国就业计划》引发讨论/新冠肺炎期间非裔美国人交通死亡人数增幅远超其他族裔(2021.7-2)](https://mp.weixin.qq.com/s/LkV258gb3rIEAQG2elhqtQ)

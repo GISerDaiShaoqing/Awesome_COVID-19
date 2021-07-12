@@ -1142,3 +1142,8 @@
 - [The Spike of Concern—The Novel Variants of SARS-CoV-2](https://www.mdpi.com/1999-4915/13/6/1002/htm)
 - [Molecular surveillance of the on-going SARS-COV-2 epidemic in Ribeirao Preto City, Brazil](https://doi.org/10.1016/j.meegid.2021.104976)
 - [Fusion Protein of Rotavirus VP6 and SARS-CoV-2 Receptor Binding Domain Induces T Cell Responses](https://www.mdpi.com/2076-393X/9/7/733)
+- [衰老和COVID-19的细胞和蛋白质组学分析 | 《自然-衰老》六月刊](https://mp.weixin.qq.com/s/d0aeMxqvQK-x2o1jkJlTvg)
+- [Nature | 花样病毒如此多娇](https://mp.weixin.qq.com/s/gXmYKbobWDYg4fy2AXT3Dg)
+- [Beyond coronavirus: the virus discoveries transforming biology](https://www.nature.com/articles/d41586-021-01749-7)
+- [The molecular basis for SARS-CoV-2 binding to dog ACE2](https://www-nature-com/articles/s41467-021-24326-y)
+- [Broad spectrum anti-coronavirus activity of a series of anti-malaria quinoline analogues](https://doi.org/10.1016/j.antiviral.2021.105127)

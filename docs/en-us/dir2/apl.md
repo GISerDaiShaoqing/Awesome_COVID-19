@@ -1873,3 +1873,8 @@
 - [24小时热门｜中国科研团队阐明新冠病毒又一关键结构，为开发广谱抗病毒药物提供基础](https://mp.weixin.qq.com/s/gzvEyiEmTYEP1O26MSpN-g)
 - [科兴疫苗土耳其试验显示83.5%保护率，3期临床数据在《柳叶刀》发表｜科研圈日报](https://mp.weixin.qq.com/s/4M2ko3N9qk25sJYJjHu2jA)
 - [24小时热门｜NEJM真实世界数据：病毒载量低40%，症状轻、好得快，新冠疫苗减轻感染影响](https://mp.weixin.qq.com/s/uYq9Wwo-EHSHESt3T3uktA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月9日）【中国科讯】](https://mp.weixin.qq.com/s/2UW3_Uky-GRgpLkrheFKng)
+- [7 月 11 日我国内地新增确诊病例 27 例，其中本土病例 9 例（均在云南）｜科研圈日报](https://mp.weixin.qq.com/s/ZIXXDc6wmoQPD3NQ-nyi7w)
+- [2万年前与冠状病毒的“战斗勋章”，至今可能还留在你的DNA里 | Cell Press一周论文精选](https://mp.weixin.qq.com/s/pA3i8SgwY5cjNICo5xsntQ)
+- [Nature一周论文导读｜2021年7月1日](https://mp.weixin.qq.com/s/ouPfOAhOhMqj_9rqwdQGpA)
+- [24小时热门｜棉布口罩防病毒，效果不输N95（附DIY攻略）](https://mp.weixin.qq.com/s/ryJVAXeT-xWTevA9gUgA6g)
