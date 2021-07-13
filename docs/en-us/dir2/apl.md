@@ -1878,3 +1878,6 @@
 - [2万年前与冠状病毒的“战斗勋章”，至今可能还留在你的DNA里 | Cell Press一周论文精选](https://mp.weixin.qq.com/s/pA3i8SgwY5cjNICo5xsntQ)
 - [Nature一周论文导读｜2021年7月1日](https://mp.weixin.qq.com/s/ouPfOAhOhMqj_9rqwdQGpA)
 - [24小时热门｜棉布口罩防病毒，效果不输N95（附DIY攻略）](https://mp.weixin.qq.com/s/ryJVAXeT-xWTevA9gUgA6g)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月12日）【中国科讯】](https://mp.weixin.qq.com/s/r_MDfr1IMhFOWdlrmN2LgQ)
+- [24小时热门｜《自然》：基于近5万新冠患者数据分析，这些遗传因素可能让新冠更严重](https://mp.weixin.qq.com/s/ihWOm0VueRnYGFHcfPm-yA)
+- [中国国药和科兴疫苗进入新冠肺炎疫苗实施计划（COVAX）疫苗库 | 科研圈日报](https://mp.weixin.qq.com/s/xzlwR1xZMpA8CJjjStmyMw)

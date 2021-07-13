@@ -1646,3 +1646,6 @@
 - [COVID患者失去嗅觉是否意味着病毒已经感染了他们的大脑？| Acta Neuropathologica](https://mp.weixin.qq.com/s/QVyLrUcRITcq1M1nO12b_w)
 - [The olfactory nerve is not a likely route to brain infection in COVID-19: a critical review of data from humans and animal models](https://link.springer.com/article/10.1007/s00401-021-02314-2)
 - [The SARS-CoV-2 mRNA vaccine breakthrough infection phenotype includes significant symptoms, live virus shedding, and viral genetic diversit](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab543/6297424)
+- [国药和科兴成COVAX供应商；国产治疗新冠药物巴西临床；诺诚健华签9.4亿美元license out](https://mp.weixin.qq.com/s/51uPHKlUJe4IOGUF0f3LHg)
+- [Nature：阿斯利康腺病毒新冠疫苗为何会导致血栓？](https://mp.weixin.qq.com/s/-goXy4rzfvSeh7p_0ugYpw)
+- [Antibody epitopes in vaccine-induced immune thrombotic thrombocytopenia](https://www.nature.com/articles/s41586-021-03744-4)

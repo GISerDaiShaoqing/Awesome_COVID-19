@@ -637,3 +637,7 @@
 - [Patient-level and hospital-level variation and related time trends in COVID-19 case fatality rates during the first pandemic wave in England: multilevel modelling analysis of routine data](https://qualitysafety.bmj.com/content/early/2021/07/06/bmjqs-2021-012990)
 - [Transmission Dynamics of COVID-19 Pandemic Non-pharmaceutical Interventions and Vaccination](https://arxiv.org/abs/2107.02962)
 - [Role of efficient testing and contact tracing in mitigating the COVID-19 pandemic: a network modelling study](https://bmjopen.bmj.com/content/11/7/e045886)
+- [一场全员打过疫苗的户外婚礼，竟成了新冠变种传播的温床](https://mp.weixin.qq.com/s/qkyWWkHn5DvGnAZeuB9q8A)
+- [Transmission event of SARS-CoV-2 Delta variant reveals multiple vaccine breakthrough infections](https://doi.org/10.1101/2021.06.28.21258780)
+- [Research Article Mobile Phone-Based Population Flow Data for the COVID-19 Outbreak in Mainland China](https://spj.sciencemag.org/journals/hds/2021/9796431/)
+- [Reinfection and low cross-immunity as drivers of epidemic resurgence under high seroprevalence: a model-based approach with application to Amazonas, Brazil](https://arxiv.org/abs/2106.15928)

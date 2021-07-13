@@ -119,5 +119,6 @@
 - [后疫情时代︱点评网站Yelp数据表明, 疫情带来的无车街道激活了当地商业](https://mp.weixin.qq.com/s/02eQLX8k88fEWhyG-e7gYg)
 - [后疫情时代 | CBD不会死，也不需要皇冠，而是通往新生的“分布式”开放道路（两则）](https://mp.weixin.qq.com/s/ljcJ9IphUswl9mi_7zlIfg)
 - [后疫情时代｜风云变幻：宜居城市的迷失与重构，经济学人公布2021年全球宜居城市排名](https://mp.weixin.qq.com/s/K9OREMuQ8USKr9spNJPx1g)
+- [后疫情时代｜设计师说医院的窗外要有光，疫情之后如何设计一座医院](https://mp.weixin.qq.com/s/NWtpl4lE53HnSLqstQluJQ)
 
 ![](/img/SCM.jpg)

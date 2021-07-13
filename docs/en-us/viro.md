@@ -1147,3 +1147,6 @@
 - [Beyond coronavirus: the virus discoveries transforming biology](https://www.nature.com/articles/d41586-021-01749-7)
 - [The molecular basis for SARS-CoV-2 binding to dog ACE2](https://www-nature-com/articles/s41467-021-24326-y)
 - [Broad spectrum anti-coronavirus activity of a series of anti-malaria quinoline analogues](https://doi.org/10.1016/j.antiviral.2021.105127)
+- [Cell重磅：新冠病毒跨物种传播的关键突变被发现](https://mp.weixin.qq.com/s/G2uPyvXIcdhy2E6AoPzwig)
+- [A selective sweep in the Spike gene has driven SARS-CoV-2 human adaptatio](https://www.cell.com/cell/fulltext/S0092-8674(21)00833-3#relatedArticles)
+- [An outbreak caused by the SARS-CoV-2 Delta (B.1.617.2) variant in a care home after partial vaccination with a single dose of the COVID-19 vaccine Vaxzevria, London, England, April 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.27.2100626)
