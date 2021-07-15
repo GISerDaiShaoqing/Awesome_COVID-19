@@ -1649,3 +1649,6 @@
 - [国药和科兴成COVAX供应商；国产治疗新冠药物巴西临床；诺诚健华签9.4亿美元license out](https://mp.weixin.qq.com/s/51uPHKlUJe4IOGUF0f3LHg)
 - [Nature：阿斯利康腺病毒新冠疫苗为何会导致血栓？](https://mp.weixin.qq.com/s/-goXy4rzfvSeh7p_0ugYpw)
 - [Antibody epitopes in vaccine-induced immune thrombotic thrombocytopenia](https://www.nature.com/articles/s41586-021-03744-4)
+- [新冠变种流行之下，需要接种第三针疫苗吗？](https://mp.weixin.qq.com/s/cK2eyKRAg8RmgsSma7hgwg)
+- [张林琦/周东明/彭小忠/陈志伟合作研发新型冠状病毒疫苗](https://mp.weixin.qq.com/s/WTmbYv03e63B9JzD4i6g1Q)
+- [Single-Dose Immunization With a Chimpanzee Adenovirus-Based Vaccine Induces Sustained and Protective Immunity Against SARS-CoV-2 Infection](https://www.frontiersin.org/articles/10.3389/fimmu.2021.697074/full)

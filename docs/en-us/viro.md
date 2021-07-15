@@ -1150,3 +1150,5 @@
 - [Cell重磅：新冠病毒跨物种传播的关键突变被发现](https://mp.weixin.qq.com/s/G2uPyvXIcdhy2E6AoPzwig)
 - [A selective sweep in the Spike gene has driven SARS-CoV-2 human adaptatio](https://www.cell.com/cell/fulltext/S0092-8674(21)00833-3#relatedArticles)
 - [An outbreak caused by the SARS-CoV-2 Delta (B.1.617.2) variant in a care home after partial vaccination with a single dose of the COVID-19 vaccine Vaxzevria, London, England, April 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.27.2100626)
+- [Science：重大进展！哺乳动物干细胞可利用抗病毒Dicer抵御多种RNA病毒入侵](https://mp.weixin.qq.com/s/v38Ge4UyiEYyFBOoaT555A)
+- [An isoform of Dicer protects mammalian stem cells against multiple RNA viruses](https://science.sciencemag.org/content/373/6551/231.full)

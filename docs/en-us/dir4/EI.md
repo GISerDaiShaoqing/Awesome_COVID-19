@@ -266,3 +266,4 @@
 - [Trust in government, intention to vaccinate and COVID-19 vaccine hesitancy: A comparative survey of five large cities in the United States, United Kingdom, and Australia](ttps://doi.org/10.1016/j.vaccine.2021.06.048)
 - [Does city lockdown prevent the spread of COVID-19? New evidence from the synthetic control method](https://ghrp.biomedcentral.com/articles/10.1186/s41256-021-00204-4)
 - [The relationship between time to a high COVID-19 response level and timing of peak daily incidence: an analysis of governments' Stringency Index from 148 countries](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00880-x)
+- [A public survey of traditional, complementary and integrative medicine use during the COVID-19 outbreak in Hong Kong](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253890)
