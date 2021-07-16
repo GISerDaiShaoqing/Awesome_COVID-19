@@ -1882,3 +1882,5 @@
 - [24小时热门｜《自然》：基于近5万新冠患者数据分析，这些遗传因素可能让新冠更严重](https://mp.weixin.qq.com/s/ihWOm0VueRnYGFHcfPm-yA)
 - [中国国药和科兴疫苗进入新冠肺炎疫苗实施计划（COVAX）疫苗库 | 科研圈日报](https://mp.weixin.qq.com/s/xzlwR1xZMpA8CJjjStmyMw)
 - [7 月 13 日我国内地新增确诊病例 24 例，其中本土病例 1 例（在云南） | 科研圈日报](https://mp.weixin.qq.com/s/x684UWGuJUE54GimUV1O-w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月14日）【中国科讯】](https://mp.weixin.qq.com/s/BifzpFoLrYHyC1_Pynp-kQ)
+- [7 月 14 日我国内地新增确诊病例 28 例，其中本土病例 5 例（均在云南）｜科研圈日报](https://mp.weixin.qq.com/s/arM1JXbkguooPEiBzHBK-A)

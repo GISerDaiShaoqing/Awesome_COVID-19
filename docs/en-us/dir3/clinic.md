@@ -1652,3 +1652,7 @@
 - [新冠变种流行之下，需要接种第三针疫苗吗？](https://mp.weixin.qq.com/s/cK2eyKRAg8RmgsSma7hgwg)
 - [张林琦/周东明/彭小忠/陈志伟合作研发新型冠状病毒疫苗](https://mp.weixin.qq.com/s/WTmbYv03e63B9JzD4i6g1Q)
 - [Single-Dose Immunization With a Chimpanzee Adenovirus-Based Vaccine Induces Sustained and Protective Immunity Against SARS-CoV-2 Infection](https://www.frontiersin.org/articles/10.3389/fimmu.2021.697074/full)
+- [国内首款mRNA疫苗即将获批：复星医药「复必泰」已完成专家审评](https://mp.weixin.qq.com/s/OBajK1nmlkrlMcHcgkiMbw)
+- [社论：来势汹汹的德尔塔病毒，现在的疫苗还管用吗？多方数据告诉你，要不要再打一针](https://mp.weixin.qq.com/s/s9_9ByHiwy63ge5ivhHVgQ)
+- [mRNA疫苗作为新冠加强针？NEJM论文有重要提示](https://mp.weixin.qq.com/s/j-EipDtEIkAKU4W2KaNi6g)
+- [Heterologous ChAdOx1 nCoV-19 and mRNA-1273 vaccination](https://www.nejm.org/doi/full/10.1056/NEJMc2110716)

@@ -105,3 +105,4 @@
 - [精选| 2021年4月R新包推荐(第53期）](https://mp.weixin.qq.com/s/W0FthOdkoIragCnT-ZxqiQ)
 - [Code for the COVID-19 wider impacts on the health care system publication](https://github.com/Public-Health-Scotland/covid-wider-impacts)
 - [精选| 2021年5月R新包推荐(第54期）](https://mp.weixin.qq.com/s/LWNx-UiMGGWvCQ1kw8sKFQ)
+- [EpiNow2: Estimate real-time case counts and time-varying epidemiological parameters](https://github.com/epiforecasts/EpiNow2)
