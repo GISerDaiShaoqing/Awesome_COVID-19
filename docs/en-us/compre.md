@@ -2218,3 +2218,4 @@
 - [Exploring spatiotemporal effects of the driving factors on COVID-19 incidences in the contiguous United States](https://doi.org/10.1016/j.scs.2021.102784)
 - [Outdoor PM2.5 Concentration and Rate of Change in COVID-19 Infection in Provincial Capital Cities in China](https://www.medrxiv.org/content/10.1101/2020.05.19.20106484v3)
 - [COVID-19, school closure, city Lockdown, and infection control](https://www.mjdrdypv.org/preprintarticle.asp?id=320705)
+- [The 2020 COVID-19 pandemic and atmospheric composition: back to the future](https://www.essoar.org/doi/10.1002/essoar.10506081.2)

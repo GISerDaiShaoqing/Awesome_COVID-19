@@ -252,3 +252,4 @@
 - [Infographic: Low Renewable Costs Allow To Power Past Coal](https://www.irena.org/newsroom/articles/2021/Jun/Low-Renewable-Costs-Allow-To-Power-Past-Coal)
 - [【数据】《经济学人》编制工作生活“正常指数”：全球已经恢复到疫情前的66%](https://mp.weixin.qq.com/s/tx4MGgDA7_z5MJxdsIilhQ)
 - [tracking the return to normalcy after covid-19](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19)
+- [Global COVID-19 Data](https://github.com/PsyberAttack/COVID-Data)

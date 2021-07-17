@@ -1656,3 +1656,5 @@
 - [社论：来势汹汹的德尔塔病毒，现在的疫苗还管用吗？多方数据告诉你，要不要再打一针](https://mp.weixin.qq.com/s/s9_9ByHiwy63ge5ivhHVgQ)
 - [mRNA疫苗作为新冠加强针？NEJM论文有重要提示](https://mp.weixin.qq.com/s/j-EipDtEIkAKU4W2KaNi6g)
 - [Heterologous ChAdOx1 nCoV-19 and mRNA-1273 vaccination](https://www.nejm.org/doi/full/10.1056/NEJMc2110716)
+- [张林琦/张政/王新泉/陈志伟/王佑春合作阐明不同新冠患者体内产生的公共抗体及受病毒突变的影响](https://mp.weixin.qq.com/s/vANWEKDDoWSlSB7qIJUXlw)
+- [Potent and protective IGHV3-53/3-66 public antibodies and their shared escape mutant on the spike of SARS-CoV-2](https://www.nature.com/articles/s41467-021-24514-w)

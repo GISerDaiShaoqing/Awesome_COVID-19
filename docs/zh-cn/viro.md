@@ -1152,3 +1152,7 @@
 - [An outbreak caused by the SARS-CoV-2 Delta (B.1.617.2) variant in a care home after partial vaccination with a single dose of the COVID-19 vaccine Vaxzevria, London, England, April 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.27.2100626)
 - [Science：重大进展！哺乳动物干细胞可利用抗病毒Dicer抵御多种RNA病毒入侵](https://mp.weixin.qq.com/s/v38Ge4UyiEYyFBOoaT555A)
 - [An isoform of Dicer protects mammalian stem cells against multiple RNA viruses](https://science.sciencemag.org/content/373/6551/231.full)
+- [重磅！关于新冠起源，20余位中国科学家郑重发声！](https://mp.weixin.qq.com/s/q1wg5S8I61Eo3ZV8KhT7Mw)
+- [On the origin of SARS-CoV-2—The blind watchmaker argument](https://link.springer.com/content/pdf/10.1007/s11427-021-1972-1.pdf)
+- [清华大学张林琦团队揭示新冠病毒中和逃逸机制 | CellPress对话科学家](https://mp.weixin.qq.com/s/7w8kU_hvmkCwLq4avbyUJg)
+- [Analysis of SARS-CoV-2 variant mutations reveals neutralization escape mechanisms and the ability to use ACE2 receptors from additional species](https://www.cell.com/immunity/fulltext/S1074-7613(21)00247-8)
