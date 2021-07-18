@@ -254,3 +254,4 @@
 - [印度日增30万？吓得我赶紧画个图来看看！](https://mp.weixin.qq.com/s/4j4cMIyg9SvA2Qtnw5j4Dg)
 - [【图说】《经济学人》：新冠疫情到底在全球导致了多少死亡病例？](https://mp.weixin.qq.com/s/j4ROBpHXg1jz6Fb_QVMwyw)
 - [There have been 7m-13m excess deaths worldwide during the pandemic](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)
+- [Mapping COVID-19 in Space and Time](https://doi.org/10.1007/978-3-030-72808-3)

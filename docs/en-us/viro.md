@@ -1156,3 +1156,5 @@
 - [On the origin of SARS-CoV-2—The blind watchmaker argument](https://link.springer.com/content/pdf/10.1007/s11427-021-1972-1.pdf)
 - [清华大学张林琦团队揭示新冠病毒中和逃逸机制 | CellPress对话科学家](https://mp.weixin.qq.com/s/7w8kU_hvmkCwLq4avbyUJg)
 - [Analysis of SARS-CoV-2 variant mutations reveals neutralization escape mechanisms and the ability to use ACE2 receptors from additional species](https://www.cell.com/immunity/fulltext/S1074-7613(21)00247-8)
+- [昆士兰大学郭建华团队ES&T Letters：新型多重扩增子测序法实现污水中SARS-CoV-2 RNA的精确定量和病毒溯源](https://mp.weixin.qq.com/s/5GYWx50PJaMWUJnxVakMKw)
+- [Novel Multiplexed Amplicon-Based Sequencing to Quantify SARS-CoV-2 RNA from Wastewater](https://pubs.acs.org/doi/10.1021/acs.estlett.1c00408)

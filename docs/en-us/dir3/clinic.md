@@ -1658,3 +1658,4 @@
 - [Heterologous ChAdOx1 nCoV-19 and mRNA-1273 vaccination](https://www.nejm.org/doi/full/10.1056/NEJMc2110716)
 - [张林琦/张政/王新泉/陈志伟/王佑春合作阐明不同新冠患者体内产生的公共抗体及受病毒突变的影响](https://mp.weixin.qq.com/s/vANWEKDDoWSlSB7qIJUXlw)
 - [Potent and protective IGHV3-53/3-66 public antibodies and their shared escape mutant on the spike of SARS-CoV-2](https://www.nature.com/articles/s41467-021-24514-w)
+- [官宣！中国疫苗又传来好消息](https://mp.weixin.qq.com/s/1GEFMPL16WtoqIuR10BwXQ)

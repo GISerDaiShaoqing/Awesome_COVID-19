@@ -17,3 +17,6 @@
 - [武汉卫健委，湖北每日疫情](http://wjw.wuhan.gov.cn/front/web/list3rd/no/802)
 - [关于国家卫健委新冠肺炎疫情防控海外华人华侨互联网咨询服务平台的情况介绍](https://mp.weixin.qq.com/s/xmnCwyOmX2-jMItcIgYCUA)
 - [新冠肺炎疫情防控海外华人华侨互联网咨询服务平台](https://covid19consulting.alliancebrh.com/)
+- [中国抗疫的底气从哪来？到这些科技资源共享服务平台找答案](https://mp.weixin.qq.com/s/b5Noe6c0CDVUmS8v6Mf-4A)
+- [疫情防控科研攻关项目实验细胞资源推介](https://mp.weixin.qq.com/s/mbTAgUNUuVtd6HMIzU3ttw)
+- [新型冠状病毒肺炎科技资源服务专题](https://mp.weixin.qq.com/s/GZr4pVuDxdYumzX_3wtNZg)

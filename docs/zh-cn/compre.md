@@ -2219,3 +2219,5 @@
 - [Outdoor PM2.5 Concentration and Rate of Change in COVID-19 Infection in Provincial Capital Cities in China](https://www.medrxiv.org/content/10.1101/2020.05.19.20106484v3)
 - [COVID-19, school closure, city Lockdown, and infection control](https://www.mjdrdypv.org/preprintarticle.asp?id=320705)
 - [The 2020 COVID-19 pandemic and atmospheric composition: back to the future](https://www.essoar.org/doi/10.1002/essoar.10506081.2)
+- [放弃抵抗！英国“解封日”让研究人员深感惶恐](https://mp.weixin.qq.com/s/poQW6vJ_7BpgyIqNX-jlxQ)
+- [Why England’s COVID ‘freedom day’ alarms researchers](https://www.nature.com/articles/d41586-021-01938-4)

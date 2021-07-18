@@ -8315,3 +8315,6 @@
 - [世卫警告全球预计将会出现更危险的新变种病毒](https://mp.weixin.qq.com/s/pzOfEDTONJwipr08cR8yOw)
 - [荷兰度假公园不担心荷兰“染红”](https://mp.weixin.qq.com/s/ozIjmYW_3l6YPgfc_8H35w)
 - [荷兰感染住院数字和传染指数又升了，会出现英国政府专家担心的状况吗？](https://mp.weixin.qq.com/s/-9pTVSnZVy8AxIqren_UwA)
+- [闽政通为什么查不到新冠疫苗接种信息？权威回答来了！](https://mp.weixin.qq.com/s/wFxnCyyifhj6MtfzHKMvYg)
+- [不接种新冠疫苗不能出行？国家卫健委回应](https://mp.weixin.qq.com/s/fDtZsPMP5e3OqeN-u009wg)
+- [11134|在工作场所感染雇主要负责吗？荷兰多场所重提口罩义务！](https://mp.weixin.qq.com/s/ib05KKptZaFmqE8UJVAHrg)

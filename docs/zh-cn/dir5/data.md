@@ -253,3 +253,5 @@
 - [【数据】《经济学人》编制工作生活“正常指数”：全球已经恢复到疫情前的66%](https://mp.weixin.qq.com/s/tx4MGgDA7_z5MJxdsIilhQ)
 - [tracking the return to normalcy after covid-19](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19)
 - [Global COVID-19 Data](https://github.com/PsyberAttack/COVID-Data)
+- [【数据】疫情下线上购物大增，亚马逊公司碳排放反弹19%](https://mp.weixin.qq.com/s/8mmjYOmnEuYcXdL3t6p22w)
+- [Further and Faster, Together](https://sustainability.aboutamazon.com/pdfBuilderDownload?name=amazon-sustainability-2020-report)
