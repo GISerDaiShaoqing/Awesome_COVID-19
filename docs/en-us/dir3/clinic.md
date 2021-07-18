@@ -1659,3 +1659,8 @@
 - [张林琦/张政/王新泉/陈志伟/王佑春合作阐明不同新冠患者体内产生的公共抗体及受病毒突变的影响](https://mp.weixin.qq.com/s/vANWEKDDoWSlSB7qIJUXlw)
 - [Potent and protective IGHV3-53/3-66 public antibodies and their shared escape mutant on the spike of SARS-CoV-2](https://www.nature.com/articles/s41467-021-24514-w)
 - [官宣！中国疫苗又传来好消息](https://mp.weixin.qq.com/s/1GEFMPL16WtoqIuR10BwXQ)
+- [腺病毒载体疫苗引发血栓原因有新解](https://mp.weixin.qq.com/s/hlKG74pjhLLsBYW7NkQ6Ew)
+- [丰胸针？多名女性称接种疫苗胸部变大，专家：11%的人有类似情况](https://mp.weixin.qq.com/s/Ird4J2oeS8XpEAGw15SZPQ)
+- [STTT | 重大进展！朱凤才团队揭示重组新冠疫苗在 18 岁或以上健康人群中的安全性和免疫原性的结果：安全可靠](https://mp.weixin.qq.com/s/IEQvd1G9jIFVYrcTwvuYDQ)
+- [Safety and immunogenicity of a recombinant COVID-19 vaccine (Sf9 cells) in healthy population aged 18 years or older: two single-center, randomised, double-blind, placebo-controlled, phase 1 and phase 2 trials](https://www.nature.com/articles/s41392-021-00692-3)
+- [Immune responses against SARS-CoV-2 variants after heterologous and homologous ChAdOx1 nCoV-19/BNT162b2 vaccination](https://www.nature.com/articles/s41591-021-01449-9)

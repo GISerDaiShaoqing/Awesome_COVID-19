@@ -268,3 +268,5 @@
 - [The relationship between time to a high COVID-19 response level and timing of peak daily incidence: an analysis of governments' Stringency Index from 148 countries](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00880-x)
 - [A public survey of traditional, complementary and integrative medicine use during the COVID-19 outbreak in Hong Kong](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253890)
 - [The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China: a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30073-6/fulltext)
+- [The impact of social distancing, contact tracing, and case isolation interventions to suppress the COVID-19 epidemic: A modeling study](https://www.sciencedirect.com/science/article/pii/S1755436521000360)
+- [Modeling the population effects of escape mutations in SARS-CoV-2 to guide vaccination strategies](https://www.sciencedirect.com/science/article/pii/S1755436521000372)

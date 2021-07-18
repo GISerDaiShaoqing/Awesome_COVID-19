@@ -1158,3 +1158,6 @@
 - [Analysis of SARS-CoV-2 variant mutations reveals neutralization escape mechanisms and the ability to use ACE2 receptors from additional species](https://www.cell.com/immunity/fulltext/S1074-7613(21)00247-8)
 - [昆士兰大学郭建华团队ES&T Letters：新型多重扩增子测序法实现污水中SARS-CoV-2 RNA的精确定量和病毒溯源](https://mp.weixin.qq.com/s/5GYWx50PJaMWUJnxVakMKw)
 - [Novel Multiplexed Amplicon-Based Sequencing to Quantify SARS-CoV-2 RNA from Wastewater](https://pubs.acs.org/doi/10.1021/acs.estlett.1c00408)
+- [没完了！变异新冠病毒开始杂交，不同种类一起进攻，在人体内混合](https://mp.weixin.qq.com/s/z0NL1qm8oem1CxMbdgaydw)
+- [Science子刊：打新冠疫苗后保护率怎样？这个灵敏度为96.7%的新方法能监测](https://mp.weixin.qq.com/s/IB_Wic0EslaWYlNN2PjQyg)
+- [A high-throughput cell- and virus-free assay shows reduced neutralization of SARS-CoV-2 variants by COVID-19 convalescent plasma](https://doi.org/10.1126/scitranslmed.abi8452)

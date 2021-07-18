@@ -641,3 +641,4 @@
 - [Transmission event of SARS-CoV-2 Delta variant reveals multiple vaccine breakthrough infections](https://doi.org/10.1101/2021.06.28.21258780)
 - [Research Article Mobile Phone-Based Population Flow Data for the COVID-19 Outbreak in Mainland China](https://spj.sciencemag.org/journals/hds/2021/9796431/)
 - [Reinfection and low cross-immunity as drivers of epidemic resurgence under high seroprevalence: a model-based approach with application to Amazonas, Brazil](https://arxiv.org/abs/2106.15928)
+- [The limits of SARS-CoV-2 predictability](https://www.nature.com/articles/s41559-021-01514-z)

@@ -1887,3 +1887,4 @@
 - [科学家发现超级抗体，可中和多种冠状病毒 | 科研圈日报](https://mp.weixin.qq.com/s/WbBrEiwg78R9X9iZfY75-w)
 - [24小时热门｜《科学》发现“僵尸细胞”会加重新冠病情，难怪老年人的死亡率更高](https://mp.weixin.qq.com/s/N9ucNikZ8VNmtCoLfFzt1Q)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月16日）【中国科讯】](https://mp.weixin.qq.com/s/WVZ_LiMMT3njs_rPjrIJ_g)
+- [国内首款mRNA疫苗即将获批，超级抗体可中和多种冠状病毒 | 新冠研究一周进展](https://mp.weixin.qq.com/s/c93lDSnH4wh6UmyRx9usKg)
