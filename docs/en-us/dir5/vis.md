@@ -255,3 +255,4 @@
 - [【图说】《经济学人》：新冠疫情到底在全球导致了多少死亡病例？](https://mp.weixin.qq.com/s/j4ROBpHXg1jz6Fb_QVMwyw)
 - [There have been 7m-13m excess deaths worldwide during the pandemic](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)
 - [Mapping COVID-19 in Space and Time](https://doi.org/10.1007/978-3-030-72808-3)
+- [运动员来了！东京奥运会这样防疫](https://mp.weixin.qq.com/s/1fAmE-Gvl46CqWEy810QAA)

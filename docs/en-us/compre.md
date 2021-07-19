@@ -2227,3 +2227,4 @@
 - [Spatial association of mobility and COVID-19 infection rate in the USA: A county-level study using mobile phone location data](https://www.sciencedirect.com/science/article/pii/S2214140521001651)
 - [A novel geo-hierarchical population mobility model for spatial spreading of resurgent epidemics](https://www.nature.com/articles/s41598-021-93810-8)
 - [Effectiveness of mRNA-BNT162b2, mRNA-1273, and ChAdOx1 nCoV-19 vaccines against COVID-19 in health care workers: an observational study using surveillance data](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00379-7/fulltext)
+- [Machine Learning on the COVID-19 Pandemic, Human Mobility and Air Quality: A Review](https://ieeexplore.ieee.org/document/9427494)

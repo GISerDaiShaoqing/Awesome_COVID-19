@@ -1664,3 +1664,5 @@
 - [STTT | 重大进展！朱凤才团队揭示重组新冠疫苗在 18 岁或以上健康人群中的安全性和免疫原性的结果：安全可靠](https://mp.weixin.qq.com/s/IEQvd1G9jIFVYrcTwvuYDQ)
 - [Safety and immunogenicity of a recombinant COVID-19 vaccine (Sf9 cells) in healthy population aged 18 years or older: two single-center, randomised, double-blind, placebo-controlled, phase 1 and phase 2 trials](https://www.nature.com/articles/s41392-021-00692-3)
 - [Immune responses against SARS-CoV-2 variants after heterologous and homologous ChAdOx1 nCoV-19/BNT162b2 vaccination](https://www.nature.com/articles/s41591-021-01449-9)
+- [科研资讯 | 张林琦/周东明/彭小忠/陈志伟合作研发新型冠状病毒疫苗](https://mp.weixin.qq.com/s/26QOOcisi2pK8rfKf7esXA)
+- [Single-Dose Immunization With a Chimpanzee Adenovirus-Based Vaccine Induces Sustained and Protective Immunity Against SARS-CoV-2 Infection](https://www.frontiersin.org/articles/10.3389/fimmu.2021.697074/full)

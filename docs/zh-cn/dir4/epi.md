@@ -642,3 +642,4 @@
 - [Research Article Mobile Phone-Based Population Flow Data for the COVID-19 Outbreak in Mainland China](https://spj.sciencemag.org/journals/hds/2021/9796431/)
 - [Reinfection and low cross-immunity as drivers of epidemic resurgence under high seroprevalence: a model-based approach with application to Amazonas, Brazil](https://arxiv.org/abs/2106.15928)
 - [The limits of SARS-CoV-2 predictability](https://www.nature.com/articles/s41559-021-01514-z)
+- [Risk factors, symptom reporting, healthcare-seeking behaviour and adherence to public health guidance: protocol for Virus Watch, a prospective community cohort study](https://bmjopen.bmj.com/content/11/6/e048042)

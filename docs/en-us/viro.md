@@ -1161,3 +1161,4 @@
 - [没完了！变异新冠病毒开始杂交，不同种类一起进攻，在人体内混合](https://mp.weixin.qq.com/s/z0NL1qm8oem1CxMbdgaydw)
 - [Science子刊：打新冠疫苗后保护率怎样？这个灵敏度为96.7%的新方法能监测](https://mp.weixin.qq.com/s/IB_Wic0EslaWYlNN2PjQyg)
 - [A high-throughput cell- and virus-free assay shows reduced neutralization of SARS-CoV-2 variants by COVID-19 convalescent plasma](https://doi.org/10.1126/scitranslmed.abi8452)
+- [清华大学李丕龙课题组开发基于相变的互作筛选新技术并揭示新型冠状病毒高阶蛋白复合物的组成](https://mp.weixin.qq.com/s/bhT9eJRk7DkKKh2n0vxNuw)
