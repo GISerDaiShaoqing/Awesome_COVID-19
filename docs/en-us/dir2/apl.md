@@ -1894,3 +1894,6 @@
 - [人体是如何对抗病毒的？](https://mp.weixin.qq.com/s/2z4TTdF0UV95h41zLC3LIA)
 - [Science一周论文导读｜2021年7月9日](https://mp.weixin.qq.com/s/cjgNTmAm6k31Z9_1cazqPw)
 - [Nature一周论文导读｜2021年7月8日](https://mp.weixin.qq.com/s/3nXQGfv2KIXc4xaeVgxDQw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月19日）【中国科讯】](https://mp.weixin.qq.com/s/yoocbhKbC4mfyGO7ukj5Lg)
+- [雄鼠怀孕 | 对付变异株的“超级抗体” | 请以我的名字呼唤我 | 自然每周简报](https://mp.weixin.qq.com/s/ds4B-1J4D02YPBZ-ldvKpw)
+- [“长期新冠”症状可达 200 多种，涵盖人体 10 个器官系统 | 科研圈日报](https://mp.weixin.qq.com/s/3NsP3IZSzYvaYUmp4JRScw)

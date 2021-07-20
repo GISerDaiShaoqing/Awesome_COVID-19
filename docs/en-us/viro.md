@@ -1162,3 +1162,6 @@
 - [Science子刊：打新冠疫苗后保护率怎样？这个灵敏度为96.7%的新方法能监测](https://mp.weixin.qq.com/s/IB_Wic0EslaWYlNN2PjQyg)
 - [A high-throughput cell- and virus-free assay shows reduced neutralization of SARS-CoV-2 variants by COVID-19 convalescent plasma](https://doi.org/10.1126/scitranslmed.abi8452)
 - [清华大学李丕龙课题组开发基于相变的互作筛选新技术并揭示新型冠状病毒高阶蛋白复合物的组成](https://mp.weixin.qq.com/s/bhT9eJRk7DkKKh2n0vxNuw)
+- [《Nature Medicine》“组合体”显示SARS-CoV-2如何感染脑细胞](https://mp.weixin.qq.com/s/BUqkEFvdtGL7ZQsRtOmSPA)
+- [A human three-dimensional neural-perivascular ‘assembloid’ promotes astrocytic development and enables modeling of SARS-CoV-2 neuropathology](https://www.nature.com/articles/s41591-021-01443-1)
+- [Serum Neutralizing Activity against B.1.1.7, B.1.351, and P.1 SARS-CoV-2 Variants of Concern in Hospitalized COVID-19 Patients](https://www.mdpi.com/1999-4915/13/7/1347)

@@ -643,3 +643,6 @@
 - [Reinfection and low cross-immunity as drivers of epidemic resurgence under high seroprevalence: a model-based approach with application to Amazonas, Brazil](https://arxiv.org/abs/2106.15928)
 - [The limits of SARS-CoV-2 predictability](https://www.nature.com/articles/s41559-021-01514-z)
 - [Risk factors, symptom reporting, healthcare-seeking behaviour and adherence to public health guidance: protocol for Virus Watch, a prospective community cohort study](https://bmjopen.bmj.com/content/11/6/e048042)
+- [Spatial distribution of COVID-19 cases, epidemic spread rate, spatial pattern, and its correlation with meteorological factors during the first to the second waves](https://doi.org/10.1016/j.jiph.2021.07.010)
+- [Understanding and predicting the spatio‐temporal spread of COVID‐19 via integrating diffusive graph embedding and compartmental models](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.12803)
+- [Estimating global and regional disruptions to routine childhood vaccine coverage during the COVID-19 pandemic in 2020: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01337-4/fulltext)
