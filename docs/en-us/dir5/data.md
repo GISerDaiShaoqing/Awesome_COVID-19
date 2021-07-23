@@ -255,3 +255,4 @@
 - [Global COVID-19 Data](https://github.com/PsyberAttack/COVID-Data)
 - [【数据】疫情下线上购物大增，亚马逊公司碳排放反弹19%](https://mp.weixin.qq.com/s/8mmjYOmnEuYcXdL3t6p22w)
 - [Further and Faster, Together](https://sustainability.aboutamazon.com/pdfBuilderDownload?name=amazon-sustainability-2020-report)
+- [新冠疫情快速响应：数据、工具与应用](https://mp.weixin.qq.com/s/PM7BRTuzc6uG-yI_qOjGCA)

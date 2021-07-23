@@ -2234,3 +2234,4 @@
 - [PM2. 5 and PM10 during COVID-19 lockdown in Kuwait: Mixed effect of dust and meteorological covariates](https://doi.org/10.1016/j.envc.2021.100215)
 - [Risk factors for SARS-CoV-2 seroprevalence following the first pandemic wave in UK healthcare workers in a large NHS Foundation Trust](https://www.medrxiv.org/content/10.1101/2021.07.07.21260151v1)
 - [COVID-19 vaccine acceptance and hesitancy in low- and middle-income countries](https://www.nature.com/articles/s41591-021-01454-y)
+- [CoMix: Changes in social contacts as measured by the contact survey during the COVID-19 pandemic in England between March 2020 and March 2021](https://www.medrxiv.org/content/10.1101/2021.05.28.21257973v1)
