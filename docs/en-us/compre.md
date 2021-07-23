@@ -2239,3 +2239,6 @@
 - [The high mental health burden of “Long COVID” and its association with on-going physical and respiratory symptoms in all adults discharged from hospital](https://erj.ersjournals.com/content/57/6/2004364?ctkey=wechat)
 - [Sandstorm and its effect on particulate matter PM 2.5, carbon monoxide, nitrogen dioxide, ozone pollutants and SARS-CoV-2 cases and deaths](https://doi.org/10.1016/j.scitotenv.2021.148764)
 - [SnapShot: SARS-CoV-2 antibodies](https://doi.org/10.1016/j.chom.2021.06.005)
+- [在武汉抗疫一线立下“赫赫战功”！同济大学水安全“特种兵”到底牛在哪……](https://mp.weixin.qq.com/s/MYuM7Crnqf3uU39SW_4f4w)
+- [肥胖是否增加了COVID-19患者的不良预后风险 | Springer Nature Journal](https://mp.weixin.qq.com/s/FwgmWFaSt20E191tWS7Qhg)
+- [Sex-specific impact of severe obesity in the outcomes of hospitalized patients with COVID-19: a large retrospective study from the Bronx, New York](https://link.springer.com/article/10.1007/s10096-021-04260-z)

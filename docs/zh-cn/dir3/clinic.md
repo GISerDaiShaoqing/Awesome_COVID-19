@@ -1689,3 +1689,7 @@
 - [SARS-CoV-2 Infections in mRNA Vaccinated Individuals are Biased for Viruses Encoding Spike E484K and Associated with Reduced Infectious Virus Loads that Correlate with Respiratory Antiviral IgG levels](https://www.medrxiv.org/content/10.1101/2021.07.05.21259105v1)
 - [Clinical Characteristics of Hospitalized COVID-19 Patients Who Received at Least One Dose of COVID-19 Vaccine](https://www.mdpi.com/2076-393X/9/7/781)
 - [Comparison of COVID-19 vaccine prioritization strategies](https://europepmc.org/article/PPR/PPR356589)
+- [同时感染2种新冠病毒突变体？最担心的事情发生了！](https://mp.weixin.qq.com/s/XIKugcTin5ZCzWyo9-WEDA)
+- [Dynamics of a Dual SARS-CoV-2 Lineage Co-Infection on a Prolonged Viral Shedding COVID-19 Case: Insights into Clinical Severity and Disease Duration](https://www.mdpi.com/2076-2607/9/2/300/htm)
+- [鼻腔内接种COVID-19疫苗的充分理由｜Science一周精选](https://mp.weixin.qq.com/s/MT1ZEhQeNQDQlwQe6pjE6Q)
+- [Scent of a vaccine](https://science.sciencemag.org/content/373/6553/397)
