@@ -2235,3 +2235,7 @@
 - [Risk factors for SARS-CoV-2 seroprevalence following the first pandemic wave in UK healthcare workers in a large NHS Foundation Trust](https://www.medrxiv.org/content/10.1101/2021.07.07.21260151v1)
 - [COVID-19 vaccine acceptance and hesitancy in low- and middle-income countries](https://www.nature.com/articles/s41591-021-01454-y)
 - [CoMix: Changes in social contacts as measured by the contact survey during the COVID-19 pandemic in England between March 2020 and March 2021](https://www.medrxiv.org/content/10.1101/2021.05.28.21257973v1)
+- [“慢性新冠肺炎”的高心理健康负担及其与所有出院成年人持续的身体和呼吸道症状的关联](https://mp.weixin.qq.com/s/O-Ue4YZTa8ZrqEEFlu00fQ)
+- [The high mental health burden of “Long COVID” and its association with on-going physical and respiratory symptoms in all adults discharged from hospital](https://erj.ersjournals.com/content/57/6/2004364?ctkey=wechat)
+- [Sandstorm and its effect on particulate matter PM 2.5, carbon monoxide, nitrogen dioxide, ozone pollutants and SARS-CoV-2 cases and deaths](https://doi.org/10.1016/j.scitotenv.2021.148764)
+- [SnapShot: SARS-CoV-2 antibodies](https://doi.org/10.1016/j.chom.2021.06.005)

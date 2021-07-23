@@ -270,3 +270,5 @@
 - [The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China: a modelling study](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30073-6/fulltext)
 - [The impact of social distancing, contact tracing, and case isolation interventions to suppress the COVID-19 epidemic: A modeling study](https://www.sciencedirect.com/science/article/pii/S1755436521000360)
 - [Modeling the population effects of escape mutations in SARS-CoV-2 to guide vaccination strategies](https://www.sciencedirect.com/science/article/pii/S1755436521000372)
+- [How Culture and Sociopolitical Tensions Might Influence People’s Acceptance of COVID-19 Control Measures That Use Individual-Level Georeferenced Data](https://www.mdpi.com/2220-9964/10/7/490)
+- [Re-examination of the impact of some non-pharmaceutical interventions and media coverage on the COVID-19 outbreak in Wuhan](https://doi.org/10.1016/j.idm.2021.07.001)

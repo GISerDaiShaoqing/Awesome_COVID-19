@@ -1899,3 +1899,5 @@
 - [“长期新冠”症状可达 200 多种，涵盖人体 10 个器官系统 | 科研圈日报](https://mp.weixin.qq.com/s/3NsP3IZSzYvaYUmp4JRScw)
 - [全球超过 150 万名儿童在新冠疫情中失去至少一名照顾者｜科研圈日报](https://mp.weixin.qq.com/s/uUNGLUJpml3X7Sc9FiEJ5w)
 - [24小时热门｜用于治疗新冠肺炎的抗生素并不比安慰剂更有效](https://mp.weixin.qq.com/s/68fXb4_MCQx2gQME8nK9xA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月19日）【中国科讯】](https://mp.weixin.qq.com/s/9F0NGYdQ_MCZNKhvNCIQ3w)
+- [7 月 21 日我国内地新增确诊病例 50 例，其中本土病例 12 例（江苏 11 例，云南 1 例）｜科研圈日报](https://mp.weixin.qq.com/s/bJUIL5wwCdz34HSjgUd7gg)
