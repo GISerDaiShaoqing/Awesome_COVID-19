@@ -1905,3 +1905,5 @@
 - [7 月 22 日我国内地新增确诊病例 48 例，其中本土病例 12 例（均在江苏）｜科研圈日报](https://mp.weixin.qq.com/s/DDnjhKfvPpPGIsXq9M4_dQ)
 - [24小时热门｜青春期抑郁，是因为小时候炎症？“长期新冠”症状可达200多种？](https://mp.weixin.qq.com/s/Md0SMoFrAibl3gnbYA_lNA)
 - [东京奥运会已现87例新冠阳性，这会引发新一轮病毒传播危机吗？](https://mp.weixin.qq.com/s/gxq4RhcSDFYEEa_bFT7M2w)
+- [可减少99%新冠病毒载量，《科学》报道全新抗疫希望｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/HMcbGNEA6NUlNsxHuCzDQg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月23日）【中国科讯】](https://mp.weixin.qq.com/s/PCwMCbTudUOY2umi-7S3GA)

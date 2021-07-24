@@ -70,3 +70,4 @@
 - [Reopen Schools Safely: Simulating COVID-19 Transmission on Campus With a Contact Network Agent-based Model](https://www.researchsquare.com/article/rs-627505/v1)
 - [Seroprevalence of and Risk Factors Associated With SARS-CoV-2 Infection in Health Care Workers During the Early COVID-19 Pandemic in Italy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781622)
 - [Reopening International Borders without Quarantine: Contact Tracing Integrated Policy against COVID-19](https://www.mdpi.com/1660-4601/18/14/7494)
+- [Quantifying COVID-19 importation risk in a dynamic network of domestic cities and international countries](https://www.pnas.org/content/118/31/e2100201118)

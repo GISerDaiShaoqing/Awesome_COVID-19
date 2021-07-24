@@ -1693,3 +1693,4 @@
 - [Dynamics of a Dual SARS-CoV-2 Lineage Co-Infection on a Prolonged Viral Shedding COVID-19 Case: Insights into Clinical Severity and Disease Duration](https://www.mdpi.com/2076-2607/9/2/300/htm)
 - [鼻腔内接种COVID-19疫苗的充分理由｜Science一周精选](https://mp.weixin.qq.com/s/MT1ZEhQeNQDQlwQe6pjE6Q)
 - [Scent of a vaccine](https://science.sciencemag.org/content/373/6553/397)
+- [The COVID-19 infodemic does not affect vaccine acceptance](https://arxiv.org/abs/2107.07946)

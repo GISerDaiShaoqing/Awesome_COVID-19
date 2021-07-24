@@ -2242,3 +2242,5 @@
 - [在武汉抗疫一线立下“赫赫战功”！同济大学水安全“特种兵”到底牛在哪……](https://mp.weixin.qq.com/s/MYuM7Crnqf3uU39SW_4f4w)
 - [肥胖是否增加了COVID-19患者的不良预后风险 | Springer Nature Journal](https://mp.weixin.qq.com/s/FwgmWFaSt20E191tWS7Qhg)
 - [Sex-specific impact of severe obesity in the outcomes of hospitalized patients with COVID-19: a large retrospective study from the Bronx, New York](https://link.springer.com/article/10.1007/s10096-021-04260-z)
+- [Societal shifts due to COVID-19 reveal large-scale complexities and feedbacks between atmospheric chemistry and climate change](https://www.essoar.org/doi/10.1002/essoar.10506081.3)
+- [Observing the silent world under COVID-19 with a comprehensive impact analysis based on human mobility](https://www.nature.com/articles/s41598-021-94060-4)
