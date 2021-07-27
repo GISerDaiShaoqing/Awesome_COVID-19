@@ -2244,3 +2244,5 @@
 - [Sex-specific impact of severe obesity in the outcomes of hospitalized patients with COVID-19: a large retrospective study from the Bronx, New York](https://link.springer.com/article/10.1007/s10096-021-04260-z)
 - [Societal shifts due to COVID-19 reveal large-scale complexities and feedbacks between atmospheric chemistry and climate change](https://www.essoar.org/doi/10.1002/essoar.10506081.3)
 - [Observing the silent world under COVID-19 with a comprehensive impact analysis based on human mobility](https://www.nature.com/articles/s41598-021-94060-4)
+- [如何从新冠疫情分析人类行为？|《自然》长文](https://mp.weixin.qq.com/s/WfJLIRqQnVcvLCfYgQ265w)
+- [How COVID is changing the study of human behaviour](https://www.nature.com/articles/d41586-021-01317-z)
