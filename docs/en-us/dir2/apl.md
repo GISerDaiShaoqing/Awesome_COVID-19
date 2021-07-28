@@ -1907,3 +1907,6 @@
 - [东京奥运会已现87例新冠阳性，这会引发新一轮病毒传播危机吗？](https://mp.weixin.qq.com/s/gxq4RhcSDFYEEa_bFT7M2w)
 - [可减少99%新冠病毒载量，《科学》报道全新抗疫希望｜本周值得读 · 论文推荐](https://mp.weixin.qq.com/s/HMcbGNEA6NUlNsxHuCzDQg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月23日）【中国科讯】](https://mp.weixin.qq.com/s/PCwMCbTudUOY2umi-7S3GA)
+- [辉瑞疫苗在以色列有效率降至39%，或与德尔塔毒株有关｜科研圈日报](https://mp.weixin.qq.com/s/sgVO_mMjyVTnJm2R-e253w)
+- [Science一周论文导读｜2021年7月16日](https://mp.weixin.qq.com/s/Fc-8-RjdPRWz83yWsSU_vA)
+- [Nature一周论文导读｜2021年7月15日](https://mp.weixin.qq.com/s/i3dAfEsjsX8iBUL_qcehtQ)

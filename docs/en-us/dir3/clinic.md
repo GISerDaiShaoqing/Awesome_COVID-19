@@ -1694,3 +1694,5 @@
 - [鼻腔内接种COVID-19疫苗的充分理由｜Science一周精选](https://mp.weixin.qq.com/s/MT1ZEhQeNQDQlwQe6pjE6Q)
 - [Scent of a vaccine](https://science.sciencemag.org/content/373/6553/397)
 - [The COVID-19 infodemic does not affect vaccine acceptance](https://arxiv.org/abs/2107.07946)
+- [中山大学等多家单位合作，陆家海/郭城/单鸿/黄曦揭示新冠患者住院期间口腔菌群和肠道菌群的变化](https://mp.weixin.qq.com/s/R1gxq1J9WlOy-7QYCj-SCQ)
+- [Altered oral and gutmicrobiota and its association with SARS-CoV-2 viral load in COVID-19 patientsduring hospitalization](https://www.nature.com/articles/s41522-021-00232-5)
