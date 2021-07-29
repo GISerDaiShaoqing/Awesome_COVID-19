@@ -1696,3 +1696,5 @@
 - [The COVID-19 infodemic does not affect vaccine acceptance](https://arxiv.org/abs/2107.07946)
 - [中山大学等多家单位合作，陆家海/郭城/单鸿/黄曦揭示新冠患者住院期间口腔菌群和肠道菌群的变化](https://mp.weixin.qq.com/s/R1gxq1J9WlOy-7QYCj-SCQ)
 - [Altered oral and gutmicrobiota and its association with SARS-CoV-2 viral load in COVID-19 patientsduring hospitalization](https://www.nature.com/articles/s41522-021-00232-5)
+- [最新研究 | 近半重症COVID-19住院患者出现一种或多种并发症](https://mp.weixin.qq.com/s/Z3GFPMstsw9MQ4pAM35NZg)
+- [Characterisation of in-hospital complications associated with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol UK: a prospective, multicentre cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00799-6/fulltext)

@@ -1172,3 +1172,5 @@
 - [Primary, Recall, and Decay Kinetics of SARS-CoV-2 Vaccine Antibody Responses](https://europepmc.org/article/MED/34159781)
 - [SARS-CoV-2 B.1.617.2 Delta variant emergence, replication and sensitivity to neutralising antibodies](https://www.biorxiv.org/content/10.1101/2021.05.08.443253v4)
 - [Nationwide Seroprevalence of SARS-CoV-2 IgG Antibodies among Four Groups of Primary Health-Care Workers and Their Household Contacts 6 Months after the Initiation of the COVID-19 Vaccination Campaign in France: SeroPRIM Study Protocol](https://www.mdpi.com/2076-0817/10/7/911/htm)
+- [重组蛋白亚基新冠疫苗在三种动物试验中安全有效｜Science新冠专题](https://mp.weixin.qq.com/s/Zr4klfKtrwPd7tgREN_3DA)
+- [A recombinant spike protein subunit vaccine confers protective immunity against SARS-CoV-2 infection and transmission in hamsters](https://stm.sciencemag.org/content/early/2021/07/19/scitranslmed.abg1143)

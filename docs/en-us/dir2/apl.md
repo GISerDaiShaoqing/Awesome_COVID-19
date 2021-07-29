@@ -1910,3 +1910,6 @@
 - [辉瑞疫苗在以色列有效率降至39%，或与德尔塔毒株有关｜科研圈日报](https://mp.weixin.qq.com/s/sgVO_mMjyVTnJm2R-e253w)
 - [Science一周论文导读｜2021年7月16日](https://mp.weixin.qq.com/s/Fc-8-RjdPRWz83yWsSU_vA)
 - [Nature一周论文导读｜2021年7月15日](https://mp.weixin.qq.com/s/i3dAfEsjsX8iBUL_qcehtQ)
+- [7 月 26 日我国内地新增确诊病例 71 例，其中本土病例 31 例（均在江苏） | 科研圈日报](https://mp.weixin.qq.com/s/7EQN_nFThD8bu-7WowJAqQ)
+- [美国枪支暴力研究重启 | 用手语谈科学 | 远程读PhD | 自然每周简报](https://mp.weixin.qq.com/s/jOPr8YRTp4bqc3eyNzug5w)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月26日）【中国科讯】](https://mp.weixin.qq.com/s/6g52F6Ku8MowCoXKd5RvAg)
