@@ -272,3 +272,5 @@
 - [Modeling the population effects of escape mutations in SARS-CoV-2 to guide vaccination strategies](https://www.sciencedirect.com/science/article/pii/S1755436521000372)
 - [How Culture and Sociopolitical Tensions Might Influence People’s Acceptance of COVID-19 Control Measures That Use Individual-Level Georeferenced Data](https://www.mdpi.com/2220-9964/10/7/490)
 - [Re-examination of the impact of some non-pharmaceutical interventions and media coverage on the COVID-19 outbreak in Wuhan](https://doi.org/10.1016/j.idm.2021.07.001)
+- [Government responses and COVID-19 deaths: Global evidence across multiple pandemic waves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253116)
+- [The feasibility of targeted test-trace-isolate for the control of SARS-CoV-2 variants](https://f1000research.com/articles/10-291)

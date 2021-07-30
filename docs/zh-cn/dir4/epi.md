@@ -650,3 +650,7 @@
 - [针对中国新冠肺炎住院患者死亡结局风险因素的全国性分析](https://mp.weixin.qq.com/s/UTvSamCn0JXBuFLIsP7VIw)
 - [Risk Factors of Fatal Outcome in Hospitalized Subjects With Coronavirus Disease 2019 From a Nationwide Analysis in China](https://www.sciencedirect.com/science/article/pii/S0012369220307108)
 - [Estimation of COVID-19 infections in Iraqi governorates using generalized moments method in spatial autoregressive model](http://pen.ius.edu.ba/index.php/pen/article/view/2167/0)
+- [COVID-19 in patients with CLL: improved survival outcomes and update on management strategies](https://ashpublications.org/blood/article/doi/10.1182/blood.2021011841/476453/COVID-19-in-patients-with-CLL-improved-survival)
+- [Viral infection and transmission in a large well-traced outbreak caused by the Delta SARS-CoV-2 variant](https://virological.org/t/viral-infection-and-transmission-in-a-large-well-traced-outbreak-caused-by-the-delta-sars-cov-2-variant/724)
+- [Dynamics of partially mitigated multi-phasic epidemics at low susceptible depletion: Phases of COVID-19 control in Italy as case study](https://doi.org/10.1016/j.mbs.2021.108671)
+- [Transmission of paediatric respiratory syncytial virus and influenza in the wake of the COVID-19 pandemic](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.29.2100186)

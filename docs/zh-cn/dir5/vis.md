@@ -256,3 +256,4 @@
 - [There have been 7m-13m excess deaths worldwide during the pandemic](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)
 - [Mapping COVID-19 in Space and Time](https://doi.org/10.1007/978-3-030-72808-3)
 - [运动员来了！东京奥运会这样防疫](https://mp.weixin.qq.com/s/1fAmE-Gvl46CqWEy810QAA)
+- [Analyzing COVID-19 Using Multisource Data: An Integrated Approach of Visualization, Spatial Regression and Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GH000439)

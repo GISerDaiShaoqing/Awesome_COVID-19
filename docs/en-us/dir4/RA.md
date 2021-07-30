@@ -71,3 +71,4 @@
 - [Seroprevalence of and Risk Factors Associated With SARS-CoV-2 Infection in Health Care Workers During the Early COVID-19 Pandemic in Italy](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781622)
 - [Reopening International Borders without Quarantine: Contact Tracing Integrated Policy against COVID-19](https://www.mdpi.com/1660-4601/18/14/7494)
 - [Quantifying COVID-19 importation risk in a dynamic network of domestic cities and international countries](https://www.pnas.org/content/118/31/e2100201118)
+- [Comparing the space-time patterns of high-risk areas in different waves of COVID-19 in Hong Kong](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12800)

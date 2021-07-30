@@ -1178,3 +1178,7 @@
 - [How the Delta variant achieves its ultrafast spread](https://www.nature.com/articles/d41586-021-01986-w)
 - [STTT | 广州医科大学等多单位合作，张康/项鹏等系统评估新冠病毒变体 CAL.20C 免疫血清的传染性及其对中和活性的影响](https://mp.weixin.qq.com/s/G4SpIXzZOvA1-csl_V4nIw)
 - [Assessment of infectivity and the impact on neutralizing activity of immune sera of the COVID-19 variant, CAL.20C](https://www.nature.com/articles/s41392-021-00695-0)
+- [席卷全球的Delta新冠变种传染性这么强，究竟是什么原因？](https://mp.weixin.qq.com/s/IL9-MaKR-W7NZ9AziWBv8A)
+- [Variant Analysis of SARS-CoV-2 Genomes from Belgian Military Personnel Engaged in Overseas Missions and Operations](https://www.mdpi.com/1999-4915/13/7/1359)
+- [Secreted Expression of mRNA-Encoded Truncated ACE2 Variants for SARS-CoV-2 via Lipid-Like Nanoassemblies](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202101707)
+- [Replicative Fitness of a SARS-CoV-2 20I/501Y.V1 Variant from Lineage B.1.1.7 in Human Reconstituted Bronchial Epithelium](https://journals.asm.org/doi/10.1128/mBio.00850-21)
