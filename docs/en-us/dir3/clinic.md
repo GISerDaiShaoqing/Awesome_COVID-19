@@ -1698,3 +1698,5 @@
 - [Altered oral and gutmicrobiota and its association with SARS-CoV-2 viral load in COVID-19 patientsduring hospitalization](https://www.nature.com/articles/s41522-021-00232-5)
 - [最新研究 | 近半重症COVID-19住院患者出现一种或多种并发症](https://mp.weixin.qq.com/s/Z3GFPMstsw9MQ4pAM35NZg)
 - [Characterisation of in-hospital complications associated with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol UK: a prospective, multicentre cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00799-6/fulltext)
+- [Nature子刊：发现青蒿素及其衍生物可抑制SARS-CoV-2病毒感染](https://mp.weixin.qq.com/s/hUcGA0ZH1MW6snptgjUMDA)
+- [In vitro efficacy of artemisinin-based treatments against SARS-CoV-2](https://www.nature.com/articles/s41598-021-93361-y)

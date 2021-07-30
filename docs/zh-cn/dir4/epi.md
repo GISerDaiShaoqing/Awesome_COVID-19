@@ -649,3 +649,4 @@
 - [A comprehensive estimation of country-level basic reproduction numbers R0 for COVID-19: Regime regression can automatically estimate the end of the exponential phase in epidemic data](https://www.docwirenews.com/abstracts/a-comprehensive-estimation-of-country-level-basic-reproduction-numbers-r0-for-covid-19-regime-regression-can-automatically-estimate-the-end-of-the-exponential-phase-in-epidemic-data/)
 - [针对中国新冠肺炎住院患者死亡结局风险因素的全国性分析](https://mp.weixin.qq.com/s/UTvSamCn0JXBuFLIsP7VIw)
 - [Risk Factors of Fatal Outcome in Hospitalized Subjects With Coronavirus Disease 2019 From a Nationwide Analysis in China](https://www.sciencedirect.com/science/article/pii/S0012369220307108)
+- [Estimation of COVID-19 infections in Iraqi governorates using generalized moments method in spatial autoregressive model](http://pen.ius.edu.ba/index.php/pen/article/view/2167/0)

@@ -2246,3 +2246,6 @@
 - [Observing the silent world under COVID-19 with a comprehensive impact analysis based on human mobility](https://www.nature.com/articles/s41598-021-94060-4)
 - [如何从新冠疫情分析人类行为？|《自然》长文](https://mp.weixin.qq.com/s/WfJLIRqQnVcvLCfYgQ265w)
 - [How COVID is changing the study of human behaviour](https://www.nature.com/articles/d41586-021-01317-z)
+- [后新冠肺炎疫情时代，科学教育的挑战与机遇](https://mp.weixin.qq.com/s/L1fFxyeF4cDlkndsbV2tiQ)
+- [疫情尚未结束,防控不可松懈！调查显示医护工作者对待新冠肺炎疫苗接种更积极](https://mp.weixin.qq.com/s/lLClXEQrw3XvpXxJ0kAz7Q)
+- [An Asia-Pacific study on healthcare workers' perceptions of, and willingness to receive, the COVID-19 vaccination](https://europepmc.org/article/PMC/7997703)

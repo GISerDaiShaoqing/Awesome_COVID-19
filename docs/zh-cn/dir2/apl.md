@@ -1913,3 +1913,6 @@
 - [7 月 26 日我国内地新增确诊病例 71 例，其中本土病例 31 例（均在江苏） | 科研圈日报](https://mp.weixin.qq.com/s/7EQN_nFThD8bu-7WowJAqQ)
 - [美国枪支暴力研究重启 | 用手语谈科学 | 远程读PhD | 自然每周简报](https://mp.weixin.qq.com/s/jOPr8YRTp4bqc3eyNzug5w)
 - [情报监测 | “COVID-19”科研动态监测每日快报（7月26日）【中国科讯】](https://mp.weixin.qq.com/s/6g52F6Ku8MowCoXKd5RvAg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月28日）【中国科讯】](https://mp.weixin.qq.com/s/D1rLmNAn7J4taEtWuCOdDA)
+- [科兴疫苗加强针数据公布，对原始毒株中和抗体滴度增加3-5倍 | 科研圈日报](https://mp.weixin.qq.com/s/hW372aFIAjAlhwlMw5x_Kg)
+- [新冠肺炎疫情期间公共场所应如何科学消毒](https://mp.weixin.qq.com/s/M-AgJ1R9_hL78OiBXww7wg)

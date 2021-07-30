@@ -1174,3 +1174,7 @@
 - [Nationwide Seroprevalence of SARS-CoV-2 IgG Antibodies among Four Groups of Primary Health-Care Workers and Their Household Contacts 6 Months after the Initiation of the COVID-19 Vaccination Campaign in France: SeroPRIM Study Protocol](https://www.mdpi.com/2076-0817/10/7/911/htm)
 - [重组蛋白亚基新冠疫苗在三种动物试验中安全有效｜Science新冠专题](https://mp.weixin.qq.com/s/Zr4klfKtrwPd7tgREN_3DA)
 - [A recombinant spike protein subunit vaccine confers protective immunity against SARS-CoV-2 infection and transmission in hamsters](https://stm.sciencemag.org/content/early/2021/07/19/scitranslmed.abg1143)
+- [病毒载量增加1260倍！Delta毒株的传播速度为何这么快？](https://mp.weixin.qq.com/s/A5lrS1idSRvf3MWpw-kIMg)
+- [How the Delta variant achieves its ultrafast spread](https://www.nature.com/articles/d41586-021-01986-w)
+- [STTT | 广州医科大学等多单位合作，张康/项鹏等系统评估新冠病毒变体 CAL.20C 免疫血清的传染性及其对中和活性的影响](https://mp.weixin.qq.com/s/G4SpIXzZOvA1-csl_V4nIw)
+- [Assessment of infectivity and the impact on neutralizing activity of immune sera of the COVID-19 variant, CAL.20C](https://www.nature.com/articles/s41392-021-00695-0)
