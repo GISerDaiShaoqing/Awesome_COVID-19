@@ -274,3 +274,4 @@
 - [Re-examination of the impact of some non-pharmaceutical interventions and media coverage on the COVID-19 outbreak in Wuhan](https://doi.org/10.1016/j.idm.2021.07.001)
 - [Government responses and COVID-19 deaths: Global evidence across multiple pandemic waves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253116)
 - [The feasibility of targeted test-trace-isolate for the control of SARS-CoV-2 variants](https://f1000research.com/articles/10-291)
+- [Prevention and control of COVID-19 in India: Strategies and options](https://doi.org/10.1016/j.mjafi.2021.05.009)

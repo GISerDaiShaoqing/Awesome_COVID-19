@@ -1182,3 +1182,4 @@
 - [Variant Analysis of SARS-CoV-2 Genomes from Belgian Military Personnel Engaged in Overseas Missions and Operations](https://www.mdpi.com/1999-4915/13/7/1359)
 - [Secreted Expression of mRNA-Encoded Truncated ACE2 Variants for SARS-CoV-2 via Lipid-Like Nanoassemblies](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202101707)
 - [Replicative Fitness of a SARS-CoV-2 20I/501Y.V1 Variant from Lineage B.1.1.7 in Human Reconstituted Bronchial Epithelium](https://journals.asm.org/doi/10.1128/mBio.00850-21)
+- [Murine Monoclonal Antibodies against the Receptor Binding Domain of SARS-CoV-2 Neutralize Authentic Wild-Type SARS-CoV-2 as Well as B.1.1.7 and B.1.351 Viruses and Protect In Vivo in a Mouse Model in a Neutralization-Dependent Manner](https://journals.asm.org/doi/10.1128/mBio.01002-21)

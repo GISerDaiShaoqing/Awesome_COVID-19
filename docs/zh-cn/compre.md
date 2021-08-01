@@ -2251,3 +2251,7 @@
 - [Spatiotemporal invasion dynamics of SARS-CoV-2 lineage B.1.1.7 emergence](https://science.sciencemag.org/content/early/2021/07/22/science.abj0113)
 - [Decline of influenza and respiratory syncytial virus detection in facility-based surveillance during the COVID-19 pandemic, South Africa, January to October 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.29.2001600)
 - [SARS-CoV-2 seroprevalence in healthcare workers of a Swiss tertiary care centre at the end of the first wave: a cross-sectional study](https://bmjopen.bmj.com/content/11/7/e049232)
+- [解决持久性Covid问题需要有更好的申报、认可和研究｜Science一周精选](https://mp.weixin.qq.com/s/fUbzEnRkl5II63P0NMGn9Q)
+- [The road to addressing Long Covid](https://science.sciencemag.org/content/373/6554/491)
+- [The city turned off: Urban Dynamics during the COVID-19 pandemic based on mobile phone data](https://doi.org/10.1016/j.apgeog.2021.102524)
+- [Living in a pandemic: adaptation of individual mobility and social activity in the US](https://arxiv.org/abs/2107.12235)

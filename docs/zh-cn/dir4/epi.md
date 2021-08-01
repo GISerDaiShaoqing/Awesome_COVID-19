@@ -654,3 +654,6 @@
 - [Viral infection and transmission in a large well-traced outbreak caused by the Delta SARS-CoV-2 variant](https://virological.org/t/viral-infection-and-transmission-in-a-large-well-traced-outbreak-caused-by-the-delta-sars-cov-2-variant/724)
 - [Dynamics of partially mitigated multi-phasic epidemics at low susceptible depletion: Phases of COVID-19 control in Italy as case study](https://doi.org/10.1016/j.mbs.2021.108671)
 - [Transmission of paediatric respiratory syncytial virus and influenza in the wake of the COVID-19 pandemic](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.29.2100186)
+- [Geo Health Hub论坛系列好文第二期](https://mp.weixin.qq.com/s/j8Rnsr-Hq9YoH-yzxXeU4g)
+- [The role of environmental factors on transmission rates of the COVID-19 outbreak: an initial assessment in two spatial scales](https://www.nature.com/articles/s41598-020-74089-7)
+- [Effectiveness of Messenger RNA Coronavirus Disease 2019 (COVID-19) Vaccines Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection in a Cohort of Healthcare Personnel ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab361/6253721)
