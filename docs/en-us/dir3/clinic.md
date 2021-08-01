@@ -1718,3 +1718,6 @@
 - [Impact of SARS-CoV-2 variant-associated RBD mutations on the susceptibility to serum antibodies elicited by COVID-19 infection or vaccination](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab656/6328361)
 - [Intranasal ChAdOx1 nCoV-19/AZD1222 vaccination reduces viral shedding after SARS-CoV-2 D614G challenge in preclinical models](https://stm.sciencemag.org/content/early/2021/07/26/scitranslmed.abh0755.full)
 - [Safety, tolerability, and immunogenicity of an aerosolised adenovirus type-5 vector-based COVID-19 vaccine (Ad5-nCoV) in adults: preliminary report of an open-label and randomised phase 1 clinical trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00396-0/fulltext)
+- [揭示成年人和儿童对新冠病毒免疫应答的差异 |《自然-通讯》论文](https://mp.weixin.qq.com/s/nlBp4IL-7c0lyAZ7CZIfGQ)
+- [SARS-CoV-2 specific T cell responses are lower in children and increase with age and time after infection](https://www.nature.com/articles/s41467-021-24938-4)
+- [Nature子刊：香港大学首次揭示儿童感染新冠后症状较轻的具体原因](https://mp.weixin.qq.com/s/9EAnN_fa8Wx7LQtxJ0KVyg)

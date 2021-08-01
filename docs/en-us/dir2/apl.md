@@ -1929,3 +1929,6 @@
 - [【科普大赛作品展播】新冠漫画系列（六）外出回家怎么做？](https://mp.weixin.qq.com/s/FvUzlsYEmt5YOt6ucNB-iw)
 - [科学防疫再提醒：勤洗手、戴口罩、文明用餐、1米线……](https://mp.weixin.qq.com/s/0d2_fre0LX5xdlp8ixQjxA)
 - [科学防疫再提醒：勤洗手、戴口罩、文明用餐、1米线……](https://mp.weixin.qq.com/s/Q5gqscOhheSBd1HuKqluFw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（7月30日）【中国科讯】](https://mp.weixin.qq.com/s/A3FMbZdIwMFejl--NfNGmA)
+- [【科普大赛作品展播】新冠漫画系列（七）| 遛狗记](https://mp.weixin.qq.com/s/dWSRufmXWnB1G4LlyBgYkA)
+- [【科普大赛作品展播】新冠系列漫画（八）｜现在还没到像以前一样逛商场、公园的时候！](https://mp.weixin.qq.com/s/HDpASmln9QJ_V5zsOCP14w)

@@ -2255,3 +2255,6 @@
 - [The road to addressing Long Covid](https://science.sciencemag.org/content/373/6554/491)
 - [The city turned off: Urban Dynamics during the COVID-19 pandemic based on mobile phone data](https://doi.org/10.1016/j.apgeog.2021.102524)
 - [Living in a pandemic: adaptation of individual mobility and social activity in the US](https://arxiv.org/abs/2107.12235)
+- [Measuring daily-life fear perception change: a computational study in the context of COVID-19](https://arxiv.org/abs/2107.12606v1)
+- [How did human dwelling and working intensity change over different stages of COVID-19 in Beijing?](https://doi.org/10.1016/j.scs.2021.103206)
+- [Changes in mobility pre and post first SARS-CoV-2 vaccination: findings from a prospective community cohort study including GPS movement tracking in England and Wales (Virus Watch)](https://www.medrxiv.org/content/10.1101/2021.06.21.21259237v1)
