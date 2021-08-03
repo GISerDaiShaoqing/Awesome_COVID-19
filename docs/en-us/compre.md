@@ -2258,3 +2258,5 @@
 - [Measuring daily-life fear perception change: a computational study in the context of COVID-19](https://arxiv.org/abs/2107.12606v1)
 - [How did human dwelling and working intensity change over different stages of COVID-19 in Beijing?](https://doi.org/10.1016/j.scs.2021.103206)
 - [Changes in mobility pre and post first SARS-CoV-2 vaccination: findings from a prospective community cohort study including GPS movement tracking in England and Wales (Virus Watch)](https://www.medrxiv.org/content/10.1101/2021.06.21.21259237v1)
+- [佳文赏析 | 新冠疫情和财政刺激对全球碳排放和巴黎协定的影响](https://mp.weixin.qq.com/s/msoU0LWRl5vaPHbMSV-_RA)
+- [Impacts of COVID-19 and fiscal stimuli on global emissions and the Paris Agreement](https://doi.org/10.1038/s41558-020-00977-5)

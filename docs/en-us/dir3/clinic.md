@@ -1721,3 +1721,5 @@
 - [揭示成年人和儿童对新冠病毒免疫应答的差异 |《自然-通讯》论文](https://mp.weixin.qq.com/s/nlBp4IL-7c0lyAZ7CZIfGQ)
 - [SARS-CoV-2 specific T cell responses are lower in children and increase with age and time after infection](https://www.nature.com/articles/s41467-021-24938-4)
 - [Nature子刊：香港大学首次揭示儿童感染新冠后症状较轻的具体原因](https://mp.weixin.qq.com/s/9EAnN_fa8Wx7LQtxJ0KVyg)
+- [一朝得新冠，终身有抗体？](https://mp.weixin.qq.com/s/x1olmdCO4zyqNYc12MrU6A)
+- [Had COVID? You’ll probably make antibodies for a lifetime](https://www.nature.com/articles/d41586-021-01442-9)
