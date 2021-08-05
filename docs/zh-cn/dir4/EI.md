@@ -275,3 +275,4 @@
 - [Government responses and COVID-19 deaths: Global evidence across multiple pandemic waves](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253116)
 - [The feasibility of targeted test-trace-isolate for the control of SARS-CoV-2 variants](https://f1000research.com/articles/10-291)
 - [Prevention and control of COVID-19 in India: Strategies and options](https://doi.org/10.1016/j.mjafi.2021.05.009)
+- [Onset of effects of non-pharmaceutical interventions on COVID-19 infection rates in 176 countries](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11530-0)

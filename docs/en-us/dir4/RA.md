@@ -72,3 +72,4 @@
 - [Reopening International Borders without Quarantine: Contact Tracing Integrated Policy against COVID-19](https://www.mdpi.com/1660-4601/18/14/7494)
 - [Quantifying COVID-19 importation risk in a dynamic network of domestic cities and international countries](https://www.pnas.org/content/118/31/e2100201118)
 - [Comparing the space-time patterns of high-risk areas in different waves of COVID-19 in Hong Kong](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12800)
+- [An AHP-based regional COVID-19 vulnerability model and its application in China](https://link.springer.com/article/10.1007/s40808-021-01244-y)

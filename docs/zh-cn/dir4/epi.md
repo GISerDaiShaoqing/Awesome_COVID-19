@@ -657,3 +657,8 @@
 - [Geo Health Hub论坛系列好文第二期](https://mp.weixin.qq.com/s/j8Rnsr-Hq9YoH-yzxXeU4g)
 - [The role of environmental factors on transmission rates of the COVID-19 outbreak: an initial assessment in two spatial scales](https://www.nature.com/articles/s41598-020-74089-7)
 - [Effectiveness of Messenger RNA Coronavirus Disease 2019 (COVID-19) Vaccines Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection in a Cohort of Healthcare Personnel ](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab361/6253721)
+- [Temporal trends of COVID-19 related in-hospital mortality and demographics in Switzerland – a retrospective single centre cohort study](https://smw.ch/article/doi/smw.2021.20572)
+- [Rates of SARS-CoV-2 transmission and vaccination impact the fate of vaccine-resistant strains](https://www.nature.com/articles/s41598-021-95025-3)
+- [Building toward useful SARS-CoV-2 models in Africa](https://www.pnas.org/content/118/31/e2110873118)
+- [Clinical characteristics of headache after vaccination against COVID-19 (coronavirus SARS-CoV-2) with the BNT162b2 mRNA vaccine: a multicentre observational cohort study](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcab169/6326794)
+- [Spatiotemporal Dynamic of COVID-19 Diffusion in China: A Dynamic Spatial Autoregressive Model Analysis](https://www.mdpi.com/2220-9964/10/8/510/htm)
