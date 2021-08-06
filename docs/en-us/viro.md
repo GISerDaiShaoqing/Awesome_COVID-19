@@ -1200,3 +1200,5 @@
 - [Neutralizing antibodies against SARS-CoV-2 variants induced by natural infection or vaccination: a systematic review and pooled meta-analysis](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab646/6327511)
 - [Evolution and Epidemic Spread of SARS-CoV-2 in Colombia: A Year into the Pandemic](https://www.mdpi.com/2076-393X/9/8/837/html)
 - [Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00344-8/fulltext)
+- [新型突变株“拉姆达”来袭: 进一步对疫苗产生抗性](https://mp.weixin.qq.com/s/35TTVgwcwZO3TjtzQW2axQ)
+- [访谈｜德尔塔突变株会改变 “清零” 防控策略吗？](https://mp.weixin.qq.com/s/4oU3zLXAEs2V27JA_dzUpA)

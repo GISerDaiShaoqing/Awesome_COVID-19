@@ -668,3 +668,5 @@
 - [Projecting contact matrices in 177 geographical regions: An update and comparison with empirical data for the COVID-19 era](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009098)
 - [Hypothesis: Possible influence of antivector immunity and SARS‐CoV‐2 variants on efficacy of ChAdOx1 nCoV‐19 vaccine](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.15620)
 - [Association of Coronavirus Disease-19 Hospitalization Volume and Case Growth at United States Hospitals with Patient Outcomes](https://www.amjmed.com/article/S0002-9343(21)00468-X/fulltext)
+- [兰州大学研发全球首个疫情预测系统：对河南和江苏疫情做出最新预测！](https://mp.weixin.qq.com/s/_99mDyekJUrg2GbgVWUBkA)
+- [Editorial: Mathematical Modelling of the Pandemic of 2019 Novel Coronavirus (COVID-19): Patterns, Dynamics, Prediction, and Control](https://www.frontiersin.org/articles/10.3389/fphy.2021.738602/full)

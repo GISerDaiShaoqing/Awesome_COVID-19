@@ -2217,7 +2217,6 @@
 - [Exploring spatiotemporal effects of the driving factors on COVID-19 incidences in the contiguous United States](https://doi.org/10.1016/j.scs.2021.102784)
 - [Outdoor PM2.5 Concentration and Rate of Change in COVID-19 Infection in Provincial Capital Cities in China](https://www.medrxiv.org/content/10.1101/2020.05.19.20106484v3)
 - [COVID-19, school closure, city Lockdown, and infection control](https://www.mjdrdypv.org/preprintarticle.asp?id=320705)
-- [The 2020 COVID-19 pandemic and atmospheric composition: back to the future](https://www.essoar.org/doi/10.1002/essoar.10506081.2)
 - [放弃抵抗！英国“解封日”让研究人员深感惶恐](https://mp.weixin.qq.com/s/poQW6vJ_7BpgyIqNX-jlxQ)
 - [Why England’s COVID ‘freedom day’ alarms researchers](https://www.nature.com/articles/d41586-021-01938-4)
 - [48国致函世卫反病毒溯源政治化， 外交部回应](https://mp.weixin.qq.com/s/a2NahDZXnhuW6wYZ4NHgJw)
@@ -2263,3 +2262,4 @@
 - [疫情反复，防控不可大意！每一项防疫举措的背后都有科研工作者的付出](https://mp.weixin.qq.com/s/Kcx0Z-F-VHrGO62TwIDzqw)
 - [Re-emergence of coronavirus disease in Chinese cities associated with chilled and frozen food products](https://doi.org/10.1016/j.jinf.2020.12.028)
 - [Effects of tree canopy on psychological distress: A repeated cross-sectional study before and during the COVID-19 epidemic](https://www.sciencedirect.com/science/article/abs/pii/S0013935121010896)
+- [王立铭：德尔塔突变株入侵，新冠防控需要新思路](https://mp.weixin.qq.com/s/iUz0pF7csAFLKbMRcJQqfg)

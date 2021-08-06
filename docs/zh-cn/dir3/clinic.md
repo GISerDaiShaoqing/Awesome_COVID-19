@@ -1739,3 +1739,4 @@
 - [接连喜报！国药发现对抗德尔塔新药物，康泰生物成功分离出德尔塔变异株，新冠特效药将至？但新变异株也悄悄来了……](https://mp.weixin.qq.com/s/bQMyWGi-FVL-vThe2StyVg)
 - [Masitinib is a broad coronavirus 3CL inhibitor that blocks replication of SARS-CoV-2](https://science.sciencemag.org/content/early/2021/07/19/science.abg5827.full)
 - [Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected in the Plasma of mRNA-1273 Vaccine Recipients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075)
+- [德尔塔变异株流行，“总是有效”的连花清瘟又有效了](https://mp.weixin.qq.com/s/snzap_UcyxmLQ9GqP9G97A)

@@ -1949,3 +1949,8 @@
 - [关于“德尔塔”，国务院联防联控机制发布会权威解答！](https://mp.weixin.qq.com/s/IvQrffCtOZWSQOQb3m5AzA)
 - [8 月 3 日我国内地新增确诊病例 96 例，其中本土病例 71 例｜科研圈日报](https://mp.weixin.qq.com/s/iuQv6uX5uT57yavb4pvrww)
 - [英国近十万人研究报告：完全接种疫苗人群 Delta 变种感染率下降三分之二｜科研圈日报](https://mp.weixin.qq.com/s/oDlna78ydMlmyAesgbNwjw)
+- [国药发现新冠病毒高效中和抗体，称对Delta同样有效｜科研圈日报](https://mp.weixin.qq.com/s/kbTLGYY2LeA3c7HNZjdSpA)
+- [24小时热门｜奥运冠军冲刺速度仅相当于家猫？一朝得新冠，终身有抗体？](https://mp.weixin.qq.com/s/3RB5P_oGJZYqmWzuE0gd1g)
+- [【科普大赛作品展播】预防接种享受健康](https://mp.weixin.qq.com/s/cmeQNnAL890g14W2hUy5Ow)
+- [【科普大赛作品展播】及时接种疫苗 共筑健康屏障](https://mp.weixin.qq.com/s/cEV63tnt2xwRR077tOcTMg)
+- [【科普大赛作品展播】一只疫苗的旅行](https://mp.weixin.qq.com/s/hJySYmGfNO9rD3jG4BJVWg)
