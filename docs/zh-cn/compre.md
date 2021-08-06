@@ -2262,3 +2262,4 @@
 - [Impacts of COVID-19 and fiscal stimuli on global emissions and the Paris Agreement](https://doi.org/10.1038/s41558-020-00977-5)
 - [疫情反复，防控不可大意！每一项防疫举措的背后都有科研工作者的付出](https://mp.weixin.qq.com/s/Kcx0Z-F-VHrGO62TwIDzqw)
 - [Re-emergence of coronavirus disease in Chinese cities associated with chilled and frozen food products](https://doi.org/10.1016/j.jinf.2020.12.028)
+- [Effects of tree canopy on psychological distress: A repeated cross-sectional study before and during the COVID-19 epidemic](https://www.sciencedirect.com/science/article/abs/pii/S0013935121010896)

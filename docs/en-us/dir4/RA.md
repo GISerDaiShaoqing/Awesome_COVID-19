@@ -73,3 +73,6 @@
 - [Quantifying COVID-19 importation risk in a dynamic network of domestic cities and international countries](https://www.pnas.org/content/118/31/e2100201118)
 - [Comparing the space-time patterns of high-risk areas in different waves of COVID-19 in Hong Kong](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12800)
 - [An AHP-based regional COVID-19 vulnerability model and its application in China](https://link.springer.com/article/10.1007/s40808-021-01244-y)
+- [学术成果丨本土防疫是控制新冠输入病毒传播的关键](https://mp.weixin.qq.com/s/QfXBz_De7t0EoUBMr81YSQ)
+- [Quantifying COVID-19 importation risk in a dynamic network of domestic cities and international countries](https://doi.org/10.1073/pnas.2100201118)
+- [前沿速递：本土防疫是控制新冠输入病毒传播的关键](https://mp.weixin.qq.com/s/UT5AdQs99bCxeZL9YVOMdg)
