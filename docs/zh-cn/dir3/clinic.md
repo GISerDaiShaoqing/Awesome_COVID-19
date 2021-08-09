@@ -1740,3 +1740,5 @@
 - [Masitinib is a broad coronavirus 3CL inhibitor that blocks replication of SARS-CoV-2](https://science.sciencemag.org/content/early/2021/07/19/science.abg5827.full)
 - [Circulating Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine Antigen Detected in the Plasma of mRNA-1273 Vaccine Recipients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075)
 - [德尔塔变异株流行，“总是有效”的连花清瘟又有效了](https://mp.weixin.qq.com/s/snzap_UcyxmLQ9GqP9G97A)
+- [不同COVID-19疫苗混合接种可增强免疫应答](https://mp.weixin.qq.com/s/uXBjWmRuiI-_4ujWSo77AQ)
+- [Heterologous COVID-19 Vaccination Enhances Immune Responses](https://www.jwatch.org/na53804?query=nejmyxqy)

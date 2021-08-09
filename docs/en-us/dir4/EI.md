@@ -276,3 +276,5 @@
 - [The feasibility of targeted test-trace-isolate for the control of SARS-CoV-2 variants](https://f1000research.com/articles/10-291)
 - [Prevention and control of COVID-19 in India: Strategies and options](https://doi.org/10.1016/j.mjafi.2021.05.009)
 - [Onset of effects of non-pharmaceutical interventions on COVID-19 infection rates in 176 countries](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11530-0)
+- [Spill-over effect of Wuhan travel ban on population flow in the outbreak stage of COVID-19 in China](https://doi.org/10.1016/j.cities.2021.103404)
+- [Effect of Non-lockdown Social Distancing and Testing-Contact Tracing During a COVID-19 Outbreak in Daegu, South Korea, February to April 2020: A Modeling Study](https://doi.org/10.1016/j.ijid.2021.07.058)

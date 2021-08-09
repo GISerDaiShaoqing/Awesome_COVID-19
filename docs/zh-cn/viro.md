@@ -1202,3 +1202,4 @@
 - [Changing composition of SARS-CoV-2 lineages and rise of Delta variant in England](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00344-8/fulltext)
 - [新型突变株“拉姆达”来袭: 进一步对疫苗产生抗性](https://mp.weixin.qq.com/s/35TTVgwcwZO3TjtzQW2axQ)
 - [访谈｜德尔塔突变株会改变 “清零” 防控策略吗？](https://mp.weixin.qq.com/s/4oU3zLXAEs2V27JA_dzUpA)
+- [Neutralizing Activity of Sera from Sputnik V-Vaccinated People against Variants of Concern (VOC: B.1.1.7, B.1.351, P.1, B.1.617.2, B.1.617.3) and Moscow Endemic SARS-CoV-2 Variants](https://www.mdpi.com/2076-393X/9/7/779)

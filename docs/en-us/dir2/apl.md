@@ -1954,3 +1954,6 @@
 - [【科普大赛作品展播】预防接种享受健康](https://mp.weixin.qq.com/s/cmeQNnAL890g14W2hUy5Ow)
 - [【科普大赛作品展播】及时接种疫苗 共筑健康屏障](https://mp.weixin.qq.com/s/cEV63tnt2xwRR077tOcTMg)
 - [【科普大赛作品展播】一只疫苗的旅行](https://mp.weixin.qq.com/s/hJySYmGfNO9rD3jG4BJVWg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月6日）【中国科讯】](https://mp.weixin.qq.com/s/iX55oyZ1f7pQosk0pc1kZA)
+- [《自然-通讯》“SARS-CoV-2”领域前50亮点文章](https://mp.weixin.qq.com/s/p7Z83bAa3md1-4veFjMNug)
+- [今天做好个人防护了吗？这套海报告诉你答案！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/DAtekSstEMb15FqUf7-sdA)

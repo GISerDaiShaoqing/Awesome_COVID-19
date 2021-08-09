@@ -2263,3 +2263,6 @@
 - [Re-emergence of coronavirus disease in Chinese cities associated with chilled and frozen food products](https://doi.org/10.1016/j.jinf.2020.12.028)
 - [Effects of tree canopy on psychological distress: A repeated cross-sectional study before and during the COVID-19 epidemic](https://www.sciencedirect.com/science/article/abs/pii/S0013935121010896)
 - [王立铭：德尔塔突变株入侵，新冠防控需要新思路](https://mp.weixin.qq.com/s/iUz0pF7csAFLKbMRcJQqfg)
+- [在马达加斯加协助抗击疫情的考古学家们](https://mp.weixin.qq.com/s/kLxlv2IaFmbDk7ZM7cJ0Vw)
+- [These archaeologists helped quell a COVID surge in Madagascar](https://www.nature.com/articles/d41586-021-00870-x)
+- [“青年抗疫守卫队”的媒介实践与社会行动——对一个湖北村庄的网络民族志研究](https://mp.weixin.qq.com/s/u2kbd9csvcA3AliVUH7HpQ)
