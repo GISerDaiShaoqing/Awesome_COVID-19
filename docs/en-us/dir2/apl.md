@@ -1957,3 +1957,5 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月6日）【中国科讯】](https://mp.weixin.qq.com/s/iX55oyZ1f7pQosk0pc1kZA)
 - [《自然-通讯》“SARS-CoV-2”领域前50亮点文章](https://mp.weixin.qq.com/s/p7Z83bAa3md1-4veFjMNug)
 - [今天做好个人防护了吗？这套海报告诉你答案！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/DAtekSstEMb15FqUf7-sdA)
+- [中国疾控中心教您做好个人防护！（更新版）](https://mp.weixin.qq.com/s/WEVFHE3f4ZGBmYhAlMPqNw)
+- [“德尔塔”为何这么毒？；特殊葡萄糖可助精准攻击癌细胞；未来50年癌症患者数翻倍丨本周临床快讯](https://mp.weixin.qq.com/s/vICqBzQxXxBpff3ekVrvhQ)

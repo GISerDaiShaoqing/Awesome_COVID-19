@@ -2266,3 +2266,5 @@
 - [在马达加斯加协助抗击疫情的考古学家们](https://mp.weixin.qq.com/s/kLxlv2IaFmbDk7ZM7cJ0Vw)
 - [These archaeologists helped quell a COVID surge in Madagascar](https://www.nature.com/articles/d41586-021-00870-x)
 - [“青年抗疫守卫队”的媒介实践与社会行动——对一个湖北村庄的网络民族志研究](https://mp.weixin.qq.com/s/u2kbd9csvcA3AliVUH7HpQ)
+- [关注 | 测绘地理信息服务疫情防控](https://mp.weixin.qq.com/s/fbrVWpuUXbJlHe-Y_b39hQ)
+- [Analyzing COVID-19 Using Multisource Data: An Integrated Approach of Visualization, Spatial Regression, and Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GH000439)
