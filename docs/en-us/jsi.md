@@ -117,3 +117,4 @@
 - [【虚拟专辑】新冠病毒 | COVID-19](https://mp.weixin.qq.com/s/PBX50yXOn_Q8320KW98FOg)
 - [MDPI 特刊征稿 | Viruses: 武汉大学徐可教授、陈宇教授共创抗病毒新药研究特刊](https://mp.weixin.qq.com/s/qU34r5F66ADVEwfcUiN6OQ)
 - [Desalination特刊征稿：COVID-19 and Related Virus in Desalination](https://mp.weixin.qq.com/s/K_8Nf7NkqfT6IVJM6JvU4A)
+- [秋天的第一份征稿函—Human mobility and pandemic | GSIS](https://mp.weixin.qq.com/s/mOPQk9igJIOUPD8R7lp6hg)

@@ -1959,3 +1959,8 @@
 - [今天做好个人防护了吗？这套海报告诉你答案！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/DAtekSstEMb15FqUf7-sdA)
 - [中国疾控中心教您做好个人防护！（更新版）](https://mp.weixin.qq.com/s/WEVFHE3f4ZGBmYhAlMPqNw)
 - [“德尔塔”为何这么毒？；特殊葡萄糖可助精准攻击癌细胞；未来50年癌症患者数翻倍丨本周临床快讯](https://mp.weixin.qq.com/s/vICqBzQxXxBpff3ekVrvhQ)
+- [中国疾控中心教您做好个人防护! (更新版)](https://mp.weixin.qq.com/s/OVfRrwhUHGqPy_xsbVnPIw)
+- [咳嗽礼仪知多少【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/gDF_bHARcscMU8sv9QKb8A)
+- [【科普大赛作品展播】结核杆菌与新冠病毒的区别](https://mp.weixin.qq.com/s/0tufPV_0VpB-fJKCyY2tjA)
+- [8 月 8 日我国内地新增确诊病例 125 例，其中本土病例 94 例｜科研圈日报](https://mp.weixin.qq.com/s/xPGW0u28wb6--27s4xoFuw)
+- [Nature一周论文导读｜2021年7月29日](https://mp.weixin.qq.com/s/Jo6bn-jFIRF2QrU8DiFmng)

@@ -2268,3 +2268,5 @@
 - [“青年抗疫守卫队”的媒介实践与社会行动——对一个湖北村庄的网络民族志研究](https://mp.weixin.qq.com/s/u2kbd9csvcA3AliVUH7HpQ)
 - [关注 | 测绘地理信息服务疫情防控](https://mp.weixin.qq.com/s/fbrVWpuUXbJlHe-Y_b39hQ)
 - [Analyzing COVID-19 Using Multisource Data: An Integrated Approach of Visualization, Spatial Regression, and Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GH000439)
+- [反思：七月水灾和新冠，智慧城市最该治理什么？](https://mp.weixin.qq.com/s/QmFFYrPxjyA7GBSQCcK3Zg)
+- [新冠病毒怎样才能“流感化”，并和人类长期共存？100多年前这场瘟疫可供参考](https://mp.weixin.qq.com/s/3_i9L89wxVNguGu4h5Tftw)

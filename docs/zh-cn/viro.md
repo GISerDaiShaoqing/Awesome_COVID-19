@@ -1203,3 +1203,7 @@
 - [新型突变株“拉姆达”来袭: 进一步对疫苗产生抗性](https://mp.weixin.qq.com/s/35TTVgwcwZO3TjtzQW2axQ)
 - [访谈｜德尔塔突变株会改变 “清零” 防控策略吗？](https://mp.weixin.qq.com/s/4oU3zLXAEs2V27JA_dzUpA)
 - [Neutralizing Activity of Sera from Sputnik V-Vaccinated People against Variants of Concern (VOC: B.1.1.7, B.1.351, P.1, B.1.617.2, B.1.617.3) and Moscow Endemic SARS-CoV-2 Variants](https://www.mdpi.com/2076-393X/9/7/779)
+- [清华李丕龙团队巧用相变招募新技术绘制新冠病毒蛋白互作网络 | Cell Press对话科学家](https://mp.weixin.qq.com/s/2Y0rejWwWX1i-NFDC_kFTA)
+- [Compartmentalization-aided interaction screening reveals extensive high-order complexes within the SARS-CoV-2 proteome](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00909-8)
+- [孙强/黄红艳团队合作揭示N501Y突变赋予新冠病毒感染小鼠能力](https://mp.weixin.qq.com/s/_hfzRliTykvv9G5GYhqHiQ)
+- [N501Y mutation imparts cross-species transmission of SARS-CoV-2 to mice by enhancing receptor binding ](https://www.nature.com/articles/s41392-021-00704-2)
