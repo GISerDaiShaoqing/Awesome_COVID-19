@@ -670,4 +670,7 @@
 - [Association of Coronavirus Disease-19 Hospitalization Volume and Case Growth at United States Hospitals with Patient Outcomes](https://www.amjmed.com/article/S0002-9343(21)00468-X/fulltext)
 - [兰州大学研发全球首个疫情预测系统：对河南和江苏疫情做出最新预测！](https://mp.weixin.qq.com/s/_99mDyekJUrg2GbgVWUBkA)
 - [Editorial: Mathematical Modelling of the Pandemic of 2019 Novel Coronavirus (COVID-19): Patterns, Dynamics, Prediction, and Control](https://www.frontiersin.org/articles/10.3389/fphy.2021.738602/full)
-- [A hospital-related outbreak of SARS-CoV-2 associated with variant Epsilon (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021]()
+- [A hospital-related outbreak of SARS-CoV-2 associated with variant Epsilon (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021](https://www.sciencedirect.com/science/article/pii/S1201971221005178)
+- [Spatial-temporal modeling of initial COVID-19 diffusion: The cases of the Chinese Mainland and Conterminous United States](https://www.tandfonline.com/doi/full/10.1080/10095020.2021.1937338)
+- [Dynamical variations of the Global COVID‐19 Pandemic basedon a SEICR disease model: A new approach of Yi Hua Jie Mu](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GH000455)
+- [Projecting contact matrices in 177 geographical regions: an update and comparison with empirical data for the COVID-19 era](https://www.medrxiv.org/content/10.1101/2020.07.22.20159772v2)

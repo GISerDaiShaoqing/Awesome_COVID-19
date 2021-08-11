@@ -2270,3 +2270,6 @@
 - [Analyzing COVID-19 Using Multisource Data: An Integrated Approach of Visualization, Spatial Regression, and Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GH000439)
 - [反思：七月水灾和新冠，智慧城市最该治理什么？](https://mp.weixin.qq.com/s/QmFFYrPxjyA7GBSQCcK3Zg)
 - [新冠病毒怎样才能“流感化”，并和人类长期共存？100多年前这场瘟疫可供参考](https://mp.weixin.qq.com/s/3_i9L89wxVNguGu4h5Tftw)
+- [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://www.medrxiv.org/content/10.1101/2021.08.04.21261420v1)
+- [Automatic Detection of COVID-19 Vaccine Misinformation with Graph Link Prediction](https://arxiv.org/abs/2108.02314v1)
+- [The city turned off: Urban Dynamics during the COVID-19 pandemic based on mobile phone data](https://www.sciencedirect.com/science/article/pii/S0143622821001405)

@@ -1964,3 +1964,6 @@
 - [【科普大赛作品展播】结核杆菌与新冠病毒的区别](https://mp.weixin.qq.com/s/0tufPV_0VpB-fJKCyY2tjA)
 - [8 月 8 日我国内地新增确诊病例 125 例，其中本土病例 94 例｜科研圈日报](https://mp.weixin.qq.com/s/xPGW0u28wb6--27s4xoFuw)
 - [Nature一周论文导读｜2021年7月29日](https://mp.weixin.qq.com/s/Jo6bn-jFIRF2QrU8DiFmng)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月9日）【中国科讯】](https://mp.weixin.qq.com/s/wBRPG9dsxgdVmLztf8uT2Q)
+- [24小时热门｜中国科学家联合报道：新冠病毒RNA不具备整合进宿主基因组的能力](https://mp.weixin.qq.com/s/V3zHhQzfgHEWGan0u1LvWQ)
+- [8 月 9 日我国内地新增确诊病例 143 例，其中本土病例 108 例｜科研圈日报](https://mp.weixin.qq.com/s/a2NYSVOb7AmJGQ7YirSaYw)

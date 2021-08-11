@@ -258,3 +258,5 @@
 - [运动员来了！东京奥运会这样防疫](https://mp.weixin.qq.com/s/1fAmE-Gvl46CqWEy810QAA)
 - [Analyzing COVID-19 Using Multisource Data: An Integrated Approach of Visualization, Spatial Regression and Machine Learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GH000439)
 - [一图读懂328例南京疫情传播链](https://mp.weixin.qq.com/s/C24Gc6cS2L6Us0MkMQ3ZDg)
+- [论文推送 | 新冠疫情地图形式如何影响公众风险感知？](https://mp.weixin.qq.com/s/sgJTR84r6e4I5S5v8LE8hg)
+- [Evaluating the effectiveness and efficiency of risk communication for maps depicting the hazard of COVID-19](https://doi.org/10.1111/tgis.12814)

@@ -1207,3 +1207,5 @@
 - [Compartmentalization-aided interaction screening reveals extensive high-order complexes within the SARS-CoV-2 proteome](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00909-8)
 - [孙强/黄红艳团队合作揭示N501Y突变赋予新冠病毒感染小鼠能力](https://mp.weixin.qq.com/s/_hfzRliTykvv9G5GYhqHiQ)
 - [N501Y mutation imparts cross-species transmission of SARS-CoV-2 to mice by enhancing receptor binding ](https://www.nature.com/articles/s41392-021-00704-2)
+- [A novel SARS-CoV-2 related coronavirus with complex recombination isolated from bats in Yunnan province, China](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1964925)
+- [Genetic analysis and biological characteristics of novel clade 2.3.4.4 reassortant H5N6 avian influenza viruses from poultry in Eastern China in 2016](https://doi.org/10.1016/j.ijid.2021.07.074)
