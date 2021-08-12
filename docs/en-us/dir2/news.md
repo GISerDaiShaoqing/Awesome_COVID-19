@@ -8922,3 +8922,4 @@
 - [外国机场检疫很多漏洞](https://mp.weixin.qq.com/s/HTmL9LdIrw1jOMGF0u0cbg)
 - [以色列治疗新冠肺炎新药二期试验在希腊进行，成绩可喜](https://mp.weixin.qq.com/s/iNndOJAoeGz6kYZclJrRgw)
 - [荷兰疫情下降速度减缓，特别关注学生中的疫情](https://mp.weixin.qq.com/s/qhoxhrqPT7dt2gdQv98T2A)
+- [关于“德尔塔”，你关心的8个问题都在这里](https://mp.weixin.qq.com/s/_OGnQQGVbEAmK-kWtrympw)
