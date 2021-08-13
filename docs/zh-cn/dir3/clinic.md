@@ -1744,3 +1744,4 @@
 - [Heterologous COVID-19 Vaccination Enhances Immune Responses](https://www.jwatch.org/na53804?query=nejmyxqy)
 - [Masitinib is a broad coronavirus 3CL inhibitor that blocks replication of SARS-CoV-2](https://science.sciencemag.org/content/early/2021/07/19/science.abg5827)
 - [Vaccine effectiveness against SARS-CoV-2 transmission and infections among household and other close contacts of confirmed cases, the Netherlands, February to May 2021](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.31.2100640)
+- [以色列抗新冠新药来了！5天内治愈90%重症患者](https://mp.weixin.qq.com/s/WVIKbQcWuNWY6n_vxgPOsA)

@@ -1209,3 +1209,6 @@
 - [N501Y mutation imparts cross-species transmission of SARS-CoV-2 to mice by enhancing receptor binding ](https://www.nature.com/articles/s41392-021-00704-2)
 - [A novel SARS-CoV-2 related coronavirus with complex recombination isolated from bats in Yunnan province, China](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1964925)
 - [Genetic analysis and biological characteristics of novel clade 2.3.4.4 reassortant H5N6 avian influenza viruses from poultry in Eastern China in 2016](https://doi.org/10.1016/j.ijid.2021.07.074)
+- [新冠变异株这么多，为什么是德尔塔最流行？](https://mp.weixin.qq.com/s/T1f90k0YmtpxjD525O-t8g)
+- [Why Do Variants Such as Delta Become Dominant?](https://www.scientificamerican.com/article/why-do-variants-such-as-delta-become-dominant1/)
+- [溯源！美国野生动物于2019年发现新冠抗体！](https://mp.weixin.qq.com/s/gP19MPfZ95SiTUX-P6A4jA)

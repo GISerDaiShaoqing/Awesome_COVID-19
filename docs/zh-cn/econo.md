@@ -712,3 +712,5 @@
 - [海外行思 | 十问城市规划【连载】第四问：“后疫情时代”城市将怎样转型？](https://mp.weixin.qq.com/s/WukHtvAicsvgvk27VD3keA)
 - [发展研究 | 新冠肺炎疫情下的测绘地理信息企业日常经营问题](https://mp.weixin.qq.com/s/hrsVa7SwfQbtWi6R0blTsA)
 - [发展研究丨新冠肺炎疫情下的测绘地理信息企业人才发展问题](https://mp.weixin.qq.com/s/I4nfnHbTBbScpUPMmkOkJA)
+- [发展研究 | 新冠肺炎疫情下的测绘地理信息企业人才发展问题](https://mp.weixin.qq.com/s/dw8b7mNZATyU2gQfM0i72Q)
+- [【Open Access】重大疫情冲击下城市空间治理考验](https://mp.weixin.qq.com/s/vXyCz8lmrd7HCHE49VfYiA)

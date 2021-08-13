@@ -1967,3 +1967,6 @@
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月9日）【中国科讯】](https://mp.weixin.qq.com/s/wBRPG9dsxgdVmLztf8uT2Q)
 - [24小时热门｜中国科学家联合报道：新冠病毒RNA不具备整合进宿主基因组的能力](https://mp.weixin.qq.com/s/V3zHhQzfgHEWGan0u1LvWQ)
 - [8 月 9 日我国内地新增确诊病例 143 例，其中本土病例 108 例｜科研圈日报](https://mp.weixin.qq.com/s/a2NYSVOb7AmJGQ7YirSaYw)
+- [对口罩的“执念”，就要像他们一样【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/nKELqtNpKgWjUMS4AnWc9w)
+- [国产疫苗混打“加强针”临床试验获批｜科研圈日报](https://mp.weixin.qq.com/s/YwjlAg4_VTAVdJMwSqSsYg)
+- [24小时热门｜新冠防护，居家隔离还不够？近3万高危人群数据发现了啥？](https://mp.weixin.qq.com/s/G8EoolIrFZoKoDCVowJtQg)

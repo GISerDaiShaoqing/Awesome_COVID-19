@@ -2273,3 +2273,4 @@
 - [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://www.medrxiv.org/content/10.1101/2021.08.04.21261420v1)
 - [Automatic Detection of COVID-19 Vaccine Misinformation with Graph Link Prediction](https://arxiv.org/abs/2108.02314v1)
 - [The city turned off: Urban Dynamics during the COVID-19 pandemic based on mobile phone data](https://www.sciencedirect.com/science/article/pii/S0143622821001405)
+- [假如全球新冠疫情永不结束，我们该怎么办？](https://mp.weixin.qq.com/s/vqhUqZZ6J0hDDRR4zl4Oqw)

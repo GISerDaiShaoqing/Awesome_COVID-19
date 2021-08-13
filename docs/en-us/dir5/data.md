@@ -256,3 +256,4 @@
 - [【数据】疫情下线上购物大增，亚马逊公司碳排放反弹19%](https://mp.weixin.qq.com/s/8mmjYOmnEuYcXdL3t6p22w)
 - [Further and Faster, Together](https://sustainability.aboutamazon.com/pdfBuilderDownload?name=amazon-sustainability-2020-report)
 - [新冠疫情快速响应：数据、工具与应用](https://mp.weixin.qq.com/s/PM7BRTuzc6uG-yI_qOjGCA)
+- [中国各省市新冠疫情数据 & 世界各国新冠疫情数据（更新至 8 月 11 日）](https://mp.weixin.qq.com/s/THBJX4g8F2WfM12XhTf-Kw)

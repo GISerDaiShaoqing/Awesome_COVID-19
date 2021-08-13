@@ -674,3 +674,5 @@
 - [Spatial-temporal modeling of initial COVID-19 diffusion: The cases of the Chinese Mainland and Conterminous United States](https://www.tandfonline.com/doi/full/10.1080/10095020.2021.1937338)
 - [Dynamical variations of the Global COVID‐19 Pandemic basedon a SEICR disease model: A new approach of Yi Hua Jie Mu](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GH000455)
 - [Projecting contact matrices in 177 geographical regions: an update and comparison with empirical data for the COVID-19 era](https://www.medrxiv.org/content/10.1101/2020.07.22.20159772v2)
+- [模型估计：全球近150万儿童因COVID-19失去一位照护人](https://mp.weixin.qq.com/s/T6dIzSJD4o_viM4mzPKXog)
+- [Global minimum estimates of children affected by COVID-19-associated orphanhood and deaths of caregivers: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01253-8/fulltext)
