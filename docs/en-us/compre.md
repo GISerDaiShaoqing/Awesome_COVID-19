@@ -2274,3 +2274,7 @@
 - [Automatic Detection of COVID-19 Vaccine Misinformation with Graph Link Prediction](https://arxiv.org/abs/2108.02314v1)
 - [The city turned off: Urban Dynamics during the COVID-19 pandemic based on mobile phone data](https://www.sciencedirect.com/science/article/pii/S0143622821001405)
 - [假如全球新冠疫情永不结束，我们该怎么办？](https://mp.weixin.qq.com/s/vqhUqZZ6J0hDDRR4zl4Oqw)
+- [Geo Health Hub论坛系列好文第三期](https://mp.weixin.qq.com/s/Ko7BcBv6VnSxwaRVA2NtDQ)
+- [Intracounty modeling of COVID-19 infection with human mobility: Assessing spatial heterogeneity with business traffic, age, and race](https://www.pnas.org/content/118/24/e2020524118)
+- [“与病毒共存”的新加坡，能为世界蹚出一条路吗？](https://mp.weixin.qq.com/s/0qukx646PCSqXe-E-_GWKw)
+- [Investigation of a Suspect Severe Acute Respiratory Syndrome Coronavirus-2 and Influenza A Mixed Outbreak: Lessons Learned for Long-Term Care Facilities Nationwide](https://academic.oup.com/cid/article/73/Supplement_1/S77/6270741)

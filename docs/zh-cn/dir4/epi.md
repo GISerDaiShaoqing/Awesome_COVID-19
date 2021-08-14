@@ -676,3 +676,4 @@
 - [Projecting contact matrices in 177 geographical regions: an update and comparison with empirical data for the COVID-19 era](https://www.medrxiv.org/content/10.1101/2020.07.22.20159772v2)
 - [模型估计：全球近150万儿童因COVID-19失去一位照护人](https://mp.weixin.qq.com/s/T6dIzSJD4o_viM4mzPKXog)
 - [Global minimum estimates of children affected by COVID-19-associated orphanhood and deaths of caregivers: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01253-8/fulltext)
+- [传染病暴发早期预警模型和预警系统概述与展望 Summary and prospect of early warning models and systems for infectious disease outbreaks](https://www.researchgate.net/publication/353827635_chuanranbingbaofazaoqiyujingmoxingheyujingxitonggaishuyuzhanwang_Summary_and_prospect_of_early_warning_models_and_systems_for_infectious_disease_outbreaks)

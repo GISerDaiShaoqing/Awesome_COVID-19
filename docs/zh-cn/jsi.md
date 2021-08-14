@@ -118,3 +118,4 @@
 - [MDPI 特刊征稿 | Viruses: 武汉大学徐可教授、陈宇教授共创抗病毒新药研究特刊](https://mp.weixin.qq.com/s/qU34r5F66ADVEwfcUiN6OQ)
 - [Desalination特刊征稿：COVID-19 and Related Virus in Desalination](https://mp.weixin.qq.com/s/K_8Nf7NkqfT6IVJM6JvU4A)
 - [秋天的第一份征稿函—Human mobility and pandemic | GSIS](https://mp.weixin.qq.com/s/mOPQk9igJIOUPD8R7lp6hg)
+- [主编荐读 | 新冠疫情下的组织心理学研究 | Frontiers in Psychology](https://mp.weixin.qq.com/s/Zie-A1D7S2RMmBP_aiwrlw)

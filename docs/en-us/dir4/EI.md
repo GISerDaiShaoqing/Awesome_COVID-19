@@ -278,3 +278,5 @@
 - [Onset of effects of non-pharmaceutical interventions on COVID-19 infection rates in 176 countries](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-11530-0)
 - [Spill-over effect of Wuhan travel ban on population flow in the outbreak stage of COVID-19 in China](https://doi.org/10.1016/j.cities.2021.103404)
 - [Effect of Non-lockdown Social Distancing and Testing-Contact Tracing During a COVID-19 Outbreak in Daegu, South Korea, February to April 2020: A Modeling Study](https://doi.org/10.1016/j.ijid.2021.07.058)
+- [COVID-19 大流行期间哮喘住院人数减少：新加坡公共卫生措施的结果](https://mp.weixin.qq.com/s/WiPFxfQ5lLQAbR7A9H7q3w)
+- [Reduction in asthma admissions during the COVID-19 pandemic: consequence of public health measures in Singapore](https://erj.ersjournals.com/content/57/4/2004493?ctkey=wechat)

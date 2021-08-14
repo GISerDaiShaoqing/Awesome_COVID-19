@@ -260,3 +260,4 @@
 - [一图读懂328例南京疫情传播链](https://mp.weixin.qq.com/s/C24Gc6cS2L6Us0MkMQ3ZDg)
 - [论文推送 | 新冠疫情地图形式如何影响公众风险感知？](https://mp.weixin.qq.com/s/sgJTR84r6e4I5S5v8LE8hg)
 - [Evaluating the effectiveness and efficiency of risk communication for maps depicting the hazard of COVID-19](https://doi.org/10.1111/tgis.12814)
+- [【Viz Challenge】2021 年第三期正式开启，透过数据解读全球新冠疫苗接种情况](https://mp.weixin.qq.com/s/R9oKYlEycsvBtoAqOL1t6w)

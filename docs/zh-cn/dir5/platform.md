@@ -161,3 +161,4 @@
 - [The US COVID Atlas: A dynamic cyberinfrastructure surveillance system for interactive exploration of the pandemic](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12786)
 - [又获央视表扬！京东智能城市用技术构筑全民免疫屏障](https://mp.weixin.qq.com/s/95PfScDo1jBAO6a-YEvS3g)
 - [健康码背后的技术领军人：人脸识别还可识脸看病](https://mp.weixin.qq.com/s/ERsrLTDxcN26nGshe_igCg)
+- [手机拍照测温！央媒争相点赞的高铁防疫“黑科技”来自光谷](https://mp.weixin.qq.com/s/8CwREaA5Ie2CX2WNhswiwg)
