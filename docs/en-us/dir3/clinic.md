@@ -1751,3 +1751,6 @@
 - [Illness duration and symptom profile in symptomatic UK school-aged children tested for SARS-CoV-2](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(21)00198-X/fulltext)
 - [Comparability of six different immunoassays measuring SARS-CoV-2 antibodies with neutralising antibody levels in convalescent plasma: from utility to prediction](https://onlinelibrary.wiley.com/doi/abs/10.1111/trf.16600)
 - [Longitudinal evaluation of laboratory-based serological assays for SARS-CoV-2 antibody detection](https://doi.org/10.1016/j.pathol.2021.05.093)
+- [2分钟看懂NEJM：COVID-19疫苗对B.1.617.2（delta）变异株的预防效果](https://mp.weixin.qq.com/s/qQ37Y_OlpWMl9ddiqqrw-Q)
+- [Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant](https://www.nejm.org/doi/full/10.1056/NEJMoa2108891)
+- [Caution When Comparing the Impact of Corticosteroids in COVID-19](https://journal.chestnet.org/article/S0012-3692(21)00748-0/fulltext)

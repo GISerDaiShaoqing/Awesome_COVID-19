@@ -1978,3 +1978,5 @@
 - [世卫组织启动寻找新冠药物的“团结试验+”，3 款药物纳入测试范围｜科研圈日报](https://mp.weixin.qq.com/s/8jpl1Sr1QHuFBfjDD2OSYg)
 - [关于居家医学观察，这些卫生防疫要点你知道吗？【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/RiLyl-H0K0h3MmuYdSUKQQ)
 - [教育部明确秋季学期学生返校 3 条硬性标准｜科研圈日报](https://mp.weixin.qq.com/s/Up5IpeK_dIpmL3ahxBxUcg)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月13日）【中国科讯】](https://mp.weixin.qq.com/s/j9tsFM3QbP7DBdDgOlZO9A)
+- [关于新修订的防护指南，公众特别注意篇来啦【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/RbmgYxGuvD-K9-5JFjAWbA)
