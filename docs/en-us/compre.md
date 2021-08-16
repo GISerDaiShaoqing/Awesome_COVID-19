@@ -2284,3 +2284,5 @@
 - [Longitudinal analysis to characterize classes and subclasses of antibody responses to recombinant receptor-binding protein (RBD) of SARS-CoV-2 in COVID-19 patients in Thailand](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0255796)
 - [SARS-CoV-2 seroprevalence survey among health care providers in a Belgian public multiple-site hospital](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/sarscov2-seroprevalence-survey-among-health-care-providers-in-a-belgian-public-multiplesite-hospital/C1EA7C2153CE4071ADAE0B2E5796E2D8)
 - [Long-term exposure to air pollution and COVID-19 incidence: A multi-country study](https://doi.org/10.1016/j.sste.2021.100443)
+- [Lancet Voice | 关注女性产后出血死亡及巴西抗疫情况分析](https://mp.weixin.qq.com/s/0FpTU4XOqr8BjIjGCzvdpw)
+- [饶毅：谁与谁共存，老祖宗病毒与小孩子人类](https://mp.weixin.qq.com/s/9Ge3ZL03XdD8Ipu3RJSzmA)
