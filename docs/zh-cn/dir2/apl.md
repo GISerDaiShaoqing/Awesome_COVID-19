@@ -1984,3 +1984,8 @@
 - [8 月 15 日我国内地新增确诊病例 51 例，其中本土病例 13 例｜科研圈日报](https://mp.weixin.qq.com/s/5En3f_KmHmCdqrcflmetAA)
 - [Science一周论文导读｜2021年8月6日](https://mp.weixin.qq.com/s/AMEM8AWi6GtIYRcVK_FXmA)
 - [Nature一周论文导读｜2021年8月5日](https://mp.weixin.qq.com/s/HdYB7MV8hObBxUfpGyt3vQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月16日）【中国科讯】](https://mp.weixin.qq.com/s/E-dusix0XUBYjAiIFzIJgw)
+- [你属于这几类人群吗？重点职业人群的戴口罩指引看过来～](https://mp.weixin.qq.com/s/A2Njonygm1KkYaib9I1IEw)
+- [普通公众该怎样戴口罩？](https://mp.weixin.qq.com/s/2POV7r0WbrLMD5hwolk-1A)
+- [24小时热门｜在2亿多年前的粪便里，一个全新的物种出现了；患新冠真的会变傻](https://mp.weixin.qq.com/s/YPU3FesxpG8O9lH-VE9JaA)
+- [8 月 16 日我国内地新增确诊病例 42 例，其中本土病例 6 例｜科研圈日报](https://mp.weixin.qq.com/s/KSsIEFCslUbLJwERYwD3kw)

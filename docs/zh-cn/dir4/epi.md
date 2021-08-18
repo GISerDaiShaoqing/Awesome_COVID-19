@@ -677,3 +677,5 @@
 - [模型估计：全球近150万儿童因COVID-19失去一位照护人](https://mp.weixin.qq.com/s/T6dIzSJD4o_viM4mzPKXog)
 - [Global minimum estimates of children affected by COVID-19-associated orphanhood and deaths of caregivers: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01253-8/fulltext)
 - [传染病暴发早期预警模型和预警系统概述与展望 Summary and prospect of early warning models and systems for infectious disease outbreaks](https://www.researchgate.net/publication/353827635_chuanranbingbaofazaoqiyujingmoxingheyujingxitonggaishuyuzhanwang_Summary_and_prospect_of_early_warning_models_and_systems_for_infectious_disease_outbreaks)
+- [A modified SEIR model to predict the behavior of the early stage in coronavirus and coronavirus-like outbreaks](https://www.nature.com/articles/s41598-021-95785-y)
+- [A cluster randomized trial of interferon ß-1a for the reduction of transmission of SARS-Cov-2: protocol for the Containing Coronavirus Disease 19 trial (ConCorD-19)](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06519-4)

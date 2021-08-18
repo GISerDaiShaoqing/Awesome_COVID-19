@@ -1225,3 +1225,5 @@
 - [Jumping a Moving Train: SARS-CoV-2 Evolution in Real Time](https://academic.oup.com/jpids/advance-article/doi/10.1093/jpids/piab051/6346531)
 - [华科薛宇教授团队合作绘制新冠肺炎逝者多器官蛋白质图谱](https://mp.weixin.qq.com/s/QITqJrF8ajh6EFh4rP2E9w)
 - [Postmortem Tissue Proteomics Reveals the Pathogenesis of Multiorgan Injuries of COVID-19](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab143/6347352#)
+- [Live attenuated coronavirus vaccines deficient in N7-Methyltransferase activity induce both humoral and cellular immune responses in mice](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1964385)
+- [High throughput diagnostics and dynamic risk assessment of SARS-CoV-2 variants of concern](https://doi.org/10.1016/j.ebiom.2021.103540)

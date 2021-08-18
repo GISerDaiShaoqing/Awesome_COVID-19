@@ -284,3 +284,5 @@
 - [Testing Surge Capacity—A Canadian COVID-19 Experience, Ontario's Surge Capacity for the First Wave](https://doi.org/10.1016/j.healthpol.2021.08.001)
 - [Impact of physical distancing policy on reducing transmission of SARS-CoV-2 globally: Perspective from government's response and residents' compliance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255873)
 - [Effect of Non-lockdown Social Distancing and Testing-Contact Tracing During a COVID-19 Outbreak in Daegu, South Korea, February to April 2020: A Modeling Study](https://doi.org/10.1016/j.ijid.2021.07.058)
+- [HUMIDITY LEVEL ON COVID-19 WITH CONTROL STRATEGIES](http://diogenes.bg/ijam/contents/2021-34-4/14/)
+- [Predicting the effect of confinement on the COVID-19 spread using machine learning enriched with satellite air pollution observations](https://doi.org/10.1073/pnas.2109098118)

@@ -1759,3 +1759,7 @@
 - [COVID vaccine boosters: the most important questions](https://www.nature.com/articles/d41586-021-02158-6)
 - [病毒学国家重点实验室陈宇研究组在冠状病毒减毒活疫苗研究中取得新进展](https://mp.weixin.qq.com/s/FLvySSgSzSRtd_-2WAArDQ)
 - [Live attenuated coronavirus vaccines deficient in N7-Methyltransferase activity induce both humoral and cellular immune responses in mice](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1964385)
+- [武生所已分离出新冠变异德尔塔毒株，正加紧研制疫苗](https://mp.weixin.qq.com/s/HzG-dv9V4cN6DcbszhEPnw)
+- [法国研究称Delta发生ADE，吵翻了。。。](https://mp.weixin.qq.com/s/sRfM7Cke5sP2ZRlvzQ6jpg)
+- [Infection-enhancing anti-SARS-CoV-2 antibodies recognize both the original Wuhan/D614G strain and Delta variants. A potential risk for mass vaccination](https://doi.org/10.1016/j.jinf.2021.08.010)
+- [Can the cycle threshold (Ct) value of RT-PCR test for SARS CoV2 predict infectivity among close contacts?](https://doi.org/10.1016/j.jiph.2021.08.013)

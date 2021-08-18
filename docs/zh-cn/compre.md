@@ -2291,3 +2291,4 @@
 - [Estimating global and regional disruptions to routine childhood vaccine coverage during the COVID-19 pandemic in 2020: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01337-4/fulltext)
 - [英国解封：一场“豪赌”和“闯关实验”](https://mp.weixin.qq.com/s/6jFb2crGYTzUrl21674YKA)
 - [Human Mobility to Parks under the COVID-19 Pandemic and Wildfire Seasons in the Western and Central United States](https://www.essoar.org/doi/10.1002/essoar.10507707.1)
+- [Domestic Saudi Arabian Travellers’ Understanding about COVID-19 and Its Vaccination](https://www.mdpi.com/2076-393X/9/8/895)
