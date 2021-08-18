@@ -2286,3 +2286,8 @@
 - [Long-term exposure to air pollution and COVID-19 incidence: A multi-country study](https://doi.org/10.1016/j.sste.2021.100443)
 - [Lancet Voice | 关注女性产后出血死亡及巴西抗疫情况分析](https://mp.weixin.qq.com/s/0FpTU4XOqr8BjIjGCzvdpw)
 - [饶毅：谁与谁共存，老祖宗病毒与小孩子人类](https://mp.weixin.qq.com/s/9Ge3ZL03XdD8Ipu3RJSzmA)
+- [Social Capital Changes After COVID-19 Lockdown Among Youths in China: COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.697068/full)
+- [模型研究：COVID-19在2020年至少中断全球1700万儿童的常规疫苗接种](https://mp.weixin.qq.com/s/k3k1MQmgKZ7Toj1Q2opvTg)
+- [Estimating global and regional disruptions to routine childhood vaccine coverage during the COVID-19 pandemic in 2020: a modelling study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01337-4/fulltext)
+- [英国解封：一场“豪赌”和“闯关实验”](https://mp.weixin.qq.com/s/6jFb2crGYTzUrl21674YKA)
+- [Human Mobility to Parks under the COVID-19 Pandemic and Wildfire Seasons in the Western and Central United States](https://www.essoar.org/doi/10.1002/essoar.10507707.1)

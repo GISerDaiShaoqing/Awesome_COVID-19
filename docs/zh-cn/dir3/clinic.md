@@ -1755,3 +1755,7 @@
 - [Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant](https://www.nejm.org/doi/full/10.1056/NEJMoa2108891)
 - [Caution When Comparing the Impact of Corticosteroids in COVID-19](https://journal.chestnet.org/article/S0012-3692(21)00748-0/fulltext)
 - [一支新冠重组蛋白疫苗的诞生](https://mp.weixin.qq.com/s/XsBhYWef5rrIxuS3buRgAg)
+- [新冠疫苗加强针的五问五答 |《自然》长文](https://mp.weixin.qq.com/s/i6K8iEquC_eEHqLkwi8MsQ)
+- [COVID vaccine boosters: the most important questions](https://www.nature.com/articles/d41586-021-02158-6)
+- [病毒学国家重点实验室陈宇研究组在冠状病毒减毒活疫苗研究中取得新进展](https://mp.weixin.qq.com/s/FLvySSgSzSRtd_-2WAArDQ)
+- [Live attenuated coronavirus vaccines deficient in N7-Methyltransferase activity induce both humoral and cellular immune responses in mice](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1964385)

@@ -1223,3 +1223,5 @@
 - [The unique evolutionary dynamics of the SARS-CoV-2 Delta variant](https://www.medrxiv.org/content/10.1101/2021.08.05.21261642v1)
 - [No species-level losses of s2m suggests critical role in replication of SARS-related coronaviruses](https://www.nature.com/articles/s41598-021-95496-4)
 - [Jumping a Moving Train: SARS-CoV-2 Evolution in Real Time](https://academic.oup.com/jpids/advance-article/doi/10.1093/jpids/piab051/6346531)
+- [华科薛宇教授团队合作绘制新冠肺炎逝者多器官蛋白质图谱](https://mp.weixin.qq.com/s/QITqJrF8ajh6EFh4rP2E9w)
+- [Postmortem Tissue Proteomics Reveals the Pathogenesis of Multiorgan Injuries of COVID-19](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab143/6347352#)

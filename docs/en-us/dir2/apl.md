@@ -1980,3 +1980,7 @@
 - [教育部明确秋季学期学生返校 3 条硬性标准｜科研圈日报](https://mp.weixin.qq.com/s/Up5IpeK_dIpmL3ahxBxUcg)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月13日）【中国科讯】](https://mp.weixin.qq.com/s/j9tsFM3QbP7DBdDgOlZO9A)
 - [关于新修订的防护指南，公众特别注意篇来啦【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/RbmgYxGuvD-K9-5JFjAWbA)
+- [《公众科学戴口罩指引（修订版）》——普通公众【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/cSyuNI8WaSpJVT_VewJ1nQ)
+- [8 月 15 日我国内地新增确诊病例 51 例，其中本土病例 13 例｜科研圈日报](https://mp.weixin.qq.com/s/5En3f_KmHmCdqrcflmetAA)
+- [Science一周论文导读｜2021年8月6日](https://mp.weixin.qq.com/s/AMEM8AWi6GtIYRcVK_FXmA)
+- [Nature一周论文导读｜2021年8月5日](https://mp.weixin.qq.com/s/HdYB7MV8hObBxUfpGyt3vQ)
