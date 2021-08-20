@@ -286,3 +286,6 @@
 - [Effect of Non-lockdown Social Distancing and Testing-Contact Tracing During a COVID-19 Outbreak in Daegu, South Korea, February to April 2020: A Modeling Study](https://doi.org/10.1016/j.ijid.2021.07.058)
 - [HUMIDITY LEVEL ON COVID-19 WITH CONTROL STRATEGIES](http://diogenes.bg/ijam/contents/2021-34-4/14/)
 - [Predicting the effect of confinement on the COVID-19 spread using machine learning enriched with satellite air pollution observations](https://doi.org/10.1073/pnas.2109098118)
+- [KDD 2021最佳论文等奖项出炉，Tucker分解与COVID-19传播管控主题论文分别获研究和应用最佳论文](https://mp.weixin.qq.com/s/C3CGkl-TKYymZqKS415i3Q)
+- [Effect of Non-lockdown Social Distancing and Testing-Contact Tracing During a COVID-19 Outbreak in Daegu, South Korea, February to April 2020: A Modeling Study](https://doi.org/10.1016/j.ijid.2021.07.058)
+- [Efficacy of systematic coronavirus screening by PCR and viral cultures in addition to triage in limiting the spread of SARS-CoV-2 within a hemodialysis unit](https://link.springer.com/article/10.1007/s40620-021-01115-w)

@@ -1227,3 +1227,5 @@
 - [Postmortem Tissue Proteomics Reveals the Pathogenesis of Multiorgan Injuries of COVID-19](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab143/6347352#)
 - [Live attenuated coronavirus vaccines deficient in N7-Methyltransferase activity induce both humoral and cellular immune responses in mice](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.1964385)
 - [High throughput diagnostics and dynamic risk assessment of SARS-CoV-2 variants of concern](https://doi.org/10.1016/j.ebiom.2021.103540)
+- [新冠病毒方兴未艾，超级真菌又来雪上加霜？丨微生物的那些事儿](https://mp.weixin.qq.com/s/XQAqGlm478BeyE8-sywMWg)
+- [The Alpha Variant (B. 1.1. 7) of SARS-CoV-2 in Children: First Experience from 3544 Nucleic Acid Amplification Tests in a Cohort of Children in Germany](https://www.mdpi.com/1999-4915/13/8/1600)

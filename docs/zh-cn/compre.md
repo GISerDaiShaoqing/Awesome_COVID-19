@@ -2292,3 +2292,7 @@
 - [英国解封：一场“豪赌”和“闯关实验”](https://mp.weixin.qq.com/s/6jFb2crGYTzUrl21674YKA)
 - [Human Mobility to Parks under the COVID-19 Pandemic and Wildfire Seasons in the Western and Central United States](https://www.essoar.org/doi/10.1002/essoar.10507707.1)
 - [Domestic Saudi Arabian Travellers’ Understanding about COVID-19 and Its Vaccination](https://www.mdpi.com/2076-393X/9/8/895)
+- [An Investigation of Traffic Density Changes inside Wuhan during the COVID-19 Epidemic with GF-2 Time-Series Images](https://doi.org/10.1016/j.jag.2021.102503)
+- [Impact and reboundof near real-time United Statesfossil fuel carbon dioxide 1emissionsfrom COVID-19 and large differences with global estimates](https://eartharxiv.org/repository/view/2266/)
+- [The impact of the Covid-19 pandemic on green space use in Turkey: Is closing green spaces for use a solution?](https://www.sciencedirect.com/science/article/abs/pii/S1618866721003228)
+- [Clinical Trends Among US Adults Hospitalized With COVID-19, March to December 2020: A Cross-Sectional Study](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-1348768)

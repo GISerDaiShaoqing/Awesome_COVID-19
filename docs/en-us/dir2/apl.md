@@ -1989,3 +1989,8 @@
 - [普通公众该怎样戴口罩？](https://mp.weixin.qq.com/s/2POV7r0WbrLMD5hwolk-1A)
 - [24小时热门｜在2亿多年前的粪便里，一个全新的物种出现了；患新冠真的会变傻](https://mp.weixin.qq.com/s/YPU3FesxpG8O9lH-VE9JaA)
 - [8 月 16 日我国内地新增确诊病例 42 例，其中本土病例 6 例｜科研圈日报](https://mp.weixin.qq.com/s/KSsIEFCslUbLJwERYwD3kw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月18日）【中国科讯】](https://mp.weixin.qq.com/s/CiMuL2JKRfv8l3inrhmWLw)
+- [24小时热门｜预防81.4%新冠疾病，中和抗体组合疗法带来补充手段](https://mp.weixin.qq.com/s/C4YmEG48j7tqaPMARvf7ug)
+- [全球疫苗分配不均或导致新冠病例增加，促进新变种出现｜科研圈日报](https://mp.weixin.qq.com/s/8GW21TdTlHu_Qdv5IMnTgw)
+- [居家消毒8大误区！做错了可能造成伤害](https://mp.weixin.qq.com/s/rzmIEb_mKx8_VkzM8EEojA)
+- [美国将于 9 月底启动新冠疫苗加强针接种，决策引发热议｜科研圈日报](https://mp.weixin.qq.com/s/ZgjlCVbzcXKbtXuyX74Ydw)
