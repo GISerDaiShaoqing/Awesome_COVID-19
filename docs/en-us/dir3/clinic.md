@@ -1770,3 +1770,6 @@
 - [Pan-Sarbecovirus Neutralizing Antibodies in BNT162b2-Immunized SARS-CoV-1 Survivors](https://www.nejm.org/doi/full/10.1056/NEJMoa2108453)
 - [“武汉造”新冠疫苗获批3-17岁人群紧急使用](https://mp.weixin.qq.com/s/D5bilGBcCZHp8IcDhY1niA)
 - [Severe COVID-19 by SARS-CoV-2 Lineage B.1.1.7 in Vaccinated Solid-Organ Transplant Recipients: New Preventive Strategies Needed to Protect Immunocompromised Patients](https://www.mdpi.com/2076-393X/9/8/806)
+- [鼻细胞差异或致儿童新冠症状较轻 |《自然-生物技术》论文](https://mp.weixin.qq.com/s/zxGAkDLonYqZNrM2i9xNyg)
+- [Pre-activated antiviral innate immunity in the upper airways controls early SARS-CoV-2 infection in children](https://www.nature.com/articles/s41587-021-01037-9)
+- [Sex Differences in Association Between Anti-Hypertensive Medications and Risk of COVID-19 in Middle-Aged and Older Adults](https://link.springer.com/article/10.1007%2Fs40266-021-00886-y)

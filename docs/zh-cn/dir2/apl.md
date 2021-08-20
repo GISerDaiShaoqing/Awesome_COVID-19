@@ -1994,3 +1994,4 @@
 - [全球疫苗分配不均或导致新冠病例增加，促进新变种出现｜科研圈日报](https://mp.weixin.qq.com/s/8GW21TdTlHu_Qdv5IMnTgw)
 - [居家消毒8大误区！做错了可能造成伤害](https://mp.weixin.qq.com/s/rzmIEb_mKx8_VkzM8EEojA)
 - [美国将于 9 月底启动新冠疫苗加强针接种，决策引发热议｜科研圈日报](https://mp.weixin.qq.com/s/ZgjlCVbzcXKbtXuyX74Ydw)
+- [SARS 康复者接种新冠疫苗后产生超强免疫，能对抗多种变异株｜科研圈日报](https://mp.weixin.qq.com/s/MP_vnFjjDvn7RmnVAfqVeQ)

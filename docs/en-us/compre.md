@@ -2296,3 +2296,6 @@
 - [Impact and reboundof near real-time United Statesfossil fuel carbon dioxide 1emissionsfrom COVID-19 and large differences with global estimates](https://eartharxiv.org/repository/view/2266/)
 - [The impact of the Covid-19 pandemic on green space use in Turkey: Is closing green spaces for use a solution?](https://www.sciencedirect.com/science/article/abs/pii/S1618866721003228)
 - [Clinical Trends Among US Adults Hospitalized With COVID-19, March to December 2020: A Cross-Sectional Study](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-1348768)
+- [推进可持续发展目标的全球行动：政策综述与后疫情时代展望 | MDPI Sustainability](https://mp.weixin.qq.com/s/OqGxEmt_jl0sMTPi839tNg)
+- [Global Action on SDGs: Policy Review and Outlook in a Post-Pandemic Era](https://www.mdpi.com/2071-1050/13/11/6461)
+- [Global Tweet Mentions of COVID-19](https://arxiv.org/abs/2108.06385)
