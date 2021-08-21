@@ -1773,3 +1773,6 @@
 - [鼻细胞差异或致儿童新冠症状较轻 |《自然-生物技术》论文](https://mp.weixin.qq.com/s/zxGAkDLonYqZNrM2i9xNyg)
 - [Pre-activated antiviral innate immunity in the upper airways controls early SARS-CoV-2 infection in children](https://www.nature.com/articles/s41587-021-01037-9)
 - [Sex Differences in Association Between Anti-Hypertensive Medications and Risk of COVID-19 in Middle-Aged and Older Adults](https://link.springer.com/article/10.1007%2Fs40266-021-00886-y)
+- [重磅：SARS康复者接种新冠疫苗产生超级抵抗力！广谱新冠疫苗指日可待？](https://mp.weixin.qq.com/s/2esNrNn4OqSb3DJVbJjByA)
+- [Use of Hydroxychloroquine, Remdesivir, and Dexamethasone Among Adults Hospitalized With COVID-19 in the United States: A Retrospective Cohort Study](https://www.acpjournals.org/doi/10.7326/M21-0857)
+- [A broadly neutralizing humanized ACE2-targeting antibody against SARS-CoV-2 variants](https://www.nature.com/articles/s41467-021-25331-x)

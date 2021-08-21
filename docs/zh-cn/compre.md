@@ -2299,3 +2299,6 @@
 - [推进可持续发展目标的全球行动：政策综述与后疫情时代展望 | MDPI Sustainability](https://mp.weixin.qq.com/s/OqGxEmt_jl0sMTPi839tNg)
 - [Global Action on SDGs: Policy Review and Outlook in a Post-Pandemic Era](https://www.mdpi.com/2071-1050/13/11/6461)
 - [Global Tweet Mentions of COVID-19](https://arxiv.org/abs/2108.06385)
+- [How did micro-mobility change in response to COVID-19 pandemic? A case study based on spatial-temporal-semantic analytics](https://doi.org/10.1016/j.compenvurbsys.2021.101703)
+- [Meteorological factors and non-pharmaceutical interventions explain local differences in the spread of SARS-CoV-2 in Austria](https://arxiv.org/abs/2108.06169)
+- [Diagnostic accuracy of rapid antigen tests in asymptomatic and presymptomatic close contacts of individuals with confirmed SARS-CoV-2 infection: cross sectional study](https://www.bmj.com/content/374/bmj.n1676)

@@ -679,3 +679,4 @@
 - [传染病暴发早期预警模型和预警系统概述与展望 Summary and prospect of early warning models and systems for infectious disease outbreaks](https://www.researchgate.net/publication/353827635_chuanranbingbaofazaoqiyujingmoxingheyujingxitonggaishuyuzhanwang_Summary_and_prospect_of_early_warning_models_and_systems_for_infectious_disease_outbreaks)
 - [A modified SEIR model to predict the behavior of the early stage in coronavirus and coronavirus-like outbreaks](https://www.nature.com/articles/s41598-021-95785-y)
 - [A cluster randomized trial of interferon ß-1a for the reduction of transmission of SARS-Cov-2: protocol for the Containing Coronavirus Disease 19 trial (ConCorD-19)](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06519-4)
+- [Association of Age and Pediatric Household Transmission of SARS-CoV-2 Infection](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2783022)

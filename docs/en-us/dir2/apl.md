@@ -1995,3 +1995,4 @@
 - [居家消毒8大误区！做错了可能造成伤害](https://mp.weixin.qq.com/s/rzmIEb_mKx8_VkzM8EEojA)
 - [美国将于 9 月底启动新冠疫苗加强针接种，决策引发热议｜科研圈日报](https://mp.weixin.qq.com/s/ZgjlCVbzcXKbtXuyX74Ydw)
 - [SARS 康复者接种新冠疫苗后产生超强免疫，能对抗多种变异株｜科研圈日报](https://mp.weixin.qq.com/s/MP_vnFjjDvn7RmnVAfqVeQ)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月20日）【中国科讯】](https://mp.weixin.qq.com/s/AOpoMqHMK34MjzMXLs9p6w)
