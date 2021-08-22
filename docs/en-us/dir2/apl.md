@@ -1996,3 +1996,4 @@
 - [美国将于 9 月底启动新冠疫苗加强针接种，决策引发热议｜科研圈日报](https://mp.weixin.qq.com/s/ZgjlCVbzcXKbtXuyX74Ydw)
 - [SARS 康复者接种新冠疫苗后产生超强免疫，能对抗多种变异株｜科研圈日报](https://mp.weixin.qq.com/s/MP_vnFjjDvn7RmnVAfqVeQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月20日）【中国科讯】](https://mp.weixin.qq.com/s/AOpoMqHMK34MjzMXLs9p6w)
+- [21位专家重磅文章：新冠病毒从武汉病毒所泄露“没有任何证据”](https://mp.weixin.qq.com/s/S2HDg-tDg0p2wh_8teqsYg)
