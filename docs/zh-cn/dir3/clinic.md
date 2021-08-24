@@ -1776,3 +1776,8 @@
 - [重磅：SARS康复者接种新冠疫苗产生超级抵抗力！广谱新冠疫苗指日可待？](https://mp.weixin.qq.com/s/2esNrNn4OqSb3DJVbJjByA)
 - [Use of Hydroxychloroquine, Remdesivir, and Dexamethasone Among Adults Hospitalized With COVID-19 in the United States: A Retrospective Cohort Study](https://www.acpjournals.org/doi/10.7326/M21-0857)
 - [A broadly neutralizing humanized ACE2-targeting antibody against SARS-CoV-2 variants](https://www.nature.com/articles/s41467-021-25331-x)
+- [STTT | 暨南大学吴建国/张其威等发现HIF-1α促进新冠病毒感染并加重对COVID-19的炎症反应](https://mp.weixin.qq.com/s/gZwJzkvfNrv1EU8uT8IU9A)
+- [HIF-1α promotes SARS-CoV-2 infection and aggravates inflammatory responses to COVID-19](https://www.nature.com/articles/s41392-021-00726-w)
+- [儿童及青少年需要接种新冠疫苗吗？](https://mp.weixin.qq.com/s/fZqyJJ2Qs5Z5pBsx-FFucA)
+- [Should children get COVID vaccines? What the science says](https://www.nature.com/articles/d41586-021-01898-9)
+- [广东疾控研究：接种两剂国产新冠灭活疫苗对德尔塔毒株有效](https://mp.weixin.qq.com/s/h4LH_vJpRc6R1osz0WnWUA)

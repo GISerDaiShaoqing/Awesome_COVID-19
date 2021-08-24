@@ -1997,3 +1997,6 @@
 - [SARS 康复者接种新冠疫苗后产生超强免疫，能对抗多种变异株｜科研圈日报](https://mp.weixin.qq.com/s/MP_vnFjjDvn7RmnVAfqVeQ)
 - [情报监测 | “COVID-19”科研动态监测每日快报（8月20日）【中国科讯】](https://mp.weixin.qq.com/s/AOpoMqHMK34MjzMXLs9p6w)
 - [21位专家重磅文章：新冠病毒从武汉病毒所泄露“没有任何证据”](https://mp.weixin.qq.com/s/S2HDg-tDg0p2wh_8teqsYg)
+- [帮助 Delta 迅速转播的突变或被锁定｜科研圈日报](https://mp.weixin.qq.com/s/JEtxPiUX0OjYvVQPrx9zVw)
+- [针对成人自闭症患者焦虑的互感训练研究 | EClinicalMedicine7月刊精选](https://mp.weixin.qq.com/s/bcIgSpySYEkxPwV6WUnZ7A)
+- [常去的商场、健身房等场所疫情防控要求有哪些新变化？看这儿！【新型冠状病毒科普知识】](https://mp.weixin.qq.com/s/luq7QHYSK-sx8XDtP0TBVQ)

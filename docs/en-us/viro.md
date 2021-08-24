@@ -1232,3 +1232,4 @@
 - [SCLS｜魏文胜课题组和合作者报道新冠病毒新型潜在受体发现](https://mp.weixin.qq.com/s/gUkxG7MXMjROGfrYXTmF9g)
 - [Genome-wide CRISPR activation screen identifies candidate receptors for SARS-CoV-2 entry](http://engine.scichina.com/doi/10.1007/s11427-021-1990-5)
 - [病毒从武汉病毒所实验室泄露？ 美英等国21位权威专家：无任何科学证据](https://mp.weixin.qq.com/s/HRYiXvhHmukgfJ7pUSUl-w)
+- [病毒是怎么变异的？人类能消灭它吗？| 病毒超话](https://mp.weixin.qq.com/s/JTYg5UZ2OBtgv4dEKDdDdg)

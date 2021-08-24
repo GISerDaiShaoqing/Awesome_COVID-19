@@ -714,3 +714,4 @@
 - [发展研究丨新冠肺炎疫情下的测绘地理信息企业人才发展问题](https://mp.weixin.qq.com/s/I4nfnHbTBbScpUPMmkOkJA)
 - [发展研究 | 新冠肺炎疫情下的测绘地理信息企业人才发展问题](https://mp.weixin.qq.com/s/dw8b7mNZATyU2gQfM0i72Q)
 - [【Open Access】重大疫情冲击下城市空间治理考验](https://mp.weixin.qq.com/s/vXyCz8lmrd7HCHE49VfYiA)
+- [全球城市观察｜疫情下，如何减轻员工的育儿负担](https://mp.weixin.qq.com/s/Ej8LIsnFTI9q30ZpthbTCg)
