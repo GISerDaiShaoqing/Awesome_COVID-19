@@ -263,3 +263,4 @@
 - [【Viz Challenge】2021 年第三期正式开启，透过数据解读全球新冠疫苗接种情况](https://mp.weixin.qq.com/s/R9oKYlEycsvBtoAqOL1t6w)
 - [卫星目击︱2500多万中国民众联名吁彻查的德特里克堡目前状况如何？](https://mp.weixin.qq.com/s/AG9d1jQwKb0Agls3Lak_dg)
 - [【资讯】美国的疫情地图，几乎全红了](https://mp.weixin.qq.com/s/o9L1X4Lw1RuH1Xbp5M6fZw)
+- [R scripts to generate chart limits used by IHI's PowerBI application](https://github.com/klittle314/IHI_Covid_Public)
