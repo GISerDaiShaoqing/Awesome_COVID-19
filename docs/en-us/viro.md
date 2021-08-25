@@ -1233,3 +1233,6 @@
 - [Genome-wide CRISPR activation screen identifies candidate receptors for SARS-CoV-2 entry](http://engine.scichina.com/doi/10.1007/s11427-021-1990-5)
 - [病毒从武汉病毒所实验室泄露？ 美英等国21位权威专家：无任何科学证据](https://mp.weixin.qq.com/s/HRYiXvhHmukgfJ7pUSUl-w)
 - [病毒是怎么变异的？人类能消灭它吗？| 病毒超话](https://mp.weixin.qq.com/s/JTYg5UZ2OBtgv4dEKDdDdg)
+- [“打败艾滋病的人”何大一，发表2篇Nature论文，揭示高致死率新冠毒株B.1.526的出现，传播及免疫特征](https://mp.weixin.qq.com/s/CGSfRMr1ZrC3NQVPMNacpA)
+- [Emergence and expansion of SARS-CoV-2 B.1.526 after identification in New York](https://www.nature.com/articles/s41586-021-03908-2)
+- [Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7](https://www.nature.com/articles/s41586-021-03398-2)

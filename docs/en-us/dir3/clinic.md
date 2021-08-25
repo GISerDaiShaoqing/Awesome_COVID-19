@@ -1781,3 +1781,7 @@
 - [儿童及青少年需要接种新冠疫苗吗？](https://mp.weixin.qq.com/s/fZqyJJ2Qs5Z5pBsx-FFucA)
 - [Should children get COVID vaccines? What the science says](https://www.nature.com/articles/d41586-021-01898-9)
 - [广东疾控研究：接种两剂国产新冠灭活疫苗对德尔塔毒株有效](https://mp.weixin.qq.com/s/h4LH_vJpRc6R1osz0WnWUA)
+- [利用唾液样本可以在一小时内诊断出特定的COVID-19变异｜Science Advances多文导读](https://mp.weixin.qq.com/s/i_JkfbnFmIEUNHargpkOZg)
+- [武汉病毒所周鹏石正丽：无症状感染者可再次感染新冠病毒](https://mp.weixin.qq.com/s/Mkd633kgleJCcXnM7iEeSA)
+- [Serological investigation of asymptomatic cases of SARS-CoV-2 infection reveals weak and declining antibody responses](https://cogentoa.tandfonline.com/doi/full/10.1080/22221751.2021.1919032)
+- [COVID‐19 and the impact of arterial hypertension—An analysis of the international HOPE COVID‐19 Registry (Italy‐Spain‐Germany)](https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13582)

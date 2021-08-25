@@ -680,3 +680,6 @@
 - [A modified SEIR model to predict the behavior of the early stage in coronavirus and coronavirus-like outbreaks](https://www.nature.com/articles/s41598-021-95785-y)
 - [A cluster randomized trial of interferon ß-1a for the reduction of transmission of SARS-Cov-2: protocol for the Containing Coronavirus Disease 19 trial (ConCorD-19)](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06519-4)
 - [Association of Age and Pediatric Household Transmission of SARS-CoV-2 Infection](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2783022)
+- [A Modeling Study on Vaccination and Spread of SARS-CoV-2 Variants in Italy](https://www.mdpi.com/2076-393X/9/8/915)
+- [Simulating COVID19 Transmission From Observed Movement: An Agent-Based Model of Classroom Dispersion](https://arxiv.org/abs/2108.07808)
+- [Spreading Dynamics Analysis for Railway Networks](https://www.springerprofessional.de/en/spreading-dynamics-analysis-for-railway-networks/19584114)

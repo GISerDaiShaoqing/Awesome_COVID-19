@@ -290,3 +290,5 @@
 - [Effect of Non-lockdown Social Distancing and Testing-Contact Tracing During a COVID-19 Outbreak in Daegu, South Korea, February to April 2020: A Modeling Study](https://doi.org/10.1016/j.ijid.2021.07.058)
 - [Efficacy of systematic coronavirus screening by PCR and viral cultures in addition to triage in limiting the spread of SARS-CoV-2 within a hemodialysis unit](https://link.springer.com/article/10.1007/s40620-021-01115-w)
 - [Should I stay or should I go? Embracing causal heterogeneity in the study of pandemic policy and citizen behavior](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13037)
+- [Airport Pandemic Response: An Assessment of Impacts and Strategies after One Year with COVID-19](https://doi.org/10.1016/j.trip.2021.100449)
+- [COVID-19, social distancing and guests' preferences: impact on peer-to-peer accommodation pricing](https://www.tandfonline.com/doi/abs/10.1080/13683500.2021.1963215?journalCode=rcit20)
