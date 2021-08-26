@@ -257,3 +257,5 @@
 - [Further and Faster, Together](https://sustainability.aboutamazon.com/pdfBuilderDownload?name=amazon-sustainability-2020-report)
 - [新冠疫情快速响应：数据、工具与应用](https://mp.weixin.qq.com/s/PM7BRTuzc6uG-yI_qOjGCA)
 - [中国各省市新冠疫情数据 & 世界各国新冠疫情数据（更新至 8 月 11 日）](https://mp.weixin.qq.com/s/THBJX4g8F2WfM12XhTf-Kw)
+- [文章发表：nCov2019 -- PeerJ](https://mp.weixin.qq.com/s/IKfLkYwRNVvwbfAKPra7gQ)
+- [nCov2019: an R package for studying the COVID-19 coronavirus pandemic](https://peerj.com/articles/11421/)

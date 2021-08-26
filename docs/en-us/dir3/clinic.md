@@ -1785,3 +1785,8 @@
 - [武汉病毒所周鹏石正丽：无症状感染者可再次感染新冠病毒](https://mp.weixin.qq.com/s/Mkd633kgleJCcXnM7iEeSA)
 - [Serological investigation of asymptomatic cases of SARS-CoV-2 infection reveals weak and declining antibody responses](https://cogentoa.tandfonline.com/doi/full/10.1080/22221751.2021.1919032)
 - [COVID‐19 and the impact of arterial hypertension—An analysis of the international HOPE COVID‐19 Registry (Italy‐Spain‐Germany)](https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13582)
+- [PNAS：科学家筛选17种候选药物，发现乳铁蛋白预防新冠功效显著](https://mp.weixin.qq.com/s/aXgaObUehLT0SgbiqA2meg)
+- [Morphological cell profiling of SARS-CoV-2 infection identifies drug repurposing candidates for COVID-19](https://www.pnas.org/content/118/36/e2105815118)
+- [mRNA疫苗成全球首款正式获批新冠疫苗，国内上市进展如何？](https://mp.weixin.qq.com/s/OCJGaFXFFWvgXQVjftDfPg)
+- [潜伏高手：74%的Delta感染发生在症状出现前](https://mp.weixin.qq.com/s/pYs5ihxXK8H1xu6Mr5MjRg)
+- [Delta’s rise is fuelled by rampant spread from people who feel fine](https://www.nature.com/articles/d41586-021-02259-2)
