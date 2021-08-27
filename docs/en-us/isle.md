@@ -38,5 +38,6 @@
 - [Trends论文献策疫情中被忽视的“人-动物”感染风险 | Cell Press论文速递](https://mp.weixin.qq.com/s/Iye21hgtkTlFv95ybRDA0g)
 - [Changes in patterns of take-away food ordering among youths before and after COVID-19 lockdown in China: the COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://link.springer.com/article/10.1007/s00394-021-02622-z)
 - [Social Capital Changes After COVID-19 Lockdown Among Youths in China: COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.697068/full)
+- [Cross-disciplinary approaches to assist with nucleic acid testing for SARS-CoV-2](https://link.springer.com/article/10.1007%2Fs00253-021-11498-2)
 
 ![](/img/ISLEwechat.jpg)

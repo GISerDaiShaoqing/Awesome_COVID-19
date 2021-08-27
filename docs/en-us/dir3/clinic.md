@@ -1790,3 +1790,7 @@
 - [mRNA疫苗成全球首款正式获批新冠疫苗，国内上市进展如何？](https://mp.weixin.qq.com/s/OCJGaFXFFWvgXQVjftDfPg)
 - [潜伏高手：74%的Delta感染发生在症状出现前](https://mp.weixin.qq.com/s/pYs5ihxXK8H1xu6Mr5MjRg)
 - [Delta’s rise is fuelled by rampant spread from people who feel fine](https://www.nature.com/articles/d41586-021-02259-2)
+- [新冠疫情中一个可怕的敌人——炎症风暴](https://mp.weixin.qq.com/s/IieAwsMrUwWEsHBEzd9JiA)
+- [丈夫感染新冠住进ICU，妻子却没事，有人天生对新冠免疫？](https://mp.weixin.qq.com/s/hvwV-ne1TLwDw-Fy73VR_A)
+- [Cross-disciplinary approaches to assist with nucleic acid testing for SARS-CoV-2](https://link.springer.com/article/10.1007%2Fs00253-021-11498-2)
+- [SARS-CoV-2 Vaccines: Where Are We Now?](https://www.jaci-inpractice.org/article/S2213-2198(21)00804-7/fulltext)

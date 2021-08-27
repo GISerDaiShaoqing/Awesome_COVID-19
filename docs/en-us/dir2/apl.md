@@ -2013,3 +2013,4 @@
 - [新冠疫情防控——高等学校学生开学篇](https://mp.weixin.qq.com/s/56XErwstMQ4qVyiPxHfwdw)
 - [新冠疫情造成的经济衰退可能额外导致 26 万余名婴儿死亡  | 科研圈日报](https://mp.weixin.qq.com/s/pl8FYZekNO-CAZbmW3O2TQ)
 - [新冠疫情防控——中小学生开学篇](https://mp.weixin.qq.com/s/UhJv78QYLy81UyNmq-oTTg)
+- [8 月 25 日我国内地新增确诊病例 26 例，其中本土病例 3 例（均在云南）｜科研圈日报](https://mp.weixin.qq.com/s/pB4wLem1coheC4EewCwLHw)

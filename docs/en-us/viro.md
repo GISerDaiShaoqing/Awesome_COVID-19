@@ -1236,3 +1236,4 @@
 - [“打败艾滋病的人”何大一，发表2篇Nature论文，揭示高致死率新冠毒株B.1.526的出现，传播及免疫特征](https://mp.weixin.qq.com/s/CGSfRMr1ZrC3NQVPMNacpA)
 - [Emergence and expansion of SARS-CoV-2 B.1.526 after identification in New York](https://www.nature.com/articles/s41586-021-03908-2)
 - [Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7](https://www.nature.com/articles/s41586-021-03398-2)
+- [Comparison of SARS-CoV-2-and HCoV-Specific T Cell Response Using IFN-γ ELISpot](https://www.mdpi.com/2075-4418/11/8/1439)

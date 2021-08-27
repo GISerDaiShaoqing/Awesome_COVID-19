@@ -292,3 +292,4 @@
 - [Should I stay or should I go? Embracing causal heterogeneity in the study of pandemic policy and citizen behavior](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.13037)
 - [Airport Pandemic Response: An Assessment of Impacts and Strategies after One Year with COVID-19](https://doi.org/10.1016/j.trip.2021.100449)
 - [COVID-19, social distancing and guests' preferences: impact on peer-to-peer accommodation pricing](https://www.tandfonline.com/doi/abs/10.1080/13683500.2021.1963215?journalCode=rcit20)
+- [Impact of physical distancing policy on reducing transmission of SARS-CoV-2 globally: Perspective from government's response and residents' compliance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255873)
