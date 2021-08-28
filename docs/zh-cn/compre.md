@@ -2317,3 +2317,7 @@
 - [Decision Intelligence for Nationwide Ventilator Allocation During the COVID-19 Pandemic](https://link.springer.com/article/10.1007/s42979-021-00810-6)
 - [A framework for monitoring population immunity to SARS-CoV-2](https://doi.org/10.1016/j.annepidem.2021.08.013)
 - [Clustering of COVID-19 data for knowledge discovery using c-means and fuzzy c-means](https://doi.org/10.1016/j.rinp.2021.104639)
+- [COVID-19推进了有关呼吸道病毒经空气传播的知识｜Science一周精选](https://mp.weixin.qq.com/s/Rl6e8GO0Ik6MhIk61DhtmQ)
+- [Airborne transmission of respiratory viruses](http://science.sciencemag.org/content/373/6558/eabd9149)
+- [地理快讯 | 苏奋振等在Science Advances发表论文：新冠防控背景下中国春季植被对气候变化的响应](https://mp.weixin.qq.com/s/tW7srmx_C76K8zKjHEMpqg)
+- [佳文推荐|2020年新冠防控下的中国春天](https://mp.weixin.qq.com/s/ccr-R_uqt9jS2Lm5fWrgEw)

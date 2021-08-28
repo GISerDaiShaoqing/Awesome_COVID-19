@@ -2014,3 +2014,7 @@
 - [新冠疫情造成的经济衰退可能额外导致 26 万余名婴儿死亡  | 科研圈日报](https://mp.weixin.qq.com/s/pl8FYZekNO-CAZbmW3O2TQ)
 - [新冠疫情防控——中小学生开学篇](https://mp.weixin.qq.com/s/UhJv78QYLy81UyNmq-oTTg)
 - [8 月 25 日我国内地新增确诊病例 26 例，其中本土病例 3 例（均在云南）｜科研圈日报](https://mp.weixin.qq.com/s/pB4wLem1coheC4EewCwLHw)
+- [新冠疫情防控——高等学校学生开学篇](https://mp.weixin.qq.com/s/Ti149aSgEryWe4Go5U7jvQ)
+- [建模动态的城市和国家网络，量化新冠病毒输入风险 | 复杂性科学顶刊精选7篇](https://mp.weixin.qq.com/s/OsznsNPRtNuKlhPBQzPYMw)
+- [情报监测 | “COVID-19”科研动态监测每日快报（8月27日）【中国科讯】](https://mp.weixin.qq.com/s/LxtYSfED6YsJlFSHR9iswQ)
+- [8 月 26 日我国内地新增确诊病例 32 例，其中本土病例 2 例｜科研圈日报](https://mp.weixin.qq.com/s/Zsl8my1IPA5aHfXO37uq5A)
