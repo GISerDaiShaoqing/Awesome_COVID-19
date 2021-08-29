@@ -9171,3 +9171,4 @@
 - [新西兰坚持“病毒清零”策略，加速疫苗接种](https://mp.weixin.qq.com/s/2t5FnqiBISj1PHNzmcp_nQ)
 - [四十多岁BBC主持人注射阿斯利康疫苗后因血栓死亡](https://mp.weixin.qq.com/s/fvNoabyLV5V2wZqc7zfFFQ)
 - [荷兰医疗系统还扛得住，虽然数十万例手术要弥补](https://mp.weixin.qq.com/s/NE8RYS_reqJNiwIG7oeTyg)
+- [中秋国庆还能正常出游吗？专家：可以，但有条件](https://mp.weixin.qq.com/s/0GxbX1HaGIR4UfDn-SWKNA)
