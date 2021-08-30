@@ -1805,3 +1805,4 @@
 - [证实！新冠疫苗对Delta的保护力会随时间下降](https://mp.weixin.qq.com/s/WjPpKt1RI8mIBpg12KuuQw)
 - [COVID vaccines protect against Delta, but their effectiveness wanes](https://www.nature.com/articles/d41586-021-02261-8)
 - [Experience of Treating COVID-19 With Remdesivir and Convalescent Plasma in a Resource-Limited Setting: A Prospective, Observational Study](https://academic.oup.com/ofid/article/8/8/ofab391/6356052)
+- [全方位解读：新冠病毒疫苗加强针！](https://mp.weixin.qq.com/s/CajAXJWh8vTM9C-yrYX2oQ)
