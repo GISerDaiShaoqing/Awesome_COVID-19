@@ -683,3 +683,7 @@
 - [A Modeling Study on Vaccination and Spread of SARS-CoV-2 Variants in Italy](https://www.mdpi.com/2076-393X/9/8/915)
 - [Simulating COVID19 Transmission From Observed Movement: An Agent-Based Model of Classroom Dispersion](https://arxiv.org/abs/2108.07808)
 - [Spreading Dynamics Analysis for Railway Networks](https://www.springerprofessional.de/en/spreading-dynamics-analysis-for-railway-networks/19584114)
+- [Joint Estimation Of Generation Time And Incubation Period For Coronavirus Disease (Covid-19)](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab424/6356465)
+- [Determining the Incidence of Asymptomatic SARS-CoV-2 among Early Recipients of COVID-19 Vaccines: A Prospective Cohort Study of Healthcare Workers before, during and after Vaccination](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab643/6345339)
+- [What Changed Between the Peak and the Plateau Periods of the First COVID-19 Pandemic Wave? A Multicentric Portuguese Cohort Study in Intensive Care](https://www.researchsquare.com/article/rs-777388/v1)
+- [COVID-19 Transmission Dynamics Among Close Contacts of Index Patients With COVID-19: A Population-Based Cohort Study in Zhejiang Province, China](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2783099)

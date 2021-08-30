@@ -1802,3 +1802,6 @@
 - [揭秘！mRNA疫苗成功上市，是偶然还是必然？](https://mp.weixin.qq.com/s/xV-prllJgNxBrNdUFprhkQ)
 - [为啥胖子这么惨？武汉病毒所张波团队首次建立肥胖相关的新冠疾病感染模型](https://mp.weixin.qq.com/s/b8Sy7_3Wc7rDkWjZcP4xig)
 - [Increased morbidity of  obese mice infected with mouse-adapted SARS-CoV-2](https://www.nature.com/articles/s41421-021-00305-x)
+- [证实！新冠疫苗对Delta的保护力会随时间下降](https://mp.weixin.qq.com/s/WjPpKt1RI8mIBpg12KuuQw)
+- [COVID vaccines protect against Delta, but their effectiveness wanes](https://www.nature.com/articles/d41586-021-02261-8)
+- [Experience of Treating COVID-19 With Remdesivir and Convalescent Plasma in a Resource-Limited Setting: A Prospective, Observational Study](https://academic.oup.com/ofid/article/8/8/ofab391/6356052)

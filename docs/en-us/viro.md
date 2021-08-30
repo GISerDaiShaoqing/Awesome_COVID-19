@@ -1243,3 +1243,7 @@
 - [Pyroptosis of syncytia formed by fusion of SARS-CoV-2 Spike and ACE2 expressing cells ](https://doi.org/10.1038/s41421-021-00310-0)
 - [Cell Research | 肖俊宇、谢晓亮团队联合发现针对新冠病毒突变株的强效全人源广谱中和抗体组合](https://mp.weixin.qq.com/s/9gv6v9Gno0KDdEzMhPKw1w)
 - [Structures of SARS-CoV-2 B.1.351 neutralizing antibodies provide insights into cocktail design against concerning variants](https://www.nature.com/articles/s41422-021-00555-0)
+- [新冠突变株传播力为何增强？清华谭旭团队揭示新冠流行变种具有逃逸人体细胞免疫的普遍特点](https://mp.weixin.qq.com/s/np6X69YP-UGMXZySPbTAGg)
+- [Profiling CD8+ T Cell Epitopes of COVID-19 Convalescents Reveals Reduced Cellular Immune Responses to SARS-CoV-2 Variants](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01155-4)
+- [Comparative kinetics of SARS-CoV-2 anti-spike protein RBD IgGs and neutralizing antibodies in convalescent and naïve recipients of the BNT162b2 mRNA vaccine versus COVID-19 patients](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02090-6)
+- [Neutralization of the SARS-CoV-2 Delta variant after heterologous and homologous BNT162b2 or ChAdOx1 nCoV-19 vaccination](https://www.nature.com/articles/s41423-021-00755-z)
