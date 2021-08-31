@@ -119,3 +119,4 @@
 - [Desalination特刊征稿：COVID-19 and Related Virus in Desalination](https://mp.weixin.qq.com/s/K_8Nf7NkqfT6IVJM6JvU4A)
 - [秋天的第一份征稿函—Human mobility and pandemic | GSIS](https://mp.weixin.qq.com/s/mOPQk9igJIOUPD8R7lp6hg)
 - [主编荐读 | 新冠疫情下的组织心理学研究 | Frontiers in Psychology](https://mp.weixin.qq.com/s/Zie-A1D7S2RMmBP_aiwrlw)
+- [Buildings：迈向免疫建筑——建筑在新冠（COVID-19）大流行中的角色以及疫后该吸取的教训 | MDPI 特刊征稿](https://mp.weixin.qq.com/s/kXeuRfUTMTHKfVBIcPpDpQ)

@@ -78,3 +78,4 @@
 - [前沿速递：本土防疫是控制新冠输入病毒传播的关键](https://mp.weixin.qq.com/s/UT5AdQs99bCxeZL9YVOMdg)
 - [An AHP-based regional COVID-19 vulnerability model and its application in China](https://link.springer.com/article/10.1007/s40808-021-01244-y)
 - [Spatiotemporal patterns of the daily relative risk of COVID-19 in China](http://www.geogsci.com/EN/10.1007/s11442-021-1884-2)
+- [Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China](https://wwwnc.cdc.gov/eid/article/26/5/20-0146_article?deliveryName=DM20069)

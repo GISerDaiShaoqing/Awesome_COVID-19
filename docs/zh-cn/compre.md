@@ -2321,3 +2321,4 @@
 - [Airborne transmission of respiratory viruses](http://science.sciencemag.org/content/373/6558/eabd9149)
 - [地理快讯 | 苏奋振等在Science Advances发表论文：新冠防控背景下中国春季植被对气候变化的响应](https://mp.weixin.qq.com/s/tW7srmx_C76K8zKjHEMpqg)
 - [佳文推荐|2020年新冠防控下的中国春天](https://mp.weixin.qq.com/s/ccr-R_uqt9jS2Lm5fWrgEw)
+- [Raptor research during the COVID-19 pandemic provides invaluable opportunities for conservation biology](https://doi.org/10.1016/j.biocon.2021.109149)

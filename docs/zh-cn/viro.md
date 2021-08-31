@@ -1247,3 +1247,6 @@
 - [Profiling CD8+ T Cell Epitopes of COVID-19 Convalescents Reveals Reduced Cellular Immune Responses to SARS-CoV-2 Variants](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01155-4)
 - [Comparative kinetics of SARS-CoV-2 anti-spike protein RBD IgGs and neutralizing antibodies in convalescent and naïve recipients of the BNT162b2 mRNA vaccine versus COVID-19 patients](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02090-6)
 - [Neutralization of the SARS-CoV-2 Delta variant after heterologous and homologous BNT162b2 or ChAdOx1 nCoV-19 vaccination](https://www.nature.com/articles/s41423-021-00755-z)
+- [Science：包括新冠、流感、麻疹病毒在内的多数呼吸道病毒通过气溶胶传播](https://mp.weixin.qq.com/s/7StXqhW9eLlM4w2anuNnLA)
+- [Airborne transmission of respiratory viruses](https://doi.org/10.1126/science.abd9149)
+- [新发现！新冠病毒或一周突变一次](https://mp.weixin.qq.com/s/LhJDjIF5iOnm_tbqU_aXVA)

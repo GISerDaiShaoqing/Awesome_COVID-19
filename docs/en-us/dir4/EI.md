@@ -292,3 +292,4 @@
 - [COVID-19, social distancing and guests' preferences: impact on peer-to-peer accommodation pricing](https://www.tandfonline.com/doi/abs/10.1080/13683500.2021.1963215?journalCode=rcit20)
 - [Impact of physical distancing policy on reducing transmission of SARS-CoV-2 globally: Perspective from government's response and residents' compliance](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255873)
 - [The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control: the value and limitations of early models](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0811)
+- [A data driven agent-based model that recommends non-pharmaceutical interventions to suppress Coronavirus disease 2019 resurgence in megacities](https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0112)

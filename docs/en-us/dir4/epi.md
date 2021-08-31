@@ -687,3 +687,4 @@
 - [Determining the Incidence of Asymptomatic SARS-CoV-2 among Early Recipients of COVID-19 Vaccines: A Prospective Cohort Study of Healthcare Workers before, during and after Vaccination](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab643/6345339)
 - [What Changed Between the Peak and the Plateau Periods of the First COVID-19 Pandemic Wave? A Multicentric Portuguese Cohort Study in Intensive Care](https://www.researchsquare.com/article/rs-777388/v1)
 - [COVID-19 Transmission Dynamics Among Close Contacts of Index Patients With COVID-19: A Population-Based Cohort Study in Zhejiang Province, China](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2783099)
+- [Burden and characteristics of COVID-19 in the United States during 2020](https://www.nature.com/articles/s41586-021-03914-4)

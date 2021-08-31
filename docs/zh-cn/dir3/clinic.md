@@ -1805,3 +1805,7 @@
 - [证实！新冠疫苗对Delta的保护力会随时间下降](https://mp.weixin.qq.com/s/WjPpKt1RI8mIBpg12KuuQw)
 - [COVID vaccines protect against Delta, but their effectiveness wanes](https://www.nature.com/articles/d41586-021-02261-8)
 - [Experience of Treating COVID-19 With Remdesivir and Convalescent Plasma in a Resource-Limited Setting: A Prospective, Observational Study](https://academic.oup.com/ofid/article/8/8/ofab391/6356052)
+- [全方位解读：新冠病毒疫苗加强针！](https://mp.weixin.qq.com/s/CajAXJWh8vTM9C-yrYX2oQ)
+- [Cell Res | 北京大学肖俊宇/谢晓亮/曹云龙揭示使用多种单克隆抗体可针对新冠病毒多种突变株！](https://mp.weixin.qq.com/s/D89fLtLyT03fNenVJM89zA)
+- [Structures of SARS-CoV-2 B.1.351 neutralizing antibodies provide insights into cocktail design against concerning variants](https://www.nature.com/articles/s41422-021-00555-0)
+- [武汉一年后，新冠后遗症还在！《柳叶刀》发布中国学者最新研究](https://mp.weixin.qq.com/s/Dx4B-wiFQS0GH2x8BaKqyA)
