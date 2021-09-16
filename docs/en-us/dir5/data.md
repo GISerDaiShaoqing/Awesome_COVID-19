@@ -260,3 +260,4 @@
 - [文章发表：nCov2019 -- PeerJ](https://mp.weixin.qq.com/s/IKfLkYwRNVvwbfAKPra7gQ)
 - [nCov2019: an R package for studying the COVID-19 coronavirus pandemic](https://peerj.com/articles/11421/)
 - [爱享数据 | COVID-19特辑重磅上新，百篇文章免费获取！](https://mp.weixin.qq.com/s/13DO3Qkpa-0FJBndU3zwWQ)
+- [korea-covid-19-remaining-vaccine-macro](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro)

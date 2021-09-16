@@ -79,3 +79,6 @@
 - [An AHP-based regional COVID-19 vulnerability model and its application in China](https://link.springer.com/article/10.1007/s40808-021-01244-y)
 - [Spatiotemporal patterns of the daily relative risk of COVID-19 in China](http://www.geogsci.com/EN/10.1007/s11442-021-1884-2)
 - [Risk for Transportation of Coronavirus Disease from Wuhan to Other Cities in China](https://wwwnc.cdc.gov/eid/article/26/5/20-0146_article?deliveryName=DM20069)
+- [A Study of COVID-19 in the Wuhan, Beijing, Urumqi and Dalian Cities based on the Regional Disease Vulnerability Index](https://doi.org/10.1016/j.jiph.2021.09.002)
+- [Transmission Risk of SARS-CoV-2 Before and After Symptom Onset of the Infector](https://link.springer.com/article/10.1007/s10654-021-00746-4)
+- [A STUDY OF MISINFORMATION EXPOSURE OF COVID-19 VACCINE AND THE WILLINGNESS TO BE VACCINATED IN TANGERANG SELATAN CITY, INDONESIA](http://ejournal2.litbang.kemkes.go.id/index.php/kespro/article/view/4794)

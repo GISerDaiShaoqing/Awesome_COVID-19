@@ -366,3 +366,5 @@
 - [Geo Health Hub论坛第二期](https://mp.weixin.qq.com/s/T35_gRDkYbnrJWMtNVWzTA)
 - [R语言培训班：传染病时空分析与预测预警建模技术](https://mp.weixin.qq.com/s/WI3xK-QISH92ouFGt0gqrA)
 - [GeoInsider 在线讲座第 62 期：基于空间大数据分析疫苗接种和社交疏离的联合抗疫](https://mp.weixin.qq.com/s/1BqN5KyL0H-P1c75Z9pw-A)
+- [【会议预告】后疫情时代和极端气候背景下的健康、安全、韧性国土空间规划 —2021年第四期UP论坛](https://mp.weixin.qq.com/s/ndgLTocgjg-oxWwDyF4JaQ)
+- [【会议报道】2021年第四期UP论坛“后疫情时代和极端气候背景下的健康、安全、韧性国土空间规划 ”成功举办](https://mp.weixin.qq.com/s/RpwP_AegIUFYjEpf2NmHMQ)
