@@ -164,3 +164,4 @@
 - [手机拍照测温！央媒争相点赞的高铁防疫“黑科技”来自光谷](https://mp.weixin.qq.com/s/8CwREaA5Ie2CX2WNhswiwg)
 - [5G告诉你，为什么我们的疫情防控特别优秀](https://mp.weixin.qq.com/s/c7UwdG2lCxC1FM1VRLKg7A)
 - [是时候部署入境人员防疫系统了！](https://mp.weixin.qq.com/s/HkmRkFXp7z0QosU93XNHAQ)
+- [李德仁院士：北斗时空体系可让疫情防控更精准](https://mp.weixin.qq.com/s/s-5sY02ZnO8YLbeb3VqXQg)

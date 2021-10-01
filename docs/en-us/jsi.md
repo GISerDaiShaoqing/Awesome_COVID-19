@@ -120,3 +120,5 @@
 - [秋天的第一份征稿函—Human mobility and pandemic | GSIS](https://mp.weixin.qq.com/s/mOPQk9igJIOUPD8R7lp6hg)
 - [主编荐读 | 新冠疫情下的组织心理学研究 | Frontiers in Psychology](https://mp.weixin.qq.com/s/Zie-A1D7S2RMmBP_aiwrlw)
 - [Buildings：迈向免疫建筑——建筑在新冠（COVID-19）大流行中的角色以及疫后该吸取的教训 | MDPI 特刊征稿](https://mp.weixin.qq.com/s/kXeuRfUTMTHKfVBIcPpDpQ)
+- [【专刊征稿】Pandemics and landscape ecology in a post-COVID world](https://mp.weixin.qq.com/s/Lh-_maYsRw-wf4SVnPLenQ)
+- [Mathematical modelling of the pandemic of 2019 novel coronavirus (COVID-19): Patterns, Dynamics, Prediction, and Control](https://www.frontiersin.org/research-topics/14086/mathematical-modelling-of-the-pandemic-of-2019-novel-coronavirus-covid-19-patterns-dynamics-predicti)

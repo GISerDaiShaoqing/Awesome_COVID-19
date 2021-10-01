@@ -82,3 +82,6 @@
 - [A Study of COVID-19 in the Wuhan, Beijing, Urumqi and Dalian Cities based on the Regional Disease Vulnerability Index](https://doi.org/10.1016/j.jiph.2021.09.002)
 - [Transmission Risk of SARS-CoV-2 Before and After Symptom Onset of the Infector](https://link.springer.com/article/10.1007/s10654-021-00746-4)
 - [A STUDY OF MISINFORMATION EXPOSURE OF COVID-19 VACCINE AND THE WILLINGNESS TO BE VACCINATED IN TANGERANG SELATAN CITY, INDONESIA](http://ejournal2.litbang.kemkes.go.id/index.php/kespro/article/view/4794)
+- [Risk of SARS-CoV-2 Transmission among Air Passengers in China](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab836/6373518)
+- [Spatiotemporal Characteristics and Risk Factors of the COVID-19 Pandemic in New York State: Implication of Future Policies](https://www.mdpi.com/2220-9964/10/9/627/html)
+- [Uncertainties in the Assessment of COVID-19 Risk: A Study of People’s Exposure to High-Risk Environments Using Individual-Level Activity Data](http://meipokwan.org/Paper/Huang%20and%20Kwan_2021_AAAG%20Online.pdf)

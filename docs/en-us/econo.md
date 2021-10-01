@@ -717,3 +717,5 @@
 - [全球城市观察｜疫情下，如何减轻员工的育儿负担](https://mp.weixin.qq.com/s/Ej8LIsnFTI9q30ZpthbTCg)
 - [发展研究 | 新冠肺炎疫情下的测绘地理信息企业人才发展问题](https://mp.weixin.qq.com/s/KVpybdOatCkMFArbsjB92Q)
 - [城市管理与COVID-19 | Journal of Urban Management](https://mp.weixin.qq.com/s/dBdApO1ZZZSk6obVM1FDAA)
+- [城市呼吸｜娄永琪：后疫情视角的社区营造](https://mp.weixin.qq.com/s/zcVK9drGPgqJRbH02SPYaw)
+- [MethodsX | 靠方法“说话”：新冠疫情及其对全球经济和金融体系的影响](https://mp.weixin.qq.com/s/AqxHLCpntKzA-gwC3w3VTQ)

@@ -264,3 +264,5 @@
 - [卫星目击︱2500多万中国民众联名吁彻查的德特里克堡目前状况如何？](https://mp.weixin.qq.com/s/AG9d1jQwKb0Agls3Lak_dg)
 - [【资讯】美国的疫情地图，几乎全红了](https://mp.weixin.qq.com/s/o9L1X4Lw1RuH1Xbp5M6fZw)
 - [R scripts to generate chart limits used by IHI's PowerBI application](https://github.com/klittle314/IHI_Covid_Public)
+- [实时关注 | 病例分布GIS地图](https://mp.weixin.qq.com/s/ogg8Je_mSt9NXe4tMK2reA)
+- [【Viz Challenge】2021 年第三期获奖结果公布，数据聚焦全球新冠疫苗接种情况](https://mp.weixin.qq.com/s/u46_iLmexdpzmuITqQL_ig)
