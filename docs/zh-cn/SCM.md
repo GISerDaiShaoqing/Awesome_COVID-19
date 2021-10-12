@@ -123,5 +123,6 @@
 - [后疫情时代︱生活何时恢复正常？彭博社追踪全球新冠疫苗接种数据或可一探究竟](https://mp.weixin.qq.com/s/MQPNU60keusED1Xq8Dpohw)
 - [15分钟城市 | 从昨日到明日的15分钟城市：后疫情时代的去中心化蜕变](https://mp.weixin.qq.com/s/K9IQbCpKmQ-UbHDqZoc6Zw)
 - [出租车风云录︱疫情下深圳出租车供需演化，是跳水还是在做俯卧撑？](https://mp.weixin.qq.com/s/U1vAKitjMAQUIv1AD-zj3A)
+- [城市更新︱新冠疫情如何帮助香港最贫困的街区抵御绅士化](https://mp.weixin.qq.com/s/DVgis4vwZ0jfDp5N6nS8ag)
 
 ![](/img/SCM.jpg)

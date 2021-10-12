@@ -40,5 +40,6 @@
 - [Social Capital Changes After COVID-19 Lockdown Among Youths in China: COVID-19 Impact on Lifestyle Change Survey (COINLICS)](https://www.frontiersin.org/articles/10.3389/fpubh.2021.697068/full)
 - [Cross-disciplinary approaches to assist with nucleic acid testing for SARS-CoV-2](https://link.springer.com/article/10.1007%2Fs00253-021-11498-2)
 - [The epidemiology, pathophysiological mechanisms, and management toward COVID-19 patients with Type 2 diabetes: a systematic review](https://doi.org/10.1016/j.pcd.2021.08.014)
+- [Cultivating Resilience During the COVID-19 Pandemic: A Socioecological Perspective](https://www.annualreviews.org/doi/10.1146/annurev-psych-030221-031857)
 
 ![](/img/ISLEwechat.jpg)

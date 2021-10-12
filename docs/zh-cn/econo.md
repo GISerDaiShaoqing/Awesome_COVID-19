@@ -719,3 +719,7 @@
 - [城市管理与COVID-19 | Journal of Urban Management](https://mp.weixin.qq.com/s/dBdApO1ZZZSk6obVM1FDAA)
 - [城市呼吸｜娄永琪：后疫情视角的社区营造](https://mp.weixin.qq.com/s/zcVK9drGPgqJRbH02SPYaw)
 - [MethodsX | 靠方法“说话”：新冠疫情及其对全球经济和金融体系的影响](https://mp.weixin.qq.com/s/AqxHLCpntKzA-gwC3w3VTQ)
+- [国庆特辑｜COVID-19疫情对节日休闲区域人口热力有何影响？](https://mp.weixin.qq.com/s/--X6OSn4uUKGXU_3ICskHw)
+- [【治理与反思】危机生命周期、政策响应与政策效能——全球疫情治理](https://mp.weixin.qq.com/s/GxKu9MOi3yCLIkCeKuhpTw)
+- [Crisis　lifecycle, policy response, and policy effectiveness](https://www.tandfonline.com/doi/abs/10.1080/14719037.2021.1972683)
+- [【文章导读】“新冠”疫情下的城市空间风险因素解析——以武汉为例](https://mp.weixin.qq.com/s/ZmGaiOcmYdVfV948EkjBrA)
