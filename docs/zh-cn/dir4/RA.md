@@ -86,3 +86,4 @@
 - [Spatiotemporal Characteristics and Risk Factors of the COVID-19 Pandemic in New York State: Implication of Future Policies](https://www.mdpi.com/2220-9964/10/9/627/html)
 - [Uncertainties in the Assessment of COVID-19 Risk: A Study of People’s Exposure to High-Risk Environments Using Individual-Level Activity Data](http://meipokwan.org/Paper/Huang%20and%20Kwan_2021_AAAG%20Online.pdf)
 - [COVID-19 Importation Risk From Olympic Athletes Prior to the Tokyo 2020 Olympics](https://www.frontiersin.org/articles/10.3389/fphy.2021.757361/full)
+- [最新进展 | 微观尺度城市人居环境新型冠状病毒肺炎疫情传播风险评估研](https://mp.weixin.qq.com/s/jnsE3RLLeLOPa_72yqdtsA)

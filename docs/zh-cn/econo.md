@@ -723,3 +723,7 @@
 - [【治理与反思】危机生命周期、政策响应与政策效能——全球疫情治理](https://mp.weixin.qq.com/s/GxKu9MOi3yCLIkCeKuhpTw)
 - [Crisis　lifecycle, policy response, and policy effectiveness](https://www.tandfonline.com/doi/abs/10.1080/14719037.2021.1972683)
 - [【文章导读】“新冠”疫情下的城市空间风险因素解析——以武汉为例](https://mp.weixin.qq.com/s/ZmGaiOcmYdVfV948EkjBrA)
+- [新冠疫情期间膳食补充剂和保健品市场的快速增长对消费者的影响和对市场监管部门提出的新要求](https://mp.weixin.qq.com/s/_oJVNW15wASJdiWdlX5UBA)
+- [Dietary supplements and nutraceuticals market growth during the coronavirus pandemic – Implications for consumers and regulatory oversight](https://www.sciencedirect.com/science/article/pii/S2213434421000335)
+- [一图看懂《后疫情时代，全球最聪明的60家公司》白皮书](https://mp.weixin.qq.com/s/pih4w08VdVK0_2X9tuAFLw)
+- [Remedying Airbnb COVID-19 disruption through tourism clusters and community resilience](https://doi.org/10.1016/j.jbusres.2021.10.015)
