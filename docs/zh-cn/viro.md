@@ -1321,3 +1321,4 @@
 - [Effect of Delta variant on viral burden and vaccine effectiveness against new SARS-CoV-2 infections in the UK](https://www.nature.com/articles/s41591-021-01548-7)
 - [Multiple Occurrences of a 168-Nucleotide Deletion in SARS-CoV-2 ORF8, Unnoticed by Standard Amplicon Sequencing and Variant Calling Pipelines](https://www.mdpi.com/1999-4915/13/9/1870/htm)
 - [Analysis of SARS-CoV-2 replication in explant cultures of the human upper respiratory tract reveals broad tissue tropism of wild-type and B.1.1.7 variant viruses](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab523/6397695)
+- [Emergence and spread of SARS-CoV-2 lineage B.1.620 with variant of concern-like mutations and deletions](https://www.nature.com/articles/s41467-021-26055-8)

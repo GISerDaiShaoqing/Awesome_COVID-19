@@ -369,3 +369,4 @@
 - [【会议预告】后疫情时代和极端气候背景下的健康、安全、韧性国土空间规划 —2021年第四期UP论坛](https://mp.weixin.qq.com/s/ndgLTocgjg-oxWwDyF4JaQ)
 - [【会议报道】2021年第四期UP论坛“后疫情时代和极端气候背景下的健康、安全、韧性国土空间规划 ”成功举办](https://mp.weixin.qq.com/s/RpwP_AegIUFYjEpf2NmHMQ)
 - [会议速递 | 平疫结合的安全与健康规划](https://mp.weixin.qq.com/s/hBUOIAKu8SqKWJ8E_zFCHA)
+- [Geo Health Hub论坛第六期](https://mp.weixin.qq.com/s/xuPuMivl-Xt-OOMiGamLKA)

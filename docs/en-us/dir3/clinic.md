@@ -1942,3 +1942,5 @@
 - [Effect of Inactivated Influenza Vaccination on Human Coronavirus Infection: Secondary Analysis of a Randomized Trial in Hutterite Colonies](https://doi.org/10.1016/j.vaccine.2021.10.021)
 - [Efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine against SARS-CoV-2 lineages circulating in Brazil](https://www.nature.com/articles/s41467-021-25982-w)
 - [Attitudes toward the SARS-CoV-2 and Influenza Vaccination in the Metropolitan Cities of Bologna and Palermo, Italy](https://www.mdpi.com/2076-393X/9/10/1200)
+- [Clusters of SARS-CoV-2 Lineage B. 1.1. 7 Infection after Vaccination with Adenovirus-Vectored and Inactivated Vaccines](https://www.mdpi.com/1999-4915/13/11/2127/html)
+- [Immunogenicity and safety of AZD1222 (ChAdOx1 nCoV-19) against SARS-CoV-2 in Japan: A double-blind, randomized controlled phase 1/2 trial](https://doi.org/10.1016/j.ijid.2021.10.030)

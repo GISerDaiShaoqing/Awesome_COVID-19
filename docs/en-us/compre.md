@@ -2431,3 +2431,4 @@
 - [Weight Gain during the COVID-19 Pandemic in a High-Risk Cohort of Children in San Francisco, CA](https://www.liebertpub.com/doi/10.1089/chi.2021.0128)
 - [Real-time quantification of the transmission advantage associated with a single mutation in pathogen genomes: a case study on the D614G substitution of SARS-CoV-2](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06729-w)
 - [Fear of Influenza Resurgence amid COVID-19 Pandemic: Need for Effective Flu Vaccine Still Exists](https://www.mdpi.com/2076-393X/9/10/1198)
+- [Attitudes and Behaviors toward the Use of Public and Private Green Space during the COVID-19 Pandemic in Iran](https://www.mdpi.com/2073-445X/10/10/1085)

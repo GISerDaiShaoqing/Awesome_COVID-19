@@ -331,3 +331,5 @@
 - [The Effects of Mask Wearing, Mobility Change and SARS-CoV-2 Interference on Seasonal Influenza in Northern China, Southern China, England, and the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3943137)
 - [Effectiveness of International Travel Controls for Delaying Local Outbreaks of COVID-19](https://wwwnc.cdc.gov/eid/article/28/1/21-1944_article)
 - [The impact of global lineage dynamics, border restrictions, and emergence of the B.1.1.7 lineage on the SARS-CoV-2 epidemic in Norway](https://academic.oup.com/ve/article/7/2/veab086/6374266)
+- [Quantifying the impacts of human mobility restriction on the spread of COVID-19: an empirical analysis from 344 cities of China](https://www.medrxiv.org/content/10.1101/2020.07.13.20148668v1)
+- [Sustainable targeted interventions to mitigate the COVID-19 pandemic: A big data-driven modeling study in Hong Kong<? ](https://aip.scitation.org/doi/full/10.1063/5.0066086)
