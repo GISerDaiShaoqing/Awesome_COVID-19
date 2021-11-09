@@ -261,3 +261,4 @@
 - [nCov2019: an R package for studying the COVID-19 coronavirus pandemic](https://peerj.com/articles/11421/)
 - [爱享数据 | COVID-19特辑重磅上新，百篇文章免费获取！](https://mp.weixin.qq.com/s/13DO3Qkpa-0FJBndU3zwWQ)
 - [korea-covid-19-remaining-vaccine-macro](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro)
+- [陶生策/范雄林/汪峰等合作构建一站式COVID-19特异性体液免疫数据库](https://mp.weixin.qq.com/s/3awZaf5VTgjWdQ8Ew6KMAg)

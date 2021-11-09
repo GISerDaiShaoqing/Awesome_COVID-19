@@ -122,3 +122,4 @@
 - [Buildings：迈向免疫建筑——建筑在新冠（COVID-19）大流行中的角色以及疫后该吸取的教训 | MDPI 特刊征稿](https://mp.weixin.qq.com/s/kXeuRfUTMTHKfVBIcPpDpQ)
 - [【专刊征稿】Pandemics and landscape ecology in a post-COVID world](https://mp.weixin.qq.com/s/Lh-_maYsRw-wf4SVnPLenQ)
 - [Mathematical modelling of the pandemic of 2019 novel coronavirus (COVID-19): Patterns, Dynamics, Prediction, and Control](https://www.frontiersin.org/research-topics/14086/mathematical-modelling-of-the-pandemic-of-2019-novel-coronavirus-covid-19-patterns-dynamics-predicti)
+- [专刊征稿 | 结核病疫苗研究进展及其对COVID-19的启示](https://mp.weixin.qq.com/s/p07YdVJp78az8xN7Vt98Yg)

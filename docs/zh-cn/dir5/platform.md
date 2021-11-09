@@ -166,3 +166,6 @@
 - [是时候部署入境人员防疫系统了！](https://mp.weixin.qq.com/s/HkmRkFXp7z0QosU93XNHAQ)
 - [李德仁院士：北斗时空体系可让疫情防控更精准](https://mp.weixin.qq.com/s/s-5sY02ZnO8YLbeb3VqXQg)
 - [国家微生物科学数据中心开发的基于人工智能的新冠病毒虚拟变异评估和预警系统正式上线发布](https://mp.weixin.qq.com/s/Lu_pWHzOUS7sgcbJ8TTR0A)
+- [基于时空关系的疫情大数据分析挖掘](https://mp.weixin.qq.com/s/v-8SfybjcmD1HQbr2BoYJQ)
+- [混合大数据可视化：疫情来袭，防疫升级……听到这些后你做了什么，它都知道](https://mp.weixin.qq.com/s/U3_dhsk7r0KuTex_CkDigQ)
+- [Distribution of SARS-CoV-2 Variants in a Large Integrated Health Care System — California, March–July 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7040a4.htm?s_cid=mm7040a4_w)

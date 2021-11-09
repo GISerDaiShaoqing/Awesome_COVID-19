@@ -727,3 +727,4 @@
 - [Dietary supplements and nutraceuticals market growth during the coronavirus pandemic – Implications for consumers and regulatory oversight](https://www.sciencedirect.com/science/article/pii/S2213434421000335)
 - [一图看懂《后疫情时代，全球最聪明的60家公司》白皮书](https://mp.weixin.qq.com/s/pih4w08VdVK0_2X9tuAFLw)
 - [Remedying Airbnb COVID-19 disruption through tourism clusters and community resilience](https://doi.org/10.1016/j.jbusres.2021.10.015)
+- [后疫情时代的城市生活及其规划设计（上）](https://mp.weixin.qq.com/s/f-egNkYIxVDwHnSPDE28Rg)
