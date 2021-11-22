@@ -124,5 +124,6 @@
 - [15分钟城市 | 从昨日到明日的15分钟城市：后疫情时代的去中心化蜕变](https://mp.weixin.qq.com/s/K9IQbCpKmQ-UbHDqZoc6Zw)
 - [出租车风云录︱疫情下深圳出租车供需演化，是跳水还是在做俯卧撑？](https://mp.weixin.qq.com/s/U1vAKitjMAQUIv1AD-zj3A)
 - [城市更新︱新冠疫情如何帮助香港最贫困的街区抵御绅士化](https://mp.weixin.qq.com/s/DVgis4vwZ0jfDp5N6nS8ag)
+- [元宇宙与城市 (番后)︱疫情之后，元宇宙是应许之地吗？](https://mp.weixin.qq.com/s/bhgpTyxCK6poIop-4s5gnA)
 
 ![](/img/SCM.jpg)

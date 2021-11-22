@@ -266,3 +266,5 @@
 - [R scripts to generate chart limits used by IHI's PowerBI application](https://github.com/klittle314/IHI_Covid_Public)
 - [实时关注 | 病例分布GIS地图](https://mp.weixin.qq.com/s/ogg8Je_mSt9NXe4tMK2reA)
 - [【Viz Challenge】2021 年第三期获奖结果公布，数据聚焦全球新冠疫苗接种情况](https://mp.weixin.qq.com/s/u46_iLmexdpzmuITqQL_ig)
+- [“新冠”疫情应急民生地图设计：理论框架与表达策略](https://mp.weixin.qq.com/s/2w0PNbJOddcrsSUdwOjVXQ)
+- [Map Design for Public Health Emergencies: a Novel Conceptual Framework for Thematic Content Selection](https://doi.org/10.1007/s41651-021-00092-9)

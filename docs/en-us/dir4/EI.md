@@ -339,3 +339,8 @@
 - [Conceptual causal framework to assess the effect of SARS-CoV-2 variants on COVID-19 disease severity among hospitalized patients](https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-021-00709-x)
 - [Influenza’s plummeting and future dynamics: the roles of mask wearing, mobility change and SARS-CoV-2 interference](https://www.researchsquare.com/article/rs-1012166/v1)
 - [Untangling the changing impact of non-pharmaceutical interventions and vaccination on European Covid-19 trajectories](https://www.researchsquare.com/article/rs-1033571/v1)
+- [Estimating the impact of virus testing strategies on the COVID-19 case fatality rate using fixed-effects models](https://www.nature.com/articles/s41598-021-01034-7)
+- [Factors affecting adherence to non-pharmaceutical interventions for COVID-19 infections in the first year of the pandemic in the UK](https://bmjopen.bmj.com/content/11/10/e054200)
+- [Effect of Delta variant on viral burden and vaccine effectiveness against new SARS-CoV-2 infections in the UK](https://www.nature.com/articles/s41591-021-01548-7)
+- [Effectiveness of heterologous ChAdOx1 nCoV-19 and mRNA prime-boost vaccination against symptomatic Covid-19 infection in Sweden: A nationwide cohort study](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00235-0/fulltext)
+- [The effectiveness of Non-Pharmaceutical Interventions in reducing the COVID-19 contagion in the UK, an observational and modelling study](https://research.gold.ac.uk/id/eprint/30656/)

@@ -169,3 +169,5 @@
 - [基于时空关系的疫情大数据分析挖掘](https://mp.weixin.qq.com/s/v-8SfybjcmD1HQbr2BoYJQ)
 - [混合大数据可视化：疫情来袭，防疫升级……听到这些后你做了什么，它都知道](https://mp.weixin.qq.com/s/U3_dhsk7r0KuTex_CkDigQ)
 - [Distribution of SARS-CoV-2 Variants in a Large Integrated Health Care System — California, March–July 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7040a4.htm?s_cid=mm7040a4_w)
+- [疫情政务问答助手算法冠军开源](https://mp.weixin.qq.com/s/_G892NDJfS-M8C85HBEfbA)
+- [它是最成功的AI新冠应用？“希腊模式”，未来可期？](https://mp.weixin.qq.com/s/OeXdOh4_Xw0UQ1nzYrUykw)

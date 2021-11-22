@@ -376,3 +376,4 @@
 - [新冠疫情快速响应：数据、工具与应用](https://mp.weixin.qq.com/s/jrDvUOhVJWSdFlL_6W0AxA)
 - [GeoHealth Hub学术沙龙回顾｜探究后疫情时代的环境与健康研究发展的新机遇、新挑战](https://mp.weixin.qq.com/s/A64YOQf4VI7rDR7fmAf8-A)
 - [GeoInsider在线讲座第67期：2020年新冠防控下中国春天物候变化](https://mp.weixin.qq.com/s/LtNiegrrJ0d1BlJI-ilQ3A)
+- [学术沙龙 | COVID-19疾病研究中使用地理空间数据的伦理问题](https://mp.weixin.qq.com/s/qbZw2vqEv6kEYhJb4jlX8Q)

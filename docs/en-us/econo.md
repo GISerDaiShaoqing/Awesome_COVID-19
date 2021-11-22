@@ -728,3 +728,5 @@
 - [一图看懂《后疫情时代，全球最聪明的60家公司》白皮书](https://mp.weixin.qq.com/s/pih4w08VdVK0_2X9tuAFLw)
 - [Remedying Airbnb COVID-19 disruption through tourism clusters and community resilience](https://doi.org/10.1016/j.jbusres.2021.10.015)
 - [后疫情时代的城市生活及其规划设计（上）](https://mp.weixin.qq.com/s/f-egNkYIxVDwHnSPDE28Rg)
+- [后疫情时代下，消费行业崛起新思路](https://mp.weixin.qq.com/s/G7OCovDYCi-BMz61_DHDeg)
+- [The spatial econometrics of the coronavirus pandemic](https://link.springer.com/article/10.1007/s12076-020-00254-1)
