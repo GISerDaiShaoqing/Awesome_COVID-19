@@ -268,3 +268,4 @@
 - [【Viz Challenge】2021 年第三期获奖结果公布，数据聚焦全球新冠疫苗接种情况](https://mp.weixin.qq.com/s/u46_iLmexdpzmuITqQL_ig)
 - [“新冠”疫情应急民生地图设计：理论框架与表达策略](https://mp.weixin.qq.com/s/2w0PNbJOddcrsSUdwOjVXQ)
 - [Map Design for Public Health Emergencies: a Novel Conceptual Framework for Thematic Content Selection](https://doi.org/10.1007/s41651-021-00092-9)
+- [疫情改变了什么（一）：不是每个企业都能向死而生 | 数据图说](https://mp.weixin.qq.com/s/USdd3PWJldls-DDzSLY5Eg)

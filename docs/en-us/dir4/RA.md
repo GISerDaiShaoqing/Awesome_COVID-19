@@ -88,3 +88,4 @@
 - [COVID-19 Importation Risk From Olympic Athletes Prior to the Tokyo 2020 Olympics](https://www.frontiersin.org/articles/10.3389/fphy.2021.757361/full)
 - [最新进展 | 微观尺度城市人居环境新型冠状病毒肺炎疫情传播风险评估研](https://mp.weixin.qq.com/s/jnsE3RLLeLOPa_72yqdtsA)
 - [Vaccinating adolescents against SARS-CoV-2 in England: a risk–benefit analysis](https://journals.sagepub.com/doi/10.1177/01410768211052589)
+- [“我国若采用美式防疫策略，日确诊将超63万，造成巨大灾难！”](https://mp.weixin.qq.com/s/wdIUtmdhKgSWb4QZHrAs3A)

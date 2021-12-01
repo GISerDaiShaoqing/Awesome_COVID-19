@@ -747,3 +747,6 @@
 - [Age-dependent effects on infectivity and susceptibility to SARS-CoV-2 infection: results from nation](https://www.tandfonline.com/doi/abs/10.1080/23744235.2021.1995627?journalCode=infd20)
 - [A cross-sectional analysis of meteorological factors and SARS-CoV-2 transmission in 409 cities across 26 countries](https://www.nature.com/articles/s41467-021-25914-8)
 - [Estimation of SARS-CoV-2 infection fatality rate by age and comorbidity status using antibody screen](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab566/6426172)
+- [Longitudinal SARS-CoV-2 seroprevalence in Portugal and antibody maintenance 12 months after infection](https://onlinelibrary.wiley.com/doi/abs/10.1002/eji.202149619)
+- [SARS-COV-2 Vaccines: What Indicators are Associated with the Worldwide Distribution of the First Doses](https://doi.org/10.1177/00469580211060184)
+- [COVID-19 and prepandemic all-cause inequalities in disability-adjusted life-years due to multiple deprivation: a Scottish Burden of Disease study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02637-4/fulltext)

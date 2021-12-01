@@ -123,3 +123,4 @@
 - [【专刊征稿】Pandemics and landscape ecology in a post-COVID world](https://mp.weixin.qq.com/s/Lh-_maYsRw-wf4SVnPLenQ)
 - [Mathematical modelling of the pandemic of 2019 novel coronavirus (COVID-19): Patterns, Dynamics, Prediction, and Control](https://www.frontiersin.org/research-topics/14086/mathematical-modelling-of-the-pandemic-of-2019-novel-coronavirus-covid-19-patterns-dynamics-predicti)
 - [专刊征稿 | 结核病疫苗研究进展及其对COVID-19的启示](https://mp.weixin.qq.com/s/p07YdVJp78az8xN7Vt98Yg)
+- [专刊征集 | COVID-19 大流行对人类地方性传染病传播的间接影响和连锁反应](https://mp.weixin.qq.com/s/S6G1SeBnuu6BOrxnKp24Ag)

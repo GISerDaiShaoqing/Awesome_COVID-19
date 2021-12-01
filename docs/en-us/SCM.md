@@ -125,5 +125,6 @@
 - [出租车风云录︱疫情下深圳出租车供需演化，是跳水还是在做俯卧撑？](https://mp.weixin.qq.com/s/U1vAKitjMAQUIv1AD-zj3A)
 - [城市更新︱新冠疫情如何帮助香港最贫困的街区抵御绅士化](https://mp.weixin.qq.com/s/DVgis4vwZ0jfDp5N6nS8ag)
 - [元宇宙与城市 (番后)︱疫情之后，元宇宙是应许之地吗？](https://mp.weixin.qq.com/s/bhgpTyxCK6poIop-4s5gnA)
+- [城市更新︱青梅煮酒论社区新生，十一奇策举时清海晏：后疫情时代的社区复兴](https://mp.weixin.qq.com/s/mxI2tjVGAhRsLsatMZatwA)
 
 ![](/img/SCM.jpg)

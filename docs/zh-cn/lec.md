@@ -377,3 +377,6 @@
 - [GeoHealth Hub学术沙龙回顾｜探究后疫情时代的环境与健康研究发展的新机遇、新挑战](https://mp.weixin.qq.com/s/A64YOQf4VI7rDR7fmAf8-A)
 - [GeoInsider在线讲座第67期：2020年新冠防控下中国春天物候变化](https://mp.weixin.qq.com/s/LtNiegrrJ0d1BlJI-ilQ3A)
 - [学术沙龙 | COVID-19疾病研究中使用地理空间数据的伦理问题](https://mp.weixin.qq.com/s/qbZw2vqEv6kEYhJb4jlX8Q)
+- [新冠论坛嘉宾访谈|俄克拉荷马州立大学胡涛](https://mp.weixin.qq.com/s/hEfiQpPQ6Ij-OsMTx6cFgQ)
+- [孙耀庭：亲历实验室里的新冠之战丨我在西湖读博士](https://mp.weixin.qq.com/s/dM3OpeJhfp2WhHXbfUo2qQ)
+- [【Café速递】胡涛：海外博后申请经验分享与新冠疫情快速响应研究](https://mp.weixin.qq.com/s/myrcFBVtc2daSX3622POCw)
