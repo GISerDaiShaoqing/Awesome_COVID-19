@@ -89,3 +89,4 @@
 - [最新进展 | 微观尺度城市人居环境新型冠状病毒肺炎疫情传播风险评估研](https://mp.weixin.qq.com/s/jnsE3RLLeLOPa_72yqdtsA)
 - [Vaccinating adolescents against SARS-CoV-2 in England: a risk–benefit analysis](https://journals.sagepub.com/doi/10.1177/01410768211052589)
 - [“我国若采用美式防疫策略，日确诊将超63万，造成巨大灾难！”](https://mp.weixin.qq.com/s/wdIUtmdhKgSWb4QZHrAs3A)
+- [Risk factors associated with household transmission of SARS‐CoV‐2 in Negeri Sembilan, Malaysia](https://onlinelibrary.wiley.com/doi/10.1111/jpc.15821)

@@ -750,3 +750,5 @@
 - [Longitudinal SARS-CoV-2 seroprevalence in Portugal and antibody maintenance 12 months after infection](https://onlinelibrary.wiley.com/doi/abs/10.1002/eji.202149619)
 - [SARS-COV-2 Vaccines: What Indicators are Associated with the Worldwide Distribution of the First Doses](https://doi.org/10.1177/00469580211060184)
 - [COVID-19 and prepandemic all-cause inequalities in disability-adjusted life-years due to multiple deprivation: a Scottish Burden of Disease study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02637-4/fulltext)
+- [High-resolution epitope mapping and characterization of SARS-CoV-2 antibodies in large cohorts of subjects with COVID-19](https://www.nature.com/articles/s42003-021-02835-2)
+- [Short- and medium-term impacts of strict anti-contagion policies on non-COVID-19 mortality in China](https://www.nature.com/articles/s41562-021-01189-3)

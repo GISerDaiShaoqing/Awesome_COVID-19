@@ -2194,3 +2194,7 @@
 - [撤11 月 29 日我国内地新增确诊病例 39 例，其中本土病例 21 例（均在内蒙古） | 科研圈日报](https://mp.weixin.qq.com/s/K4dxpMlyNgWAGS2R2KAc4w)
 - [世卫将“奥密克戎”总体风险定为非常高；地球上的水或来自太阳丨科技早新闻](https://mp.weixin.qq.com/s/6EhM3sNzqtcUxNaC43s6Cg)
 - [香港大学微生物系团队成功分离及培养奥密克戎毒株 | 科研圈日报](https://mp.weixin.qq.com/s/Z83qgTv7qaVVWDgT1zGIGA)
+- [12 月 1 日我国内地新增确诊病例 73 例，其中本土病例 53 例（均在内蒙古呼伦贝尔市）｜科研圈日报](https://mp.weixin.qq.com/s/Ck8b_ww3yHTWbsvIE0hMpA)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月3日）【中国科讯】](https://mp.weixin.qq.com/s/aJsg28POZrQ7KIC3fJ3tIw)
+- [新的广谱抗冠状病毒防治药物被发现｜科研圈日报](https://mp.weixin.qq.com/s/ojJLSGk2Own6MdIcKrMypg)
+- [晚讯| 奥密克戎或带有感冒病毒基因 科学家盼“弱病毒”扭转疫情](https://mp.weixin.qq.com/s/w0_hR-PdpI-81bO7soYwVA)
