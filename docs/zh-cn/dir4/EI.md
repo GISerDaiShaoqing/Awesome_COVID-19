@@ -353,3 +353,5 @@
 - [Short- and medium-term impacts of strict anti-contagion policies on non-COVID-19 mortality in China](https://www.nature.com/articles/s41562-021-01189-3)
 - [Rapid relaxation of pandemic restrictions after vaccine rollout favors growth of SARS-CoV-2 variants: A model-based analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258997)
 - [Untangling the changing impact of non-pharmaceutical interventions and vaccination on European Covid-19 trajectories](https://www.researchsquare.com/article/rs-1033571/v1)
+- [Rapid and sustained containment of covid-19 is achievable and worthwhile: implications for pandemic response](https://www.bmj.com/content/375/BMJ-2021-066169)
+- [The effects of non-pharmaceutical interventions on 5 COVID-19 mortality: A generalized synthetic control 6 approach across 169 countries 7](https://files.osf.io/v1/resources/v2ef8/providers/osfstorage/60c3879b18f70b028aa7a63a?format=pdf&action=download&direct&version=2)

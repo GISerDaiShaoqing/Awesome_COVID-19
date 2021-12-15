@@ -730,3 +730,5 @@
 - [后疫情时代的城市生活及其规划设计（上）](https://mp.weixin.qq.com/s/f-egNkYIxVDwHnSPDE28Rg)
 - [后疫情时代下，消费行业崛起新思路](https://mp.weixin.qq.com/s/G7OCovDYCi-BMz61_DHDeg)
 - [The spatial econometrics of the coronavirus pandemic](https://link.springer.com/article/10.1007/s12076-020-00254-1)
+- [疫情改变了什么（二）：我为什么不是风口上的那只猪](https://mp.weixin.qq.com/s/DP2iQQUxeLr5RCsOX2VlyA)
+- [“后疫情”的那些事儿](https://mp.weixin.qq.com/s/2ZqvyMwI6DCXhgQu4AoWoQ)

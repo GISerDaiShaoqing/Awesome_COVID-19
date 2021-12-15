@@ -41,5 +41,6 @@
 - [Cross-disciplinary approaches to assist with nucleic acid testing for SARS-CoV-2](https://link.springer.com/article/10.1007%2Fs00253-021-11498-2)
 - [The epidemiology, pathophysiological mechanisms, and management toward COVID-19 patients with Type 2 diabetes: a systematic review](https://doi.org/10.1016/j.pcd.2021.08.014)
 - [Cultivating Resilience During the COVID-19 Pandemic: A Socioecological Perspective](https://www.annualreviews.org/doi/10.1146/annurev-psych-030221-031857)
+- [Mental Disorders and Emotional Competence Among Chinese Adolescents Before and During COVID-19 Pandemic: A Longitudinal Mediation Model](https://www.frontiersin.org/articles/10.3389/fpubh.2021.767004/full)
 
 ![](/img/ISLEwechat.jpg)

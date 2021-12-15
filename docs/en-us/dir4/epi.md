@@ -752,3 +752,5 @@
 - [COVID-19 and prepandemic all-cause inequalities in disability-adjusted life-years due to multiple deprivation: a Scottish Burden of Disease study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02637-4/fulltext)
 - [High-resolution epitope mapping and characterization of SARS-CoV-2 antibodies in large cohorts of subjects with COVID-19](https://www.nature.com/articles/s42003-021-02835-2)
 - [Short- and medium-term impacts of strict anti-contagion policies on non-COVID-19 mortality in China](https://www.nature.com/articles/s41562-021-01189-3)
+- [Transmission dynamics of the Delta variant of SARS-CoV-2 infections in South Korea](https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiab586/6448309)
+- [Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): An analysis of Diamond Princess data](https://www.sciencedirect.com/science/article/pii/S1201971221012133)
