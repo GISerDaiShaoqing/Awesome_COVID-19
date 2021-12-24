@@ -380,3 +380,5 @@
 - [新冠论坛嘉宾访谈|俄克拉荷马州立大学胡涛](https://mp.weixin.qq.com/s/hEfiQpPQ6Ij-OsMTx6cFgQ)
 - [孙耀庭：亲历实验室里的新冠之战丨我在西湖读博士](https://mp.weixin.qq.com/s/dM3OpeJhfp2WhHXbfUo2qQ)
 - [【Café速递】胡涛：海外博后申请经验分享与新冠疫情快速响应研究](https://mp.weixin.qq.com/s/myrcFBVtc2daSX3622POCw)
+- [Vaccines首届中文在线研讨会：新冠大流行下的公共健康 | MDPI 线上研讨会](https://mp.weixin.qq.com/s/tBMiPbXsdRmd3S5Z_dvtZg)
+- [狗熊会学术报告 | 周茂袁教授：COVID-19疫情的若干分析](https://mp.weixin.qq.com/s/yz_gnA26Pp9DhAm6gOhBzQ)
