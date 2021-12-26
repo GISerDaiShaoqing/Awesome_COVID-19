@@ -2523,3 +2523,7 @@
 - [Comprehensive occupational health services for healthcare workers in Zimbabwe during the SARS-CoV-2 pandemic](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260261)
 - [ACP｜COVID-19管控对全球地表NO2和O3浓度的影响](https://mp.weixin.qq.com/s/fJWEePx6lYmSOS98ohbiWg)
 - [Global impact of COVID-19 restrictions on the surface concentrations of nitrogen dioxide and ozone](https://acp.copernicus.org/articles/21/3555/2021/)
+- [整合全球新冠数据，华中大等开源联邦学习医学AI计算框架|Nature子刊](https://mp.weixin.qq.com/s/0c9BYXgHAEiIHH_RMRXuqQ)
+- [新冠封锁帮助减排，但地球温室气体不减反增！](https://mp.weixin.qq.com/s/mT4Jw4S3Jj_39s2YfoFjsw)
+- [Rigorous Policy-Making Amid COVID-19 and Beyond: Literature Review and Critical Insights](https://www.mdpi.com/1660-4601/18/23/12447)
+- [Impact of lockdowns and winter temperatures on natural gas consumption in Europe](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002250)

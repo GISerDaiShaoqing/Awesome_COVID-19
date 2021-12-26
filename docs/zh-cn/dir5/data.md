@@ -263,3 +263,4 @@
 - [korea-covid-19-remaining-vaccine-macro](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro)
 - [陶生策/范雄林/汪峰等合作构建一站式COVID-19特异性体液免疫数据库](https://mp.weixin.qq.com/s/3awZaf5VTgjWdQ8Ew6KMAg)
 - [Impact of data accuracy on the evaluation of COVID-19 mitigation policies](https://www.cambridge.org/core/journals/data-and-policy/article/impact-of-data-accuracy-on-the-evaluation-of-covid19-mitigation-policies/62C897B22505ECF86958C7758C185B9A)
+- [全新数据集和Benchmark来了！从大规模异构图、人名消歧到新冠图谱](https://mp.weixin.qq.com/s/c7CbKzOkEN4f70XqtO-WVg)

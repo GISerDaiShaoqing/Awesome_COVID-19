@@ -1432,3 +1432,7 @@
 - [Genome sequencing of SARS-CoV-2 reveals the prevalence of variant B 1.1. 7 in Egypt](https://doi.org/10.1016/j.meegid.2021.105191)
 - [A Single Vaccine Protects against SARS-CoV-2 and Influenza Virus in Mice](https://journals.asm.org/doi/abs/10.1128/JVI.01578-21)
 - [奇迹！新冠变异株发现不到2个月，已有5篇Nature发表！ | 谢晓亮、何大一等评估奥密克戎对抗体和疫苗的抗性](https://mp.weixin.qq.com/s/TJjjFk9CRJgCjZhTCRNOeg)
+- [清华成果 | 新型冠状病毒Omicron变异株刺突蛋白RBD与受体ACE2复合物晶体结构](https://mp.weixin.qq.com/s/6GaXQQ0gehZZ5VAICHVm5w)
+- [Nasal prevention of SARS-CoV-2 infection by intranasal influenza-based boost vaccination in mouse models](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00556-9/fulltext)
+- [Context-specific emergence and growth of the SARS-CoV-2 Delta variant](https://www.medrxiv.org/content/10.1101/2021.12.14.21267606v1)
+- [Rapid test to assess the escape of SARS-CoV-2 variants of concern](https://www.science.org/doi/10.1126/sciadv.abl7682)

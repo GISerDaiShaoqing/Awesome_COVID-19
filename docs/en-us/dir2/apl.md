@@ -2239,3 +2239,5 @@
 - [SARS-CoV-2感染后中和抗体反应的长期持续性和保护期的估计 | EClinicalMedicine12月刊精选](https://mp.weixin.qq.com/s/-Qt5-X91WGnmfLWZwPcrXA)
 - [像福尔摩斯一样追查病毒，疫情面前，只有主动出击，才能保护家人 | 未来科学大奖获奖者袁国勇纪录片](https://mp.weixin.qq.com/s/a9ma_90_x-4M6S4-xke3OA)
 - [默沙东新冠口服药物 Molnupiravir 获美国 FDA 紧急使用授权 | 科研圈日报](https://mp.weixin.qq.com/s/D7_h3mF-RP1lfw-buD4WMA)
+- [Trends精选：新冠大流行](https://mp.weixin.qq.com/s/eqmVjfWDT1SggUpKhtdt1Q)
+- [情报监测 | “COVID-19”科研动态监测每日快报（12月24日）【中国科讯】](https://mp.weixin.qq.com/s/IFg5sRbLTqtL6wCgG-WPKA)

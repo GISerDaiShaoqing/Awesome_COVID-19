@@ -2109,3 +2109,8 @@
 - [FDA批准首个新冠口服药，可降低88%住院或死亡风险](https://mp.weixin.qq.com/s/Hi8KCiiag9MrxogNUOdOJg)
 - [柳叶刀 | 3期试验显示单剂量Ad5-nCoV疫苗安全有效，对重症新冠的保护效力为91.7%](https://mp.weixin.qq.com/s/-hkE-vvHDlBJy7MVCwuq5Q)
 - [Final efficacy analysis, interim safety analysis, and immunogenicity of a single dose of recombinant novel coronavirus vaccine (adenovirus type 5 vector) in adults 18 years and older: an international, multicentre, randomised, double-blinded, placebo-controlled phase 3 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02753-7/fulltext)
+- [张文宏最新研究：第三针加强针提供对奥密克戎毒株的保护作用](https://mp.weixin.qq.com/s/Ft2TDia83-rwjDDYZ8A46A)
+- [Omicron variant showed lower neutralizing sensitivity than other SARS-CoV-2 variants to immune sera elicited by vaccines after boost ](https://www.tandfonline.com/doi/full/10.1080/22221751.2021.2022440)
+- [Science| Omicron变异对新冠疫苗的接种改变](https://mp.weixin.qq.com/s/-jih-knLo0qvcvwH4BZS3g)
+- [Sequential infections with rhinovirus and influenza modulate the replicative capacity of SARS-CoV-2 in the upper respiratory tract](https://doi.org/10.1080/22221751.2021.2021806)
+- [Managing waning vaccine protection against SARS-CoV-2 variants](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02841-5/fulltext)

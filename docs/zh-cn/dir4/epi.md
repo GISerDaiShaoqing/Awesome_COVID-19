@@ -762,3 +762,5 @@
 - [Modeling the second outbreak of COVID-19 with isolation and contact tracing](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2021294?viewType=html)
 - [An Imported Case and An Infected Close Contact of the Omicron Variant of SARS-CoV-2—Guangdong Province, China, December 13, 2021](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.265?utm_source=TrendMD&utm_medium=cpc&utm_campaign=China_CDC_Weekly_TrendMD_1)
 - [Simulation of future COVID-19 epidemic by vaccination coverage scenarios in Japan](https://jogh.org/documents/2021/jogh-11-05025.pdf)
+- [Estimating the impact of influenza on the epidemiological dynamics of SARS-CoV-2](https://peerj.com/articles/12566/)
+- [Meta-analysis of the severe acute respiratory syndrome coronavirus 2 serial intervals and the impact of parameter uncertainty on the coronavirus disease 2019 reproduction number](https://journals.sagepub.com/doi/10.1177/09622802211065159)
