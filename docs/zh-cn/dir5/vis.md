@@ -270,3 +270,6 @@
 - [Map Design for Public Health Emergencies: a Novel Conceptual Framework for Thematic Content Selection](https://doi.org/10.1007/s41651-021-00092-9)
 - [疫情改变了什么（一）：不是每个企业都能向死而生 | 数据图说](https://mp.weixin.qq.com/s/USdd3PWJldls-DDzSLY5Eg)
 - [奥密克戎来了，你打加强针了吗？ | 数据图说](https://mp.weixin.qq.com/s/3fR7KNRwHKXrd9Y-XB9oTQ)
+- [疫情改变了什么（二）：我为什么不是风口上的那只猪](https://mp.weixin.qq.com/s/DP2iQQUxeLr5RCsOX2VlyA)
+- [疫情改变了什么（三）：这届留学生虽然倒霉，还是背起行囊出发了](https://mp.weixin.qq.com/s/XwECTKaHk5-7Nvbvah9uEQ)
+- [疫情改变了什么（四）：绝处逢生的为什么是他们？](https://mp.weixin.qq.com/s/bJ3Vq5PVuD_8gL27s_5FNg)

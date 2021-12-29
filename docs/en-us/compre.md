@@ -2527,3 +2527,6 @@
 - [新冠封锁帮助减排，但地球温室气体不减反增！](https://mp.weixin.qq.com/s/mT4Jw4S3Jj_39s2YfoFjsw)
 - [Rigorous Policy-Making Amid COVID-19 and Beyond: Literature Review and Critical Insights](https://www.mdpi.com/1660-4601/18/23/12447)
 - [Impact of lockdowns and winter temperatures on natural gas consumption in Europe](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002250)
+- [Cell：信息疫情——公共卫生的新挑战](https://mp.weixin.qq.com/s/uU9GiLRC0OafL-0owH42Lg)
+- [Infodemics: A new challenge for public health](https://www.cell.com/cell/fulltext/S0092-8674(21)01286-1)
+- [Vaccinations, Mobility and COVID-19 Transmission](https://www.mdpi.com/1660-4601/19/1/97)

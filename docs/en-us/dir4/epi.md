@@ -764,3 +764,4 @@
 - [Simulation of future COVID-19 epidemic by vaccination coverage scenarios in Japan](https://jogh.org/documents/2021/jogh-11-05025.pdf)
 - [Estimating the impact of influenza on the epidemiological dynamics of SARS-CoV-2](https://peerj.com/articles/12566/)
 - [Meta-analysis of the severe acute respiratory syndrome coronavirus 2 serial intervals and the impact of parameter uncertainty on the coronavirus disease 2019 reproduction number](https://journals.sagepub.com/doi/10.1177/09622802211065159)
+- [Introduction and expansion of the SARS-CoV-2 B.1.1.7 variant and reinfections in Qatar: A nationally representative cohort study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003879)
