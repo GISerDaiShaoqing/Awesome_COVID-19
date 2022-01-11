@@ -273,3 +273,5 @@
 - [疫情改变了什么（二）：我为什么不是风口上的那只猪](https://mp.weixin.qq.com/s/DP2iQQUxeLr5RCsOX2VlyA)
 - [疫情改变了什么（三）：这届留学生虽然倒霉，还是背起行囊出发了](https://mp.weixin.qq.com/s/XwECTKaHk5-7Nvbvah9uEQ)
 - [疫情改变了什么（四）：绝处逢生的为什么是他们？](https://mp.weixin.qq.com/s/bJ3Vq5PVuD_8gL27s_5FNg)
+- [The BMJ | 新冠病毒传播途径和防护措施可视化交互信息图：帮助人们了解免受感染最佳方法](https://mp.weixin.qq.com/s/T2DKgglfE09mXDKaJpgyJg)
+- [Visualising SARS-CoV-2 transmission   routes and mitigations](https://www.bmj.com/content/375/bmj-2021-065312)

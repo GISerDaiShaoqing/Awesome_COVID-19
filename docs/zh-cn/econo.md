@@ -732,3 +732,5 @@
 - [The spatial econometrics of the coronavirus pandemic](https://link.springer.com/article/10.1007/s12076-020-00254-1)
 - [“后疫情”的那些事儿](https://mp.weixin.qq.com/s/2ZqvyMwI6DCXhgQu4AoWoQ)
 - [疫情防控下社区韧性模型构建及提升策略——以武汉市都府堤社区为例 | 上海城市规划](https://mp.weixin.qq.com/s/AfvuW1wp-4p2iqUWi9CE3g)
+- [厦大数据挖掘中心|中心研究成果：COVID-19大流行期间的新闻情绪对原油期货波动率的预测研究](https://mp.weixin.qq.com/s/hQez2iqjpbt0k-2FHa_YGg)
+- [Volatility forecasting of crude oil futures based on a genetic algorithm regularization online extreme learning machine with a forgetting factor: The role of news during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S0301420721001628)

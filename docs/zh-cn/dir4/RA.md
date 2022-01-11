@@ -92,3 +92,5 @@
 - [Risk factors associated with household transmission of SARS‐CoV‐2 in Negeri Sembilan, Malaysia](https://onlinelibrary.wiley.com/doi/10.1111/jpc.15821)
 - [International risk of SARS-CoV-2 Omicron variant importations originating in South Africa](https://www.medrxiv.org/content/10.1101/2021.12.07.21267410v1)
 - [Rate and Risk Factors for Severe/Critical Disease Among Fully Vaccinated Persons with Breakthrough SARS-CoV-2 Infection in a High-risk National Population](https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciab1023/6459161)
+- [Rate and Risk Factors for Severe/Critical Disease Among Fully Vaccinated Persons with Breakthrough SARS-CoV-2 Infection in a High-risk National Population](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab1023/6459161)
+- [Overlapping heat and COVID-19 risk in New York City](https://doi.org/10.1016/j.uclim.2021.101081)

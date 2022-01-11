@@ -361,3 +361,7 @@
 - [Rapid relaxation of pandemic restrictions after vaccine rollout favors growth of SARS-CoV-2 variants: A model-based analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258997)
 - [Early effectiveness of BNT162b2 Covid-19 vaccine in preventing SARS-CoV-2 infection in healthcare personnel in six Israeli hospitals (CoVEHPI)](https://doi.org/10.1016/j.vaccine.2021.11.092)
 - [The impact of multiple non-pharmaceutical interventions on controlling COVID-19 outbreak without lockdown in Hong Kong: A modelling study](https://doi.org/10.1016/j.lanwpc.2021.100343)
+- [Living in a pandemic: changes in mobility routines, social activity and adherence to COVID-19 protective measures](https://www.nature.com/articles/s41598-021-04139-1)
+- [Evaluating the impacts of non-pharmaceutical interventions on the transmission dynamics of COVID-19 in Canada based on mobile network](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261424)
+- [Modelling policy combinations of vaccination and transmission suppression of SARS-CoV-2 in Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S2468042721000889)
+- [The Effectiveness of Governmental Nonpharmaceutical Interventions Against COVID-19 On The Control of Seasonal Influenza Transmission: An Ecological Study](https://www.researchsquare.com/article/rs-1197712/v1)
