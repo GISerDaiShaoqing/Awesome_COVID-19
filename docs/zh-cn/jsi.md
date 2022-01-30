@@ -130,3 +130,5 @@
 - [Life：COVID-19精选文章合集 | MDPI 编辑荐读](https://mp.weixin.qq.com/s/8wIhLFbK0NeA1F2w8-UNXg)
 - [Viruses: 动物冠状病毒的致病机制及免疫 | MDPI特刊征稿](https://mp.weixin.qq.com/s/vBkrFcVl58frUFn3DC4AZQ)
 - [Journal of Clinical Medicine："流行病学和公共健康"专题 | MDPI 期刊推广](https://mp.weixin.qq.com/s/HSgzHJqm_fPKk7azU-__VQ)
+- [Journal of Fungi：使COVID-19复杂化的真菌感染：孢子纷至沓来 | MDPI 编辑荐读](https://mp.weixin.qq.com/s/lI1F6jkT0FavV7ti3F1lkw)
+- [TropicalMed：COVID-19精选文章合集│ MDPI 编辑荐读](https://mp.weixin.qq.com/s/gUZ1UTRYriWTbbuz_0MMXw)

@@ -171,3 +171,6 @@
 - [Distribution of SARS-CoV-2 Variants in a Large Integrated Health Care System — California, March–July 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7040a4.htm?s_cid=mm7040a4_w)
 - [疫情政务问答助手算法冠军开源](https://mp.weixin.qq.com/s/_G892NDJfS-M8C85HBEfbA)
 - [它是最成功的AI新冠应用？“希腊模式”，未来可期？](https://mp.weixin.qq.com/s/OeXdOh4_Xw0UQ1nzYrUykw)
+- [精准定位 科学布防 测绘地理信息助力天津亮剑“奥密克戎”](https://mp.weixin.qq.com/s/433wddUZBCLBSmGkMC3_sw)
+- [在疫情中即将迎来第三个春节，呼唤超大规模智慧城市的常态化核酸检测向着自动化、无人化、通道化的方向发展](https://mp.weixin.qq.com/s/RKbxvpKVD9Edy4cdfASc9g)
+- [天津战疫一线 京东科技在行动](https://mp.weixin.qq.com/s/IB8XH9-n7nNhLEhD_Hommw)

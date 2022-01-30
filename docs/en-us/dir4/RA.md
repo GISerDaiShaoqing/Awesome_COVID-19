@@ -94,3 +94,8 @@
 - [Rate and Risk Factors for Severe/Critical Disease Among Fully Vaccinated Persons with Breakthrough SARS-CoV-2 Infection in a High-risk National Population](https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciab1023/6459161)
 - [Rate and Risk Factors for Severe/Critical Disease Among Fully Vaccinated Persons with Breakthrough SARS-CoV-2 Infection in a High-risk National Population](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab1023/6459161)
 - [Overlapping heat and COVID-19 risk in New York City](https://doi.org/10.1016/j.uclim.2021.101081)
+- [RiskEstim: A Software Package to Quantify COVID-19 Importation Risk](https://www.frontiersin.org/articles/10.3389/fphy.2022.835992/full)
+- [The risk of SARS-CoV-2 Omicron variant emergence in low and middle-income countries (LMICs)](https://www.medrxiv.org/content/10.1101/2022.01.14.22268821v1)
+- [COVID-19 Importation Risk From Olympic Athletes Prior to the Tokyo 2020 Olympics](https://www.frontiersin.org/articles/10.3389/fphy.2021.757361/full)
+- [Early assessment of the clinical severity of the SARS-CoV-2 omicron variant in South Africa: a data linkage study](https://www.medrxiv.org/content/10.1101/2021.12.21.21268116v1)
+- [Community seroprevalence and risk factors for SARS-CoV-2 infection in different subpopulations in Vellore, India, and their implications for future prevention](https://doi.org/10.1016/j.ijid.2021.12.356)
