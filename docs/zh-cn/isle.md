@@ -42,5 +42,7 @@
 - [The epidemiology, pathophysiological mechanisms, and management toward COVID-19 patients with Type 2 diabetes: a systematic review](https://doi.org/10.1016/j.pcd.2021.08.014)
 - [Cultivating Resilience During the COVID-19 Pandemic: A Socioecological Perspective](https://www.annualreviews.org/doi/10.1146/annurev-psych-030221-031857)
 - [Mental Disorders and Emotional Competence Among Chinese Adolescents Before and During COVID-19 Pandemic: A Longitudinal Mediation Model](https://www.frontiersin.org/articles/10.3389/fpubh.2021.767004/full)
+- [Impacts of COVID-19 Lockdown on Food Ordering Patterns among Youths in China: The COVID-19 Impact on Lifestyle Change Survey](https://www.karger.com/Article/FullText/520160)
+- [Association between social capital and mental health among older people living with HIV: The Sichuan Older HIV-Infected Cohort Study (SOHICS)](https://www.researchsquare.com/article/rs-17335/v1)
 
 ![](/img/ISLEwechat.jpg)

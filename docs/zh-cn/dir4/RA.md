@@ -99,3 +99,5 @@
 - [COVID-19 Importation Risk From Olympic Athletes Prior to the Tokyo 2020 Olympics](https://www.frontiersin.org/articles/10.3389/fphy.2021.757361/full)
 - [Early assessment of the clinical severity of the SARS-CoV-2 omicron variant in South Africa: a data linkage study](https://www.medrxiv.org/content/10.1101/2021.12.21.21268116v1)
 - [Community seroprevalence and risk factors for SARS-CoV-2 infection in different subpopulations in Vellore, India, and their implications for future prevention](https://doi.org/10.1016/j.ijid.2021.12.356)
+- [Seek COVER: using a disease proxy to rapidly develop and validate a personalized risk calculator for COVID-19 outcomes in an international network](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01505-z)
+- [Risk of SARS-CoV-2 acquisition is associated with individual exposure but not community-level transmission](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiac029/6520538?login=true)

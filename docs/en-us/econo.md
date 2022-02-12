@@ -736,3 +736,5 @@
 - [Volatility forecasting of crude oil futures based on a genetic algorithm regularization online extreme learning machine with a forgetting factor: The role of news during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S0301420721001628)
 - [Heterogeneous price adjustments among Airbnb hosts amid COVID-19: Evidence from Barcelona](https://doi.org/10.1016/j.ijhm.2022.103169)
 - [Covid-19 impact on US housing markets: evidence from spatial regression models](https://www.tandfonline.com/doi/full/10.1080/17421772.2021.2018028)
+- [2021：疫情之下的中国车企 | 年终特辑⑬](https://mp.weixin.qq.com/s/q2iFZkqb1TVWAkn5nHNOwQ)
+- [哪些城市从疫情中复活更快？我们做了排序](https://mp.weixin.qq.com/s/9OK40YHZS0z33_oWZpqZFQ)
