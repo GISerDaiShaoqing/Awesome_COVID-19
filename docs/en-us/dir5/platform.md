@@ -174,3 +174,4 @@
 - [精准定位 科学布防 测绘地理信息助力天津亮剑“奥密克戎”](https://mp.weixin.qq.com/s/433wddUZBCLBSmGkMC3_sw)
 - [在疫情中即将迎来第三个春节，呼唤超大规模智慧城市的常态化核酸检测向着自动化、无人化、通道化的方向发展](https://mp.weixin.qq.com/s/RKbxvpKVD9Edy4cdfASc9g)
 - [天津战疫一线 京东科技在行动](https://mp.weixin.qq.com/s/IB8XH9-n7nNhLEhD_Hommw)
+- [从精准抗疫到主动预防，SuperMap GIS服务朝阳区数字战“疫”](https://mp.weixin.qq.com/s/rdynng-giYKIjSHSTiL_Lw)

@@ -819,3 +819,8 @@
 - [High SARS-CoV-2 seroprevalence but no severe course of COVID-19 disease among people on opioid agonist treatment in Zurich: a cross-sectional study](https://smw.ch/article/doi/smw.2022.w30122)
 - [Effect of the 2020/21 season influenza vaccine on SARS-CoV-2 infection in a cohort of Italian healthcare workers](https://doi.org/10.1016/j.vaccine.2022.02.013)
 - [Modeling Strategies for the Allocation of SARS-CoV-2 Vaccines in the United States](https://doi.org/10.1016/j.vaccine.2022.02.015)
+- [Real-time pandemic surveillance using hospital admissions and mobility data](https://www.pnas.org/content/119/7/e2111870119)
+- [Reproduction Numbers of SARS-CoV-2 Variants: A Systematic Review and Meta-analysis](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac137/6529536?login=true)
+- [Nationally representative SARS-CoV-2 antibody prevalence estimates after the first epidemic wave in Mexico](https://www.nature.com/articles/s41467-022-28232-9?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata)
+- [The Incidence of SARS-CoV-2 Reinfection in Persons With Naturally Acquired Immunity With and Without Subsequent Receipt of a Single Dose of BNT162b2 Vaccine A Retrospective Cohort Study](https://www.acpjournals.org/doi/10.7326/M21-4130)
+- [Increased household transmission and immune escape of the SARS-CoV-2 Omicron variant compared to the Delta variant: evidence from Norwegian contact tracing and vaccination data](https://www.researchsquare.com/article/rs-1370541/v1)

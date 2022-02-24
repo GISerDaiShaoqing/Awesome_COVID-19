@@ -101,3 +101,4 @@
 - [Community seroprevalence and risk factors for SARS-CoV-2 infection in different subpopulations in Vellore, India, and their implications for future prevention](https://doi.org/10.1016/j.ijid.2021.12.356)
 - [Seek COVER: using a disease proxy to rapidly develop and validate a personalized risk calculator for COVID-19 outcomes in an international network](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-022-01505-z)
 - [Risk of SARS-CoV-2 acquisition is associated with individual exposure but not community-level transmission](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiac029/6520538?login=true)
+- [Relative infectiousness of SARS-CoV-2 vaccine breakthrough infections, reinfections, and primary infections](https://www.nature.com/articles/s41467-022-28199-7)

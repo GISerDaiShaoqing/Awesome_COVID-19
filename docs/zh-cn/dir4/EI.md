@@ -381,3 +381,7 @@
 - [Investigating vaccine-induced immunity and its effect in mitigating SARS-CoV-2 epidemics in China](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02243-1)
 - [Harnessing Artificial Intelligence to assess the impact of nonpharmaceutical interventions on the second wave of the Coronavirus Disease 2019 pandemic across the world](https://www.nature.com/articles/s41598-021-04731-5)
 - [余宏杰课题组在新冠肺炎学校关闭和疫苗免疫效果领域取得系列进展](https://mp.weixin.qq.com/s/LItmPQz0jlMIadDleV90fQ)
+- [Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic](https://www.nature.com/articles/s43856-022-00075-x)
+- [Evaluating the impact of quarantine measures on COVID-19 spread](https://arxiv.org/abs/2202.05176)
+- [Model-Estimated Association Between Simulated US Elementary School–Related SARS-CoV-2 Transmission, Mitigation Interventions, and Vaccine Coverage Across Local Incidence Levels](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789005)
+- [Mitigating the SARS-CoV-2 Delta disease burden in Australia by non-pharmaceutical interventions and vaccinating children: a modelling analysis](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02241-3)
